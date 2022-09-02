@@ -20,6 +20,10 @@ To build the production version of the application just run:
 hugo -D
 ```
 
+### Adding documents
+
+All the pages were imported from Google Documents via [Docs to Markdown](https://workspace.google.com/u/0/marketplace/app/docs_to_markdown/700168918607) (see [documentation](https://github.com/evbacher/gd2md-html/wiki)).
+
 ### Internationalization
 
 In the future we may want to use some `rtl` support
