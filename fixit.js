@@ -2,9 +2,13 @@
 // to fix formatting problems with underscores (italics)
 // 
 // Update this line:
-FILE_TO_FIX = "./content/types-of-utilitarianism.md";
+FILE_TO_FIX = "./content/arguments-for-utilitarianism.md";
 //
 // run `node fix.js` in your terminal
+//
+// WARNING: this auto-fix can fail if, for example, 
+// some URL in the body of the text has an underscore
+// e.g. wikipedia.com/some_article_link
 //
 // DO NOT EDIT BELOW
 // =====================================================
