@@ -1,0 +1,17 @@
+baseURL = 'https://utilitarianism.net/'
+languageCode = 'en-us'
+title = 'Utilitarianism WIP'
+theme = ["ananke"]
+[markup]
+  [markup.tableOfContents]
+    ordered = true
+[languages]
+  [languages.en]
+    title = 'Utilitarianism.net'
+    weight = 1
+  [languages.jp]
+    title = 'Mon blogue'
+    weight = 2
+  [languages.ru]
+    title = 'Moi blog'
+    weight = 2

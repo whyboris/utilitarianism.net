@@ -1,0 +1,155 @@
+code {
+  /* so we can detect and convert `    ` to `>` and make it `blockquote` */
+  border: 10px solid red !important;
+}
+
+.article-body {
+  max-width: 850px; 
+  margin: 0 auto;
+  padding: 30px;
+  background: white;
+
+  font-family: Merriweather;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 16px;
+  letter-spacing: 0.03em;
+  line-height: 2em;
+  text-transform: none;
+  color: #222;
+
+  a {
+    color: #0b3b5b;
+  }
+}
+
+blockquote {
+  margin: 0;
+  padding-left: 30px;
+  border-left: 2px solid #c5c5c5;
+}
+
+.citation {
+  margin-bottom: 40px;
+
+  .how-to-cite {
+    font-size: 14px;
+    margin: 0 20px;
+  }
+}
+
+.footnote-number {
+  color: blue;
+  cursor: pointer;
+  display: inline;
+  font-size: 12px;
+  line-height: 20px;
+  display: inline-block;
+  transform: translateY(-8px);
+  background: #eee;
+  padding: 1px 3px;
+  border-radius: 3px;
+}
+
+.littlefoot-footnote__content > p {
+  font-size: 14px !important;
+  margin: 10px 0 !important;
+  line-height: 24px;
+}
+
+.littlefoot-footnote__wrapper {
+  min-width: 500px;
+}
+
+.littlefoot-footnote__content {
+  max-height: 500px !important;
+}
+
+/* 
+.littlefoot-footnote.is-scrollable::after {
+  opacity: 0.5 !important;
+}
+  
+.is-fully-scrolled::after {
+  opacity: 0 !important;
+} 
+*/
+
+strong {
+  font-weight: bold;
+}
+
+hr {
+  margin: 40px 0;
+}
+
+.callout {
+  background: linear-gradient(90deg,#1c567d 20%,#3380b4 100%);
+  padding: 20px 60px;
+  border-radius: 5px;
+  color: white;
+  margin-bottom: 30px;
+
+  p, h2 {
+    margin-bottom: 6px;
+  }
+  
+  .callout-button {
+    background: white;
+    border-radius: 0;
+    color: #0b3b5b;
+    cursor: pointer;
+    padding: 16px 30px;
+    margin: 10px  0 30px;
+    display: inline-block;
+    user-select: none;
+  }
+}
+
+/* ========================== TABLE OF CONTENTS ========================= */
+
+.table-of-contents {
+  background: #f4f4f4;
+  padding: 30px;
+
+  li::marker {
+    font-size:12px;
+    color: #33aaff;
+  }
+
+  span {
+    font-size: 20px;
+  }
+
+  a {
+    margin-left: 6px;
+    text-decoration: none;
+    color: black;
+    transition-property: color;
+    transition-duration: 350ms;
+    
+    &:hover {
+      color: #33aaff;
+      transition-duration: 50ms;
+    }
+  }
+
+  ol {
+    li {
+      ol {
+        padding-inline-start: 20px;
+
+        li {
+          font-size: 14px;
+        }
+
+        li::marker {
+          content: '○';
+          font-size: 10px;
+          position: absolute;
+          transform: translateY(2px);
+        }
+      }
+    }
+  }
+}
