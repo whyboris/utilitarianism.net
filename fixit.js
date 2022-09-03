@@ -2,7 +2,7 @@
 // to fix formatting problems with underscores (italics)
 // 
 // Update this line:
-FILE_TO_FIX = "./content/arguments-for-utilitarianism.md";
+FILE_TO_FIX = "./content/theories-of-wellbeing.md";
 //
 // run `node fix.js` in your terminal
 //
@@ -42,6 +42,10 @@ fs.readFile(FILE_TO_FIX, "utf8", (err, data) => {
         finish.push(temp[i].slice(0, -1));
         temp[i + 1] = " " + temp[i + 1];
         fixed = fixed + 1;
+
+        // preview of what is getting fixed
+        console.log('_' + temp[i] + '_');
+
       } else {
         finish.push(temp[i]);
       }
@@ -52,12 +56,8 @@ fs.readFile(FILE_TO_FIX, "utf8", (err, data) => {
 
       const final = finish.join("_");
 
-      fs.writeFile(FILE_TO_FIX, final, (err) => {
-        if (err) {
-          console.log("ERROR !!?!?!");
-          console.log(err);
-        }
-      });
+      writeFile(FILE_TO_FIX, final);
+
     } else {
       console.log("No problems found with _italics_");
     }
@@ -65,3 +65,14 @@ fs.readFile(FILE_TO_FIX, "utf8", (err, data) => {
     console.log("Not an even number of underscores '_' in the document!");
   }
 });
+
+function writeFile(path, fileString) {
+
+  fs.writeFile(path, fileString, (err) => {
+    if (err) {
+      console.log("ERROR !!?!?!");
+      console.log(err);
+    }
+  });
+
+}

@@ -30,9 +30,9 @@ Theories of Well-Being
 
 ## Introduction
 
-A core element of utilitarianism is [welfarism](https://www.utilitarianism.net/types-of-utilitarianism#welfarism)—the view that only the _welfare _(also called _well-being_) of individuals determines how good a particular state of the world is. While consequentialists claim that what is right is to promote the amount of good in the world, welfarists specifically equate the good to be promoted with well-being.
+A core element of utilitarianism is [welfarism](https://www.utilitarianism.net/types-of-utilitarianism#welfarism)—the view that only the _welfare_ (also called _well-being_) of individuals determines how good a particular state of the world is. While consequentialists claim that what is right is to promote the amount of good in the world, welfarists specifically equate the good to be promoted with well-being.
 
-The term [well-being](https://plato.stanford.edu/entries/well-being/) is used in philosophy to describe everything that is in itself good for someone—so-called _intrinsic_ or _basic _welfare goods—as opposed to things that are only _instrumentally _good. For example, happiness is intrinsically good for you; it directly increases your well-being. In contrast, money can buy many useful things and is thus instrumentally good for you, but does not directly, _in itself_,_ _contribute to your well-being. (We can similarly speak of things that are intrinsically bad for you, like misery, as “welfare bads”.)
+The term [well-being](https://plato.stanford.edu/entries/well-being/) is used in philosophy to describe everything that is in itself good for someone—so-called _intrinsic_ or _basic_ welfare goods—as opposed to things that are only _instrumentally_ good. For example, happiness is intrinsically good for you; it directly increases your well-being. In contrast, money can buy many useful things and is thus instrumentally good for you, but does not directly, _in itself_, contribute to your well-being. (We can similarly speak of things that are intrinsically bad for you, like misery, as “welfare bads”.)
 
 However, there is widespread disagreement about what constitutes well-being.[^2] What things are in themselves good for a person? The diverging answers to this question give rise to a variety of theories of well-being, each of which regards different things as the components of well-being. The three main theories of well-being are _hedonism_, _desire theories,_ and _objective list theories_.[^3] The differences between these theories are of primarily theoretical interest; they overlap sufficiently in practice that [the practical implications of utilitarianism](https://www.utilitarianism.net/acting-on-utilitarianism)** **are unlikely to depend upon which of these, if any, turns out to be the correct view.
 
@@ -44,25 +44,25 @@ The theory of well-being that is built into [classical utilitarianism](https://w
 
 > **Hedonism is the view that well-being consists in, and only in, the balance of positive over negative conscious experiences.**[^5]
 
-On this view, the only basic welfare goods are pleasant experiences such as enjoyment and contentment. Conversely, the only basic welfare bads are unpleasant experiences such as pain and misery. For the sake of readability, we refer to pleasant experiences as _happiness _and to unpleasant experiences as _suffering_. 
+On this view, the only basic welfare goods are pleasant experiences such as enjoyment and contentment. Conversely, the only basic welfare bads are unpleasant experiences such as pain and misery. For the sake of readability, we refer to pleasant experiences as _happiness_ and to unpleasant experiences as _suffering_. 
 
 The hedonistic conception of happiness is broad: It covers not only paradigmatic instances of sensory pleasure—such as the experiences of eating delicious food or having sex—but also other positively valenced experiences, such as the experiences of solving a problem, reading a novel, or helping a friend. Hedonists claim that all of these enjoyable experiences are intrinsically valuable. Other goods, such as wealth, health, justice, fairness, and equality, are also valued by hedonists, but they are valued instrumentally. That is, they are only valued to the extent that they increase happiness and reduce suffering.
 
 When hedonism is combined with [impartiality](https://www.utilitarianism.net/types-of-utilitarianism#impartiality), as in classical utilitarianism, hedonism’s scope becomes universal. This means that happiness and suffering are treated as equally important regardless of when, where, or by whom they are experienced. From this follows [sentiocentrism](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#the-expanding-moral-circle), the view that we should extend our moral concern to all _sentient beings_, including humans and most non-human animals, since only they can experience happiness or suffering. Alternatively, non-utilitarian views may accept hedonism but reject impartiality, thus restricting hedonism’s scope to claim that only the happiness of a specified group—or even a single individual[^6]—should “count” morally.
 
-The notion at the heart of hedonism, that happiness is good_ _and suffering is bad,_ _is widely accepted. The simple act of investigating our own conscious experiences through introspection appears to support this view: The goodness of happiness and the badness of suffering are self-evident to those who experience them.[^7] Importantly, happiness seems good (and suffering bad) not simply because they help (or hinder) us in our pursuit of _other _goods, but because experiencing them is good (or bad) in itself.
+The notion at the heart of hedonism, that happiness is good and suffering is bad, is widely accepted. The simple act of investigating our own conscious experiences through introspection appears to support this view: The goodness of happiness and the badness of suffering are self-evident to those who experience them.[^7] Importantly, happiness seems good (and suffering bad) not simply because they help (or hinder) us in our pursuit of _other_ goods, but because experiencing them is good (or bad) in itself.
 
 However, what makes hedonism controversial is that it implies that:
 
-1. _All _happiness is intrinsically good for you, and all suffering intrinsically bad.
-2. Happiness is the _only _basic welfare good, and suffering the only basic welfare bad.
+1. _All_ happiness is intrinsically good for you, and all suffering intrinsically bad.
+2. Happiness is the _only_ basic welfare good, and suffering the only basic welfare bad.
 
 Critics of hedonism dispute the first claim by pointing to instances of putative _evil pleasures_, which they claim are _not_ good for you. And they often reject the second claim by invoking Robert Nozick’s “experience machine” thought experiment to argue that there must be basic welfare goods other than happiness. We explain each objection, and how hedonists can respond, in turn.
 
 
 ### The “Evil Pleasures” Objection
 
-Critics often reject the hedonist claim that all happiness is good and all suffering bad. Consider a sadist who takes pleasure in another’s suffering. Hedonists can allow that sadism is typically _overall _harmful, as the sadist’s pleasure is unlikely to outweigh the suffering of their victim. This justifies disapproving of sadism in practice, especially with a [multi-level utilitarian view](https://www.utilitarianism.net/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism). Under that view, we might assume that finding the rare exceptions to this rule would have little practical value, whereas the risk of mistakenly permitting harmful sadism means that we would be better off establishing a general prohibition on sadistic acts.
+Critics often reject the hedonist claim that all happiness is good and all suffering bad. Consider a sadist who takes pleasure in another’s suffering. Hedonists can allow that sadism is typically _overall_ harmful, as the sadist’s pleasure is unlikely to outweigh the suffering of their victim. This justifies disapproving of sadism in practice, especially with a [multi-level utilitarian view](https://www.utilitarianism.net/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism). Under that view, we might assume that finding the rare exceptions to this rule would have little practical value, whereas the risk of mistakenly permitting harmful sadism means that we would be better off establishing a general prohibition on sadistic acts.
 
 Still, on a purely theoretical level, we may ask: what if there were _many_ sadists, collectively rejoicing in the suffering of a single tortured soul? If their aggregate pleasure outweighs the suffering of the one, then hedonistic utilitarianism implies that this is a good outcome, and the sadists act rightly in torturing their victim. But that seems wrong.
 
@@ -90,7 +90,7 @@ If happiness were the only basic welfare good, it would not matter whether our e
 
 One way that hedonists have tried to resist this argument is to question the reliability of the intuitions evoked by the thought experiment. In some cases, reluctance to plug into the machine might stem from pragmatic concerns that the technology may fail.[^14] Others might be moved by moral reasons to remain unplugged (for example, to help others in the real world), even if that means sacrificing their own happiness. Finally, many have argued that our responses to the thought experiment reflect [status quo bias](https://en.wikipedia.org/wiki/Status_quo_bias): if you tell people that they are _already_ in the experience machine, they are much more likely to want to _remain_ plugged in.[^15]
 
-Still, even after carefully bracketing these confounding factors, many will intuitively recoil from the suggestion that an experience machine could provide all that they truly want from life. Imagine that person A lives a happy and accomplished life in the real world, the subjective experience of which is somehow “recorded” and then “played back” to B (who is attached to an experience machine from birth), with just an extra jolt of mild pleasure at the end.[^16] Hedonism implies that B has the better life of the two, but many will find this implausible. Note that this_ _intuition cannot so easily be explained away as stemming from pragmatic or moral confounds, or mere status-quo bias.
+Still, even after carefully bracketing these confounding factors, many will intuitively recoil from the suggestion that an experience machine could provide all that they truly want from life. Imagine that person A lives a happy and accomplished life in the real world, the subjective experience of which is somehow “recorded” and then “played back” to B (who is attached to an experience machine from birth), with just an extra jolt of mild pleasure at the end.[^16] Hedonism implies that B has the better life of the two, but many will find this implausible. Note that this intuition cannot so easily be explained away as stemming from pragmatic or moral confounds, or mere status-quo bias.
 
 Roger Crisp advises hedonists to regard these intuitions as being _useful_ rather than _accurate_:
 
@@ -125,7 +125,7 @@ A parent who strongly desires a happy life for their child may be happier in sce
 
 As a result, desire theories can easily account for our reluctance to plug into the experience machine.[^19] The latter offers happiness based on false beliefs. But if we care about anything outside of our own heads (as most of us seem to), then the experience machine will leave those desires unfulfilled. A “real” life may contain less happiness, but more desire-fulfilment, and hence more well-being according to desire theories.
 
-Desire theories may be either _restricted _or _unrestricted_ in scope. Unrestricted theories count _all_ of your desires, without exception. On such a view, if you desire that our galaxy contains an even number of stars, then you are better off if this is true, and worse off if it is false. Restricted desire theories instead claim that only desires in some restricted class—perhaps those that are in some sense _about your own life_[^20]—affect your well-being. Under a restricted theory, something can seem good _to _you without being good _for _you, and this kind of desire would not be seen as meaningfully affecting your well-being.
+Desire theories may be either _restricted_ or _unrestricted_ in scope. Unrestricted theories count _all_ of your desires, without exception. On such a view, if you desire that our galaxy contains an even number of stars, then you are better off if this is true, and worse off if it is false. Restricted desire theories instead claim that only desires in some restricted class—perhaps those that are in some sense _about your own life_[^20]—affect your well-being. Under a restricted theory, something can seem good _to_ you without being good _for_ you, and this kind of desire would not be seen as meaningfully affecting your well-being.
 
 Desire theories may be motivated by the thought that what makes your life go well _for you_ must ultimately be _up to you_. Other theorists might support anti-paternalistic policies in practice, supposing that individuals are typically the best judges of what is good for them,[^21] but only desire theorists take an individual’s preferences about their own life to _determine_ what is good for them. By contrast, other theorists are more open to overruling an individual’s self-regarding preferences as misguided, if they fail to track what is objectively worthwhile.
 
@@ -146,14 +146,14 @@ To avoid this implication, one might decide to weigh present desires more heavil
 
 ## Objective List Theories
 
-Both hedonism and desire theories are _monist_. They suggest that well-being consists of a single thing—either happiness or desire satisfaction. In contrast, while _objective list theorists_ usually agree that happiness is an important component of well-being, they deny that it is the _only _such component; consequently, objective list theories are _pluralist_.[^30]
+Both hedonism and desire theories are _monist_. They suggest that well-being consists of a single thing—either happiness or desire satisfaction. In contrast, while _objective list theorists_ usually agree that happiness is an important component of well-being, they deny that it is the _only_ such component; consequently, objective list theories are _pluralist_.[^30]
 
 
 > **Objective list theories hold that there are a variety of objectively valuable things that contribute to one’s well-being.**
 
 In addition to happiness, these lists commonly include loving relationships, achievement, aesthetic appreciation, creativity, knowledge,[^31] and more. Crucially, these list items are understood as basic or intrinsic goods; they are valuable in themselves, not because of some instrumental benefit they provide. The list is called _objective_, because its items are purported to be good for you regardless of how you feel about them.  The same list applies to everyone, though different lives may end up realizing different goods from the list, so there may still be many different ways of living an excellent life.  On this view, some things (such as love and happiness) are inherently more worth caring about than others (such as counting blades of grass), and it makes your life go better if you attain more of the things that are truly good or worth pursuing.
 
-Objective list theories do not necessarily imply that people would benefit from being forced to pursue objective goods against their will. Autonomy could be a value on the list, and happiness certainly is; either of these is apt to be severely thwarted by such coercion. Still, one notable implication is that if you are able to _change _someone’s preferences from worthless to worthwhile goals, this is likely to improve their well-being (even if they are no more satisfied, subjectively speaking, than before).
+Objective list theories do not necessarily imply that people would benefit from being forced to pursue objective goods against their will. Autonomy could be a value on the list, and happiness certainly is; either of these is apt to be severely thwarted by such coercion. Still, one notable implication is that if you are able to _change_ someone’s preferences from worthless to worthwhile goals, this is likely to improve their well-being (even if they are no more satisfied, subjectively speaking, than before).
 
 Objective list theories are thus in a good position to explain which preference-changes are good or bad for you (a potential advantage over desire theories). And the inclusion of values beyond just happiness yields more plausible verdicts than hedonism in “experience machine” cases.[^32]
 
@@ -178,7 +178,7 @@ This concern might move us towards a _hybrid_ view, according to which well-bein
 
 ## Practical Implications of Theories of Well-Being
 
-Hedonism, desire theories, and objective list theories of well-being all largely overlap in practice. This is because we tend to desire things that are (typically regarded as) objectively worthwhile, and we tend to be happier when we achieve what we desire. We may also tend to reshape our desires based on our experiences of what feels good. As a result, defenders of any given theory of well-being might seek to debunk their competitors by suggesting that competing values (be they pleasure, desire-fulfilment, or objective goods) are of merely _instrumental _value, tending to produce, or otherwise go along with, what _really_ matters.
+Hedonism, desire theories, and objective list theories of well-being all largely overlap in practice. This is because we tend to desire things that are (typically regarded as) objectively worthwhile, and we tend to be happier when we achieve what we desire. We may also tend to reshape our desires based on our experiences of what feels good. As a result, defenders of any given theory of well-being might seek to debunk their competitors by suggesting that competing values (be they pleasure, desire-fulfilment, or objective goods) are of merely _instrumental_ value, tending to produce, or otherwise go along with, what _really_ matters.
 
 
 ![Theories of well-being illustration - Hedonism, Desire Theories, Objective List Theories](/img/theories-of-wellbeing.png)
@@ -191,7 +191,7 @@ And even if the theories _currently_ coincide in practice, their differences cou
 
 ## Conclusion
 
-While utilitarians agree about wanting to promote well-being, they may disagree about what _constitutes _well-being: what things are basic goods and bads for us. According to the most prominent theories of well-being, it may consist of either happiness, desire satisfaction, or a plurality of objective goods.
+While utilitarians agree about wanting to promote well-being, they may disagree about what _constitutes_ well-being: what things are basic goods and bads for us. According to the most prominent theories of well-being, it may consist of either happiness, desire satisfaction, or a plurality of objective goods.
 
 Hedonism, in holding happiness to be the only basic welfare good, achieves simplicity at the cost of counterintuitive implications in the experience machine thought experiment.
 
@@ -214,6 +214,7 @@ Chappell, R.Y. and Meissner, D. (2022). Theories of Well-Being. In R.Y. Chappell
 {{< button >}}
 
 
+
 ## Resources and Further Reading
 
 ### Introduction
@@ -232,7 +233,7 @@ Chappell, R.Y. and Meissner, D. (2022). Theories of Well-Being. In R.Y. Chappell
 ### Hedonism
 
 * Andrew Moore (2019). [Hedonism](https://plato.stanford.edu/entries/hedonism/ ). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
-* Ole Martin Moen (2016). [An Argument for Hedonism](https://doi.org/10.1007/s10790-015-9506-9). _The Journal of Value Inquiry_. 50:** **267–281 (2016).
+* Ole Martin Moen (2016). [An Argument for Hedonism](https://doi.org/10.1007/s10790-015-9506-9). _The Journal of Value Inquiry_. 50: 267–281 (2016).
 * Ivar Labukt (2012). [Hedonic Tone and the Heterogeneity of Pleasure](https://doi.org/10.1017/S0953820812000052). _Utilitas_. 24(2): 172–199.
 * Roger Crisp (2006). [Hedonism Reconsidered](https://doi.org/10.2307/40041013). _Philosophy and Phenomenological Research_. _73_(3): 619–645.
 * Fred Feldman (2004). _[Pleasure and the Good Life: Concerning the Nature Varieties and Plausibility of Hedonism](https://doi.org/10.1093/019926516X.001.0001)_. Oxford: Oxford University Press.
@@ -242,7 +243,7 @@ Chappell, R.Y. and Meissner, D. (2022). Theories of Well-Being. In R.Y. Chappell
 
 * Chris Heathwood (2015). _[Desire-fulfillment theory](https://web.archive.org/web/20210228121423/https://spot.colorado.edu/~heathwoo/DFT112714.pdf)_, in Guy Fletcher (ed.) _[The Routledge Handbook of Philosophy of Well-Being](https://doi.org/10.4324/9781315682266 )_. London: Routledge.
 * Peter Singer (2011). Chapter 1: About Ethics, in _[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics)_ (3rd edition). Cambridge: Cambridge University Press.
-* Chris Heathwood (2006). [Desire Satisfactionism and Hedonism](https://doi.org/10.1007/s11098-004-7817-y). _Philosophical Studies_. 128:** **539–563.
+* Chris Heathwood (2006). [Desire Satisfactionism and Hedonism](https://doi.org/10.1007/s11098-004-7817-y). _Philosophical Studies_. 128: 539–563.
 * Mark Murphy (2002). [The Simple Desire‐Fulfillment Theory](https://doi.org/10.1111/0029-4624.00153). _Noûs_. 33(2): 247–272.
 * Wlodek Rabinowicz & Jan Österberg (1996). [Value Based on Preferences: On Two Interpretations of Preference Utilitarianism](https://doi.org/10.1017/S0266267100003692). _Economics and Philosophy_. 12(1): 1–27.
 
@@ -266,7 +267,7 @@ Chappell, R.Y. and Meissner, D. (2022). Theories of Well-Being. In R.Y. Chappell
 
 [^3]:
      This tripartite classification is widespread in the literature—following Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_, Appendix I: ‘What Makes Someone’s Life Go Best’. It has, however, been criticized:
-    cf. Woodard, C. (2013). [Classifying theories of welfare](https://doi.org/10.1007/s11098-012-9978-4). _Philosophical Studies,_ 165:** **787–803.
+    cf. Woodard, C. (2013). [Classifying theories of welfare](https://doi.org/10.1007/s11098-012-9978-4). _Philosophical Studies,_ 165: 787–803.
 
 [^4]:
      For a more detailed account of and discussion of hedonism, see Moore, A. (2019). [Hedonism](https://plato.stanford.edu/entries/hedonism/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
