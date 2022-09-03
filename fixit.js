@@ -2,7 +2,7 @@
 // to fix formatting problems with underscores (italics)
 // 
 // Update this line:
-FILE_TO_FIX = "./content/utilitarianism-and-practical-ethics.md";
+FILE_TO_FIX = "./content/near-utilitarian-alternatives.md";
 // change to `false` to actually write the file
 PREVIEW = true
 // run `node fix.js` in your terminal
@@ -62,7 +62,7 @@ fs.readFile(FILE_TO_FIX, "utf8", (err, data) => {
       } else {
         console.log("Found", fixed, "likely incorrectly formatted italics!");
         console.log(" ")
-        console.log("To apply these changes, update the `PREVIEW` variable in this file!")
+        console.log("To apply these changes, update the `PREVIEW` variable in this file and run the script again!")
       }
 
     } else {
