@@ -168,7 +168,7 @@ _[Button with link to [Objections](https://www.utilitarianism.net/objections-to-
 
 * John Taurek (1977). [Should the numbers count?](https://www.jstor.org/stable/2264945). _Philosophy and Public Affairs_, 6(4): 293–316.
 * David Ross (1930). _The Right and the Good_. Clarendon Press.
-* Elizabeth Ashford (2003) [The Demandingness of Scanlon's Contractualism](https://doi.org/10.1086/342853). _Ethics _113(2): 273–302.
+* Elizabeth Ashford (2003) [The Demandingness of Scanlon's Contractualism](https://doi.org/10.1086/342853). _Ethics_ 113(2): 273–302.
 
 
 
