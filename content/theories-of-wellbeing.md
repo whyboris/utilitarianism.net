@@ -1,6 +1,6 @@
 ---
-title: "Wellbeing"
-date: 2022-09-02T20:02:39-04:00
+title: "Theories of Well-Being"
+date: 2022-08-08T10:10:56-04:00
 draft: false
 ---
 

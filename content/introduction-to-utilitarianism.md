@@ -1,6 +1,6 @@
 ---
-title: "Introduction"
-date: 2022-08-17T20:02:39-04:00
+title: "Introduction to Utilitarianism"
+date: 2022-08-08T10:10:59-04:00
 draft: false
 ---
 

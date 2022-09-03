@@ -1,6 +1,6 @@
 ---
-title: "Practical Ethics"
-date: 2022-01-03T13:02:39-04:00
+title: "Utilitarianism and Practical Ethics"
+date: 2022-08-08T10:10:54-04:00
 draft: false
 ---
 
@@ -15,17 +15,12 @@ Conversion time: 0.825 seconds.
 * Source doc: 6. Utilitarianism and Practical Ethics
 ----->
 
-
-
 Utilitarianism and Practical Ethics
-
-
-{{< TOC >}}
-
 
 > Are we to extend our concern to all the beings capable of pleasure and pain whose feelings are affected by our conduct? or are we to confine our view to human happiness? The former view is the one adopted by (...) the Utilitarian school (...) it seems arbitrary and unreasonable to exclude from the end, as so conceived, any pleasure of any sentient being.
 > \- [Henry Sidgwick](https://www.utilitarianism.net/utilitarian-thinker/henry-sidgwick)[^1]
 
+{{< TOC >}}
 
 ## Introduction 
 

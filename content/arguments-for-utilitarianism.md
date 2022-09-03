@@ -1,6 +1,6 @@
 ---
-title: "Arguments"
-date: 2022-09-01T20:04:39-04:00
+title: "Arguments for Utilitarianism"
+date: 2022-08-08T10:10:57-04:00
 draft: false
 ---
 

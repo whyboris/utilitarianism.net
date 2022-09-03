@@ -1,6 +1,6 @@
 ---
-title: "Types"
-date: 2022-09-01T20:02:39-04:00
+title: "Elements and Types of Utilitarianism"
+date: 2022-08-08T10:10:58-04:00
 draft: false
 ---
 
