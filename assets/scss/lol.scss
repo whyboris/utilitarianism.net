@@ -3,6 +3,20 @@ code {
   border: 10px solid red !important;
 }
 
+.temp-navigation-hack {
+  border: 1px solid #ccc;
+  padding: 10px;
+
+  a {
+    display: block;
+    padding-top: 16px;
+    color: #0b3b5b;
+
+    &:hover {
+      color: #33aaff;
+    }
+  }
+}
 
 table {
   border-spacing: 0px;

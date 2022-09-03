@@ -1,0 +1,18 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
+    &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+  </a>
+    <div>{{ partial "social-follow.html" . }}</div>
+  </div>
+
+
+  <div class="pa3 pa4-ns w-100 w-70-ns center">
+    <div class="temp-navigation-hack">
+      {{ range .Site.Pages }}
+      <a href="{{ .Permalink }}"> {{ .Title }} </a>
+      {{ end }}
+    </div>
+  </div>
+
+</footer>
