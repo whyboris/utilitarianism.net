@@ -5,6 +5,9 @@ theme = ["ananke"]
 [markup]
   [markup.tableOfContents]
     ordered = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+        unsafe = true
 [languages]
   [languages.en]
     title = 'Utilitarianism.net'

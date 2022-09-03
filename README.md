@@ -43,3 +43,4 @@ In the future we may want to use some `rtl` support
 
 #### Notes
 We have a shortcode that will generate the table of contents: `{{< TOC >}}`
+We enabled `unsafe` mode for _Markdown_ to allow [subscript](https://discourse.gohugo.io/t/footnote-sup-tag-not-working-inside-markdownify-help/25426)
