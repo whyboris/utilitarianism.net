@@ -28,7 +28,7 @@ After adding a document it will likely need some manual fixes:
 - Update the metadata section (first few lines, see other files for reference)
 - It will likely have formatting errors with _italics_ (_underscores_), so open the `fixit.js` file, update the `FILE_TO_FIX` string, and execute: `node fixit.js`
 - Add the `{{< TOC >}}` to automatically generate the _Table of Contents_
-- Update the `    ` (four spaces - code block) to be `> ` (quote)
+- Update the ` ` (four spaces / code block) to be `>` (quote)
 - Update the "how to cite" section with shortcodes `{{< cite-start >}}` and `{{< cite-end >}}`
 - Add the _Action_ button shortcode `{{< button >}}`
 - If a footnote was multi-paragraph, add the indentation so the text stays with the footnote (rather than being rendered to the page at the bottom)
