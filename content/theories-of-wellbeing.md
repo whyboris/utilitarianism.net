@@ -1,31 +1,14 @@
 ---
-title: "Wellbeing"
-date: 2022-09-02T20:02:39-04:00
+title: "Theories of Well-Being"
+date: 2022-08-08T10:10:56-04:00
 draft: false
 ---
 
-<!-----
-
-Conversion time: 3.527 seconds.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Sat Sep 03 2022 10:57:01 GMT-0700 (PDT)
-* Source doc: 4. Theories of Well-Being
-
------>
-
-Theories of Well-Being
+> _“To what shall the character of utility be ascribed, if not to that which is a source of pleasure?”_ 
+> \- [Jeremy Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^1]
 
 
 {{< TOC >}}
-
-
-
-
-> _“To what shall the character of utility be ascribed, if not to that which is a source of pleasure?”_ 
-> \- [Jeremy Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^1]
 
 
 ## Introduction
@@ -206,9 +189,7 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 _[Button with link to ‘[Population Ethics](https://www.utilitarianism.net/population-ethics)’ chapter]_
 
 
-{{< cite-start >}} 
-Chappell, R.Y. and Meissner, D. (2022). Theories of Well-Being. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. 
-{{< cite-end >}}
+{{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 
 
 {{< button >}}

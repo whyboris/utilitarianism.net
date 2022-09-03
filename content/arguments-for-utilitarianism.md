@@ -1,27 +1,8 @@
 ---
-title: "Arguments"
-date: 2022-09-01T20:04:39-04:00
+title: "Arguments for Utilitarianism"
+date: 2022-08-08T10:10:57-04:00
 draft: false
 ---
-
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 1.027 seconds.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Fri Sep 02 2022 14:32:32 GMT-0700 (PDT)
-* Source doc: 3. Arguments for Utilitarianism
-
-WARNING:
-You have 3 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-
-Arguments for Utilitarianism 
 
 {{< TOC >}}
 
@@ -174,8 +155,7 @@ The next chapter discusses theories of well-being, or what counts as being good 
 _[Button with link to [Theories of Well-Being](https://www.utilitarianism.net/theories-of-wellbeing) chapter]_
 
 
-{{< cite-start >}}
-Chappell, R.Y. and Meissner, D. (2022). Arguments for Utilitarianism. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. {{< cite-end >}}
+{{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 
 {{< button >}}
 

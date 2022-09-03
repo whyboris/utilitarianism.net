@@ -1,23 +1,8 @@
 ---
-title: "Population"
-date: 2022-09-03T10:01:19-04:00
+title: "Population Ethics"
+date: 2022-08-08T10:10:55-04:00
 draft: false
 ---
-
-<!-----
-
-Conversion time: 4.392 seconds.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Sat Sep 03 2022 11:53:50 GMT-0700 (PDT)
-* Source doc: 5. Population Ethics
-
------>
-
-
-Population Ethics
 
 {{< TOC >}}
 
@@ -317,10 +302,7 @@ _[Button with link to ‘[Utilitarianism and Practical Ethics](https://www.utili
 
 
 
-{{< cite-start >}}
-Chappell, R.Y., Meissner, D., and MacAskill, W. (2022). Population Ethics. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. 
-{{< cite-end >}}
-
+{{< how-to-cite authors="Chappell, R.Y., Meissner, D., and MacAskill, W." >}}
 
 {{< button >}}
 

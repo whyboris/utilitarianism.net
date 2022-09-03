@@ -1,19 +1,8 @@
 ---
-title: "Introduction"
-date: 2022-08-17T20:02:39-04:00
+title: "Introduction to Utilitarianism"
+date: 2022-08-08T10:10:59-04:00
 draft: false
 ---
-
-<!-----
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Thu Aug 18 2022 17:03:02 GMT-0700 (PDT)
-* Source doc: Copy of 1. Introduction to Utilitarianism
-
------>
-
 
 Introduction to Utilitarianism
 
@@ -196,8 +185,7 @@ _[Button with link to ‘[Elements and Types of Utilitarianism](https://www.util
 
 ---
 
-{{< cite-start >}}
-MacAskill, W., Meissner, D., and Chappell, R.Y. (2022). Introduction to Utilitarianism. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. {{< cite-end >}}
+{{< how-to-cite >}}
 
 
 {{< button >}}

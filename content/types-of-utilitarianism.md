@@ -1,18 +1,8 @@
 ---
-title: "Types"
-date: 2022-09-01T20:02:39-04:00
+title: "Elements and Types of Utilitarianism"
+date: 2022-08-08T10:10:58-04:00
 draft: false
 ---
-
-<!-----
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Fri Sep 02 2022 13:20:07 GMT-0700 (PDT)
-* Source doc: 2. Elements and Types of Utilitarianism
------>
-
-Elements and Types of Utilitarianism
 
 {{< TOC >}}
 
@@ -232,8 +222,8 @@ There are several further distinctions between utilitarian theories: we can dist
 The next chapter discusses arguments for utilitarianism, and for consequentialism more broadly.
 
 _[Button with link to [arguments](https://www.utilitarianism.net/arguments-for-utilitarianism) chapter]_
-{{< cite-start >}}
-MacAskill, W., Meissner, D., and Chappell, R.Y. (2022). Elements and Types of Utilitarianism. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. {{< cite-end >}}
+
+{{< how-to-cite >}}
 
 {{< button >}}
 ## Resources and Further Reading
