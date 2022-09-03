@@ -35,7 +35,7 @@ Some radical environmentalists may take environmental values to outweigh the wel
 
 ### Aesthetic Value
 
-Welfarism may be challenged in a different way by considering our attitudes towards objects of beauty. Consider the awe you feel at observing a magnificent waterfall or pondering the immensity of the universe. It seems _fitting_, or genuinely appropriate, to directly appreciate these things and other objects of beauty—great art, music, natural wonders, etc. “Direct appreciation” here is a form of non-instrumental valuing, recognizably distinct from merely regarding something as instrumentally _useful_. But such non-instrumental valu_ing_ can only be truly warranted by objects that are non-instrumentally valu_able_.
+Welfarism may be challenged in a different way by considering our attitudes towards objects of beauty. Consider the awe you feel at observing a magnificent waterfall or pondering the immensity of the universe. It seems _fitting_, or genuinely appropriate, to directly appreciate these things and other objects of beauty—great art, music, natural wonders, etc. “Direct appreciation” here is a form of non-instrumental valuing, recognizably distinct from merely regarding something as instrumentally _useful_. But such non-instrumental valu<em>ing</em> can only be truly warranted by objects that are non-instrumentally valu<em>able</em>.
 
 Welfarists thus seem to face a dilemma: either deny that such eminently appropriate-seeming responses are _in fact_ appropriate or grant that things besides welfare have intrinsic value.
 
