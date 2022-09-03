@@ -4,17 +4,6 @@ date: 2022-08-08T10:10:59-04:00
 draft: false
 ---
 
-<!-----
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Thu Aug 18 2022 17:03:02 GMT-0700 (PDT)
-* Source doc: Copy of 1. Introduction to Utilitarianism
-
------>
-
-
 Introduction to Utilitarianism
 
 > _"The utilitarian doctrine is, that happiness is desirable, and the only thing desirable, as an end; all other things being only desirable as means to that end."_

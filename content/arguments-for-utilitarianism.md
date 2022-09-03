@@ -4,25 +4,6 @@ date: 2022-08-08T10:10:57-04:00
 draft: false
 ---
 
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 1.027 seconds.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Fri Sep 02 2022 14:32:32 GMT-0700 (PDT)
-* Source doc: 3. Arguments for Utilitarianism
-
-WARNING:
-You have 3 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-
-Arguments for Utilitarianism 
-
 {{< TOC >}}
 
 ## Introduction: Moral Methodology & Reflective Equilibrium

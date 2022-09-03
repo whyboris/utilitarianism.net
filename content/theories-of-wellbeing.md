@@ -4,28 +4,11 @@ date: 2022-08-08T10:10:56-04:00
 draft: false
 ---
 
-<!-----
-
-Conversion time: 3.527 seconds.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Sat Sep 03 2022 10:57:01 GMT-0700 (PDT)
-* Source doc: 4. Theories of Well-Being
-
------>
-
-Theories of Well-Being
+> _“To what shall the character of utility be ascribed, if not to that which is a source of pleasure?”_ 
+> \- [Jeremy Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^1]
 
 
 {{< TOC >}}
-
-
-
-
-> _“To what shall the character of utility be ascribed, if not to that which is a source of pleasure?”_ 
-> \- [Jeremy Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^1]
 
 
 ## Introduction

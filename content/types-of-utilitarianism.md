@@ -4,16 +4,6 @@ date: 2022-08-08T10:10:58-04:00
 draft: false
 ---
 
-<!-----
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Fri Sep 02 2022 13:20:07 GMT-0700 (PDT)
-* Source doc: 2. Elements and Types of Utilitarianism
------>
-
-Elements and Types of Utilitarianism
-
 {{< TOC >}}
 
 ## Introduction 
