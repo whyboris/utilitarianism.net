@@ -330,12 +330,12 @@ Chappell, R.Y., Meissner, D., and MacAskill, W. (2022). Population Ethics. In R.
 
 ### Introduction to Population Ethics
 
-* Hilary Greaves (2017).[ Population Axiology](https://onlinelibrary.wiley.com/doi/abs/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
+* Hilary Greaves (2017). [Population Axiology](https://onlinelibrary.wiley.com/doi/abs/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
 
 
 ### General Discussions of Population Ethics
 
-* Gustaf Arrhenius (2000).[ Future Generations: A Challenge for Moral Theory](http://www.diva-portal.org/smash/get/diva2:170236/FULLTEXT01.pdf). PhD Dissertation, Uppsala University.
+* Gustaf Arrhenius (2000). [Future Generations: A Challenge for Moral Theory](http://www.diva-portal.org/smash/get/diva2:170236/FULLTEXT01.pdf). PhD Dissertation, Uppsala University.
 * Richard Yetter Chappell (2021). Section 7: Population Ethics, _[Parfit's Ethics](https://philpapers.org/rec/CHAPE-5)_. Cambridge: Cambridge University Press.
 * Derek Parfit (1984). Part Four: Future Generations, _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Clarendon Press.
 
@@ -343,10 +343,10 @@ Chappell, R.Y., Meissner, D., and MacAskill, W. (2022). Population Ethics. In R.
 ### The Total View and Repugnant Conclusion
 
 * Gustaf Arrhenius, Jesper Ryberg, & Torbjörn Tännsjö (2017). [The Repugnant Conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
-* Johan E. Gustafsson (forthcoming).[ Our Intuitive Grasp of the Repugnant Conclusion](http://johanegustafsson.net/papers/our-intuitive-grasp-of-the-repugnant-conclusion.pdf). In Krister Bykvist and Timothy Campbell (eds.), _The Oxford Handbook of Population Ethics_. Oxford: Oxford University Press.
+* Johan E. Gustafsson (forthcoming). [Our Intuitive Grasp of the Repugnant Conclusion](http://johanegustafsson.net/papers/our-intuitive-grasp-of-the-repugnant-conclusion.pdf). In Krister Bykvist and Timothy Campbell (eds.), _The Oxford Handbook of Population Ethics_. Oxford: Oxford University Press.
 * Spears, D. & Budolfson, M. (2021). [Repugnant conclusions](https://doi.org/10.1007/s00355-021-01321-2). _Social Choice and Welfare_. 28.
 * Michael Huemer (2008). [In Defence of Repugnance](https://doi.org/10.1093/mind/fzn079). _Mind_. 117(468): 899–933.
-* Torbjörn Tännsjö (2002).[ Why We Ought to Accept the Repugnant Conclusion](https://www.cambridge.org/core/journals/utilitas/article/why-we-ought-to-accept-the-repugnant-conclusion/F60DB3A1B9CA4460650EA5DF9AA0540D). _Utilitas_. 14(3): 339–359.
+* Torbjörn Tännsjö (2002). [Why We Ought to Accept the Repugnant Conclusion](https://www.cambridge.org/core/journals/utilitas/article/why-we-ought-to-accept-the-repugnant-conclusion/F60DB3A1B9CA4460650EA5DF9AA0540D). _Utilitas_. 14(3): 339–359.
 
 
 ### Variable Value Theories 
@@ -385,7 +385,7 @@ Chappell, R.Y., Meissner, D., and MacAskill, W. (2022). Population Ethics. In R.
 
 ### Practical Implications of Population Ethics
 
-* Toby Ord (2020).[ The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing.
+* Toby Ord (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing.
 * David Althaus & Lukas Gloor (2018). [Reducing Risks of Astronomical Suffering: a Neglected Priority](https://longtermrisk.org/reducing-risks-of-astronomical-suffering-a-neglected-priority/). _Center on Long-Term Risk_.
 * Nick Beckstead (2013). [On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM). PhD Dissertation, Rutgers University.
 
