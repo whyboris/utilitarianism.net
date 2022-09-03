@@ -189,9 +189,7 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 _[Button with link to ‘[Population Ethics](https://www.utilitarianism.net/population-ethics)’ chapter]_
 
 
-{{< cite-start >}} 
-Chappell, R.Y. and Meissner, D. (2022). Theories of Well-Being. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. 
-{{< cite-end >}}
+{{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 
 
 {{< button >}}

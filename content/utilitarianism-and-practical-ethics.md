@@ -133,11 +133,7 @@ The next chapter discusses important rival theories that may overlap significant
 _[Button with link to ‘[Near-Utilitarian Alternatives](https://www.utilitarianism.net/near-utilitarian-alternatives)’ chapter]_
 
 
-## How to cite this page
-
-{{< cite-start >}}
-MacAskill, W. and Meissner, D. (2022). Utilitarianism and Practical Ethics. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_.
-{{< cite-end >}}
+{{< how-to-cite authors="MacAskill, W. and Meissner, D." >}}
 
 
 {{< button >}}

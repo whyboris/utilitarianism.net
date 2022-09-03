@@ -302,10 +302,7 @@ _[Button with link to ‘[Utilitarianism and Practical Ethics](https://www.utili
 
 
 
-{{< cite-start >}}
-Chappell, R.Y., Meissner, D., and MacAskill, W. (2022). Population Ethics. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. 
-{{< cite-end >}}
-
+{{< how-to-cite authors="Chappell, R.Y., Meissner, D., and MacAskill, W." >}}
 
 {{< button >}}
 

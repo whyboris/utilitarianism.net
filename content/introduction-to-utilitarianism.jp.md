@@ -185,8 +185,7 @@ _[Button with link to ‘[Elements and Types of Utilitarianism](https://www.util
 
 ---
 
-{{< cite-start >}}
-MacAskill, W., Meissner, D., and Chappell, R.Y. (2022). Introduction to Utilitarianism. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. {{< cite-end >}}
+{{< how-to-cite >}}
 
 
 {{< button >}}

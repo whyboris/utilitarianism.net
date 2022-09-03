@@ -155,8 +155,7 @@ The next chapter discusses theories of well-being, or what counts as being good 
 _[Button with link to [Theories of Well-Being](https://www.utilitarianism.net/theories-of-wellbeing) chapter]_
 
 
-{{< cite-start >}}
-Chappell, R.Y. and Meissner, D. (2022). Arguments for Utilitarianism. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. {{< cite-end >}}
+{{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 
 {{< button >}}
 

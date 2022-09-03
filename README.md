@@ -30,7 +30,8 @@ After adding a document it will likely need some manual fixes:
     - it may be best to temporarily remove the _Resources and Further Reading_ and _Footnotes_ during this operation
 - Add the `{{< TOC >}}` to automatically generate the _Table of Contents_
 - Update the ` ` (four spaces / code block) to be `>` (quote)
-- Update the "how to cite" section with shortcodes `{{< cite-start >}}` and `{{< cite-end >}}`
+- Remove the "## How to cite" heading and replace the entire citation with `{{< how-to-cite >}}`
+    - if the authors are not "MacAskill, W., Meissner, D., and Chappell, R.Y." then do `{{< how-to-cite authors="your authors" >}}`
 - Add the _Action_ button shortcode `{{< button >}}`
 - If a footnote was multi-paragraph, add the indentation so the text stays with the footnote (rather than being rendered to the page at the bottom)
 - Look over the document for any other manual fixes

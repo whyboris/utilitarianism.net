@@ -222,8 +222,8 @@ There are several further distinctions between utilitarian theories: we can dist
 The next chapter discusses arguments for utilitarianism, and for consequentialism more broadly.
 
 _[Button with link to [arguments](https://www.utilitarianism.net/arguments-for-utilitarianism) chapter]_
-{{< cite-start >}}
-MacAskill, W., Meissner, D., and Chappell, R.Y. (2022). Elements and Types of Utilitarianism. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. {{< cite-end >}}
+
+{{< how-to-cite >}}
 
 {{< button >}}
 ## Resources and Further Reading
