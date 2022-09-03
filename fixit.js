@@ -2,7 +2,7 @@
 // to fix formatting problems with underscores (italics)
 // 
 // Update this line:
-FILE_TO_FIX = "./content/theories-of-wellbeing.md";
+FILE_TO_FIX = "./content/population-ethics.md";
 //
 // run `node fix.js` in your terminal
 //
@@ -44,7 +44,7 @@ fs.readFile(FILE_TO_FIX, "utf8", (err, data) => {
         fixed = fixed + 1;
 
         // preview of what is getting fixed
-        console.log('_' + temp[i] + '_');
+        console.log('_' + temp[i].slice(0, -1) + '_');
 
       } else {
         finish.push(temp[i]);

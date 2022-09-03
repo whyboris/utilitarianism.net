@@ -3,6 +3,27 @@ code {
   border: 10px solid red !important;
 }
 
+
+table {
+  border-spacing: 0px;
+  border:0;
+  width: 100%;
+  font-family: sans-serif;
+  font-size: 14px;
+  
+  tr td, table tr th {
+    border:1px solid #ccc;
+  }
+
+  td, th {
+    padding: 12px;
+  }
+
+  th {
+    border: 1px solid #aaa;
+  }
+}
+
 .article-body {
   max-width: 850px; 
   margin: 0 auto;

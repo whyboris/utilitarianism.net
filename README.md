@@ -27,6 +27,7 @@ All the pages were imported from Google Documents via [Docs to Markdown](https:/
 After adding a document it will likely need some manual fixes:
 - Update the metadata section (first few lines, see other files for reference)
 - It will likely have formatting errors with _italics_ (_underscores_), so open the `fixit.js` file, update the `FILE_TO_FIX` string, and execute: `node fixit.js`
+    - it may be best to temporarily remove the _Resources and Further Reading_ and _Footnotes_ during this operation
 - Add the `{{< TOC >}}` to automatically generate the _Table of Contents_
 - Update the ` ` (four spaces / code block) to be `>` (quote)
 - Update the "how to cite" section with shortcodes `{{< cite-start >}}` and `{{< cite-end >}}`
@@ -43,3 +44,4 @@ In the future we may want to use some `rtl` support
 
 #### Notes
 We have a shortcode that will generate the table of contents: `{{< TOC >}}`
+We enabled `unsafe` mode for _Markdown_ to allow [subscript](https://discourse.gohugo.io/t/footnote-sup-tag-not-working-inside-markdownify-help/25426)
