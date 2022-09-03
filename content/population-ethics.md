@@ -281,9 +281,9 @@ We should recognize that A is better. But to do that, we must reject the strict 
 We may also raise more theoretical objections to such a view. For instance, Ord (2020) notes that person-affecting views typically fall afoul of one or more of the following problems:[^55]
 
 
-(i) having moral rankings change when “irrelevant alternatives” are introduced (such as preferring A to B when they are the only choices, but then B over A when an inferior option C is also available);
-(ii) having cyclical orderings of value (saying that A is better than B, B is better than C, and C is better than A); 
-(iii) saying that all outcomes that differ even slightly in how many people exist are incomparable.
+1. having moral rankings change when “irrelevant alternatives” are introduced (such as preferring A to B when they are the only choices, but then B over A when an inferior option C is also available);
+2. having cyclical orderings of value (saying that A is better than B, B is better than C, and C is better than A); 
+3. saying that all outcomes that differ even slightly in how many people exist are incomparable.
 
 For all these reasons, utilitarians are largely united in rejecting person-affecting views, even as they continue to debate which impersonal theory provides the best way forward.
 

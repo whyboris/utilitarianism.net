@@ -10,7 +10,7 @@
   <div class="pa3 pa4-ns w-100 w-70-ns center">
     <div class="temp-navigation-hack">
       {{ range .Site.Pages }}
-      <a href="{{ .Permalink }}"> {{ .Title }} </a>
+      <a href="{{ .RelPermalink }}"> {{ .Title }} </a>
       {{ end }}
     </div>
   </div>
