@@ -30,9 +30,9 @@ Population ethics is not just an academic exercise. It is relevant to many impor
 This article will survey five major approaches to population ethics:
 
 1. The _total view_ that evaluates populations according to the total amount of wellbeing that they contain.
-2. The _average_ _view_ that instead focuses on the _average_ wellbeing level in the population.
+2. The _average view_ that instead focuses on the _average_ wellbeing level in the population.
 3. _Variable value theories_ that take both factors into account, approximating the total view for smaller populations and the average view for larger populations.
-4. _Critical level _(and _critical_ _range_) _theories_ that tweak the total view to only count positive wellbeing above a critical baseline level (or range).
+4. _Critical level_ (and _critical range_) _theories_ that tweak the total view to only count positive wellbeing above a critical baseline level (or range).
 5. _Person-affecting views_ that deny we have (non-instrumental) reason to add happy lives to the world.[^2]
 
 ## The Total View 
@@ -90,7 +90,7 @@ Our intuitions about these cases may be unreliable or based on subtle misunderst
 
 First, the repugnant conclusion involves cases with extremely large numbers of individuals with low but positive welfare. Many philosophers argue that this is a situation where we should expect our intuitions to be unreliable: human brains struggle to intuitively grasp both very large numbers and how adding up lots of small values results in a very large value.[^12] So we may fail to understand on an intuitive level how the vast number of lives in world Z could ever compound to something more valuable than world A.
 
-Second, we may not adequately appreciate that lives “barely worth living” are good rather than bad.[^13] A life “barely worth living” _is _worth living, and a person with such a life has reason to be glad they exist. Misleading representations of lives “barely worth living” in the academic literature may contribute to this misunderstanding. While it is controversial how to determine which lives are worth living, it has been argued that influential examples in the literature—such as lives containing no goods besides “muzak and potatoes”[^14]—are actually not worth living.[^15]
+Second, we may not adequately appreciate that lives “barely worth living” are good rather than bad.[^13] A life “barely worth living” _is_ worth living, and a person with such a life has reason to be glad they exist. Misleading representations of lives “barely worth living” in the academic literature may contribute to this misunderstanding. While it is controversial how to determine which lives are worth living, it has been argued that influential examples in the literature—such as lives containing no goods besides “muzak and potatoes”[^14]—are actually not worth living.[^15]
 
 Third, we may mistakenly imagine ourselves as part of the populations being compared in the repugnant conclusion. Consequently, an egoistic bias may push us to favor populations with a high quality of life.[^16]
 
@@ -107,21 +107,21 @@ Indeed, it turns out to be remarkably difficult to avoid the repugnant conclusio
 
 
 
-In world A, everyone’s wellbeing is very high. World A+ contains (i) one population group that is identical to the A population in terms of population size and average wellbeing, and (ii) a second group of the same size but with slightly lower wellbeing. Most people would agree that A+ is not worse than A (and may even be better) since, intuitively, merely adding people with lives worth living (without thereby harming anyone else) cannot make an outcome worse. Now consider world B with the same overall population size as A+. The average wellbeing in B is slightly higher than in A+ but lower than in A. When we compare worlds A+ and B, it seems that B must be better. Not only are the average _and _total welfare in B higher than in A+, but wellbeing is also more equally distributed. Yet, if B is better than A+, and A+ is not worse than A, it follows that B must be better than A.[^18] Repeating this process—comparing world B with B+ and C etc.—leads to world Z with an enormous number of people with lives barely worth living. Following the above reasoning, world Z must be better than world A: the repugnant conclusion.
+In world A, everyone’s wellbeing is very high. World A+ contains (i) one population group that is identical to the A population in terms of population size and average wellbeing, and (ii) a second group of the same size but with slightly lower wellbeing. Most people would agree that A+ is not worse than A (and may even be better) since, intuitively, merely adding people with lives worth living (without thereby harming anyone else) cannot make an outcome worse. Now consider world B with the same overall population size as A+. The average wellbeing in B is slightly higher than in A+ but lower than in A. When we compare worlds A+ and B, it seems that B must be better. Not only are the average _and_ total welfare in B higher than in A+, but wellbeing is also more equally distributed. Yet, if B is better than A+, and A+ is not worse than A, it follows that B must be better than A.[^18] Repeating this process—comparing world B with B+ and C etc.—leads to world Z with an enormous number of people with lives barely worth living. Following the above reasoning, world Z must be better than world A: the repugnant conclusion.
 
-Recent papers from Dean Spears and Mark Budolfson make a different case for the inescapability of (something like) the repugnant conclusion.[^19] The authors argue that _all _plausible theories imply that it is sometimes better to add vast numbers of barely-positive lives to an existing population than to add a smaller number of extremely positive lives.[^20] From this result, they conclude that “the repugnant conclusion provides no methodological guidance for theory or policy-making, because it does not discriminate among candidate [theories]”.[^21] Others might try to resist this conclusion, however, by arguing that these new verdicts—involving adding to existing populations—are not as intuitively problematic as the original repugnant conclusion.
+Recent papers from Dean Spears and Mark Budolfson make a different case for the inescapability of (something like) the repugnant conclusion.[^19] The authors argue that _all_ plausible theories imply that it is sometimes better to add vast numbers of barely-positive lives to an existing population than to add a smaller number of extremely positive lives.[^20] From this result, they conclude that “the repugnant conclusion provides no methodological guidance for theory or policy-making, because it does not discriminate among candidate [theories]”.[^21] Others might try to resist this conclusion, however, by arguing that these new verdicts—involving adding to existing populations—are not as intuitively problematic as the original repugnant conclusion.
 
 
 #### Attacking the Alternatives 
 
-A final response is to note that counterintuitive implications are by no means unique to the total view. Several impossibility theorems prove that it is _logically_ _impossible _for any population ethical theory to satisfy every intuitively desirable principle and axiom.[^22] One such axiom is to avoid the repugnant conclusion. However, some philosophers argue that avoiding the repugnant conclusion is not worth the theoretical costs of giving up other axioms or fundamental principles. Accepting the repugnant conclusion provides an easy response to the impossibility theorems since the total view is consistent with all the other axioms of these theorems.[^23] In light of this, a growing number of ethicists have come to accept and defend the repugnant conclusion and the total view.[^24]
+A final response is to note that counterintuitive implications are by no means unique to the total view. Several impossibility theorems prove that it is _logically_ _impossible_ for any population ethical theory to satisfy every intuitively desirable principle and axiom.[^22] One such axiom is to avoid the repugnant conclusion. However, some philosophers argue that avoiding the repugnant conclusion is not worth the theoretical costs of giving up other axioms or fundamental principles. Accepting the repugnant conclusion provides an easy response to the impossibility theorems since the total view is consistent with all the other axioms of these theorems.[^23] In light of this, a growing number of ethicists have come to accept and defend the repugnant conclusion and the total view.[^24]
 
 To evaluate this comparative claim, we must consider the merits (and demerits) of the competing views. Philosophers have proposed several alternatives to the total view that seek to avoid (at least the original version of) the repugnant conclusion. These theories include the _average view_, _variable value theories_, _critical level and range theories,_ and _person-affecting views_.
 
 
 ## The Average View 
 
-According to the _average view _of population ethics:
+According to the _average view_ of population ethics:
 
 
 > **One outcome is better than another if and only if it contains greater average wellbeing.**
@@ -186,7 +186,7 @@ By looking at this value function, we may observe that the total view of populat
 
 Critical level theories avoid the repugnant conclusion if their critical level is greater than the wellbeing level that makes a life “barely worth living”. This follows from the definition of critical level theories since only adding people whose welfare exceeds the critical level can compensate for reductions in the average quality of life.
 
-However, a positive critical level entails an especially appalling version of the sadistic conclusion, which gets worse the higher the chosen critical level.[^35] This is because it implies that it is preferable for a world to contain individuals with negative wellbeing—lives not worth living, such as lives of constant torture—than to contain vastly more individuals with lives that are worth living yet below the critical level. Graphically illustrated, critical level theories counterintuitively imply that world A (with a sufficiently large population) is _worse _than world B.
+However, a positive critical level entails an especially appalling version of the sadistic conclusion, which gets worse the higher the chosen critical level.[^35] This is because it implies that it is preferable for a world to contain individuals with negative wellbeing—lives not worth living, such as lives of constant torture—than to contain vastly more individuals with lives that are worth living yet below the critical level. Graphically illustrated, critical level theories counterintuitively imply that world A (with a sufficiently large population) is _worse_ than world B.
 
  
 
@@ -201,7 +201,7 @@ To avoid this unacceptable result, we may move to a _critical range_ theory,[^36
 
 By setting the lower limit of the critical range to include all neutral lives that are neither good nor bad for the person living them, critical range theories can avoid the sadistic conclusion. And by setting the upper limit of the range at the point where lives become clearly worthwhile, these theories avoid the repugnant conclusion.
 
-What about lives that fall within the critical range? Life within this range may strike us as _meh_:[^37] neither good nor bad, but also not precisely equal to _zero_ in value, either. After all, some meh lives (those toward the upper end of the range) are better than others (those toward the lower end), so it cannot be that adding any life in this range results in an equally valuable outcome. Instead, the outcome’s value must be _incomparable _or _on a par _with that of the prior state: neither better, nor worse, nor precisely equal in value.[^38] Note that it may be better to add an upper-range meh life to the world than to add a lower-range meh life, even though adding _either _life is merely “meh”, or results in an outcome that is incomparable with the world in which neither life is added.[^39]
+What about lives that fall within the critical range? Life within this range may strike us as _meh_:[^37] neither good nor bad, but also not precisely equal to _zero_ in value, either. After all, some meh lives (those toward the upper end of the range) are better than others (those toward the lower end), so it cannot be that adding any life in this range results in an equally valuable outcome. Instead, the outcome’s value must be _incomparable_ or _on a par_ with that of the prior state: neither better, nor worse, nor precisely equal in value.[^38] Note that it may be better to add an upper-range meh life to the world than to add a lower-range meh life, even though adding _either_ life is merely “meh”, or results in an outcome that is incomparable with the world in which neither life is added.[^39]
 
 To further develop this view, we may think of the value of a life as having two dimensions.[^40] In addition to the familiar negative-vs-positive dimension, there is a second dimension of what we might call _value blur_. When there is zero blur, the resulting values are perfectly precise and comparable: any positive life, however barely so, then constitutes an intrinsic improvement to the world. But as we increase blur, the resulting value becomes increasingly “meh”, or _incomparable_. If life's value had infinite blur, then _all_ lives would be meh. (We will consider such a view in the next section.) Alternatively, if we think that life's value admits of just moderate blur, then sufficient positive (or negative) value may overcome this blurriness to qualify the life in question as one that would be in itself good (or bad) to add to the world.
 
@@ -211,7 +211,7 @@ The key implication of this critical range theory (with moderate value blur) is 
 ![Critical range theory](/img/population-ethics-6.jpg "Critical range theory")
 
 
-The resulting view, while theoretically complex, seems less susceptible to severe objections than the other views we have surveyed. In particular, it can simultaneously avoid both the repugnant conclusion and the sadistic conclusion. But it is worth noting that it cannot accommodate the strong “anti-repugnance” intuition that the idyllic world A is strictly _better_ than the repugnant world Z.[^42] Critical range theories instead regard the two worlds as incomparable, due to the immense value blur_ _introduced by all those meh lives in world Z.
+The resulting view, while theoretically complex, seems less susceptible to severe objections than the other views we have surveyed. In particular, it can simultaneously avoid both the repugnant conclusion and the sadistic conclusion. But it is worth noting that it cannot accommodate the strong “anti-repugnance” intuition that the idyllic world A is strictly _better_ than the repugnant world Z.[^42] Critical range theories instead regard the two worlds as incomparable, due to the immense value blur introduced by all those meh lives in world Z.
 
 
 ## Person-Affecting Views and the Procreative Asymmetry 
@@ -233,7 +233,7 @@ Impersonal theories imply that creating an additional person with a (sufficientl
 To this end, standard person-affecting views accept the _person-affecting restriction_:
 
 
-> **An outcome cannot be better (or worse) than another unless it is better (or worse) _for _someone.**[^48]
+> **An outcome cannot be better (or worse) than another unless it is better (or worse) _for_ someone.**[^48]
 
 At first glance, this principle sounds eminently plausible. When considering only fixed-population cases, it amounts to an expression of _[welfarism](https://www.utilitarianism.net/types-of-utilitarianism#welfarism)_: the view that wellbeing is the only value. But problems arise when comparing outcomes in which different people exist, especially if combined with the principle of _Existence Incomparability_:[^49]
 
@@ -272,7 +272,7 @@ In cases involving comparisons to empty worlds, the simple procreative asymmetry
 
 Most people would prefer world A over an empty world B. But the simple procreative asymmetry would seem, perversely, to favor the empty world B since it counts the many good lives in world A for nothing while the few bad lives dominate the decision. On this view, there are no worthwhile trade-offs between good and bad lives. It would be better, supposedly, to have no lives at all.
 
-To help address these problems, we may consider a more complex person-affecting view—one analogous to the critical range theory, discussed above, but with infinite value blur, yielding the result that _all_ (positive) lives are “meh”.[^54] On such a view, it is better to create a flourishing life than a mediocre one (so A<sub>1</sub> is indeed better than A<sub>2</sub>, at least if they contain the exact same number of people), but _either _choice is merely on a par with creating neither.
+To help address these problems, we may consider a more complex person-affecting view—one analogous to the critical range theory, discussed above, but with infinite value blur, yielding the result that _all_ (positive) lives are “meh”.[^54] On such a view, it is better to create a flourishing life than a mediocre one (so A<sub>1</sub> is indeed better than A<sub>2</sub>, at least if they contain the exact same number of people), but _either_ choice is merely on a par with creating neither.
 
 But this brings us to a deeper problem with the procreative asymmetry, which is that it has trouble accounting for the idea that _we should be positively glad that the world (with all its worthwhile lives) exists_. Granted, the immense incomparability introduced by all the putatively “meh” lives in A at least blocks the perverse conclusion that we must outright prefer the empty world B. Even so, holding the two worlds to be incomparable or “on a par” also seems wrong.
 
@@ -365,8 +365,8 @@ Chappell, R.Y., Meissner, D., and MacAskill, W. (2022). Population Ethics. In R.
 
 ### Neutrality Intuition
 
-* Jeff McMahan (2013). [Causing People to Exist and Saving People’s Lives](https://doi.org/10.1007/s10892-012-9139-1). _Journal of Ethics_. 17:** **5–35.
-* Wlodek Rabinowicz (2009). [Broome and the Intuition of Neutrality](https://dx.doi.org/10.1111/j.1533-6077.2009.00174.x)._ Philosophical Issues_. 19(1): 389–411.
+* Jeff McMahan (2013). [Causing People to Exist and Saving People’s Lives](https://doi.org/10.1007/s10892-012-9139-1). _Journal of Ethics_. 17: 5–35.
+* Wlodek Rabinowicz (2009). [Broome and the Intuition of Neutrality](https://dx.doi.org/10.1111/j.1533-6077.2009.00174.x). _Philosophical Issues_. 19(1): 389–411.
 * Kryster Bykvist (2007). [The Benefits of Coming into Existence](https://doi.org/10.1007/s11098-005-3982-x). _Philosophical Studies._ 135(3), 335–362. 
 * John Broome (2005). [Should We Value Population?](https://doi.org/10.1111/j.1467-9760.2005.00230.x). _The Journal of Political Philosophy_. 13(4): 399–413.
 * Elizabeth Harman (2004). [Can We Harm and Benefit in Creating?](https://www.jstor.org/stable/3840929 ). _Philosophical Perspectives_. 18: 89–113.
