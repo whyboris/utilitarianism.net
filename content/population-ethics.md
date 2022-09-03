@@ -219,44 +219,13 @@ The resulting view, while theoretically complex, seems less susceptible to sever
 All of the theories discussed above—the total view, the average view, variable value theories, and critical level and range theories—are _impersonal theories_.[^43]
 
 
-<table>
-  <tr>
-   <td><strong>Impersonal theories</strong>
-   </td>
-   <td><strong>Value function</strong>
-<p>
-<strong>(value of a particular state of the world)</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Total view
-   </td>
-   <td><strong>N * Q</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Average view
-   </td>
-   <td><strong>Q</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Variable value theory
-   </td>
-   <td><strong>f(N) * Q </strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Critical level theory[^44]
-   </td>
-   <td><strong>N * (Q - α)</strong>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><strong>N</strong> = number of persons; <strong>Q</strong> = average wellbeing level; <strong>α</strong> = critical level; <strong>f()</strong> = strictly increasing and strictly concave function with a horizontal asymptote
-   </td>
-  </tr>
-</table>
+| **Impersonal theories** | **Value function (value of a particular state of the world)** |
+| :---: | :---: |
+| Total view | **N * Q** |
+| Average view | **Q** |
+| Variable value theory | **f(N) * Q** |
+| Critical level theory<span style="text-align: initial; font-family: Merriweather">[^44]</span> | **N * (Q - α)** |
+> **N** = number of persons; **Q** = average wellbeing level; **α** = critical level; **f()** = strictly increasing and strictly concave function with a horizontal asymptote
 
 
 Impersonal theories imply that creating an additional person with a (sufficiently) good life makes the world better, other things being equal.[^45] However, many people intuitively reject this implication. They would say that there are no moral reasons to bring into existence additional people—at least no reasons based on the wellbeing these people would enjoy if created. Jan Narveson put this idea in slogan form: “We are in favour of making people happy, but neutral about making happy people”.[^46] _Person-affecting views_ of population ethics attempt to capture this intuition of neutrality.[^47]
