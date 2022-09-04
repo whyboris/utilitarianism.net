@@ -1,6 +1,6 @@
 ---
 title: "The Demandingness Objection"
-date: 2022-08-08T10:08:58-04:00
+date: 2022-08-08T10:08:55-04:00
 draft: false
 ---
 
