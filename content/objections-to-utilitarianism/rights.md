@@ -63,7 +63,7 @@ The problem with Absolutism is this position is even more counterintuitive than 
 
 The final response is for the advocate of utilitarianism to “bite the bullet”, holding on to the claim we should—in this hypothetical situation—kill Chuck despite the intuition that killing Chuck is wrong. It is regrettable that the only way to save the five other people involves Chuck’s death. Yet the right action may be to kill him since it allows the five others to continue living, each having meaningful experiences and enjoying their lives as much as Chuck would have enjoyed his own. Chuck’s death, while unfortunate, is _stipulated_ by the thought experiment to be required to create a world where there is as much well-being as possible.
 
-Of course, it's important to stress that real life comes with no such stipulations, so in real-life cases utilitarians overwhelmingly opt to "accommodate the intuition" and reject the assumption that killing innocent people leads to better outcomes.
+Of course, it's important to stress that real life comes with no such stipulations, so in real-life cases utilitarians overwhelmingly opt to "[accommodate the intuition](#accommodating-the-intuition)" and reject the assumption that killing innocent people leads to better outcomes.
 
 
 {{< how-to-cite >}}
