@@ -4,11 +4,20 @@ date: 2022-08-08T10:10:50-04:00
 draft: false
 ---
 
+---
 
+WARNING - webpage outdated
+
+---
+
+<div class="hide-TOC-children-hack">
 {{< TOC >}}
+</div>
 
 
-## [Chapter 1: Introduction to Utilitarianism](https://www.utilitarianism.net/introduction-to-utilitarianism)
+## Chapter 1: Introduction to Utilitarianism
+
+Resources for [Chapter 1: Introduction to Utilitarianism](https://www.utilitarianism.net/introduction-to-utilitarianism):
 
 
 ### Introduction
@@ -34,7 +43,9 @@ draft: false
 * Yew-Kwang Ng (1990). [Welfarism and Utilitarianism: A Rehabilitation](https://www.ntu.edu.sg/home/ykng/Welfarianism&Utilitarianism.pdf). _Utilitas_. 2(2): 171–193.
 
 
-## [Chapter 2: Elements and Types of Utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism)
+## Chapter 2: Elements and Types of Utilitarianism
+
+Resources for [Elements and Types of Utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism):
 
 
 ### Consequentialism
@@ -105,7 +116,9 @@ draft: false
 * Pettit, P. & Smith, M (2000). [Global Consequentialism](http://www.princeton.edu/~msmith/mypapers/Pettit-Smith-Global-2000.pdf). In Hooker, B., Mason, E. & Miller, D. (eds.). _Morality, Rules and Consequences: A Critical Reader_. Edinburgh University Press (2000).
 
 
-## [Chapter 3: Theories of Well-Being](https://www.utilitarianism.net/theories-of-wellbeing)
+## Chapter 3: Theories of Well-Being
+
+Resources for [Theories of Well-Being](https://www.utilitarianism.net/theories-of-wellbeing):
 
 
 ### Introduction
@@ -146,7 +159,9 @@ draft: false
 * James Griffin (1986). _[Well-Being: Its Meaning, Measurement and Moral Importance](https://doi.org/10.1093/0198248431.001.0001)_. Oxford: Clarendon Press.
 
 
-## [Chapter 4: Population Ethics](https://www.utilitarianism.net/utilitarianism-and-practical-ethics)
+## Chapter 4: Population Ethics
+
+Resources for [Population Ethics](https://www.utilitarianism.net/utilitarianism-and-practical-ethics):
 
 
 ### Introduction to Population Ethics
@@ -219,7 +234,9 @@ draft: false
 * Yew-Kwang Ng (1989). [What should we do about future generations? Impossibility of Parfit's Theory X](https://doi.org/10.1017/S0266267100002406). _Economics and Philosophy_. 5(2): 235–253.
 
 
-## [Chapter 5: Utilitarianism and Practical Ethics](https://www.utilitarianism.net/utilitarianism-and-practical-ethics)
+## Chapter 5: Utilitarianism and Practical Ethics
+
+Resources for [Utilitarianism and Practical Ethics](https://www.utilitarianism.net/utilitarianism-and-practical-ethics):
 
 
 ### Is There a Difference Between Doing and Allowing Harm?
@@ -256,7 +273,9 @@ draft: false
 
 
 
-## [Chapter 6: Objections to Utilitarianism and Responses](https://www.utilitarianism.net/objections-to-utilitarianism)
+## Chapter 6: Objections to Utilitarianism and Responses
+
+Resources for [Objections to Utilitarianism and Responses](https://www.utilitarianism.net/objections-to-utilitarianism):
 
 
 ### General
@@ -290,11 +309,10 @@ draft: false
 * Derek Parfit (1997). [Equality and Priority](https://www.philosophy.rutgers.edu/joomlatools-files/docman-files/3ParfitEqualityorPriority2000.pdf). _Ratio_. 10(3): 202–221.
 * Larry Temkin (1993). [Inequality](https://global.oup.com/academic/product/inequality-9780195111491). New York: Oxford University Press.
 
----
 
-## Article: [Acting on Utilitarianism](https://www.utilitarianism.net/acting-on-utilitarianism)
+## Article: Acting on Utilitarianism
 
----
+Resources for [Acting on Utilitarianism](https://www.utilitarianism.net/acting-on-utilitarianism):
 
 
 ### General
