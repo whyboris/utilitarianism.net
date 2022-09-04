@@ -3,6 +3,8 @@ title: "The Mere Means Objection"
 date: 2022-08-08T10:08:55-04:00
 type: "page"
 draft: false
+menu: "objections"
+weight: 4
 ---
 
 

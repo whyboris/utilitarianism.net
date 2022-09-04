@@ -2,6 +2,8 @@
 title: "Utilitarianism and Practical Ethics"
 date: 2022-08-08T10:10:54-04:00
 draft: false
+menu: "main"
+weight: 6
 ---
 
 > Are we to extend our concern to all the beings capable of pleasure and pain whose feelings are affected by our conduct? or are we to confine our view to human happiness? The former view is the one adopted by (...) the Utilitarian school (...) it seems arbitrary and unreasonable to exclude from the end, as so conceived, any pleasure of any sentient being.

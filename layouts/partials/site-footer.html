@@ -6,13 +6,26 @@
     <div>{{ partial "social-follow.html" . }}</div>
   </div>
 
+  <div class="temp-navigation-hack">
 
-  <div class="pa3 pa4-ns w-100 w-70-ns center">
-    <div class="temp-navigation-hack">
-      {{ range .Site.Pages }}
-      <a href="{{ .RelPermalink }}"> {{ .Title }} </a>
+    <span>Core Articles</span>
+
+    <ol>
+      {{ range .Site.Menus.main.Sort.ByWeight }}
+        <li>
+          <a href="{{ .URL }}">{{ .Title }}</a>
+        </li>  
       {{ end }}
-    </div>
+    </ol>
+
+    <ul>
+      {{ range .Site.Menus.objections.Sort.ByWeight }}
+        <li>
+          <a href="{{ .URL }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+    </ul>
+
   </div>
 
 </footer>
