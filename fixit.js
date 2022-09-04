@@ -2,7 +2,7 @@
 // to fix formatting problems with underscores (italics)
 // 
 // Update this line:
-FILE_TO_FIX = "./content/near-utilitarian-alternatives.md";
+FILE_TO_FIX = "./content/objections-to-utilitarianism/alienation.md";
 // change to `false` to actually write the file
 PREVIEW = true
 // run `node fix.js` in your terminal

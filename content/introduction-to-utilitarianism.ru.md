@@ -4,9 +4,6 @@ date: 2022-08-08T10:10:59-04:00
 draft: false
 ---
 
-
-Introduction to Utilitarianism
-
 > _"The utilitarian doctrine is, that happiness is desirable, and the only thing desirable, as an end; all other things being only desirable as means to that end."_
 > 
 > \- [John Stuart Mill](https://www.utilitarianism.net/utilitarian-thinker/john-stuart-mill)[^1]

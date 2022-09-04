@@ -28,6 +28,7 @@ After adding a document it will likely need some manual fixes:
 - Update the metadata section (first few lines, see other files for reference)
 - It will likely have formatting errors with _italics_ (_underscores_), so open the `fixit.js` file, update the `FILE_TO_FIX` string, and execute: `node fixit.js`
     - it may be best to temporarily remove the _Resources and Further Reading_ and _Footnotes_ during this operation
+    - alternatively you can render the HTML as is and _Ctrl+F_ (find) `_` on the page and manually update
 - Add the `{{< TOC >}}` to automatically generate the _Table of Contents_
 - Update the ` ` (four spaces / code block) to be `>` (quote)
 - Remove the "## How to cite" heading and replace the entire citation with `{{< how-to-cite >}}`
