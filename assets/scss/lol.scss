@@ -18,6 +18,18 @@ code {
   }
 }
 
+.hide-TOC-children-hack {
+  ol {
+    li {
+      ol {
+        li {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
 table {
   border-spacing: 0px;
   border:0;
@@ -45,6 +57,7 @@ table {
   background: white;
 
   font-family: Merriweather;
+  -webkit-font-smoothing: subpixel-antialiased;
   font-weight: 300;
   font-style: normal;
   font-size: 16px;
