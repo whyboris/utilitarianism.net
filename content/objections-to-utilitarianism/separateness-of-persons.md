@@ -6,7 +6,7 @@ draft: false
 ---
 
 
-It is widely agreed that self-interest (or prudence) calls for aggregating harms and benefits across different moments _within_ one’s life, so as to maximize one’s overall well-being. For example, visiting the dentist is prudent despite the immediate unpleasantness because it helps to avert greater harm to one’s future self. Aggregative consequentialist theories like utilitarianism go one step further: they aggregate harms and benefits _between _different people’s lives in order to maximize overall societal well-being. It can be worth imposing harms on some individuals, utilitarians claim, if that prevents greater harms to others. This leads some critics to claim that utilitarianism neglects the moral significance of the boundaries between individuals.
+It is widely agreed that self-interest (or prudence) calls for aggregating harms and benefits across different moments _within_ one’s life, so as to maximize one’s overall well-being. For example, visiting the dentist is prudent despite the immediate unpleasantness because it helps to avert greater harm to one’s future self. Aggregative consequentialist theories like utilitarianism go one step further: they aggregate harms and benefits _between_ different people’s lives in order to maximize overall societal well-being. It can be worth imposing harms on some individuals, utilitarians claim, if that prevents greater harms to others. This leads some critics to claim that utilitarianism neglects the moral significance of the boundaries between individuals.
 
 This _separateness of persons_ objection was stated most famously by John Rawls:
 
@@ -20,7 +20,7 @@ On a broader interpretation, we may take the objection to assert that respecting
 
 ## Compensation
 
-The standard interpretation of the separateness of persons understands it to be a matter of _compensation_.[^3] The agent who gets harmed is _compensated_ if they later receive a greater benefit as a result, whereas they receive no such compensation if the benefit goes to someone else. As Nozick put it: “To use a person [for another's benefit]...does not sufficiently respect and take account of the fact that he is a separate person, that his is the only life he has. _He _does not get some overbalancing good from his sacrifice”.[^4]
+The standard interpretation of the separateness of persons understands it to be a matter of _compensation_.[^3] The agent who gets harmed is _compensated_ if they later receive a greater benefit as a result, whereas they receive no such compensation if the benefit goes to someone else. As Nozick put it: “To use a person [for another's benefit]...does not sufficiently respect and take account of the fact that he is a separate person, that his is the only life he has. _He_ does not get some overbalancing good from his sacrifice”.[^4]
 
 Utilitarians may respond that we should not only help others out of self-interest.[^5] The wealthy may not personally benefit from [donating more to life-saving charities](https://www.utilitarianism.net/acting-on-utilitarianism#global-health-and-development), but they ought to do it even so, because their personal interests are _not the only ones that matter_. Every person in need is an individual, equally deserving of moral concern and respect, living the only life _they_ have. When utilitarianism directs us to help others, it does not deny that others are distinct from us. It merely denies the [egoistic](https://www.utilitarianism.net/near-utilitarian-alternatives#egoism-and-partialism) assumption that their distinctness means that they should not matter to us. And, indeed, this is hardly unique to utilitarians. As Katarzyna de Lazari-Radek and [Peter Singer](https://www.utilitarianism.net/utilitarian-thinker/peter-singer) write, “Anyone who supports taxing people on high incomes and using the revenue to provide benefits to others in need must agree that it is sometimes justifiable to impose a cost on one person to benefit another.”[^6] If we reject egoism, we should also reject the assumption that compensation is essential for moral justification.[^7]
 
@@ -29,18 +29,17 @@ Utilitarians may respond that we should not only help others out of self-interes
 
 A deeper concern is that utilitarianism might seem to treat individuals as entirely fungible or replaceable without regret. As Peter Singer characterizes the view: “It is as if sentient beings are receptacles of something valuable, and it does not matter if a receptacle gets broken so long as there is another receptacle to which its contents can be transferred without any getting spilt.”[^8]
 
-To make the problem vivid, imagine that Connie the Consequentialist is faced with two poison victims, and just enough anti-venom to save one of them.[^9] And suppose that, faced with their pleading faces, but realizing that it makes no difference to the total amount of well-being which person she saves, Connie finds herself feeling completely _indifferent _about her choice. It is as if she had to choose between a $20 bill or two tens.
+To make the problem vivid, imagine that Connie the Consequentialist is faced with two poison victims, and just enough anti-venom to save one of them.[^9] And suppose that, faced with their pleading faces, but realizing that it makes no difference to the total amount of well-being which person she saves, Connie finds herself feeling completely _indifferent_ about her choice. It is as if she had to choose between a $20 bill or two tens.
 
 It seems that Connie is making a deep moral mistake here. She is treating the two people’s interests as completely fungible, like money, and neglecting the fact that each person is of distinct intrinsic importance, in their own right, and not merely a fungible means to aggregate well-being. The correct moral theory, we feel, must attribute intrinsic value to particular individuals and not just to the sum total of their well-being.[^10]
 
 However, as R.Y. Chappell argues, there is no barrier to utilitarianism assigning intrinsic value to individuals in this way:[^11]
 
-
-> There is not just one thing, the global happiness, that is good. Instead, there is my happiness, your happiness, Bob’s, and Sally’s, which are all equally weighty but nonetheless distinct intrinsic goods. What this means is that the morally fitting agent should have a corresponding plurality of non-instrumental desires: for my welfare, yours, Bob’s, and Sally’s. Tradeoffs between us may be made, but they are acknowledged as genuine tradeoffs: though a benefit to one may _outweigh _a smaller harm to another, this does not _cancel _it. The harm remains regrettable, for that person’s sake, even if we ultimately have most reason to accept it for the sake of more greatly benefiting another.
+> There is not just one thing, the global happiness, that is good. Instead, there is my happiness, your happiness, Bob’s, and Sally’s, which are all equally weighty but nonetheless distinct intrinsic goods. What this means is that the morally fitting agent should have a corresponding plurality of non-instrumental desires: for my welfare, yours, Bob’s, and Sally’s. Tradeoffs between us may be made, but they are acknowledged as genuine tradeoffs: though a benefit to one may _outweigh_ a smaller harm to another, this does not _cancel_ it. The harm remains regrettable, for that person’s sake, even if we ultimately have most reason to accept it for the sake of more greatly benefiting another.
 
 On this view, Connie should not feel indifferent, but rather _ambivalent_—genuinely torn, as she is pulled (equally strongly) in different directions by the conflicting interests of the two individuals who need her help. In this way, the utilitarian can avoid treating individuals as fungible, and instead fully recognize and appreciate their separate value.
 
-This utilitarian response rejects the assumption that _commensurability_ of value (that is, the ability to compare and make tradeoffs between competing interests or values) entails _fungibility_ of value (or replaceability without regret). The assumption may be rejected since non-fungibility can be secured by having multiple genuinely _distinct _values, which may nonetheless be commensurable.[^12]
+This utilitarian response rejects the assumption that _commensurability_ of value (that is, the ability to compare and make tradeoffs between competing interests or values) entails _fungibility_ of value (or replaceability without regret). The assumption may be rejected since non-fungibility can be secured by having multiple genuinely _distinct_ values, which may nonetheless be commensurable.[^12]
 
 This is perhaps clearest when considering other forms of (putative) value: an art-lover might intrinsically value each item in their art collection, and yet still be willing to smother a fire with one painting if that would save five others. In valuing each painting separately, they will regret the loss of the unique painting that is thereby destroyed. But they may regard the sacrifice as worth it, even so. Nothing in their attitude here betrays an objectionably instrumental attitude towards their artworks. Just as this art consequentialist respects the separateness of paintings, so the utilitarian (or welfare consequentialist) respects the separateness of persons.
 
@@ -100,14 +99,13 @@ Putting this all together, then, defenders of aggregationism can offer a two-pro
 
 ## Conclusion
 
-We have seen that the “separateness of persons” objection to utilitarianism can take three forms, none of which is decisive. The _compensation _objection rests on implausibly egoistic assumptions. The _fungibility _objection involves a misconception: utilitarianism need not treat distinct individuals as fungible. Finally, while _anti-aggregative_ intuitions have some force, we have also seen that there are ways for utilitarians to resist them, and that these anti-aggregative views face even worse difficulties. 
+We have seen that the “separateness of persons” objection to utilitarianism can take three forms, none of which is decisive. The _compensation_ objection rests on implausibly egoistic assumptions. The _fungibility_ objection involves a misconception: utilitarianism need not treat distinct individuals as fungible. Finally, while _anti-aggregative_ intuitions have some force, we have also seen that there are ways for utilitarians to resist them, and that these anti-aggregative views face even worse difficulties. 
 
 
 ---
 _other objections links_
 
 ---
-
 
 {{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 
