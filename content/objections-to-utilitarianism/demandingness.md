@@ -1,12 +1,14 @@
 ---
 title: "The Demandingness Objection"
 date: 2022-08-08T10:08:55-04:00
+type: "page"
 draft: false
 ---
 
 
-> _Utilitarianism doesn't ask us to be morally perfect. It asks us to face up to our moral limitations and do as much as we humanly can to overcome them.
-> \- Joshua Greene, Moral Tribes, p. 284_
+> _Utilitarianism doesn't ask us to be morally perfect. It asks us to face up to our moral limitations and do as much as we humanly can to overcome them._
+> 
+> \- Joshua Greene, Moral Tribes, p. 284
 
 
 {{< TOC >}}

@@ -1,6 +1,7 @@
 ---
 title: "The Rights Objection"
 date: 2022-08-08T10:08:57-04:00
+type: "page"
 draft: false
 ---
 
