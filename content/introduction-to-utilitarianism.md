@@ -1,6 +1,7 @@
 ---
 title: "Introduction to Utilitarianism"
 date: 2022-08-08T10:10:59-04:00
+updated: 2022, Sept 5th - in sync with website
 draft: false
 menu: "main"
 weight: 1
@@ -90,7 +91,7 @@ There are many problems in the world today, some of which are extremely large in
 * _[Factory Farming](https://docs.google.com/document/d/1o3Y2KuMXMyZWfAC3oLw3ths72ZdTPCFUP1rp5tsc4vA/edit#heading=h.nekbxok6p38)_. Tens of billions of non-human animals are kept in horrific conditions in factory farms, undergoing immense unnecessary suffering. We could radically decrease this suffering at very little cost to society.
 
 * _[Existential Risks](https://docs.google.com/document/d/1o3Y2KuMXMyZWfAC3oLw3ths72ZdTPCFUP1rp5tsc4vA/edit#heading=h.rlkjubqgz7j5)_. There will be vast numbers of people in the future, and their lives could be very good. Yet technological progress brings risks, such as from climate change, nuclear war, synthetic biology and artificial intelligence, that could endanger humanity’s future. But if we can successfully navigate these risks, we can ensure a flourishing world for trillions of people yet to come.[^7] 
-There are three key means of helping those affected by the above moral concerns: [donating money to effective charities](https://www.givingwhatwecan.org/giving-recommendations/), working in an impactful career, and convincing other people to do the same. For example, donations to the most effective global health charities are expected to [save a human life for under $5000](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas ); this money may go even further when donated to address factory farming or existential risks. Choosing which career to pursue may be even more important again, since some careers allow us to do [far more good than others](https://80000hours.org/).[^8]
+There are three key means of helping those affected by the above moral concerns: [donating money to effective charities](https://www.givingwhatwecan.org/giving-recommendations/), working in an impactful career, and convincing other people to do the same. For example, donations to the most effective global health charities are expected to [save a human life for under $5,000](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas ); this money may go even further when donated to address factory farming or existential risks. Choosing which career to pursue may be even more important again, since some careers allow us to do [far more good than others](https://80000hours.org/).[^8]
 
 In the article [Acting on Utilitarianism](https://www.utilitarianism.net/acting-on-utilitarianism), we discuss what utilitarianism means for how to live ethically. 
 
@@ -156,7 +157,7 @@ In what follows, we will state two of the most prominent critiques of utilitaria
 
 ### The Rights Objection  
 
-According to commonsense morality and many non-utilitarian theories, there are certain _moral constraints _you should never, or rarely, violate. These constraints are expressed in moral rules like “do not lie!” and “do not kill!”. These rules are intuitively very plausible. [This presents a problem for utilitarianism](https://docs.google.com/document/d/1JEh2T9lwhkYUHJ1YEvL2awdOXGqs3zh8MFAvbw_ZWPc/edit#). The reason for this is that utilitarianism not only specifies_ _which outcomes are best⁠—those having the highest overall level of well-being⁠—but also says that it would be wrong to fail to realize these outcomes. 
+According to commonsense morality and many non-utilitarian theories, there are certain _moral constraints_ you should never, or rarely, violate. These constraints are expressed in moral rules like “do not lie!” and “do not kill!”. These rules are intuitively very plausible. [This presents a problem for utilitarianism](https://docs.google.com/document/d/1JEh2T9lwhkYUHJ1YEvL2awdOXGqs3zh8MFAvbw_ZWPc/edit#). The reason for this is that utilitarianism not only specifies which outcomes are best⁠—those having the highest overall level of well-being⁠—but also says that it would be wrong to fail to realize these outcomes. 
 
 Sometimes, realizing the best outcome may require violating moral constraints⁠ against harming others⁠—that is, violating their rights. For example, suppose there were five people waiting for an organ transplant and that you could save their lives if you killed one other person to harvest their organs. Intuitively, we would regard this as wrong, but it seems that utilitarianism would regard this as morally required. In general, since there is no reason to expect commonsense moral rules to always coincide with the best ways to act according to utilitarianism, we should think it likely for them to conflict sometimes.
 
@@ -211,8 +212,10 @@ _[Button with link to ‘[Elements and Types of Utilitarianism](https://www.util
 
 ### Further Reading 
 
-* Bart Schultz (2017). _[The Happiness Philosophers: The Lives and Works of the Great Utilitarians](https://www.jstor.org/stable/j.ctt1vwmggk)_. Princeton: Princeton University Press.
 * Julia Driver (2014). [The History of Utilitarianism](https://plato.stanford.edu/entries/utilitarianism-history/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+* Bart Schultz (2017). _[The Happiness Philosophers: The Lives and Works of the Great Utilitarians](https://www.jstor.org/stable/j.ctt1vwmggk)_. Princeton: Princeton University Press.
+* James Crimmins (2017). _[The Bloomsbury Encyclopedia of Utilitarianism](https://www.bloomsbury.com/uk/the-bloomsbury-encyclopedia-of-utilitarianism-9781350021693/)_. Bloomsbury.
+* Derek Parfit (2011/17). _[On What Matters](https://en.wikipedia.org/wiki/On_What_Matters)_. Oxford: Oxford University Press.
 * Yew-Kwang Ng (1990). [Welfarism and Utilitarianism: A Rehabilitation](https://www.ntu.edu.sg/home/ykng/Welfarianism&Utilitarianism.pdf). _Utilitas_. 2(2): 171–193.
 
 
