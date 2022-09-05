@@ -11,6 +11,7 @@
         </li>  
       {{ end }}
 
+      {{/* After "Objections" article list all the Objection articles */}}
       <ul>
         {{ range .Site.Menus.objections.Sort.ByWeight }}
           <li>
@@ -19,9 +20,11 @@
         {{ end }}
       </ul>
 
+      {{ range last 1 .Site.Menus.main.Sort.ByWeight }}
       <li>
-        <a href="./resources-and-further-reading">Resources and Further Reading</a>
-      </li>
+        <a href="{{ .URL }}">{{ .Title }}</a>
+      </li>  
+    {{ end }}
     </ol>
 
 
@@ -31,7 +34,9 @@
   <div class="copyright">
     &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
 
-    <div>{{ partial "social-follow.html" . }}</div>
+    <div>
+      {{ partial "social-follow.html" . }}
+    </div>
 
   </div>
 

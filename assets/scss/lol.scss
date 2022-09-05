@@ -47,6 +47,10 @@ code {
   .logo {
     width: 200px;
     margin: 20px;
+ 
+    img {
+      max-width: 100%;
+    }
   }
 
   .top-logo {
