@@ -52,18 +52,24 @@ code {
       max-width: 100%;
     }
   }
+  
+  .header-navigation-item {
+    cursor: pointer;
+    display: inline-block;
+    margin: 28px;
 
-  .top-logo {
-    font-size: 30px;
     a {
-      color: white;
+      text-decoration: none;
+      color: #0b3b5b;
+
+      &:hover {
+        color: #33aaff;
+      }
     }
   }
-  
+
   .dropdown {
     width: 260px;
-    margin: 28px;
-    cursor: pointer;
   
     span {
       color: black;
