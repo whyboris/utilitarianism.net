@@ -256,6 +256,12 @@ hr {
     margin: 10px  0 30px;
     display: inline-block;
     user-select: none;
+    transition-property: opacity;
+    transition-duration: 350ms;
+
+    &:hover {
+      opacity: 0.9;
+    }
   }
 }
 
