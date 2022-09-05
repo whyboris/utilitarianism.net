@@ -3,6 +3,62 @@ code {
   border: 10px solid red !important;
 }
 
+* {
+  font-family: Merriweather;
+}
+
+.website-header {
+  display: flex;
+  background-color: white;
+
+  .logo {
+    width: 200px;
+    margin: 20px;
+  }
+
+  .top-logo {
+    font-size: 30px;
+    a {
+      color: white;
+    }
+  }
+  
+  .dropdown {
+    width: 260px;
+    margin: 28px;
+    cursor: pointer;
+  
+    span {
+      color: black;
+    }
+  
+    .dropdown-content {
+      display: none;
+      position: absolute;
+
+      background-color: #f9f9f9;
+      min-width: 420px;
+      max-width: 420px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      padding: 12px 16px;
+      z-index: 1;
+
+      li {
+        margin: 14px;
+      }
+    }
+    
+    &:hover .dropdown-content {
+      display: block;
+    }
+  }
+}
+
+.sub-header {
+  min-height: 50px;
+  background-color: #f5f5f5;
+}
+
 .temp-navigation-hack {
   border: 1px solid #ccc;
   padding: 10px;
