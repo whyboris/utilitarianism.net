@@ -164,6 +164,10 @@ table {
   a {
     color: #0b3b5b;
   }
+
+  img {
+    max-width: 100%;
+  }
 }
 
 blockquote {
@@ -258,6 +262,18 @@ hr {
   li::marker {
     font-size:12px;
     color: #33aaff;
+  }
+
+  // WARNING !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  // this hides all the items under `Resources and Further Reading`
+  // from all `table-of-contents` class -- and may accidentally 
+  // hide something we didn't want to hide! Check all pages carefully
+  ol {
+    li:last-child {
+      ol {
+        display: none;
+      }
+    }
   }
 
   span {
