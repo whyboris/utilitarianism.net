@@ -1,30 +1,37 @@
-<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
-    &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
-  </a>
-    <div>{{ partial "social-follow.html" . }}</div>
-  </div>
+<footer class="site-footer" role="contentinfo">
 
   <div class="temp-navigation-hack">
 
     <span>Core Articles</span>
 
     <ol>
-      {{ range .Site.Menus.main.Sort.ByWeight }}
+      {{ range first 8 .Site.Menus.main.Sort.ByWeight }}
         <li>
           <a href="{{ .URL }}">{{ .Title }}</a>
         </li>  
       {{ end }}
+
+      <ul>
+        {{ range .Site.Menus.objections.Sort.ByWeight }}
+          <li>
+            <a href="{{ .URL }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+      </ul>
+
+      <li>
+        <a href="./resources-and-further-reading">Resources and Further Reading</a>
+      </li>
     </ol>
 
-    <ul>
-      {{ range .Site.Menus.objections.Sort.ByWeight }}
-        <li>
-          <a href="{{ .URL }}">{{ .Title }}</a>
-        </li>
-      {{ end }}
-    </ul>
+
+  </div>
+
+
+  <div class="copyright">
+    &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+
+    <div>{{ partial "social-follow.html" . }}</div>
 
   </div>
 

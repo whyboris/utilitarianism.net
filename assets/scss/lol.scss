@@ -7,6 +7,25 @@ code {
   font-family: Merriweather;
 }
 
+.site-footer {
+  background-color: #363636;
+  padding: 50px;
+
+  .temp-navigation-hack {
+    border: 0;
+
+    a {
+      color: white;
+    }
+  }
+
+  .copyright {
+    font-family: sans-serif;
+    margin-top: 20px;
+    color: white;
+  }
+}
+
 .main-body-class {
   background-color: white;
 }
@@ -77,11 +96,6 @@ code {
   border: 1px solid #ccc;
   padding: 10px;
   color: white;
-
-  ul {
-    margin-left: 20px;
-    margin-top: -14px;
-  }
 
   a {
     display: block;
