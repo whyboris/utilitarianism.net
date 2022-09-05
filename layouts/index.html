@@ -1,11 +1,17 @@
 {{ define "main" }}
 
-  <div class="pa3 pa4-ns w-100 w-70-ns center">
-    <div class="temp-navigation-hack">
-      {{ range .Pages }}
-      <a href="{{ .RelPermalink }}"> {{ .Title }} </a>
-      {{ end }}
-    </div>
-  </div>
+<div class="temp-navigation-hack">
+
+  <span>Core Articles</span>
+
+  <ol>
+    {{ range .Site.Menus.main.Sort.ByWeight }}
+      <li>
+        <a href="{{ .URL }}">{{ .Title }}</a>
+      </li>  
+    {{ end }}
+  </ol>
+
+</div>
 
 {{ end }}

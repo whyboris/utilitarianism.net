@@ -3,6 +3,8 @@ title: "The Alienation Objection"
 date: 2022-08-08T10:08:52-04:00
 type: "page"
 draft: false
+menu: "objections"
+weight: 6
 ---
 
 {{< TOC >}}

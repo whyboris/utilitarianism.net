@@ -3,6 +3,8 @@ title: "The Special Obligations Objection"
 date: 2022-08-08T10:08:51-04:00
 type: "page"
 draft: false
+menu: "objections"
+weight: 7
 ---
 
 {{< TOC >}}

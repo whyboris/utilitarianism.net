@@ -2,6 +2,8 @@
 title: "Population Ethics"
 date: 2022-08-08T10:10:55-04:00
 draft: false
+menu: "main"
+weight: 5
 ---
 
 {{< TOC >}}
