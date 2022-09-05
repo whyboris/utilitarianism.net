@@ -2,17 +2,15 @@
 
 This is a WIP repository that will replace the current _utilitarianism.net_ website. The technology we are using is [*Hugo*](https://gohugo.io/) for its flexibility, speed, ease of use, and _i18n_ (internationalization) support.
 
-### How to start
+### Developing
 
-- _clone_ the repository
-- open it with your _terminal_
-- run `git submodule update --init` to download the themes submodule
+For detailed instructions if you're new to coding, see the [section below](#if-youve-not-coded-but-want-to-start)
 
-After this, you can always resum from here:
+Make sure you have installed [Hugo](https://gohugo.io/getting-started/installing/) first. After cloning the repository, run `git submodule update --init` to download the themes submodule; this needs to be done only once. After this, just run the server:
 
-- run `hugo server -D` to develop
-
-### Building
+```sh
+hugo server -D
+```
 
 To build the production version of the application just run:
 
@@ -47,3 +45,16 @@ In the future we may want to use some `rtl` support
 #### Notes
 We have a shortcode that will generate the table of contents: `{{< TOC >}}`
 We enabled `unsafe` mode for _Markdown_ to allow [subscript](https://discourse.gohugo.io/t/footnote-sup-tag-not-working-inside-markdownify-help/25426)
+
+
+### If you've not coded but want to start:
+
+1. Starting may be daunting, but you can do it!
+   - install **git**
+   - install a _terminal_ if you don't have one (on Mac try [Hyper](https://hyper.is), on Windows try [FluentTerminal](https://github.com/felixse/FluentTerminal) or [Terminus](https://github.com/Eugeny/terminus))
+   - install [Hugo](https://gohugo.io/getting-started/installing/)
+2. When done, _clone_ this repository, enter it (`cd utilitarianism.net`) and install submodules (`git submodule update --init`).
+3. Install [VSCode](https://code.visualstudio.com) and open the folder to see the code.
+4. Start (`hugo server -D`) 🎉
+
+Feel free to reach out with questions by going to [Issues](https://github.com/whyboris/utilitarianism.net/issues)
