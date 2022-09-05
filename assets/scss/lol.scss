@@ -47,19 +47,29 @@ code {
   .logo {
     width: 200px;
     margin: 20px;
-  }
-
-  .top-logo {
-    font-size: 30px;
-    a {
-      color: white;
+ 
+    img {
+      max-width: 100%;
     }
   }
   
+  .header-navigation-item {
+    cursor: pointer;
+    display: inline-block;
+    margin: 28px;
+
+    a {
+      text-decoration: none;
+      color: #0b3b5b;
+
+      &:hover {
+        color: #33aaff;
+      }
+    }
+  }
+
   .dropdown {
     width: 260px;
-    margin: 28px;
-    cursor: pointer;
   
     span {
       color: black;
@@ -160,6 +170,10 @@ table {
   a {
     color: #0b3b5b;
   }
+
+  img {
+    max-width: 100%;
+  }
 }
 
 blockquote {
@@ -242,6 +256,12 @@ hr {
     margin: 10px  0 30px;
     display: inline-block;
     user-select: none;
+    transition-property: opacity;
+    transition-duration: 350ms;
+
+    &:hover {
+      opacity: 0.9;
+    }
   }
 }
 
@@ -254,6 +274,18 @@ hr {
   li::marker {
     font-size:12px;
     color: #33aaff;
+  }
+
+  // WARNING !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  // this hides all the items under `Resources and Further Reading`
+  // from all `table-of-contents` class -- and may accidentally 
+  // hide something we didn't want to hide! Check all pages carefully
+  ol {
+    li:last-child {
+      ol {
+        display: none;
+      }
+    }
   }
 
   span {
