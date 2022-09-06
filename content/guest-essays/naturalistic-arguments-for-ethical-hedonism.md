@@ -192,7 +192,7 @@ Empirical observation reveals objective and universal moral value existing withi
 {{< how-to-cite authors="Sinhababu, N." >}}
 
 
-_['Want to learn more…?' Two-button banner]_
+{{< two-button >}}
 
 
 

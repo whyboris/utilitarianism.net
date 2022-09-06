@@ -124,9 +124,7 @@ About the Author
 {{< how-to-cite authors="Sebo, J." >}}
 
 
-
-_['Want to learn more…?' Two-button banner]_
-
+{{< two-button >}}
 
 
 

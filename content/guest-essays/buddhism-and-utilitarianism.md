@@ -153,7 +153,7 @@ About the Author
 
 
 
-_['Want to learn more…?' Two-button banner]_
+{{< two-button >}}
 
 
 
