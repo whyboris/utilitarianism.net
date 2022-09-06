@@ -181,7 +181,7 @@ Good luck! And remember to cite your sources.
 {{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 
 
-**Add 2-button "Want to learn more?" banner**
+{{< two-button >}}
 
 
 ## Resources and Further Reading 

@@ -257,7 +257,15 @@ hr {
   p, h2 {
     margin-bottom: 6px;
   }
-  
+ 
+  .two-button-callout {
+    display: flex;
+    
+    .callout-button {
+      padding: 12px 20px;
+    }
+  }
+
   .callout-button {
     background: white;
     border-radius: 0;

@@ -173,7 +173,8 @@ About the Authors
 {{< how-to-cite authors="Schubert, S., & Caviola, L." >}}
 
 
-_['Want to learn more…?' Two-button banner]_
+{{< two-button >}}
+
 
 
 ## Resources and Further Reading
