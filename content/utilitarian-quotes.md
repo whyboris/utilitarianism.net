@@ -314,6 +314,7 @@ _→ [Article on Peter Singer’s life and ideas](https://www.utilitarianism.net
     * Once we realise that utilitarianism comes with the idea of blameworthy rightdoing (such as when you push a big man onto the tracks in order to save five lives) and blameless wrongdoing (such as when you don’t push a big man onto the tracks in order to save five lives), then utilitarianism all of a sudden appears to give the right answers.[^115]
 
 
+{{< two-button >}}
 
 
 [^1]:
