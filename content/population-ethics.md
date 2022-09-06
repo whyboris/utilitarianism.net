@@ -38,7 +38,7 @@ Consider a hypothetical world A with 100 inhabitants (N<sub>A</sub>) at average 
 When making such comparisons between hypothetical worlds in population ethics, these worlds are often illustrated graphically. The width of the following graphs represents the number of people, and the height represents their average wellbeing level. Consequently, the graphs’ area—width times height—represents the total welfare in the hypothetical worlds. Illustrated graphically, worlds A and B are equally valuable, according to the total view, since their graphs have the same area.
 
 
-![Total View](/img/population-ethics-1.jpg "Total View")
+![Total View](/img/population-ethics-1.png "Total View")
 
 
 The total view implies that we can improve the world in two ways: either we can improve the quality of life of existing people, or we can increase the number of people living positive lives.[^5] The total view makes no distinction between whether the additional wellbeing would come to people who already exist or to entirely new people. For example, the total view regards having a child that lives a happy and fulfilled life as something that makes the world better, all else equal, since it adds to the total wellbeing.[^6] Importantly, the claim is not that having the child might make the world better in virtue of enriching the lives of others; instead, it is that having the child is good in itself. How good it is to bring a new person into existence depends on how much better or worse that person’s life is than a “neutral life”. According to this view, happy people are good and having more of a good thing, other things being equal, makes an outcome better.
@@ -58,7 +58,7 @@ The most prominent objection to the total view is the _repugnant conclusion_, or
 
     
 
-![The Repugnant Conclusion](/img/population-ethics-2.jpg "The Repugnant Conclusion")
+![The Repugnant Conclusion](/img/population-ethics-2.png "The Repugnant Conclusion")
 
 
 
@@ -90,7 +90,7 @@ Indeed, it turns out to be remarkably difficult to avoid the repugnant conclusio
 
 
 
-![Mere Addition Paradox](/img/population-ethics-3.jpg "Mere Addition Paradox")
+![Mere Addition Paradox](/img/population-ethics-3.png "Mere Addition Paradox")
 
 
 
@@ -132,7 +132,7 @@ Adding a small number of tortured, miserable people to a population diminishes t
 
 
 
-![Average view and the sadistic conclusion](/img/population-ethics-4.jpg "Average view and the sadistic conclusion")
+![Average view and the sadistic conclusion](/img/population-ethics-4.png "Average view and the sadistic conclusion")
 
 
 Third, the average view prefers arbitrarily small populations over very large populations, as long as the average wellbeing was higher. For example, a world with a single, extremely happy individual would be favored to a world with ten billion people, all of whom are extremely happy but just ever-so-slightly less happy than that single person.
@@ -177,7 +177,7 @@ However, a positive critical level entails an especially appalling version of th
 
  
 
-![Critical level theory](/img/population-ethics-5.jpg "Critical level theory")
+![Critical level theory](/img/population-ethics-5.png "Critical level theory")
 
 
 
@@ -195,7 +195,7 @@ To further develop this view, we may think of the value of a life as having two 
 The key implication of this critical range theory (with moderate value blur) is that an intrinsically good life must contain _significantly_ more welfare than an intrinsically bad life, because between these two levels there is a moderate range of lives that are meh, as illustrated below:[^41]
 
 
-![Critical range theory](/img/population-ethics-6.jpg "Critical range theory")
+![Critical range theory](/img/population-ethics-6.png "Critical range theory")
 
 
 The resulting view, while theoretically complex, seems less susceptible to severe objections than the other views we have surveyed. In particular, it can simultaneously avoid both the repugnant conclusion and the sadistic conclusion. But it is worth noting that it cannot accommodate the strong “anti-repugnance” intuition that the idyllic world A is strictly _better_ than the repugnant world Z.[^42] Critical range theories instead regard the two worlds as incomparable, due to the immense value blur introduced by all those meh lives in world Z.
@@ -243,7 +243,7 @@ While many find this principle intuitive,[^51] it is notoriously difficult to pr
 The simplest such view holds that positive lives make _no difference in value_ to the outcome. But this falsely implies that creating lives with low positive welfare is just as good as creating an equal number of lives at a high welfare level. For example, consider the choice between creating either of two worlds inhabited by different sets of future people. In world A<sub>1</sub>, everyone has a wonderful life. In world A<sub>2</sub>, all people have lives that are much worse than in A<sub>1</sub> yet still positive.
 
 
-![Person affecting views and the assymetry](/img/population-ethics-7.jpg "Person affecting views and the assymetry")
+![Person affecting views and the assymetry](/img/population-ethics-7.png "Person affecting views and the assymetry")
 
 
 Clearly, we should prefer world A<sub>1</sub> over A<sub>2</sub>. However, the simplest version of the procreative asymmetry implies that both worlds are equally good—because they are not good at all.
@@ -254,7 +254,7 @@ In cases involving comparisons to empty worlds, the simple procreative asymmetry
 > **In world A, all but a few people have excellent lives. But some people suffer from an extremely rare disease that makes life not worth living. In world B, no people exist.**
 
 
-![Person affecting views and the assymetry](/img/population-ethics-8.jpg "Person affecting views and the assymetry")
+![Person affecting views and the assymetry](/img/population-ethics-8.png "Person affecting views and the assymetry")
 
 
 Most people would prefer world A over an empty world B. But the simple procreative asymmetry would seem, perversely, to favor the empty world B since it counts the many good lives in world A for nothing while the few bad lives dominate the decision. On this view, there are no worthwhile trade-offs between good and bad lives. It would be better, supposedly, to have no lives at all.
