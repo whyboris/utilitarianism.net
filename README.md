@@ -6,7 +6,7 @@ This is a WIP repository that will replace the current _utilitarianism.net_ webs
 
 For detailed instructions if you're new to coding, see the [section below](#if-youve-not-coded-but-want-to-start)
 
-Make sure you have installed [Hugo](https://gohugo.io/getting-started/installing/) first. After cloning the repository, run `git submodule update --init` to download the themes submodule; this needs to be done only once. After this, just run the server:
+Make sure you have installed [Hugo](https://gohugo.io/getting-started/installing/) (v`0.101.0` or newer) first. After cloning the repository, run `git submodule update --init` to download the themes submodule; this needs to be done only once. After this, just run the server:
 
 ```sh
 hugo server -D
@@ -54,7 +54,7 @@ We enabled `unsafe` mode for _Markdown_ to allow [subscript](https://discourse.g
    - install a _terminal_ if you don't have one (on Mac try [Hyper](https://hyper.is), on Windows try [FluentTerminal](https://github.com/felixse/FluentTerminal) or [Terminus](https://github.com/Eugeny/terminus))
    - install [Hugo](https://gohugo.io/getting-started/installing/)
 2. When done, _clone_ this repository, enter it (`cd utilitarianism.net`) and install submodules (`git submodule update --init`).
-3. Install [VSCode](https://code.visualstudio.com) and open the folder to see the code.
-4. Start (`hugo server -D`) 🎉
+3. Install [VSCode](https://code.visualstudio.com) and open the folder with it to see the code.
+4. In your terminal execute (`hugo server -D`) 🎉
 
 Feel free to reach out with questions by going to [Issues](https://github.com/whyboris/utilitarianism.net/issues)
