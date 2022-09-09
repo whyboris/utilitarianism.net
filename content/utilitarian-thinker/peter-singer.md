@@ -1,3 +1,10 @@
+---
+title: "Peter Singer"
+date: 2022-08-08T10:10:59-04:00
+draft: false
+menu: "thinker"
+weight: 8
+---
 
 
 Singer was born in 1946, Melbourne, Australia, to an Austrian Jewish family that emigrated from Austria to escape persecution by the Nazis. He studied law, history and philosophy at the University of Melbourne, and majored in philosophy. He later did a B.Phil at Oxford University, where he associated with a vegetarian student group and became a vegetarian himself. Around this time he wrote _[Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book)) _(1975), which has been called the “bible” of the animal liberation movement.[^1] In 1999, Singer was appointed as Professor of Bioethics in the University Center for Human Values at Princeton. In 2004, he was recognized as the Australian Humanist of the Year by the Council of Australian Humanist Societies. He founded the non-profit organisation _[The Life You Can Save](https://www.thelifeyoucansave.org/)_, named after [his book of the same name](https://www.thelifeyoucansave.org/the-book/), and is often regarded as a core intellectual inspiration to the _effective altruism_ movement.[^2] Singer is the most famous and influential contemporary[ utilitarian](https://www.utilitarianism.net/introduction-to-utilitarianism) philosopher.
@@ -9,12 +16,9 @@ Singer is best known for his views on animal ethics. In his book _Animal Liberat
 Singer has also campaigned against [global poverty](https://www.utilitarianism.net/acting-on-utilitarianism#global-health-and-development). In 1972, he wrote a widely-cited article titled _[Famine, Affluence and Morality](https://www.utilitarianism.net/peter-singer-famine-affluence-and-morality)_ in which he introduces the famous [“drowning child” thought experiment](https://www.utilitarianism.net/peter-singer-famine-affluence-and-morality#drowning-child).[^4] The principle underlying it is that if one can save a life sacrificing nothing of moral significance, one has an obligation to do so. The implication of this principle is that people in rich countries have an obligation to give up at least some of their income to help the poor, insofar as it is possible. Singer has also argued that affluent nations ought to take much stronger action on climate change, and has argued in favor of the legalization of abortion and the legality of euthanasia.[^5]
 
 
-## How to cite this page
+{{< how-to-cite authors="Hampton, L." >}}
 
-Hampton, L. (2022). Peter Singer. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. &lt;https://www.utilitarianism.net/utilitarian-thinker/peter-singer>, accessed mm/dd/yyyy.
-
-
-## _['Want to learn more…?' Two-button banner]_
+{{< two-button >}}
 
 
 ## Representative Works of Peter Singer

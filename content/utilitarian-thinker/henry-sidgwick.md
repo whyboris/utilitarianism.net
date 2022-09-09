@@ -1,3 +1,11 @@
+---
+title: "Hencry Sidgwick"
+date: 2022-08-08T10:10:59-04:00
+draft: false
+menu: "thinker"
+weight: 6
+---
+
 Sidgwick was born in 1838 to a wealthy family in Yorkshire, England. He studied at Cambridge as an undergraduate, where he stayed for the rest of his life. While he is best known as a moral philosopher, he was also a political economist, epistemologist, classicist, theologist, educator, political theorist and parapsychologist (studying psychic phenomena, including telepathy and survival after death).[^1] At Cambridge, Sidgwick became a part of _“_the Apostles_”_: a secret society whose members discussed topics including ethics, truth and God. He married Eleanor Mildred Balfour, a scientist with whom he advocated to expand higher education for women and conducted parapsychological research. 
 
 ––––
@@ -7,12 +15,9 @@ Sidgwick is best known for writing _[The Methods of Ethics](https://www.earlymod
 Sidgwick was also a committed social reformer. His primary interest was the expansion of women’s higher education, and he founded Newnham College, Cambridge, for this purpose. He supported the secularization of education, and (temporarily) resigned from his fellowship at Cambridge University in 1869 when he could no longer subscribe to the Thirty-Nine Articles of the Church of England. He also supported poor relief, and, as a political economist, challenged the doctrine of laissez-faire.[^4]
 
 
-## How to cite this page
+{{< how-to-cite authors="Hampton, L." >}}
 
-Hampton, L. (2022). Henry Sidgwick. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. &lt;https://www.utilitarianism.net/utilitarian-thinker/henry-sidgwick>, accessed mm/dd/yyyy.
-
-
-## _['Want to learn more…?' Two-button banner]_
+{{< two-button >}}
 
 
 ## Representative Works of Henry Sidgwick

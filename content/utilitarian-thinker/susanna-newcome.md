@@ -1,3 +1,12 @@
+---
+title: "Susanna Newcome"
+date: 2022-08-08T10:10:59-04:00
+draft: false
+menu: "thinker"
+weight: 2
+---
+
+
 Susanna Newcome (1685-1763) was an eighteenth-century philosopher and theologian who lived and worked in England. Her most significant work, _An Enquiry into the Evidence of the Christian Religion_, contains an early formulation of utilitarian thought. In this short book, Newcome synthesizes contemporary developments in natural theology and moral psychology to offer a utilitarian account of the nature of ethics and our moral duties. 
 
 **Life and Works**
@@ -61,16 +70,12 @@ Although Newcome’s books were appreciated by her contemporaries, there are com
 The Anglican Utilitarian movement mentioned above was largely centered around the University of Cambridge. Important thinkers like John Gay, John Brown, Soame Jenyns, Edmund Law, Thomas Rutherforth, and William Paley were all educated at Cambridge, and many of them had subsequent positions at the university. Several of them also had connections to St John's College, where Newcome’s husband was the Master. Contemporary reports indicate that Newcome was respected for her intellect, up-to-date on contemporary intellectual trends, and much sought after as a discussion partner. She also published her utilitarian views earlier than did the other Anglican Utilitarians. All of this suggests that she may have been an important source for the views of thinkers like Law and Rutherforth. In any event, she deserves an important place in the history of utilitarianism’s development.
 
 
-## How to cite this page
+{{< how-to-cite authors="Connolly, P." >}}
 
-Connolly, P. (2022). Susanna Newcome. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. &lt;https://www.utilitarianism.net/utilitarian-thinker/susanna-newcome>, accessed mm/dd/yyyy.
-
-&lt;_Add "Want to learn more…" two-button banner>_
+{{< two-button >}}
 
 
 ## Works of Susanna Newcome
-
-
 
 * _[An Enquiry Into the Evidence of the Christian Religion](https://www.google.com/books/edition/An_Enquiry_Into_the_Evidence_of_the_Chri/sFlOAQAAIAAJ?hl=en&gbpv=0)_ (2<sup>nd</sup> Edition, 1732)
 * _[An Enquiry Into the Evidence of the Christian Religion](https://www.google.com/books/edition/An_Enquiry_Into_the_Evidence_of_the_Chri/a_2DvtpbbEgC?hl=en&gbpv=0)_ (1<sup>st</sup> Edition, 1728)
@@ -80,8 +85,6 @@ Connolly, P. (2022). Susanna Newcome. In R.Y. Chappell, D. Meissner, and W. MacA
 
 ## Resources on Susanna Newcome’s Life and Works
 
-
-
 * Connolly, P. J. (2021). “[Susanna Newcome and the Origins of Utilitarianism](https://doi.org/10.1017/S0953820821000108)”. _Utilitas_. 33(4): 384–398.
 * Connolly, P. J. (2019). “[Susanna Newcome’s Cosmological Argument](https://doi.org/10.1080/09608788.2018.1494543)”. _British Journal for the History of Philosophy_. 27(4): 842–859.
 * Enterline, S. R. (2020). _[No Apologies: The Life and Work of Susanna Newcome](http://noapologiesbook.com/)_.
@@ -89,8 +92,6 @@ Connolly, P. (2022). Susanna Newcome. In R.Y. Chappell, D. Meissner, and W. MacA
 
 
 ## Prominent Susanna Newcome Quotes
-
-
 
 * “Happiness is a term for collected pleasure, or a sum total of pleasure.” (_Enquiry_)
 * “A good being…is, one who wills and promotes the happiness of all mankind, as much as is in his power.” (_Enquiry_)

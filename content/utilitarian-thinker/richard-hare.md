@@ -1,3 +1,11 @@
+---
+title: "Richard M. Hare"
+date: 2022-08-08T10:10:59-04:00
+draft: false
+menu: "thinker"
+weight: 7
+---
+
 
 Richard M. Hare (1919 - 2002) is usually acknowledged to be one of the major moral thinkers of the 20th century. After being a Japanese prisoner of war for most of World War II, he completed his education at Oxford, later joining the faculty and becoming a professor. In 1983 he moved to the University of Florida but still kept his ties with Oxford. He had many students, including [Peter Singer](https://www.utilitarianism.net/utilitarian-thinker/peter-singer). At a memorial service for Hare in 2002, Singer ascribed to him three major achievements in moral philosophy, namely “restoring reason to moral argument, distinguishing intuitive and critical levels of moral thinking, and pioneering the development of practical or applied ethics”.[^1]
 
@@ -48,12 +56,9 @@ Hare does not attempt to resolve every issue in utilitarianism. We are still lef
 What Hare has given us is not a solution to the world’s problems but a set of powerful analyses of moral reasoning that we can use to criticize and improve our own reasoning and that of others. Hare himself has written a large variety of essays in which he applies these tools to particular problems such as those that arise in bioethics, politics, education and religion. This includes many of the usual hot button issues, such as controversies about abortion, which Hare approaches from a utilitarian perspective but never based simply on calculating total utility. Considered by Singer to be the founder of applied ethics, Hare regarded moral philosophy not as an exercise in academic analysis but as a set of tools to be used in the real world.
 
 
-## How to cite this page
+{{< how-to-cite authors="Baron, J." >}}
 
-Baron, J. (2022). Richard M. Hare. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. &lt;https://www.utilitarianism.net/utilitarian-thinker/richard-hare>, accessed mm/dd/yyyy.
-
-
-## _['Want to learn more…?' Two-button banner]_
+{{< two-button >}}
 
 
 ## Representative Works of Richard M. Hare:

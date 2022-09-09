@@ -1,3 +1,11 @@
+---
+title: "Jeremy Bentham"
+date: 2022-08-08T10:10:59-04:00
+draft: false
+menu: "thinker"
+weight: 3
+---
+
 
 Jeremy Bentham was born in 1748 to a wealthy family. A child prodigy, his father sent him to study at Queen’s College, Oxford University, aged 12. Although he never practiced, Bentham trained as a lawyer and wrote extensively on law and legal reform. He died in 1832 at the age of 84 and requested his body and head to be preserved for scientific research. They are currently on display at University College London.
 
@@ -10,11 +18,9 @@ Many of Bentham’s views were considered radical in Georgian and Victorian Brit
 Bentham also applied the principle of utility to the reform of political institutions. Believing that with greater education, people can more accurately discern their long-term interests, and seeing progress in education within his own society, he supported democratic reforms such as the extension of the suffrage. He also advocated for greater freedom of speech, transparency and publicity of officials as accountability mechanisms. A committed atheist, he argued in favor of the separation of church and state.
 
 
-## How to cite this page
+{{< how-to-cite authors="Hampton, L." >}}
 
-Hampton, L. (2022) Jeremy Bentham. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds) _An Introduction to Utilitarianism_. &lt;https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham>, accessed mm/dd/yyyy.
-
-_['Want to learn more…?' Two-button banner]_
+{{< two-button >}}
 
 
 ## Representative Works of Jeremy Bentham

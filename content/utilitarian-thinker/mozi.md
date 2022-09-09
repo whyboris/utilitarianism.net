@@ -1,3 +1,11 @@
+---
+title: "Mozi"
+date: 2022-08-08T10:10:59-04:00
+draft: false
+menu: "thinker"
+weight: 1
+---
+
 
 Mò Dí (墨翟), better known as Mòzǐ or “Master Mò,” flourished c. 430 BCE in what is now Tengzhou, Shandong Province, China.[^1] Likely an artisan by craft, Mò Dí attracted many dedicated followers and founded the philosophical school of Mohism during China’s Warring States Period (475 - 221 BCE).
 
@@ -15,21 +23,17 @@ The Mohists are also the first to introduce a sophisticated version of conceptua
 
 ## How to cite this page
 
-John, T. (2022). Mozi. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. &lt;https://www.utilitarianism.net/utilitarian-thinker/mozi>, accessed mm/dd/yyyy.
+{{< how-to-cite authors="John, T." >}}
 
-_['Want to learn more…?' Two-button banner]_
+{{< two-button >}}
 
 
 ## Representative works of Mò Dí 
-
-
 
 * _[Mòzǐ](https://ctext.org/mozi)_ (c. 3rd Century BCE)
 
 
 ## Resources on Mò Dí’s Life and Work
-
-
 
 * Fraser, C. (2015).[ Mohism](https://plato.stanford.edu/entries/sidgwick/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
 * Fraser, C. (2016). _The Philosophy of the Mòzǐ_: _The First Consequentialists._ New York: Columbia University Press.
@@ -37,8 +41,6 @@ _['Want to learn more…?' Two-button banner]_
 
 
 ## Prominent Mò Dí Quotes
-
-
 
 * “Universal love is really the way of the sage-kings. It is what gives peace to the rulers and sustenance to the people.” (_Mòzǐ_ 4: 12, W. P. Mei_ _transl.)
 * “The benevolent person planning on behalf of the world is like this… If the world is poor, he undertakes to enrich it; if the people are few, he undertakes to increase their number; if the multitude is in disorder, he undertakes to put them in order. When he is in these situations, there are indeed cases when his strength is insufficient, his resources exhausted, or his knowledge lacking, and then he gives up. In no case would he dare spare any effort, conceal any scheme, or withhold any benefit without pursuing them on behalf of the world.” (_Mòzǐ _25: 1, C. Fraser transl.)

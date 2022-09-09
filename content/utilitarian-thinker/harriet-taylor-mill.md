@@ -1,3 +1,11 @@
+---
+title: "Harriet Taylor Mill"
+date: 2022-08-08T10:10:59-04:00
+draft: false
+menu: "thinker"
+weight: 5
+---
+
 Harriet Taylor Mill (née Hardy) was born in 1807 in Walworth, South London, as the daughter of a midwife. She was educated at home and became interested in poetry and writing at a young age. She married John Taylor, a pharmacist, aged 18. Even before she met John Stuart Mill, she was writing extensively on topics such as women’s rights (particularly in marriage, domestic violence and education), politics, ethics and religious toleration. At the same time, she was a mother to three children. 
 
 Harriet Taylor met John Stuart Mill in 1831 at a dinner. The two formed a close friendship and intellectual partnership over the next twenty years, and their relationship soon became romantic. They eventually married in 1851, two years after the death of her husband. The form of their marriage reflected the pair’s deep commitment to equality: Stuart Mill dismissed in writing any legal rights he would acquire over her. They continued to collaborate until Taylor Mill died in 1858 of respiratory failure.
@@ -9,12 +17,9 @@ To this date, there exists a large amount of debate over the extent of Harriet T
 Taylor Mill is most famous, however, for her views on women’s rights, expressed in her 1851 essay _[The Enfranchisement of Women](https://www.utilitarianism.net/books/enfranchisement-of-women-harriet-taylor-mill)_ and developed further in Stuart Mill’s 1869 essay _[The Subjection of Women](https://www.utilitarianism.net/books/the-subjection-of-women-john-stuart-mill/1)_. She supported “_equality in all rights, political, civil, and social, with the male citizens of the community_”.[^4] For example, she argued that paid work by married women is not only permissible but desirable because_ _“_dependence on the woman’s side [on her husband] is demoralising to the character of both_”.[^5] She was also outspoken on marriage, likening contemporary forms of marriage to slavery as based on the threat of physical force (domestic violence), and promoted instead a companionate model of marriage based on mutual attraction. Her writings on marriage, divorce, domestic violence, and women’s economic, educational and civil empowerment were all valuable contributions to the early feminist movement.
 
 
-## How to cite this page
+{{< how-to-cite authors="Hampton, L." >}}
 
-Hampton, L. (2022) Harriet Taylor Mill. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. &lt;https://www.utilitarianism.net/utilitarian-thinker/harriet-taylor-mill>, accessed mm/dd/yyyy.
-
-
-## _['Want to learn more…?' Two-button banner]_
+{{< two-button >}}
 
 
 ## Representative Works of Harriet Taylor Mill

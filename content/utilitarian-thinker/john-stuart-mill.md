@@ -1,3 +1,11 @@
+---
+title: "John Stuart Mill"
+date: 2022-08-08T10:10:59-04:00
+draft: false
+menu: "thinker"
+weight: 4
+---
+
 
 John Stuart Mill was born in 1806, in London. He was the son of James Mill, a friend of [Jeremy Bentham](https://docs.google.com/document/d/1Mi_jB3JNfyEv-roBL2Z7iiCV1KXLS2Mza92k1tpuCfk/edit#)’s who shared many of his principles. James intended that his son carry on the radical utilitarian empiricist tradition, and this was reflected in his upbringing: John learned Greek and arithmetic at 3, and helped to edit his father’s book (_the History of India_) at 11.[^1] Mill was influenced by the thought of both Jeremy Bentham and political economist David Ricardo (another friend of his father’s), and himself committed to [utilitarianism](https://www.utilitarianism.net/introduction-to-utilitarianism) after reading Bentham’s _Traités de Legislation_. However, his commitment to Benthamite utilitarianism was cut short by a depression he experienced at 20. According to his autobiography:
 
@@ -13,12 +21,9 @@ Mill was a committed advocate of social and political reform. He was a member of
 Mill’s own thought departed from Bentham’s in his conception of happiness. Bentham believed that the happiness produced by an action can be measured by a “[felicific calculus](https://www.utilitarianism.net/glossary#hedonic-calculus)”, that is, by its intensity, duration, certainty, propinquity (closeness/remoteness), fecundity (probability that the action will be followed by sensations of the same kind), purity (probability that the action will be followed by sensations of a different kind), and extent (the number of people the action affects). Mill believed there are different _qualities _as well as quantities of pleasure. According to some interpretations of his writing, he believed that no amount of so-called _lower _or bodily pleasures could be more valuable than _higher _or mental pleasure. This enlarged conception of happiness led him to place great importance on individuality, freedom of speech and expression, democracy, art, culture and education.[^6]
 
 
-## How to cite this page
+{{< how-to-cite authors="Hampton, L." >}}
 
-Hampton, L. (2022). John Stuart Mill. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), _An Introduction to Utilitarianism_. &lt;https://www.utilitarianism.net/utilitarian-thinker/john-stuart-mill>, accessed mm/dd/yyyy.
-
-
-## _['Want to learn more…?' Two-button banner]_
+{{< two-button >}}
 
 
 ## Representative Works of John Stuart Mill
