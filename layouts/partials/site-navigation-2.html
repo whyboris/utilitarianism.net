@@ -1,5 +1,41 @@
 <div class="site-navigation-header sub-header">
 
+    <div class="dropdown header-navigation-item">
+      
+      <a href="/utilitarian-thinkers">
+        <span>Utilitarian Thinkers</span>
+      </a>
+
+      <div class="table-of-contents dropdown-content">
+
+        {{ if .Site.Menus.thinker }}
+
+          <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+            
+            {{ range .Site.Menus.thinker }}
+
+            <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+              <li class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+                  {{ .Name }}
+                  
+                  <span class="author">
+                    {{ with .Page }}
+                    {{ .Params.author }}
+                    {{ end }}
+                  </span>
+                </li>
+              </a>
+
+            {{ end }}
+
+          </ul>
+
+        {{ end }}
+
+      </div>
+
+    </div>
+
     <div class="header-navigation-item">
       <a href="/utilitarian-quotes">Utilitarian Quotes</a>
     </div>
