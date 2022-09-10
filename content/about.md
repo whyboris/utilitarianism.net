@@ -27,21 +27,32 @@ You can get in touch with us at contact[at]utilitarianism.net
 
 ## Endorsements
 
+![Kwame Anthony Appiah](/img/about/Kwame-Anthony-Appiah.jpg "Kwame Anthony Appiah")
+
+
 > “I'll certainly be referring my students to this very useful resource. Enthusiasm for utilitarianism among moral philosophers has ebbed and flowed since the modern version of it was laid out in the nineteenth-century; but the importance of the utilitarian tradition in providing elaborate, well-developed, general theories for thinking about how we ought to behave has been clear all along. This site provides lucid introductions to the major contributions of and challenges to utilitarian thinking, today.”
 
 \- Prof. [Kwame Anthony Appiah](https://www.appiah.net/), New York University
+
+![Joshua Greene](/img/about/Joshue-Greene.jpg "Joshua Greene")
 
 > “Utilitarianism.net is the online face of utilitarianism and a portal into a realm of world-changing ideas. Utilitarian thought has advanced human progress for centuries, and yet this philosophy is widely misunderstood. Utilitarianism.net is not only the most inviting and illuminating resource on utilitarianism for students. Its updated historical entries, rigorous dialectical explanations, and applications to real-world problems make it a fantastic resource for seasoned scholars as well.”
 
 \- Prof. [Joshua Greene](https://www.joshua-greene.net/), Harvard University
 
+![Katarzyna de Lazari-Radek](/img/about/Katarzyna-de-Lazari-Radek.jpg "Katarzyna de Lazari-Radek")
+
 > “Gaining knowledge has never been as easy as in the era of widespread internet access. Utilitarianism.net is the result of the work and commitment of many great philosophers from around the world. It is a project that helps you to understand one of the most important and interesting ethical theories in an accessible yet not oversimplified way.”
 
 — Prof. [Katarzyna de Lazari-Radek](https://en.wikipedia.org/wiki/Katarzyna_de_Lazari-Radek), University of Łódź
 
+![Philip Pettit](/img/about/Philip-Pettit.jpg "Philip Pettit")
+
 > “This is the perfect introduction to utilitarianism: comprehensive, critical and accessible as a basis for classroom discussion or public debate.”
 
 \- Prof. [Philip Pettit](https://www.princeton.edu/~ppettit/), Princeton University / Australian National University
+
+![Peter Singer](/img/about/Peter-Singer-photo-credit-Alletta-Vaandering.jpg "Peter Singer")
 
 > “Utilitarianism.net is the place to go for clear, full and fair accounts of what utilitarianism is, the arguments for it, the main objections to it, special issues like population ethics, and what living as a utilitarian involves. You will also discover thinkers you never knew about, like the early utilitarian Susanna Newcome. I recommend it to all my students interested in normative ethics.”
 
@@ -52,7 +63,9 @@ You can get in touch with us at contact[at]utilitarianism.net
 This website was launched from [Queen's Lane Coffee House](http://www.qlcoffeehouse.com/) in Oxford, where [Jeremy Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham) first discovered utilitarianism:
 
 
-**IMAGE GOES HERE**
+
+![Queen's Lane Coffee House](/img/about/Queens-Lane-Coffee-House.jpg "Queen's Lane Coffee House")
+
 
 > Dr. Priestley published his Essay on Government in 1768. He there introduced as the only reasonable and proper object of government, ‘**the greatest happiness of the greatest number.**’ (...) Somehow or other, shortly after its publication, a copy of this pamphlet found its way into the little circulating library belonging to a **little coffee-house attached to Queen’s College, Oxford.** It was a corner house, having one front towards the High Street, another towards a narrow lane, which on that side skirts Queen’s College, and loses itself in a lane issuing from one of the gates of New College. (...)
 
