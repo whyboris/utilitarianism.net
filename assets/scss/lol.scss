@@ -7,6 +7,24 @@ code {
   font-family: Merriweather;
 }
 
+.thinker {
+  width: 235px;
+  height: 235px;
+  float: left;
+  
+  & + p {
+    margin-left: 235px;
+    margin-top: 0;
+    padding: 0 20px;
+  }
+}
+
+.read-more {
+  clear: both;
+  text-align: right;
+  transform: translate(-30px, -50px);
+}
+
 .site-footer {
   background-color: #363636;
   padding: 50px;
