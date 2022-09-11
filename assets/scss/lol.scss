@@ -8,14 +8,13 @@ code {
 }
 
 .thinker {
-  width: 235px;
-  height: 235px;
   float: left;
+  height: 235px;
+  margin-right: 20px;
+  width: 235px;
   
   & + p {
-    margin-left: 235px;
     margin-top: 0;
-    padding: 0 20px;
   }
 }
 
@@ -262,6 +261,9 @@ strong {
 }
 
 hr {
+  border: none;
+  height: 1px;
+  background-color: #b0b0b080;
   margin: 40px 0;
 }
 

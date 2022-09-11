@@ -6,6 +6,7 @@ menu: "thinker"
 weight: 7
 ---
 
+{{< inline-image image="/img/thinkers/Richard-M-Hare.jpg" text="Richard M Hare" >}}
 
 Richard M. Hare (1919 - 2002) is usually acknowledged to be one of the major moral thinkers of the 20th century. After being a Japanese prisoner of war for most of World War II, he completed his education at Oxford, later joining the faculty and becoming a professor. In 1983 he moved to the University of Florida but still kept his ties with Oxford. He had many students, including [Peter Singer](https://www.utilitarianism.net/utilitarian-thinker/peter-singer). At a memorial service for Hare in 2002, Singer ascribed to him three major achievements in moral philosophy, namely “restoring reason to moral argument, distinguishing intuitive and critical levels of moral thinking, and pioneering the development of practical or applied ethics”.[^1]
 
@@ -17,21 +18,21 @@ By contrast, Hare rejected several other views, including _[naturalism](https://
 
 Hare also rejected reliance on _[emotivism](https://plato.stanford.edu/entries/moral-cognitivism/#Emo)_, the claim that a statement like “abortion is wrong” merely amounts to “abortion, boooh...and I would like you to feel the same way”. Emotivism avoids the pitfalls of naturalism, but it leads to relativism: each of us has our own answers to what is right and wrong, and we have no way to reason about our differences. While Hare deemed relativism unacceptable, he believed the emotivist idea that moral judgments have something to do with emotions and preferences is worth saving.
 
-Similarly, Hare rejected reliance on moral intuitions, even when attempts are made to systematize them by “_[reflective equilibrium](https://plato.stanford.edu/entries/reflective-equilibrium/)_”. Hare thought that while such an intuition-based enterprise can lead to a psychological account of our intuitions, it would not be a _normative _account. For Hare, even the reflective equilibrium could be unacceptably culturally relative—since much of our moral intuitions are specific to the culture we have grown up in. Hare's last major book, _Moral Thinking_ (1981), deals largely with the nature of moral intuitions.
+Similarly, Hare rejected reliance on moral intuitions, even when attempts are made to systematize them by “_[reflective equilibrium](https://plato.stanford.edu/entries/reflective-equilibrium/)_”. Hare thought that while such an intuition-based enterprise can lead to a psychological account of our intuitions, it would not be a _normative_ account. For Hare, even the reflective equilibrium could be unacceptably culturally relative—since much of our moral intuitions are specific to the culture we have grown up in. Hare's last major book, _Moral Thinking_ (1981), deals largely with the nature of moral intuitions.
 
 With that out of the way, Hare sought to solve the problem of how to think and argue rationally about morality differently from thinking about matters of fact. The main element of Hare’s solution to this problem is his claim that moral statements are _prescriptive_; that is, they say something about what to do. In that regard, they are like imperative statements such as “shut the window”.
 
 Importantly, prescriptive statements are subject to logical analysis. The logic of these statements holds, for example, that we cannot derive a prescriptive conclusion without a prescriptive premise in the syllogism. For instance, consider the statement, “Stop it from raining into the house; shutting the window is the only way to stop it from raining into the house; therefore, shut the window”. While you would not actually say this, the logic works.
 
-In addition to being prescriptive, Hare believed that moral statements—such as “slavery is wrong”—are _universal, _thus bringing his analysis closer to Kant's. Without qualification or conditions, the previous statement means that slavery is always wrong. Moral statements are like necessary statements about matters of fact, such as “Prime numbers other than three are not divisible by three”. This means “never”, in contrast to “It is possible that a rational number is divisible by three”, which is a statement of possibility, not necessity. The idea of universality is also present in Kant's categorical imperative. If you say that it is wrong, in the moral sense, for me to break a particular promise to you, but not for you to break that particular promise to me (or anyone) in exactly the same situation (except that our roles are reversed), then something is wrong with your reasoning.
+In addition to being prescriptive, Hare believed that moral statements—such as “slavery is wrong”—are _universal_, thus bringing his analysis closer to Kant's. Without qualification or conditions, the previous statement means that slavery is always wrong. Moral statements are like necessary statements about matters of fact, such as “Prime numbers other than three are not divisible by three”. This means “never”, in contrast to “It is possible that a rational number is divisible by three”, which is a statement of possibility, not necessity. The idea of universality is also present in Kant's categorical imperative. If you say that it is wrong, in the moral sense, for me to break a particular promise to you, but not for you to break that particular promise to me (or anyone) in exactly the same situation (except that our roles are reversed), then something is wrong with your reasoning.
 
 Consequently, Hare's view is called _universal prescriptivism_. The property of universality in particular does a lot of work in Hare’s arguments.
 
-Another major contribution of Hare’s is the idea of two levels of moral thinking, which first appeared in_ Freedom and Reason_ (1963, section 3.6) but was fully developed in _Moral Thinking_ (1981).
+Another major contribution of Hare’s is the idea of two levels of moral thinking, which first appeared in _Freedom and Reason_ (1963, section 3.6) but was fully developed in _Moral Thinking_ (1981).
 
 Many common [criticisms of utilitarianism](https://www.utilitarianism.net/objections-to-utilitarianism) concern its conflict with moral intuitions. Many of these intuitions, in turn, involve hypothetical examples, such as the much-studied footbridge case invented by Philippa Foot, in which your choice is whether to push a fat man off of a footbridge to stop a runaway trolley that would kill five people if not stopped.[^3] Of course, many of our intuitions concern real-world issues rather than philosophers’ thought experiments. For example, some people’s intuition says that killing innocent people is always wrong or that torture should be completely prohibited even if a general policy that permitted it under certain conditions would save many lives. Yet, since intuitions differ from person to person, it is hard to agree on the right action or policy, whether in hypothetical or real cases. Hare seeks to answer how people could argue about such moral disputes.
 
-To this end, Hare argues that we have [two levels of moral thinking](https://www.utilitarianism.net/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism), _intuitive _and _critical_. The critical level follows universal prescriptivism. The intuitive level provides us with principles that we may follow in our daily lives, such as not stealing or breaking promises. Presumably, Hare regards some intuitive principles as absolute while others are _prima facie_, to be overridden in case of conflict with other rules or considerations. Most intuitive principles are simple and easy to (try to) follow, and they are the source of our moral intuitions.
+To this end, Hare argues that we have [two levels of moral thinking](https://www.utilitarianism.net/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism), _intuitive_ and _critical_. The critical level follows universal prescriptivism. The intuitive level provides us with principles that we may follow in our daily lives, such as not stealing or breaking promises. Presumably, Hare regards some intuitive principles as absolute while others are _prima facie_, to be overridden in case of conflict with other rules or considerations. Most intuitive principles are simple and easy to (try to) follow, and they are the source of our moral intuitions.
 
 Importantly, Hare claims that we learn many of these rules from our culture and that they have evolved to be reasonably consistent with universal prescriptivism. Out of intellectual humility alone, it is wise to follow the rules we have been taught most of the time, even when we think we should not. ([J. S. Mill](https://www.utilitarianism.net/utilitarian-thinker/john-stuart-mill) made similar arguments in _[On Liberty](https://www.utilitarianism.net/books/on-liberty-john-stuart-mill/1)_ for conclusions like the priority of free speech.) One of Hare’s examples is adultery. Too many people might be tempted, he argues, to follow the example in _[Lady Chatterly's Lover](https://en.wikipedia.org/wiki/Lady_Chatterley%27s_Lover)_, convincing themselves that adultery is consistent with the greater good, while distorting their factual beliefs , so that they are actually wrong. Instead, Hare believes it is best to follow the intuitive principle not to engage in adultery. Thus, Hare himself, along with [Sidgwick](https://www.utilitarianism.net/utilitarian-thinker/henry-sidgwick), is on the “conservative” side of this issue, putting considerable trust in the intuitive rules that a good upbringing would instill, and arguing that moral education should teach people the useful rules. Other utilitarians, such as [Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham), [Mill](https://www.utilitarianism.net/utilitarian-thinker/john-stuart-mill) and [Singer](https://www.utilitarianism.net/utilitarian-thinker/peter-singer), have taken [more reformist positions](https://www.utilitarianism.net/introduction-to-utilitarianism#track-record), arguing against many of the rules that their culture promoted.
 
@@ -55,13 +56,11 @@ Hare does not attempt to resolve every issue in utilitarianism. We are still lef
 
 What Hare has given us is not a solution to the world’s problems but a set of powerful analyses of moral reasoning that we can use to criticize and improve our own reasoning and that of others. Hare himself has written a large variety of essays in which he applies these tools to particular problems such as those that arise in bioethics, politics, education and religion. This includes many of the usual hot button issues, such as controversies about abortion, which Hare approaches from a utilitarian perspective but never based simply on calculating total utility. Considered by Singer to be the founder of applied ethics, Hare regarded moral philosophy not as an exercise in academic analysis but as a set of tools to be used in the real world.
 
-
 {{< how-to-cite authors="Baron, J." >}}
 
 {{< two-button >}}
 
-
-## Representative Works of Richard M. Hare:
+## Representative Works of Richard M. Hare
 
 * Hare, R. M. (1952). _[The Language of Morals](http://doi.org/10.1093/0198810776.001.0001)_. Oxford: Clarendon Press.
 * Hare, R. M. (1963). _[Freedom and Reason](http://doi.org/10.1093/019881092X.001.0001)_. Oxford: Clarendon Press.
@@ -72,13 +71,11 @@ What Hare has given us is not a solution to the world’s problems but a set of 
 * Hare, R. M. (1992). _[Essays on Religion and Education](https://global.oup.com/academic/product/essays-on-religion-and-education-9780198249979)_. Oxford: Oxford University Press.
 * Hare, R. M. (1997). _[Sorting Out Ethics](http://doi.org/10.1093/0198250320.001.0001)_. Oxford: Oxford University Press.
 
-
 ## Resources on Richard M. Hare’s Life and Work
 
 * Price, A. (2019). [Richard Mervyn Hare](https://plato.stanford.edu/entries/hare). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
 * Singer, P. (2002). [R. M. Hare's Achievements in Moral Philosophy](https://doi.org/10.1017/S0953820800003629). _Utilitas_, 14(3), 309-317.
 * [R. M. Hare](https://web.archive.org/web/20210314180836/https://www.utilitarian.net/hare/) resources page containing Hare's writings, secondary literature, reviews, obituaries and a bibliography [archive]
-
 
 ## Prominent Quotes of Richard M. Hare
 
@@ -87,12 +84,9 @@ What Hare has given us is not a solution to the world’s problems but a set of 
 * “[In the bilateral case]...if I have full knowledge of the other person's preferences, I shall myself have acquired preferences equal to his regarding what should be done to me were I in his situation; and these are the preferences which are now conflicting with my original prescription. So we have in effect not an interpersonal conflict of preferences or prescriptions, but an intrapersonal one; both of the conflicting preferences are mine...Multilateral cases now present less difficulty than at first appeared. For in them too the interpersonal conflicts...will reduce themselves, given full knowledge of the preferences of others, to intrapersonal ones.” (Moral Thinking, p. 110, 1981)
 * “It is said that the prescription to keep all black people in subjection is formally universal, and internally consistent, and so is not ruled out by the Categorical Imperative. But the point is: can somebody who has fully represented to himself the situation of black people who are kept in subjection go on willing that they should be so treated? For if he has fully represented this to himself, he will have formed a preference that he should not be so treated if he is a black person; and this is inconsistent with the universal form of the proposed maxim. There is of course the problem of the fanatical black-hater who is prepared to prescribe that the maxim should be followed even if he himself were a black person. I have discussed the case of this fanatic at length in my books...and I think I have shown that my theory can deal with him. At any rate the Kantian move can be used in arguments with ordinary non-fanatical people.” (Sorting Out Ethics, p. 135, 1997)
 
-
 ### About the Author
 
 **[Jonathan Baron](https://www.sas.upenn.edu/~baron/)** is a retired professor of psychology at the University of Pennsylvania. His main research interest is moral judgment, particularly citizens' judgments about public policy. He has published books and articles concerning utilitarianism and its applications, as well as psychology.
-
-
 
 [^1]:
      Singer, P. (2002). [R. M. Hare's Achievements in Moral Philosophy](https://doi.org/10.1017/S0953820800003629). _Utilitas_, 14(3): 309–317.
