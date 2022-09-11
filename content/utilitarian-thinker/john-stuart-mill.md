@@ -6,6 +6,7 @@ menu: "thinker"
 weight: 4
 ---
 
+{{< inline-image image="/img/thinkers/John-Stuart-Mill.jpg" text="John Stuart Mill" >}}
 
 John Stuart Mill was born in 1806, in London. He was the son of James Mill, a friend of [Jeremy Bentham](https://docs.google.com/document/d/1Mi_jB3JNfyEv-roBL2Z7iiCV1KXLS2Mza92k1tpuCfk/edit#)’s who shared many of his principles. James intended that his son carry on the radical utilitarian empiricist tradition, and this was reflected in his upbringing: John learned Greek and arithmetic at 3, and helped to edit his father’s book (_the History of India_) at 11.[^1] Mill was influenced by the thought of both Jeremy Bentham and political economist David Ricardo (another friend of his father’s), and himself committed to [utilitarianism](https://www.utilitarianism.net/introduction-to-utilitarianism) after reading Bentham’s _Traités de Legislation_. However, his commitment to Benthamite utilitarianism was cut short by a depression he experienced at 20. According to his autobiography:
 
@@ -14,7 +15,7 @@ John Stuart Mill was born in 1806, in London. He was the son of James Mill, a fr
 
 This depression was only lifted when he moved beyond the confines of his Enlightenment intellectual background. He dived into poetry, particularly that of Wordsworth, and explored the thought of more radical thinkers such as Auguste Comte and Saint-Simon. Mill’s thought was also heavily influenced by [Harriet Taylor](https://docs.google.com/document/d/1Mi_jB3JNfyEv-roBL2Z7iiCV1KXLS2Mza92k1tpuCfk/edit#), an important utilitarian and feminist thinker in her own right, whom he fell in love with while she was still married to another man. Mill admired Harriet greatly, and insisted that she inspired many of his later works, including _[On Liberty](https://www.utilitarianism.net/books/on-liberty-john-stuart-mill/1)_ and _[The Subjection of Women](https://www.utilitarianism.net/books/the-subjection-of-women-john-stuart-mill/1)_.[^3] Mill became active in politics in the later stage of his life, sitting as an MP for the Liberal Party and representing the working class. Mill died in 1873, outliving Harriet Taylor Mill by 15 years.
 
-––––
+---
 
 Mill was a committed advocate of social and political reform. He was a member of the “Philosophical Radicals”, a group of political and philosophical thinkers inspired by the utilitarianism and radicalism of Jeremy Bentham. He was the second MP to call for women’s suffrage,[^4] and supported gender equality more generally, particularly in the domestic sphere. This was at a time when women ceased to be separate legal entities and property-owners upon marriage. He objected to women being denied the vote not only because he believed that it prevents them from advancing their own interests, but also because it impedes the cultural and intellectual development he thought happiness consists in. He rejected all supposed “natural” differences between men and women because any observed differences are products of the unequal environment in which women are raised. Mill’s staunch support of women’s rights often attracted the criticism of fellow Victorians, and at one point he was imprisoned for distributing birth-control pamphlets.[^5] Mill also preferred more equal distributions of wealth and supported various social welfare initiatives such as labour unions and cooperatives.
 

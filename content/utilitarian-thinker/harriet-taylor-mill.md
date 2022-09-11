@@ -6,11 +6,13 @@ menu: "thinker"
 weight: 5
 ---
 
+{{< inline-image image="/img/thinkers/Harriet-Taylor-Mill.jpg" text="Harriet Taylor Mill" >}}
+
 Harriet Taylor Mill (née Hardy) was born in 1807 in Walworth, South London, as the daughter of a midwife. She was educated at home and became interested in poetry and writing at a young age. She married John Taylor, a pharmacist, aged 18. Even before she met John Stuart Mill, she was writing extensively on topics such as women’s rights (particularly in marriage, domestic violence and education), politics, ethics and religious toleration. At the same time, she was a mother to three children. 
 
 Harriet Taylor met John Stuart Mill in 1831 at a dinner. The two formed a close friendship and intellectual partnership over the next twenty years, and their relationship soon became romantic. They eventually married in 1851, two years after the death of her husband. The form of their marriage reflected the pair’s deep commitment to equality: Stuart Mill dismissed in writing any legal rights he would acquire over her. They continued to collaborate until Taylor Mill died in 1858 of respiratory failure.
 
-––––
+---
 
 To this date, there exists a large amount of debate over the extent of Harriet Taylor Mill’s collaboration with John Stuart Mill. Despite Stuart Mill’s praise⁠—he once wrote to her that _“the better half of [all my work] is yours_”[^1]⁠—many of her contemporaries and more recent historians dismissed her abilities. Among other things, she has been branded “_a philosopher in petticoats_”, “_a female autocrat_”, and “_a domineering, (...) perverse and selfish, invalid woman_”.[^2] However, it is certain that Taylor Mill, as well as being a formidable thinker in her own right, contributed significantly to John Stuart Mill’s thought, who systematized her insights into a utilitarian framework. For example, she wrote one chapter of Mill’s _Principles of Political Economy_ on the importance of education to the working classes and the future of socialism, and is credited for highlighting to Mill the crucial distinction between the production and distribution of wealth––a distinction often glossed over by contemporary economists, and that contributed to Stuart Mill’s own growing political radicalism. Stuart Mill referred to _[On Liberty](https://www.utilitarianism.net/books/on-liberty-john-stuart-mill/1)_, a radical utilitarian defense of individuality and liberalism, as a “_joint production_” of him and Harriet.[^3] 
 

@@ -6,6 +6,7 @@ menu: "thinker"
 weight: 1
 ---
 
+{{< inline-image image="/img/thinkers/Mozi.jpg" text="Mozi" >}}
 
 Mò Dí (墨翟), better known as Mòzǐ or “Master Mò,” flourished c. 430 BCE in what is now Tengzhou, Shandong Province, China.[^1] Likely an artisan by craft, Mò Dí attracted many dedicated followers and founded the philosophical school of Mohism during China’s Warring States Period (475 - 221 BCE).
 

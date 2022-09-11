@@ -6,10 +6,11 @@ menu: "thinker"
 weight: 3
 ---
 
+{{< inline-image image="/img/thinkers/Jeremy-Bentham.jpg" text="Jeremy Bentham" >}}
 
 Jeremy Bentham was born in 1748 to a wealthy family. A child prodigy, his father sent him to study at Queen’s College, Oxford University, aged 12. Although he never practiced, Bentham trained as a lawyer and wrote extensively on law and legal reform. He died in 1832 at the age of 84 and requested his body and head to be preserved for scientific research. They are currently on display at University College London.
 
-––––
+---
 
 Jeremy Bentham is often regarded as the founder of [classical utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism#the-two-elements-of-classical-utilitarianism). According to Bentham himself, it was in 1769 he came upon “the principle of utility”, inspired by the writings of Hume, Priestley, Helvétius and Beccaria.[^1] This is the principle at the foundation of [utilitarian ethics](https://www.utilitarianism.net/introduction-to-utilitarianism), as it states that any action is right insofar as it increases happiness, and wrong insofar as it increases pain. For Bentham, _happiness_ simply meant pleasure and the absence of pain and could be quantified according to its intensity and duration. Famously, he rejected the idea of inalienable natural rights—rights that exist independent of their enforcement by any government—as “nonsense on stilts”.[^2] Instead, the application of the principle of utility to law and government guided Bentham’s views on legal rights. During his lifetime, he attempted to create a “utilitarian pannomion”—a complete body of law based on the utility principle. He enjoyed several modest successes in law reform during his lifetime (as early as 1843, the Scottish historian John Hill Burton was able to trace twenty-six legal reforms to Bentham’s arguments)[^3] and continued to exercise considerable influence on British public life.
 
