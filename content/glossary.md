@@ -1,29 +1,45 @@
+---
+title: "Glossary"
+date: 2022-08-08T10:10:59-04:00
+draft: false
+weight: 1
+---
 
 This page provides an overview with brief descriptions of key utilitarian terms and relevant links.
 
-**Act utilitarianism**
+<details>
+<summary>Act utilitarianism<span class="icon"></span></summary>
 
 Act utilitarianism is the view that one morally ought to promote just the sum total of well-being.[^1] Act utilitarianism is the best known version of [direct consequentialism](https://www.utilitarianism.net/types-of-utilitarianism#consequentialism) and is often contrasted with _rule utilitarianism_, an indirect consequentialist view. Contemporary utilitarian philosophers often endorse [global utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism#global-utilitarianism-versus-hybrid-utilitarianism), which emphasizes that utilitarian standards of moral evaluation apply to anything of interest (not just acts).[^2]
 
-**Aggregationism**
+</details>
+
+<details>
+<summary>Aggregationism<span class="icon"></span></summary>
 
 _→ Main article: [Aggregationism](https://www.utilitarianism.net/types-of-utilitarianism#aggregationism)_
 
 Aggregationism holds that the value of the world is the sum of the values of its parts, where these parts are local phenomena such as experiences, lives, or societies.[^3] When combined with welfarism and the equal consideration of interests, this view implies that we can meaningfully add up the well-being of different individuals, and use this total to determine which trade-offs are worth making. Aggregationism is one of the [four elements of utilitarian ethical theories](https://www.utilitarianism.net/types-of-utilitarianism#the-four-elements-of-utilitarianism).
 
-**Arguments in favor of utilitarianism: theoretical virtues**
+</details>
+<details>
+<summary>Arguments in favor of utilitarianism: theoretical virtues<span class="icon"></span></summary>
 
 _→ Main article:_ _[Arguments for utilitarianism](https://www.utilitarianism.net/arguments-for-utilitarianism)_
 
 Utilitarianism has strong theoretical virtues as an ethical theory. It is simple and clear, and it provides concrete implications for how to act in any situation.
 
-**Arguments in favor of utilitarianism: track record**
+</details>
+<details>
+<summary>Arguments in favor of utilitarianism: track record<span class="icon"></span></summary>
 
 _→ Main article: [Track Record](https://www.utilitarianism.net/introduction-to-utilitarianism#track-record)_
 
 Utilitarian moral reasoning has a strong track record of contributing to humanity’s collective moral progress. The classical utilitarians of the 18th and 19th centuries—[Jeremy Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham), [John Stuart Mill](https://www.utilitarianism.net/utilitarian-thinker/john-stuart-mill), and [Henry Sidgwick](https://www.utilitarianism.net/utilitarian-thinker/henry-sidgwick)—had social and political attitudes that were far ahead of their time. While the early proponents of utilitarianism were still far from getting everything right, their utilitarian reasoning led them to escape many of their time’s moral prejudices and develop more enlightened moral views. Utilitarianism enabled Bentham, Mill, and Sidgwick to make better moral “predictions” than those who endorsed alternative moral views. That is, utilitarianism led the early utilitarians to many conclusions which struck people as counterintuitive at the time but which most of us now understand as right. This provides us with some reason to expect that when today's "common sense" moral intuitions conflict with utilitarian conclusions, the latter are more likely to be correct. At the very least, checking our moral and political views against utilitarian principles may help us to avoid and overcome some of our own biases.
 
-**Arguments in favor of utilitarianism: the veil of ignorance**
+</details>
+<details>
+<summary>Arguments in favor of utilitarianism: the veil of ignorance<span class="icon"></span></summary>
 
 _→ Main article:_ _[Arguments for utilitarianism: The Golden Rule, the Veil of Ignorance, and the Ideal Observer](https://www.utilitarianism.net/arguments-for-utilitarianism#the-golden-rule-the-veil-of-ignorance-and-the-ideal-observer)_
 
@@ -31,13 +47,17 @@ Imagine you had to decide how to structure society from behind a [veil of ignora
 
 Nobel Prize-winning economist John Harsanyi proved that in this situation you will structure society to promote the sum total of everyone’s well-being.[^4] In other words, if you are rational and acting in self-interest and were put behind the veil of ignorance, you would come to use some version of utilitarianism as the principle to decide about the structure and rules of society.
 
-**Astronomical waste**
+</details>
+<details>
+<summary>Astronomical waste<span class="icon"></span></summary>
 
 Oxford philosopher Nick Bostrom [writes that](https://www.nickbostrom.com/astronomical/waste.pdf) “With very advanced technology, a very large population of people living happy lives could be sustained in the accessible region of the universe. For every year that development of such technologies and colonization of the universe is delayed, there is therefore a corresponding opportunity cost: a potential good, lives worth living, is not being realized”.[^5] He coined the term “astronomical waste” to describe this opportunity cost of delayed technological development. Bostrom argues that, despite this large opportunity cost, utilitarians should not aim to maximize the rate of technological progress “but rather that we ought to maximize its safety, i.e. the probability that colonization will eventually occur”.[^6]
 
 See also: [Existential risk reduction](https://www.utilitarianism.net/acting-on-utilitarianism#existential-risk-reduction)
 
-**Average view (population ethics)**
+</details>
+<details>
+<summary>Average view (population ethics)<span class="icon"></span></summary>
 
 _→ Main article: [Average view (population ethics)](https://www.utilitarianism.net/population-ethics#the-average-view)_
 
@@ -45,9 +65,11 @@ The average view of population ethics regards one outcome as better than another
 
 However, the average view has very little support among moral philosophers since it suffers from severe problems. Among other defects, the average view entails the _sadistic conclusion_: that it can sometimes be better to create lives with negative well-being than to create lives with positive well-being from the same starting point, all else equal. Adding a small number of tortured, miserable people to a population diminishes the average well-being less than adding a sufficiently large number of people whose lives are pretty good, yet below the existing average.
 
-The main alternatives to the average view of population ethics are the _[total view](https://www.utilitarianism.net/population-ethics#the-total-view)_ and _[person-affecting views](https://www.utilitarianism.net/population-ethics#person-affecting-views-and-the-procreative-asymmetry)_. According to the total view, one outcome is better than another if and only if it contains a greater sum total of well-being, even if that is in virtue of simply having more people. Person-affecting views are a family of views that share the intuition that an act can only be good or bad if it is good or bad _for_someone. Standard person-affecting views stand in opposition to the total view since they entail that there is no moral good in bringing new people into existence because nonexistence means there is no one for whom it could be good to be created.
+The main alternatives to the average view of population ethics are the _[total view](https://www.utilitarianism.net/population-ethics#the-total-view)_ and _[person-affecting views](https://www.utilitarianism.net/population-ethics#person-affecting-views-and-the-procreative-asymmetry)_. According to the total view, one outcome is better than another if and only if it contains a greater sum total of well-being, even if that is in virtue of simply having more people. Person-affecting views are a family of views that share the intuition that an act can only be good or bad if it is good or bad _for_ someone. Standard person-affecting views stand in opposition to the total view since they entail that there is no moral good in bringing new people into existence because nonexistence means there is no one for whom it could be good to be created.
 
-**Career choice**
+</details>
+<details>
+<summary>Career choice<span class="icon"></span></summary>
 
 _→ Main article: [Career choice](https://www.utilitarianism.net/acting-on-utilitarianism#career-choice)_
 
@@ -55,13 +77,17 @@ Most of us will spend around 80,000 hours during our lives on our professional c
 
 Fortunately, there is research available to help us make more informed choices. The organization[80,000 Hours](https://80000hours.org/)[^7] aims to help people use their careers to solve the world’s most pressing problems. To do this, they research how individuals can maximize the social impact of their careers, create online advice, and support readers who might enter priority areas.
 
-**Cause impartiality and cause prioritization**
+</details>
+<details>
+<summary>Cause impartiality and cause prioritization<span class="icon"></span></summary>
 
 [Cause impartiality](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#cause-impartiality) is the view that one’s choice of social cause to focus on should depend on, and only on, the expected amount of good that one can do in that cause. Which causes will allow us to do the greatest amount of good by promoting well-being? Finding the answer to that question is called [cause prioritization](https://www.utilitarianism.net/acting-on-utilitarianism#cause-prioritization).
 
 We know that some ways of benefiting individuals do much more good than others. For example, within the cause of [global health and development](https://www.utilitarianism.net/acting-on-utilitarianism#global-health-and-development), some interventions are over 100 times as effective as others.[^8] Furthermore, many researchers believe that the difference in expected impact among _causes_ is as great as the differences among _interventions within a particular cause_. If so, focusing on the very best causes is vastly more impactful than focusing on average ones.
 
-**Charitable giving**
+</details>
+<details>
+<summary>Charitable giving<span class="icon"></span></summary>
 
 _→ Main article: [Charitable giving](https://www.utilitarianism.net/acting-on-utilitarianism#charitable-giving)_
 
@@ -71,13 +97,17 @@ Citizens of affluent countries are in the richest few percent of the world’s p
 
 To give better, one can follow the recommendations from organizations such as[GiveWell](https://www.givewell.org/), which conducts exceptionally in-depth charity evaluations. GiveWell’s best-guess estimate is that the most cost-effective charities working in global health can save a child’s life for about $3,000.[^10]
 
-**Classical utilitarianism**
+</details>
+<details>
+<summary>Classical utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Classical utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism#the-two-elements-of-classical-utilitarianism)_
 
 Classical utilitarianism is the view that one morally ought to promote just the sum total of happiness over suffering. Classical utilitarianism can be distinguished from the wider utilitarian family of views because it accepts _[hedonism](https://www.utilitarianism.net/theories-of-wellbeing#hedonism)_ as a theory of well-being and _[the total view](https://www.utilitarianism.net/population-ethics#the-total-view)_ of population ethics.
 
-**Consequentialism**
+</details>
+<details>
+<summary>Consequentialism<span class="icon"></span></summary>
 
 _→ Main article: [Consequentialism](https://www.utilitarianism.net/types-of-utilitarianism#consequentialism)_
 
@@ -87,7 +117,9 @@ Consequentialism is one of the [four elements of utilitarian ethical theories](h
 
 External links: [Consequentialism](https://plato.stanford.edu/entries/consequentialism/ ), Stanford Encyclopedia of Philosophy
 
-**Cosmopolitanism**
+</details>
+<details>
+<summary>Cosmopolitanism<span class="icon"></span></summary>
 
 _→ Main article: [Cosmopolitanism](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#cosmopolitanism)_
 
@@ -99,7 +131,9 @@ An implication of accepting moral cosmopolitanism is to take [improving global h
 
 External links: [Taxonomy of Contemporary Cosmopolitanisms](https://plato.stanford.edu/entries/cosmopolitanism/#TaxoContCosm ), Stanford Encyclopedia of Philosophy
 
-**Demandingness**
+</details>
+<details>
+<summary>Demandingness<span class="icon"></span></summary>
 
 _→ Main article: [Demandingness](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#demandingness)_
 
@@ -111,7 +145,9 @@ As well as requiring very significant donations, utilitarianism claims that you 
 
 See also: [Demandingness Objection to Utilitarianism](https://www.utilitarianism.net/objections-to-utilitarianism/demandingness)
 
-**Demandingness objection to utilitarianism**
+</details>
+<details>
+<summary>Demandingness objection to utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Demandingness objection to utilitarianism](https://www.utilitarianism.net/objections-to-utilitarianism/demandingness)_
 
@@ -121,7 +157,9 @@ Consider that the money a person spends on dining out could pay for several bedn
 
 See the article [The Demandingness Objection](https://www.utilitarianism.net/objections-to-utilitarianism/demandingness)****on how proponents of utilitarianism might respond to this objection.
 
-**Deontology**
+</details>
+<details>
+<summary>Deontology<span class="icon"></span></summary>
 
 According to _deontology_, morality is about following a system of duties and rules, like “Do Not Lie” or “Do Not Steal”. As Larry Alexander and Michael Moore [write](https://plato.stanford.edu/entries/ethics-deontological/ ): “In contrast to consequentialist theories, deontological theories judge the morality of choices by criteria different from the states of affairs those choices bring about. The most familiar forms of deontology, and also the forms presenting the greatest contrast to consequentialism, hold that some choices cannot be justified by their effects—that no matter how morally good their consequences, some choices are morally forbidden”.[^13]
 
@@ -129,7 +167,9 @@ The main alternatives to deontology are _[consequentialism](https://www.utilitar
 
 External links: [Deontological Ethics](https://plato.stanford.edu/entries/ethics-deontological/ ), Stanford Encyclopedia of Philosophy
 
-**Desire theories of well-being**
+</details>
+<details>
+<summary>Desire theories of well-being<span class="icon"></span></summary>
 
 _→ Main article: [Desire theories of well-being](https://www.utilitarianism.net/theories-of-wellbeing#desire-theories)_
 
@@ -137,7 +177,9 @@ According to desire theories only the satisfaction of desires or preferences mat
 
 The alternatives to desire theories include _[hedonism](https://www.utilitarianism.net/theories-of-wellbeing#hedonism)_, according to which the individual’s conscious experiences determines their well-being, and _[objective list theories](https://www.utilitarianism.net/theories-of-wellbeing#objective-list-theories)_, which propose a list of items that constitute well-being, such as conscious experiences, art, knowledge, love, friendship, and more.
 
-**Direct consequentialism & direct utilitarianism**
+</details>
+<details>
+<summary>Direct consequentialism & direct utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Consequentialism](https://www.utilitarianism.net/types-of-utilitarianism#consequentialism)_
 
@@ -145,7 +187,9 @@ According to direct consequentialism, the rightness of an action (or rule, polic
 
 The alternative to direct consequentialism is indirect consequentialism, according to which we should evaluate the moral status of an action (or rule, policy, etc.) _indirectly_, based on its relationship to something else (such as a rule), whose status is itself assessed in terms of its consequences.
 
-**Doctrine of Doing and Allowing**
+</details>
+<details>
+<summary>Doctrine of Doing and Allowing<span class="icon"></span></summary>
 
 _→ Main article: [Doctrine of Doing and Allowing](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#is-there-a-difference-between-doing-and-allowing-harm)_
 
@@ -153,13 +197,17 @@ Many non-consequentialists believe there is a morally relevant difference betwee
 
 However, while consequentialists—including utilitarians—accept that doing harm is typically instrumentally worse than allowing harm, they deny that doing harm is intrinsically worse than allowing harm. Thus, they reject the Doctrine of Doing and Allowing.
 
-**Effective altruism**
+</details>
+<details>
+<summary>Effective altruism<span class="icon"></span></summary>
 
 _→ Main article: [Effective altruism](https://www.utilitarianism.net/acting-on-utilitarianism#effective-altruism)_
 
 Those in the [effective altruism](https://www.effectivealtruism.org/) movement try to figure out, of all the different uses of our resources, which ones will do the most good, impartially considered, and act on that basis. So defined, effective altruism is both a research project—to figure out how to do the most good—and a practical project to implement the best guesses we have about how to do the most good.[^14]
 
-**Egalitarianism**
+</details>
+<details>
+<summary>Egalitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Egalitarianism](https://www.utilitarianism.net/near-utilitarian-alternatives#egalitarianism-and-distributive-justice)_
 
@@ -169,7 +217,9 @@ Egalitarians thus reject [welfarism](https://www.utilitarianism.net/types-of-uti
 
 External links: [Egalitarianism](https://plato.stanford.edu/entries/egalitarianism/ ), Stanford Encyclopedia of Philosophy
 
-**Equal Consideration of Interests**
+</details>
+<details>
+<summary>Equal Consideration of Interests<span class="icon"></span></summary>
 
 _→ Main article: [Impartiality and the Equal Consideration of Interests](https://www.utilitarianism.net/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests)_
 
@@ -177,7 +227,9 @@ The _equal consideration of interests_ is a distinctively utilitarian conception
 
 Alternative views include [prioritarianism](https://www.utilitarianism.net/near-utilitarian-alternatives#prioritarianism) (which gives extra weight to the interests of the worse off) and [partialism](https://www.utilitarianism.net/near-utilitarian-alternatives#egoism-and-partialism) (which abandons impartiality, allowing us to give extra weight to ourselves and the interests of our nearest and dearest).
 
-**Equality objection to utilitarianism**
+</details>
+<details>
+<summary>Equality objection to utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Equality objection to utilitarianism](https://www.utilitarianism.net/objections-to-utilitarianism/equality)_
 
@@ -187,7 +239,9 @@ By the lights of utilitarianism, only the sum total of well-being determines the
 
 See the article [The Equality Objection](https://www.utilitarianism.net/objections-to-utilitarianism/equality)****on how proponents of utilitarianism might respond to this objection.
 
-**Existential risk reduction**
+</details>
+<details>
+<summary>Existential risk reduction<span class="icon"></span></summary>
 
 _→ Main article: [Existential risk reduction](https://www.utilitarianism.net/acting-on-utilitarianism#existential-risk-reduction)_
 
@@ -195,7 +249,9 @@ An existential risk is a risk that threatens the destruction of humanity’s lon
 
 External links: [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/ ), Toby Ord (2020)
 
-**Expanding moral circle**
+</details>
+<details>
+<summary>Expanding moral circle<span class="icon"></span></summary>
 
 _→ Main article: [The expanding moral circle](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#the-expanding-moral-circle)_
 
@@ -205,7 +261,9 @@ Utilitarianism provides a clear response to this question: We should extend our 
 
 A priority for utilitarians may be to help society to continue to widen its moral circle of concern.[^17] For instance, we may want to persuade people that they should help not just those in their own country, but also those on the other side of the world; not just those of their own species but all sentient creatures; and not just people currently alive but any people whose lives they can affect, including those in generations to come.
 
-**Expectational utilitarianism**
+</details>
+<details>
+<summary>Expectational utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Expectational utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism#expectational-utilitarianism-versus-objective-utilitarianism)_
 
@@ -213,19 +271,25 @@ Expectational utilitarianism is the view we should promote _expected_ well-being
 
 The main alternative to expectational utilitarianism is _objective utilitarianism_, on which the rightness of an action depends on the well-being it will _in fact_ produce.
 
-**Farm animal welfare**
+</details>
+<details>
+<summary>Farm animal welfare<span class="icon"></span></summary>
 
 _→ Main article: [Farm animal welfare](https://www.utilitarianism.net/acting-on-utilitarianism#farm-animal-welfare)_
 
 Improving the welfare of farmed animals should be a high moral priority for utilitarians. The argument for this conclusion is simple: First, [animals matter morally](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#speciesism); second, humans cause a huge amount of unnecessary suffering to animals in factory farms; third, there are easy ways to reduce the number of farmed animals and the severity of their suffering.
 
-**Global health and development**
+</details>
+<details>
+<summary>Global health and development<span class="icon"></span></summary>
 
 _→ Main article: [Global health and development](https://www.utilitarianism.net/acting-on-utilitarianism#global-health-and-development)_
 
 Efforts in global health and development have a great track record of improving lives, making this cause appear especially tractable. Indeed, the best interventions in global health and development are incredibly cost-effective:[GiveWell](https://www.givewell.org/), a leading organization that conducts in-depth charity evaluations, estimates that top-rated charities can prevent the death of a child from malaria for just a few thousand dollars by providing preventive drugs.[^19] On this basis, global health and development may be considered a particularly high priority cause for utilitarians.[^20]
 
-**Global utilitarianism**
+</details>
+<details>
+<summary>Global utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Global utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism#global-utilitarianism-versus-hybrid-utilitarianism)_
 
@@ -233,25 +297,33 @@ Global utilitarianism is the view that the utilitarian standards of moral evalua
 
 Global utilitarianism assesses the moral nature of, for example, a particular character trait, such as kindness or loyalty, based on the consequences that trait has for the well-being of others—just as act utilitarianism morally evaluates actions. Global utilitarianism's broad focus may help it to explain certain supposedly "non-consequentialist" intuitions.[^21] For instance, it captures the understanding that morality is not just about choosing the right acts but is also about following certain rules and developing a virtuous character.
 
-**Happiness and suffering**
+</details>
+<details>
+<summary>Happiness and suffering<span class="icon"></span></summary>
 
 _→ Main article: [Theories of well-being: hedonism](https://www.utilitarianism.net/theories-of-wellbeing#hedonism)_
 
 Philosophers commonly use _happiness_ and _suffering_ as shorthand for the terms _positive conscious experience_ and _negative conscious experience_, respectively. According to ethical hedonists, happiness is the only thing good in and of itself and suffering is the only thing bad in and of itself. The hedonistic conception of happiness is broad: It covers not only paradigmatic instances of sensual pleasure—such as the experiences of eating delicious food or having sex—but also other positively valenced experiences, such as the experiences of solving a problem, reading a novel, or helping a friend.
 
-**Harriet Taylor Mill**
+</details>
+<details>
+<summary>Harriet Taylor Mill<span class="icon"></span></summary>
 
 _→ Main article: [Harriet Taylor Mill](https://www.utilitarianism.net/utilitarian-thinker/harriet-taylor-mill)_
 
 Harriet Taylor Mill (1807 - 1858) was a British philosopher and women’s rights advocate. A close friend and later wife of John Stuart Mill, she had a profound impact on his thinking and worked in close collaboration with him. Despite her many contributions in books and magazines, most of her writing was only published under her own name after her death.
 
-**Hedonic calculus**
+</details>
+<details>
+<summary>Hedonic calculus<span class="icon"></span></summary>
 
 [Jeremy Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham) proposed the hedonic calculus, or felicific calculus, as a method to determine the goodness and badness of an action’s consequences.[^22] Bentham suggested that in assessing these consequences, one should take into account their _intensity, duration, certainty, propinquity, fecundity_ (the chance that a pleasure is followed by other ones, a pain by further pains)_, purity_ (the chance that pleasure is followed by pains and vice versa), and _extent_ (the number of persons affected). Applying the hedonic calculus to similarly assess all the alternative actions, would show which one has the best overall consequences, and should therefore be chosen.
 
 However, Bentham was realistic about the limitations of this method, writing that “it is not to be expected that this process [of calculating expected consequences] should be strictly pursued previously to every moral judgment”.[^23]
 
-**Hedonism (theories of well-being)**
+</details>
+<details>
+<summary>Hedonism (theories of well-being)<span class="icon"></span></summary>
 
 _→ Main article: [Hedonism (theories of well-being)](https://www.utilitarianism.net/theories-of-wellbeing#hedonism)_
 
@@ -261,19 +333,25 @@ The hedonistic conception of happiness is broad: It covers not only paradigmatic
 
 The two main alternatives to hedonism are _[desire theories](https://www.utilitarianism.net/theories-of-wellbeing#desire-theories)_, according to which only the satisfaction of desires or preferences matters for an individual’s well-being, and _[objective list theories](https://www.utilitarianism.net/theories-of-wellbeing#objective-list-theories)_, which propose a list of items that constitute well-being. This list can include conscious experiences or satisfied preferences, but it rarely stops there; ethicists commonly argue that the objective list includes art, knowledge, love, friendship, and more.
 
-**Henry Sidgwick**
+</details>
+<details>
+<summary>Henry Sidgwick<span class="icon"></span></summary>
 
 _→ Main article: [Henry Sidgwick](https://www.utilitarianism.net/utilitarian-thinker/henry-sidgwick)_
 
 Henry Sidgwick (1838 - 1900) was a British philosopher and economist. One of the classical utilitarians, he wrote one of the most important statements of utilitarianism in his[The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf), which was said to be “the best book ever written on ethics”.[^24]
 
-**Hybrid Utilitarianism**
+</details>
+<details>
+<summary>Hybrid Utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Global vs Hybrid Utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism#global-utilitarianism-versus-hybrid-utilitarianism)_
 
 Hybrid utilitarianism is the view that, while one morally ought to promote just overall well-being, the moral quality of an aim or intention can depend on factors other than whether it promotes overall well-being. In particular, hybrid utilitarians may understand virtue and praise-worthiness as concerning whether the target individual _intends_ good results, in contrast to global utilitarian evaluation of whether the target's intentions _produce_good results. When the two come into conflict, we should prefer to achieve good results than to merely intend them—so in this sense the hybrid utilitarian agrees with much that the global utilitarian wants to say. Hybridists just hold that there is more to say in addition.
 
-**Impartiality**
+</details>
+<details>
+<summary>Impartiality<span class="icon"></span></summary>
 
 _→ Main article: [Impartiality](https://www.utilitarianism.net/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests)_
 
@@ -281,7 +359,9 @@ Impartiality is the view that the identity of individuals is irrelevant to the v
 
 Impartiality****is one of the [four elements of utilitarian ethical theories](https://www.utilitarianism.net/types-of-utilitarianism#the-four-elements-of-utilitarianism).
 
-**Indirect consequentialism & indirect utilitarianism**
+</details>
+<details>
+<summary>Indirect consequentialism & indirect utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Consequentialism](https://www.utilitarianism.net/types-of-utilitarianism#consequentialism)_
 
@@ -289,23 +369,31 @@ According to indirect consequentialism we should evaluate the moral status of an
 
 The main alternative to indirect consequentialism is direct consequentialism, according to which the rightness of an action (or rule, policy, etc.) depends only on its consequences.
 
-**Infinite ethics**
+</details>
+<details>
+<summary>Infinite ethics<span class="icon"></span></summary>
 
 [In a 2011 paper](https://www.nickbostrom.com/ethics/infinite.html), Nick Bostrom suggests that infinities in ethics may present a problem for aggregative consequentialist theories, including utilitarianism. Bostrom describes this problem as follows: “Modern cosmology teaches that the world might well contain an infinite number of happy and sad people and other candidate value-bearing locations. Aggregative ethics implies that such a world contains an infinite amount of positive value and an infinite amount of negative value. You can affect only a finite amount of good or bad. In standard cardinal arithmetic, an infinite quantity is unchanged by the addition or subtraction of any finite quantity. So it appears you cannot change the value of the world”.[^25]
 
-**Jeremy Bentham**
+</details>
+<details>
+<summary>Jeremy Bentham<span class="icon"></span></summary>
 
 _→ Main article: [Jeremy Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham)_
 
 Jeremy Bentham (1748 - 1832) was a British philosopher and social reformer, who is widely regarded as the founder of classical utilitarianism. His most influential work is[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf) (1789).
 
-**John Stuart Mill**
+</details>
+<details>
+<summary>John Stuart Mill<span class="icon"></span></summary>
 
 _→ Main article: [John Stuart Mill](https://www.utilitarianism.net/utilitarian-thinker/john-stuart-mill)_
 
 John Stuart Mill (1806 - 1873) was a British philosopher and political economist. A student of Jeremy Bentham, Mill promoted the ideas of utilitarianism and liberalism and has been called “the most influential English language philosopher of the nineteenth century”. His most influential works include his books[Utilitarianism](https://www.earlymoderntexts.com/assets/pdfs/mill1863.pdf) (1863) and[On Liberty](https://socialsciences.mcmaster.ca/econ/ugcm/3ll3/mill/liberty.pdf) (1859).
 
-**Longtermism**
+</details>
+<details>
+<summary>Longtermism<span class="icon"></span></summary>
 
 _→ Main article: [Longtermism](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#longtermism)_
 
@@ -318,7 +406,9 @@ External links:
 * Greaves, H. & MacAskill, W. (2019). [The case for strong longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/ ). _Global Priorities Institute Working Paper_, 7.
 * Beckstead, N. (2013). [On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM). Ph.D. Dissertation, Rutgers University.
 
-**Maximizing utilitarianism**
+</details>
+<details>
+<summary>Maximizing utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Scalar versus maximizing or satisficing utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism#reconstructing-rightness-maximizing-satisficing-and-scalar-utilitarianism)_
 
@@ -328,13 +418,17 @@ Though this is the most common statement of utilitarianism, it may be misleading
 
 The main alternatives to maximizing utilitarianism include _scalar utilitarianism_, according to which rightness and wrongness are matters of degree[^27], and _satisficing utilitarianism_, which holds that within any set of options, an action is right if it produces _enough_ well-being.[^28]
 
-**Mozi**
+</details>
+<details>
+<summary>Mozi<span class="icon"></span></summary>
 
 _→ Main article: [Mozi](https://www.utilitarianism.net/utilitarian-thinker/mozi)_
 
 Mò Dí (墨翟), better known as Mòzǐ or “Master Mò,” flourished c. 430 BCE. in what is now Tengzhou, Shandong Province, China. Likely an artisan by craft, Mò Dí attracted many dedicated followers and founded the philosophical school of Mohism during China’s Warring States Period (475 - 221 BCE)—an early predecessor to utilitarianism.
 
-**Multi-level utilitarianism**
+</details>
+<details>
+<summary>Multi-level utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Multi-level utilitarianism versus single-level utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism)_
 
@@ -344,7 +438,9 @@ Thus, multi-level utilitarianism understands utilitarianism as a _criterion of r
 
 The main alternative to multi-level utilitarianism is _single-level utilitarianism_, which treats utilitarianism as both a criterion of rightness and a decision procedure.
 
-**Negative utilitarianism**
+</details>
+<details>
+<summary>Negative utilitarianism<span class="icon"></span></summary>
 
 Negative utilitarianism is a version of utilitarianism that assigns either no (at its most extreme) or considerably less (in its moderate form) value to the promotion of happiness relative to the reduction of suffering. One of the earliest academic formulations and critiques of negative utilitarianism was made by R. N. Smart in response to Karl Popper.[^29]
 
@@ -354,7 +450,9 @@ External links:
 * Walker, A. D. M. (1974). [Negative Utilitarianism](http://www.jstor.org/stable/2252744). _Mind_, New Series. 83(331): 424–28.
 * Acton, H. B. & Watkins, J. W. N. (1963). [Symposium: Negative Utilitarianism](https://www.jstor.org/stable/4106709). _Proceedings of the Aristotelian Society, Supplementary Volumes_ 37: 83–114.
 
-**Objective list theories of well-being**
+</details>
+<details>
+<summary>Objective list theories of well-being<span class="icon"></span></summary>
 
 _→ Main article: [Objective list theories of well-being](https://www.utilitarianism.net/theories-of-wellbeing#objective-list-theories)_
 
@@ -362,38 +460,48 @@ Objective list theories propose a list of items that constitute well-being. This
 
 The main alternatives to objective list theories include _[hedonism](https://www.utilitarianism.net/theories-of-wellbeing#hedonism)_, the view that well-being consists in, and only in, the balance of positive over negative conscious experiences, and _[desire theories](https://www.utilitarianism.net/theories-of-wellbeing#desire-theories)_, according to which only the satisfaction of desires or preferences matters for an individual’s well-being.
 
-**Objective utilitarianism**
+</details>
+<details>
+<summary>Objective utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Expectation utilitarianism versus objective utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism#expectational-utilitarianism-versus-objective-utilitarianism)_
 
 Objective utilitarianism is the view that the rightness of an action depends on the well-being it will _in fact_ produce, as opposed to the view we should promote _expected_well-being (i.e. expectational utilitarianism).
 
-**Outreach**
+</details>
+<details>
+<summary>Outreach<span class="icon"></span></summary>
 
 _→ Main article: [Outreach](https://www.utilitarianism.net/acting-on-utilitarianism#outreach)_
 
 An effective way of doing good is by inspiring others to try to do more good. Thus, the best course of action for many people may be to develop and promote positive ideas and values, such as those associated with utilitarianism, and be a positive role-model in one’s behavior. By raising awareness of positive ideas and values, it is plausible that you could inspire several people to follow their recommendations. In this way, you will achieve a multiplier effect on your social impact—the people you inspire will do several times as much good as you would have achieved by working directly to solve the most important moral problems. Because many positive ideas and values, including utilitarianism, are still little-known and little understood, there may be a lot of value in promoting them.
 
-**Peter Singer**
+</details>
+<details>
+<summary>Peter Singer<span class="icon"></span></summary>
 
 _→ Main article: [Peter Singer](https://www.utilitarianism.net/utilitarian-thinker/peter-singer)_
 
 Peter Singer (1946) is an Australian moral philosopher and Professor of Bioethics at Princeton University. His work concentrates on issues in applied ethics, in particular our treatment of animals, the ethics of global poverty, and effective altruism. The publication of his 1975 book[Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book)) helped start the modern animal rights movement.
 
-**Population ethics**
+</details>
+<details>
+<summary>Population ethics<span class="icon"></span></summary>
 
 _→ Main article: [Population ethics](https://www.utilitarianism.net/population-ethics)_
 
 Population ethics deals with the ethical problems that arise when our actions affect who and how many people are born and at what quality of life.
 
-Some of the main theories of population ethics include the _[total view](https://www.utilitarianism.net/population-ethics#the-total-view)_, the _[average view](https://www.utilitarianism.net/population-ethics#the-average-view)_, and _[person-affecting views](https://www.utilitarianism.net/population-ethics#person-affecting-views-and-the-procreative-asymmetry)_. According to the total view, one outcome is better than another if and only if it contains greater total well-being, even if that is in virtue of simply having more people. Similarly, according to the average view, one outcome is better than another if and only if it contains greater average well-being. Person-affecting views are a family of views that share the intuition that an act can only be good/bad if it is good/bad _for_someone. Standard person-affecting views stand in opposition to the total view since they entail that there is no moral good in bringing new people into existence because nonexistence means there is no one for whom it could be good to be created.
+Some of the main theories of population ethics include the _[total view](https://www.utilitarianism.net/population-ethics#the-total-view)_, the _[average view](https://www.utilitarianism.net/population-ethics#the-average-view)_, and _[person-affecting views](https://www.utilitarianism.net/population-ethics#person-affecting-views-and-the-procreative-asymmetry)_. According to the total view, one outcome is better than another if and only if it contains greater total well-being, even if that is in virtue of simply having more people. Similarly, according to the average view, one outcome is better than another if and only if it contains greater average well-being. Person-affecting views are a family of views that share the intuition that an act can only be good/bad if it is good/bad _for_ someone. Standard person-affecting views stand in opposition to the total view since they entail that there is no moral good in bringing new people into existence because nonexistence means there is no one for whom it could be good to be created.
 
 External links:
 
 * Greaves, H. (2017). [Population Axiology]( https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12.
 * [The Repugnant Conclusion](https://plato.stanford.edu/archives/spr2017/entries/repugnant-conclusion/). The Stanford Encyclopedia of Philosophy.
 
-**Preference utilitarianism**
+</details>
+<details>
+<summary>Preference utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Theories of well-being](https://www.utilitarianism.net/theories-of-wellbeing)_
 
@@ -401,11 +509,15 @@ Preference utilitarianism is the ethical theory on which one ought to promote ju
 
 Other utilitarians may accept a different theory of well-being, such as hedonism or objective list theory.
 
-**Principle of utility**
+</details>
+<details>
+<summary>Principle of utility<span class="icon"></span></summary>
 
 In his main work _An Introduction to the Principles of Morals and Legislation_, [Jeremy Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham) calls the core idea at the heart of his utilitarian philosophy the _principle of utility_. He describes it as follows: “By the ‘principle of utility’ is meant the principle that approves or disapproves of every action according to the tendency it appears to have to increase or lessen—i.e. to promote or oppose—the happiness of the person or group whose interest is in question”.[^30]
 
-**Prioritarianism**
+</details>
+<details>
+<summary>Prioritarianism<span class="icon"></span></summary>
 
 _→ Main article: [Prioritarianism](https://www.utilitarianism.net/near-utilitarian-alternatives#prioritarianism)_
 
@@ -413,7 +525,9 @@ Prioritarianism holds that "benefiting people matters more the worse off these p
 
 External links: [Priority](https://plato.stanford.edu/entries/egalitarianism/#Pri ), Stanford Encyclopedia of Philosophy
 
-**Quality-adjusted life year (QALY)**
+</details>
+<details>
+<summary>Quality-adjusted life year (QALY)<span class="icon"></span></summary>
 
 The quality-adjusted life year (QALY) is a measure of the value of health outcomes, taking into account both _quantity_ and _quality_ of life.
 
@@ -427,13 +541,17 @@ External links:
 * Singer, P., McKie, J., Kuhse, H., & Richardson, J. (1995). [Double jeopardy and the use of QALYs in health care allocation](http://dx.doi.org/10.1136/jme.21.3.144). _Journal of Medical Ethics_, 21(3): 144–150.
 * Chappell, R.Y. (2016). [Against ‘Saving Lives’: Equal Concern and Differential Impact](https://dx.doi.org/10.1111/bioe.12171). _Bioethics_, 30(3): 159–164. (Note that Chappell is a co-author of this website)
 
-**Richard M. Hare**
+</details>
+<details>
+<summary>Richard M. Hare<span class="icon"></span></summary>
 
 _→ Main article: [Richard M. Hare](https://www.utilitarianism.net/utilitarian-thinker/richard-hare)_
 
 Richard M. Hare (1919 - 2002) was a British philosopher and Professor at the Universities of Oxford and Florida. One of the most influential moral philosophers of the twentieth century, Hare is most famous for his meta-ethical theory of [prescriptivism](https://plato.stanford.edu/entries/moral-cognitivism/#PreUniPre), which he used to argue for utilitarianism.
 
-**Rights objection to utilitarianism**
+</details>
+<details>
+<summary>Rights objection to utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Rights objection to utilitarianism](https://www.utilitarianism.net/objections-to-utilitarianism/rights)_
 
@@ -443,7 +561,9 @@ Sometimes, realizing the best outcome may require violating moral constraints⁠
 
 See the article [The Rights Objection](https://www.utilitarianism.net/objections-to-utilitarianism/rights)****on how proponents of utilitarianism might respond to this objection.
 
-**Rule utilitarianism**
+</details>
+<details>
+<summary>Rule utilitarianism<span class="icon"></span></summary>
 
 Rule utilitarianism is the view that what makes an action right is that it conforms to the set of rules that would have the best utilitarian consequences if they were generally accepted or followed. Since an action’s morality depends only on its conformity to a rule, rather than its own consequences, rule utilitarianism is a form of [indirect consequentialism](https://www.utilitarianism.net/types-of-utilitarianism#consequentialism).
 
@@ -451,7 +571,9 @@ The main alternative to rule utilitarianism is _act utilitarianism_, a direct co
 
 External links: [Rule consequentialism](https://plato.stanford.edu/entries/consequentialism-rule/), Stanford Encyclopedia of Philosophy
 
-**Satisficing utilitarianism**
+</details>
+<details>
+<summary>Satisficing utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Scalar versus maximizing or satisficing utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism#reconstructing-rightness-maximizing-satisficing-and-scalar-utilitarianism)_
 
@@ -467,7 +589,9 @@ External links:
 * Chappell, R.Y. (2019). [Willpower Satisficing](https://dx.doi.org/10.1111/nous.12213). _Noûs_ 53 (2): 251–265. Note that Chappell is a co-author of this website.
 * Slote, M. & Pettit, P. (1984). [Satisficing Consequentialism](https://www.princeton.edu/~ppettit/papers/1984/Satisficing%20Consequentialism.pdf). _Proceedings of the Aristotelian Society_, Supplementary Volumes. 58: 139–163 & 165–176.
 
-**Scalar utilitarianism**
+</details>
+<details>
+<summary>Scalar utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Scalar versus maximizing or satisficing utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism#reconstructing-rightness-maximizing-satisficing-and-scalar-utilitarianism)_
 
@@ -480,7 +604,9 @@ External links:
 * Sinhababu, N. (2018). [Scalar Consequentialism the Right Way](https://link.springer.com/article/10.1007%2Fs11098-017-0998-y). _Philosophical Studies_. 175: 3131–3144.
 * Norcross, A. (2006). [The Scalar Approach to Utilitarianism](https://onlinelibrary.wiley.com/doi/10.1002/9780470776483.ch15). In West, H. (ed.), _The Blackwell Guide to Mill's Utilitarianism_. Hoboken, New Jersey: Wiley-Blackwell. pp. 217–232.
 
-**Sentiocentrism / pathocentrism**
+</details>
+<details>
+<summary>Sentiocentrism / pathocentrism<span class="icon"></span></summary>
 
 _→ Main article: [The expanding moral circle](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#the-expanding-moral-circle)_
 
@@ -490,7 +616,9 @@ Many consequentialist views, including utilitarianism, accept sentiocentrism. As
 
 The main alternatives to sentiocentrism are _anthropocentrism_, the view that human beings deserve (overwhelmingly) greater moral concern than other beings, and _biocentrism_, which extends equal moral consideration to all living beings, including non-sentient ones like plants.
 
-**Single-level utilitarianism**
+</details>
+<details>
+<summary>Single-level utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Multi-level utilitarianism versus single-level utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism)_
 
@@ -505,7 +633,9 @@ External links:
 * Hare, R.M. (1981). Chapters 1–3, _[Moral Thinking: Its Methods, Levels, and Point](https://oxford.universitypressscholarship.com/view/10.1093/0198246609.001.0001/acprof-9780198246602)_. Oxford: Oxford University Press.
 * Roger Crisp (1997). [Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2). Routledge., pp. 105–112.
 
-**Speciesism**
+</details>
+<details>
+<summary>Speciesism<span class="icon"></span></summary>
 
 _→ Main article: [Speciesism](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#speciesism)_
 
@@ -515,7 +645,9 @@ Consequently, rejecting speciesism entails giving _equal moral consideration_ to
 
 An implication of rejecting speciesism is to take improving [farm animal welfare](https://www.utilitarianism.net/acting-on-utilitarianism#farm-animal-welfare) very seriously as a moral priority.
 
-**Supererogation**
+</details>
+<details>
+<summary>Supererogation<span class="icon"></span></summary>
 
 _→ Main article: [Demandingness](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#demandingness)_
 
@@ -523,7 +655,9 @@ Many ethical theories posit that some actions are _supererogatory_; that is, the
 
 External links: [Supererogation](https://plato.stanford.edu/entries/supererogation/ ), Stanford Encyclopedia of Philosophy
 
-**Total view (population ethics)**
+</details>
+<details>
+<summary>Total view (population ethics)<span class="icon"></span></summary>
 
 _→ Main article: [Total view (population ethics)](https://www.utilitarianism.net/population-ethics#the-total-view)_
 
@@ -535,26 +669,32 @@ Thus, the total view implies that we can improve the world in two ways: either w
 
 The total view’s foremost practical implication is[giving great importance](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#longtermism) to ensuring the long-term flourishing of civilization. Since the total well-being enjoyed by all future people is potentially enormous, according to the total view, the[mitigation of existential risks](https://www.utilitarianism.net/acting-on-utilitarianism#existential-risk-reduction)—which threaten to destroy this immense future value—is one of the principal moral issues facing humanity.
 
-The main alternatives to the total view are the _[average view](https://www.utilitarianism.net/population-ethics#the-average-view)_, according to which one outcome is better than another if and only if it contains greater average well-being, and _[person-affecting views](https://www.utilitarianism.net/population-ethics#person-affecting-views-and-the-procreative-asymmetry)_, a family of views that share the intuition that an act can only be good/bad if it is good/bad _for_someone. Standard person-affecting views stand in opposition to the total view since they entail that there is no moral good in bringing new people into existence because nonexistence means there is no one for whom it could be good to be created.
+The main alternatives to the total view are the _[average view](https://www.utilitarianism.net/population-ethics#the-average-view)_, according to which one outcome is better than another if and only if it contains greater average well-being, and _[person-affecting views](https://www.utilitarianism.net/population-ethics#person-affecting-views-and-the-procreative-asymmetry)_, a family of views that share the intuition that an act can only be good/bad if it is good/bad _for_ someone. Standard person-affecting views stand in opposition to the total view since they entail that there is no moral good in bringing new people into existence because nonexistence means there is no one for whom it could be good to be created.
 
 External links:
 
 * Greaves, H. (2017). [Population Axiology]( https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12.
 * [The Repugnant Conclusion](https://plato.stanford.edu/archives/spr2017/entries/repugnant-conclusion/), The Stanford Encyclopedia of Philosophy
 
-**Utilitarianism**
+</details>
+<details>
+<summary>Utilitarianism<span class="icon"></span></summary>
 
 _→ Main article: [Utilitarianism](https://www.utilitarianism.net/introduction-to-utilitarianism#what-is-utilitarianism)_
 
 Utilitarianism is the view that one morally ought to promote just the sum total of well-being.[^36] The four elements shared by all utilitarian theories include (i) [consequentialism](https://www.utilitarianism.net/types-of-utilitarianism#consequentialism), (ii) [welfarism](https://www.utilitarianism.net/types-of-utilitarianism#welfarism), (iii) [impartiality](https://www.utilitarianism.net/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests), and (iv) [aggregationism](https://www.utilitarianism.net/types-of-utilitarianism#aggregationism).
 
-**Utility**
+</details>
+<details>
+<summary>Utility<span class="icon"></span></summary>
 
 In philosophy, the term _utility_ refers to a measure of moral value. Traditionally, utility was used to denote related concepts such as well-being, happiness, and pleasure, which are the fundamental units of value in utilitarian ethics.
 
 In contemporary contexts, utility is predominantly used as an economic concept (as in “utility function”) to describe a person’s preference ordering over a set of alternatives.
 
-**Utility monster**
+</details>
+<details>
+<summary>Utility monster<span class="icon"></span></summary>
 
 The utility monster is a thought experiment devised by Robert Nozick to criticize utilitarianism.[^37] Nozick imagines a hypothetical being, the utility monster, which has the capacity for generating much higher levels of well-being than anyone else. From a utilitarian perspective, Nozick writes, the existence of such a being would require providing it with immense resources to increase its well-being, even at significant sacrifice to others.
 
@@ -563,7 +703,9 @@ For a utilitarian critique, see:
 * Chappell, R.Y. (2021). [Negative Utility Monsters](https://dx.doi.org/10.1017/s0953820821000169). _Utilitas_ 33 (4): 417-421. \
 (Note that Chappell is a co-author of this website.)
 
-**Virtue ethics**
+</details>
+<details>
+<summary>Virtue ethics<span class="icon"></span></summary>
 
 According to virtue ethics, morality is fundamentally about having or developing a virtuous character.
 
@@ -571,7 +713,9 @@ The main alternatives to virtue ethics are _[consequentialism](https://plato.sta
 
 External links: [Virtue Ethics](https://plato.stanford.edu/entries/ethics-virtue/ ), The Stanford Encyclopedia of Philosophy
 
-**Welfarism**
+</details>
+<details>
+<summary>Welfarism<span class="icon"></span></summary>
 
 _→ Main article: [Welfarism](https://www.utilitarianism.net/types-of-utilitarianism#welfarism)_
 
@@ -583,13 +727,17 @@ There are various types of welfarism, each of which regards different things as 
 
 External links: [Welfarism](https://plato.stanford.edu/entries/well-being/#Wel), The Stanford Encyclopedia of Philosophy
 
-**Well-being / Welfare**
+</details>
+<details>
+<summary>Well-being / Welfare<span class="icon"></span></summary>
 
 _→ Main article: [Theories of Well-Being](https://www.utilitarianism.net/theories-of-wellbeing)_
 
 Philosophers use the term well-being to describe everything that is good for a person in itself, as opposed to things only instrumentally good for a person. For example, money can buy many useful things and is thus good for a person instrumentally, but it is not a component of their well-being.
 
 External links: [Well-being](https://plato.stanford.edu/entries/well-being/), The Stanford Encyclopedia of Philosophy
+
+</details>
 
 {{< how-to-cite >}}
 
