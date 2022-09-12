@@ -7,6 +7,24 @@ code {
   font-family: Merriweather;
 }
 
+.books {
+  display: grid;
+  grid-template-columns: 260px 260px 260px;
+  // grid-template-rows: 80px auto 80px; 
+  column-gap: 30px;
+  row-gap: 30px;
+
+  .book {
+    width: 260px;
+    height: 415px;
+  }
+
+ .book:last-child {
+    box-sizing: border-box;
+    border: 1px solid #c5c5c5;
+  }
+}
+
 // GLOSSARY STUFF
 
 details {
