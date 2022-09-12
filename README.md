@@ -4,9 +4,9 @@ This is a WIP repository that will replace the current _utilitarianism.net_ webs
 
 ## Developing
 
-For detailed instructions if you're new to coding, see the [section below](#if-youve-not-coded-but-want-to-start)
+For detailed instructions if you're new to coding, see the [section below](#first-time-coding)
 
-Make sure you have installed [Hugo](https://gohugo.io/getting-started/installing/) (v`0.101.0` or newer) first. After cloning the repository, run `git submodule update --init` to download the themes submodule; this needs to be done only once. After this, just run the server:
+Short version: make sure you have installed [Hugo](https://gohugo.io/getting-started/installing/) (`0.101.0` or newer) first. After cloning the repository, run `git submodule update --init` to download the themes submodule; this needs to be done only once. After this, just run the server:
 
 ```sh
 hugo server -D
@@ -17,6 +17,8 @@ To build the production version of the application just run:
 ```sh
 hugo -D
 ```
+
+Consult _Hugo_ [documentation](https://gohugo.io/documentation/) if you have trouble, or reach out to Boris with questions.
 
 ## Adding documents
 
@@ -36,11 +38,13 @@ After adding a document it will likely need some manual fixes:
 - If a footnote was multi-paragraph, add the indentation so the text stays with the footnote (rather than being rendered to the page at the bottom)
 - Look over the document for any other manual fixes
 
+Consider adding [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) to your _VSCode_ for automatic error highlighting, and adding [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) for catching some spelling mistakes.
+
 ## Internationalization
 
 In the future we may want to use some `rtl` support
 
-```hugo
+```
 {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }}
 ```
 
@@ -69,6 +73,6 @@ From now on any time you want to work on the website, _with your terminal_:
 - run `hugo server -D` 
 - open `http://localhost:1313/` in your browser
   
-After editing any file (with _VSCode_ or any other text editor) and saving it, the website will automatically be updated: the webstie will automatically refresh with the latest changes 🎉
+After editing any file (with _VSCode_ or any other text editor) and saving it, the website will automatically refresh with the latest changes 🎉
 
 Feel free to reach out with questions by going to [Issues](https://github.com/whyboris/utilitarianism.net/issues)
