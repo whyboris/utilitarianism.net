@@ -7,16 +7,13 @@ menu: "objections"
 weight: 3
 ---
 
-{{ TOC }}
+{{< TOC >}}
 
-
-# The Equality Objection
+## The Equality Objection
 
 Some argue that utilitarianism conflicts with the ideal of equality. Suppose, for example, that you could choose between two possible distributions of well-being, Equality and Inequality: Equality has 1,000 people at well-being level 45, while Inequality has 500 people at 80 well-being and another 500 people at 20 well-being.
 
-
 ![Utilitarianism and equality - objections to utilitarianism](/img/equality1.png "Utilitarianism and equality - objections to utilitarianism")
-
 
 By the lights of utilitarianism, only the sum total of well-being determines the goodness of an outcome: it does not matter how that well-being is distributed across people. Since the sum total of well-being is greater in Inequality than in Equality, the unequal outcome is preferable according to utilitarianism. 
 
