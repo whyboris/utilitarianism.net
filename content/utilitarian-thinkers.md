@@ -6,17 +6,15 @@ menu: "thinkers"
 weight: 1
 ---
 
-Utilitarian ideas go back in part to the works of philosophers in ancient China, including Mozi, and ancient Greece, including Epicurus.[^1] Utilitarianism was further developed, refined and promoted in the late 18th and early 19th century by the classical utilitarians, Jeremy Bentham, John Stuart Mill, and Henry Sidgwick. 
+Utilitarian ideas go back in part to the works of philosophers in ancient China, including Mozi, and ancient Greece, including Epicurus.[^1] Utilitarianism was further developed, refined and promoted in the late 18th and early 19th century by the classical utilitarians, Jeremy Bentham, John Stuart Mill, and Henry Sidgwick.
 
 These articles summarize the lives and ideas of the major utilitarian philosophers. For a much more detailed historical account than we can provide on this website, we recommend the book _[The Happiness Philosophers: The Lives and Works of the Great Utilitarians](https://press.princeton.edu/books/hardcover/9780691154770/the-happiness-philosophers)_ and the article [The History of Utilitarianism](https://plato.stanford.edu/entries/utilitarianism-history/ ) on the Stanford Encyclopedia of Philosophy. Wikipedia also maintains a [list of utilitarians](https://en.wikipedia.org/wiki/List_of_utilitarians).
 
-
 {{< thinker link="mozi" image="/img/thinkers/Mozi.jpg" text="Mozi" >}}
 
-**Mozi (墨翟)** (c. 430 BCE) was a Chinese philosopher who founded the philosophical school of Mohism during China’s Warring States Period (475 - 221 BCE). Mozi and his followers advocated for universalist, impartial ethical views, making them ancient predecessors of utilitarianism.[^2] 
+**Mozi (墨翟)** (c. 430 BCE) was a Chinese philosopher who founded the philosophical school of Mohism during China’s Warring States Period (475 - 221 BCE). Mozi and his followers advocated for universalist, impartial ethical views, making them ancient predecessors of utilitarianism.[^2]
 
 {{< read-more url="mozi" >}}
-
 
 {{< thinker link="susanna-newcome" image="/img/thinkers/Susanna-Newcome.jpg" text="Susanna Newcome" >}}
 
@@ -24,13 +22,11 @@ These articles summarize the lives and ideas of the major utilitarian philosophe
 
 {{< read-more url="susanna-newcome" >}}
 
-
 {{< thinker link="jeremy-bentham" image="/img/thinkers/Jeremy-Bentham.jpg" text="Jeremy Bentham" >}}
 
 **Jeremy Bentham** (1748 - 1832) was a British philosopher and social reformer, who is widely regarded as the founder of classical utilitarianism. His most influential work is _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_ (1789).
 
 {{< read-more url="jeremy-bentham" >}}
-
 
 {{< thinker link="john-stuart-mill" image="/img/thinkers/John-Stuart-Mill.jpg" text="John Stuart Mill" >}}
 
@@ -38,13 +34,11 @@ These articles summarize the lives and ideas of the major utilitarian philosophe
 
 {{< read-more url="john-stuart-mill" >}}
 
-
 {{< thinker link="harriet-taylor-mill" image="/img/thinkers/Harriet-Taylor-Mill.jpg" text="Harriet Taylor Mill" >}}
 
 **Harriet Taylor Mill** (1807 - 1858) was a British philosopher and women’s rights advocate. A close friend and later wife of John Stuart Mill, the two collaborated closely on many works. Despite her many contributions in books and magazines, most of her writing was only published under her own name after her death.
 
 {{< read-more url="harriet-taylor-mill" >}}
-
 
 {{< thinker link="henry-sidgwick" image="/img/thinkers/Henry-Sidgwick.jpg" text="Henry Sidgwick" >}}
 
@@ -52,13 +46,11 @@ These articles summarize the lives and ideas of the major utilitarian philosophe
 
 {{< read-more url="henry-sidgwick" >}}
 
-
 {{< thinker link="richard-hare" image="/img/thinkers/Richard-M-Hare.jpg" text="Richard M Hare" >}}
 
 **Richard M. Hare** (1919 - 2002) was a British philosopher and Professor at the Universities of Oxford and Florida. One of the most influential moral philosophers of the twentieth century, Hare is most famous for his meta-ethical theory of [prescriptivism](https://plato.stanford.edu/entries/moral-cognitivism/#PreUniPre), which he used to argue for utilitarianism.
 
 {{< read-more url="richard-hare" >}}
-
 
 {{< thinker link="peter-singer" image="/img/thinkers/Peter-Singer.jpg" text="Peter Singer" >}}
 
@@ -66,12 +58,11 @@ These articles summarize the lives and ideas of the major utilitarian philosophe
 
 {{< read-more url="peter-singer" >}}
 
-
 [^1]:
      Cf. Singer, P. & de Lazari-Radek, K. (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford: Oxford University Press. Chapter 1.
 
 [^2]:
-     Cf. Fraser, C. (2015). [Mohism](https://plato.stanford.edu/entries/mohism/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.). 
+     Cf. Fraser, C. (2015). [Mohism](https://plato.stanford.edu/entries/mohism/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
     Cf. Singer, P. & de Lazari-Radek, K. (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford: Oxford University Press. Chapter 1.
 
 [^3]:
