@@ -5,6 +5,7 @@ author: Stefan Schubert & Lucius Caviola
 draft: false
 menu: "guest"
 weight: 2
+summary: This article discusses how utilitarians should go about applying their philosophy in the real world. It argues that utilitarians should cultivate a set of utilitarian virtues, including moderate altruism, moral expansiveness, effectiveness-focus, truth-seeking, collaborativeness, and determination.
 ---
 
 

@@ -5,6 +5,7 @@ author: Jeff Sebo
 draft: false
 menu: "guest"
 weight: 1
+summary: This essay advances three claims about utilitarianism and nonhuman animals. Utilitarianism plausibly implies, first, that all vertebrates and many invertebrates morally matter, but that some of these animals might matter more than others; second, that we should attempt to both promote animal welfare and respect animal rights in practice; and third, that we should prioritize farmed and wild animals and work to support them.
 ---
 
 Jeff Sebo

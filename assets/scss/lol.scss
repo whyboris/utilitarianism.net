@@ -85,6 +85,30 @@ body {
 
 // -- END of homepage stuff
 
+.guest-essay-container {
+  border: 1px solid red;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  padding: 10px;
+  margin: 10px;
+
+  a {
+    text-decoration: none;
+  }
+
+  .author {
+    display: block;
+    font-size: 14px;
+    font-family: sans-serif;
+  }
+  
+  .guest-essay {
+    border: 1px solid red;
+    display: block;
+  }
+}
+
 .small-button {
   background-color: #0c63e4;
   color: white;

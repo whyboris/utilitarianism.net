@@ -1,0 +1,14 @@
+<div class="guest-essay-container">
+  {{ range .Site.Menus.guest.Sort.ByWeight }}
+  <a href="{{ .URL }}">
+    <div class="guest-essay">
+      <h2>{{ .Title }}</h2>
+
+      {{ with .Page }}
+      <span class="author"> {{ .Params.author }} </span>
+      <p>{{ .Params.summary }}</p>
+      {{ end }}
+    </div>
+  </a>
+  {{ end }}
+</div>
