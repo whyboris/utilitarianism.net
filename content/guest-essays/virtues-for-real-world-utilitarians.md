@@ -5,14 +5,14 @@ author: Stefan Schubert & Lucius Caviola
 draft: false
 menu: "guest"
 weight: 2
+image: "/img/essays/real-world.jpg"
+imageCaption: "Virtues for Real-World Utilitarians"
+summary: This article discusses how utilitarians should go about applying their philosophy in the real world. It argues that utilitarians should cultivate a set of utilitarian virtues, including moderate altruism, moral expansiveness, effectiveness-focus, truth-seeking, collaborativeness, and determination.
 ---
-
 
 [Stefan Schubert](https://stefanfschubert.com/) and [Lucius Caviola](http://luciuscaviola.com/)
 
-
 {{< TOC >}}
-
 
 ## Introduction
 
@@ -35,7 +35,6 @@ Our list of utilitarian virtues is as follows.[^1]
 
 Lastly, we discuss how utilitarianism relates to common sense virtues and common sense ethics. We argue that when we move from the philosophical seminar room to the real world, utilitarianism does not say that we should harm others for the greater good in the way [it naively may seem](https://www.utilitarianism.net/objections-to-utilitarianism/rights). But although utilitarianism converges with common sense ethics in that regard, it departs from it in other key ways: for instance, by emphasizing the importance of caring for distant beneficiaries (moral expansiveness) and the importance of always choosing the most effective ways of helping others (effectiveness-focus).
 
-
 ## Moderate Altruism
 
 Utilitarianism says that everything else being equal, everyone’s well-being is equally valuable. That means that we have no _intrinsic_ reasons to prioritize ourselves over others. This obviously clashes strongly with our natural selfishness.
@@ -52,21 +51,19 @@ These considerations all support moderate altruism over extreme altruism. They a
 
 While that is true, we need to compare this added impact with the impact that we can gain by addressing other psychological obstacles, via other virtues. As we shall see, most people can likely increase their utilitarian impact at least a hundred times through increasing the _effectiveness_ of their help: for instance, by choosing to donate to the most effective charities. By contrast, increasing the _amount_ that we help through transitioning from moderate to extreme levels of altruism likely makes a much smaller difference. It is also probably much less psychologically costly to help more effectively than to increase the amount of help that we give to extreme levels. For these reasons, it seems sensible to prioritize virtues that increase the effectiveness of our help—such as effectiveness-focus and truth-seeking—over extreme altruism. Thus, in our view, utilitarians should settle for moderate altruism.
 
-
 ## Moral Expansiveness
 
 Just like utilitarianism says that we have no intrinsic reason to prioritize ourselves over other people, so it says that we have no intrinsic reason to prioritize some beneficiaries over others when we are giving away resources. But just like extreme altruism clashes with our natural inclinations, so does this type of extreme [impartiality](https://www.utilitarianism.net/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests). People tend to be strongly partial in favor of their family members. Such partiality is rooted in our evolutionary history, as genes favoring those who share our genes were more likely to propagate themselves. While these preferences for our kin are not completely immutable, they have proved hard to change fundamentally. For instance, attempts at communal child-rearing at Israeli kibbutzim have largely failed, as parents wanted to retain their special, partial, relationship with their children.[^3]
 
 Our judgment is therefore that utilitarians need not practice such extreme impartiality, just like they need not practice extreme altruism. However, there are other forms of partiality besides that which is based on family ties. People tend to favor their compatriots over foreigners, current people over future people, humans over non-human animals, and so on. These forms of partiality seem considerably weaker, psychologically speaking, than partiality that is based on family ties. They are not rooted in shared genes, nor in personal relationships. Instead, they are rooted in membership of a group which we effectively have decided to prioritize.
 
-One reason to believe that such partiality is more mutable is that it has weakened with time: we have, in [Peter Singer’s](https://www.utilitarianism.net/utilitarian-thinker/peter-singer) words, gradually [expanded the circle of moral concern](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#the-expanding-moral-circle) to include more groups.[^4] We have become less inclined to prioritize some people over others merely because they are members of our group. There seems to be no reason to believe that this process cannot continue. 
+One reason to believe that such partiality is more mutable is that it has weakened with time: we have, in [Peter Singer’s](https://www.utilitarianism.net/utilitarian-thinker/peter-singer) words, gradually [expanded the circle of moral concern](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#the-expanding-moral-circle) to include more groups.[^4] We have become less inclined to prioritize some people over others merely because they are members of our group. There seems to be no reason to believe that this process cannot continue.
 
 There is also another reason why overcoming this group-based partiality seems more feasible. Impartiality with respect to your family requires you to change your life in fundamental ways. Impartiality with respect to larger groups tends to have much more modest consequences. It does affect decisions such as what charity to donate to, what party to vote for, and potentially (depending on other factors) what job to choose. But it often leaves the private and personal side of our lives relatively unaffected. In line with that, outside of work many effective altruist utilitarians lead lives that in many ways are remarkably similar to those of most people in society.
 
-Overcoming group-based partiality is not only feasible but also impactful. As effective altruists have shown, you can often [increase your impact by helping beneficiaries that are distant from us](https://www.utilitarianism.net/acting-on-utilitarianism#cause-prioritization)—spatially, temporally, and biologically. For instance, our money tends to “go further overseas”: donors in rich countries can do much more good by giving to the global poor than by giving to poor people in their own countries.[^5] Likewise, because reducing the suffering of animals in factory farms is so neglected, donations to farm animal welfare charities can have an outsized impact.[^6] Lastly, some effective altruists—so-called [longtermists](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#longtermism)—think that interventions that help the distant future are still much more effective.[^7] 
+Overcoming group-based partiality is not only feasible but also impactful. As effective altruists have shown, you can often [increase your impact by helping beneficiaries that are distant from us](https://www.utilitarianism.net/acting-on-utilitarianism#cause-prioritization)—spatially, temporally, and biologically. For instance, our money tends to “go further overseas”: donors in rich countries can do much more good by giving to the global poor than by giving to poor people in their own countries.[^5] Likewise, because reducing the suffering of animals in factory farms is so neglected, donations to farm animal welfare charities can have an outsized impact.[^6] Lastly, some effective altruists—so-called [longtermists](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#longtermism)—think that interventions that help the distant future are still much more effective.[^7]
 
 In light of these considerations, we suggest that utilitarians cultivate the virtue of _moral expansiveness_.[^8] They should continue to expand their circle of moral concern to include more distant beneficiaries. They should not discriminate in favor of closer beneficiaries, except when they have a strong personal relationship with them. According to this view, utilitarians should permit themselves to be partial in favor of people within their personal sphere.[^9] But outside of that personal sphere, they should be impartial and not discriminate against distant beneficiaries.
-
 
 ## Effectiveness-focus
 
@@ -82,14 +79,13 @@ Overcoming these obstacles to effectiveness is highly impactful. Studies show th
 
 It also seems feasible to overcome these biases and develop the virtue of effectiveness-focus. Note that we do not suggest that people need to align their feelings with the scale of the observed suffering. It is not possible to feel a million times more for a million suffering people than for a single person. Instead, we are talking about behavior and actions. We are suggesting that you should choose how to help based on assessments of impact, rather than based on intuitive reactions. And changing behavior in this regard seems much easier than changing feelings. It is by no means trivial to be consistently focused on effectiveness. But at the same time, it seems far easier than to become, for example, fully selfless, or fully impartial in relation to one’s family. In our view, many effective altruists by and large do live the virtue of effectiveness-focus, showing that it is feasible to do so.
 
-
 ## Truth-seeking
 
 So far, we have focused on decisions where the effectiveness of different ways of helping others is known. In such cases, moral expansiveness and effectiveness-focus can help utilitarians overcome key psychological obstacles and choose the opportunities that have the greatest impact.
 
 But more often than not, high-impact opportunities are not lined up in front of you. Instead, you have to identify the best ways of helping others yourself. At this point, there are new obstacles to utilitarianism that must be overcome.
 
-To identify the best ways of helping, utilitarians have to analyze all the effects of their actions and arrive at an overall estimate of their impact relative to the alternatives. It goes without saying that this is hard. This is particularly true of interventions aimed at helping distant beneficiaries—which, as we have seen, may have the greatest utilitarian impact. For instance, assessing the effects of our current actions on the long-term future seems extraordinarily hard.[^16] 
+To identify the best ways of helping, utilitarians have to analyze all the effects of their actions and arrive at an overall estimate of their impact relative to the alternatives. It goes without saying that this is hard. This is particularly true of interventions aimed at helping distant beneficiaries—which, as we have seen, may have the greatest utilitarian impact. For instance, assessing the effects of our current actions on the long-term future seems extraordinarily hard.[^16]
 
 But it is not just that the problem is intrinsically difficult. Another problem resides in our own minds. A plethora of psychological biases distract us from the truth and make it harder for us to see the world as it really is. Here we will just cover a few examples.
 
@@ -103,7 +99,6 @@ Since overcoming these obstacles would allow the utilitarian to identify higher-
 
 The importance of truth-seeking for utilitarianism is often underrated. Arguably it is more important for utilitarianism than for common sense morality. Unlike common sense morality, utilitarianism says that you should choose the most effective ways of helping others—and to find them, you need to be truth-seeking. In that sense, real-world utilitarianism is actually quite _epistemically demanding_. Most discussions about [utilitarianism and demandingness](https://www.utilitarianism.net/objections-to-utilitarianism/demandingness) focus on demands on our material resources, but the epistemic demands are arguably more important when you apply utilitarianism in the real world. And for most people, it may be less draining to try to improve epistemically than to give away large material resources.
 
-
 ## Collaborativeness
 
 Our discussion so far has highlighted psychological obstacles that prevent individual utilitarians from maximizing their personal impact. But utilitarians also need to collaborate with others to maximize their collective impact. Here, new psychological obstacles present themselves. To overcome them, utilitarians should cultivate the virtue of collaborativeness.
@@ -114,7 +109,7 @@ The effective altruism community is intensely collaborative. They specialize and
 
 Another advantage of forming a community is that it can make it easier to cultivate and maintain the utilitarian virtues. Within the effective altruism community, these virtues are celebrated and seen as norms. And as we have seen, people tend to be more inclined to do things if they are celebrated and supported by norms.
 
-Utilitarians should also be open to collaborating with people with different moral views. Toby Ord, one of the founders of effective altruism, has pioneered the concept of _moral trade_.[^25] We trade all the time to satisfy our self-interested preferences: I give you my service in return for your goods. As Ord points out, we can also trade to satisfy our moral preferences. Suppose that Alice finds veganism much more morally important than Bob, whereas Bob feels more strongly about global poverty. Then Alice and Bob can satisfy their moral preferences better if Alice promises to give to global poverty charities provided that Bob reciprocates through becoming vegan. 
+Utilitarians should also be open to collaborating with people with different moral views. Toby Ord, one of the founders of effective altruism, has pioneered the concept of _moral trade_.[^25] We trade all the time to satisfy our self-interested preferences: I give you my service in return for your goods. As Ord points out, we can also trade to satisfy our moral preferences. Suppose that Alice finds veganism much more morally important than Bob, whereas Bob feels more strongly about global poverty. Then Alice and Bob can satisfy their moral preferences better if Alice promises to give to global poverty charities provided that Bob reciprocates through becoming vegan.
 
 Utilitarians should be open to moral trade (in an extended sense) with people they disagree with. For instance, they should avoid saying and doing things that are objectionable from the point of view of other reasonable moral perspectives unless it is strictly necessary. Anecdotally, it seems that people within the effective altruism community largely do that, and that that has helped the community to do more good.
 
@@ -123,7 +118,6 @@ For all these reasons, you will typically have a much greater impact if you coll
 There is another factor that explains why people dislike moral trade in particular. They often feel outraged or disgusted over other people’s moral views and therefore refuse to cooperate or even compromise with them.[^27] So moral trade does not come naturally to most people.
 
 Though these obstacles are real, they do not seem insurmountable. We have a proof of concept in the effective altruism community, which does collaborate relatively well. While people will never become perfectly collaborative, effective altruists have shown that it is feasible to improve a lot on the _status quo_.
-
 
 ## Determination
 
@@ -136,7 +130,6 @@ One reason is simple inertia. Another is _availability bias_—the tendency to d
 To overcome these obstacles, utilitarians should cultivate the virtue of determination. They should actively seek out the highest-impact opportunities and avoid drifting into sub-optimal solutions. They should work as hard as necessary (though without risking burnout). And they should make sure they keep motivated over the long term, since it often takes time to have a big impact. Young people who enter a career for utilitarian reasons can typically expect their impact to peak several decades later, when they have reached more senior positions.
 
 Without determination, there is a risk that you will not have much of an impact at all—even if you have the other utilitarian virtues. It is thus highly impactful to overcome inertia, satisficing, and related psychological obstacles by cultivating the virtue of determination. And it also seems relatively feasible. Again, it helps to have community norms. The effective altruism community celebrates determination, just like it celebrates truth-seeking: consider, for instance, the effective altruist slogan “figure out how to do the most good, _and then do it_”.[^31] This seems to help utilitarian community members to stay determined and action-oriented.
-
 
 ## Utilitarianism and Common Sense Virtues
 
@@ -158,7 +151,6 @@ Some of our suggested virtues tend to be associated with utilitarianism. That ma
 
 _A longer version of this article can be found [here](https://psyarxiv.com/w52zm)._
 
-
 ---
 
 About the Authors
@@ -169,17 +161,11 @@ About the Authors
 
 ---
 
-
 {{< how-to-cite authors="Schubert, S., & Caviola, L." >}}
-
 
 {{< two-button >}}
 
-
-
 ## Resources and Further Reading
-
-
 
 * Bazerman, Max (2020). _[Better, not perfect: a realist’s guide to maximum sustainable goodness](https://www.amazon.co.uk/Better-Not-Perfect-Realists-Sustainable-ebook/dp/B082J39V98)_. Harper Business.
 * Bradley, Ben (2018). [Contemporary Consequentialist Theories of Virtue.](https://benbradleyweb.files.wordpress.com/2016/09/consequentialist-theories-of-virtue-final-web.pdf) In _The Oxford Handbook of Virtue_.
@@ -190,18 +176,13 @@ About the Authors
 * Ord, Toby (2009). [Beyond Action: Applying consequentialism to decision making and motivation.](http://www.amirrorclear.net/academic/papers/beyond-action.pdf) D. Phil. dissertation, University of Oxford.
 * Schmidt, Andreas. T. (2017). [Being Good by Doing Good: Goodness and the Evaluation of Persons.](https://www.cambridge.org/core/journals/utilitas/article/being-good-by-doing-good-goodness-and-the-evaluation-of-persons/774381E3ECAB0C8A3B961B9E6EA997AD) _Utilitas_, 29(1): 3.
 * Schubert, Stefan and Lucius Caviola. [Virtues for Real-World Utilitarianism](https://psyarxiv.com/w52zm). In Aguiar, Fernando, Antonio Gaitán, and Hugo Viciano, _Issues in Experimental Moral Philosophy_, Routledge (forthcoming).
-* Schubert, Stefan, Ben Garfinkel, and Owen Cotton-Barratt (2017). [Considering Considerateness: Why communities of do-gooders should be exceptionally considerate.](https://www.centreforeffectivealtruism.org/blog/considering-considerateness-why-communities-of-do-gooders-should-be) Effectivealtruism.org. 
-
+* Schubert, Stefan, Ben Garfinkel, and Owen Cotton-Barratt (2017). [Considering Considerateness: Why communities of do-gooders should be exceptionally considerate.](https://www.centreforeffectivealtruism.org/blog/considering-considerateness-why-communities-of-do-gooders-should-be) Effectivealtruism.org.
 
 **Videos of talks:**
 
 * Caviola, Lucius (2017). [Against Naïve Effective Altruism](https://www.youtube.com/watch?v=-2oRgxxafXk).
 * Schubert, Stefan (2019). [Moral Aspirations and Psychological Limitations](https://www.youtube.com/watch?v=mcp-wnu2NhY).
 * Schubert, Stefan (2020). [Naïve effective altruism and the danger of neglecting psychology](https://www.youtube.com/watch?v=g-RJ5CDQLNM&t).
-
-
-
-
 
 [^1]:
      Importantly, this list is tentative and not meant to be exhaustive.
@@ -249,7 +230,7 @@ About the Authors
      Caviola, Lucius, Stefan Schubert, Elliot Teperman, David Moss, Spencer Greenberg, and Nadira S. Faber (2020). Donors vastly underestimate differences in charities’ effectiveness. _Judgment and Decision Making_, 15(4): 509–516.
 
 [^16]:
-     Tarsney, Christian (2019). [The epistemic challenge to longtermism](https://globalprioritiesinstitute.org/christian-tarsney-the-epistemic-challenge-to-longtermism/). Global Priorities Institute, working paper, 10. 
+     Tarsney, Christian (2019). [The epistemic challenge to longtermism](https://globalprioritiesinstitute.org/christian-tarsney-the-epistemic-challenge-to-longtermism/). Global Priorities Institute, working paper, 10.
 
 [^17]:
      Kahan, Dan M (2015). The politically motivated reasoning paradigm, part 1: What politically motivated reasoning is and how to measure it. _Emerging trends in the social and behavioral sciences: An interdisciplinary, searchable, and linkable resource_: 1–16.
@@ -279,7 +260,7 @@ About the Authors
      Ord, Toby (2015). Moral trade. _Ethics_, 126(1): 118–138.
 
 [^26]:
-     See Caviola, Lucius, Stefan Schubert, Elliot Teperman, David Moss, Spencer Greenberg, and N. Faber (2020). Donors vastly underestimate differences in charities’ effectiveness. _Judgment and Decision Making_,_ _15:4: 509–516.
+     See Caviola, Lucius, Stefan Schubert, Elliot Teperman, David Moss, Spencer Greenberg, and N. Faber (2020). Donors vastly underestimate differences in charities’ effectiveness. _Judgment and Decision Making_,__15:4: 509–516.
 
 [^27]:
      Haidt, Jonathan (2012). _The righteous mind: Why good people are divided by politics and religion._ Vintage.
@@ -288,13 +269,13 @@ About the Authors
      Sheeran, Paschal, and Thomas L. Webb (2016). The intention–behavior gap. _Social and personality psychology compass_, 10(9): 503–518.
 
 [^29]:
-     Schwarz, Norbert, and Leigh Ann Vaughn (2002). The Availability Heuristic Revisited: Ease of Recall and Content of Recall as Distinct Sources of Information. Chapter in _Heuristics and Biases: The Psychology of Intuitive Judgment_, edited by Thomas Gilovich, Dale Griffin, and Daniel Kahneman, 103–19. Cambridge: Cambridge University Press. 
+     Schwarz, Norbert, and Leigh Ann Vaughn (2002). The Availability Heuristic Revisited: Ease of Recall and Content of Recall as Distinct Sources of Information. Chapter in _Heuristics and Biases: The Psychology of Intuitive Judgment_, edited by Thomas Gilovich, Dale Griffin, and Daniel Kahneman, 103–19. Cambridge: Cambridge University Press.
 
 [^30]:
      Misuraca, Raffaella, Palmira Faraci, Amelia Gangemi, Floriana A. Carmeci, and Silvana Miceli (2015). The Decision Making Tendency Inventory: A new measure to assess maximizing, satisficing, and minimizing. _Personality and Individual Differences_, 85: 111–116.
 
 [^31]:
-     Cotra, Ajeya (2017). [Introduction to Effective Altruism](https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/5EqJozsDdHcF7dpPL).[ Effective Altruism Forum](https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/5EqJozsDdHcF7dpPL). Our italics.
+     Cotra, Ajeya (2017). [Introduction to Effective Altruism](https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/5EqJozsDdHcF7dpPL).[Effective Altruism Forum](https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/5EqJozsDdHcF7dpPL). Our italics.
 
 [^32]:
      Foot, Philippa (1967). The problem of abortion and the doctrine of the double effect. _Oxford Review_, 5: 5–15; Thomson, Judith Jarvis (1976). Killing, Letting Die, and the Trolley Problem, _The Monist_, 59: 204–17; Greene, Joshua D., R. Brian Sommerville, Leigh E. Nystrom, John M. Darley, and Jonathan D. Cohen (2001). An fMRI investigation of emotional engagement in moral judgment. _Science_, 293(5537): 2105–2108.
@@ -306,4 +287,4 @@ About the Authors
      Mill, John Stuart (1838). Bentham, in John M. Robson (ed.) Collected works (vol. X), Toronto: Toronto University Press: pp. 75–116; Sidgwick, Henry (1907/1981). _The Method of Ethics_, 7th edition. Indianapolis: Hackett; Crisp, Roger (1992). Utilitarianism and the Life of Virtue. _The Philosophical Quarterly_, 42(167): 139–160; Hooker, Brad (2002). _Ideal code, real world: A rule-consequentialist theory of morality_. Oxford University Press; Ord, Toby (2009). Beyond Action: Applying consequentialism to decision making and motivation. D. Phil. dissertation, University of Oxford.
 
 [^35]:
-     Mill, John Stuart (1861/1992). _Utilitarianism_, In _On Liberty and Utilitarianism_, Knopf: Everyman’s Library, Volume 81.; Railton, Peter (1984). Alienation, Consequentialism, and the Demands of Morality. _Philosophy and Public Affairs_,_ _13: 134–171.
+     Mill, John Stuart (1861/1992). _Utilitarianism_, In _On Liberty and Utilitarianism_, Knopf: Everyman’s Library, Volume 81.; Railton, Peter (1984). Alienation, Consequentialism, and the Demands of Morality. _Philosophy and Public Affairs_,__13: 134–171.

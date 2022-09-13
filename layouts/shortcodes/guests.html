@@ -1,0 +1,17 @@
+<div class="guest-essay-container">
+  {{ range .Site.Menus.guest.Sort.ByWeight }}
+  <a href="{{ .URL }}">
+    {{ with .Page }}
+    <div class="guest-essay">
+      <div class="image-container" style="background-image: url('{{ .Params.image }}')">
+        <!-- <img src="{{ .Params.image }}" alt="{{ .Params.imageCaption }}" /> -->
+      </div>
+      <h2>{{ .Title }}</h2>
+
+      <span class="author"> {{ .Params.author }} </span>
+      <p>{{ .Params.summary }}</p>
+    </div>
+    {{ end }}
+  </a>
+  {{ end }}
+</div>
