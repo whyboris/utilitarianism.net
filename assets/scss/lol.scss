@@ -7,6 +7,12 @@ code {
   font-family: Merriweather;
 }
 
+.coffee-house {
+  font-size: 12px;
+  line-height: 20px;
+  margin: 10px;
+}
+
 .books {
   display: grid;
   grid-template-columns: 260px 260px 260px;
@@ -84,10 +90,44 @@ summary::-webkit-details-marker {
   }
 }
 
+.thinker-name {
+  padding-top: 10px;
+
+  .name {
+    font-size: 20px;
+    font-weight: bold;
+    color: #0b3b5b;
+  }
+  .year {
+    font-size: 14px;
+    margin-left: 10px;
+  }
+}
+
 .read-more {
-  clear: both;
   text-align: right;
-  transform: translate(-30px, -50px);
+  transform: translate(-30px, 0px);
+
+  .prof {
+    font-size: 14px;
+  }
+
+  .uni {
+    color: #0b3b5b;
+    display: block;
+    font-size: 14px;
+    transform: translateY(-6px);
+  }
+}
+
+.read-more-2 {
+  clear: initial;
+  transform: translate(-30px, -20px);
+}
+
+.prof-bottom-hack {
+  clear: both; 
+  margin-bottom: 40px
 }
 
 .site-footer {

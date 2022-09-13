@@ -1,0 +1,28 @@
+<div class="temp-navigation-hack">
+  <span>Textbook Overview</span>
+
+  <ol>
+    {{ range .Site.Menus.main.Sort.ByWeight }}
+    <li>
+      <a href="{{ .URL }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ol>
+
+  <span>Other Content</span>
+
+  <ol>
+    <li>
+      <a href="/acting-on-utilitarianism"> Acting on Utilitarianism </a>
+    </li>
+    <li>
+      <a href="/utilitarian-thinkers"> Utilitarian Thinkers </a>
+    </li>
+    <li>
+      <a href="/glossary"> Utilitarian Glossary </a>
+    </li>
+    <li>
+      <a href="/books"> Utilitarian Books </a>
+    </li>
+  </ol>
+</div>
