@@ -7,6 +7,97 @@ code {
   font-family: Merriweather;
 }
 
+body {
+  margin: 0;
+}
+
+// HOMEPAGE STUFF
+
+// .homepage-main {
+  // disabled - might never need
+// }
+
+.homepage-body {
+
+  p {
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    line-height: 2em;
+  }
+    
+  .homepage-center {
+    margin: 0 auto;
+    max-width: 850px;
+    padding: 30px 0;
+  }
+  
+  .dark-background {
+    background-color: #0b3b5b;
+    color: white;
+
+    .temp-navigation-hack {
+      background: white;
+      color: #0b3b5b;
+
+      span {
+        font-weight: bold;
+        font-size: 18px;
+        margin: 18px 0 -16px 12px;
+        display: block;
+      }
+
+      li {
+        a {
+          margin-left: 10px;
+        }
+      }
+
+      li::marker {
+        font-size:12px;
+        color: #33aaff;
+      }
+
+      a {
+        color: #0b3b5b;
+
+        &:hover {
+          color: #33aaff;
+        }
+      }
+    }
+  
+    blockquote {
+      border: 0;
+      padding: 50px;
+
+      p {
+        font-size: 18px;
+        font-style: italic;
+      }
+    }
+  
+    a {
+      color: white;
+    }
+  }
+
+}
+
+// -- END of homepage stuff
+
+.small-button {
+  background-color: #0c63e4;
+  color: white;
+  font-size: 16px;
+  padding: 14px 28px;
+  width: auto;
+  display: inline-block;
+
+  &:hover {
+    background-color: #1c567d;
+  }
+}
+
 .coffee-house {
   font-size: 12px;
   line-height: 20px;
@@ -134,33 +225,47 @@ summary::-webkit-details-marker {
   background-color: #363636;
   padding: 50px;
 
+  .footer-heading {
+    font-weight: bold;
+    font-size: 18px;
+    transform: translate(-10px, -10px);
+    display: block;
+  }
+
   .temp-navigation-hack {
     border: 0;
+
+    ol {
+      transform: translate(-16px, -16px);
+      max-width: 40%;
+    }
 
     a {
       color: white;
     }
   }
 
+  .disclaimer {
+    color: #cccccc;
+    font-size: 10px;
+    font-family: sans-serif;
+    margin-top: 40px;
+  }
+
   .copyright {
     font-family: sans-serif;
-    margin-top: 20px;
+    margin-top: 16px;
+    font-size: 20px;
     color: white;
+
+    span {
+      font-size: 14px;
+    }
   }
 }
 
 .main-body-class {
   background-color: white;
-}
-
-.homepage-main {
-  background-color: white;
-  margin: 100px;
-
-  .temp-navigation-hack {
-    background-color: #f5f5f5;
-    color: #33aaff;
-  }
 }
 
 .website-header {
