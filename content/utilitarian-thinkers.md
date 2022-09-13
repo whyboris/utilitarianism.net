@@ -10,6 +10,8 @@ Utilitarian ideas go back in part to the works of philosophers in ancient China,
 
 These articles summarize the lives and ideas of the major utilitarian philosophers. For a much more detailed historical account than we can provide on this website, we recommend the book _[The Happiness Philosophers: The Lives and Works of the Great Utilitarians](https://press.princeton.edu/books/hardcover/9780691154770/the-happiness-philosophers)_ and the article [The History of Utilitarianism](https://plato.stanford.edu/entries/utilitarianism-history/ ) on the Stanford Encyclopedia of Philosophy. Wikipedia also maintains a [list of utilitarians](https://en.wikipedia.org/wiki/List_of_utilitarians).
 
+<br>
+
 {{< thinker
      link="/utilitarian-thinker/mozi"
      image="/img/thinkers/Mozi.jpg"

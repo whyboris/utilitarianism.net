@@ -1,17 +1,9 @@
 {{ define "main" }}
 
-<div class="temp-navigation-hack">
+<div class="article-body">
 
-  <span>Core Articles</span>
-
-  <ol>
-    {{ range .Site.Menus.main.Sort.ByWeight }}
-      <li>
-        <a href="{{ .URL }}">{{ .Title }}</a>
-      </li>  
-    {{ end }}
-  </ol>
-
+  {{ .Content }}
+  
 </div>
 
 {{ end }}
