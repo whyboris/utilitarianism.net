@@ -1,12 +1,39 @@
 <footer class="site-footer" role="contentinfo">
 
   <div class="temp-navigation-hack" style="float: right">
+
+    <span class="footer-heading">Other Content</span>
+
+    <a href="/acting-on-utilitarianism">Acting on Utilitarianism</a>
+    <a href="/utilitarian-quotes">Utilitarian Quotes</a>
+    <a href="/utilitarian-thinkers">Utilitarian Thinkers</a>
+    <a href="/glossary">Utilitarian Glossary</a>
+    <a href="/books">Utilitarian Books</a>
     <a href="/utilitarianism-for-high-school-students">Utilitarianism: Simply Explained</a>
+    <a href="/about">About Us</a>
+
+    <br><br>
+
+    <span class="footer-heading">Guest Essays</span>
+
+    <a href="/guest-essays/utilitarianism-and-nonhuman-animals">Utilitarianism and Nonhuman Animals</a>
+    <a href="/guest-essays/virtues-for-real-world-utilitarians">Virtues for Real-World Utilitarians</a>
+    <a href="/guest-essays/buddhism-and-utilitarianism">Buddhism and Utilitarianism</a>
+    <a href="/guest-essays/bentham-and-criminal-law">Bentham and Criminal Law</a>
+    <a href="/guest-essays/precis-of-the-feeling-of-value">Analytic Hedonism</a>
+    <a href="/guest-essays/naturalistic-arguments-for-ethical-hedonism">Naturalistic Arguments for Hedonism</a>
+
+    <br><br>
+
+    <span class="footer-heading">Study Guides</span>
+
+    <a href="/peter-singer-famine-affluence-and-morality">Singer’s ‘Famine, Affluence, and Morality’</a>
+
   </div>
 
   <div class="temp-navigation-hack">
 
-    <span>Core Articles</span>
+    <span class="footer-heading">Core Articles</span>
 
     <ol>
       {{ range first 8 .Site.Menus.main.Sort.ByWeight }}
@@ -31,12 +58,15 @@
     {{ end }}
     </ol>
 
-
   </div>
 
 
+  <div class="disclaimer">
+    This website was co-created by William MacAskill, Associate Professor of Philosophy at the University of Oxford
+  </div>
+
   <div class="copyright">
-    &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+    &copy; 2022 <span>Utilitarianism.net</span>
 
     <div>
       {{ partial "social-follow.html" . }}

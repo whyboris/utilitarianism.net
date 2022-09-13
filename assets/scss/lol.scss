@@ -225,18 +225,42 @@ summary::-webkit-details-marker {
   background-color: #363636;
   padding: 50px;
 
+  .footer-heading {
+    font-weight: bold;
+    font-size: 18px;
+    transform: translate(-10px, -10px);
+    display: block;
+  }
+
   .temp-navigation-hack {
     border: 0;
+
+    ol {
+      transform: translate(-16px, -16px);
+      max-width: 40%;
+    }
 
     a {
       color: white;
     }
   }
 
+  .disclaimer {
+    color: #cccccc;
+    font-size: 10px;
+    font-family: sans-serif;
+    margin-top: 40px;
+  }
+
   .copyright {
     font-family: sans-serif;
-    margin-top: 20px;
+    margin-top: 16px;
+    font-size: 20px;
     color: white;
+
+    span {
+      font-size: 14px;
+    }
   }
 }
 
