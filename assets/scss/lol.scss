@@ -86,26 +86,45 @@ body {
 // -- END of homepage stuff
 
 .guest-essay-container {
-  border: 1px solid red;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
-  padding: 10px;
-  margin: 10px;
-
   a {
     text-decoration: none;
+
+    &:hover {
+      div {
+        background-color: #f5f5f5;
+      }
+    }
+  }
+  
+  h2 {
+    margin: 0 0;
+    line-height: 40px;
   }
 
   .author {
     display: block;
-    font-size: 14px;
     font-family: sans-serif;
+    font-size: 16px;
+    margin-left: 16px;
+    display: block;
+  }
+
+  .image-container {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    height: 290px;
+    margin-right: 30px;
+    overflow: hidden;
+    width: 200px;
   }
   
   .guest-essay {
-    border: 1px solid red;
+    padding: 20px;
     display: block;
+    margin-bottom: 30px;
+    min-height: 300px;
   }
 }
 
