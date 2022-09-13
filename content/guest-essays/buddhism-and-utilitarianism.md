@@ -21,9 +21,7 @@ Section 3 moves from ethical theory to applied ethics. There we will examine wha
 
 Before proceeding, I should note that it is difficult to say much that is uncontroversial about Buddhist ethics—particularly its theoretical structure. This is because Buddhist philosophers did not traditionally engage in systematic ethical theorizing, as displayed in Aristotle, Kant, and [Mill](https://www.utilitarianism.net/utilitarian-thinker/john-stuart-mill) (for example). However, there is still a great deal of normative content in canonical Buddhist literature. The result, to quote Jay Garfield, is that the scholar of Buddhist ethics is confronted with “a lot of what might appear to be disconnected observations about moral life…Not all of [which] will fit together neatly.”[^5] Any attempt to treat Buddhist ethics is therefore highly interpretive and reconstructive. Recent work in the field reflects this fact: Buddhism has variously been read as committed to virtue ethics,[^6] consequentialism,[^7] pluralism,[^8] and particularism,[^9] alongside moral nihilism[^10] and a deliberately anti-theoretical position.[^11] In what follows I will try to be clear about where I am following other scholars and where I am offering my own perspective.
 
-
 ## Ethical theory
-
 
 ### Early Buddhism
 
@@ -33,11 +31,9 @@ Early Buddhist ethical teaching reflects a pragmatic response to this existentia
 
 It is important to appreciate that none of this implies that Early Buddhism advocates for a life of selfish behavior—at least in any obvious sense. Two of the cardinal moral virtues championed in Early and Theravāda Buddhism are loving-friendliness (_mettā_) and compassion (_karuṇā_), which are supposed to be directed impartially towards all sentient beings. The emphasis on [well-being](https://www.utilitarianism.net/theories-of-wellbeing), the [inclusion of all sentient beings](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#speciesism) as moral patients, and the [impartial standpoint](https://www.utilitarianism.net/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests) are all respects in which Early Buddhism is akin to utilitarianism. However, the primary reason that the cultivation of virtues like compassion is recommended is _not_ that doing so will (in expectation) lead to the best outcome for the world. It is rather that cultivating such virtues is part of the path to liberation—what I have been calling the individual soteriological ethic.[^14] I therefore agree with Jake Davis when he writes,
 
-
 > “One might object to this proposal on the grounds that it represents a sort of enlightened egoism, that it falsely takes the aim of ethics to be the (at best) morally neutral project of decreasing one’s own suffering rather than the morally praiseworthy project of decreasing the suffering of all. My own interpretation is that the position of the early Buddhist texts is to bite this bullet. That is, the path to the end of _dukkha_ is a path to the end of _dukkha_ in one’s own world of experience.”[^15]
 
-If this reading of Early Buddhism is correct, then regardless of the extent to which the tradition aligns with [utilitarianism in practice](https://www.utilitarianism.net/utilitarianism-and-practical-ethics), it cannot be a form of utilitarianism, for the reasons underlying its ethical prescriptions differ markedly from [those of utilitarianism](https://www.utilitarianism.net/arguments-for-utilitarianism#what-fundamentally-matters). 
-
+If this reading of Early Buddhism is correct, then regardless of the extent to which the tradition aligns with [utilitarianism in practice](https://www.utilitarianism.net/utilitarianism-and-practical-ethics), it cannot be a form of utilitarianism, for the reasons underlying its ethical prescriptions differ markedly from [those of utilitarianism](https://www.utilitarianism.net/arguments-for-utilitarianism#what-fundamentally-matters).
 
 ### Mahāyāna Buddhism
 
@@ -51,8 +47,7 @@ So, on this “strongest case” reading of Śāntideva for utilitarianism, we h
 
 One complication for the consequentialist reading is that _A Guide to the Bodhisattva Way of Life_ is a religious text, written in poetic verse, whose purpose is to inspire the reader to transform herself into a _bodhisattva_. The _bodhisattva_ is the ethical ideal of Mahāyāna Buddhism. It is a being who has (nearly) attained awakening, but who voluntarily takes further rebirths in _saṃsāra_ in order to save other beings, rather than securing final liberation for herself by passing out of the round of rebirth. The cardinal virtue of the _bodhisattva_ is thus great compassion (_mahākaruṇā_), because she puts the interests of others before those of herself (recall that the final end of Early Buddhist practice is complete liberation from _saṃsāra_—precisely what the _bodhisattva_ renounces for the sake of others).
 
-There are multiple ways to interpret the ethics behind the _bodhisattva_ ideal. One is the consequentialist reading. Another is virtue-based: we ought to cultivate wisdom (_prajñā_) and compassion (_karuṇā_), which will result in a great deal of behavior and moral advice that _seems_ consequentialist, but rests on an entirely different explanatory framework. Yet another is an ethic centered on what Jay Garfield calls moral phenomenology. On this view, 
-
+There are multiple ways to interpret the ethics behind the _bodhisattva_ ideal. One is the consequentialist reading. Another is virtue-based: we ought to cultivate wisdom (_prajñā_) and compassion (_karuṇā_), which will result in a great deal of behavior and moral advice that _seems_ consequentialist, but rests on an entirely different explanatory framework. Yet another is an ethic centered on what Jay Garfield calls moral phenomenology. On this view,
 
 > The aim of ethical practice is…to replace [one’s ordinary] experience with a non-egocentric experience of oneself as part of an interdependent world. This experience in turn is expected to induce a mode of comportment characterized by friendliness, care, joy in the success of others, and impartiality that more accurately reflects reality as it is, and that enables one to alleviate one’s own and others’ suffering. Ethical practice is about the transformation not in the first instance of what we _do_, but of how we _see_.[^24]
 
@@ -60,11 +55,9 @@ As with the virtue-based reading, if Buddhist ethics is best parsed in terms of 
 
 My own suspicion is that we lack decisive evidence for or against any of these interpretations, because (to reemphasize) Buddhist philosophers were not in the business of doing systematic ethical theory. With that said, to close this subsection, I would like to offer one piece of evidence that weighs against the consequentialist reading of Mahāyāna Buddhism and that has not (to my knowledge) been commented on in the contemporary literature.[^26] Recently, philosophers have noticed that infinite worlds—worlds that contain infinite quantities of morally (dis)valuable phenomena, such as well-being—pose serious difficulties for consequentialist ethics. Nick Bostrom [presents](https://web.archive.org/web/20220617143334/https://nickbostrom.com/ethics/infinite) the classic statement of the problem:
 
-
 > “Ethical theories that hold that value is aggregative [like utilitarianism] imply that a canonically infinite world contains an infinite quantity of positive value and an infinite quantity of negative value. This gives rise to a peculiar predicament. We can do only a finite amount of good or bad. Yet in cardinal arithmetic, adding or subtracting a finite quantity does not change an infinite quantity. Every possible act of ours therefore has the same net effect on the total amount of good and bad in a canonically infinite world: none whatsoever.”[^27]
 
 This is bad news for consequentialist moral theories, which tell us to do whatever will result in the greatest net gain in goodness in the world.[^28] Buddhism may also encounter infinite ethics, for on some traditional Buddhist understandings of cosmology, _saṃsāra_ contains an infinite number of world systems and hence an infinite number of sentient beings. But whereas contemporary consequentialists have been at pains to avoid the paralysis result highlighted by Bostrom,[^29] Buddhists have apparently been undisturbed by the problem. Indeed, part of the _bodhisattva_ ethos seems to be maintaining great compassion (_mahākaruṇā_) and the dedication of one’s life to other beings _despite_ the impossibility of ever fully redeeming _saṃsāra_: for instance, the four great _bodhisattva_ vows[^30] begin, “Beings are numberless; I vow to save them.” So, while certainly not decisive, the problems of infinite ethics suggest to me that Mahāyāna Buddhism is not grounded in an ethical theory whose central imperative is to maximize the universe’s balance sheet of goods and bads.
-
 
 ### Well-being
 
@@ -78,18 +71,15 @@ It may be helpful to further illustrate this perspective on life with a few quot
 
 The third and most fundamental way in which our common _modus vivendi_ is misled is that it is not aimed directly at the good. In Buddhist thought, the primary determinant of our well-being is not what we get—in particular, it is not whether we [experience pleasure or pain](https://www.utilitarianism.net/theories-of-wellbeing#hedonism) or whether [our desires are satisfied](https://www.utilitarianism.net/theories-of-wellbeing#desire-theories)—but the way in which we respond to whatever comes our way. To illustrate, as Buddhists see things, what is bad about painful physical and emotional experiences is not their negative hedonic valence, but our habitual aversive reaction to them. Take, for example, strenuous physical exercise and medical blood work. In both cases, the raw sensory input is unpleasant. Yet different people’s overall experience of strenuous exercise and blood work varies widely. Some derive great psychological satisfaction from pushing their physical limits; others cannot stand it. Similarly, some find blood work fascinating and enjoy observing the process, whereas others find it anxiety-inducing. A Buddhist analysis would be that although intense exercise and blood drawing involve unpleasant hedonic sensations for everyone, some people are not _averse_ to these experiences, and hence do not _suffer_ on account of them. Again, _duḥkha_ arises (or not) from our intentional orientation to our experience, rather than from the base-level content of the experience.
 
-Seen in this light, the strategy of trying to get what you want and avoid what you don’t is aimed at things that are at best correlated with the good, rather than at the good itself. What is good is a way of being in the world—of experiencing and acting—grounded in non-delusion, non-aversion, and non-thirsting, which for Buddhists involve wisdom, compassion, loving-friendliness, and equanimity. In this (ideal) state, one is able to meet with open arms—with a certain warmth and unshakeable fearlessness—whatever it is that comes one’s way, whether that is an old friend or news that one has been diagnosed with a terminal illness. Since on the Buddhist view our entire cognitive, conative, and emotional involvement with the world revolves around craving for things we want and aversion to things we don’t want, all we have managed to do when we wrangle the world into a shape that fits our desires is to find a temporary respite from craving and aversion. While such a state may be positively good (as opposed to merely not bad), we can see how this method of pursuing the good is indirect: it aims at things (experiences, people, etc.) whose presence we tend to meet with diminished craving and aversion—and at our best moments, genuine joy, love, etc.—rather than at the good itself. It is also pernicious because it keeps us tethered to the cycle of striving and transient reward. On this point it is worth quoting the [Lokavipatti Sutta](https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html), which is quite expressive: 
-
+Seen in this light, the strategy of trying to get what you want and avoid what you don’t is aimed at things that are at best correlated with the good, rather than at the good itself. What is good is a way of being in the world—of experiencing and acting—grounded in non-delusion, non-aversion, and non-thirsting, which for Buddhists involve wisdom, compassion, loving-friendliness, and equanimity. In this (ideal) state, one is able to meet with open arms—with a certain warmth and unshakeable fearlessness—whatever it is that comes one’s way, whether that is an old friend or news that one has been diagnosed with a terminal illness. Since on the Buddhist view our entire cognitive, conative, and emotional involvement with the world revolves around craving for things we want and aversion to things we don’t want, all we have managed to do when we wrangle the world into a shape that fits our desires is to find a temporary respite from craving and aversion. While such a state may be positively good (as opposed to merely not bad), we can see how this method of pursuing the good is indirect: it aims at things (experiences, people, etc.) whose presence we tend to meet with diminished craving and aversion—and at our best moments, genuine joy, love, etc.—rather than at the good itself. It is also pernicious because it keeps us tethered to the cycle of striving and transient reward. On this point it is worth quoting the [Lokavipatti Sutta](https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html), which is quite expressive:
 
 > “the world spins after these eight worldly conditions…Gain, loss, status, disgrace, censure, praise, pleasure, & pain…an uninstructed run-of-the-mill person…welcomes the arisen gain and rebels against the arisen loss. He welcomes the arisen status and rebels against the arisen disgrace. He welcomes the arisen praise and rebels against the arisen censure. He welcomes the arisen pleasure and rebels against the arisen pain. As he is thus engaged in welcoming & rebelling, he is not released from birth, aging, or death; from sorrows, lamentations, pains, distresses, or despairs. He is not released…from suffering & stress…This is the difference…between the well-instructed disciple of the noble ones and the uninstructed run-of-the-mill person…the wise person, mindful, ponders these changing conditions. Desirable things don’t charm the mind, undesirable ones bring no resistance. His welcoming & rebelling…do not exist. Knowing the dustless, sorrowless state, he discerns rightly, has gone, beyond becoming, to the Further Shore.”
 
-This is why Buddhist monastics stylistically spend their time meditating instead of doing things like making money: they are attempting to pursue the good directly. What are they hoping to accomplish? Recall the no-self (_anātman_) thesis: our experience of being a self (_ātman_) is illusory, for there are no enduring substance selves in the sense described above. Instead, we are just causally interrelated series of impersonal mental and physical events. Essentially, the Buddhist soteriological program consists of (i) coming not just to believe the no-self thesis, but gaining non-conceptual insight into selflessness in a way that radically alters one’s experience, while at the same time (ii) cultivating wholesome mental states such as loving-friendliness and compassion. Since the delusion of self is held to be necessary for craving and aversion, which in turn are necessary and sufficient for _duḥkha_, the output of this process of cultivation and phenomenological reorientation is supposed to be a state free from _duḥkha_, which we might characterize positively as one of unsurpassed tranquility. 
+This is why Buddhist monastics stylistically spend their time meditating instead of doing things like making money: they are attempting to pursue the good directly. What are they hoping to accomplish? Recall the no-self (_anātman_) thesis: our experience of being a self (_ātman_) is illusory, for there are no enduring substance selves in the sense described above. Instead, we are just causally interrelated series of impersonal mental and physical events. Essentially, the Buddhist soteriological program consists of (i) coming not just to believe the no-self thesis, but gaining non-conceptual insight into selflessness in a way that radically alters one’s experience, while at the same time (ii) cultivating wholesome mental states such as loving-friendliness and compassion. Since the delusion of self is held to be necessary for craving and aversion, which in turn are necessary and sufficient for _duḥkha_, the output of this process of cultivation and phenomenological reorientation is supposed to be a state free from _duḥkha_, which we might characterize positively as one of unsurpassed tranquility.
 
 While utilitarianism _per se_ is not committed to any particular [theory of well-being](https://www.utilitarianism.net/theories-of-wellbeing) and is hence compatible in principle with every such theory, the Buddhist understanding of what is good and bad for us, and what the ultimate goal of human existence is, differs from how well-being has been understood by the historical utilitarians ([Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham), [Mill](https://www.utilitarianism.net/utilitarian-thinker/john-stuart-mill), and [Sidgwick](https://www.utilitarianism.net/utilitarian-thinker/henry-sidgwick)), as well as by most contemporary analytic ethical theorists. Yet if the Buddhist analysis of _duḥkha_ and its deleterious impact on our well-being is tracking an important phenomenon, utilitarians, whose sole purpose is to promote well-being, would be well advised to study Buddhist psychology and investigate its practical implications.
 
-
 ## Applied ethics
-
 
 ### Rebirth
 
@@ -101,7 +91,6 @@ I have referred to this problem in other work[^38] as the samsaric futility prob
 
 However, it does not follow from the literal belief in rebirth that becoming a _bodhisattva_ is the only effective way to help beings in _saṃsāra_.[^39] As I have argued elsewhere,[^40] one can facilitate others’ progress towards awakening indirectly, e.g. by financially supporting Buddhist monasteries or by researching which meditative techniques are most effective at producing their desired results. Still, the general takeaway of the samsaric futility problem remains: any altruistic effort that does not somehow address delusion, craving, and aversion is destined to function as a temporary analgesic (at best). This traditional Buddhist perspective will generally find itself at odds with [contemporary utilitarian approaches](https://www.utilitarianism.net/acting-on-utilitarianism) that prioritize causes like global health and development and farm animal welfare.[^41]
 
-
 ### Modern skepticism about rebirth
 
 #### Pessimism
@@ -112,20 +101,17 @@ Many contemporary Buddhists are either agnostic or skeptical about rebirth. What
 
 I don’t think we can decisively rule out the strongly pessimistic reading of Buddhism. The way to generate this conclusion is to understand Buddhism as holding that the presence of _duḥkha_ is bad, whereas the absence of _duḥkha_ is not good—merely neutral. On this view, when someone attains awakening, they have progressed from a negative to a neutral state of being. The glaring problem with strong pessimism is that, when it is conjoined with the rejection of rebirth, it implies that the best thing that could happen to us would be to die instantly. As Jan Westerhoff observes,
 
-
 > “The central goal of the Buddhist path is the complete and permanent eradication of suffering (_duḥkha_)...If this liberation is the objective, the defender of the suicide argument points out, it is by suicide, not by spiritual practice, that we are going to arrive at this goal in the most speedy manner.”[^43]
 
 Would an agent who accepted strong pessimism—which I absolutely believe we should reject—have most reason to end their own life? Not necessarily. An altruistic agent with this evaluative outlook would have strong instrumental reason to remain alive, in order to alleviate the suffering of others. However, such an agent would be forced to accept the infamous null-bomb implication, which says that the best thing to do would be to permanently destroy all sentient life in the universe. I join almost every other philosopher in taking the fact that an ethical theory accepts the null-bomb implication as a decisive reason to reject the theory (as not merely misguided, but horrifically so).
 
-
 #### Tentative optimism
 
-Fortunately, I don’t think that strong pessimism is the best reading of Buddhism. In particular, it does not seem to me that the presence of _duḥkha_—no matter how minute or subtle—necessarily makes an experience or outcome bad on balance. Instead, it seems to detract from the outcome by some non-zero amount, but not necessarily by an amount that outweighs whatever good may also be present. I therefore agree with Antoine Panaïoti when he writes that 
-
+Fortunately, I don’t think that strong pessimism is the best reading of Buddhism. In particular, it does not seem to me that the presence of _duḥkha_—no matter how minute or subtle—necessarily makes an experience or outcome bad on balance. Instead, it seems to detract from the outcome by some non-zero amount, but not necessarily by an amount that outweighs whatever good may also be present. I therefore agree with Antoine Panaïoti when he writes that
 
 > “The whole point [of the Buddhist analysis of _duḥkha_] is that things could be significantly better for me, not that everything in my life is terrible. Underlying the Buddhist view that life is full of suffering is a message of hope, not existential despair.”[^44]
 
-What evidence can we draw from the Buddhist tradition in support of this weakly pessimistic—or, as we might just as accurately call it, tentatively optimistic—reading? Some evidence comes from Early Buddhist accounts of _parinirvāṇa_, the state that beings who have attained awakening pass into upon the deaths of their physical bodies. Although the Buddha is generally evasive when it comes to answering questions about the nature of _parinirvāṇa_ in the Pāli Nikāyas, he does deny that _parinirvāṇa_ is nonexistence.[^45] Moreover, elsewhere in the Nikāyas, the _nirvāṇa_ one experiences after attaining awakening is described as “the greatest bliss.”[^46] For his part, Śāntideva asks, “What would be the point in a liberation without sweetness?”[^47] and wishes, “May all beings have immeasurable life. May they always live happily. May the very word ‘death’ perish.”[^48] None of this sounds like a tradition that denies the existence of _any_ goods and whose ultimate goal is nonexistence. A final piece of evidence we can point to is the sheer implausibility of both strong pessimism in general and the specific view that the presence of _any_ amount of _duḥkha_ makes an outcome bad overall. Think about the best experience you’ve ever had. (Or, the best experience _any_ unenlightened person has ever had.) It strains credulity to think that these experiences are _negative_—that it would have been better if they had never happened. Therefore, the principle of charity, which tells us to interpret philosophical positions in their most plausible forms, also weighs against the strongly pessimistic reading of Buddhism. 
+What evidence can we draw from the Buddhist tradition in support of this weakly pessimistic—or, as we might just as accurately call it, tentatively optimistic—reading? Some evidence comes from Early Buddhist accounts of _parinirvāṇa_, the state that beings who have attained awakening pass into upon the deaths of their physical bodies. Although the Buddha is generally evasive when it comes to answering questions about the nature of _parinirvāṇa_ in the Pāli Nikāyas, he does deny that _parinirvāṇa_ is nonexistence.[^45] Moreover, elsewhere in the Nikāyas, the _nirvāṇa_ one experiences after attaining awakening is described as “the greatest bliss.”[^46] For his part, Śāntideva asks, “What would be the point in a liberation without sweetness?”[^47] and wishes, “May all beings have immeasurable life. May they always live happily. May the very word ‘death’ perish.”[^48] None of this sounds like a tradition that denies the existence of _any_ goods and whose ultimate goal is nonexistence. A final piece of evidence we can point to is the sheer implausibility of both strong pessimism in general and the specific view that the presence of _any_ amount of _duḥkha_ makes an outcome bad overall. Think about the best experience you’ve ever had. (Or, the best experience _any_ unenlightened person has ever had.) It strains credulity to think that these experiences are _negative_—that it would have been better if they had never happened. Therefore, the principle of charity, which tells us to interpret philosophical positions in their most plausible forms, also weighs against the strongly pessimistic reading of Buddhism.
 
 Where does this leave us? One plausible interpretation is that what Buddhists find positively valuable is the conscious experience of freedom from _duḥkha_, as opposed to the mere absence of _duḥkha_ as such.[^49] On this view, an empty world—a world devoid of sentient life—would be neither good nor bad, whereas a world populated by beings who have attained awakening—and thereby the cessation of _duḥkha_—would be good. In the remainder of this article, we will briefly explore the implications of the tentatively optimistic Buddhist position for applied ethics, particularly _vis-à-vis_ the cause areas that are currently highly prioritized by utilitarians.
 
@@ -139,10 +125,9 @@ We can nuance this picture, though, by recalling that Buddhism distinguishes bet
 
 Finally, we can inquire into Buddhist and utilitarian perspectives on the future of humanity. Although utilitarianism is compatible with multiple positions in [population ethics](https://www.utilitarianism.net/population-ethics), a prominent strand in recent utilitarian(-leaning) work embraces _totalism_, which says, very roughly, that the more happy people there are in a population, the better. By totalist lights, the best-case scenario for humanity is that it develops into an extremely long-lasting interstellar civilization composed of trillions of happy people (or more!).[^58] To me, it seems doubtful that Buddhism would go in for a picture like this.[^59] As we saw in section 2, Buddhist ethics does not start with a conception of what is good and then say that we should maximize the total quantity of that thing in the universe (as does utilitarianism). Instead, Buddhist ethics starts with the problem of _duḥkha_ and then sets out paths to the solution to that problem. Even on the tentatively optimistic reading of Buddhism, on which attaining the cessation of _duḥkha_ is positively valuable, it seems to me that Buddhists would find the claim that we should bring _new_ beings into existence, so that they too can overcome suffering, to be an alien one. Rather, it seems that Buddhists thinking about the future would wish for us to lead [whichever beings currently exist](https://www.utilitarianism.net/population-ethics#person-affecting-views-and-the-procreative-asymmetry) along the path to awakening, and perhaps for the _bodhisattvas_ of the interstellar space age to try to save the aliens too (if doing so turns out to be tractable).
 
-There is one fascinating way in which Buddhist and utilitarian thinking about the future seems to converge, however. Over the past several decades, applied ethicists—alongside the public—have become increasingly interested in _human biomedical enhancement_, which we can gloss as the project of biomedically intervening on the human organism for the purpose of increasing well-being.[^60] Human enhancements would thus include everything from currently existing, relatively mundane procedures such as laser eye surgery to radical possible interventions, such as genetic engineering aimed at dramatically increasing general mental ability (“IQ”). 
+There is one fascinating way in which Buddhist and utilitarian thinking about the future seems to converge, however. Over the past several decades, applied ethicists—alongside the public—have become increasingly interested in _human biomedical enhancement_, which we can gloss as the project of biomedically intervening on the human organism for the purpose of increasing well-being.[^60] Human enhancements would thus include everything from currently existing, relatively mundane procedures such as laser eye surgery to radical possible interventions, such as genetic engineering aimed at dramatically increasing general mental ability (“IQ”).
 
 I believe that Buddhism and utilitarianism are both committed to in-principle support for human enhancement (if this can be achieved without harmful side-effects or unintended consequences). Utilitarianism says that we should promote the sum-total of well-being. So, if a certain enhancement would make humanity better off, utilitarianism would support it. For its part, unlike many other religious traditions (such as Christianity), Buddhism thoroughly rejects the notion that there is a sacrosanct human essence that we must preserve.[^61] Moreover, Buddhism is pragmatic about attaining the cessation of suffering. For instance, if it turned out that stimulating the brain in a certain way during meditation allowed meditators to more efficiently gain insight into the nonexistence of the self, it seems that Buddhists should heartily endorse this practice. So although Buddhists may disagree with totalist utilitarians that our primary objective should be to become a vast interstellar civilization, they may well agree that we should use the tools of modern technology to intervene in our biology and psychology—perhaps radically—to attain a greater level of well-being.
-
 
 ---
 
@@ -154,11 +139,7 @@ About the Author
 
 {{< how-to-cite authors="Baker, C." >}}
 
-
-
 {{< two-button >}}
-
-
 
 ## References
 
@@ -240,10 +221,6 @@ About the Author
 
 * Wilkinson, Hayden. 2021. “Infinite Aggregation: Expanded Edition.” _Philosophical Studies_, 178: 1917–1949.
 
-
-
-
-
 [^1]:
      I am grateful to Richard Yetter Chappell, Jonathan Gold, and Darius Meissner for helpful comments on earlier drafts of this article.
 
@@ -254,7 +231,7 @@ About the Author
      Vajrayāna Buddhism, perhaps most associated with Tibet, is sometimes thought of as a third branch. Scholars tend to classify Vajrayāna Buddhism as a special sub-branch of the Mahāyāna, but for our purposes, not much hangs on this classificatory distinction.
 
 [^4]:
-     This is a simplification—quoting from [this article](https://www.utilitarianism.net/acting-on-utilitarianism#effective-altruism), “While utilitarianism and effective altruism share certain similarities, they are distinct and differ in important ways. Unlike utilitarianism, effective altruism does not require that we[ sacrifice our own interests](https://www.utilitarianism.net/objections-to-utilitarianism/demandingness) whenever doing so brings about a greater benefit to others. Unlike utilitarianism, effective altruism does not claim that we should always seek to maximize wellbeing,[ whatever the means](https://www.utilitarianism.net/objections-to-utilitarianism/rights). Finally, unlike utilitarianism, effective altruism does not equate the good with the total sum of wellbeing.” As a result, effective altruism is compatible with [a wide range of moral theories](https://www.utilitarianism.net/near-utilitarian-alternatives#conclusion) besides utilitarianism.
+     This is a simplification—quoting from [this article](https://www.utilitarianism.net/acting-on-utilitarianism#effective-altruism), “While utilitarianism and effective altruism share certain similarities, they are distinct and differ in important ways. Unlike utilitarianism, effective altruism does not require that we [sacrifice our own interests](https://www.utilitarianism.net/objections-to-utilitarianism/demandingness) whenever doing so brings about a greater benefit to others. Unlike utilitarianism, effective altruism does not claim that we should always seek to maximize wellbeing, [whatever the means](https://www.utilitarianism.net/objections-to-utilitarianism/rights). Finally, unlike utilitarianism, effective altruism does not equate the good with the total sum of wellbeing.” As a result, effective altruism is compatible with [a wide range of moral theories](https://www.utilitarianism.net/near-utilitarian-alternatives#conclusion) besides utilitarianism.
 
 [^5]:
      Garfield 2021, 17.
@@ -266,13 +243,13 @@ About the Author
      See e.g. Goodman 2009 and Siderits 2016.
 
 [^8]:
-     See e.g. Harvey 2000, 51 and Vélez de Cea 2010. 
+     See e.g. Harvey 2000, 51 and Vélez de Cea 2010.
 
 [^9]:
-     See e.g. Hallisey 1996, Barnhart 2012, and Garfield 2021. 
+     See e.g. Hallisey 1996, Barnhart 2012, and Garfield 2021.
 
 [^10]:
-     See Hidalgo 2020. 
+     See Hidalgo 2020.
 
 [^11]:
      See Gowans 2015a and Gowans 2017.
@@ -311,7 +288,7 @@ About the Author
      _BCA_ 8.90, 8.94, 8.103. It is fascinating to compare Śāntideva’s arguments in _BCA_ 8.90-137 to those of Derek Partfit in Part III of _Reasons and Persons_, which argues for an impartial consequentialism partially on the basis of revisionary views of personal identity. On some readings, Śāntideva anticipates Parfit by over 1,000 years.
 
 [^23]:
-     A moral theory can agree that we ought to impartially promote well-being without being foundationally consequentialist. Take, for example, a moral theory whose bedrock is compassion. This theory might tell us to promote well-being because that is the compassionate thing to do. But importantly, ‘because it’s compassionate’ is a different explanation of why an action is right than ‘because it will lead to better consequences than every other available action’. 
+     A moral theory can agree that we ought to impartially promote well-being without being foundationally consequentialist. Take, for example, a moral theory whose bedrock is compassion. This theory might tell us to promote well-being because that is the compassionate thing to do. But importantly, ‘because it’s compassionate’ is a different explanation of why an action is right than ‘because it will lead to better consequences than every other available action’.
 
 [^24]:
      Garfield 2021, 22-23.
@@ -344,7 +321,7 @@ About the Author
      Buddhists often portray this state in terms of negatives such as freedom from fear, dissatisfaction, and other unwholesome mental states.
 
 [^34]:
-     For a deeper dive into the various forms of _duḥkha_ and the psychological analysis they receive in the Buddhist tradition, see Harris 2014 and Garfield 2021, chapter 6. 
+     For a deeper dive into the various forms of _duḥkha_ and the psychological analysis they receive in the Buddhist tradition, see Harris 2014 and Garfield 2021, chapter 6.
 
 [^35]:
      Gethin 1998, 27.
@@ -356,7 +333,7 @@ About the Author
      _BCA_ 8.80.
 
 [^38]:
-     Baker 2022. 
+     Baker 2022.
 
 [^39]:
      Cf. Gold 2019, 3.

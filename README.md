@@ -36,6 +36,7 @@ After adding a document it will likely need some manual fixes:
   - if the authors are not "MacAskill, W., Meissner, D., and Chappell, R.Y." then do `{{< how-to-cite authors="your authors" >}}`
 - Add the _Action_ button shortcode `{{< button >}}`
 - If a footnote was multi-paragraph, add the indentation so the text stays with the footnote (rather than being rendered to the page at the bottom)
+- If you have the [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) in your _VSCode_, right-click and "Format Document" 
 - Look over the document for any other manual fixes
 
 Consider adding [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) to your _VSCode_ for automatic error highlighting, and adding [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) for catching some spelling mistakes.
