@@ -109,7 +109,12 @@ summary::-webkit-details-marker {
 
 .read-more-2 {
   clear: initial;
-  transform: translate(-30px, -30px);
+  transform: translate(-30px, -20px);
+}
+
+.prof-bottom-hack {
+  clear: both; 
+  margin-bottom: 30px
 }
 
 .site-footer {

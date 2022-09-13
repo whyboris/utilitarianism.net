@@ -25,35 +25,67 @@ You can get in touch with us at contact[at]utilitarianism.net
 
 ## Endorsements
 
-{{< thinker link="https://www.appiah.net/" image="/img/about/Kwame-Anthony-Appiah.jpg" text="Kwame Anthony Appiah" >}}
+{{< thinker
+     link="https://www.appiah.net/"
+     image="/img/about/Kwame-Anthony-Appiah.jpg"
+     text="Kwame Anthony Appiah" >}}
 
 “I'll certainly be referring my students to this very useful resource. Enthusiasm for utilitarianism among moral philosophers has ebbed and flowed since the modern version of it was laid out in the nineteenth-century; but the importance of the utilitarian tradition in providing elaborate, well-developed, general theories for thinking about how we ought to behave has been clear all along. This site provides lucid introductions to the major contributions of and challenges to utilitarian thinking, today.”
 
-{{< prof name="Kwame Anthony Appiah" link="https://www.appiah.net/" uni="New York University" >}}
+{{< prof
+     name="Kwame Anthony Appiah"
+     link="https://www.appiah.net/"
+     uni="New York University" >}}
 
-{{< thinker link="https://www.joshua-greene.net/" image="/img/about/Joshue-Greene.jpg" text="Joshua Greene" >}}
+{{< thinker
+     link="https://www.joshua-greene.net/"
+     image="/img/about/Joshue-Greene.jpg"
+     text="Joshua Greene" >}}
 
 “Utilitarianism.net is the online face of utilitarianism and a portal into a realm of world-changing ideas. Utilitarian thought has advanced human progress for centuries, and yet this philosophy is widely misunderstood. Utilitarianism.net is not only the most inviting and illuminating resource on utilitarianism for students. Its updated historical entries, rigorous dialectical explanations, and applications to real-world problems make it a fantastic resource for seasoned scholars as well.”
 
-{{< prof name="Joshua Greene" link="https://www.joshua-greene.net/" uni="Harvard University" >}}
+{{< prof
+     name="Joshua Greene"
+     link="https://www.joshua-greene.net/"
+     uni="Harvard University" >}}
 
-{{< thinker link="" image="/img/about/Katarzyna-de-Lazari-Radek.jpg" text="Katarzyna de Lazari-Radek" >}}
+{{< thinker
+     link="https://en.wikipedia.org/wiki/Katarzyna_de_Lazari-Radek"
+     image="/img/about/Katarzyna-de-Lazari-Radek.jpg"
+     text="Katarzyna de Lazari-Radek" >}}
 
 “Gaining knowledge has never been as easy as in the era of widespread internet access. Utilitarianism.net is the result of the work and commitment of many great philosophers from around the world. It is a project that helps you to understand one of the most important and interesting ethical theories in an accessible yet not oversimplified way.”
 
-{{< prof name="Katarzyna de Lazari-Radek" link="https://en.wikipedia.org/wiki/Katarzyna_de_Lazari-Radek" uni="University of Łódź" >}}
+{{< prof
+     name="Katarzyna de Lazari-Radek"
+     link="https://en.wikipedia.org/wiki/Katarzyna_de_Lazari-Radek"
+     uni="University of Łódź" >}}
 
-{{< thinker link="https://www.princeton.edu/~ppettit/" image="/img/about/Philip-Pettit.jpg" text="Philip Pettit" >}}
+{{< thinker
+     link="https://www.princeton.edu/~ppettit/"
+     image="/img/about/Philip-Pettit.jpg"
+     text="Philip Pettit" >}}
 
 “This is the perfect introduction to utilitarianism: comprehensive, critical and accessible as a basis for classroom discussion or public debate.”
 
-{{< prof name="Philip Pettit" link="https://www.princeton.edu/~ppettit/" uni="Princeton University / Australian National University" >}}
+{{< prof
+     name="Philip Pettit"
+     link="https://www.princeton.edu/~ppettit/"
+     uni="Princeton University / Australian National University" >}}
 
-{{< thinker link="https://petersinger.info/" image="/img/about/Peter-Singer-photo-credit-Alletta-Vaandering.jpg" text="Peter Singer" >}}
+<br>
+
+{{< thinker
+     link="https://petersinger.info/"
+     image="/img/about/Peter-Singer-photo-credit-Alletta-Vaandering.jpg"
+     text="Peter Singer" >}}
 
 “Utilitarianism.net is the place to go for clear, full and fair accounts of what utilitarianism is, the arguments for it, the main objections to it, special issues like population ethics, and what living as a utilitarian involves. You will also discover thinkers you never knew about, like the early utilitarian Susanna Newcome. I recommend it to all my students interested in normative ethics.”
 
-{{< prof name="Peter Singer" link="https://petersinger.info/" uni="Princeton University" >}}
+{{< prof
+     name="Peter Singer"
+     link="https://petersinger.info/"
+     uni="Princeton University" >}}
 
 ---
 
