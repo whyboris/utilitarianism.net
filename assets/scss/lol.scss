@@ -94,6 +94,22 @@ summary::-webkit-details-marker {
   clear: both;
   text-align: right;
   transform: translate(-30px, -50px);
+
+  .prof {
+    font-size: 14px;
+  }
+
+  .uni {
+    color: #0b3b5b;
+    display: block;
+    font-size: 14px;
+    transform: translateY(-6px);
+  }
+}
+
+.read-more-2 {
+  clear: initial;
+  transform: translate(-30px, -30px);
 }
 
 .site-footer {
