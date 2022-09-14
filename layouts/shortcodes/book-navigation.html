@@ -1,8 +1,10 @@
 <div class="table-of-contents">
 
+  {{ $frontmatterMenu := $.Page.Params.menu }}
+
   {{ $currentPageTitle := .Page.Title }}
 
-  {{ range .Site.Menus.liberty.Sort.ByWeight }}
+  {{ range (index .Site.Menus $frontmatterMenu).Sort.ByWeight }}
 
   <ul>
     <a href="{{ .URL }}">
