@@ -1,0 +1,17 @@
+<div class="table-of-contents">
+
+  {{ $currentPageTitle := .Page.Title }}
+
+  {{ range .Site.Menus.liberty.Sort.ByWeight }}
+
+  <ul>
+    <a href="{{ .URL }}">
+      {{ with .Page }}
+        <li {{ if eq $currentPageTitle .Title }} class="selected"{{ end }}>{{ .Title }}</h2>
+      {{ end }}
+    </a>
+  </ul>
+
+  {{ end }}
+
+</div>
