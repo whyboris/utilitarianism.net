@@ -566,6 +566,11 @@ hr {
   padding: 30px;
   border-radius: 5px;
 
+  h2 {
+    text-align: center;
+    color: #0b3b5b;
+  }
+
   li::marker {
     font-size:12px;
     color: #33aaff;
@@ -630,4 +635,8 @@ hr {
       }
     }
   }
+}
+
+.book-table-of-contents {
+  font-size: 14px;
 }

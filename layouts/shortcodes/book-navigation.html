@@ -1,19 +1,24 @@
-<div class="table-of-contents">
+{{ $frontmatterMenu := $.Page.Params.menu }}
 
-  {{ $frontmatterMenu := $.Page.Params.menu }}
+{{ $currentPageTitle := .Page.Title }}
 
-  {{ $currentPageTitle := .Page.Title }}
 
-  {{ range (index .Site.Menus $frontmatterMenu).Sort.ByWeight }}
+<div class="table-of-contents book-table-of-contents">
+
+  <h2>Contents</h2>
 
   <ul>
-    <a href="{{ .URL }}">
-      {{ with .Page }}
-        <li {{ if eq $currentPageTitle .Title }} class="selected"{{ end }}>{{ .Title }}</h2>
-      {{ end }}
-    </a>
-  </ul>
+  
+    {{ range (index .Site.Menus $frontmatterMenu).Sort.ByWeight }}
 
-  {{ end }}
+      <a href="{{ .URL }}">
+        {{ with .Page }}
+          <li {{ if eq $currentPageTitle .Title }} class="selected"{{ end }}>{{ .Title }}</h2>
+        {{ end }}
+      </a>
+    
+    {{ end }}
+  
+  </ul>
 
 </div>
