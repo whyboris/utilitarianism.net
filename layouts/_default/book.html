@@ -1,7 +1,12 @@
 {{ define "header" }}{{ partial "page-header.html" . }}{{ end }} 
 {{ define "main" }}
 
-<div class="book-header">
+<div 
+  class="book-header" 
+  style="background: {{ default "#3380b4" .Params.gradientTop }};
+         background: linear-gradient(180deg, {{ .Params.gradientTop }} 0%,  
+                                             {{ .Params.gradientBottom }} 100%);"
+>
     <span class="title">{{ .Params.book }}</span>
     <span class="author">{{ .Params.author }}</span>
     <span class="year">{{ .Params.year }}</span>
