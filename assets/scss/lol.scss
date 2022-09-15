@@ -527,6 +527,7 @@ hr {
   border-radius: 5px;
   color: white;
   margin-bottom: 30px;
+  margin-top: 20px;
 
   p, h2 {
     margin-bottom: 6px;
@@ -563,10 +564,21 @@ hr {
 .table-of-contents {
   background: #f4f4f4;
   padding: 30px;
+  border-radius: 5px;
+
+  h2 {
+    text-align: center;
+    color: #0b3b5b;
+  }
 
   li::marker {
     font-size:12px;
     color: #33aaff;
+  }
+
+  .selected {
+    font-weight: bold;
+    pointer-events: none;
   }
 
   // WARNING !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -622,5 +634,35 @@ hr {
         }
       }
     }
+  }
+}
+
+.book-table-of-contents {
+  font-size: 14px;
+}
+
+.book-header {
+  text-align: center;
+  margin: 0;
+  padding: 50px 10px;
+  color: white;
+
+  .title {
+    display: block;
+    font-size: 30px;
+    margin: 10px;
+    font-size: 30px;
+  }
+
+  .author {
+    display: block;
+    margin: 5px;
+  }
+  
+  .year {
+    opacity: 0.8;
+    font-size: 14px;
+    display: block;
+    margin: 5px;
   }
 }

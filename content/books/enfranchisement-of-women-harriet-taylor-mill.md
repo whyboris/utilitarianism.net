@@ -1,6 +1,11 @@
 ---
-title: "Enfranchisement of Women (1851)"
+book: "Enfranchisement of Women"
 author: "Harriet Taylor Mill"
+year: "1851"
+title: "Enfranchisement of Women"
+layout: book
+gradientTop: "#315b71" 
+gradientBottom: "#824608"
 ---
 
 Most of our readers will probably learn from these pages for the first time, that there has arisen in the United States, and in the most civilised and enlightened portion of them, an organised agitation on a new question - new, not to thinkers, nor to any one by whom the principles of free and popular government are felt as well as acknowledged, but new, and even unheard of, as a subject for public meetings and practical political action. This question is, the enfranchisement of women; their admission, in law and in fact, to equality in all rights, political, civil, and social, with the male citizens of the community.

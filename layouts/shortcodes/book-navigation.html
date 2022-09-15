@@ -1,0 +1,24 @@
+{{ $frontmatterMenu := $.Page.Params.menu }}
+
+{{ $currentPageTitle := .Page.Title }}
+
+
+<div class="table-of-contents book-table-of-contents">
+
+  <h2>Contents</h2>
+
+  <ul>
+  
+    {{ range (index .Site.Menus $frontmatterMenu).Sort.ByWeight }}
+
+      <a href="{{ .URL }}">
+        {{ with .Page }}
+          <li {{ if eq $currentPageTitle .Title }} class="selected"{{ end }}>{{ .Title }}</h2>
+        {{ end }}
+      </a>
+    
+    {{ end }}
+  
+  </ul>
+
+</div>
