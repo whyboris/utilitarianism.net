@@ -640,3 +640,30 @@ hr {
 .book-table-of-contents {
   font-size: 14px;
 }
+
+.book-header {
+  background: #33aaff;
+  text-align: center;
+  margin: 0;
+  padding: 50px 10px;
+  color: white;
+
+  .title {
+    display: block;
+    font-size: 30px;
+    margin: 10px;
+    font-size: 30px;
+  }
+
+  .author {
+    display: block;
+    margin: 5px;
+  }
+  
+  .year {
+    opacity: 0.8;
+    font-size: 14px;
+    display: block;
+    margin: 5px;
+  }
+}

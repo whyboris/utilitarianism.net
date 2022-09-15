@@ -1,0 +1,16 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }} 
+{{ define "main" }}
+
+<div class="book-header">
+    <span class="title">{{ .Params.book }}</span>
+    <span class="author">{{ .Params.author }}</span>
+    <span class="year">{{ .Params.year }}</span>
+</div>
+
+<div class="article-body">
+
+
+  {{ .Content }}
+</div>
+
+{{ end }}
