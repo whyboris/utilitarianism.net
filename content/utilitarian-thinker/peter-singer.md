@@ -1,9 +1,14 @@
 ---
 title: "Peter Singer"
+book: "Peter Singer"
+year: "1946"
 date: 2022-08-08T10:10:59-04:00
 draft: false
 menu: "thinker"
 weight: 8
+layout: "book"
+gradientTop: "#95524a"
+gradientBottom: "#c9d5e5"
 ---
 
 {{< inline-image image="/img/thinkers/Peter-Singer.jpg" text="Peter Singer" >}}

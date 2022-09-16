@@ -1,9 +1,14 @@
 ---
 title: "Harriet Taylor Mill"
+book: "Harriet Taylor Mill"
+year: "1807 - 1858"
 date: 2022-08-08T10:10:59-04:00
 draft: false
 menu: "thinker"
 weight: 5
+layout: "book"
+gradientTop: "#5614B0"
+gradientBottom: "#DBD65C"
 ---
 
 {{< inline-image image="/img/thinkers/Harriet-Taylor-Mill.jpg" text="Harriet Taylor Mill" >}}

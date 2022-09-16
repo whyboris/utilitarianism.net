@@ -1,9 +1,14 @@
 ---
 title: "Jeremy Bentham"
+book: "Jeremy Bentham"
+year: "1748 - 1832"
 date: 2022-08-08T10:10:59-04:00
 draft: false
 menu: "thinker"
 weight: 3
+layout: "book"
+gradientTop: "#9796f0"
+gradientBottom: "#fbc7d4"
 ---
 
 {{< inline-image image="/img/thinkers/Jeremy-Bentham.jpg" text="Jeremy Bentham" >}}

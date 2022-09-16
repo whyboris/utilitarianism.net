@@ -1,9 +1,14 @@
 ---
 title: "Henry Sidgwick"
+book: "Henry Sidgwick"
+year: "1838 - 1900"
 date: 2022-08-08T10:10:59-04:00
 draft: false
 menu: "thinker"
 weight: 6
+layout: "book"
+gradientTop: "#093028"
+gradientBottom: "#237A57"
 ---
 
 {{< inline-image image="/img/thinkers/Henry-Sidgwick.jpg" text="Henry Sidgwick" >}}

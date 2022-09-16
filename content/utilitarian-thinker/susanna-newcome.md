@@ -1,9 +1,14 @@
 ---
 title: "Susanna Newcome"
+book: "Susanna Newcome"
+year: "1685 - 1763"
 date: 2022-08-08T10:10:59-04:00
 draft: false
 menu: "thinker"
 weight: 2
+layout: "book"
+gradientTop: "#12c2e9"
+gradientBottom: "#f64f59"
 ---
 
 {{< inline-image image="/img/thinkers/Susanna-Newcome.jpg" text="Susanna Newcome" >}}

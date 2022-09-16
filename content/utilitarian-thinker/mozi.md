@@ -1,9 +1,14 @@
 ---
 title: "Mozi"
+book: "Mozi"
+year: "c. 430 BCE"
 date: 2022-08-08T10:10:59-04:00
 draft: false
 menu: "thinker"
 weight: 1
+layout: "book"
+gradientTop: "#555136"
+gradientBottom: "#8e8b46"
 ---
 
 {{< inline-image image="/img/thinkers/Mozi.jpg" text="Mozi" >}}

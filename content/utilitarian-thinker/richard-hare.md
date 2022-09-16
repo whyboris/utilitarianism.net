@@ -1,9 +1,14 @@
 ---
 title: "Richard M. Hare"
+book: "Richard M. Hare"
+year: "1919 - 2002"
 date: 2022-08-08T10:10:59-04:00
 draft: false
 menu: "thinker"
 weight: 7
+layout: "book"
+gradientTop: "#0f0c29"
+gradientBottom: "#302b63"
 ---
 
 {{< inline-image image="/img/thinkers/Richard-M-Hare.jpg" text="Richard M Hare" >}}
