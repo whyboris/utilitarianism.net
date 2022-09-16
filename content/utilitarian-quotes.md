@@ -15,7 +15,7 @@ This page seeks to highlight and clarify important utilitarian concepts by provi
 
 ## Mozi Quotes 
 
-_→ [Article on Mozi’s life and ideas](https://www.utilitarianism.net/utilitarian-thinker/mozi)_
+_→ [Article on Mozi’s life and ideas](/utilitarian-thinker/mozi)_
 
 
 * Universal love is really the way of the sage-kings. It is what gives peace to the rulers and sustenance to the people.[^1]
@@ -46,7 +46,7 @@ _→ [Article on Mozi’s life and ideas](https://www.utilitarianism.net/utilita
 
 ## Jeremy Bentham Quotes 
 
-_→ [Article on Jeremy Bentham’s life and ideas](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham)_
+_→ [Article on Jeremy Bentham’s life and ideas](/utilitarian-thinker/jeremy-bentham)_
 
 
 
@@ -88,7 +88,7 @@ If _pains_ must come, let them _extend_ to few.[^18]
 
 ## John Stuart Mill Quotes 
 
-_→ [Article on John Stuart Mill’s life and ideas](https://www.utilitarianism.net/utilitarian-thinker/john-stuart-mill)_
+_→ [Article on John Stuart Mill’s life and ideas](/utilitarian-thinker/john-stuart-mill)_
 
 * The Greatest Happiness Principle holds that actions are right in proportion as they tend to promote happiness and wrong as they tend to produce the reverse of happiness.[^24]
 
@@ -137,7 +137,7 @@ _→ [Article on John Stuart Mill’s life and ideas](https://www.utilitarianism
 
 ## Harriet Taylor Mill Quotes 
 
-_→ [Article on Harriet Taylor Mill’s life and ideas](https://www.utilitarianism.net/utilitarian-thinker/harriet-taylor-mill)_
+_→ [Article on Harriet Taylor Mill’s life and ideas](/utilitarian-thinker/harriet-taylor-mill)_
 
 * We deny the right of any portion of the species to decide for another portion what is and what is not their ‘proper sphere’. The proper sphere for all human beings is the largest and highest which they are able to attain to.[^46]
 
@@ -147,7 +147,7 @@ _→ [Article on Harriet Taylor Mill’s life and ideas](https://www.utilitarian
 
 ## Henry Sidgwick Quotes 
 
-_→ [Article on Henry Sidgwick’s life and ideas](https://www.utilitarianism.net/utilitarian-thinker/henry-sidgwick)_
+_→ [Article on Henry Sidgwick’s life and ideas](/utilitarian-thinker/henry-sidgwick)_
 
 
 * [T]he good of any one person is no more important from the point of view...of the universe than the good of any other; unless there are special grounds for believing that more good is likely to occur in the one case than in the other.[^49]
@@ -207,7 +207,7 @@ An obviously important case in which, if he were a utilitarian, a person would h
 
 ## Peter Singer Quotes 
 
-_→ [Article on Peter Singer’s life and ideas](https://www.utilitarianism.net/utilitarian-thinker/peter-singer)_
+_→ [Article on Peter Singer’s life and ideas](/utilitarian-thinker/peter-singer)_
 
 * To be a utilitarian means that you judge actions as right or wrong in accordance with whether they have good consequences. So you try to do what will have the best consequences for all of those affected.[^72]
 
@@ -407,15 +407,15 @@ _→ [Article on Peter Singer’s life and ideas](https://www.utilitarianism.net
 
 [^24]:
 
-     Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/2).
+     Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](/books/utilitarianism-john-stuart-mill/2).
 
 [^25]:
 
-     Mill, J. S. (1859). [Chapter 1: Introductory, On Liberty](https://www.utilitarianism.net/books/on-liberty-john-stuart-mill/1).
+     Mill, J. S. (1859). [Chapter 1: Introductory, On Liberty](/books/on-liberty-john-stuart-mill/1).
 
 [^26]:
 
-     Mill, J. S. (1863). [Chapter 4: Of What Sort Of Proof The Principle Of Utility Is Susceptible, Utilitarianism](https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/2).
+     Mill, J. S. (1863). [Chapter 4: Of What Sort Of Proof The Principle Of Utility Is Susceptible, Utilitarianism](/books/utilitarianism-john-stuart-mill/2).
 
 [^27]:
 
@@ -423,7 +423,7 @@ _→ [Article on Peter Singer’s life and ideas](https://www.utilitarianism.net
 
 [^28]:
 
-     Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/2).
+     Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](/books/utilitarianism-john-stuart-mill/2).
 
 [^29]:
 
@@ -431,35 +431,35 @@ _→ [Article on Peter Singer’s life and ideas](https://www.utilitarianism.net
 
 [^30]:
 
-     Mill, J. S. (1859). [Chapter 1: Introductory, On Liberty](https://www.utilitarianism.net/books/on-liberty-john-stuart-mill/1).
+     Mill, J. S. (1859). [Chapter 1: Introductory, On Liberty](/books/on-liberty-john-stuart-mill/1).
 
 [^31]:
 
-     Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/2).
+     Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](/books/utilitarianism-john-stuart-mill/2).
 
 [^32]:
 
-     Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/2).
+     Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](/books/utilitarianism-john-stuart-mill/2).
 
 [^33]:
 
-     Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/2).
+     Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](/books/utilitarianism-john-stuart-mill/2).
 
 [^34]:
 
-     Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/2).
+     Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](/books/utilitarianism-john-stuart-mill/2).
 
 [^35]:
 
-     Mill, J. S. (1859). [Chapter 1: Introductory, On Liberty](https://www.utilitarianism.net/books/on-liberty-john-stuart-mill/1).
+     Mill, J. S. (1859). [Chapter 1: Introductory, On Liberty](/books/on-liberty-john-stuart-mill/1).
 
 [^36]:
 
-     Mill, J. S. (1869). [Chapter 4, The Subjection of Women](https://www.utilitarianism.net/books/the-subjection-of-women-john-stuart-mill/4).
+     Mill, J. S. (1869). [Chapter 4, The Subjection of Women](/books/the-subjection-of-women-john-stuart-mill/4).
 
 [^37]:
 
-     Mill, J. S. (1863). [Chapter 5: On The Connexion Between Justice And Utility, Utilitarianism](https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/5).
+     Mill, J. S. (1863). [Chapter 5: On The Connexion Between Justice And Utility, Utilitarianism](/books/utilitarianism-john-stuart-mill/5).
 
 [^38]:
 
@@ -471,7 +471,7 @@ _→ [Article on Peter Singer’s life and ideas](https://www.utilitarianism.net
 
 [^40]:
 
-     Mill, J. S. (1863). [Chapter 3: Of The Ultimate Sanction Of The Principle Of Utility, Utilitarianism](https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/3).
+     Mill, J. S. (1863). [Chapter 3: Of The Ultimate Sanction Of The Principle Of Utility, Utilitarianism](/books/utilitarianism-john-stuart-mill/3).
 
 [^41]:
 
@@ -479,31 +479,31 @@ _→ [Article on Peter Singer’s life and ideas](https://www.utilitarianism.net
 
 [^42]:
 
-     Mill, J. S. (1863). [Chapter 5: On The Connexion Between Justice And Utility, Utilitarianism](https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/5).
+     Mill, J. S. (1863). [Chapter 5: On The Connexion Between Justice And Utility, Utilitarianism](/books/utilitarianism-john-stuart-mill/5).
 
 [^43]:
 
-     Mill, J. S. (1873). [Chapter 3: 1821-1823 — Last Stage Of Education, And First Of Self-Education, Autobiography](https://www.utilitarianism.net/books/autobiography-john-stuart-mill/3).
+     Mill, J. S. (1873). [Chapter 3: 1821-1823 — Last Stage Of Education, And First Of Self-Education, Autobiography](/books/autobiography-john-stuart-mill/3).
 
 [^44]:
 
-     Mill, J. S. (1873). [Chapter 3: 1821-1823 — Last Stage Of Education, And First Of Self-Education, Autobiography](https://www.utilitarianism.net/books/autobiography-john-stuart-mill/3).
+     Mill, J. S. (1873). [Chapter 3: 1821-1823 — Last Stage Of Education, And First Of Self-Education, Autobiography](/books/autobiography-john-stuart-mill/3).
 
 [^45]:
 
-     Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/2).
+     Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](/books/utilitarianism-john-stuart-mill/2).
 
 [^46]:
 
-     Taylor Mill, H. (1851). _[The Enfranchisement of Women](https://www.utilitarianism.net/books/enfranchisement-of-women-harriet-taylor-mill)_.
+     Taylor Mill, H. (1851). _[The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill)_.
 
 [^47]:
 
-     Taylor Mill, H. (1851). _[The Enfranchisement of Women](https://www.utilitarianism.net/books/enfranchisement-of-women-harriet-taylor-mill)_.
+     Taylor Mill, H. (1851). _[The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill)_.
 
 [^48]:
 
-     Taylor Mill, H. (1851). _[The Enfranchisement of Women](https://www.utilitarianism.net/books/enfranchisement-of-women-harriet-taylor-mill)_.
+     Taylor Mill, H. (1851). _[The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill)_.
 
 [^49]:
 

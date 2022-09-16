@@ -19,7 +19,7 @@ By the lights of utilitarianism, only the sum total of well-being determines the
 
 Some philosophers object to the utilitarian view regarding this choice, claiming that the equal distribution of well-being in Equality provides a reason to choose this outcome. On this view, total well-being is not all that matters; equality of distribution also matters. Equality, it is claimed, is an important moral consideration that the utilitarian overlooks.
 
-Proponents of utilitarianism might [respond to this objection in four ways](https://www.utilitarianism.net/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). We will go through these in turn.
+Proponents of utilitarianism might [respond to this objection in four ways](/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). We will go through these in turn.
 
 
 ## Accommodating the Intuition
@@ -54,7 +54,7 @@ We think that, put in these terms, it is no longer intuitively obvious that the 
 
 ## Attacking the Alternatives
 
-The third line of response is to _attack the available alternatives_ to utilitarianism to show that they have even more counterintuitive implications. For example, [egalitarianism](https://www.utilitarianism.net/near-utilitarian-alternatives#egalitarianism-and-distributive-justice) is subject to the _Leveling Down Objection_ that it countenances harming the well-off (without benefiting anyone) since that has the effect of increasing equality.[^3] If you don't think that there's anything good about such _leveling down_ then your judgment supports the utilitarian view that equality is only valuable instrumentally: valuable when and because it serves to promote overall well-being.[^4]
+The third line of response is to _attack the available alternatives_ to utilitarianism to show that they have even more counterintuitive implications. For example, [egalitarianism](/near-utilitarian-alternatives#egalitarianism-and-distributive-justice) is subject to the _Leveling Down Objection_ that it countenances harming the well-off (without benefiting anyone) since that has the effect of increasing equality.[^3] If you don't think that there's anything good about such _leveling down_ then your judgment supports the utilitarian view that equality is only valuable instrumentally: valuable when and because it serves to promote overall well-being.[^4]
 
 We can also show that the alternatives to the utilitarian distribution of well-being violate a principle called _ex ante Pareto_: that, in a choice between two gambles, if everyone would rationally prefer gamble A to gamble B, then gamble A is better than gamble B.
 
@@ -98,7 +98,7 @@ Finally, proponents of utilitarianism may once again “bite the bullet” and s
      Parfit, D. (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_,10(3): 202–221.
 
 [^4]:
-     Though this leaves open the choice between the utilitarian's [equal consideration of interests](https://www.utilitarianism.net/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests) and the [prioritarian](https://www.utilitarianism.net/near-utilitarian-alternatives#prioritarianism) approach of giving extra weight to the interests of the worst off.
+     Though this leaves open the choice between the utilitarian's [equal consideration of interests](/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests) and the [prioritarian](/near-utilitarian-alternatives#prioritarianism) approach of giving extra weight to the interests of the worst off.
 
 [^5]:
      Indeed, the standard way of defining a magnitude of well-being is in terms of rational decisions in the face of uncertainty. On this account, what it means for an outcome to provide 100 well-being is that one, for example, ought to be indifferent between that outcome and a 50/50 chance of 200 well-being or 0 well-being.

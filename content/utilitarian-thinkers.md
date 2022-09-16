@@ -52,7 +52,7 @@ Jeremy Bentham was a British philosopher and social reformer, who is widely rega
 
 {{< thinker-name name="John Stuart Mill" year="(1806 - 1873)" >}}
 
-John Stuart Mill was a British philosopher and political economist. A student of Jeremy Bentham, Mill promoted the ideas of utilitarianism and liberalism and has been called “the most influential English language philosopher of the nineteenth century”.[^3] His most influential works include his books _[Utilitarianism](https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/1)_ (1863) and _[On Liberty](https://www.utilitarianism.net/books/on-liberty-john-stuart-mill/1)_ (1859).
+John Stuart Mill was a British philosopher and political economist. A student of Jeremy Bentham, Mill promoted the ideas of utilitarianism and liberalism and has been called “the most influential English language philosopher of the nineteenth century”.[^3] His most influential works include his books _[Utilitarianism](/books/utilitarianism-john-stuart-mill/1)_ (1863) and _[On Liberty](/books/on-liberty-john-stuart-mill/1)_ (1859).
 
 {{< read-more url="john-stuart-mill" >}}
 

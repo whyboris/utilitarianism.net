@@ -45,7 +45,7 @@ The total view implies that we can improve the world in two ways: either we can 
 
 In practice, there are often trade-offs between making existing people happier and creating additional happy people. On a planet with limited resources, adding more people to an already large population may at some point diminish the quality of life of everyone else severely enough that total wellbeing decreases. It is an open empirical question whether our world has reached the population size at which adding a person increases or decreases overall wellbeing.[^7]
 
-The total view’s foremost practical implication is giving great importance to ensuring the long-term flourishing of civilization. This entails taking [existential risk reduction](https://www.utilitarianism.net/acting-on-utilitarianism#existential-risk-reduction) very seriously as a moral priority.[^8] Existential risks—such as all-out nuclear war, or extreme climate change, or an engineered global pandemic—threaten the survival of humankind. If humanity survives, civilization may flourish over billions of years, and an enormous number of future people may get to enjoy highly fulfilling lives. The total wellbeing across all future generations may be astronomically large, and an existential catastrophe would irreversibly deprive humanity of this potentially grand future. From the perspective of the total view and many other moral views, the stakes involved with existential risks are so immense that the mitigation of these risks becomes one of the principal moral issues facing humanity.
+The total view’s foremost practical implication is giving great importance to ensuring the long-term flourishing of civilization. This entails taking [existential risk reduction](/acting-on-utilitarianism#existential-risk-reduction) very seriously as a moral priority.[^8] Existential risks—such as all-out nuclear war, or extreme climate change, or an engineered global pandemic—threaten the survival of humankind. If humanity survives, civilization may flourish over billions of years, and an enormous number of future people may get to enjoy highly fulfilling lives. The total wellbeing across all future generations may be astronomically large, and an existential catastrophe would irreversibly deprive humanity of this potentially grand future. From the perspective of the total view and many other moral views, the stakes involved with existential risks are so immense that the mitigation of these risks becomes one of the principal moral issues facing humanity.
 
 
 ### Objecting to the Total View: The Repugnant Conclusion 
@@ -222,7 +222,7 @@ To this end, standard person-affecting views accept the _person-affecting restri
 
 > **An outcome cannot be better (or worse) than another unless it is better (or worse) _for_ someone.**[^48]
 
-At first glance, this principle sounds eminently plausible. When considering only fixed-population cases, it amounts to an expression of _[welfarism](https://www.utilitarianism.net/types-of-utilitarianism#welfarism)_: the view that wellbeing is the only value. But problems arise when comparing outcomes in which different people exist, especially if combined with the principle of _Existence Incomparability_:[^49]
+At first glance, this principle sounds eminently plausible. When considering only fixed-population cases, it amounts to an expression of _[welfarism](/types-of-utilitarianism#welfarism)_: the view that wellbeing is the only value. But problems arise when comparing outcomes in which different people exist, especially if combined with the principle of _Existence Incomparability_:[^49]
 
 
 > **If a person exists in one outcome but not the other, it is not possible to compare their wellbeing across these outcomes.**
@@ -277,7 +277,7 @@ For all these reasons, utilitarians are largely united in rejecting person-affec
 
 ## Practical Implications of Population Ethical Theories 
 
-Population ethics is a field of great importance for real-world decision-making. In particular, which population ethical view we adopt shapes the importance we should assign to preserving and improving the long-term future of humanity. If human civilization persists, and perhaps one day spreads to the stars, there could be an inconceivably large number of future people with good lives. Their existence and wellbeing depend in part on the choices we make today: especially how many resources we, the current generation, invest in [preventing existential risks](https://www.utilitarianism.net/acting-on-utilitarianism#existential-risk-reduction), which threaten the continued survival and long-term flourishing of humankind.[^56]
+Population ethics is a field of great importance for real-world decision-making. In particular, which population ethical view we adopt shapes the importance we should assign to preserving and improving the long-term future of humanity. If human civilization persists, and perhaps one day spreads to the stars, there could be an inconceivably large number of future people with good lives. Their existence and wellbeing depend in part on the choices we make today: especially how many resources we, the current generation, invest in [preventing existential risks](/acting-on-utilitarianism#existential-risk-reduction), which threaten the continued survival and long-term flourishing of humankind.[^56]
 
 The total wellbeing enjoyed by all future people is potentially enormous. Consequently, on the total view, the disvalue of losing our future is immense, and the mitigation of existential risks becomes correspondingly important. The same conclusion also holds for critical level (or range) theories, assuming that the average wellbeing of future generations exceeds the critical level (or range).[^57]
 
@@ -296,11 +296,11 @@ According to the total view of population ethics, an outcome’s goodness depend
 
 All of these views are subject to serious objections. The total view entails the repugnant conclusion, according to which for any world A (however idyllic), there is a better world Z in which no one has a life that is more than barely worth living. The average view, variable value theories, and critical level theories all entail versions of the sadistic conclusion; that it can sometimes be better to create (few) lives with negative wellbeing than to create (more) lives with positive wellbeing. Person-affecting views rely on an unsupported asymmetry and struggle to explain the value of existence (even in the most idyllic cases). Critical range theories may do better, but even they cannot support the anti-repugnance intuition that an idyllic world A is strictly better than the repugnant world Z. The ubiquity of these problems is no coincidence: impossibility theorems prove that no population ethical theory can satisfy all the intuitive principles or axioms that we might have hoped for.
 
-The most important practical implications of population ethics concern how much value we should assign to preserving and improving the long-term future of humanity, and hence how important it is to [reduce existential risks](https://www.utilitarianism.net/acting-on-utilitarianism#existential-risk-reduction).
+The most important practical implications of population ethics concern how much value we should assign to preserving and improving the long-term future of humanity, and hence how important it is to [reduce existential risks](/acting-on-utilitarianism#existential-risk-reduction).
 
 The next chapter discusses the most important implications of utilitarianism for how we should think about leading an ethical life.
 
-_[Button with link to ‘[Utilitarianism and Practical Ethics](https://www.utilitarianism.net/utilitarianism-and-practical-ethics)’ chapter]_
+_[Button with link to ‘[Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics)’ chapter]_
 
 
 

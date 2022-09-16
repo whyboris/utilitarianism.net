@@ -9,7 +9,7 @@ weight: 1
 
 > _"The utilitarian doctrine is, that happiness is desirable, and the only thing desirable, as an end; all other things being only desirable as means to that end."_
 > 
-> \- [John Stuart Mill](https://www.utilitarianism.net/utilitarian-thinker/john-stuart-mill)[^1]
+> \- [John Stuart Mill](/utilitarian-thinker/john-stuart-mill)[^1]
 
 
 {{< TOC >}}
@@ -27,7 +27,7 @@ Historically, people held beliefs we now consider morally horrific. In Western s
 
 Also, people have conflicting moral intuitions, and we need a way to resolve these disagreements. The project of moral philosophy is to reflect on our competing moral intuitions and develop a theory that will tell us which actions are right or wrong, and why. This will then allow us to identify which moral judgments of today are misguided, enabling us to make moral progress and act more ethically.
 
-One of the most prominent and influential attempts to create such a theory is _utilitarianism_. Utilitarianism was developed by the philosophers [Jeremy Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham) and [John Stuart Mill](https://www.utilitarianism.net/utilitarian-thinker/john-stuart-mill), who drew on ideas going back to the ancient Greeks. Their utilitarian views have been widely discussed since they first espoused them, and have had significant influence in economics and public policy. 
+One of the most prominent and influential attempts to create such a theory is _utilitarianism_. Utilitarianism was developed by the philosophers [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham) and [John Stuart Mill](/utilitarian-thinker/john-stuart-mill), who drew on ideas going back to the ancient Greeks. Their utilitarian views have been widely discussed since they first espoused them, and have had significant influence in economics and public policy. 
 
 
 ## What Is Utilitarianism? 
@@ -50,19 +50,19 @@ All ethical theories belonging to the utilitarian family share four defining ele
 
 * **Aggregationism** is the view that the value of the world is the sum of the values of its parts, where these parts are local phenomena such as experiences, lives, or societies.[^5]
 
-[Utilitarianism’s rivals](https://www.utilitarianism.net/near-utilitarian-alternatives) are theories that deny one or more of the above four elements. For example, they might hold that actions can be inherently right or wrong regardless of their consequences, or that some outcomes are good even if they do not increase the welfare of any individual, or that morality allows us to be partial towards our friends and families.
+[Utilitarianism’s rivals](/near-utilitarian-alternatives) are theories that deny one or more of the above four elements. For example, they might hold that actions can be inherently right or wrong regardless of their consequences, or that some outcomes are good even if they do not increase the welfare of any individual, or that morality allows us to be partial towards our friends and families.
 
-We cover the four elements of utilitarianism and its variants in greater depth in [Chapter 2: Elements and Types of Utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism).
+We cover the four elements of utilitarianism and its variants in greater depth in [Chapter 2: Elements and Types of Utilitarianism](/types-of-utilitarianism).
 
 
 ### Classical Utilitarianism 
 
-The early utilitarians—[Jeremy Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham), [John Stuart Mill](https://www.utilitarianism.net/utilitarian-thinker/john-stuart-mill), and [Henry Sidgwick](https://www.utilitarianism.net/utilitarian-thinker/henry-sidgwick)—were _classical utilitarians_. Classical utilitarianism is distinct from other utilitarian theories in that it accepts these two additional elements: First, it accepts [hedonism as a theory of well-being](https://www.utilitarianism.net/theories-of-wellbeing#hedonism). 
+The early utilitarians—[Jeremy Bentham](/utilitarian-thinker/jeremy-bentham), [John Stuart Mill](/utilitarian-thinker/john-stuart-mill), and [Henry Sidgwick](/utilitarian-thinker/henry-sidgwick)—were _classical utilitarians_. Classical utilitarianism is distinct from other utilitarian theories in that it accepts these two additional elements: First, it accepts [hedonism as a theory of well-being](/theories-of-wellbeing#hedonism). 
 
 
 * **Hedonism** is the view that well-being consists in, and only in, the balance of positive over negative conscious experiences. For readability, we will call positive conscious experiences _happiness_ and negative conscious experiences _suffering_. 
 
-Second, classical utilitarianism accepts the [total view of population ethics](https://www.utilitarianism.net/population-ethics#the-total-view). 
+Second, classical utilitarianism accepts the [total view of population ethics](/population-ethics#the-total-view). 
 
 * **The total view of population ethics** regards one outcome as better than another if and only if it contains greater total well-being.
 
@@ -79,7 +79,7 @@ According to utilitarianism, we should extend our moral concern to all sentient 
 
 Despite having a radically different approach to ethics than commonsense morality, utilitarianism generally endorses commonsense prohibitions. For practical purposes, the best course of action for a utilitarian is to try to do as much good as possible whilst still acting in accordance with commonsense moral virtues—like integrity, trustworthiness, law-abidingness, and fairness.
 
-We discuss the implications of utilitarianism for moral deliberation in [Chapter 6: Utilitarianism and Practical Ethics](https://www.utilitarianism.net/utilitarianism-and-practical-ethics).
+We discuss the implications of utilitarianism for moral deliberation in [Chapter 6: Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics).
 
 
 ## Acting on Utilitarianism 
@@ -93,19 +93,19 @@ There are many problems in the world today, some of which are extremely large in
 * _[Existential Risks](https://docs.google.com/document/d/1o3Y2KuMXMyZWfAC3oLw3ths72ZdTPCFUP1rp5tsc4vA/edit#heading=h.rlkjubqgz7j5)_. There will be vast numbers of people in the future, and their lives could be very good. Yet technological progress brings risks, such as from climate change, nuclear war, synthetic biology and artificial intelligence, that could endanger humanity’s future. But if we can successfully navigate these risks, we can ensure a flourishing world for trillions of people yet to come.[^7] 
 There are three key means of helping those affected by the above moral concerns: [donating money to effective charities](https://www.givingwhatwecan.org/giving-recommendations/), working in an impactful career, and convincing other people to do the same. For example, donations to the most effective global health charities are expected to [save a human life for under $5,000](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas ); this money may go even further when donated to address factory farming or existential risks. Choosing which career to pursue may be even more important again, since some careers allow us to do [far more good than others](https://80000hours.org/).[^8]
 
-In the article [Acting on Utilitarianism](https://www.utilitarianism.net/acting-on-utilitarianism), we discuss what utilitarianism means for how to live ethically. 
+In the article [Acting on Utilitarianism](/acting-on-utilitarianism), we discuss what utilitarianism means for how to live ethically. 
 
 
 ## Arguments for Utilitarianism 
 
-No one can prove that utilitarianism is the correct moral theory. Nor can anyone prove it for any of utilitarianism’s rivals. What we can do is to consider the arguments for and against all plausible ethical theories, ultimately coming to an all-things-considered judgement about which is most compelling. In what follows, we will briefly outline three arguments for utilitarianism. We discuss these and several other arguments in more detail in [Chapter 3: Arguments for Utilitarianism](https://www.utilitarianism.net/arguments-for-utilitarianism).
+No one can prove that utilitarianism is the correct moral theory. Nor can anyone prove it for any of utilitarianism’s rivals. What we can do is to consider the arguments for and against all plausible ethical theories, ultimately coming to an all-things-considered judgement about which is most compelling. In what follows, we will briefly outline three arguments for utilitarianism. We discuss these and several other arguments in more detail in [Chapter 3: Arguments for Utilitarianism](/arguments-for-utilitarianism).
 
 
 ### What Fundamentally Matters 
 
 Moral theories serve to specify _what fundamentally matters_, and utilitarianism seems to offer a particularly compelling answer to this question.
 
-Almost anyone would agree with utilitarianism that suffering is bad, and happiness is good. What could be more obvious? If anything matters morally, human well-being surely does. And it would be arbitrary to limit moral concern to our own species, so we should instead conclude that [well-being](https://www.utilitarianism.net/theories-of-wellbeing) generally is what matters. That is, we ought to want the lives of sentient beings to go as well as possible (whether that ultimately comes down to maximizing [happiness](https://www.utilitarianism.net/theories-of-wellbeing#hedonism), [desire satisfaction](https://www.utilitarianism.net/theories-of-wellbeing#desire-theories), or [other welfare goods](https://www.utilitarianism.net/theories-of-wellbeing#objective-list-theories)).
+Almost anyone would agree with utilitarianism that suffering is bad, and happiness is good. What could be more obvious? If anything matters morally, human well-being surely does. And it would be arbitrary to limit moral concern to our own species, so we should instead conclude that [well-being](/theories-of-wellbeing) generally is what matters. That is, we ought to want the lives of sentient beings to go as well as possible (whether that ultimately comes down to maximizing [happiness](/theories-of-wellbeing#hedonism), [desire satisfaction](/theories-of-wellbeing#desire-theories), or [other welfare goods](/theories-of-wellbeing#objective-list-theories)).
 
 Commonsense moral rules, such as those prohibiting theft and promise-breaking, can plausibly be given a utilitarian basis, as such rules generally promote overall well-being. If they did not, it would be hard to see what reason we would have to still want people to follow them. To follow _harmful_ moral rules would seem like a kind of “rule worship”, and not truly ethical at all.[^9]
 
@@ -127,19 +127,19 @@ Such conservatism might stem from the Just World fallacy: the mistake of assumin
 
 Clearly, it is good for people to be well-off, and we certainly would not want to harm anyone unnecessarily.[^13] However, if we can increase overall well-being by benefiting one person at the lesser cost to another, we should not refrain from doing so merely due to a prejudice in favor of the existing distribution.[^14] It is easy to see why traditional elites would want to promote a “morality” which favors their entrenched interests. It is less clear why others should go along with such a distorted view of what (and who) matters.
 
-See [Chapter 3](https://www.utilitarianism.net/arguments-for-utilitarianism) for further discussion of the arguments for utilitarianism.
+See [Chapter 3](/arguments-for-utilitarianism) for further discussion of the arguments for utilitarianism.
 
 
 ## Track Record 
 
 While not constituting an _argument_ per se, it is worth noting that utilitarian moral reasoning has a strong track record of contributing to humanity’s collective moral progress. The classical utilitarians of the 18th and 19th centuries had social and political attitudes that were far ahead of their time: As a progressive social reformer, [Jeremy Bentham](https://docs.google.com/document/d/1Mi_jB3JNfyEv-roBL2Z7iiCV1KXLS2Mza92k1tpuCfk/edit#) defended issues such as the separation of church and state; the abolition of slavery and of capital punishment; legal regulations to protect criminals and non-human animals from cruel treatment[^15]; and the decriminalization of homosexuality.[^16] Indeed, his manuscripts on homosexuality were so liberal that his editor hid them from the public after Bentham’s death. They were only published two centuries later.
 
-[John Stuart Mill](https://docs.google.com/document/d/1Mi_jB3JNfyEv-roBL2Z7iiCV1KXLS2Mza92k1tpuCfk/edit#) defended the provision of social welfare for the poor and of freedom of speech. He was the second MP in the UK Parliament to call for women’s suffrage[^17] and advocated for gender equality more generally. In his essay _[The Subjection of Women](https://www.utilitarianism.net/books/the-subjection-of-women-john-stuart-mill/1)_[^18] Mill argued that 
+[John Stuart Mill](https://docs.google.com/document/d/1Mi_jB3JNfyEv-roBL2Z7iiCV1KXLS2Mza92k1tpuCfk/edit#) defended the provision of social welfare for the poor and of freedom of speech. He was the second MP in the UK Parliament to call for women’s suffrage[^17] and advocated for gender equality more generally. In his essay _[The Subjection of Women](/books/the-subjection-of-women-john-stuart-mill/1)_[^18] Mill argued that 
 
 
 > the principle which regulates the existing social relations between the two sexes — the legal subordination of one sex to the other — is wrong itself, and now one of the chief hindrances to human improvement; and that it ought to be replaced by a principle of perfect equality, admitting no power or privilege on the one side, nor disability on the other.[^19]
 
-In a similar vein, [Henry Sidgwick](https://www.utilitarianism.net/utilitarian-thinker/henry-sidgwick) advocated for women’s education and the freedom of education from religious doctrines. Modern utilitarians like [Peter Singer](https://www.utilitarianism.net/utilitarian-thinker/peter-singer) are outspoken advocates against pressing moral problems such as extreme poverty and factory farming.[^20]
+In a similar vein, [Henry Sidgwick](/utilitarian-thinker/henry-sidgwick) advocated for women’s education and the freedom of education from religious doctrines. Modern utilitarians like [Peter Singer](/utilitarian-thinker/peter-singer) are outspoken advocates against pressing moral problems such as extreme poverty and factory farming.[^20]
 
 While the early proponents of utilitarianism were still far from getting everything right, their utilitarian reasoning led them to escape many of the moral prejudices of their time and reach more enlightened moral and political positions. Those of us living today are, of course, no less fallible than our forebears. To help overcome our own biases, our moral and political views may similarly benefit from being checked against utilitarian principles.
 
@@ -152,7 +152,7 @@ Often, critics allege that utilitarianism runs counter to our commonsense moral 
 
 Utilitarian philosophers often respond to such concerns by arguing that many of our moral intuitions, including our counter-utilitarian intuitions, are significantly misguided. They are therefore happy to considerably revise those moral intuitions in light of theoretical considerations. They hold that while intuitions about particular cases should be given some weight in our moral deliberations⁠—so, all else being equal, a moral theory is more plausible if it fits better with our intuitions⁠—they are only one component of the assessment of a moral theory.
 
-In what follows, we will state two of the most prominent critiques of utilitarianism. We will thoroughly discuss these and other objections in [Chapter 8: Objections to Utilitarianism and Responses](https://www.utilitarianism.net/objections-to-utilitarianism).
+In what follows, we will state two of the most prominent critiques of utilitarianism. We will thoroughly discuss these and other objections in [Chapter 8: Objections to Utilitarianism and Responses](/objections-to-utilitarianism).
 
 
 ### The Rights Objection  
@@ -182,7 +182,7 @@ Utilitarian ethics has an intellectual tradition spanning centuries, during whic
 The next chapter discusses the four elements of utilitarian theories in greater depth and introduces several variants of utilitarianism. 
 
 
-_[Button with link to ‘[Elements and Types of Utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism)’ chapter]_
+_[Button with link to ‘[Elements and Types of Utilitarianism](/types-of-utilitarianism)’ chapter]_
 
 ---
 
@@ -226,14 +226,14 @@ _[Button with link to ‘[Elements and Types of Utilitarianism](https://www.util
      For more details, see Williams, E. G. (2015). [The Possibility of an Ongoing Moral Catastrophe](https://link.springer.com/article/10.1007/s10677-015-9567-7). _Ethical Theory and Moral Practice_, _18_(5), 971–982. doi: 10.1007/s10677-015-9567-7
 
 [^3]:
-     This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are utilitarian theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](https://www.utilitarianism.net/population-ethics).
+     This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are utilitarian theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](/population-ethics).
 
 [^4]:
      However, when economists use the term “[utility](https://en.wikipedia.org/wiki/Utility)” they typically refer, instead, to the numerical representation of an individual’s preferences.
 
 [^5]:
 
-     This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are aggregationist theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](https://www.utilitarianism.net/population-ethics).
+     This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are aggregationist theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](/population-ethics).
 
 [^6]:
 
@@ -262,11 +262,11 @@ _[Button with link to ‘[Elements and Types of Utilitarianism](https://www.util
 
 [^13]:
      On the topic of sacrifice, John Stuart Mill wrote that “The utilitarian morality does recognise in human beings the power of sacrificing their own greatest good for the good of others. It only refuses to admit that the sacrifice is itself a good. A sacrifice which does not increase, or tend to increase, the sum total of happiness, it considers as wasted.”
-    Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/2).
+    Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](/books/utilitarianism-john-stuart-mill/2).
 
 [^14]:
      However, this does not mean that utilitarianism will strive for perfect equality in material outcomes or even well-being. Joshua Greene notes that “a world in which everyone gets the same outcome no matter what they do is an idle world in which people have little incentive to do anything. Thus, the way to maximize happiness is not to decree that everyone gets to be equally happy, but to encourage people to behave in ways that maximize happiness. When we measure our moral success, we count everyone’s happiness equally, but achieving success almost certainly involves inequality of both material wealth and happiness. Such inequality is not ideal, but it’s justified on the grounds that, without it, things would be worse overall.
-    Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes). _The Penguin Press., p. 163; see also: [The Equality Objection to Utilitarianism](https://www.utilitarianism.net/objections-to-utilitarianism/equality).
+    Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes). _The Penguin Press., p. 163; see also: [The Equality Objection to Utilitarianism](/objections-to-utilitarianism/equality).
 
 [^15]:
      For instance, Bentham commented on the issue of animal protection: “_the question is not, Can they reason? nor, Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being? The time will come when humanity will extend its mantle over everything which breathes. We have begun by attending to the condition of slaves; we shall finish by softening that of all the animals which assist our labors or supply our wants._” 
