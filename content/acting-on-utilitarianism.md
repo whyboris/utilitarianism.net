@@ -9,7 +9,7 @@ weight: 5
 
 
 > _“Create all the happiness you are able to create; remove all the misery you are able to remove. Every day will allow you, will invite you to add something to the pleasure of others, or to diminish something of their pains.”_ \
-> \- [Jeremy Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^1]
+> \- [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^1]
 
 {{< TOC >}}
 
@@ -47,11 +47,11 @@ How much should we sacrifice for the benefit of others? For well-off citizens of
 
 ## Effective Altruism 
 
-Many utilitarians undertake very significant personal sacrifices because of their belief in utilitarianism. But recently some have argued that _what_ one tries to do is even more important than _how much_ sacrifice one undertakes. This is a key insight of the philosophy and social movement of _[effective altruism](https://www.effectivealtruism.org/)_, which is endorsed by many utilitarians, such as [Peter Singer](https://www.utilitarianism.net/utilitarian-thinker/peter-singer).[^6]
+Many utilitarians undertake very significant personal sacrifices because of their belief in utilitarianism. But recently some have argued that _what_ one tries to do is even more important than _how much_ sacrifice one undertakes. This is a key insight of the philosophy and social movement of _[effective altruism](https://www.effectivealtruism.org/)_, which is endorsed by many utilitarians, such as [Peter Singer](/utilitarian-thinker/peter-singer).[^6]
 
 Those in the effective altruism movement try to figure out, of all the different uses of our resources, which ones will do the most good, impartially considered, and act on that basis. So defined, effective altruism is both a research project—to figure out how to do the most good—and a practical project to implement the best guesses we have about how to do the most good.[^7]
 
-While utilitarianism and effective altruism share certain similarities,[^8] they are distinct and differ in important ways.[^9] Unlike utilitarianism, effective altruism does not require that we [sacrifice our own interests](https://www.utilitarianism.net/objections-to-utilitarianism/demandingness) whenever doing so brings about a greater benefit to others. Unlike utilitarianism, effective altruism does not claim that we should always seek to maximize wellbeing, [whatever the means](https://www.utilitarianism.net/objections-to-utilitarianism/rights). Finally, unlike utilitarianism effective altruism does not equate the good with the total sum of wellbeing.[^10] For these and other reasons, many members of the effective altruism community are not utilitarians, and instead they often give some weight to a range of different ethical theories.
+While utilitarianism and effective altruism share certain similarities,[^8] they are distinct and differ in important ways.[^9] Unlike utilitarianism, effective altruism does not require that we [sacrifice our own interests](/objections-to-utilitarianism/demandingness) whenever doing so brings about a greater benefit to others. Unlike utilitarianism, effective altruism does not claim that we should always seek to maximize wellbeing, [whatever the means](/objections-to-utilitarianism/rights). Finally, unlike utilitarianism effective altruism does not equate the good with the total sum of wellbeing.[^10] For these and other reasons, many members of the effective altruism community are not utilitarians, and instead they often give some weight to a range of different ethical theories.
 
 Despite these differences, utilitarians are usually enthusiastic about effective altruism. The main reason for this is that, out of all communities, the effective altruism movement comes closest to applying core utilitarian ideas and values to the real world.
 
@@ -62,7 +62,7 @@ Members of the effective altruism movement often decompose the problem of how to
 
 ## Cause Prioritization 
 
-To figure out which the most effective actions are, we first need to know which causes to focus on. Utilitarians are [cause impartial](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#cause-impartiality), meaning they aim to contribute to the causes where they expect to do the most good. Which causes would most effectively promote wellbeing if they were further addressed? Finding the answer to that question is called _cause prioritization_.
+To figure out which the most effective actions are, we first need to know which causes to focus on. Utilitarians are [cause impartial](/utilitarianism-and-practical-ethics#cause-impartiality), meaning they aim to contribute to the causes where they expect to do the most good. Which causes would most effectively promote wellbeing if they were further addressed? Finding the answer to that question is called _cause prioritization_.
 
 Since some moral problems may be far more important than others, choosing what cause to focus on may be the most important factor in how much good an individual will do. However, the world is complex, and we face high uncertainty about what the best ways of improving the world are. This uncertainty causes reasonable disagreement about what the very best causes to work on are. But the effective altruism community has [made some progress](https://concepts.effectivealtruism.org/concepts/importance-neglectedness-tractability/) outlining three social causes that appear particularly pressing: (i) global health and development, (ii) farm animal welfare, and (iii) existential risk reduction.
 
@@ -73,7 +73,7 @@ Since some moral problems may be far more important than others, choosing what c
 > One thing that greatly matters is the failure of we rich people to prevent, as we so easily could, much of the suffering and many of the early deaths of the poorest people in the world. \
 > \- Derek Parfit[^11]
 
-As explained in the chapter [Utilitarianism and Practical Ethics](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#cosmopolitanism), utilitarians endorse cosmopolitanism, according to which the geographical distance between an actor and someone they can help is not morally relevant in itself. Cosmopolitanism implies that we should look for effective interventions to help others, regardless of their nationality, where they live, or where they come from. 
+As explained in the chapter [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#cosmopolitanism), utilitarians endorse cosmopolitanism, according to which the geographical distance between an actor and someone they can help is not morally relevant in itself. Cosmopolitanism implies that we should look for effective interventions to help others, regardless of their nationality, where they live, or where they come from. 
 
 On this basis, global health and development may be considered a particularly high priority cause for utilitarians.[^12] Efforts in this area have a great track record of improving lives, making this cause appear especially tractable. For most of human history, it was the norm that around two out of every five children died before their fifth birthday, largely due to preventable causes. With improved sanitation and access to medical care, we have since made tremendous progress against child mortality, with global rates dropping to only 4.5% in 2015.[^13]
 
@@ -90,11 +90,11 @@ Other evidence-backed and cost-effective ways to help the very poor include givi
 
 
 > the question is not, Can they reason? nor, Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being? (...) The time will come when humanity will extend its mantle over everything which breathes. \
-> \- [Jeremy Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^17]
+> \- [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^17]
 
 Improving the welfare of farmed animals should be a high moral priority for utilitarians. The argument for this conclusion is simple: First, animals matter morally; second, humans cause a huge amount of unnecessary suffering to animals in factory farms; third, there are easy ways to reduce the number of farmed animals and the severity of their suffering. We will go over these premises one by one.
 
-First, as explained in the chapter [Utilitarianism and Practical Ethics](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#speciesism), utilitarians reject speciesism: discrimination against those who do not belong to a certain species. By the lights of utilitarianism, we should give equal moral consideration to the wellbeing of all individuals, regardless of what species they belong to.[^18]
+First, as explained in the chapter [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#speciesism), utilitarians reject speciesism: discrimination against those who do not belong to a certain species. By the lights of utilitarianism, we should give equal moral consideration to the wellbeing of all individuals, regardless of what species they belong to.[^18]
 
 Second, we find ourselves in a historically unprecedented situation, where every year humans kill around 70 billion land animals for food.[^19] The vast majority of these spend their lives in factory farms in horrendous conditions,[^20] crammed together with little space, without natural light or stimuli, and at constant risk of developing ailments such as weakened or broken bones, infections and organ failure. Most have their lives ended prematurely when they are slaughtered for food. These suffering animals are probably among the worst-off creatures on this planet.
 
@@ -115,7 +115,7 @@ In the US, only a few tens of millions of philanthropic dollars are donated ever
 > Classical Utilitarians (...) would claim, as Sidgwick did, that the destruction of mankind would be by far the greatest of all conceivable crimes. The badness of this crime would lie in the vast reduction of the possible sum of happiness. \
 > \- Derek Parfit[^23]
 
-The chapter [Utilitarianism and Practical Ethics](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#longtermism) introduced _strong longtermism_, according to which the most important determinant of the value of our actions today is how those actions affect the very long-run future. Strong longtermism follows from utilitarianism⁠—and a wide range of other moral viewpoints⁠—if we assume that some of our actions can meaningfully affect the long-run future and that we can estimate which effects are positive and which negative.[^24]
+The chapter [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#longtermism) introduced _strong longtermism_, according to which the most important determinant of the value of our actions today is how those actions affect the very long-run future. Strong longtermism follows from utilitarianism⁠—and a wide range of other moral viewpoints⁠—if we assume that some of our actions can meaningfully affect the long-run future and that we can estimate which effects are positive and which negative.[^24]
 
 By the lights of longtermism, the most important moral problems are the ones where we have the greatest leverage to positively affect future generations. In particular, we should be highly concerned with _existential risks_—such as all-out nuclear war, or extreme climate change, or an engineered global pandemic—which are defined as follows:
 
@@ -137,7 +137,7 @@ For a detailed discussion of existential risks and the moral importance of the l
 
 How can we best address the most important causes? In general, there are three courses of actions that are most impactful. First, we can donate money to charity. Second, we can work in a career that helps others. Last but not least, we can encourage other people to also engage in these actions.
 
-As pointed out in the chapter [Utilitarianism and Practical Ethics](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#respecting-commonsense-moral-norms), while utilitarians accept an obligation to try to do the most good they can, in practice they should almost always avoid violating commonsense moral prohibitions such as those against lying or killing. A good utilitarian would therefore generally do better by acting in accordance with commonsense moral virtues like integrity, trustworthiness, law-abidingness, and fairness and [not trying to assess each action on utilitarian terms](https://www.utilitarianism.net/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism) case by case.
+As pointed out in the chapter [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#respecting-commonsense-moral-norms), while utilitarians accept an obligation to try to do the most good they can, in practice they should almost always avoid violating commonsense moral prohibitions such as those against lying or killing. A good utilitarian would therefore generally do better by acting in accordance with commonsense moral virtues like integrity, trustworthiness, law-abidingness, and fairness and [not trying to assess each action on utilitarian terms](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism) case by case.
 
 
 ### Charitable Giving 
@@ -292,7 +292,7 @@ _[Second button with text “[Choose an impactful career](https://80000hours.org
      Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.)., pp. 143-144
 
 [^18]:
-     As explained in the chapter[ Utilitarianism and Practical Ethics](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#speciesism), giving equal moral consideration to all animals does not necessarily imply that we should treat them all equally.
+     As explained in the chapter[ Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#speciesism), giving equal moral consideration to all animals does not necessarily imply that we should treat them all equally.
 
 [^19]:
      Sanders, B. (2018). [Global Animal Slaughter Statistics And Charts](https://faunalytics.org/global-animal-slaughter-statistics-and-charts/). _Faunalytics_.

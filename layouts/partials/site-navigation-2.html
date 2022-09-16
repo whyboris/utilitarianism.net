@@ -7,7 +7,7 @@
     <div class="dropdown header-navigation-item">
       
       <a href="/utilitarian-thinkers">
-        <span>Utilitarian Thinkers</span>
+        Utilitarian Thinkers
       </a>
 
       <div class="table-of-contents dropdown-content">
@@ -20,15 +20,13 @@
 
             <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
               <li class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+
+                <div class="title">
                   {{ .Name }}
-                  
-                  <span class="author">
-                    {{ with .Page }}
-                    {{ .Params.author }}
-                    {{ end }}
-                  </span>
-                </li>
-              </a>
+                </div>
+                
+              </li>
+            </a>
 
             {{ end }}
 
@@ -48,10 +46,49 @@
       <a href="/glossary">Glossary</a>
     </div>
 
-    <div class="header-navigation-item">
-      <a href="/books">Books</a>
-    </div>
+    
+    
+    <div class="dropdown header-navigation-item">
+      
+        <a href="/books">
+          Books
+        </a>
+    
+        <div class="table-of-contents dropdown-content">
+    
+          {{ if .Site.Menus.book }}
+    
+            <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+              
+              {{ range .Site.Menus.book }}
+    
+              <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+                <li class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+                  {{ with .Page }}
+                    <div class="title">
+                      {{ .Params.book }}
+                    </div>
+                    
+                    <span class="author">
+                      {{ .Params.author }}
+                    </span>
+                    <span class="year">
+                      ({{ .Params.year }})
+                    </span>
+                    {{ end }}
+                  </li>
+                </a>
+    
+              {{ end }}
+    
+            </ul>
+    
+          {{ end }}
+    
+    
+        </div>
 
+    </div>
 
     <div class="dropdown header-navigation-item">
     

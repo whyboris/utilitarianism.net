@@ -10,7 +10,7 @@ weight: 2
 
 ## Introduction 
 
-As explained in [Chapter 1: Introduction to Utilitarianism](https://www.utilitarianism.net/introduction-to-utilitarianism), the core idea of utilitarianism is that we ought to improve the well-being of everyone by as much as possible. Utilitarian theories generally share four elements: consequentialism, welfarism, impartiality, and aggregationism. Classical utilitarianism is distinctive because it accepts two additional elements: first, hedonism as a [theory of well-being](https://www.utilitarianism.net/theories-of-wellbeing); second, the total view of [population ethics](https://www.utilitarianism.net/population-ethics). There are several further important distinctions between utilitarian theories: we can distinguish scalar from maximizing or satisficing utilitarianism, expectational from objective utilitarianism, multi-level from single-level utilitarianism, and global from hybrid utilitarianism.
+As explained in [Chapter 1: Introduction to Utilitarianism](/introduction-to-utilitarianism), the core idea of utilitarianism is that we ought to improve the well-being of everyone by as much as possible. Utilitarian theories generally share four elements: consequentialism, welfarism, impartiality, and aggregationism. Classical utilitarianism is distinctive because it accepts two additional elements: first, hedonism as a [theory of well-being](/theories-of-wellbeing); second, the total view of [population ethics](/population-ethics). There are several further important distinctions between utilitarian theories: we can distinguish scalar from maximizing or satisficing utilitarianism, expectational from objective utilitarianism, multi-level from single-level utilitarianism, and global from hybrid utilitarianism.
 
 ## The Definition of Utilitarianism 
 
@@ -36,7 +36,7 @@ Utilitarianism accepts _[consequentialism](https://plato.stanford.edu/entries/co
 
 On this view, bringing about good outcomes is all that ultimately matters, from a moral perspective. Thus, to evaluate whether to perform an action, we should look at its overall consequences, rather than any of its other features (such as the _type_ of action that it is). For instance, when breaking a promise has bad consequences—as it usually does—consequentialists oppose it. However, breaking a promise is not considered wrong in itself. In exceptional cases, breaking a promise could be the morally best action available, such as when it is necessary to save a life. The ends in this case justify the means.
 
-Consequentialism’s rivals offer alternative accounts of what one morally ought to do that depend on features other than the value of the resulting outcome. For example, according to [deontology](https://plato.stanford.edu/entries/ethics-deontological/), morality is about following a system of rules, like “Do Not Lie” or “Do Not Steal”. And according to [virtue ethics](https://plato.stanford.edu/entries/ethics-virtue/), morality is fundamentally about having a virtuous character. Much of consequentialism’s appeal may stem from the conviction that _making the world a better place_ is [simply more important](https://www.utilitarianism.net/arguments-for-utilitarianism#what-fundamentally-matters) than any of these competing moral goals.
+Consequentialism’s rivals offer alternative accounts of what one morally ought to do that depend on features other than the value of the resulting outcome. For example, according to [deontology](https://plato.stanford.edu/entries/ethics-deontological/), morality is about following a system of rules, like “Do Not Lie” or “Do Not Steal”. And according to [virtue ethics](https://plato.stanford.edu/entries/ethics-virtue/), morality is fundamentally about having a virtuous character. Much of consequentialism’s appeal may stem from the conviction that _making the world a better place_ is [simply more important](/arguments-for-utilitarianism#what-fundamentally-matters) than any of these competing moral goals.
 
 #### Direct and Indirect Consequentialism: Explaining The Difference between Act Utilitarianism and Rule Utilitarianism 
 
@@ -57,9 +57,9 @@ Consequentialists differ regarding what they mean by _good consequences_. Utilit
 
 Specifically, from a welfarist perspective, good consequences are those which increase well-being in the world, while bad consequences are those which decrease it. Philosophers use the term well-being to describe everything that is good for a person in itself, as opposed to things only instrumentally good for a person. For example, money can buy many useful things and is thus good for a person instrumentally, but it is not a component of their well-being. However, regular access to food is an example of a component of wellbeing because wellbeing is at least partially dependent on it.
 
-Different [theories of well-being](https://www.utilitarianism.net/theories-of-wellbeing) regard different things as the constituents of well-being. The three most prevalent theories are _[hedonism](https://www.utilitarianism.net/theories-of-wellbeing#hedonism)_, _[desire theories](https://www.utilitarianism.net/theories-of-wellbeing#desire-theories)_ and _[objective list theories](https://www.utilitarianism.net/theories-of-wellbeing#objective-list-theories)_.
+Different [theories of well-being](/theories-of-wellbeing) regard different things as the constituents of well-being. The three most prevalent theories are _[hedonism](/theories-of-wellbeing#hedonism)_, _[desire theories](/theories-of-wellbeing#desire-theories)_ and _[objective list theories](/theories-of-wellbeing#objective-list-theories)_.
 
-While every plausible view recognizes that well-being is important, some philosophers reject welfarism on the grounds that _other_ things matter in addition. For example, [egalitarians](https://www.utilitarianism.net/near-utilitarian-alternatives#egalitarianism-and-distributive-justice) may hold that inequality is intrinsically bad, even when it benefits some and harms none. Others might hold that [environmental](https://www.utilitarianism.net/near-utilitarian-alternatives#environmental-value) and [aesthetic value](https://www.utilitarianism.net/near-utilitarian-alternatives#aesthetic-value) must be considered in addition to well-being. 
+While every plausible view recognizes that well-being is important, some philosophers reject welfarism on the grounds that _other_ things matter in addition. For example, [egalitarians](/near-utilitarian-alternatives#egalitarianism-and-distributive-justice) may hold that inequality is intrinsically bad, even when it benefits some and harms none. Others might hold that [environmental](/near-utilitarian-alternatives#environmental-value) and [aesthetic value](/near-utilitarian-alternatives#aesthetic-value) must be considered in addition to well-being. 
 
 ### Impartiality and the Equal Consideration of Interests 
 
@@ -69,7 +69,7 @@ Utilitarianism is committed to a conception of _impartiality_ that builds in the
 
 Accepting this conception of impartiality means treating well-being as equally valuable regardless of when, where or to whom it occurs. As utilitarian philosopher Henry Sidgwick states: “the good of any one person is no more important from the point of view (...) of the universe than the good of any other”.[^5] As a consequence, utilitarians value the well-being of all individuals equally, regardless of their nationality, gender, where or when they live, or even their species. According to utilitarianism, _in principle_ you should not even privilege the well-being of yourself or your family over the well-being of distant strangers (though there may be good _practical_ reasons to do so).[^6]
 
-Not all philosophers agree that impartiality is a core feature of morality. They might hold that we are allowed, or even required, to be _[partial](https://www.utilitarianism.net/near-utilitarian-alternatives#egoism-and-partialism)_ towards a particular group, such as our friends and family. Or they might advance an alternative conception of “impartiality” that does not require the equal consideration of interests. For example, _[prioritarianism](https://www.utilitarianism.net/near-utilitarian-alternatives#prioritarianism)_ gives extra weight to the interests of the worst-off, whoever they might be.
+Not all philosophers agree that impartiality is a core feature of morality. They might hold that we are allowed, or even required, to be _[partial](/near-utilitarian-alternatives#egoism-and-partialism)_ towards a particular group, such as our friends and family. Or they might advance an alternative conception of “impartiality” that does not require the equal consideration of interests. For example, _[prioritarianism](/near-utilitarian-alternatives#prioritarianism)_ gives extra weight to the interests of the worst-off, whoever they might be.
 
 ### Aggregationism 
 
@@ -90,11 +90,11 @@ The oldest and most prominent utilitarian theory is classical utilitarianism, wh
 
 > **Classical utilitarianism is the view that one morally ought to promote just the sum total of happiness over suffering.**
 
-Classical utilitarianism can be distinguished from the wider utilitarian family of views because it accepts two additional elements: first, _[hedonism](https://www.utilitarianism.net/theories-of-wellbeing#hedonism)_, the view that well-being consists only of conscious experiences; and second, the _[total view](https://www.utilitarianism.net/population-ethics#the-total-view)_ of population ethics, on which one outcome is better than another if and only if it contains a greater sum total of well-being, where well-being can be increased either by making existing people better off or by creating new people with good lives.
+Classical utilitarianism can be distinguished from the wider utilitarian family of views because it accepts two additional elements: first, _[hedonism](/theories-of-wellbeing#hedonism)_, the view that well-being consists only of conscious experiences; and second, the _[total view](/population-ethics#the-total-view)_ of population ethics, on which one outcome is better than another if and only if it contains a greater sum total of well-being, where well-being can be increased either by making existing people better off or by creating new people with good lives.
 
 ### Theories of Well-Being: Hedonism 
 
-_→ Main article: [Theories of Well-Being](https://www.utilitarianism.net/theories-of-wellbeing)_
+_→ Main article: [Theories of Well-Being](/theories-of-wellbeing)_
 
 Classical utilitarianism accepts _hedonism_ as a theory of well-being, which is defined as follows:
 
@@ -102,11 +102,11 @@ Classical utilitarianism accepts _hedonism_ as a theory of well-being, which is 
 
 Ethical hedonists believe that the only things good in themselves are the experiences of positive conscious states, such as enjoyment and pleasure; and the only things bad in themselves are the experiences of negative conscious states, such as misery and pain. _Happiness_ and _suffering_ are commonly used by philosophers as shorthand for the terms _positive conscious experience_ and _negative conscious experience_ respectively. 
 
-We discuss the arguments for and against hedonism—and its two major rivals, _desire theories_ and _objective list theories_—in the chapter [Theories of Well-Being](https://www.utilitarianism.net/theories-of-wellbeing). 
+We discuss the arguments for and against hedonism—and its two major rivals, _desire theories_ and _objective list theories_—in the chapter [Theories of Well-Being](/theories-of-wellbeing). 
 
 ### Population Ethics: The Total View 
 
-_→ Main article: [Population Ethics](https://www.utilitarianism.net/population-ethics)_
+_→ Main article: [Population Ethics](/population-ethics)_
 
 Utilitarians agree that if the number of people is held constant, we should promote the _sum total of well-being_ in that fixed population.[^11] But in reality, the population is not fixed. We have the option of bringing more people into existence, such as by having children. If these additional people would have good lives, is that a way of making the world better? This question falls in the domain of _population ethics_, which deals with the moral problems that arise when our actions affect who and how many people are born and at what quality of life.
 
@@ -118,9 +118,9 @@ Importantly, one population may have greater total well-being than another in vi
 
 The total view implies that we can improve the world in two ways: either we can improve the quality of life of existing people, or we can increase the number of people living positive lives.[^12] In practice, there are often trade-offs between making existing people happier and creating additional happy people. On a planet with limited resources, adding more people to an already large population may at some point diminish the quality of life of everyone else severely enough that total well-being decreases.
 
-The total view’s foremost practical implication is [giving great importance](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#longtermism) to ensuring the long-term flourishing of civilization. Since the total well-being enjoyed by all future people is potentially enormous, according to the total view, the [mitigation of existential risks](https://www.utilitarianism.net/acting-on-utilitarianism#existential-risk-reduction)—which threaten to destroy this immense future value—is one of the principal moral issues facing humanity.
+The total view’s foremost practical implication is [giving great importance](/utilitarianism-and-practical-ethics#longtermism) to ensuring the long-term flourishing of civilization. Since the total well-being enjoyed by all future people is potentially enormous, according to the total view, the [mitigation of existential risks](/acting-on-utilitarianism#existential-risk-reduction)—which threaten to destroy this immense future value—is one of the principal moral issues facing humanity.
 
-The major alternatives to the total view in population ethics include the _average view_, _variable value theories_, _critical level (and range) theories,_ and _person-affecting views_. We explain and discuss these theories in the chapter on [Population Ethics](https://www.utilitarianism.net/population-ethics).
+The major alternatives to the total view in population ethics include the _average view_, _variable value theories_, _critical level (and range) theories,_ and _person-affecting views_. We explain and discuss these theories in the chapter on [Population Ethics](/population-ethics).
 ## Further Distinctions Among Utilitarian Theories 
 
 Though we have now explained all the core utilitarian elements, there remain further distinctions within utilitarian theories. After selecting your favored theory of well-being and population ethics view, you should also consider: 
@@ -223,7 +223,7 @@ There are several further distinctions between utilitarian theories: we can dist
 
 The next chapter discusses arguments for utilitarianism, and for consequentialism more broadly.
 
-_[Button with link to [arguments](https://www.utilitarianism.net/arguments-for-utilitarianism) chapter]_
+_[Button with link to [arguments](/arguments-for-utilitarianism) chapter]_
 
 {{< how-to-cite >}}
 
@@ -301,7 +301,7 @@ _[Button with link to [arguments](https://www.utilitarianism.net/arguments-for-u
 
 
 [^1]:
-     This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are utilitarian theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](https://www.utilitarianism.net/population-ethics).
+     This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are utilitarian theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](/population-ethics).
 
 [^2]:
      Some other cases where labels can be misleading: herbal tea is not a type of tea; a plastic flower is not a type of flower; and the flying lemur is not a lemur and does not fly.
@@ -326,7 +326,7 @@ _[Button with link to [arguments](https://www.utilitarianism.net/arguments-for-u
      In principle, other aggregation methods (like multiplication or something more complex) are conceivable. But we focus here on the additive form of aggregationism, since that is by far the most common view.
 
 [^9]:
-     This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are aggregationist theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](https://www.utilitarianism.net/population-ethics).
+     This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are aggregationist theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](/population-ethics).
 
 [^10]:
      Parfit (2003) further argues that anti-aggregative principles implausibly endorse choices that, when iterated sufficiently many times across the population, would make everyone worse off. 

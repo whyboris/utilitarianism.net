@@ -18,7 +18,7 @@ WARNING - webpage outdated
 
 ## Chapter 1: Introduction to Utilitarianism
 
-Resources for [Chapter 1: Introduction to Utilitarianism](https://www.utilitarianism.net/introduction-to-utilitarianism):
+Resources for [Chapter 1: Introduction to Utilitarianism](/introduction-to-utilitarianism):
 
 
 ### Introduction
@@ -31,7 +31,7 @@ Resources for [Chapter 1: Introduction to Utilitarianism](https://www.utilitaria
 ### The Classics
 
 * Jeremy Bentham (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf).
-* John Stuart Mill (1863). [Utilitarianism](https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/1).
+* John Stuart Mill (1863). [Utilitarianism](/books/utilitarianism-john-stuart-mill/1).
 * Henry Sidgwick (1874). [The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf).
 
 
@@ -46,7 +46,7 @@ Resources for [Chapter 1: Introduction to Utilitarianism](https://www.utilitaria
 
 ## Chapter 2: Elements and Types of Utilitarianism
 
-Resources for [Elements and Types of Utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism):
+Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 
 
 ### Consequentialism
@@ -119,7 +119,7 @@ Resources for [Elements and Types of Utilitarianism](https://www.utilitarianism.
 
 ## Chapter 3: Theories of Well-Being
 
-Resources for [Theories of Well-Being](https://www.utilitarianism.net/theories-of-wellbeing):
+Resources for [Theories of Well-Being](/theories-of-wellbeing):
 
 
 ### Introduction
@@ -162,7 +162,7 @@ Resources for [Theories of Well-Being](https://www.utilitarianism.net/theories-o
 
 ## Chapter 4: Population Ethics
 
-Resources for [Population Ethics](https://www.utilitarianism.net/utilitarianism-and-practical-ethics):
+Resources for [Population Ethics](/utilitarianism-and-practical-ethics):
 
 
 ### Introduction to Population Ethics
@@ -237,7 +237,7 @@ Resources for [Population Ethics](https://www.utilitarianism.net/utilitarianism-
 
 ## Chapter 5: Utilitarianism and Practical Ethics
 
-Resources for [Utilitarianism and Practical Ethics](https://www.utilitarianism.net/utilitarianism-and-practical-ethics):
+Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics):
 
 
 ### Is There a Difference Between Doing and Allowing Harm?
@@ -276,7 +276,7 @@ Resources for [Utilitarianism and Practical Ethics](https://www.utilitarianism.n
 
 ## Chapter 6: Objections to Utilitarianism and Responses
 
-Resources for [Objections to Utilitarianism and Responses](https://www.utilitarianism.net/objections-to-utilitarianism):
+Resources for [Objections to Utilitarianism and Responses](/objections-to-utilitarianism):
 
 
 ### General
@@ -313,7 +313,7 @@ Resources for [Objections to Utilitarianism and Responses](https://www.utilitari
 
 ## Article: Acting on Utilitarianism
 
-Resources for [Acting on Utilitarianism](https://www.utilitarianism.net/acting-on-utilitarianism):
+Resources for [Acting on Utilitarianism](/acting-on-utilitarianism):
 
 
 ### General

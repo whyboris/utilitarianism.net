@@ -1,4 +1,4 @@
-{{ $frontmatterMenu := $.Page.Params.menu }}
+{{ $frontmatterMenu := first 1 $.Page.Params.menu }}
 
 {{ $currentPageTitle := .Page.Title }}
 

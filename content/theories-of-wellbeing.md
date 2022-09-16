@@ -7,21 +7,21 @@ weight: 4
 ---
 
 > _“To what shall the character of utility be ascribed, if not to that which is a source of pleasure?”_
-> \- [Jeremy Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^1]
+> \- [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^1]
 
 {{< TOC >}}
 
 ## Introduction
 
-A core element of utilitarianism is [welfarism](https://www.utilitarianism.net/types-of-utilitarianism#welfarism)—the view that only the _welfare_ (also called _well-being_) of individuals determines how good a particular state of the world is. While consequentialists claim that what is right is to promote the amount of good in the world, welfarists specifically equate the good to be promoted with well-being.
+A core element of utilitarianism is [welfarism](/types-of-utilitarianism#welfarism)—the view that only the _welfare_ (also called _well-being_) of individuals determines how good a particular state of the world is. While consequentialists claim that what is right is to promote the amount of good in the world, welfarists specifically equate the good to be promoted with well-being.
 
 The term [well-being](https://plato.stanford.edu/entries/well-being/) is used in philosophy to describe everything that is in itself good for someone—so-called _intrinsic_ or _basic_ welfare goods—as opposed to things that are only _instrumentally_ good. For example, happiness is intrinsically good for you; it directly increases your well-being. In contrast, money can buy many useful things and is thus instrumentally good for you, but does not directly, _in itself_, contribute to your well-being. (We can similarly speak of things that are intrinsically bad for you, like misery, as “welfare bads”.)
 
-However, there is widespread disagreement about what constitutes well-being.[^2] What things are in themselves good for a person? The diverging answers to this question give rise to a variety of theories of well-being, each of which regards different things as the components of well-being. The three main theories of well-being are _hedonism_, _desire theories,_ and _objective list theories_.[^3] The differences between these theories are of primarily theoretical interest; they overlap sufficiently in practice that [the practical implications of utilitarianism](https://www.utilitarianism.net/acting-on-utilitarianism) are unlikely to depend upon which of these, if any, turns out to be the correct view.
+However, there is widespread disagreement about what constitutes well-being.[^2] What things are in themselves good for a person? The diverging answers to this question give rise to a variety of theories of well-being, each of which regards different things as the components of well-being. The three main theories of well-being are _hedonism_, _desire theories,_ and _objective list theories_.[^3] The differences between these theories are of primarily theoretical interest; they overlap sufficiently in practice that [the practical implications of utilitarianism](/acting-on-utilitarianism) are unlikely to depend upon which of these, if any, turns out to be the correct view.
 
 ## Hedonism
 
-The theory of well-being that is built into [classical utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism#the-two-elements-of-classical-utilitarianism) is _hedonism_.[^4]
+The theory of well-being that is built into [classical utilitarianism](/types-of-utilitarianism#the-two-elements-of-classical-utilitarianism) is _hedonism_.[^4]
 
 > **Hedonism is the view that well-being consists in, and only in, the balance of positive over negative conscious experiences.**[^5]
 
@@ -29,7 +29,7 @@ On this view, the only basic welfare goods are pleasant experiences such as enjo
 
 The hedonistic conception of happiness is broad: It covers not only paradigmatic instances of sensory pleasure—such as the experiences of eating delicious food or having sex—but also other positively valenced experiences, such as the experiences of solving a problem, reading a novel, or helping a friend. Hedonists claim that all of these enjoyable experiences are intrinsically valuable. Other goods, such as wealth, health, justice, fairness, and equality, are also valued by hedonists, but they are valued instrumentally. That is, they are only valued to the extent that they increase happiness and reduce suffering.
 
-When hedonism is combined with [impartiality](https://www.utilitarianism.net/types-of-utilitarianism#impartiality), as in classical utilitarianism, hedonism’s scope becomes universal. This means that happiness and suffering are treated as equally important regardless of when, where, or by whom they are experienced. From this follows [sentiocentrism](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#the-expanding-moral-circle), the view that we should extend our moral concern to all _sentient beings_, including humans and most non-human animals, since only they can experience happiness or suffering. Alternatively, non-utilitarian views may accept hedonism but reject impartiality, thus restricting hedonism’s scope to claim that only the happiness of a specified group—or even a single individual[^6]—should “count” morally.
+When hedonism is combined with [impartiality](/types-of-utilitarianism#impartiality), as in classical utilitarianism, hedonism’s scope becomes universal. This means that happiness and suffering are treated as equally important regardless of when, where, or by whom they are experienced. From this follows [sentiocentrism](/utilitarianism-and-practical-ethics#the-expanding-moral-circle), the view that we should extend our moral concern to all _sentient beings_, including humans and most non-human animals, since only they can experience happiness or suffering. Alternatively, non-utilitarian views may accept hedonism but reject impartiality, thus restricting hedonism’s scope to claim that only the happiness of a specified group—or even a single individual[^6]—should “count” morally.
 
 The notion at the heart of hedonism, that happiness is good and suffering is bad, is widely accepted. The simple act of investigating our own conscious experiences through introspection appears to support this view: The goodness of happiness and the badness of suffering are self-evident to those who experience them.[^7] Importantly, happiness seems good (and suffering bad) not simply because they help (or hinder) us in our pursuit of _other_ goods, but because experiencing them is good (or bad) in itself.
 
@@ -42,7 +42,7 @@ Critics of hedonism dispute the first claim by pointing to instances of putative
 
 ### The “Evil Pleasures” Objection
 
-Critics often reject the hedonist claim that all happiness is good and all suffering bad. Consider a sadist who takes pleasure in another’s suffering. Hedonists can allow that sadism is typically _overall_ harmful, as the sadist’s pleasure is unlikely to outweigh the suffering of their victim. This justifies disapproving of sadism in practice, especially with a [multi-level utilitarian view](https://www.utilitarianism.net/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism). Under that view, we might assume that finding the rare exceptions to this rule would have little practical value, whereas the risk of mistakenly permitting harmful sadism means that we would be better off establishing a general prohibition on sadistic acts.
+Critics often reject the hedonist claim that all happiness is good and all suffering bad. Consider a sadist who takes pleasure in another’s suffering. Hedonists can allow that sadism is typically _overall_ harmful, as the sadist’s pleasure is unlikely to outweigh the suffering of their victim. This justifies disapproving of sadism in practice, especially with a [multi-level utilitarian view](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism). Under that view, we might assume that finding the rare exceptions to this rule would have little practical value, whereas the risk of mistakenly permitting harmful sadism means that we would be better off establishing a general prohibition on sadistic acts.
 
 Still, on a purely theoretical level, we may ask: what if there were _many_ sadists, collectively rejoicing in the suffering of a single tortured soul? If their aggregate pleasure outweighs the suffering of the one, then hedonistic utilitarianism implies that this is a good outcome, and the sadists act rightly in torturing their victim. But that seems wrong.
 
@@ -50,7 +50,7 @@ At this point, it is worth distinguishing a couple of subtly different claims th
 
 To reject (i) means rejecting hedonism. But if sadistic pleasure does not benefit the sadist, then this implies that someone who wants to make the sadist worse off could not do that by means of blocking their sadistic pleasure. And that seems mistaken.
 
-Alternatively, one might retain hedonism while respecting our anti-sadist intuitions by instead rejecting (ii), and denying that _benefiting sadists at the cost to their victims_ is reasonable or good. This would involve rejecting utilitarianism, strictly speaking, though a [closely related consequentialist view](https://www.utilitarianism.net/near-utilitarian-alternatives#desert-adjusted-views) which merely gives equal weight to all _innocent_ interests (while discounting illicit interests) remains available, and overlaps with utilitarianism in the vast majority of cases.
+Alternatively, one might retain hedonism while respecting our anti-sadist intuitions by instead rejecting (ii), and denying that _benefiting sadists at the cost to their victims_ is reasonable or good. This would involve rejecting utilitarianism, strictly speaking, though a [closely related consequentialist view](/near-utilitarian-alternatives#desert-adjusted-views) which merely gives equal weight to all _innocent_ interests (while discounting illicit interests) remains available, and overlaps with utilitarianism in the vast majority of cases.
 
 Hedonistic utilitarians might seek to preserve both (i) and (ii) by offering an alternative explanation of our intuitions. For example, we may judge the sadists’ _characters_ to be bad insofar as they enjoy hurting others, and so they seem likely to act wrongly in many other circumstances.[^8]
 
@@ -72,7 +72,7 @@ Still, even after carefully bracketing these confounding factors, many will intu
 
 Roger Crisp advises hedonists to regard these intuitions as being _useful_ rather than _accurate_:
 
-> This is to adopt a strategy similar to that developed by ‘[two-level utilitarians](https://www.utilitarianism.net/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism)’ in response to alleged counter-examples based on common-sense morality. The hedonist will point out the so-called ‘paradox of hedonism’, that pleasure is most effectively pursued indirectly. If I consciously try to maximize my own pleasure, I will be unable to immerse myself in those activities, such as reading or playing games, which do give pleasure. And if we believe that those activities are valuable independently of the pleasure we gain from engaging in them, then we shall probably gain more pleasure overall.[^17]
+> This is to adopt a strategy similar to that developed by ‘[two-level utilitarians](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism)’ in response to alleged counter-examples based on common-sense morality. The hedonist will point out the so-called ‘paradox of hedonism’, that pleasure is most effectively pursued indirectly. If I consciously try to maximize my own pleasure, I will be unable to immerse myself in those activities, such as reading or playing games, which do give pleasure. And if we believe that those activities are valuable independently of the pleasure we gain from engaging in them, then we shall probably gain more pleasure overall.[^17]
 
 Someone committed to hedonism on other grounds may thus remain untroubled by these intuitive objections. Even so, they raise a challenge for the view: if a competing theory yields intuitively more plausible verdicts, why not prefer that view instead? To adequately assess the prospects for hedonism, then, we must first explore the challenges for these rival accounts.
 
@@ -164,7 +164,7 @@ The competing theories of well-being mostly coincide in practice, but this may c
 
 The next chapter discusses _population ethics_, and how to evaluate outcomes in which different numbers of people may exist.
 
-_[Button with link to ‘[Population Ethics](https://www.utilitarianism.net/population-ethics)’ chapter]_
+_[Button with link to ‘[Population Ethics](/population-ethics)’ chapter]_
 
 {{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 
@@ -271,7 +271,7 @@ _[Button with link to ‘[Population Ethics](https://www.utilitarianism.net/popu
      This is Parfit’s suggestion in Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press. For an alternative restriction based on _genuine attraction_, see Heathwood, C. (2019). [Which Desires are Relevant to Well-Being?](https://doi.org/10.1111/nous.12232). _Noûs_.__53(3): 664–688.
 
 [^21]:
-     As argued by [John Stuart Mill](https://www.utilitarianism.net/utilitarian-thinker/john-stuart-mill) in his 1859 book _[On Liberty](https://www.utilitarianism.net/books/on-liberty-john-stuart-mill/1)_.
+     As argued by [John Stuart Mill](/utilitarian-thinker/john-stuart-mill) in his 1859 book _[On Liberty](/books/on-liberty-john-stuart-mill/1)_.
 
 [^22]:
      Rawls, J. (1971). _A Theory of Justice_. Harvard University Press, p. 432.  Some desire theorists might restrict their view to 'hot' desires, that present their objects as being in some way appealing to the subject, in contrast to mere compulsive motivations.  But the counterexample can be adapted to cover the 'hot' desire view as follows: Further suppose that the agent suffers from severe memory loss, so they don’t even appreciate when this desire is satisfied. Still, it is what they want to happen, so much so that they would prefer to count grass (without realizing it) than to pause to take medicine that would restore their cognitive functioning and ability to enjoy themselves (without generating stronger new desires).  Again, this preference seems pathological, and worth overriding for the subject's sake.
