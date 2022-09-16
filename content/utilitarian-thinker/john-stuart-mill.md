@@ -1,9 +1,14 @@
 ---
 title: "John Stuart Mill"
+book: "John Stuart Mill"
+year: "(1806 - 1873)"
 date: 2022-08-08T10:10:59-04:00
 draft: false
 menu: "thinker"
+layout: "book"
 weight: 4
+gradientTop: "#ad5389"
+gradientBottom: "#3c1053"
 ---
 
 {{< inline-image image="/img/thinkers/John-Stuart-Mill.jpg" text="John Stuart Mill" >}}
