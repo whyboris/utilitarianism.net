@@ -631,6 +631,10 @@ hr {
   .selected {
     font-weight: bold;
     pointer-events: none;
+
+    a {
+      pointer-events: none;
+    }
   }
 
   // WARNING !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

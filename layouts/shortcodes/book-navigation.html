@@ -11,11 +11,13 @@
   
     {{ range (index .Site.Menus $frontmatterMenu).Sort.ByWeight }}
 
-      <a href="{{ .URL }}">
-        {{ with .Page }}
-          <li {{ if eq $currentPageTitle .Title }} class="selected"{{ end }}>{{ .Title }}</li>
-        {{ end }}
-      </a>
+      {{ with .Page }}
+      <li {{ if eq $currentPageTitle .Title }} class="selected"{{ end }}>
+        <a href="{{ .RelPermalink }}">
+          {{ .Title }}
+        </a>
+      </li>
+      {{ end }}
     
     {{ end }}
   
