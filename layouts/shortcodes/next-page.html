@@ -1,0 +1,35 @@
+{{/*
+
+    For `next-page` to work, the markdown file will need to have 
+    the key `page` in its front-matter and the `menu` will need
+    to be an array of values. 
+    
+    The algorithm here is hacky: 
+        look at the first element in `menu` array to use its string
+        when looking up the `.Site.Menus`. Loop through the menu 
+        and if the `$index` matches the `page` value, create the link.
+        Note that `page` starts with 1 but `$index` starts with 0
+        so that is how we determine the `next-page` 
+
+*/}}
+
+<div class="next-page-button">
+    {{ $frontmatterMenu := first 1 $.Page.Params.menu }}
+
+    {{ $pageNumber := .Page.Params.page }}
+    
+    {{ range $index, $element := (index .Site.Menus $frontmatterMenu).Sort.ByWeight }}
+
+        {{ if eq $pageNumber $index}}
+
+        <a href="{{ .URL }}">
+            {{ with .Page }}
+                {{ .Title }}
+            {{ end }}
+        </a> →
+        
+        {{ end }}
+
+    {{ end }}
+
+</div>

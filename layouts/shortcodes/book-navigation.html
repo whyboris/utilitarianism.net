@@ -13,7 +13,7 @@
 
       <a href="{{ .URL }}">
         {{ with .Page }}
-          <li {{ if eq $currentPageTitle .Title }} class="selected"{{ end }}>{{ .Title }}</h2>
+          <li {{ if eq $currentPageTitle .Title }} class="selected"{{ end }}>{{ .Title }}</li>
         {{ end }}
       </a>
     
