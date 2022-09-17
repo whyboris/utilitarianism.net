@@ -6,14 +6,13 @@ date: 2022-08-08T10:10:59-04:00
 draft: false
 menu: ["thinker"]
 weight: 1
-page: 1
 layout: "book"
 image: "/img/thinkers/Mozi.jpg"
 gradientTop: "#555136"
 gradientBottom: "#8e8b46"
 ---
 
-{{< inline-image >}}
+{{< thinker-image >}}
 
 Mò Dí (墨翟), better known as Mòzǐ or “Master Mò,” flourished c. 430 BCE in what is now Tengzhou, Shandong Province, China.[^1] Likely an artisan by craft, Mò Dí attracted many dedicated followers and founded the philosophical school of Mohism during China’s Warring States Period (475 - 221 BCE).
 
@@ -48,9 +47,9 @@ The Mohists are also the first to introduce a sophisticated version of conceptua
 * “The task of the benevolent is surely to diligently seek to promote the benefit of the world and eliminate harm to the world and to take this as a model throughout the world. Does it benefit people? Then do it. Does it not benefit people? Then stop.” (_Mòzǐ_ 32: 1, C. Fraser transl.)
 * “Thus the various lords not caring about each other, they inevitably go to war; heads of clans not caring about each other, they inevitably subvert each other; people not caring about each other, they inevitably injure each other; rulers and subjects not caring about each other, they are not generous and loyal; fathers and sons not caring about each other, they are not paternally kind and filially devoted; elder and younger brothers not caring about each other, they are not peaceful and harmonious. The people of the world all not caring about each other, the strong inevitably oppress the weak, the wealthy inevitably humiliate the poor, the noble are inevitably contemptuous of the lowly, and the cunning inevitably deceive the ignorant.” (_Mòzǐ_ 15: 1b, C. Fraser transl.)
 
-{{< all-thinkers >}}
+Written by [Tyler John](https://philpeople.org/profiles/tyler-john-1).
 
-{{< next-page >}}
+{{< all-thinkers >}}
 
 [^1]:
      Fraser, C. (2016). _The Philosophy of the Mòzǐ_: _The First Consequentialists._ New York: Columbia University Press, 6-8.

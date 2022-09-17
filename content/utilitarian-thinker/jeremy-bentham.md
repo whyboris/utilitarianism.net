@@ -6,14 +6,13 @@ date: 2022-08-08T10:10:59-04:00
 draft: false
 menu: ["thinker"]
 weight: 3
-page: 3
 layout: "book"
 image: "/img/thinkers/Jeremy-Bentham.jpg"
 gradientTop: "#9796f0"
 gradientBottom: "#fbc7d4"
 ---
 
-{{< inline-image >}}
+{{< thinker-image >}}
 
 Jeremy Bentham was born in 1748 to a wealthy family. A child prodigy, his father sent him to study at Queen’s College, Oxford University, aged 12. Although he never practiced, Bentham trained as a lawyer and wrote extensively on law and legal reform. He died in 1832 at the age of 84 and requested his body and head to be preserved for scientific research. They are currently on display at University College London.
 
@@ -50,7 +49,7 @@ Bentham also applied the principle of utility to the reform of political institu
 * “Create all the happiness you are able to create: remove all the misery you are able to remove. Every day will allow you to add something to the pleasure of others, or to diminish something of their pains.” (Bentham’s advice to a young girl, 1830)
 * “The day may come when the non-human part of the animal creation will acquire the rights that never could have been withheld from them except by the hand of tyranny. The French have already discovered that the blackness of the skin is no reason why a human being should be abandoned without redress to the whims of a tormentor. Perhaps it will some day be recognised that the number of legs, the hairiness of the skin, or the possession of a tail, are equally insufficient reasons for abandoning to the same fate a creature that can feel? What else could be used to draw the line? Is it the faculty of reason or the possession of language? But a full-grown horse or dog is incomparably more rational and conversable than an infant of a day, or a week, or even a month old. Even if that were not so, what difference would that make? The question is not Can they reason? Or Can they talk? but Can they suffer.” ([An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf), 1789, p. 144)
 
-{{< next-page >}}
+{{< all-thinkers >}}
 
 [^1]:
      Cf. Bentham, J. (1821). On the Liberty of the Press, and Public Discussion.

@@ -7,13 +7,12 @@ draft: false
 menu: ["thinker"]
 layout: "book"
 weight: 4
-page: 4
 image: "/img/thinkers/John-Stuart-Mill.jpg"
 gradientTop: "#ad5389"
 gradientBottom: "#3c1053"
 ---
 
-{{< inline-image >}}
+{{< thinker-image >}}
 
 John Stuart Mill was born in 1806, in London. He was the son of James Mill, a friend of [Jeremy Bentham](https://docs.google.com/document/d/1Mi_jB3JNfyEv-roBL2Z7iiCV1KXLS2Mza92k1tpuCfk/edit#)’s who shared many of his principles. James intended that his son carry on the radical utilitarian empiricist tradition, and this was reflected in his upbringing: John learned Greek and arithmetic at 3, and helped to edit his father’s book (_the History of India_) at 11.[^1] 
 
@@ -54,7 +53,7 @@ Mill’s own thought departed from Bentham’s in his conception of happiness. B
 * “It is better to be a human dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied. And if the fool, or the pig, is of a different opinion, it is because they only know their own side of the question. The other party to the comparison knows both sides.” ([Utilitarianism](/books/utilitarianism-john-stuart-mill/2), 1863)
 * “What, in unenlightened societies, colour, race, religion, or in the case of a conquered country, nationality, are to some men, sex is to all women; a peremptory exclusion from almost all honourable occupations, but either such as cannot be fulfilled by others, or such as those others do not think worthy of their acceptance.” ([The Subjection of Women](/books/the-subjection-of-women-john-stuart-mill/4), 1869)
 
-{{< next-page >}}
+{{< all-thinkers >}}
 
 [^1]:
      Cf. Crisp, R. (1997). _Routledge Philosophy Guidebook to Mill on Utilitarianism_. New York: Routledge., p. 2

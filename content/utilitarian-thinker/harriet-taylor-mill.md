@@ -6,14 +6,13 @@ date: 2022-08-08T10:10:59-04:00
 draft: false
 menu: ["thinker"]
 weight: 5
-page: 5
 layout: "book"
 image: "/img/thinkers/Harriet-Taylor-Mill.jpg"
 gradientTop: "#5614B0"
 gradientBottom: "#DBD65C"
 ---
 
-{{< inline-image >}}
+{{< thinker-image >}}
 
 Harriet Taylor Mill (née Hardy) was born in 1807 in Walworth, South London, as the daughter of a midwife. She was educated at home and became interested in poetry and writing at a young age. She married John Taylor, a pharmacist, aged 18. Even before she met John Stuart Mill, she was writing extensively on topics such as women’s rights (particularly in marriage, domestic violence and education), politics, ethics and religious toleration. At the same time, she was a mother to three children.
 
@@ -47,7 +46,7 @@ Taylor Mill is most famous, however, for her views on women’s rights, expresse
 * “There is no inherent reason or necessity that all women should voluntarily choose to devote their lives to one animal function and its consequences. Numbers of women are wives and mothers only because there is no other career open to them, no other occupation for their feelings or activities. Every improvement in their education, and enlargement of their faculties, everything which renders them more qualified for any other mode of life, increases the number of those to whom it is an injury and an oppression to be denied the choice. To say that women must be excluded from active life because maternity disqualifies them for it, is in fact to say that every other career should be forbidden them, in order that maternity may be their only resource.” ([The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill), 1851)
 * “(...) if we look to the great majority of cases, the effect of women’s legal inferiority, on the character both of women and of men, must be painted in far darker colours. We do not speak here of the grosser brutalities, nor of the man’s power to seize on the woman’s earnings, or compel her to live with him against her will. We do not address ourselves to any one who requires to have it proved that these things should be remedied. We suppose average cases, in which there is neither complete union nor complete disunion of feelings and character; and we affirm, that, in such cases, the influence of the dependence on the woman’s side is demoralising to the character of both.” ([The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill), 1851)
 
-{{< next-page >}}
+{{< all-thinkers >}}
 
 [^1]:
      From an 1854 letter John Stuart Mill sent Taylor Mill.

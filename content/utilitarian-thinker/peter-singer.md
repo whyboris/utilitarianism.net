@@ -12,7 +12,7 @@ gradientTop: "#95524a"
 gradientBottom: "#c9d5e5"
 ---
 
-{{< inline-image >}}
+{{< thinker-image >}}
 
 Singer was born in 1946, Melbourne, Australia, to an Austrian Jewish family that emigrated from Austria to escape persecution by the Nazis. He studied law, history and philosophy at the University of Melbourne, and majored in philosophy. He later did a B.Phil at Oxford University, where he associated with a vegetarian student group and became a vegetarian himself. Around this time he wrote _[Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book))_ (1975), which has been called the “bible” of the animal liberation movement.[^1]
 
@@ -46,6 +46,8 @@ Singer has also campaigned against [global poverty](/acting-on-utilitarianism#gl
 * “The only justifiable stopping place for the expansion of altruism is the point at which all whose welfare can be affected by our actions are included within the circle of altruism. This means that all beings with the capacity to feel pleasure or pain should be included; we can improve their welfare by increasing their pleasures and diminishing their pains.” (The Expanding Circle: Ethics, Evolution, and Moral Progress, 1981)
 * “Racists violate the principle of equality by giving greater weight to the interests of members of their own race when there is a clash between their interests and the interests of those of another race. Sexists violate the principle of equality by favoring the interests of their own sex. Similarly, speciesists allow the interests of their own species to override the greater interests of members of other species. The pattern is identical in each case.” ([Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book)), 2002, p. 9)
 * “When we buy new clothes not to keep ourselves warm but to look “well-dressed” we are not providing for any important need. We would not be sacrificing anything significant if we were to continue to wear our old clothes, and give the money to famine relief. By doing so, we would be preventing another person from starving. It follows from what I have said earlier that we ought to give money away, rather than spend it on clothes which we do not need to keep us warm. To do so is not charitable, or generous. Nor is it the kind of act which philosophers and theologians have called “supererogatory” - an act which it would be good to do, but not wrong not to do. On the contrary, we ought to give the money away, and it is wrong not to do so.” ([Famine, Affluence and Morality](https://en.wikipedia.org/wiki/Famine,_Affluence,_and_Morality), 1972)
+
+{{< all-thinkers >}}
 
 [^1]:
      Villanueva, G. (2016). [‘The Bible’ of the animal movement: Peter Singer and animal liberation, 1970–1976](https://www.tandfonline.com/doi/full/10.1080/14490854.2016.1202372). _History Australia_.__13(3): 399–414., p. 399.

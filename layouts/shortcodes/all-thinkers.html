@@ -1,9 +1,10 @@
+<hr>
+
 <div class="all-thinkers-container">
 
     {{ range .Site.Menus.thinker }}
-    <div class="thinker-container">
-
-        <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+    <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+        <div class="thinker-container">
 
             <div class="image">
                 {{ with .Page }}
@@ -11,13 +12,12 @@
                 {{ end }}
             </div>
 
-            <div class="title">
+            <div class="name">
               {{ .Name }}
             </div>
 
-        </a>
-
-    </div>
+        </div>
+    </a>
     {{ end }}
 
 </div>
