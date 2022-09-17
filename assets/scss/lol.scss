@@ -85,6 +85,40 @@ body {
 
 // -- END of homepage stuff
 
+.all-thinkers-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  .thinker-container {
+    border-radius: 5px;
+    display: inline-block;
+    padding: 15px;
+
+    &:hover {
+      background-color: #f5f5f5;
+
+      .image {
+        filter: none;
+      }
+    }
+  }
+
+  .name {
+    text-align: center;
+  }
+  
+  .image {
+    filter: saturate(0%);
+    width: 150px;
+  }
+
+  a {
+    text-decoration: none;
+    font-size: 14px;
+  }
+}
+
 .next-page-button {
   text-align: right;
 }
@@ -597,6 +631,10 @@ hr {
   .selected {
     font-weight: bold;
     pointer-events: none;
+
+    a {
+      pointer-events: none;
+    }
   }
 
   // WARNING !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
