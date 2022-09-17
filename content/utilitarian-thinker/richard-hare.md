@@ -4,8 +4,9 @@ book: "Richard M. Hare"
 year: "1919 - 2002"
 date: 2022-08-08T10:10:59-04:00
 draft: false
-menu: "thinker"
+menu: ["thinker"]
 weight: 7
+page: 7
 layout: "book"
 gradientTop: "#0f0c29"
 gradientBottom: "#302b63"
@@ -92,6 +93,8 @@ What Hare has given us is not a solution to the world’s problems but a set of 
 ### About the Author
 
 **[Jonathan Baron](https://www.sas.upenn.edu/~baron/)** is a retired professor of psychology at the University of Pennsylvania. His main research interest is moral judgment, particularly citizens' judgments about public policy. He has published books and articles concerning utilitarianism and its applications, as well as psychology.
+
+{{< next-page >}}
 
 [^1]:
      Singer, P. (2002). [R. M. Hare's Achievements in Moral Philosophy](https://doi.org/10.1017/S0953820800003629). _Utilitas_, 14(3): 309–317.

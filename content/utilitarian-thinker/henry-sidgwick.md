@@ -4,8 +4,9 @@ book: "Henry Sidgwick"
 year: "1838 - 1900"
 date: 2022-08-08T10:10:59-04:00
 draft: false
-menu: "thinker"
+menu: ["thinker"]
 weight: 6
+page: 6
 layout: "book"
 gradientTop: "#093028"
 gradientBottom: "#237A57"
@@ -42,6 +43,8 @@ Sidgwick was also a committed social reformer. His primary interest was the expa
 * “the good of any one person is no more important from the point of view (if I may put it like this) of the universe than the good of any other; unless there are special grounds for believing that more good is likely to occur in the one case than in the other.” ([The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf), 1884, p. 186)
 * “Who are the ‘all’ whose happiness is to be taken into account? Should our concern extend to all the beings capable of pleasure and pain whose feelings we can affect? Or should we confine our view to human happiness? Bentham and Mill adopt the former view, as do (I believe) utilitarians generally; and it is obviously more in accordance with the universality of their principle. A utilitarian thinks it is his duty to aim at the good universal (...) interpreted and defined as ‘happiness ‘or ‘pleasure’; and it seems arbitrary to exclude from this project any pleasure of any sentient being.” ([The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf), 1884, p. 201)
 * “We think of a philosopher as trying to do more than merely define and formulate the common moral opinions of mankind. His function is to tell men not what they do think but what they ought to think; he is expected to go beyond common sense in his premises, and is allowed some divergence from it in his conclusions. (...) his task is to state in full strength and clarity the primary intuitions of reason which can, handled scientifically, systematise and correct the common moral thought of mankind.” ([The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf), 1884, p. 182)
+
+{{< next-page >}}
 
 [^1]:
      Schultz, B. (2019). [Henry Sidgwick](https://plato.stanford.edu/entries/sidgwick/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
