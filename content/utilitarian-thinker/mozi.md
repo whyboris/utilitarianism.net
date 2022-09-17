@@ -8,11 +8,12 @@ menu: ["thinker"]
 weight: 1
 page: 1
 layout: "book"
+image: "/img/thinkers/Mozi.jpg"
 gradientTop: "#555136"
 gradientBottom: "#8e8b46"
 ---
 
-{{< inline-image image="/img/thinkers/Mozi.jpg" text="Mozi" >}}
+{{< inline-image >}}
 
 Mò Dí (墨翟), better known as Mòzǐ or “Master Mò,” flourished c. 430 BCE in what is now Tengzhou, Shandong Province, China.[^1] Likely an artisan by craft, Mò Dí attracted many dedicated followers and founded the philosophical school of Mohism during China’s Warring States Period (475 - 221 BCE).
 
@@ -46,6 +47,8 @@ The Mohists are also the first to introduce a sophisticated version of conceptua
 * “The benevolent person planning on behalf of the world is like this… If the world is poor, he undertakes to enrich it; if the people are few, he undertakes to increase their number; if the multitude is in disorder, he undertakes to put them in order. When he is in these situations, there are indeed cases when his strength is insufficient, his resources exhausted, or his knowledge lacking, and then he gives up. In no case would he dare spare any effort, conceal any scheme, or withhold any benefit without pursuing them on behalf of the world.” (_Mòzǐ_ 25: 1, C. Fraser transl.)
 * “The task of the benevolent is surely to diligently seek to promote the benefit of the world and eliminate harm to the world and to take this as a model throughout the world. Does it benefit people? Then do it. Does it not benefit people? Then stop.” (_Mòzǐ_ 32: 1, C. Fraser transl.)
 * “Thus the various lords not caring about each other, they inevitably go to war; heads of clans not caring about each other, they inevitably subvert each other; people not caring about each other, they inevitably injure each other; rulers and subjects not caring about each other, they are not generous and loyal; fathers and sons not caring about each other, they are not paternally kind and filially devoted; elder and younger brothers not caring about each other, they are not peaceful and harmonious. The people of the world all not caring about each other, the strong inevitably oppress the weak, the wealthy inevitably humiliate the poor, the noble are inevitably contemptuous of the lowly, and the cunning inevitably deceive the ignorant.” (_Mòzǐ_ 15: 1b, C. Fraser transl.)
+
+{{< all-thinkers >}}
 
 {{< next-page >}}
 

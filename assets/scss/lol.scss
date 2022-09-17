@@ -85,6 +85,16 @@ body {
 
 // -- END of homepage stuff
 
+.all-thinkers-container {
+  .thinker-container {
+    display: inline-block;
+  }
+  
+  .image {
+    width: 150px;
+  }
+}
+
 .next-page-button {
   text-align: right;
 }

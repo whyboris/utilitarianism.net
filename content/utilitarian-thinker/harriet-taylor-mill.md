@@ -8,11 +8,12 @@ menu: ["thinker"]
 weight: 5
 page: 5
 layout: "book"
+image: "/img/thinkers/Harriet-Taylor-Mill.jpg"
 gradientTop: "#5614B0"
 gradientBottom: "#DBD65C"
 ---
 
-{{< inline-image image="/img/thinkers/Harriet-Taylor-Mill.jpg" text="Harriet Taylor Mill" >}}
+{{< inline-image >}}
 
 Harriet Taylor Mill (née Hardy) was born in 1807 in Walworth, South London, as the daughter of a midwife. She was educated at home and became interested in poetry and writing at a young age. She married John Taylor, a pharmacist, aged 18. Even before she met John Stuart Mill, she was writing extensively on topics such as women’s rights (particularly in marriage, domestic violence and education), politics, ethics and religious toleration. At the same time, she was a mother to three children.
 

@@ -8,11 +8,12 @@ menu: ["thinker"]
 weight: 2
 page: 2
 layout: "book"
+image: "/img/thinkers/Susanna-Newcome.jpg"
 gradientTop: "#12c2e9"
 gradientBottom: "#f64f59"
 ---
 
-{{< inline-image image="/img/thinkers/Susanna-Newcome.jpg" text="Susanna Newcome" >}}
+{{< inline-image >}}
 
 Susanna Newcome (1685-1763) was an eighteenth-century philosopher and theologian who lived and worked in England. Her most significant work, _An Enquiry into the Evidence of the Christian Religion_, contains an early formulation of utilitarian thought. In this short book, Newcome synthesizes contemporary developments in natural theology and moral psychology to offer a utilitarian account of the nature of ethics and our moral duties.
 

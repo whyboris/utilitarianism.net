@@ -1,3 +1,5 @@
 <div class="thinker">
-  <img src="{{ .Get "image" }}" alt="{{ .Get "text"}}" title="{{ .Get "text" }}"></img>
+  {{ with .Page }}
+  <img src="{{ .Params.image }}" alt="{{ .Params.title }}" title="{{ .Params.title }}"></img>
+  {{ end }}
 </div>

@@ -8,11 +8,12 @@ menu: ["thinker"]
 weight: 7
 page: 7
 layout: "book"
+image: "/img/thinkers/Richard-M-Hare.jpg"
 gradientTop: "#0f0c29"
 gradientBottom: "#302b63"
 ---
 
-{{< inline-image image="/img/thinkers/Richard-M-Hare.jpg" text="Richard M Hare" >}}
+{{< inline-image >}}
 
 Richard M. Hare (1919 - 2002) is usually acknowledged to be one of the major moral thinkers of the 20th century. After being a Japanese prisoner of war for most of World War II, he completed his education at Oxford, later joining the faculty and becoming a professor. In 1983 he moved to the University of Florida but still kept his ties with Oxford. He had many students, including [Peter Singer](/utilitarian-thinker/peter-singer). At a memorial service for Hare in 2002, Singer ascribed to him three major achievements in moral philosophy, namely “restoring reason to moral argument, distinguishing intuitive and critical levels of moral thinking, and pioneering the development of practical or applied ethics”.[^1]
 

@@ -7,11 +7,12 @@ draft: false
 menu: "thinker"
 weight: 8
 layout: "book"
+image: "/img/thinkers/Peter-Singer.jpg"
 gradientTop: "#95524a"
 gradientBottom: "#c9d5e5"
 ---
 
-{{< inline-image image="/img/thinkers/Peter-Singer.jpg" text="Peter Singer" >}}
+{{< inline-image >}}
 
 Singer was born in 1946, Melbourne, Australia, to an Austrian Jewish family that emigrated from Austria to escape persecution by the Nazis. He studied law, history and philosophy at the University of Melbourne, and majored in philosophy. He later did a B.Phil at Oxford University, where he associated with a vegetarian student group and became a vegetarian himself. Around this time he wrote _[Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book))_ (1975), which has been called the “bible” of the animal liberation movement.[^1]
 

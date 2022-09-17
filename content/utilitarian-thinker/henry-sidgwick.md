@@ -8,11 +8,12 @@ menu: ["thinker"]
 weight: 6
 page: 6
 layout: "book"
+image: "/img/thinkers/Henry-Sidgwick.jpg"
 gradientTop: "#093028"
 gradientBottom: "#237A57"
 ---
 
-{{< inline-image image="/img/thinkers/Henry-Sidgwick.jpg" text="Henry Sidgwick" >}}
+{{< inline-image >}}
 
 Sidgwick was born in 1838 to a wealthy family in Yorkshire, England. He studied at Cambridge as an undergraduate, where he stayed for the rest of his life. While he is best known as a moral philosopher, he was also a political economist, epistemologist, classicist, theologist, educator, political theorist and parapsychologist (studying psychic phenomena, including telepathy and survival after death).[^1] At Cambridge, Sidgwick became a part of “the Apostles”: a secret society whose members discussed topics including ethics, truth and God. He married Eleanor Mildred Balfour, a scientist with whom he advocated to expand higher education for women and conducted parapsychological research.
 

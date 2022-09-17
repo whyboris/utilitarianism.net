@@ -8,11 +8,12 @@ menu: ["thinker"]
 weight: 3
 page: 3
 layout: "book"
+image: "/img/thinkers/Jeremy-Bentham.jpg"
 gradientTop: "#9796f0"
 gradientBottom: "#fbc7d4"
 ---
 
-{{< inline-image image="/img/thinkers/Jeremy-Bentham.jpg" text="Jeremy Bentham" >}}
+{{< inline-image >}}
 
 Jeremy Bentham was born in 1748 to a wealthy family. A child prodigy, his father sent him to study at Queen’s College, Oxford University, aged 12. Although he never practiced, Bentham trained as a lawyer and wrote extensively on law and legal reform. He died in 1832 at the age of 84 and requested his body and head to be preserved for scientific research. They are currently on display at University College London.
 

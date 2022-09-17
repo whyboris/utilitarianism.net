@@ -1,0 +1,23 @@
+<div class="all-thinkers-container">
+
+    {{ range .Site.Menus.thinker }}
+    <div class="thinker-container">
+
+        <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+
+            <div class="image">
+                {{ with .Page }}
+                <img src="{{ .Params.image }}">
+                {{ end }}
+            </div>
+
+            <div class="title">
+              {{ .Name }}
+            </div>
+
+        </a>
+
+    </div>
+    {{ end }}
+
+</div>

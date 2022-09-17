@@ -8,11 +8,12 @@ menu: ["thinker"]
 layout: "book"
 weight: 4
 page: 4
+image: "/img/thinkers/John-Stuart-Mill.jpg"
 gradientTop: "#ad5389"
 gradientBottom: "#3c1053"
 ---
 
-{{< inline-image image="/img/thinkers/John-Stuart-Mill.jpg" text="John Stuart Mill" >}}
+{{< inline-image >}}
 
 John Stuart Mill was born in 1806, in London. He was the son of James Mill, a friend of [Jeremy Bentham](https://docs.google.com/document/d/1Mi_jB3JNfyEv-roBL2Z7iiCV1KXLS2Mza92k1tpuCfk/edit#)’s who shared many of his principles. James intended that his son carry on the radical utilitarian empiricist tradition, and this was reflected in his upbringing: John learned Greek and arithmetic at 3, and helped to edit his father’s book (_the History of India_) at 11.[^1] 
 
