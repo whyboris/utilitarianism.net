@@ -4,9 +4,10 @@ book: "John Stuart Mill"
 year: "(1806 - 1873)"
 date: 2022-08-08T10:10:59-04:00
 draft: false
-menu: "thinker"
+menu: ["thinker"]
 layout: "book"
 weight: 4
+page: 4
 gradientTop: "#ad5389"
 gradientBottom: "#3c1053"
 ---
@@ -51,6 +52,8 @@ Mill’s own thought departed from Bentham’s in his conception of happiness. B
 * “The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others. His own good, either physical or moral, is not a sufficient warrant.” ([On Liberty](/books/on-liberty-john-stuart-mill/1), 1859)
 * “It is better to be a human dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied. And if the fool, or the pig, is of a different opinion, it is because they only know their own side of the question. The other party to the comparison knows both sides.” ([Utilitarianism](/books/utilitarianism-john-stuart-mill/2), 1863)
 * “What, in unenlightened societies, colour, race, religion, or in the case of a conquered country, nationality, are to some men, sex is to all women; a peremptory exclusion from almost all honourable occupations, but either such as cannot be fulfilled by others, or such as those others do not think worthy of their acceptance.” ([The Subjection of Women](/books/the-subjection-of-women-john-stuart-mill/4), 1869)
+
+{{< next-page >}}
 
 [^1]:
      Cf. Crisp, R. (1997). _Routledge Philosophy Guidebook to Mill on Utilitarianism_. New York: Routledge., p. 2

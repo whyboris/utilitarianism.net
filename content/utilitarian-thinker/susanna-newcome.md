@@ -4,8 +4,9 @@ book: "Susanna Newcome"
 year: "1685 - 1763"
 date: 2022-08-08T10:10:59-04:00
 draft: false
-menu: "thinker"
+menu: ["thinker"]
 weight: 2
+page: 2
 layout: "book"
 gradientTop: "#12c2e9"
 gradientBottom: "#f64f59"
@@ -105,7 +106,9 @@ _Written by Patrick Connolly_
 
 ### About the Author
 
-**[Patrick Connolly](https://sites.google.com/site/patrickjconnolly3/)**is an Assistant Professor of philosophy at Lehigh University.  His research focuses on issues at the intersection of philosophy, theology, and the natural sciences in seventeenth-century Europe.  While much of his past work focuses on the thought of John Locke and Isaac Newton, he has also pursued projects relating to a number of lesser-known figures including Susanna Newcome.
+**[Patrick Connolly](https://sites.google.com/site/patrickjconnolly3/)** is an Assistant Professor of philosophy at Lehigh University.  His research focuses on issues at the intersection of philosophy, theology, and the natural sciences in seventeenth-century Europe.  While much of his past work focuses on the thought of John Locke and Isaac Newton, he has also pursued projects relating to a number of lesser-known figures including Susanna Newcome.
+
+{{< next-page >}}
 
 [^1]:
      Unfortunately, very little is known about her biography. The key facts and sources are collected in Patrick J. Connolly (2019). “Susanna Newcome’s Cosmological Argument”. _British Journal for the History of Philosophy_. 27: 842–859. Some further details are provided in Patrick J. Connolly (2021). “Susanna Newcome and the Origins of Utilitarianism”. _Utilitas_. 33: 384–398, from which the main lines of thought in this article are drawn.
