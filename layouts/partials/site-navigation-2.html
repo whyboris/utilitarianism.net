@@ -15,12 +15,12 @@
 
         {{ if .Site.Menus.thinker }}
 
-          <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+          <ul>
             
             {{ range .Site.Menus.thinker }}
 
             <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
-              <li class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+              <li>
 
                 <div class="title">
                   {{ .Name }}
@@ -61,12 +61,12 @@
     
           {{ if .Site.Menus.book }}
     
-            <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+            <ul>
               
               {{ range .Site.Menus.book }}
     
               <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
-                <li class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+                <li>
                   {{ with .Page }}
                     <div class="title">
                       {{ .Params.book }}
@@ -95,18 +95,18 @@
 
     <div class="dropdown header-navigation-item">
     
-        <span>Study guides</span>
+        <span class="no-pointer">Study guides</span>
     
         <div class="table-of-contents dropdown-content">
     
           {{ if .Site.Menus.guide }}
     
-            <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+            <ul>
               
               {{ range .Site.Menus.guide }}
     
               <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
-                <li class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+                <li>
                   {{ with .Page }}
                   {{ .Params.menuTitle }}
                   {{ end }}

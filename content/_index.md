@@ -64,6 +64,10 @@ Addressing these problems may involve [donating generously to effective charitie
 
 {{< small-button url="acting-on-utilitarianism" text="Read: Acting on Utilitarianism" >}}
 
+### Utilitarian Thinkers
+
+{{< all-thinkers >}}
+
 </div>
 
 <div class="dark-background">
@@ -79,6 +83,10 @@ Addressing these problems may involve [donating generously to effective charitie
 </div>
 
 <div class="homepage-center">
+
+## Guest Essays
+
+_guest essay links will go here_
 
 ## Who We Are
 

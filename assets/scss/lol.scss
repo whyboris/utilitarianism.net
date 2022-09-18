@@ -23,6 +23,10 @@ body {
     font-size: 16px;
     letter-spacing: 0.03em;
     line-height: 2em;
+
+    a {
+      color: #0b3b5b;
+    }
   }
     
   .homepage-center {
@@ -111,6 +115,10 @@ body {
   .image {
     filter: saturate(0%);
     width: 150px;
+
+    img {
+      width: 100%;
+    }
   }
 
   a {
@@ -358,10 +366,8 @@ summary::-webkit-details-marker {
   max-width: 950px;
   margin: 0 auto;
 
-  nav {
-    div {
-      transform: translate(0, 10px);
-    }
+  .nudge-down {
+    transform: translate(0, 10px);
   }
 
   .i18n-icon {
@@ -403,8 +409,12 @@ summary::-webkit-details-marker {
     }
   
     .dropdown-content {
+
+      left: 50%;
+      transform: translateX(-50%);
+
       background-color: #f9f9f9;
-      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      box-shadow: 0px 4px 16px 0px rgba(0,0,0,0.2);
       display: none;
       // max-width: 420px;
       min-width: 320px;
@@ -435,7 +445,7 @@ summary::-webkit-details-marker {
       }
 
       li {
-        margin: 14px;
+        margin: 0 14px 14px;
       }
     }
     
@@ -446,6 +456,10 @@ summary::-webkit-details-marker {
 }
 
 // END OF WEBSITE HEADER ^^^^^^^^^^^^^^^^^^^^^^^
+
+.high-z-index {
+  z-index: 10;
+}
 
 .website-header-2 {
   background-color: #f5f5f5;
@@ -463,6 +477,10 @@ summary::-webkit-details-marker {
   justify-content: center;
   margin: 0 auto;
   width: 950px;
+
+  .dropdown {
+    position: relative;
+  }
 }
 
 .temp-navigation-hack {
@@ -512,6 +530,10 @@ table {
   th {
     border: 1px solid #aaa;
   }
+}
+
+.no-pointer {
+  cursor: default;
 }
 
 .article-body {
@@ -638,6 +660,10 @@ hr {
       opacity: 0.9;
     }
   }
+}
+
+.large-hit-box {
+  padding: 10px 0;
 }
 
 /* ========================== TABLE OF CONTENTS ========================= */
