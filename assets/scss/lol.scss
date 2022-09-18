@@ -310,9 +310,22 @@ summary::-webkit-details-marker {
   margin-bottom: 40px
 }
 
+// FOOTER ============================
+
 .site-footer {
   background-color: #363636;
-  padding: 50px;
+  padding-top: 50px;
+}
+
+.footer-navigation {
+  display: flex;
+  justify-content: center;
+  position: relative;
+
+
+  li::marker {
+    color: #999999;
+  }
 
   .footer-heading {
     font-weight: bold;
@@ -326,32 +339,46 @@ summary::-webkit-details-marker {
 
     ol {
       transform: translate(-16px, -16px);
-      max-width: 40%;
+      ul {
+        transform: translate(-16px, 0);
+      }
     }
 
     a {
+      margin-left: 6px;
       color: white;
     }
   }
+}
 
-  .disclaimer {
-    color: #cccccc;
-    font-size: 10px;
-    font-family: sans-serif;
-    margin-top: 40px;
+.disclaimer {
+  bottom: 20px;
+  margin-top: 16px;
+  padding-top: 20px;
+  position: relative;
+  text-align: center;
+  
+  .oxford-container {
+    background: #012147;
+    border-radius: 50%;
+    box-sizing: border-box;
+    margin: 0 auto;
+    max-height: 90px;
+    max-width: 90px;
+    overflow: hidden;
+    padding: 8px;
   }
-
-  .copyright {
+  
+  .disclaimer-text {
+    color: #eeeeee;
     font-family: sans-serif;
-    margin-top: 16px;
-    font-size: 20px;
-    color: white;
-
-    span {
-      font-size: 14px;
-    }
+    font-size: 12px;
+    line-height: 26px;
+    margin-top: 10px;
   }
 }
+
+// END OF FOOTER ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .main-body-class {
   background-color: white;
