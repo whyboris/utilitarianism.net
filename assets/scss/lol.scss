@@ -428,6 +428,12 @@ summary::-webkit-details-marker {
 
   .i18n-container {
     margin: 20px 0 0;
+    position: relative;
+
+    .language-dropdown {
+      min-width: 100px !important;
+      max-width: 100px !important;
+    }
   }
 
   .dropdown {  

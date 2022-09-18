@@ -55,9 +55,9 @@
         27 58 63 125 37 67 70 119 74 115 3 -4 11 -38 17 -77z"></path></g></svg>
     </div>
 
-    <div class="table-of-contents dropdown-content">
+    <div class="table-of-contents dropdown-content language-dropdown">
 
-        <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+        <ul>
             {{ range .Translations }}
             <li>
                 <a class="language-link" href="{{ .RelPermalink }}">{{ .Lang }}</a>
