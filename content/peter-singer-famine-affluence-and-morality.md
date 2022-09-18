@@ -1,34 +1,40 @@
 ---
-title: "Study Guide: Singer's 'Famine, Affluence, and Morality'"
+title: "Study Guide: Peter Singer's 'Famine, Affluence, and Morality'"
+book: "Study Guide: Peter Singer's 'Famine, Affluence, and Morality'"
+menuTitle: "Famine, Affluence, and Morality"
 date: 2022-08-08T10:10:59-04:00
 updated: 2022, Sept 6th - from Google Doc
 draft: false
 menu: "guide"
 weight: 1
+type: _default
+layout: book
+gradientTop: "#0c3b5b"
+gradientBottom: "#295573"
 ---
-
 
 {{< TOC >}}
 
+## Introduction
+
 [Peter Singer](/utilitarian-thinker/peter-singer)'s '[Famine, Affluence, and Morality](https://www.givingwhatwecan.org/get-involved/videos-books-and-essays/famine-affluence-and-morality-peter-singer/)'[^1] is widely regarded as one of the most important and influential texts in applied ethics. This study guide explains Singer's central argument, explores possible objections, and clarifies common misunderstandings.
 
-
-## The Argument 
+## The Argument
 
 Singer argues that most of us in affluent societies are making a terrible moral mistake. When we look at distant suffering—such as results from global poverty, famine, or disease—we tend to think that helping is morally _optional_, or what philosophers call "[supererogatory](https://plato.stanford.edu/entries/supererogation/)". Even if we could very easily [give more to effective charities](/acting-on-utilitarianism#charitable-giving) to help, we think that to do so would go "above and beyond the call of duty". It would be _generous_ to give more, we think, but hardly _required_. We assume it is perfectly fine to instead spend our money on expensive clothes, travel, entertainment, or other luxuries. But Singer argues that this assumption is mistaken. Instead, he argues, it is seriously morally wrong to live high while others die.[^2]
 
 Singer's argument for this conclusion is straightforward, resting largely on a key moral principle that we will call Singer's _Rescue Principle_. The argument may be summarized as follows:[^3]
 
 > P1. Suffering and death from lack of food, shelter, or medical care are very bad.
-> 
+>
 > P2. We can prevent such suffering and death by donating to effective charities (in place of consumer purchases).
-> 
+>
 > P3. Many of our consumer purchases are morally insignificant: we could give them up without thereby sacrificing anything morally significant.
-> 
-> P4. _The Rescue Principle:_ If it is in our power to prevent something very bad from happening, without thereby sacrificing anything morally significant, we ought, morally, to do it.[^4] 
-> 
-> Therefore, 
-> 
+>
+> P4. _The Rescue Principle:_ If it is in our power to prevent something very bad from happening, without thereby sacrificing anything morally significant, we ought, morally, to do it.[^4]
+>
+> Therefore,
+>
 > C. We ought, morally, to donate to effective charities rather than making morally insignificant consumer purchases.
 
 Note that, although Singer is a utilitarian, this argument does not rely upon utilitarianism as a premise. P1 - P4 are all claims that non-utilitarians (and even non-consequentialists) could accept.
@@ -37,47 +43,39 @@ This is a really striking argument. The four premises each seem perfectly plausi
 
 Could such a radical conclusion really be true? You are probably already trying to think of ways to dismiss it. But it is not enough to simply reject the conclusion. Since the conclusion logically follows from the premises, to reject it you must show one (or more) of the premises to be false.
 
+## Assessing the Premises
 
-## Assessing the Premises 
+### Premise 1: Badness
 
+The first premise claims that _suffering and death are very bad_. That is hard to deny. Any plausible ethical theory—whether utilitarianism, deontology, virtue ethics, etc.—will agree that, all else being equal, suffering and death are bad,[^6] especially suffering that is extreme, involuntary, and uncompensated.
 
-### Premise 1: Badness 
-
-The first premise claims that _suffering and death are very bad_. That is hard to deny. Any plausible ethical theory—whether utilitarianism, deontology, virtue ethics, etc.—will agree that, all else being equal, suffering and death are bad,[^6] especially suffering that is extreme, involuntary, and uncompensated. 
-
-
-### Premise 2: Preventability 
+### Premise 2: Preventability
 
 The second premise is similarly secure: _We can prevent suffering and death by donating to effective charities_. Some “aid skeptics” are critical of foreign aid programs. This might suggest that we just do not know whether a given charity actually does any good. Some charitable interventions, on closer examination, even turn out to be [counterproductive](https://80000hours.org/articles/can-you-guess/). However, while many charities have little impact, the most _effective_ charities do a remarkable amount of good. Fortunately, finding effective charities is easy by consulting reputable sources such as [GiveWell](https://www.givewell.org/)'s in-depth charity evaluations. Even prominent aid skeptics [do not deny that GiveWell's top-rated charities are genuinely effective](https://blog.givewell.org/2015/11/06/the-lack-of-controversy-over-well-targeted-aid/). So there is no real question that well-targeted donations can be expected to prevent a lot of suffering and death. (Of course, the argument will not apply to anyone who lacks the resources to be able to make any such donations. It is exclusively directed at those of us who do, at least sometimes, make unnecessary purchases.)
 
-
-### Premise 3: Insignificant Sacrifice 
+### Premise 3: Insignificant Sacrifice
 
 The third premise claims that we could give up many of our consumer purchases "without thereby sacrificing anything morally significant." Could one reasonably deny this? One could insist that all interests are morally significant in the sense that they count for _something_, so you always have at least _some_ reason to make any consumer purchase that would bring you the slightest bit of extra happiness. But of course Singer does not mean to deny this. His use of "significant" here is not meant to distinguish interests from non-interests (that count for literally zero), but rather to distinguish especially _weighty_ or important interests from relatively trivial ones. And it cannot plausibly be denied that some of our consumer purchases are relatively trivial, or not especially important to our lives.
 
 It's an interesting question precisely how to distinguish significant interests from comparatively trivial ones. The two extremes seem intuitively clear enough: luxury goods like designer clothes seem fairly unimportant, while providing a good life for one's own child is obviously of genuine importance. In intermediate cases where it is unclear whether an interest qualifies as deeply "morally significant", it will be similarly unclear whether Singer's argument requires us to be willing to sacrifice that interest in order to prevent grave harm.[^7] But it's important to note that an argument can be sound and practically important even if it is sometimes unclear how to apply it.
 
-
-### Premise 4: Singer's Rescue Principle 
+### Premise 4: Singer's Rescue Principle
 
 Finally, we come to Singer's Rescue Principle: _If it is in our power to prevent something very bad from happening, without thereby sacrificing anything morally significant, we ought, morally, to do it._ If we are to reject the argument's conclusion, we must reject this premise. But can you really believe that it is morally okay to just sit back and watch something terrible happen, when you could _easily_ (without sacrificing anything important) prevent it?
 
 Some may claim that our only duty is to _do no harm_.[^8] On this view, it would be wrong to steal from the global poor, and it would be _generous_ to help them, but we have no _obligation_ to help in any way—it is never wrong to simply mind one's own business. This minimal view of morality (as limited to the duty not to harm others) meshes nicely with common views about charity. But it turns out to be unacceptable when we consider a broader range of cases, as Singer brings out with his famous _drowning child_ thought experiment.
 
-
-## The Drowning Child 
+## The Drowning Child
 
 Singer writes:
-
 
 > If I am walking past a shallow pond and see a child drowning in it, I ought to wade in and pull the child out. This will mean getting my clothes muddy, but this is insignificant, while the death of the child would presumably be a very bad thing.[^9]
 
 In a case like this, when you can _easily_ prevent something very bad (like a child's death), it seems clear that doing so is not only morally praiseworthy, but morally _required_. That remains true even if saving the child comes at a cost to yourself, as long as the cost is insignificant in comparison to the value of the child’s life. Since the cost of ruining your clothes (even an expensive suit that costs several thousand dollars to replace) is insignificant compared to the child’s life, you ought to wade into the pond to save the child.
 
-What does the minimal “do no harm” view of morality imply about the right way to act in the thought experiment? Well, it is not your fault that the child is drowning; you did not push them in. If you were to walk by and let the child drown, you would not be causing any _additional_ harm—they would be just as badly off if you were not there in the first place. So the minimal view implies that it would be morally fine for you to just walk by (or even sit and eat some popcorn while watching the child drown). But that strikes most people as obscenely immoral. So the minimalist's response to Singer's rescue principle fails. 
+What does the minimal “do no harm” view of morality imply about the right way to act in the thought experiment? Well, it is not your fault that the child is drowning; you did not push them in. If you were to walk by and let the child drown, you would not be causing any _additional_ harm—they would be just as badly off if you were not there in the first place. So the minimal view implies that it would be morally fine for you to just walk by (or even sit and eat some popcorn while watching the child drown). But that strikes most people as obscenely immoral. So the minimalist's response to Singer's rescue principle fails.
 
 If applied consistently, Singer’s principle has radical implications in the real world. He writes:
-
 
 > We are all in that situation of the person passing the shallow pond: we can all save lives of people, both children and adults, who would otherwise die, and we can do so at a very small cost to us: the cost of a new…shirt or a night out at a restaurant or concert, can mean the difference between life and death to more than one person somewhere in the world.[^10]
 
@@ -85,8 +83,7 @@ If you accept that saving the drowning child is morally required, even at the co
 
 Aside from helping to address objections to Singer's rescue principle, the drowning child thought experiment clarifies which of our interests are sufficiently "insignificant" that we may be called upon to sacrifice them to prevent grave harm to others. For example, someone might initially think that wearing designer clothes is a vital part of their identity, but if pressed on whether they would sooner watch a child drown than give up this expensive lifestyle, they might change their mind.[^11]
 
-
-## Objections 
+## Objections
 
 Not everyone accepts Singer’s radical conclusion about our moral obligations to donate to those in need. Yet, Singer’s conclusion is difficult to avoid since the standard objections no longer seem plausible when applied to corresponding variations of the pond case.[^12] For example:
 
@@ -102,8 +99,7 @@ It is unfair when some do not do their share. It is unfairly [demanding](/utilit
 
 None of these responses seems successful in establishing a morally important difference between the drowning child thought experiment and charitable giving. But considerations of salience, repeatability, or emergency may prove more significant. We address these in the next three sections.
 
-
-### Salience 
+### Salience
 
 Although geographical distance by itself does not seem to make a moral difference, it may make a psychological difference to us by affecting the _salience_ of the different needs at stake. The visible suffering of a child right before our eyes has a very different emotional impact than merely abstract knowledge of distant suffering. And this difference in emotional impact plausibly explains why most of us would be so much more strongly motivated to save the drowning child than to relieve distant suffering by donating to charity. But what is the moral significance of this difference in psychological salience?
 
@@ -113,8 +109,7 @@ On this analysis, the difference in salience does not affect the strength of our
 
 We can thus accommodate the intuition that failing to donate to effective charities is not as _blameworthy_ as watching a child drown (since only the latter reveals an extreme lack of altruistic concern), without this providing any reason to deny that aid in either case may be equally morally _important_.
 
-
-### Repeatability 
+### Repeatability
 
 A notable difference between the two cases is that it is very rare to come across drowning children, whereas the needs of the global poor are constant and unrelenting. The significance of this fact is that a policy of _helping those nearby in need of direct rescue_ would not be expected to prove especially costly. But a policy of _helping anyone in the world in desperate need of aid_ would soon take over your life. A better analogy would then seem to be a limitless line of ponds containing drowning children. And when we consider such a case, it may no longer seem so wrong to at least _sometimes_ take a break, and thereby let a child drown.[^16]
 
@@ -128,8 +123,7 @@ One difficulty is that it is not immediately clear how to apply the rescue princ
 
 Still, the conclusion of Singer's argument remains strikingly revisionary. Even if we may reserve the majority of our spare time and resources for personal projects, we are still required to do much more for others than almost any of us _actually_ do. Even when we need not entirely give up some expensive (or time-intensive) pastime, we may be morally required to economize—if by doing so we could (perhaps over several years) save many lives without significant lifetime loss to our own [well-being](/theories-of-wellbeing). Many hobbies plausibly exhibit diminishing marginal utility: the more time and money we plow into them, the less additional value we gain from further investment. In such cases, we may be able to cut our personal investment by, say, half while still retaining most of the well-being we gain from the hobby. And of course many of us also spend time and money on entirely frivolous things that, upon reflection, do not significantly contribute to our lives at all. If we reflect carefully and honestly, most of us would likely find significant opportunities to do more to help others, without needing to sacrifice anything truly important. If Singer's rescue principle is right—and it seems hard to deny—then we really ought to pursue these opportunities.
 
-
-### Emergencies 
+### Emergencies
 
 The last major challenge to Singer's argument comes from the idea that special ethical norms apply in _emergency_ cases that cannot be broadly generalized. The drowning child scenario is a paradigmatic emergency. So perhaps common sense could be restored by combining a minimal view of our everyday obligations with ambitious positive obligations to assist in cases of emergency?
 
@@ -143,8 +137,7 @@ The second problem is that even when the informal insurance model gets the right
 
 To see this, imagine extending the logic of the informal insurance model to a society including water-phobic robots who just want to collect paperclips but occasionally drop them in puddles. In order to secure the assistance of the robots in helping to free us from getting our feet caught on railroad tracks (or other non-water-related emergencies), we might reciprocate by rescuing their lost paperclips from puddles. If the informal insurance account of emergency ethics were correct, then your moral reason to save a drowning child would be of _exactly the same kind_ as your reason to "save" a paperclip from a puddle in the imagined scenario. But this is clearly wrong. We have moral reasons to save lives and avert great harms for the sake of the affected individuals. These moral reasons are distinct from (and more important than) our reasons to participate in mutual-benefit schemes.
 
-
-## Conclusion 
+## Conclusion
 
 Singer identifies a logical tension in our ordinary moral thought. We tend not to think much about our power to prevent great suffering (and even save lives). Even when this fact is brought to our attention, we tend to assume that it is morally okay for us not to act on it, or to do very little. Helping would be generous, we think, but not required.
 
@@ -152,8 +145,7 @@ However, Singer's rescue principle seems undeniable: if we can _easily_ prevent 
 
 Considering repeatability means that we need to take our overall patterns of response into account: sacrifices that are small in isolation may add up to extreme sacrifices that are more than Singer's principle would require. But even taking this into account, there are likely to be many changes we could make to our lives in order to help others more, without causing any significant loss to our own well-being. If Singer is right, we are morally required to make these changes. It is no less important than saving a child who is drowning right before our eyes.
 
-
-## Discussion Questions 
+## Discussion Questions
 
 * Many effective altruists now believe that you can do more good through [pursuing a high-impact career](/acting-on-utilitarianism#career-choice) than by donating (even generously) whilst working at a less impactful job. How does that affect your view of Singer's argument? Could you be morally required to consider a career change? Should someone in a high-impact career be expected to donate to charity in addition?
 * This study guide focuses on the more moderate version of Singer's rescue principle. But he also defends a stronger version, according to which we are morally required to prevent bad things from happening whenever we can do so without sacrificing anything of _comparable_ moral significance. How much of a difference do you see between these two versions of the principle? Do you think the stronger principle is correct?
@@ -161,14 +153,12 @@ Considering repeatability means that we need to take our overall patterns of res
 * Imagine that you are going to donate money to an effective charity—enough to save _two_ lives. But along the way, you see a child drowning in a pond. There is no time to set aside the cash in your pockets: if you jump in, the money will be destroyed, so you will be unable to make the donation after all. Should you still save the drowning child? Why / why not?
 * We tend to just think about the money or resources that people already have. But suppose that you could easily earn _more_, say by working overtime (or shifting to a more lucrative job). Might it be wrong to not earn more money (in order to then donate more)? How would you apply Singer's principles to this case?
 * Suppose that a wealthy friend tends to get defensive when confronted with moral challenges. Currently they donate a little bit to help others, but you know that if you told them about Singer's argument, they would clam up and stop donating altogether.
-    * Would it be wrong for you to tell them about Singer's argument?
-    * If so, would that mean that Singer's conclusion is _false_, and they are not obliged to donate more after all? Or could a moral claim be true even if it was not always a good idea to tell people about it?
+  * Would it be wrong for you to tell them about Singer's argument?
+  * If so, would that mean that Singer's conclusion is _false_, and they are not obliged to donate more after all? Or could a moral claim be true even if it was not always a good idea to tell people about it?
 
-
-## Essay Tips 
+## Essay Tips
 
 Your professor will have explained their general expectations, or what they are looking for in a good philosophy paper. You can find [other helpful general guidelines online](http://www.jimpryor.net/teaching/guidelines/writing.html). If writing on Singer's 'Famine, Affluence, and Morality' in particular, you should take care to avoid the following common pitfalls:
-
 
 * Do not get hung up on empirical disputes, such as those surrounding aid skepticism. The interesting philosophical question is whether Singer's moral _principles_ are correct. So just suppose we are in a position where we could help others. The fundamental philosophical question here is: how much _could_ morality, in principle, require us to give up in order to help others? Aid skepticism does not answer this question, but merely dodges it. (Further, as [MacAskill](http://www.jpe.ox.ac.uk/papers/aid-scepticism-and-effective-altruism/) emphasizes: "There are thousands of pressing problems that call out for our attention and that we could make significant inroads on with our resources." Global health charities are far from the only way that our money could be productively used to help others.)
 * Do not get distracted by the sociological question of whether we could hope to _convince_ most of society to act upon Singer's recommendations. The question is what we, as individuals, _ought to do_. It is not about what we can _convince_ others of. That would, again, be to dodge the fundamental moral question.
@@ -177,14 +167,11 @@ Your professor will have explained their general expectations, or what they are 
 
 Good luck! And remember to cite your sources.
 
-
 {{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
-
 
 {{< two-button >}}
 
-
-## Resources and Further Reading 
+## Resources and Further Reading
 
 * Singer, P. (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243.
 * Singer, P. (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. (Download a free ebook or audiobook of the 10th anniversary edition at [www.thelifeyoucansave.org](www.thelifeyoucansave.org).)
@@ -199,9 +186,6 @@ Good luck! And remember to cite your sources.
 * Sin, W. (2010). Trivial Sacrifices, Great Demands. _Journal of Moral Philosophy_ 7 (1): 3-15.
 * Thomson, J.A. (2021). Relief from Rescue. _Philosophical Studies_ 179 (4): 1221-1239.
 
-
-
-
 [^1]:
      Singer, P. (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_ 1 (3): 229-243.
 
@@ -215,18 +199,23 @@ Good luck! And remember to cite your sources.
      Singer advocates a stricter version of the rescue principle, where we are required to sacrifice even some genuinely morally significant things, so long as they are not _comparably_ significant to the harms thereby prevented. We focus here on the less demanding version of the rescue principle since (as Singer notes) it is sufficient for practical purposes, while being more difficult to reject. But the stronger version is also plausible, and is entailed by utilitarianism (while also being compatible with other moral theories).
 
 [^5]:
-     The career-focused version of Singer’s argument might look like this (with P1 unchanged): 
+     The career-focused version of Singer’s argument might look like this (with P1 unchanged):
+     
      P2*: We can prevent suffering and death by working in an impactful job rather than spending our time on a career that does not help others.
+     
      P3*: We can work in an impactful job without significant uncompensated sacrifice.
+     
      P4*: If it is in our power to prevent something very bad from happening, without significant uncompensated sacrifice, we ought, morally, to do it.
      Therefore,
+     
      C*: We ought, morally, to work in an impactful job rather than spend our time on a career that does not help others.
-     Note that P3* and P4* are worded in terms of significant _uncompensated_ sacrifice, because one's choice of career is a major life decision that is likely to involve significant tradeoffs. If one passes up becoming an artist (say), there may be something morally significant about that loss, even if one is overall happier with an alternate career. If you receive benefits commensurate with what you sacrificed, we can say that your sacrifice was _compensated_ and so not costly to you, all things considered.
+     
+     Note that P3 and P4 are worded in terms of significant _uncompensated_ sacrifice, because one's choice of career is a major life decision that is likely to involve significant tradeoffs. If one passes up becoming an artist (say), there may be something morally significant about that loss, even if one is overall happier with an alternate career. If you receive benefits commensurate with what you sacrificed, we can say that your sacrifice was _compensated_ and so not costly to you, all things considered.
 
 [^6]:
      Someone sufficiently desperate to escape the argument might try to reject the first premise by claiming that _overpopulation_ is such a problem that we should not seek to save lives after all (because lives saved add to overpopulation, thus increasing overall suffering). But there are a number of reasons why this is badly misguided.
      First, this claim is a myth: empirically, saving lives in poor countries does not lead to overpopulation. See: Melinda Gates (2014). [Saving Lives Does Not Lead to Overpopulation](https://thebreakthrough.org/issues/conservation/saving-lives-does-not-lead-to-overpopulation). _The Breakthrough Institute_; Hans Rosling. [Will saving poor children lead to overpopulation?](https://www.gapminder.org/answers/will-saving-poor-children-lead-to-overpopulation/) _Gapminder Foundation_.
-    
+
      Second, someone who really believed this claim would also need to advocate for shutting down hospitals, letting serial killers go free, etc. Few would be willing to consistently hold the view that there is no point to saving innocent lives. Letting people die unnecessarily seems an atrocious way to attempt to counteract overpopulation.
 
      Third, there are obviously better alternatives, such as empowering women in ways that predictably lower birth rates. Examples of this include global family planning charities or girls' education. See Singer, P. (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243, p. 240.
@@ -237,7 +226,7 @@ Good luck! And remember to cite your sources.
      Though, as we'll see below, the drowning child scenario might help to illuminate the boundaries of morality's demands here.
 
 [^8]:
-     Or, even more minimally, to simply _not violate anyone's rights_. Either way, philosophers call this a _negative_ duty—a duty to _not_ do a certain action—in contrast to _positive _duties to _do_ a certain action.
+     Or, even more minimally, to simply _not violate anyone's rights_. Either way, philosophers call this a _negative_ duty—a duty to _not_ do a certain action—in contrast to _positive_ duties to _do_ a certain action.
 
 [^9]:
      Singer, P. (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243, p. 231.
@@ -269,7 +258,7 @@ Good luck! And remember to cite your sources.
 
 [^18]:
      This interpretation brings Singer's rescue principle much closer to Miller's _Principle of Sympathy_, according to which: "One's underlying disposition to respond to neediness as such ought to be sufficiently demanding that giving which would express greater underlying concern would impose a significant risk of worsening one's life, if one fulfilled all further responsibilities; and it need not be any more demanding than this."
-     
+
      Miller, R. (2004). [Beneficence, Duty and Distance](https://dx.doi.org/10.1111/j.1088-4963.2004.00018.x)._ Philosophy and Public Affairs_, 32(4): 357–383, p.359.
 
 [^19]:

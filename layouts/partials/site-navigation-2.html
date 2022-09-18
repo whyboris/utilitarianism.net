@@ -10,16 +10,17 @@
         Utilitarian Thinkers
       </a>
 
+{{ if false }}
       <div class="table-of-contents dropdown-content">
 
         {{ if .Site.Menus.thinker }}
 
-          <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+          <ul>
             
             {{ range .Site.Menus.thinker }}
 
             <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
-              <li class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+              <li>
 
                 <div class="title">
                   {{ .Name }}
@@ -35,6 +36,7 @@
         {{ end }}
 
       </div>
+{{ end }}
 
     </div>
 
@@ -53,17 +55,18 @@
         <a href="/books">
           Books
         </a>
-    
+
+{{ if false}}
         <div class="table-of-contents dropdown-content">
     
           {{ if .Site.Menus.book }}
     
-            <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+            <ul>
               
               {{ range .Site.Menus.book }}
     
               <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
-                <li class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+                <li>
                   {{ with .Page }}
                     <div class="title">
                       {{ .Params.book }}
@@ -85,34 +88,30 @@
     
           {{ end }}
     
-    
         </div>
+{{ end }}
 
     </div>
 
     <div class="dropdown header-navigation-item">
     
-        <span>Study guides</span>
+        <span class="no-pointer">Study guides</span>
     
         <div class="table-of-contents dropdown-content">
     
           {{ if .Site.Menus.guide }}
     
-            <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+            <ul>
               
               {{ range .Site.Menus.guide }}
     
               <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
-                <li class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
-                    {{ .Name }}
-                    
-                    <span class="author">
-                      {{ with .Page }}
-                      {{ .Params.author }}
-                      {{ end }}
-                    </span>
-                  </li>
-                </a>
+                <li>
+                  {{ with .Page }}
+                  {{ .Params.menuTitle }}
+                  {{ end }}
+                </li>
+              </a>
     
               {{ end }}
     

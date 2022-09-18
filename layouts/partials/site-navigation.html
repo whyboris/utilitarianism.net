@@ -1,8 +1,8 @@
-<nav role="navigation">
+<nav role="navigation" class="high-z-index">
 
-  <div class="dropdown header-navigation-item">
+  <div class="dropdown header-navigation-item nudge-down">
 
-    <a href="/">
+    <a href="/" class="large-hit-box">
       Learn about Utilitarianism
     </a>
 
@@ -10,11 +10,11 @@
 
       {{ if .Site.Menus.main }}
 
-        <ol class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+        <ol>
           
           {{ range .Site.Menus.main }}
 
-            <li class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+            <li>
               <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
                 {{ .Name }}
               </a>
@@ -30,13 +30,13 @@
 
   </div>  
   
-  <div class="header-navigation-item">
-    <a href="/acting-on-utilitarianism">Acting on Utilitarianism</a>
+  <div class="header-navigation-item nudge-down">
+    <a href="/acting-on-utilitarianism" class="large-hit-box">Acting on Utilitarianism</a>
   </div>
 
-  <div class="dropdown header-navigation-item">
+  <div class="dropdown header-navigation-item nudge-down">
 
-    <a href="/guest-essays">
+    <a href="/guest-essays" class="large-hit-box">
       Guest Essays
     </a>
 
@@ -44,12 +44,12 @@
 
       {{ if .Site.Menus.guest }}
 
-        <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+        <ul>
           
           {{ range .Site.Menus.guest }}
 
           <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
-            <li class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+            <li>
               
               <div class="title">
                 {{ .Name }}
