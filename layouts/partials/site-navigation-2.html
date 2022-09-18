@@ -10,6 +10,7 @@
         Utilitarian Thinkers
       </a>
 
+{{ if false }}
       <div class="table-of-contents dropdown-content">
 
         {{ if .Site.Menus.thinker }}
@@ -35,6 +36,7 @@
         {{ end }}
 
       </div>
+{{ end }}
 
     </div>
 
@@ -53,7 +55,8 @@
         <a href="/books">
           Books
         </a>
-    
+
+{{ if false}}
         <div class="table-of-contents dropdown-content">
     
           {{ if .Site.Menus.book }}
@@ -85,8 +88,8 @@
     
           {{ end }}
     
-    
         </div>
+{{ end }}
 
     </div>
 
@@ -104,15 +107,11 @@
     
               <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
                 <li class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
-                    {{ .Name }}
-                    
-                    <span class="author">
-                      {{ with .Page }}
-                      {{ .Params.author }}
-                      {{ end }}
-                    </span>
-                  </li>
-                </a>
+                  {{ with .Page }}
+                  {{ .Params.menuTitle }}
+                  {{ end }}
+                </li>
+              </a>
     
               {{ end }}
     
