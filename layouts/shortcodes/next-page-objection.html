@@ -2,24 +2,27 @@
 
 <div class="objections-buttons-container">
 
-    {{ $frontmatterMenu := first 1 $.Page.Params.menu }}
+    {{ if not (.Get "hide-next") }}
 
-    {{ $pageNumber := .Page.Params.page }}
-    
-    {{ range $index, $element := (index .Site.Menus $frontmatterMenu).Sort.ByWeight }}
+        {{ $frontmatterMenu := first 1 $.Page.Params.menu }}
 
-        {{ if eq $pageNumber $index}}
-        <a href="{{ .URL }}">
-            <div class="small-button">
-                {{ with .Page }}
-                    Next: {{ .Title }}
-                {{ end }}
-            </div>
-        </a>
+        {{ $pageNumber := .Page.Params.page }}
+        
+        {{ range $index, $element := (index .Site.Menus $frontmatterMenu).Sort.ByWeight }}
+
+            {{ if eq $pageNumber $index}}
+            <a href="{{ .URL }}">
+                <div class="small-button">
+                    {{ with .Page }}
+                        Next: {{ .Title }}
+                    {{ end }}
+                </div>
+            </a>
+            {{ end }}
+
         {{ end }}
-
-    {{ end }}
     
+    {{ end }}
 
     <a href="/objections-to-utilitarianism#specific-objections-against-utilitarianism">
         <div class="small-button">
