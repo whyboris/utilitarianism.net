@@ -3,13 +3,14 @@ title: "The Alienation Objection"
 date: 2022-08-08T10:08:52-04:00
 type: "page"
 draft: false
-menu: "objections"
+menu: ["objections"]
 weight: 6
+page: 6
 ---
 
 {{< TOC >}}
 
-# The Alienation Objection
+## The Alienation Objection
 
 Most of us have a wide range of concerns and motivations. We care about our friends and family. We strive for success in our studies, careers, and personal projects. We become absorbed in hobbies, social or political causes, or cheer on the local sports team. And perhaps we have some general desire that the world as a whole become a better place. All of these things matter to us.
 
@@ -20,7 +21,6 @@ Such a view would seem deeply _alienating_. Imagine trying to live your life in 
 Such impersonal motivations threaten to starve our interpersonal relations of the human warmth that they need to flourish. By subordinating all other motivations to a single, overwhelming desire for the “greater good”, critics allege that impersonal theories like utilitarianism demand “one thought too many”[^2] of agents—alienating us from our loved ones, our personal projects, and any other goods that ordinarily seem to warrant _direct_ concern.
 
 We will consider two ways utilitarians might respond to this alienation objection. The _sophisticated utilitarian_ strategy recommends adopting (or at least tolerating) motivations other than explicitly utilitarian ones. The _subsumption_ strategy instead argues that direct concern for particular goods or individuals can be subsumed _within_ straightforwardly utilitarian motivations.
-
 
 ## Sophisticated Utilitarianism
 
@@ -33,7 +33,6 @@ These facts about human psychology provide utilitarians with strong reasons to r
 Still, this response may seem unsatisfactory to some. Even if utilitarianism can endorse personal concerns for their _usefulness_, we may worry that this is the wrong kind of reason for such endorsement—or at least less than we might have hoped for. It is not just that visiting your friend in hospital out of direct concern would be _more useful_ than visiting in order to maximize the overall good. Direct concern also seems _intrinsically_ more appropriate.
 
 Another way to bring out this worry is to note that the sophisticated utilitarian seems to exhibit what Michael Stocker describes as “moral schizophrenia”[^5]—that is, a troubling _disconnect_ between the (utilitarian) normative reasons they accept in theory and the (personal) motivating reasons that they act upon in practice.[^6] As a result, sophisticated utilitarianism might seem to condemn us to do the right thing for the wrong reasons, like someone who saves a child from drowning purely in hopes of getting their name in the newspaper. But of course visiting your friend out of direct concern does not seem _at all_ like the “wrong reason”. Quite the opposite: the alienation objection stems from the conviction that this seems a much _better_ reason to visit than any considerations to do with maximizing overall value. But if direct concern is really the right reason to act, then our moral theory should reflect this. Helping individuals, and not _just_ “overall well-being”, should be recognized as an intrinsic moral goal by our moral theory. Our next section explores how utilitarianism might accommodate this idea.
-
 
 ## The Subsumption Strategy
 
@@ -51,22 +50,15 @@ Is this a problem? It may be a practical problem, but that can be addressed thro
 
 So the practical problem is resolvable. And there is no theoretical problem or objection here, so long as we can agree, on reflection, that our attachments to sports and hobbies are _unlike_ our attachments to other people. Specifically: there does not seem any deep moral error involved in regarding hobbies as having merely instrumental value. Our hobbies do not really have intrinsic value themselves, but are at most useful means to other—intrinsically valuable—ends such as happiness or social camaraderie.
 
-
 ## Conclusion
 
 It would be deeply alienating for a moral theory to invalidate the overwhelming majority of our ordinary motivations, including moral motivations that stem from direct concern for particular individuals. Utilitarians may seek to avoid this fate via sophisticated utilitarianism or the subsumption strategy. Each approach has its limitations. But by suitably combining the two—insisting upon the subsumption of genuine intrinsic goods, together with a sophisticated approach to merely instrumental goods—utilitarians may be able to offer a full response to the alienation objection.
 
-
----
-_links to other objections_
-
----
-
+{{< next-page-objection >}}
 
 {{< how-to-cite authors="Chappell, R.Y." >}}
 
 {{< button >}}
-
 
 ### Resources and Further Reading
 
@@ -77,11 +69,8 @@ _links to other objections_
 * Stocker, M. (1976). [The Schizophrenia of Modern Ethical Theories](https://dx.doi.org/10.2307/2025782). _Journal of Philosophy_, 73: 453–466.
 * Williams, B. (1981). Persons, Character and Morality. In _Moral Luck: Philosophical Papers, 1973–1980_, Cambridge University Press.
 
-
-
-
 [^1]:
-     This example is adapted from Stocker, M. (1976). [The Schizophrenia of Modern Ethical Theories](https://dx.doi.org/10.2307/2025782). _Journal of Philosophy_, 73: 453–466, p. 462. Of course, if you wanted to cheer up your friend, you would refrain from voicing such a callous thought aloud. But it seems bad enough to even be _thinking_ that way. 
+     This example is adapted from Stocker, M. (1976). [The Schizophrenia of Modern Ethical Theories](https://dx.doi.org/10.2307/2025782). _Journal of Philosophy_, 73: 453–466, p. 462. Of course, if you wanted to cheer up your friend, you would refrain from voicing such a callous thought aloud. But it seems bad enough to even be _thinking_ that way.
 
 [^2]:
      Williams, B. (1981). Persons, Character and Morality. In _Moral Luck: Philosophical Papers, 1973–1980_, Cambridge University Press.

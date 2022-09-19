@@ -1,4 +1,4 @@
-<div class="table-of-contents">
+<div class="table-of-contents {{ if .Get "unordered" }} ol-to-ul-hack {{ end }}">
     <span>Table of Contents</span>
     {{ .Page.TableOfContents }}
 </div>

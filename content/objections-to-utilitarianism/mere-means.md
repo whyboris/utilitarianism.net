@@ -3,13 +3,12 @@ title: "The Mere Means Objection"
 date: 2022-08-08T10:08:55-04:00
 type: "page"
 draft: false
-menu: "objections"
+menu: ["objections"]
 weight: 4
+page: 4
 ---
 
-
 {{< TOC >}}
-
 
 ## The Mere Means Objection
 
@@ -19,32 +18,27 @@ There is something very appealing about the Kantian _Formula of Humanity_, that 
 
 Why think that utilitarianism treats anyone merely as a means? Three possibilities seem worth exploring. The first involves mistakenly leaving out the crucial word “merely”, though this radically changes the meaning of the Formula of Humanity in a way that undermines its plausibility. The second hinges on the utilitarian preference for saving lives that are themselves more instrumentally useful for indirectly helping others. And the third involves a distinctively Kantian interpretation of what is essential to treating someone as an end in themselves. But as we will see, none of these three moves validates the conclusion that utilitarianism violates the plain meaning of the Formula of Humanity, or literally treats anyone as a “mere means”.
 
-
 ## Using as a Means
 
 Utilitarianism allows people to be used as a means to bring about better outcomes. For example, in stylized thought experiments, it implies that [one person should be killed to save five](/objections-to-utilitarianism/rights). More generally, it allows harm to be imposed on some in order to secure greater overall benefits for others. But many ways of using others are morally innocuous. As Kantians will agree: If you ask a stranger for directions, you are using them as a means, but not _objectionably_ so. Asking someone for directions is compatible with still regarding them as intrinsically valuable, or an end in themselves. Is utilitarian sacrifice different in a way that makes it incompatible with such moral regard?
 
 There are important differences between the two cases. Most obviously, utilitarian sacrifice involves _harming_ (sometimes even killing) the targeted individual. So it is not as innocuous as asking for directions: there is a significant moral cost here, which could only be justified by sufficiently great compensating moral gains. Even so, on the crucial question of whether utilitarians still regard the sacrificed individual as an intrinsically valuable end in themselves, the answer is a clear _YES_. After all, the utilitarian agent would be willing to sacrifice other goods of significant value[^3]—including even their own interests—in order to spare the sacrificed individual of their burden. But one obviously would not be willing to sacrifice in such a way for any entity that one regarded as a _mere_ means, entirely lacking in moral importance.[^4] So we see that the utilitarian regards the sacrificed individual as morally important (emphatically _not_ a _mere_ means), albeit not _as_ important as five other people combined.
 
-Utilitarianism counts the well-being of _everyone_ fully and equally, neglecting none. So, while it (like other theories) permits some forms of using as a means, it never loses sight of the fact that all individuals have intrinsic value. That is precisely why the theory [directs us to do whatever will best help all those individuals](/acting-on-utilitarianism). This may lead to outcomes where some particular individuals are disadvantaged, but it is important not to conflate _ending up worse-off_ with _counting for less_ in the process of determining what would be best overall (counting everyone’s interests equally). 
+Utilitarianism counts the well-being of _everyone_ fully and equally, neglecting none. So, while it (like other theories) permits some forms of using as a means, it never loses sight of the fact that all individuals have intrinsic value. That is precisely why the theory [directs us to do whatever will best help all those individuals](/acting-on-utilitarianism). This may lead to outcomes where some particular individuals are disadvantaged, but it is important not to conflate _ending up worse-off_ with _counting for less_ in the process of determining what would be best overall (counting everyone’s interests equally).
 
 For example, suppose a group of friends draw lots to determine which of them should perform some unpleasant chore. The person who draws the short straw was not thereby _mistreated_ in any way: the bad (for him) outcome was the result of a fair process that treated him the same as everyone else in the group. In a similar way, utilitarianism counts everyone's interests equally, even when it yields results that are better for some than for others. Since everyone is counted fully as ends in themselves, it is not accurate to claim that utilitarianism treats anyone as a “mere means”.
 
 By contrast, utilitarianism _does_ treat [non-sentient things](/near-utilitarian-alternatives#beyond-welfarism), like the environment, as having merely instrumental value. Environmental protection is immensely important, not for its own sake, but for the sake of people and other sentient beings. There is a big difference between how utilitarianism values the environment and how it values people, which is another way to see that the theory does not value people merely instrumentally.
 
-
 ## Instrumental Favoritism
 
 Suppose that you are faced with a medical emergency, but only have enough medicine to save either one adult or two children. Two children and an adult pharmacist are on the brink of death, and three other children are severely ill, and would die before anyone else is able to come to their assistance. If you save the pharmacist, she will be able to manufacture more medicine in time to save the remaining three severely ill children (though not in time to save the two that are already on the brink). If you save the two children, all the others will die. What should you do?
 
-
 ![Instrumental favoritism](/img/instrumental-favoritism.png "Instrumental favoritism")
-
 
 By utilitarian lights, the answer is straightforward: you should save the pharmacist, and thereby save _four_ individuals (including three children), rather than only saving two children. It does not matter whether you save an individual _directly_ (by giving them medicine yourself) or _indirectly_ (by enabling the pharmacist to give them medicine); all that matters is that they are saved.
 
 But some critics object to this. Frances Kamm, for example, claims:
-
 
 > [T]o favor the person who can produce [extra utility] is to treat people “merely as means” since it decides against the person who cannot produce the extra utility on the grounds that he is not a means. It does not give people equal status as “ends in themselves” and, therefore, treats them unfairly.[^5]
 
@@ -56,13 +50,11 @@ To emphasize this point, consider a variation of the case in which the pharmacis
 
 That said, there are many cases in which instrumental favoritism would seem less appropriate. We do not want emergency room doctors to pass judgment on the social value of their patients before deciding who to save, for example. And there are good utilitarian reasons for this: such judgments are apt to be unreliable, distorted by all sorts of biases regarding privilege and social status, and institutionalizing them could send a harmful stigmatizing message that undermines social solidarity. Realistically, it seems unlikely that the minor instrumental benefits to be gained from such a policy would outweigh these significant harms. So utilitarians may endorse standard rules of medical ethics that disallow medical providers from considering social value in triage or when making medical allocation decisions. But this practical point is very different from claiming that, as a matter of principle, utilitarianism's instrumental favoritism treats others as mere means. There seems no good basis for that stronger claim.
 
-
 ## Kantian Interpretations
 
 Kantians and utilitarians disagree about how to respond to the intrinsic value of each person. Utilitarians believe that the correct way to appreciate the intrinsic value of all individuals is to count their interests equally in the utilitarian calculus. Kantians offer a different account, typically appealing to [considerations of possible or actual consent](https://plato.stanford.edu/entries/persons-means/#SuffCondForUsinOtheMereMean).[^8] Advocates of the “mere means” objection may further claim that, in failing to follow the Kantian standard for how to appreciate the intrinsic value of persons, utilitarians fail to regard people as intrinsically valuable at all. But that is uncharitable. Everyone agrees that people are ends in themselves; the disagreement is just about what follows from that morally.
 
 Different moral theories, such as utilitarianism and Kantianism, offer different accounts of the morally correct way to respond to the intrinsic value of persons. We make no attempt to adjudicate that dispute here. Someone who is convinced by the arguments for Kantianism may certainly be expected to reject utilitarianism on that basis. But there is no _independent_ basis for rejecting utilitarianism merely on the grounds that it violates _Kantian_ standards for treating people as ends in themselves. We might just as well turn the objection around and charge Kantians with violating _utilitarian_ standards for how to value people equally as ends in themselves. Either charge would seem equally question-begging, and provides the target with no independent grounds for doubting their view.
-
 
 ## Conclusion
 
@@ -70,11 +62,7 @@ We have seen that it is inaccurate to claim that utilitarians treat people as �
 
 But there may be other, closely related, objections that people sometimes have in mind when they accuse utilitarianism of treating people as mere means. Some may have in mind the “separateness of persons” objection—criticizing utilitarianism for treating tradeoffs _between_ lives the same way as tradeoffs _within_ a life—which we [address separately](/objections-to-utilitarianism/separateness). Others may be concerned about how utilitarianism (in theory) permits instrumental harm when the benefits outweigh the costs. Our discussion of [the rights objection](/objections-to-utilitarianism/rights) addresses this concern in more detail. Note that in practice, utilitarians tend to be [strongly supportive of respecting rights](/utilitarianism-and-practical-ethics#respecting-commonsense-moral-norms), as societies that respect individual rights tend to do a better job of promoting overall well-being.
 
----
-
-_INSERT LINK TO OTHER OBJECTIONS HERE_
-
----
+{{< next-page-objection >}}
 
 {{< how-to-cite authors="Chappell, R.Y.">}}
 
@@ -84,8 +72,6 @@ Resources and Further Reading
 
 * Derek Parfit (2011). _On What Matters: Vol 1_. Oxford University Press. Chapter 9: Merely as a Means.
 * Samuel Kerstein (2019). [Treating Persons as Means](https://plato.stanford.edu/archives/sum2019/entries/persons-means/), _The Stanford Encyclopedia of Philosophy_ (Summer 2019 Edition), Edward N. Zalta (ed.).
-
-
 
 [^1]:
      Strictly speaking, this objection applies to all (aggregative) consequentialist theories. The responses we offer on behalf of utilitarianism in this article would equally apply in defense of other consequentialist theories.
@@ -100,7 +86,7 @@ Resources and Further Reading
      Cf. Parfit, D. (2011). _On What Matters: Vol 1_. Oxford University Press. Chapter 9: Merely as a Means.
 
 [^5]:
-     Kamm, F. (1998). [Is it right to save the greater number?](https://oxford.universitypressscholarship.com/view/10.1093/0195119118.001.0001/acprof-9780195119114-chapter-7#) in _Morality, Mortality Volume I: Death and Whom to Save From It._ Oxford University Press, p. 148. 
+     Kamm, F. (1998). [Is it right to save the greater number?](https://oxford.universitypressscholarship.com/view/10.1093/0195119118.001.0001/acprof-9780195119114-chapter-7#) in _Morality, Mortality Volume I: Death and Whom to Save From It._ Oxford University Press, p. 148.
 
 [^6]:
      Strictly speaking: her interests are given equal weight, but if she has lower remaining life expectancy than the children (and hence correspondingly less future well-being at stake), then the intrinsic value of her future life may be _lower_ than that of those with longer yet to live.

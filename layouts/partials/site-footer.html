@@ -15,10 +15,12 @@
 
       {{/* After "Objections" article list all the Objection articles */}}
       <ul>
-        {{ range .Site.Menus.objections.Sort.ByWeight }}
-          <li>
-            <a href="{{ .URL }}">{{ .Title }}</a>
-          </li>
+        {{ with .Site.Menus.objections.Sort.ByWeight }}
+          {{ range first 7 . }}
+            <li>
+              <a href="{{ .URL }}">{{ .Title }}</a>
+            </li>
+          {{ end }}
         {{ end }}
       </ul>
 
