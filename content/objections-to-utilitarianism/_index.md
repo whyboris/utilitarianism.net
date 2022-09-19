@@ -52,7 +52,7 @@ In separate articles, we discuss the following critiques of utilitarianism:
 
 7. Finally, [the special obligations objection](/objections-to-utilitarianism/special-obligations) holds that utilitarianism is excessively impartial, and does not sufficiently account for the special obligations that we have to our friends and family.
 
-{{< next-page-objection >}}
+{{< next-page-objection hide-other="true" >}}
 
 {{< how-to-cite >}}
 

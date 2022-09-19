@@ -24,11 +24,16 @@
     
     {{ end }}
 
+
+    {{ if not (.Get "hide-other") }}
+
     <a href="/objections-to-utilitarianism#specific-objections-against-utilitarianism">
         <div class="small-button">
             Other Objections to Utilitarianism
         </div>
     </a>
+
+    {{ end }}
 
 </div>
 
