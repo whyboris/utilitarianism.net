@@ -3,15 +3,14 @@ title: "The Special Obligations Objection"
 date: 2022-08-08T10:08:51-04:00
 type: "page"
 draft: false
-menu: "objections"
+menu: ["objections"]
 weight: 7
+page: 7
 ---
 
 {{< TOC >}}
 
-
-[Impartiality](/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests) is clearly important within institutional contexts, where we want judges, policy-makers, and other civic actors to make fair and unbiased decisions. But a striking feature of utilitarianism is that it does not restrict impartiality to just those special contexts. It holds that, fundamentally, all individuals are _always_ deserving of receiving full and equal consideration. This starkly conflicts with much of our ordinary decision-making, as in everyday life we would not usually think twice about prioritizing our friends and loved ones over total strangers. Indeed, many would think it outright _wrong_ for a parent to fail to prioritize the needs of their own children. It is usually thought that certain relationships, like parenthood or guardianship, give rise to _special obligations_ to protect those who fall under our care. If utilitarianism denied this, for example by recommending that parents neglect their own children in order to save a larger number of strangers, that could seem to count seriously against the theory. In this article, we explore this _special obligations objection_ against utilitarianism. 
-
+[Impartiality](/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests) is clearly important within institutional contexts, where we want judges, policy-makers, and other civic actors to make fair and unbiased decisions. But a striking feature of utilitarianism is that it does not restrict impartiality to just those special contexts. It holds that, fundamentally, all individuals are _always_ deserving of receiving full and equal consideration. This starkly conflicts with much of our ordinary decision-making, as in everyday life we would not usually think twice about prioritizing our friends and loved ones over total strangers. Indeed, many would think it outright _wrong_ for a parent to fail to prioritize the needs of their own children. It is usually thought that certain relationships, like parenthood or guardianship, give rise to _special obligations_ to protect those who fall under our care. If utilitarianism denied this, for example by recommending that parents neglect their own children in order to save a larger number of strangers, that could seem to count seriously against the theory. In this article, we explore this _special obligations objection_ against utilitarianism.
 
 ## Accommodating the Intuition
 
@@ -19,7 +18,7 @@ While utilitarianism _as a theory_ is fundamentally impartial, it [does not reco
 
 For example, most people need intimate bonds of friendship, family, and romantic partners to stay emotionally healthy and motivated. To build and maintain these strong relationships requires us to invest a significant share of our time, attention, and resources in them. Utilitarianism may thus recommend investing significantly in such relationships, as this may better enable us, over the course of our whole lives, to _also_ invest significant resources in doing as much good as possible. If we always tried to be purely impartial, by contrast, our personal capacities[^1] might be so gravely impaired that we would risk having a greatly lessened lifetime impact (even just insofar as the impartial good itself is concerned).
 
-This consideration may suffice to justify some degree of partiality given our actual emotional needs and dispositions. But what if these dispositions could be changed? Does utilitarianism imply that it would be _better_ if we could (somehow) make ourselves capable of pure impartiality without falling into depression or other psychological impairments? While it is possible to imagine situations in which this would be true, even this more limited commitment to impartiality does not necessarily follow in real-life circumstances. 
+This consideration may suffice to justify some degree of partiality given our actual emotional needs and dispositions. But what if these dispositions could be changed? Does utilitarianism imply that it would be _better_ if we could (somehow) make ourselves capable of pure impartiality without falling into depression or other psychological impairments? While it is possible to imagine situations in which this would be true, even this more limited commitment to impartiality does not necessarily follow in real-life circumstances.
 
 Besides the instrumental benefits to our agential capacities, caring relationships can be of vital importance to the recipients of our care, such as young children. As there are obviously good utilitarian reasons to want the next generation of people to grow up to be emotionally healthy and capable agents, there are thus good utilitarian reasons to endorse the social norms of parental care that help to promote this goal.
 
@@ -31,15 +30,13 @@ Imagine you have to decide between either saving the life of your child or the l
 
 While utilitarianism can thus endorse some partiality in practice, this is importantly distinct from holding partiality to be _fundamentally_ warranted. So critics may insist at this point that the utilitarian reply given so far is not _sufficiently_ accommodating. They may insist that partiality is not _merely_ useful, but rather is _rationally warranted_, on the grounds that relationships generate genuine normative reasons and associated special obligations that have intrinsic (non-instrumental and non-derivative) moral force, quite independently of whether the associated social practices are overall beneficial.[^5] For example, many people claim that we should prioritize local charities over global ones, even if they are less cost-effective. In the following sections, we will look at how utilitarians might address these stronger claims.
 
-
 ## Debunking the Intuition
 
 Many utilitarians are suspicious of gut intuitions favoring partiality, as there are obvious social and [evolutionary pressures](/arguments-for-utilitarianism#evolutionary-debunking-arguments) that could have distorted our judgments here.[^6] Most of us intuitively favor our [fellow citizens over distant strangers](/utilitarianism-and-practical-ethics#cosmopolitanism), [humans over non-human animals](/utilitarianism-and-practical-ethics#speciesism), and [present people over future generations](/utilitarianism-and-practical-ethics#longtermism). But on reflection, it can be hard to believe that these broader forms of partiality (towards loosely-affiliated strangers) are truly objectively warranted; they seem arbitrary and biased. The [moral reasoning in support of impartiality](/arguments-for-utilitarianism#the-golden-rule-the-veil-of-ignorance-and-the-ideal-observer), by contrast, seems better supported. As a result, we might be justified in dismissing our pro-partiality intuitions as ill-founded.
 
-Some pro-partiality intuitions may also stem from conflating moral theory and practice. That is, one might start from the view (shared by many utilitarians) that we should in practice endorse norms of special obligation, and mistakenly conclude from this that morality must be partial at the fundamental theoretical level. But the practical endorsement of partiality is, as we have seen, actually perfectly compatible with utilitarianism, and so poses no threat here. 
+Some pro-partiality intuitions may also stem from conflating moral theory and practice. That is, one might start from the view (shared by many utilitarians) that we should in practice endorse norms of special obligation, and mistakenly conclude from this that morality must be partial at the fundamental theoretical level. But the practical endorsement of partiality is, as we have seen, actually perfectly compatible with utilitarianism, and so poses no threat here.
 
-
-## Attacking the Alternatives 
+## Attacking the Alternatives
 
 Critics of utilitarian impartiality might prefer a [partialist](/near-utilitarian-alternatives#egoism-and-partialism) form of welfarist consequentialism, which assigns extra weight to the interests of one’s nearest and dearest, instead of counting everyone equally. But this alternative view can seem troublingly unprincipled, as we may bring out in a few different ways.
 
@@ -53,18 +50,11 @@ The Moderate must draw a line past which it becomes impermissible to save the li
 
 Finally, it is worth flagging that the history of partiality includes many examples of group discrimination, such as discrimination based on race, sex, or religion, that we now recognize as morally unacceptable. While this certainly does not prove that all forms of partiality are similarly problematic, it should at least give us pause, as we must consider the possibility that some of our presently-favored forms of partiality (or discrimination on the basis of perceived similarity or closeness) could ultimately prove indefensible.
 
-
 ## Conclusion
 
 We have seen that utilitarianism supports many forms of partiality in practice, including social practices of parenting, friendship, and other close relationships that are vital to us as human beings. But it is a fundamentally impartial theory. It only supports these practices of partiality insofar as they serve to promote _overall_ well-being in practice.
 
 Against those who insist upon partiality at a fundamental theoretical level, utilitarians may respond that their intuitions are ill-founded, and that their resulting view is troublingly unprincipled (and even self-defeating). If we start to think of (fundamental) impartiality as the moral default, and partiality as something that stands in need of special justification, then utilitarianism may look to be on much firmer footing.
-
----
-_links to other objections_
-
----
-
 
 {{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 
@@ -73,12 +63,10 @@ _links to other objections_
 ### Resources and Further Reading
 
 * Goodin, R. (1988). [What Is So Special about Our Fellow Countrymen?](https://doi.org/10.1086/292998) _Ethics_, 98(4): 663–686.
-* Jackson, F. (1991).[ Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.
+* Jackson, F. (1991).[Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.
 * Parfit, D. (1984). _Reasons and Persons_. Oxford: Clarendon Press.
 * de Lazari-Radek, K. & Singer, P. (2012). [The Objectivity of Ethics and the Unity of Practical Reason](https://dx.doi.org/10.1086/667837). _Ethics,_ 123(1): 9–31.
 * Everett, J.A.C., Faber, N.S., Savulescu, J., and Crockett, M.J. (2018). [The costs of being consequentialist: Social inference from instrumental harm and impartial beneficence](https://doi.org/10.1016/j.jesp.2018.07.004). _Journal of Experimental Social Psychology,_ 79: 200–216.
-
-
 
 [^1]:
      ‘Personal capacities’ here could include mental health, willpower, moral motivation, etc.—basically anything that enables you to be effective in achieving your goals—in contrast to things like depression, burnout, etc., that could be expected to significantly reduce your ability to achieve things.
@@ -93,7 +81,7 @@ _links to other objections_
      Furthermore, there may be reputational costs to utilitarians failing to prioritize their family members, which could reverse the long-run expected value of so acting, once the risk of social backlash is taken into account. Acting in ways that are widely regarded as wrong is socially risky, which gives utilitarians extra practical reasons to think twice before violating widely-accepted norms of “special obligation”. See: Everett, J.A.C., Faber, N.S., Savulescu, J., and Crockett, M.J. (2018). [The costs of being consequentialist: Social inference from instrumental harm and impartial beneficence](https://doi.org/10.1016/j.jesp.2018.07.004). _Journal of Experimental Social Psychology_, 79: 200–216.
 
 [^5]:
-     This is closely related to the “moral schizophrenia” objection to sophisticated utilitarianism, discussed in the article on [the alienation objection](/objections-to-utilitarianism/alienation#sophisticated-utilitarianism). The current objection seems weaker however. The alienation objection concerned things that utilitarianism putatively failed to value _at all_. Whereas in this case, utilitarianism certainly values the well-being of your child; the question is just whether _even more _concern is warranted. Firm confidence on such matters of degree seems inherently more difficult to establish.
+     This is closely related to the “moral schizophrenia” objection to sophisticated utilitarianism, discussed in the article on [the alienation objection](/objections-to-utilitarianism/alienation#sophisticated-utilitarianism). The current objection seems weaker however. The alienation objection concerned things that utilitarianism putatively failed to value _at all_. Whereas in this case, utilitarianism certainly values the well-being of your child; the question is just whether _even more_concern is warranted. Firm confidence on such matters of degree seems inherently more difficult to establish.
 
 [^6]:
      de Lazari-Radek, K. & Singer, P. (2012). [The Objectivity of Ethics and the Unity of Practical Reason](https://dx.doi.org/10.1086/667837). _Ethics,_ 123(1): 9–31.
@@ -102,7 +90,7 @@ _links to other objections_
      Parfit, D. (1984). _Reasons and Persons_. 1987 revised edition. Oxford: Clarendon Press, p. 97.
 
 [^8]:
-     Parfit, D. (1984). _Reasons and Persons_. 1987 revised edition. Oxford: Clarendon Press, p. 103. As Parfit notes, a minimal revision would temporarily prohibit partiality in just these sorts of situations where greater cooperation is in _everyone's _interests (conditional on your expecting a sufficient number of others to likewise cooperate). This minimal revision may seem ad hoc if partiality is _fundamental_ to ethics, but makes much more sense on utilitarian accounts which take partiality to be merely instrumentally justified in the first place.
+     Parfit, D. (1984). _Reasons and Persons_. 1987 revised edition. Oxford: Clarendon Press, p. 103. As Parfit notes, a minimal revision would temporarily prohibit partiality in just these sorts of situations where greater cooperation is in _everyone's_ interests (conditional on your expecting a sufficient number of others to likewise cooperate). This minimal revision may seem ad hoc if partiality is _fundamental_ to ethics, but makes much more sense on utilitarian accounts which take partiality to be merely instrumentally justified in the first place.
 
 [^9]:
      Utilitarians who endorse partiality for instrumental reasons have a simple criterion for determining this answer: we should draw the line in whatever way would have the effect of maximizing overall well-being. But this answer is not available to those who take partiality to be intrinsically rather than instrumentally justified.

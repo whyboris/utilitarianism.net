@@ -3,8 +3,9 @@ title: "The Separateness of Persons Objection"
 date: 2022-08-08T10:08:54-04:00
 type: "page"
 draft: false
-menu: "objections"
+menu: ["objections"]
 weight: 5
+page: 5
 ---
 
 {{< TOC >}}
@@ -13,20 +14,17 @@ It is widely agreed that self-interest (or prudence) calls for aggregating harms
 
 This _separateness of persons_ objection was stated most famously by John Rawls:
 
-
 > [Utilitarianism] is the consequence of extending to society the principle of choice for one man, and then, to make this extension work, conflating all persons into one…Utilitarianism does not take seriously the distinction between persons.[^1]
 
 Despite its influence, the reasoning behind this objection can be difficult to pin down. The idea that utilitarians must “conflat[e] all persons into one” seems to presume that they (i) _start_ with “the principle of choice for one man”, and then (ii) argue for their view on the basis that all of society can be treated (perhaps metaphorically) as just another individual. But in fact many utilitarian arguments, as laid out in the chapter on the [arguments for utilitarianism](/arguments-for-utilitarianism), do _not_ take this form. So this interpretation of the objection seems too narrow. It might debunk one particular argument for utilitarianism, but utilitarianism itself may still be well-supported on other grounds.
 
 On a broader interpretation, we may take the objection to assert that respecting the distinction between persons requires treating inter-personal tradeoffs (those _between_ lives) differently from intra-personal ones (those _within_ one life). On this interpretation, it is the implications of utilitarianism, not what argument led to it, that are seen as objectionable. But what is the positive case for treating intra- and inter-personal tradeoffs differently?[^2] The remainder of this article explores three candidate arguments, based on (1) compensation, (2) fungibility, and (3) anti-aggregative intuitions.
 
-
 ## Compensation
 
 The standard interpretation of the separateness of persons understands it to be a matter of _compensation_.[^3] The agent who gets harmed is _compensated_ if they later receive a greater benefit as a result, whereas they receive no such compensation if the benefit goes to someone else. As Nozick put it: “To use a person [for another's benefit]...does not sufficiently respect and take account of the fact that he is a separate person, that his is the only life he has. _He_ does not get some overbalancing good from his sacrifice”.[^4]
 
 Utilitarians may respond that we should not only help others out of self-interest.[^5] The wealthy may not personally benefit from [donating more to life-saving charities](/acting-on-utilitarianism#global-health-and-development), but they ought to do it even so, because their personal interests are _not the only ones that matter_. Every person in need is an individual, equally deserving of moral concern and respect, living the only life _they_ have. When utilitarianism directs us to help others, it does not deny that others are distinct from us. It merely denies the [egoistic](/near-utilitarian-alternatives#egoism-and-partialism) assumption that their distinctness means that they should not matter to us. And, indeed, this is hardly unique to utilitarians. As Katarzyna de Lazari-Radek and [Peter Singer](/utilitarian-thinker/peter-singer) write, “Anyone who supports taxing people on high incomes and using the revenue to provide benefits to others in need must agree that it is sometimes justifiable to impose a cost on one person to benefit another.”[^6] If we reject egoism, we should also reject the assumption that compensation is essential for moral justification.[^7]
-
 
 ## Fungibility
 
@@ -46,26 +44,23 @@ This utilitarian response rejects the assumption that _commensurability_ of valu
 
 This is perhaps clearest when considering other forms of (putative) value: an art-lover might intrinsically value each item in their art collection, and yet still be willing to smother a fire with one painting if that would save five others. In valuing each painting separately, they will regret the loss of the unique painting that is thereby destroyed. But they may regard the sacrifice as worth it, even so. Nothing in their attitude here betrays an objectionably instrumental attitude towards their artworks. Just as this art consequentialist respects the separateness of paintings, so the utilitarian (or welfare consequentialist) respects the separateness of persons.
 
-
 ## Anti-Aggregative Intuitions
 
 Finally, critics might grant that utilitarianism really does separately value individual persons, but just _not in the right way_. On this view, there is something intuitively problematic about utilitarian [aggregation](/types-of-utilitarianism#aggregationism). Instead of summing different people’s interests, strictly anti-aggregative views might advocate for a _maxi-min_ approach that simply seeks to improve the position of the worst-off. As Nagel writes:
 
 > Where there is a conflict of interests, no result can be completely acceptable to everyone. But it is at least possible to assess each result from each point of view to find the result that is the least unacceptable to the person to whom it is most unacceptable…A radically egalitarian policy of giving absolute priority to the worst-off, regardless of numbers, would result from always choosing the least unacceptable alternative, in this sense.[^13]
 
-Maximin has severe problems as an alternative to utilitarian aggregation. Taking maximin literally, it would be preferable to give a lollipop to the most miserable person on Earth rather than, say, to avert a global pandemic or nuclear war that would happen after the most miserable person’s death (or that would somehow leave this individual unharmed). 
+Maximin has severe problems as an alternative to utilitarian aggregation. Taking maximin literally, it would be preferable to give a lollipop to the most miserable person on Earth rather than, say, to avert a global pandemic or nuclear war that would happen after the most miserable person’s death (or that would somehow leave this individual unharmed).
 
 Still, there are particular cases in which utilitarian aggregation seems (intuitively) to yield the wrong result. Consider Scanlon’s famous _Transmitter Room_ case:[^14]
-
 
 > Jones has suffered an accident in the transmitter room of a television station. To save Jones from an hour of severe pain, we would have to cancel part of the broadcast of a football game, which is giving pleasure to very many people.[^15]
 
 Intuitively, it does not matter how many people are watching the football game, it is simply _more important_ to save Jones from suffering severe pain during this time.[^16]
 
-
 ### Accommodating the Intuition
 
-Why is it more important to save Jones? One answer would be that we cannot aggregate distinct interests, so all that is left to do is to satisfy whichever individual moral claim is strongest, namely, Jones’s. But Parfit suggests an alternative—[prioritarian](/near-utilitarian-alternatives#prioritarianism)—explanation: perhaps we should help Jones because he is much worse off, and thus has greater moral priority.[^17] 
+Why is it more important to save Jones? One answer would be that we cannot aggregate distinct interests, so all that is left to do is to satisfy whichever individual moral claim is strongest, namely, Jones’s. But Parfit suggests an alternative—[prioritarian](/near-utilitarian-alternatives#prioritarianism)—explanation: perhaps we should help Jones because he is much worse off, and thus has greater moral priority.[^17]
 
 (While utilitarians reject this prioritarian claim, they may nonetheless take comfort if it turns out that our intuitions are more closely aligned with prioritarianism than with anti-aggregationism. This is for two main reasons. First, they may regard prioritarian intuitions as easily debunkable. And second, they may regard prioritarianism as [close enough](/near-utilitarian-alternatives#conclusion) to utilitarianism that they are not so concerned to press the dispute.)
 
@@ -73,13 +68,11 @@ Parfit argues that his prioritarian account is preferable to Scanlon’s anti-ag
 
 So, rather than refusing to aggregate smaller benefits, Parfit suggests that we should simply weigh harms and benefits in a way that gives priority to the worse-off. Two appealing implications of this view are that: (1) We generally should not allow huge harms to befall a single person, if that leaves them much worse off than the others with competing interests. (2) But we should allow (sufficient) small benefits to the worse-off to (in sum) outweigh a single large benefit to someone better-off. Since we need aggregation in order to secure claim (2), and we can secure claim (1) without having to reject aggregation, it looks like our intuitions are overall best served by accepting an aggregative moral theory.
 
-
 ### Debunking the Intuition
 
 Common intuitions suffer from scope insensitivity, reflecting our inability to truly grasp large numbers.[^18] Our intuitions do not respond very differently to whether the number of competing interests is a million, a billion, or a [googolplex](https://en.wikipedia.org/wiki/Googolplex). But the real difference in value between these numbers is immense. So we should not trust our intuitions when they treat these vastly different numbers as morally alike. Utilitarians may thus feel comfortable rejecting anti-aggregative intuitions as especially untrustworthy.
 
 Even prioritarians, despite Parfit’s arguments described above, may ultimately need to follow the utilitarian in accepting a debunking response. Consider: critics may insist that Parfit’s prioritarian account cannot do full justice to our starting intuition about the Transmitter Room case. Granted, sufficient priority weighting may explain how Jones’ suffering can outweigh the aggregate pleasure of a million, or even a billion, better-off football fans. But so long as the priority weighting is finite, there will be _some_ (perhaps astronomically large) number of smaller pleasures that could, in theory, outweigh Jones’ suffering. At this point, defenders of aggregation may simply accept this implication, and suggest that any residual intuitive discomfort with this conclusion is best explained as a mistake resulting from scope neglect.
-
 
 ### Attacking the Alternatives
 
@@ -99,16 +92,11 @@ The second reason why the independence claim is important here is that it can he
 
 Putting this all together, then, defenders of aggregationism can offer a two-pronged response to their critics. First, our initial anti-aggregative intuitions may be explained away. And second, further reflection shows that anti-aggregative principles would have implications that are arguably more objectionable than those of aggregationism.
 
-
 ## Conclusion
 
-We have seen that the “separateness of persons” objection to utilitarianism can take three forms, none of which is decisive. The _compensation_ objection rests on implausibly egoistic assumptions. The _fungibility_ objection involves a misconception: utilitarianism need not treat distinct individuals as fungible. Finally, while _anti-aggregative_ intuitions have some force, we have also seen that there are ways for utilitarians to resist them, and that these anti-aggregative views face even worse difficulties. 
+We have seen that the “separateness of persons” objection to utilitarianism can take three forms, none of which is decisive. The _compensation_ objection rests on implausibly egoistic assumptions. The _fungibility_ objection involves a misconception: utilitarianism need not treat distinct individuals as fungible. Finally, while _anti-aggregative_ intuitions have some force, we have also seen that there are ways for utilitarians to resist them, and that these anti-aggregative views face even worse difficulties.
 
-
----
-_other objections links_
-
----
+{{< next-page >}}
 
 {{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 
@@ -126,9 +114,6 @@ _other objections links_
 * Paul, E.F., Miller, F., and Paul, J. (eds.) (2010). _[Utilitarianism: The Aggregation Question](https://www.cambridge.org/us/academic/subjects/philosophy/ethics/utilitarianism-aggregation-question-volume-26-part-1?format=PB&isbn=9780521756327)_. Cambridge University Press.
 * Rawls, J. (1971). _A Theory of Justice_. Belknap Press.
 * Scanlon, T.M. (1998). _What We Owe to Each Other_. Belknap Press.
-
-
-
 
 [^1]:
      Rawls, J. (1971). _A Theory of Justice_, p.27.
@@ -151,7 +136,7 @@ _other objections links_
 
 [^7]:
      Brink notes that Rawls’ own egalitarian view often requires uncompensated sacrifices from the wealthy.
-Brink, D. (2020). [Consequentialism, the Separateness of Persons, and Aggregation](https://www.doi.org/10.1093/oxfordhb/9780190905323.013.14). In Douglas W. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press, p.387. 
+Brink, D. (2020). [Consequentialism, the Separateness of Persons, and Aggregation](https://www.doi.org/10.1093/oxfordhb/9780190905323.013.14). In Douglas W. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press, p.387.
 
 [^8]:
      Singer, P. (2011). _Practical Ethics_, third edition. Cambridge University Press., p. 106
