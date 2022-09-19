@@ -81,7 +81,7 @@ Utilitarians may respond by referencing endorsing our reluctance to kill innocen
 
 Utilitarianism claims that we should do whatever would bring about the overall best result, counting everyone equally. This implies that we are almost always acting wrongly, because there is almost always something _better_ that we could be doing. For example, almost anytime pretty much whenever you spend money on yourself, you could have done more good by instead donating that money to effective global charities.
 
-If a person constantly told you to do everything that utilitarianism requires, they'd probably drive you crazy. "Give me a f*ing break!" you might snap at them. SThey would be making unreasonable demands. But surely morality itself should not be in the business of making unreasonable demands, right?
+If a person constantly told you to do everything that utilitarianism requires, they'd probably drive you crazy. "Give me a f*ing break!" you might snap at them. They would be making unreasonable demands. But surely morality itself should not be in the business of making unreasonable demands, right?
 
 Utilitarians may respond by denying that their theory is best understood as making "demands" in this sense. When utilitarianism says that we ought to donate more to charity, this really just means that it would be the _best_ or morally ideal choice. But it's not as though anyone would _blame_ you for falling short of the ideal. (Utilitarians might instead reserve blame for those who give _egregiously_ little weight to others' interests, and positively praise anyone who is more altruistic than average.)
 
@@ -89,13 +89,13 @@ Click [here](/objections-to-utilitarianism) for a more advanced discussion of ob
 
 ## History and Track Record
 
-The classical utilitarians of the 18th and 19th centuries had social and political attitudes that were far ahead of their time.: As a progressive social reformer, [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham) defended issues such as the separation of church and state; the abolition of slavery and of capital punishment; legal regulations to protect criminals and non-human animals from cruel treatment; and the decriminalization of homosexuality as early as the late 1700s . Indeed, his manuscripts on homosexuality were so liberal that his editor hid them from the public after Bentham’s death. They were only published two centuries later.
+The classical utilitarians of the 18th and 19th centuries had social and political attitudes that were far ahead of their time: As a progressive social reformer, [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham) defended issues such as the separation of church and state; the abolition of slavery and of capital punishment; legal regulations to protect criminals and non-human animals from cruel treatment; and the decriminalization of homosexuality as early as the late 1700s . Indeed, his manuscripts on homosexuality were so liberal that his editor hid them from the public after Bentham’s death. They were only published two centuries later.
 
 [John Stuart Mill](/utilitarian-thinker/john-stuart-mill) defended the provision of social welfare for the poor and of freedom of speech. He was the second member of the MP in the UK’s Parliament to call for women’s suffrage and advocated for gender equality more generally.
 
 In a similar vein, [Henry Sidgwick](/utilitarian-thinker/henry-sidgwick) advocated for women’s education and the freedom of education from religious doctrines. Modern utilitarians like [Peter Singer](/utilitarian-thinker/peter-singer) are outspoken advocates drawing attention to against pressing moral problems such as extreme poverty and factory farming.
 
-While the early proponents of utilitarianism were still far from perfect getting everything right, their utilitarian reasoning led them to avoid escape many of the moral prejudices of their time and reach more enlightened moral and political positions. Those of us living today are, of course, no less fallible than our forebears. To help overcome our own biases, our moral and political views may similarly benefit from being checked against utilitarian principles.
+While the early proponents of utilitarianism were still far from perfect getting everything right, their utilitarian reasoning led them to escape many of the moral prejudices of their time and reach more enlightened moral and political positions. Those of us living today are, of course, no less fallible than our forebears. To help overcome our own biases, our moral and political views may similarly benefit from being checked against utilitarian principles.
 
 **_Note:_** the rest of this website provides a college-level academic guide to utilitarian moral theory. Readers interested in learning more about utilitarianism are encouraged to explore this more advanced material.
 

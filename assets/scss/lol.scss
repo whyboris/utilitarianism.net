@@ -205,7 +205,10 @@ body {
     height: 415px;
   }
 
- .book:last-child {
+}
+
+.book-outline {
+  .book {
     box-sizing: border-box;
     border: 1px solid #c5c5c5;
   }
@@ -217,6 +220,12 @@ details {
   border: 1px solid rgba(0,0,0,.125);
   user-select: none;
   margin-bottom: -1px;
+
+  summary {
+    &:hover {
+      background-color: #f4f4f4;
+    }
+  }
 
   .icon {
     transition: transform .2s ease-in-out;
@@ -706,6 +715,11 @@ hr {
   padding: 30px;
   border-radius: 5px;
 
+  span {
+    font-weight: bold;
+    color: #0b3b5b;
+  }
+
   h2 {
     text-align: center;
     color: #0b3b5b;
@@ -755,6 +769,12 @@ hr {
     }
   }
 
+  nav {
+    ol {
+      padding-inline-start: 16px;
+    }
+  }
+  
   ul {
     padding-inline-start: 0;
   }
@@ -777,6 +797,14 @@ hr {
           transform: translateY(2px);
         }
       }
+    }
+  }
+}
+
+.ol-to-ul-hack {
+  nav {
+    ol {
+      list-style-type: disc;
     }
   }
 }

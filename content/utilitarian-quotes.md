@@ -7,7 +7,7 @@ menu: "quotes"
 weight: 1
 ---
 
-{{< TOC >}}
+{{< TOC unordered="true">}}
 
 
 This page seeks to highlight and clarify important utilitarian concepts by providing illuminating quotes that are either about utilitarianism or are written from a utilitarian perspective.
