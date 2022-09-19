@@ -62,7 +62,7 @@ We have seen that it is inaccurate to claim that utilitarians treat people as �
 
 But there may be other, closely related, objections that people sometimes have in mind when they accuse utilitarianism of treating people as mere means. Some may have in mind the “separateness of persons” objection—criticizing utilitarianism for treating tradeoffs _between_ lives the same way as tradeoffs _within_ a life—which we [address separately](/objections-to-utilitarianism/separateness). Others may be concerned about how utilitarianism (in theory) permits instrumental harm when the benefits outweigh the costs. Our discussion of [the rights objection](/objections-to-utilitarianism/rights) addresses this concern in more detail. Note that in practice, utilitarians tend to be [strongly supportive of respecting rights](/utilitarianism-and-practical-ethics#respecting-commonsense-moral-norms), as societies that respect individual rights tend to do a better job of promoting overall well-being.
 
-{{< next-page >}}
+{{< next-page-objection >}}
 
 {{< how-to-cite authors="Chappell, R.Y.">}}
 

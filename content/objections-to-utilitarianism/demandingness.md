@@ -62,7 +62,7 @@ In addition, proponents of utilitarianism can note that non-utilitarian views ar
 
 Finally, proponents of utilitarianism may simply “bite the bullet” and accept that morality is very demanding. They may point out that utilitarian demands are grounded in the compelling goal to create a flourishing world with as much well-being as possible for everyone. Whenever utilitarianism requires us to give up something we value to benefit others, at least we know that this benefit is greater, often much greater, than the cost to us.
 
-{{< next-page >}}
+{{< next-page-objection >}}
 
 {{< how-to-cite >}}
 

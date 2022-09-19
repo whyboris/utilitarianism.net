@@ -2,8 +2,9 @@
 title: "Objections to Utilitarianism"
 date: 2022-08-08T10:10:52-04:00
 draft: false
-menu: "main"
+menu: ["objections", "main"]
 weight: 8
+page: 0
 ---
 
 > Bernard Williams...concluded a lengthy attack on utilitarianism by remarking: ‘The day cannot be too far off in which we hear no more of it.’ It is now more than forty years since Williams made that comment, but we continue to hear plenty about utilitarianism.[^1]  \
@@ -33,7 +34,7 @@ Third, proponents of utilitarianism can _attack the available alternatives_—su
 
 A fourth strategy is to _tolerate_ the intuition, which is sometimes called “biting the bullet”. This is to accept that utilitarianism has counterintuitive implications but to hold on to the theory because all-things-considered it is still more plausible than its rivals. The costs of accepting a counterintuitive implication, it is argued, can be outweighed by the force of [the arguments in favor of utilitarianism](/arguments-for-utilitarianism). Moreover, it is impossible to have any non-ad-hoc theory that accords with all of our intuitive moral judgements. Our intuitions are often inconsistent and they are subject to change over time, which makes it impossible to find consistent and plausible principles that reflect all of them. So it requires judgment to determine which intuitions and theoretical commitments are non-negotiable, and which we should be willing to compromise on in pursuit of “[reflective equilibrium](/arguments-for-utilitarianism#introduction-moral-methodology-amp-reflective-equilibrium)”, or the most plausible and coherent overall combination of moral judgments and principles.
 
-## Specific Objections to Utilitarianism
+## Specific Objections Against Utilitarianism
 
 In separate articles, we discuss the following critiques of utilitarianism:
 
@@ -51,7 +52,7 @@ In separate articles, we discuss the following critiques of utilitarianism:
 
 7. Finally, [the special obligations objection](/objections-to-utilitarianism/special-obligations) holds that utilitarianism is excessively impartial, and does not sufficiently account for the special obligations that we have to our friends and family.
 
-**Next page button: The Rights Objection**
+{{< next-page-objection >}}
 
 {{< how-to-cite >}}
 

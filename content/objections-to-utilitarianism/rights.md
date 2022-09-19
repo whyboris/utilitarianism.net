@@ -60,7 +60,7 @@ The final response is for the advocate of utilitarianism to â€œbite the bulletâ€
 
 Of course, it's important to stress that real life comes with no such stipulations, so in real-life cases utilitarians overwhelmingly opt to "[accommodate the intuition](#accommodating-the-intuition)" and reject the assumption that killing innocent people leads to better outcomes.
 
-{{< next-page >}}
+{{< next-page-objection >}}
 
 {{< how-to-cite >}}
 

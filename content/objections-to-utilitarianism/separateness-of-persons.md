@@ -96,7 +96,7 @@ Putting this all together, then, defenders of aggregationism can offer a two-pro
 
 We have seen that the “separateness of persons” objection to utilitarianism can take three forms, none of which is decisive. The _compensation_ objection rests on implausibly egoistic assumptions. The _fungibility_ objection involves a misconception: utilitarianism need not treat distinct individuals as fungible. Finally, while _anti-aggregative_ intuitions have some force, we have also seen that there are ways for utilitarians to resist them, and that these anti-aggregative views face even worse difficulties.
 
-{{< next-page >}}
+{{< next-page-objection >}}
 
 {{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 

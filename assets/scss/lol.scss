@@ -89,6 +89,36 @@ body {
 
 // -- END of homepage stuff
 
+
+// ARTICLE BODY ========================================
+
+.article-body {
+  max-width: 850px; 
+  margin: 0 auto;
+  padding: 30px;
+  background: white;
+
+  font-family: Merriweather;
+  -webkit-font-smoothing: subpixel-antialiased;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 16px;
+  letter-spacing: 0.03em;
+  line-height: 2em;
+  text-transform: none;
+  color: #222;
+
+  a {
+    color: #0b3b5b;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
+
+// end of article-body
+
 .all-thinkers-container {
   display: flex;
   flex-wrap: wrap;
@@ -174,16 +204,28 @@ body {
   }
 }
 
+.objections-buttons-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 36px 0 30px;
+}
+
 .small-button {
-  background-color: #0c63e4;
+  background-color: #236d9f;
+  border-radius: 5px;
   color: white;
+  display: inline-block;
   font-size: 16px;
   padding: 14px 28px;
   width: auto;
-  display: inline-block;
 
   &:hover {
     background-color: #1c567d;
+  }
+
+  a {
+    color: white;
+    text-decoration: none;
   }
 }
 
@@ -578,31 +620,6 @@ table {
   cursor: default;
 }
 
-.article-body {
-  max-width: 850px; 
-  margin: 0 auto;
-  padding: 30px;
-  background: white;
-
-  font-family: Merriweather;
-  -webkit-font-smoothing: subpixel-antialiased;
-  font-weight: 300;
-  font-style: normal;
-  font-size: 16px;
-  letter-spacing: 0.03em;
-  line-height: 2em;
-  text-transform: none;
-  color: #222;
-
-  a {
-    color: #0b3b5b;
-  }
-
-  img {
-    max-width: 100%;
-  }
-}
-
 blockquote {
   margin: 0;
   padding-left: 30px;
@@ -685,18 +702,18 @@ hr {
       padding: 12px 20px;
     }
   }
-
+  
   .callout-button {
     background: white;
-    border-radius: 0;
+    border-radius: 5px;
     color: #0b3b5b;
     cursor: pointer;
-    padding: 16px 30px;
-    margin: 10px  0 30px;
     display: inline-block;
-    user-select: none;
-    transition-property: opacity;
+    margin: 10px  0 30px;
+    padding: 16px 30px;
     transition-duration: 350ms;
+    transition-property: opacity;
+    user-select: none;
 
     &:hover {
       opacity: 0.9;
