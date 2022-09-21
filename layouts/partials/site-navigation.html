@@ -6,6 +6,8 @@
       Learn about Utilitarianism
     </a>
 
+    {{ $currentPage := . }}
+
     <div class="table-of-contents dropdown-content">
 
       {{ if .Site.Menus.main }}
@@ -14,7 +16,7 @@
           
           {{ range .Site.Menus.main }}
 
-            <li>
+            <li class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
               <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
                 {{ .Name }}
               </a>

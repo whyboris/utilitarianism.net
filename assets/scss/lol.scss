@@ -462,7 +462,6 @@ summary::-webkit-details-marker {
   }
   
   .header-navigation-item {
-    cursor: pointer;
     display: inline-block;
     margin: 20px 10px 20px;
     font-size: 15px;
@@ -491,7 +490,7 @@ summary::-webkit-details-marker {
     span {
       color: black;
     }
-  
+
     .dropdown-content {
 
       left: 50%;
@@ -530,6 +529,23 @@ summary::-webkit-details-marker {
 
       li {
         margin: 0 14px 14px;
+      }
+
+      .active {
+        list-style-type: "\00BB";
+        padding-left: 8px;
+
+        &::marker {
+          font-size: 18px;
+        }
+
+        a {
+          cursor: default !important;
+          font-size: 16px;
+          pointer-events: none;
+          font-weight: bold;
+          color: #33aaff;
+        }
       }
     }
     
