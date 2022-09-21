@@ -533,14 +533,18 @@ summary::-webkit-details-marker {
 
       .active {
         list-style-type: "\00BB";
-        padding-left: 6px;
+        padding-left: 8px;
+
+        &::marker {
+          font-size: 18px;
+        }
 
         a {
           cursor: default !important;
           font-size: 16px;
           pointer-events: none;
           font-weight: bold;
-          color: black;
+          color: #33aaff;
         }
       }
     }
