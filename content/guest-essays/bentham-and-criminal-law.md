@@ -1,8 +1,11 @@
 ---
 title: "Bentham and Criminal Law"
+book: "Bentham and Criminal Law"
+year: "2022"
 date: 2022-08-08T10:10:55-04:00
 author: Steven Sverdlik
 draft: false
+layout: "book"
 menu: "guest"
 weight: 4
 image: "/img/essays/criminal-law.jpg"
