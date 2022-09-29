@@ -66,7 +66,7 @@ Addressing these problems may involve [donating generously to effective charitie
 
 ### Utilitarian Thinkers
 
-{{< all-thinkers >}}
+{{< all-thinkers true >}}
 
 </div>
 
