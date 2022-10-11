@@ -15,11 +15,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/posts
-  label: Posts
-  create: all
-  match: "**/*"
-- type: directory
   path: content/objections-to-utilitarianism
   label: Objections to utilitarianism
   create: all
@@ -32,6 +27,11 @@ sections:
 - type: directory
   path: content/books
   label: Books
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/posts
+  label: Posts
   create: all
   match: "**/*"
 upload_dir: static/uploads
