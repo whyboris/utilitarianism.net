@@ -1,0 +1,104 @@
+// Table of contents (TOC)
+
+.table-of-contents {
+  background: $off-white;
+  padding: 30px;
+  border-radius: 5px;
+
+  span {
+    font-weight: bold;
+    color: $dark-blue;
+  }
+
+  h2 {
+    text-align: center;
+    color: $dark-blue;
+  }
+
+  li::marker {
+    font-size: 12px;
+    color: $very-light-blue;
+  }
+
+  .selected {
+    font-weight: bold;
+    pointer-events: none;
+
+    a {
+      pointer-events: none;
+    }
+  }
+
+  // WARNING !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  // this hides all the items under `Resources and Further Reading`
+  // from all `table-of-contents` class -- and may accidentally
+  // hide something we didn't want to hide! Check all pages carefully
+  ol {
+    li:last-child {
+      ol {
+        display: none;
+      }
+    }
+  }
+
+  span {
+    font-size: 20px;
+  }
+
+  a {
+    display: block;
+    margin-left: 6px;
+    text-decoration: none;
+    color: black;
+    transition-property: color;
+    transition-duration: 350ms;
+
+    &:hover {
+      color: $very-light-blue;
+      transition-duration: 50ms;
+    }
+  }
+
+  nav {
+    ol {
+      padding-inline-start: 16px;
+    }
+  }
+
+  ul {
+    padding-inline-start: 0;
+  }
+
+  ol {
+    padding-inline-start: 0;
+
+    li {
+      ol {
+        padding-inline-start: 20px;
+
+        li {
+          font-size: 14px;
+        }
+
+        li::marker {
+          content: "○";
+          font-size: 10px;
+          position: absolute;
+          transform: translateY(2px);
+        }
+      }
+    }
+  }
+}
+
+.ol-to-ul-hack {
+  nav {
+    ol {
+      list-style-type: disc;
+    }
+  }
+}
+
+.book-table-of-contents {
+  font-size: 14px;
+}

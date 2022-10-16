@@ -5,6 +5,8 @@
 @import 'homepage';
 @import 'footer';
 @import 'thinkers';
+@import 'toc'; // table of contents
+@import 'glossary';
 @import 'footnotes';
 
 // Miscellaneous styling
@@ -146,59 +148,6 @@ body {
   }
 }
 
-// GLOSSARY STUFF
-
-details {
-  border: 1px solid rgba(0,0,0,.125);
-  user-select: none;
-  margin-bottom: -1px;
-
-  summary {
-    &:hover {
-      background-color: $off-white;
-    }
-  }
-
-  .icon {
-    transition: transform .2s ease-in-out;
-    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23212529'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e")
-  }
-
-  p {
-    margin: 12px;
-  }
-}
-
-details>summary span.icon {
-  width: 20px;
-  height: 20px;
-  margin-top: 5px;
-  margin-right: 5px;
-  transition: all 0.3s;
-  margin-left: auto;
-}
-
-details[open] summary span.icon {
-  transform: rotate(180deg);
-}
-
-details[open] summary {
-  color: $glossary-blue;
-  background-color: $glossary-white-blue;
-}
-
-summary {
-  display: flex;
-  cursor: pointer;
-  font-weight: bold;
-  padding: 12px;
-}
-
-summary::-webkit-details-marker {
-  display: none;
-}
-
-// END OF GLOSSARY STUFF
 
 .read-more {
   text-align: right;
@@ -324,7 +273,6 @@ blockquote {
   }
 }
 
-
 strong {
   font-weight: bold;
 }
@@ -378,110 +326,6 @@ hr {
   padding: 10px 0;
 }
 
-/* ========================== TABLE OF CONTENTS ========================= */
-
-.table-of-contents {
-  background: $off-white;
-  padding: 30px;
-  border-radius: 5px;
-
-  span {
-    font-weight: bold;
-    color: $dark-blue;
-  }
-
-  h2 {
-    text-align: center;
-    color: $dark-blue;
-  }
-
-  li::marker {
-    font-size:12px;
-    color: $very-light-blue;
-  }
-
-  .selected {
-    font-weight: bold;
-    pointer-events: none;
-
-    a {
-      pointer-events: none;
-    }
-  }
-
-  // WARNING !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-  // this hides all the items under `Resources and Further Reading`
-  // from all `table-of-contents` class -- and may accidentally
-  // hide something we didn't want to hide! Check all pages carefully
-  ol {
-    li:last-child {
-      ol {
-        display: none;
-      }
-    }
-  }
-
-  span {
-    font-size: 20px;
-  }
-
-  a {
-    display: block;
-    margin-left: 6px;
-    text-decoration: none;
-    color: black;
-    transition-property: color;
-    transition-duration: 350ms;
-
-    &:hover {
-      color: $very-light-blue;
-      transition-duration: 50ms;
-    }
-  }
-
-  nav {
-    ol {
-      padding-inline-start: 16px;
-    }
-  }
-
-  ul {
-    padding-inline-start: 0;
-  }
-
-  ol {
-    padding-inline-start: 0;
-
-    li {
-      ol {
-        padding-inline-start: 20px;
-
-        li {
-          font-size: 14px;
-        }
-
-        li::marker {
-          content: '○';
-          font-size: 10px;
-          position: absolute;
-          transform: translateY(2px);
-        }
-      }
-    }
-  }
-}
-
-.ol-to-ul-hack {
-  nav {
-    ol {
-      list-style-type: disc;
-    }
-  }
-}
-
-.book-table-of-contents {
-  font-size: 14px;
-}
 
 .book-header {
   text-align: center;
