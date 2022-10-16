@@ -129,8 +129,21 @@ body {
     display: inline-block;
     padding: 15px;
 
+    .name {
+      color: black;
+      margin-top: 6px;
+    }
+
+    .image img {
+      border-radius: 5px;
+    }
+
     &:hover {
       background-color: #f5f5f5;
+
+      .name {
+        color: #1c567d;
+      }
 
       .image {
         filter: none;
@@ -318,6 +331,10 @@ summary::-webkit-details-marker {
   
   & + p {
     margin-top: 0;
+  }
+
+  img {
+    border-radius: 5px;
   }
 }
 
