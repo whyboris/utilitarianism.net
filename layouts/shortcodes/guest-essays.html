@@ -1,0 +1,20 @@
+{{/* pass in `true` to hide the <hr> */}}
+{{ if not (.Get 0) }}<hr>{{ end }}
+
+<div class="guest-essay-container homepage-guest-essay-container">
+  {{ range first 3 .Site.Menus.guest.Sort.ByWeight }}
+  <a href="{{ .URL }}">
+    {{ with .Page }}
+    <div class="guest-essay">
+      <div class="image-container" style="background-image: url('{{ .Params.image }}')">
+        <!-- <img src="{{ .Params.image }}" alt="{{ .Params.imageCaption }}" /> -->
+      </div>
+      <h2>{{ .Title }}</h2>
+
+      <span class="author"> {{ .Params.author }} </span>
+
+    </div>
+    {{ end }}
+  </a>
+  {{ end }}
+</div>

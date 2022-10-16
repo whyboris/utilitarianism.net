@@ -7,6 +7,7 @@
 @import 'thinkers';
 @import 'toc'; // table of contents
 @import 'glossary';
+@import 'buttons';
 @import 'footnotes';
 
 // Miscellaneous styling
@@ -82,6 +83,7 @@ body {
     margin-right: 30px;
     overflow: hidden;
     width: 200px;
+    border-radius: 5px;
   }
 
   .guest-essay {
@@ -89,6 +91,23 @@ body {
     display: block;
     margin-bottom: 30px;
     min-height: 300px;
+    border-radius: 5px;
+  }
+}
+
+.homepage-guest-essay-container {
+  h2 {
+    font-size: 16px;
+  }
+
+  .guest-essay {
+    min-height: 80px;
+    padding: 5px;
+  }
+
+  .image-container {
+    height: 80px;
+    width: 80px;
   }
 }
 
