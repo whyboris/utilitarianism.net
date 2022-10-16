@@ -1,25 +1,6 @@
-// Blue colors for the website
-$dark-blue: #0b3b5b;
-$medium-blue: #236d9f;
-$light-blue: #1c567d;
-$very-light-blue: #33aaff;
+@import 'colors';
+@import 'font';
 
-$oxford-blue: #012147; //            1 use only
-$callout-gradient-blue: #3380b4; //  1 use only
-
-// Glossary only:
-$glossary-blue: #0c63e4; //          1 use only
-$glossary-white-blue: #e7f1ff; //    1 use only
-
-// Grays
-$off-white: #f5f5f5; // 5 uses
-$footnote-number-bg: #eeeeee; // footnote number  - 1 use only
-$gray-ddd: #dddddd; // hr                         - 1 use only
-$gray-ccc: #cccccc; // 8 uses
-$gray-aaa: #aaaaaa; // table header               - 1 use only
-$gray-999: #999999; // site footer marker         - 1 use only
-$gray-333: #333333; // site footer bg             - 1 use only
-$font-color: #222222; // article font color       - 1 use only
 
 // Styling
 
@@ -53,13 +34,13 @@ body {
       color: $dark-blue;
     }
   }
-    
+
   .homepage-center {
     margin: 0 auto;
     max-width: 850px;
     padding: 30px 0;
   }
-  
+
   .dark-background {
     background-color: $dark-blue;
     color: white;
@@ -94,7 +75,7 @@ body {
         }
       }
     }
-  
+
     blockquote {
       border: 0;
       padding: 50px;
@@ -104,7 +85,7 @@ body {
         font-style: italic;
       }
     }
-  
+
     a {
       color: white;
     }
@@ -118,7 +99,7 @@ body {
 // ARTICLE BODY ========================================
 
 .article-body {
-  max-width: 850px; 
+  max-width: 850px;
   margin: 0 auto;
   padding: 30px;
   background: white;
@@ -173,7 +154,7 @@ body {
 
       .image {
         filter: none;
-        
+
         img {
           transform: translateY(-5px);
           transition-property: box-shadow transform;
@@ -187,7 +168,7 @@ body {
   .name {
     text-align: center;
   }
-  
+
   .image {
     filter: saturate(0%);
     width: 150px;
@@ -217,7 +198,7 @@ body {
       }
     }
   }
-  
+
   h2 {
     margin: 0 0;
     line-height: 40px;
@@ -241,7 +222,7 @@ body {
     overflow: hidden;
     width: 200px;
   }
-  
+
   .guest-essay {
     padding: 20px;
     display: block;
@@ -284,7 +265,7 @@ body {
 .books {
   display: grid;
   grid-template-columns: 260px 260px 260px;
-  // grid-template-rows: 80px auto 80px; 
+  // grid-template-rows: 80px auto 80px;
   column-gap: 30px;
   row-gap: 30px;
 
@@ -361,7 +342,7 @@ summary::-webkit-details-marker {
   height: 235px;
   margin-right: 20px;
   width: 235px;
-  
+
   & + p {
     margin-top: 0;
   }
@@ -407,7 +388,7 @@ summary::-webkit-details-marker {
 }
 
 .prof-bottom-hack {
-  clear: both; 
+  clear: both;
   margin-bottom: 40px
 }
 
@@ -458,7 +439,7 @@ summary::-webkit-details-marker {
   padding-top: 20px;
   position: relative;
   text-align: center;
-  
+
   .oxford-container {
     background: $oxford-blue;
     border-radius: 50%;
@@ -469,7 +450,7 @@ summary::-webkit-details-marker {
     overflow: hidden;
     padding: 8px;
   }
-  
+
   .disclaimer-text {
     color: $gray-ccc;
     font-family: sans-serif;
@@ -505,12 +486,12 @@ summary::-webkit-details-marker {
   .logo {
     width: 200px;
     margin: 20px;
- 
+
     img {
       max-width: 100%;
     }
   }
-  
+
   .header-navigation-item {
     display: inline-block;
     margin: 20px 10px 20px;
@@ -536,7 +517,7 @@ summary::-webkit-details-marker {
     }
   }
 
-  .dropdown {  
+  .dropdown {
     span {
       color: black;
     }
@@ -568,7 +549,7 @@ summary::-webkit-details-marker {
         margin-left: 16px;
         margin-top: 4px;
       }
-      
+
       .year {
         color: $light-blue;
         display: inline-block;
@@ -598,7 +579,7 @@ summary::-webkit-details-marker {
         }
       }
     }
-    
+
     &:hover .dropdown-content {
       display: block;
     }
@@ -668,7 +649,7 @@ table {
   width: 100%;
   font-family: sans-serif;
   font-size: 14px;
-  
+
   tr td, table tr th {
     border:1px solid $gray-ccc;
   }
@@ -728,14 +709,14 @@ blockquote {
   max-height: 500px !important;
 }
 
-/* 
+/*
 .littlefoot-footnote.is-scrollable::after {
   opacity: 0.5 !important;
 }
-  
+
 .is-fully-scrolled::after {
   opacity: 0 !important;
-} 
+}
 */
 
 strong {
@@ -760,15 +741,15 @@ hr {
   p, h2 {
     margin-bottom: 6px;
   }
- 
+
   .two-button-callout {
     display: flex;
-    
+
     .callout-button {
       padding: 12px 20px;
     }
   }
-  
+
   .callout-button {
     background: white;
     border-radius: 5px;
@@ -824,7 +805,7 @@ hr {
 
   // WARNING !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
   // this hides all the items under `Resources and Further Reading`
-  // from all `table-of-contents` class -- and may accidentally 
+  // from all `table-of-contents` class -- and may accidentally
   // hide something we didn't want to hide! Check all pages carefully
   ol {
     li:last-child {
@@ -845,7 +826,7 @@ hr {
     color: black;
     transition-property: color;
     transition-duration: 350ms;
-    
+
     &:hover {
       color: $very-light-blue;
       transition-duration: 50ms;
@@ -857,7 +838,7 @@ hr {
       padding-inline-start: 16px;
     }
   }
-  
+
   ul {
     padding-inline-start: 0;
   }
@@ -913,7 +894,7 @@ hr {
     display: block;
     margin: 5px;
   }
-  
+
   .year {
     opacity: 0.8;
     font-size: 14px;
