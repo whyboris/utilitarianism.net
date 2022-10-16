@@ -1,3 +1,28 @@
+// Blue colors for the website
+$dark-blue: #0b3b5b;
+$medium-blue: #236d9f;
+$light-blue: #1c567d;
+$very-light-blue: #33aaff;
+
+$oxford-blue: #012147; //            1 use only
+$callout-gradient-blue: #3380b4; //  1 use only
+
+// Glossary only:
+$glossary-blue: #0c63e4; //          1 use only
+$glossary-white-blue: #e7f1ff; //    1 use only
+
+// Grays
+$off-white: #f5f5f5; // 5 uses
+$footnote-number-bg: #eeeeee; // footnote number  - 1 use only
+$gray-ddd: #dddddd; // hr                         - 1 use only
+$gray-ccc: #cccccc; // 8 uses
+$gray-aaa: #aaaaaa; // table header               - 1 use only
+$gray-999: #999999; // site footer marker         - 1 use only
+$gray-333: #333333; // site footer bg             - 1 use only
+$font-color: #222222; // article font color       - 1 use only
+
+// Styling
+
 code {
   /* so we can detect and convert `    ` to `>` and make it `blockquote` */
   border: 10px solid red !important;
@@ -25,7 +50,7 @@ body {
     line-height: 2em;
 
     a {
-      color: #0b3b5b;
+      color: $dark-blue;
     }
   }
     
@@ -36,12 +61,12 @@ body {
   }
   
   .dark-background {
-    background-color: #0b3b5b;
+    background-color: $dark-blue;
     color: white;
 
     .temp-navigation-hack {
       background: white;
-      color: #0b3b5b;
+      color: $dark-blue;
 
       span {
         font-weight: bold;
@@ -58,14 +83,14 @@ body {
 
       li::marker {
         font-size:12px;
-        color: #33aaff;
+        color: $very-light-blue;
       }
 
       a {
-        color: #0b3b5b;
+        color: $dark-blue;
 
         &:hover {
-          color: #33aaff;
+          color: $very-light-blue;
         }
       }
     }
@@ -106,10 +131,10 @@ body {
   letter-spacing: 0.03em;
   line-height: 2em;
   text-transform: none;
-  color: #222;
+  color: $font-color;
 
   a {
-    color: #0b3b5b;
+    color: $dark-blue;
   }
 
   img {
@@ -143,7 +168,7 @@ body {
 
     &:hover {
       .name {
-        color: #1c567d;
+        color: $light-blue;
       }
 
       .image {
@@ -188,7 +213,7 @@ body {
 
     &:hover {
       div {
-        background-color: #f5f5f5;
+        background-color: $off-white;
       }
     }
   }
@@ -232,7 +257,7 @@ body {
 }
 
 .small-button {
-  background-color: #236d9f;
+  background-color: $medium-blue;
   border-radius: 5px;
   color: white;
   display: inline-block;
@@ -241,7 +266,7 @@ body {
   width: auto;
 
   &:hover {
-    background-color: #1c567d;
+    background-color: $light-blue;
   }
 
   a {
@@ -273,7 +298,7 @@ body {
 .book-outline {
   .book {
     box-sizing: border-box;
-    border: 1px solid #c5c5c5;
+    border: 1px solid $gray-ccc;
   }
 }
 
@@ -286,7 +311,7 @@ details {
 
   summary {
     &:hover {
-      background-color: #f4f4f4;
+      background-color: $off-white;
     }
   }
 
@@ -314,8 +339,8 @@ details[open] summary span.icon {
 }
 
 details[open] summary {
-  color: #0c63e4;
-  background-color: #e7f1ff;
+  color: $glossary-blue;
+  background-color: $glossary-white-blue;
 }
 
 summary {
@@ -352,7 +377,7 @@ summary::-webkit-details-marker {
   .name {
     font-size: 20px;
     font-weight: bold;
-    color: #0b3b5b;
+    color: $dark-blue;
   }
   .year {
     font-size: 14px;
@@ -369,7 +394,7 @@ summary::-webkit-details-marker {
   }
 
   .uni {
-    color: #0b3b5b;
+    color: $dark-blue;
     display: block;
     font-size: 14px;
     transform: translateY(-6px);
@@ -389,7 +414,7 @@ summary::-webkit-details-marker {
 // FOOTER ============================
 
 .site-footer {
-  background-color: #363636;
+  background-color: $gray-333;
   padding-top: 50px;
 }
 
@@ -400,7 +425,7 @@ summary::-webkit-details-marker {
 
 
   li::marker {
-    color: #999999;
+    color: $gray-999;
   }
 
   .footer-heading {
@@ -435,7 +460,7 @@ summary::-webkit-details-marker {
   text-align: center;
   
   .oxford-container {
-    background: #012147;
+    background: $oxford-blue;
     border-radius: 50%;
     box-sizing: border-box;
     margin: 0 auto;
@@ -446,7 +471,7 @@ summary::-webkit-details-marker {
   }
   
   .disclaimer-text {
-    color: #eeeeee;
+    color: $gray-ccc;
     font-family: sans-serif;
     font-size: 12px;
     line-height: 26px;
@@ -493,10 +518,10 @@ summary::-webkit-details-marker {
 
     a {
       text-decoration: none;
-      color: #0b3b5b;
+      color: $dark-blue;
 
       &:hover {
-        color: #33aaff;
+        color: $very-light-blue;
       }
     }
   }
@@ -521,7 +546,7 @@ summary::-webkit-details-marker {
       left: 50%;
       transform: translateX(-50%);
 
-      background-color: #f9f9f9;
+      background-color: $off-white;
       box-shadow: 0px 4px 16px 0px rgba(0,0,0,0.2);
       display: none;
       // max-width: 420px;
@@ -537,7 +562,7 @@ summary::-webkit-details-marker {
       }
 
       .author {
-        color: #1c567d;
+        color: $light-blue;
         display: inline-block;
         font-size: 12px;
         margin-left: 16px;
@@ -545,7 +570,7 @@ summary::-webkit-details-marker {
       }
       
       .year {
-        color: #1c567d;
+        color: $light-blue;
         display: inline-block;
         font-size: 12px;
         opacity: 0.7;
@@ -569,7 +594,7 @@ summary::-webkit-details-marker {
           font-size: 16px;
           pointer-events: none;
           font-weight: bold;
-          color: #33aaff;
+          color: $very-light-blue;
         }
       }
     }
@@ -587,7 +612,7 @@ summary::-webkit-details-marker {
 }
 
 .website-header-2 {
-  background-color: #f5f5f5;
+  background-color: $off-white;
   max-width: initial;
   display: block;
   height: 40px;
@@ -609,18 +634,18 @@ summary::-webkit-details-marker {
 }
 
 .temp-navigation-hack {
-  border: 1px solid #ccc;
+  border: 1px solid $gray-ccc;
   padding: 10px;
   color: white;
 
   a {
     display: block;
     padding-top: 16px;
-    color: #0b3b5b;
+    color: $dark-blue;
     text-decoration: none;
 
     &:hover {
-      color: #33aaff;
+      color: $very-light-blue;
     }
   }
 }
@@ -645,7 +670,7 @@ table {
   font-size: 14px;
   
   tr td, table tr th {
-    border:1px solid #ccc;
+    border:1px solid $gray-ccc;
   }
 
   td, th {
@@ -653,7 +678,7 @@ table {
   }
 
   th {
-    border: 1px solid #aaa;
+    border: 1px solid $gray-aaa;
   }
 }
 
@@ -664,7 +689,7 @@ table {
 blockquote {
   margin: 0;
   padding-left: 30px;
-  border-left: 2px solid #c5c5c5;
+  border-left: 2px solid $gray-ccc;
 }
 
 .citation {
@@ -684,7 +709,7 @@ blockquote {
   line-height: 20px;
   display: inline-block;
   transform: translateY(-8px);
-  background: #eee;
+  background: $footnote-number-bg;
   padding: 1px 3px;
   border-radius: 3px;
 }
@@ -720,12 +745,12 @@ strong {
 hr {
   border: none;
   height: 1px;
-  background-color: #b0b0b080;
+  background-color: $gray-ddd;
   margin: 40px 0;
 }
 
 .callout {
-  background: linear-gradient(90deg,#1c567d 20%,#3380b4 100%);
+  background: linear-gradient(90deg,$light-blue 20%, $callout-gradient-blue 100%);
   padding: 20px 60px;
   border-radius: 5px;
   color: white;
@@ -747,7 +772,7 @@ hr {
   .callout-button {
     background: white;
     border-radius: 5px;
-    color: #0b3b5b;
+    color: $dark-blue;
     cursor: pointer;
     display: inline-block;
     margin: 10px  0 30px;
@@ -769,23 +794,23 @@ hr {
 /* ========================== TABLE OF CONTENTS ========================= */
 
 .table-of-contents {
-  background: #f4f4f4;
+  background: $off-white;
   padding: 30px;
   border-radius: 5px;
 
   span {
     font-weight: bold;
-    color: #0b3b5b;
+    color: $dark-blue;
   }
 
   h2 {
     text-align: center;
-    color: #0b3b5b;
+    color: $dark-blue;
   }
 
   li::marker {
     font-size:12px;
-    color: #33aaff;
+    color: $very-light-blue;
   }
 
   .selected {
@@ -822,7 +847,7 @@ hr {
     transition-duration: 350ms;
     
     &:hover {
-      color: #33aaff;
+      color: $very-light-blue;
       transition-duration: 50ms;
     }
   }
