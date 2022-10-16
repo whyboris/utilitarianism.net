@@ -102,3 +102,15 @@
 .book-table-of-contents {
   font-size: 14px;
 }
+
+.hide-TOC-children-hack {
+  ol {
+    li {
+      ol {
+        li {
+          display: none;
+        }
+      }
+    }
+  }
+}

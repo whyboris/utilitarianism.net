@@ -222,18 +222,6 @@ body {
   }
 }
 
-.hide-TOC-children-hack {
-  ol {
-    li {
-      ol {
-        li {
-          display: none;
-        }
-      }
-    }
-  }
-}
-
 table {
   border-spacing: 0px;
   border:0;
@@ -284,43 +272,6 @@ hr {
   margin: 40px 0;
 }
 
-.callout {
-  background: linear-gradient(90deg,$light-blue 20%, $callout-gradient-blue 100%);
-  padding: 20px 60px;
-  border-radius: 5px;
-  color: white;
-  margin-bottom: 30px;
-  margin-top: 20px;
-
-  p, h2 {
-    margin-bottom: 6px;
-  }
-
-  .two-button-callout {
-    display: flex;
-
-    .callout-button {
-      padding: 12px 20px;
-    }
-  }
-
-  .callout-button {
-    background: white;
-    border-radius: 5px;
-    color: $dark-blue;
-    cursor: pointer;
-    display: inline-block;
-    margin: 10px  0 30px;
-    padding: 16px 30px;
-    transition-duration: 350ms;
-    transition-property: opacity;
-    user-select: none;
-
-    &:hover {
-      opacity: 0.9;
-    }
-  }
-}
 
 .large-hit-box {
   padding: 10px 0;
