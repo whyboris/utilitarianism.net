@@ -1,3 +1,31 @@
+.next-page-button {
+  text-align: right;
+}
+
+.objections-buttons-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 36px 0 30px;
+}
+
+.small-button {
+  background-color: $medium-blue;
+  border-radius: 5px;
+  color: white;
+  display: inline-block;
+  font-size: 16px;
+  padding: 14px 28px;
+  width: auto;
+
+  &:hover {
+    background-color: $light-blue;
+  }
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}
 
 .callout {
   background: linear-gradient(90deg,$light-blue 20%, $callout-gradient-blue 100%);

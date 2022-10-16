@@ -49,10 +49,6 @@ body {
 // end of article-body
 
 
-.next-page-button {
-  text-align: right;
-}
-
 .guest-essay-container {
   a {
     text-decoration: none;
@@ -96,30 +92,6 @@ body {
   }
 }
 
-.objections-buttons-container {
-  display: flex;
-  justify-content: space-around;
-  margin: 36px 0 30px;
-}
-
-.small-button {
-  background-color: $medium-blue;
-  border-radius: 5px;
-  color: white;
-  display: inline-block;
-  font-size: 16px;
-  padding: 14px 28px;
-  width: auto;
-
-  &:hover {
-    background-color: $light-blue;
-  }
-
-  a {
-    color: white;
-    text-decoration: none;
-  }
-}
 
 .coffee-house {
   font-size: 12px;
@@ -173,10 +145,6 @@ body {
 .prof-bottom-hack {
   clear: both;
   margin-bottom: 40px
-}
-
-.main-body-class {
-  background-color: white;
 }
 
 .high-z-index {
