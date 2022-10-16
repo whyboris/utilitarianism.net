@@ -1,0 +1,74 @@
+// HOMEPAGE STUFF
+
+// .homepage-main { } // disabled - might never need
+
+.homepage-body {
+  p {
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    line-height: 2em;
+
+    a {
+      color: $dark-blue;
+    }
+  }
+
+  .homepage-center {
+    margin: 0 auto;
+    max-width: 850px;
+    padding: 30px 0;
+  }
+
+  .dark-background {
+    background-color: $dark-blue;
+    color: white;
+
+    .temp-navigation-hack {
+      background: white;
+      color: $dark-blue;
+      border-radius: 5px;
+
+      span {
+        font-weight: bold;
+        font-size: 18px;
+        margin: 18px 0 -16px 12px;
+        display: block;
+      }
+
+      li {
+        a {
+          margin-left: 10px;
+        }
+      }
+
+      li::marker {
+        font-size: 12px;
+        color: $very-light-blue;
+      }
+
+      a {
+        color: $dark-blue;
+
+        &:hover {
+          color: $very-light-blue;
+        }
+      }
+    }
+
+    blockquote {
+      border: 0;
+      padding: 50px;
+
+      p {
+        font-size: 18px;
+        font-style: italic;
+      }
+    }
+
+    a {
+      color: white;
+    }
+  }
+}
+
+// -- END of homepage stuff

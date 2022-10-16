@@ -168,7 +168,7 @@ Many critics argue that utilitarianism is too demanding, because it requires us 
 
 Consider that the money a person spends on dining out could pay for several bednets, each protecting two children in a low-income country from malaria for about two years.[^12] From a utilitarian perspective, the benefit to the person from dining out is much smaller than the benefit to the children from not having malaria, so it would seem the person has acted wrongly in choosing to have a meal out. Analogous reasoning applies to how we use our time: the hours someone spends on social media should apparently be spent volunteering for a charity, or working harder at one’s job to earn more money to donate.
 
-See the article [The Demandingness Objection](/objections-to-utilitarianism/demandingness)****on how proponents of utilitarianism might respond to this objection.
+See the article [The Demandingness Objection](/objections-to-utilitarianism/demandingness) on how proponents of utilitarianism might respond to this objection.
 
 </details>
 
@@ -258,7 +258,7 @@ Some argue that utilitarianism conflicts with the ideal of equality. Suppose, fo
 
 By the lights of utilitarianism, only the sum total of well-being determines the goodness of an outcome: it does not matter how that well-being is distributed across people. Since the sum total of well-being is greater in Inequality (= 50) than in Equality (= 45), the unequal outcome is preferable according to utilitarianism. Some philosophers object to the utilitarian view regarding this choice, claiming that the equal distribution of well-being in Equality provides a reason to choose this outcome. On this view, total well-being is not all that matters; equality of distribution also matters. Equality, it is claimed, is an important moral consideration that the utilitarian overlooks.
 
-See the article [The Equality Objection](/objections-to-utilitarianism/equality)****on how proponents of utilitarianism might respond to this objection.
+See the article [The Equality Objection](/objections-to-utilitarianism/equality) on how proponents of utilitarianism might respond to this objection.
 
 </details>
 
@@ -391,7 +391,7 @@ _→ Main article: [Impartiality](/types-of-utilitarianism#impartiality-and-the-
 
 Impartiality is the view that the identity of individuals is irrelevant to the value of an outcome. Utilitarians accept a conception of impartiality that further entails the _equal consideration of interests_: that is, the claim that equal weight must be given to the interests of all individuals. This means treating well-being as equally valuable regardless of when, where, or to whom it occurs. As a consequence, utilitarianism values the well-being of all individuals equally, regardless of their nationality, gender, [where](/utilitarianism-and-practical-ethics#cosmopolitanism) or [when they live](/utilitarianism-and-practical-ethics#longtermism), or even [their species](/utilitarianism-and-practical-ethics#speciesism).
 
-Impartiality****is one of the [four elements of utilitarian ethical theories](/types-of-utilitarianism#the-four-elements-of-utilitarianism).
+Impartiality is one of the [four elements of utilitarian ethical theories](/types-of-utilitarianism#the-four-elements-of-utilitarianism).
 
 </details>
 
@@ -613,7 +613,7 @@ According to commonsense morality and many non-utilitarian theories, there are c
 
 Sometimes, realizing the best outcome may require violating moral constraints⁠ against harming others⁠—that is, violating their rights. For example, suppose there were five people waiting for an organ transplant and that you could save their lives if you killed one other person to harvest their organs. Intuitively, we would regard this as wrong, but it seems that utilitarianism would regard this as morally required.
 
-See the article [The Rights Objection](/objections-to-utilitarianism/rights)****on how proponents of utilitarianism might respond to this objection.
+See the article [The Rights Objection](/objections-to-utilitarianism/rights) on how proponents of utilitarianism might respond to this objection.
 
 </details>
 

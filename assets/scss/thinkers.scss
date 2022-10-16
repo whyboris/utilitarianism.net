@@ -1,0 +1,87 @@
+.all-thinkers-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  .thinker-container {
+    border-radius: 5px;
+    display: inline-block;
+    padding: 15px;
+
+    .name {
+      color: black;
+      margin-top: 6px;
+    }
+
+    .image img {
+      box-shadow: 0 0 0 rgba(0, 0, 0, 0.3);
+      border-radius: 5px;
+      transition-property: box-shadow transform;
+      transition-duration: 250ms;
+    }
+
+    &:hover {
+      .name {
+        color: $light-blue;
+      }
+
+      .image {
+        filter: none;
+
+        img {
+          transform: translateY(-5px);
+          transition-property: box-shadow transform;
+          transition-duration: 250ms;
+          box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
+        }
+      }
+    }
+  }
+
+  .name {
+    text-align: center;
+  }
+
+  .image {
+    filter: saturate(0%);
+    width: 150px;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  a {
+    text-decoration: none;
+    font-size: 14px;
+  }
+}
+
+.thinker {
+  float: left;
+  height: 235px;
+  margin-right: 20px;
+  width: 235px;
+
+  & + p {
+    margin-top: 0;
+  }
+
+  img {
+    border-radius: 5px;
+  }
+}
+
+.thinker-name {
+  padding-top: 10px;
+
+  .name {
+    font-size: 20px;
+    font-weight: bold;
+    color: $dark-blue;
+  }
+  .year {
+    font-size: 14px;
+    margin-left: 10px;
+  }
+}

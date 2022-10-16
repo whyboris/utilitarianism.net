@@ -1,0 +1,5 @@
+
+{{ $style := resources.Get "scss/lol.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+<link rel="stylesheet" href="https://unpkg.com/littlefoot/dist/littlefoot.css" />

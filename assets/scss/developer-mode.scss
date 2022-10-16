@@ -1,0 +1,4 @@
+/* so we can detect and convert `    ` to `>` and make it `blockquote` */
+code {
+  border: 10px solid red !important;
+}

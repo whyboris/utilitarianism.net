@@ -1,0 +1,68 @@
+// FOOTER ============================
+
+.site-footer {
+  background-color: $gray-333;
+  padding-top: 50px;
+}
+
+.footer-navigation {
+  display: flex;
+  justify-content: center;
+  position: relative;
+
+  li::marker {
+    color: $gray-999;
+  }
+
+  .footer-heading {
+    font-weight: bold;
+    font-size: 18px;
+    transform: translate(-10px, -10px);
+    display: block;
+  }
+
+  .temp-navigation-hack {
+    border: 0;
+
+    ol {
+      transform: translate(-16px, -16px);
+      ul {
+        transform: translate(-16px, 0);
+      }
+    }
+
+    a {
+      margin-left: 6px;
+      color: white;
+    }
+  }
+}
+
+.disclaimer {
+  bottom: 20px;
+  margin-top: 16px;
+  padding-top: 20px;
+  position: relative;
+  text-align: center;
+
+  .oxford-container {
+    background: $oxford-blue;
+    border-radius: 50%;
+    box-sizing: border-box;
+    margin: 0 auto;
+    max-height: 90px;
+    max-width: 90px;
+    overflow: hidden;
+    padding: 8px;
+  }
+
+  .disclaimer-text {
+    color: $gray-ccc;
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 26px;
+    margin-top: 10px;
+  }
+}
+
+// END OF FOOTER ^^^^^^^^^^^^^^^^^^^^^^^^^
