@@ -135,18 +135,26 @@ body {
     }
 
     .image img {
+      box-shadow: 0 0 0 rgba(0, 0, 0, 0.3);
       border-radius: 5px;
+      transition-property: box-shadow transform;
+      transition-duration: 250ms;
     }
 
     &:hover {
-      background-color: #f5f5f5;
-
       .name {
         color: #1c567d;
       }
 
       .image {
         filter: none;
+        
+        img {
+          transform: translateY(-5px);
+          transition-property: box-shadow transform;
+          transition-duration: 250ms;
+          box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
+        }
       }
     }
   }
