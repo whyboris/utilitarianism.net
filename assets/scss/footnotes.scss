@@ -1,0 +1,36 @@
+.footnote-number {
+  color: blue;
+  cursor: pointer;
+  display: inline;
+  font-size: 12px;
+  line-height: 20px;
+  display: inline-block;
+  transform: translateY(-8px);
+  background: $footnote-number-bg;
+  padding: 1px 3px;
+  border-radius: 3px;
+}
+
+.littlefoot-footnote__content > p {
+  font-size: 14px !important;
+  margin: 10px 0 !important;
+  line-height: 24px;
+}
+
+.littlefoot-footnote__wrapper {
+  min-width: 500px;
+}
+
+.littlefoot-footnote__content {
+  max-height: 500px !important;
+}
+
+/*
+.littlefoot-footnote.is-scrollable::after {
+  opacity: 0.5 !important;
+}
+
+.is-fully-scrolled::after {
+  opacity: 0 !important;
+}
+*/

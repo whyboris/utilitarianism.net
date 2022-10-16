@@ -1,13 +1,13 @@
+// @import 'developer-mode'; // keep disabled
 @import 'colors';
 @import 'font';
+@import 'header';
+@import 'homepage';
+@import 'footer';
+@import 'thinkers';
+@import 'footnotes';
 
-
-// Styling
-
-code {
-  /* so we can detect and convert `    ` to `>` and make it `blockquote` */
-  border: 10px solid red !important;
-}
+// Miscellaneous styling
 
 * {
   font-family: Merriweather;
@@ -16,85 +16,6 @@ code {
 body {
   margin: 0;
 }
-
-// HOMEPAGE STUFF
-
-// .homepage-main {
-  // disabled - might never need
-// }
-
-.homepage-body {
-
-  p {
-    font-size: 16px;
-    letter-spacing: 0.03em;
-    line-height: 2em;
-
-    a {
-      color: $dark-blue;
-    }
-  }
-
-  .homepage-center {
-    margin: 0 auto;
-    max-width: 850px;
-    padding: 30px 0;
-  }
-
-  .dark-background {
-    background-color: $dark-blue;
-    color: white;
-
-    .temp-navigation-hack {
-      background: white;
-      color: $dark-blue;
-
-      span {
-        font-weight: bold;
-        font-size: 18px;
-        margin: 18px 0 -16px 12px;
-        display: block;
-      }
-
-      li {
-        a {
-          margin-left: 10px;
-        }
-      }
-
-      li::marker {
-        font-size:12px;
-        color: $very-light-blue;
-      }
-
-      a {
-        color: $dark-blue;
-
-        &:hover {
-          color: $very-light-blue;
-        }
-      }
-    }
-
-    blockquote {
-      border: 0;
-      padding: 50px;
-
-      p {
-        font-size: 18px;
-        font-style: italic;
-      }
-    }
-
-    a {
-      color: white;
-    }
-  }
-
-}
-
-// -- END of homepage stuff
-
 
 // ARTICLE BODY ========================================
 
@@ -125,64 +46,6 @@ body {
 
 // end of article-body
 
-.all-thinkers-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-
-  .thinker-container {
-    border-radius: 5px;
-    display: inline-block;
-    padding: 15px;
-
-    .name {
-      color: black;
-      margin-top: 6px;
-    }
-
-    .image img {
-      box-shadow: 0 0 0 rgba(0, 0, 0, 0.3);
-      border-radius: 5px;
-      transition-property: box-shadow transform;
-      transition-duration: 250ms;
-    }
-
-    &:hover {
-      .name {
-        color: $light-blue;
-      }
-
-      .image {
-        filter: none;
-
-        img {
-          transform: translateY(-5px);
-          transition-property: box-shadow transform;
-          transition-duration: 250ms;
-          box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
-        }
-      }
-    }
-  }
-
-  .name {
-    text-align: center;
-  }
-
-  .image {
-    filter: saturate(0%);
-    width: 150px;
-
-    img {
-      width: 100%;
-    }
-  }
-
-  a {
-    text-decoration: none;
-    font-size: 14px;
-  }
-}
 
 .next-page-button {
   text-align: right;
@@ -337,35 +200,6 @@ summary::-webkit-details-marker {
 
 // END OF GLOSSARY STUFF
 
-.thinker {
-  float: left;
-  height: 235px;
-  margin-right: 20px;
-  width: 235px;
-
-  & + p {
-    margin-top: 0;
-  }
-
-  img {
-    border-radius: 5px;
-  }
-}
-
-.thinker-name {
-  padding-top: 10px;
-
-  .name {
-    font-size: 20px;
-    font-weight: bold;
-    color: $dark-blue;
-  }
-  .year {
-    font-size: 14px;
-    margin-left: 10px;
-  }
-}
-
 .read-more {
   text-align: right;
   transform: translate(-30px, 0px);
@@ -392,201 +226,9 @@ summary::-webkit-details-marker {
   margin-bottom: 40px
 }
 
-// FOOTER ============================
-
-.site-footer {
-  background-color: $gray-333;
-  padding-top: 50px;
-}
-
-.footer-navigation {
-  display: flex;
-  justify-content: center;
-  position: relative;
-
-
-  li::marker {
-    color: $gray-999;
-  }
-
-  .footer-heading {
-    font-weight: bold;
-    font-size: 18px;
-    transform: translate(-10px, -10px);
-    display: block;
-  }
-
-  .temp-navigation-hack {
-    border: 0;
-
-    ol {
-      transform: translate(-16px, -16px);
-      ul {
-        transform: translate(-16px, 0);
-      }
-    }
-
-    a {
-      margin-left: 6px;
-      color: white;
-    }
-  }
-}
-
-.disclaimer {
-  bottom: 20px;
-  margin-top: 16px;
-  padding-top: 20px;
-  position: relative;
-  text-align: center;
-
-  .oxford-container {
-    background: $oxford-blue;
-    border-radius: 50%;
-    box-sizing: border-box;
-    margin: 0 auto;
-    max-height: 90px;
-    max-width: 90px;
-    overflow: hidden;
-    padding: 8px;
-  }
-
-  .disclaimer-text {
-    color: $gray-ccc;
-    font-family: sans-serif;
-    font-size: 12px;
-    line-height: 26px;
-    margin-top: 10px;
-  }
-}
-
-// END OF FOOTER ^^^^^^^^^^^^^^^^^^^^^^^^^
-
 .main-body-class {
   background-color: white;
 }
-
-// WEBSITE HEADER HERE ====================================================================
-
-.website-header {
-  display: flex;
-  background-color: white;
-  justify-content: space-between;
-  max-width: 950px;
-  margin: 0 auto;
-
-  .nudge-down {
-    transform: translate(0, 10px);
-  }
-
-  .i18n-icon {
-    margin: 0;
-  }
-
-  .logo {
-    width: 200px;
-    margin: 20px;
-
-    img {
-      max-width: 100%;
-    }
-  }
-
-  .header-navigation-item {
-    display: inline-block;
-    margin: 20px 10px 20px;
-    font-size: 15px;
-
-    a {
-      text-decoration: none;
-      color: $dark-blue;
-
-      &:hover {
-        color: $very-light-blue;
-      }
-    }
-  }
-
-  .i18n-container {
-    margin: 20px 0 0;
-    position: relative;
-
-    .language-dropdown {
-      min-width: 100px !important;
-      max-width: 100px !important;
-    }
-  }
-
-  .dropdown {
-    span {
-      color: black;
-    }
-
-    .dropdown-content {
-
-      left: 50%;
-      transform: translateX(-50%);
-
-      background-color: $off-white;
-      box-shadow: 0px 4px 16px 0px rgba(0,0,0,0.2);
-      display: none;
-      // max-width: 420px;
-      min-width: 320px;
-      padding: 12px 16px;
-      position: absolute;
-      z-index: 1;
-
-      .title {
-        display: block;
-        font-size: 16px;
-        width: 100%;
-      }
-
-      .author {
-        color: $light-blue;
-        display: inline-block;
-        font-size: 12px;
-        margin-left: 16px;
-        margin-top: 4px;
-      }
-
-      .year {
-        color: $light-blue;
-        display: inline-block;
-        font-size: 12px;
-        opacity: 0.7;
-        width: 100px;
-      }
-
-      li {
-        margin: 0 14px 14px;
-      }
-
-      .active {
-        list-style-type: "\00BB";
-        padding-left: 8px;
-
-        &::marker {
-          font-size: 18px;
-        }
-
-        a {
-          cursor: default !important;
-          font-size: 16px;
-          pointer-events: none;
-          font-weight: bold;
-          color: $very-light-blue;
-        }
-      }
-    }
-
-    &:hover .dropdown-content {
-      display: block;
-    }
-  }
-}
-
-// END OF WEBSITE HEADER ^^^^^^^^^^^^^^^^^^^^^^^
 
 .high-z-index {
   z-index: 10;
@@ -682,42 +324,6 @@ blockquote {
   }
 }
 
-.footnote-number {
-  color: blue;
-  cursor: pointer;
-  display: inline;
-  font-size: 12px;
-  line-height: 20px;
-  display: inline-block;
-  transform: translateY(-8px);
-  background: $footnote-number-bg;
-  padding: 1px 3px;
-  border-radius: 3px;
-}
-
-.littlefoot-footnote__content > p {
-  font-size: 14px !important;
-  margin: 10px 0 !important;
-  line-height: 24px;
-}
-
-.littlefoot-footnote__wrapper {
-  min-width: 500px;
-}
-
-.littlefoot-footnote__content {
-  max-height: 500px !important;
-}
-
-/*
-.littlefoot-footnote.is-scrollable::after {
-  opacity: 0.5 !important;
-}
-
-.is-fully-scrolled::after {
-  opacity: 0 !important;
-}
-*/
 
 strong {
   font-weight: bold;
