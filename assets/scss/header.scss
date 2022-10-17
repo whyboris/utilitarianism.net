@@ -55,16 +55,16 @@
     }
 
     .dropdown-content {
-      left: 50%;
-      transform: translateX(-50%);
-
       background-color: $off-white;
+      border: 1px solid $gray-ccc;
       box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.2);
       display: none;
-      // max-width: 420px;
+      left: 50%;
       min-width: 320px;
-      padding: 12px 16px;
+      // max-width: 420px;
+      padding: 16px 16px 6px;
       position: absolute;
+      transform: translate(-50%, 10px);
       z-index: 1;
 
       .title {
@@ -77,8 +77,11 @@
         color: $light-blue;
         display: inline-block;
         font-size: 12px;
-        margin-left: 16px;
+        margin-left: 0px;
         margin-top: 4px;
+        &::before {
+          content: '-';
+        }
       }
 
       .year {
@@ -109,6 +112,11 @@
           color: $very-light-blue;
         }
       }
+    }
+
+    .content-wide {
+      min-width: 400px;
+      transform: translate(-80%, 10px);
     }
 
     &:hover .dropdown-content {

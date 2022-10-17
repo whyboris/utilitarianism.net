@@ -87,11 +87,7 @@ Addressing these problems may involve [donating generously to effective charitie
 
 <div class="homepage-center">
 
-## Guest Essays
-
 {{< guest-essays true >}}
-
-[More essays](guest-essays/)
 
 <br>
 <br>
