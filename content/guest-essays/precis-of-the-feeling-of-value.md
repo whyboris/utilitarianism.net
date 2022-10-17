@@ -187,6 +187,8 @@ Now, recognizing the equal intrinsic value of positive experience no matter the 
 
 [Sharon Hewitt Rawlette](https://sharonrawlette.wordpress.com/) has a PhD in philosophy from New York University, where she studied under Thomas Nagel and Sharon Street and won the Dean’s Outstanding Dissertation Award in the Humanities for the work that became her 2016 book _[The Feeling of Value](https://sharonrawlette.wordpress.com/books/the-feeling-of-value/)_. After serving as Florence Levy Kay Fellow in Ethics at Brandeis University for two years, she left academia for a freelance writing career and has spent the past decade publishing on the topics of consciousness, ethics, and spirituality. Currently, with support from the [Future Fund Regranting Program](https://ftxfuturefund.org/our-regrants/), she is at work on a new scholarly book exploring the relationship between analytic hedonism and contemporary debates in philosophy of mind.
 
+---
+
 {{< how-to-cite authors="Rawlette, S.H." >}}
 
 {{< two-button >}}
