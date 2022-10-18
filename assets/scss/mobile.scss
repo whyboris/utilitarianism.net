@@ -37,6 +37,12 @@ $breakpoint-tablet: 768px;
     height: 120px;
   }
 
+  .thinker-name {
+    .year {
+      display: block;
+    }
+  }
+
   .all-thinkers-container {
     .thinker-container {
       width: 120px;
