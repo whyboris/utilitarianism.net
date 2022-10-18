@@ -7,6 +7,18 @@ $breakpoint-tablet: 768px;
     }
   }
 
+  .article-body {
+    padding: 20px;
+    
+    blockquote {
+      padding-left: 20px;
+    }
+
+    .table-of-contents {
+      padding: 20px;
+    }
+  }
+
   .small-button {
     left: 50%;
     position: relative;
