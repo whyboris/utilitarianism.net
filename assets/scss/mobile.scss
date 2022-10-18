@@ -32,4 +32,20 @@ $breakpoint-tablet: 768px;
     width: 25px;
   }
 
+  .thinker { // for the `about` page
+    width: 120px;
+    height: 120px;
+  }
+
+  .all-thinkers-container {
+    .thinker-container {
+      width: 120px;
+      height: 120px;
+
+      .image {
+        width: 100%;
+      }
+    }
+  }
+
 }
