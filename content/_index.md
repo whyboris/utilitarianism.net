@@ -38,9 +38,10 @@ This website aims to provide a concise, accessible and engaging introduction to 
 
 > “This is the perfect introduction to utilitarianism: comprehensive, critical and accessible as a basis for classroom discussion or public debate.”
 >
-> — Prof. Philip Pettit, Princeton University / ANU
+> <span class="smaller">— Prof. Philip Pettit, Princeton / ANU</span>
 
 <center>
+<br>
 
 [View Academic Endorsements](/about#endorsements)
 
