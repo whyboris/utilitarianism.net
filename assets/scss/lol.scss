@@ -96,21 +96,35 @@ body {
 }
 
 .homepage-guest-essay-container {
+
+  display: flex;
+  flex-wrap: wrap;
+  flex: 2;
+
   h2 {
-    font-size: 16px;
+    font-size: 14px;
+    margin: 4px 0 0;
+    line-height: 20px;
   }
 
   a {
+    width: 50%;
     color: $dark-blue;
   }
 
+  .author {
+    font-size: 14px;
+    line-height: 18px;
+  }
+
   .guest-essay {
-    min-height: 80px;
-    padding: 5px;
+    min-height: 50px;
+    padding: 6px;
+    margin: 0;
   }
 
   .image-container {
-    height: 80px;
+    height: 50px;
     width: 80px;
   }
 }
