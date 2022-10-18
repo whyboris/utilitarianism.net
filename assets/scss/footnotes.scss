@@ -1,14 +1,14 @@
 .footnote-number {
-  color: blue;
+  background: $footnote-number-bg;
+  border-radius: 3px;
+  color: $dark-blue;
   cursor: pointer;
-  display: inline;
+  display: inline-block;
   font-size: 12px;
   line-height: 20px;
-  display: inline-block;
-  transform: translateY(-8px);
-  background: $footnote-number-bg;
   padding: 1px 3px;
-  border-radius: 3px;
+  margin-left: 1px;
+  transform: translateY(-8px);
 }
 
 .littlefoot-footnote__content > p {
