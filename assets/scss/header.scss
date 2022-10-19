@@ -119,6 +119,11 @@
       transform: translate(-80%, 10px);
     }
 
+    .nudge-up {
+      transform: translate(-50%, 1px);
+      padding: 5px 10px;
+    }
+
     &:hover .dropdown-content {
       display: block;
     }
