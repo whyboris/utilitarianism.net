@@ -1,0 +1,73 @@
+$breakpoint-tablet: 768px;
+
+@media (max-width: $breakpoint-tablet) {
+  .dark-background {
+    blockquote {
+      padding: 0 !important;
+    }
+  }
+
+  .article-body {
+    padding: 20px;
+    
+    blockquote {
+      padding-left: 20px;
+    }
+
+    .table-of-contents {
+      padding: 20px;
+    }
+  }
+
+  .small-button {
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%);
+  }
+
+  .site-footer {
+    padding-top: 20px;
+
+    .footer-navigation {
+      display: block;
+  
+      .footer-heading {
+        transform: translate(4px, -4px);
+      }
+    }
+  }
+
+  .scroll-to-top {
+    bottom: 10px;
+    height: 25px;
+    right: 10px;
+    width: 25px;
+  }
+
+  .thinker { // for the `about` page
+    width: 120px;
+    height: 120px;
+  }
+
+  .thinker-name {
+    .year {
+      display: block;
+    }
+  }
+
+  .all-thinkers-container {
+    .thinker-container {
+      width: 120px;
+      height: 120px;
+
+      .image {
+        width: 100%;
+      }
+    }
+  }
+
+  .littlefoot-footnote__wrapper {
+    min-width: 100vw;
+  }
+
+}

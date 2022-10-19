@@ -156,6 +156,10 @@ Steve Sverdlik taught philosophy at Southern Methodist University in Dallas. He 
 
 {{< how-to-cite authors="Sverdlik, S." >}}
 
+{{< two-button >}}
+
+{{< guest-essays true >}}
+
 [^1]:
      I give more detail in my forthcoming book: _Bentham’s Introduction to the Principles of Morals and Legislation: A Guide_ (Oxford University Press).
 

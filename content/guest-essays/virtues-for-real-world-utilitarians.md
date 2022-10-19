@@ -187,6 +187,8 @@ About the Authors
 * Schubert, Stefan (2019). [Moral Aspirations and Psychological Limitations](https://www.youtube.com/watch?v=mcp-wnu2NhY).
 * Schubert, Stefan (2020). [Naïve effective altruism and the danger of neglecting psychology](https://www.youtube.com/watch?v=g-RJ5CDQLNM&t).
 
+{{< guest-essays true >}}
+
 [^1]:
      Importantly, this list is tentative and not meant to be exhaustive.
 

@@ -144,6 +144,8 @@ About the Author
 
 {{< two-button >}}
 
+{{< guest-essays true >}}
+
 ## References
 
 * Baker, Calvin. 2022. “Buddhism and Effective Altruism.” In _Effective Altruism: Synergies, Tension, Dialogue_, ed. Dominic Roser, Stefan Riedener and Markus Huppenbauer, 17–45. Baden-Baden: Nomos.
