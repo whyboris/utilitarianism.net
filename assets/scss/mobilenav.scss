@@ -96,7 +96,7 @@
       max-height: 200vh; /* This can be anything bigger than your nav height. The transition duration works with this */
     }
     
-    @media only screen and (min-width: 700px) {
+    @media only screen and (min-width: $breakpoint-tablet) {
       
       header label { display: none; }
       

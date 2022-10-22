@@ -1,6 +1,4 @@
-$breakpoint-tablet: 768px;
-
-@media (max-width: $breakpoint-tablet) {
+@media only screen and (max-width: $breakpoint-tablet) {
 
   .mobile-header {
     display: initial;
@@ -51,6 +49,17 @@ $breakpoint-tablet: 768px;
     height: 25px;
     right: 10px;
     width: 25px;
+  }
+
+  .books {
+    grid-template-columns: calc(50% - 15px) calc(50% - 15px);
+    justify-content: space-between;
+    row-gap: 20px;
+
+    .book {
+      height: 100%;
+      width: 100%;
+    }
   }
 
   .thinker { // for the `about` page
