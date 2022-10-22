@@ -148,7 +148,11 @@ This sample illustrates how helpful the penal code manuscripts are in understand
 
 ---
 
-**About the Author**
+**About the author**
+
+{{< essay-author
+     image="/img/authors/Steve-Sverdlik.jpg"
+     text="Steve Sverdlik" >}}
 
 Steve Sverdlik taught philosophy at Southern Methodist University in Dallas. He writes about the philosophy of criminal law and its history. His Bentham’s Introduction to the Principles of Morals and Legislation: A Guide (Oxford University Press) will appear in 2023.
 

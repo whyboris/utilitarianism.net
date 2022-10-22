@@ -134,7 +134,11 @@ I believe that Buddhism and utilitarianism are both committed to in-principle su
 
 ---
 
-About the Author
+**About the author**
+
+{{< essay-author
+     image="/img/authors/Calvin-Baker.jpg"
+     text="Calvin Baker" >}}
 
 [Calvin Baker](https://philpeople.org/profiles/calvin-baker) is a PhD student in philosophy at Princeton University. He works on ethics, global priorities research, and Buddhist philosophy.
 
