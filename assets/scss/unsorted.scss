@@ -309,3 +309,14 @@ hr {
     background-color: $off-white;
   }
 }
+
+.textbook-hack {
+  .dark-background {
+    background-color: initial;
+
+    .temp-navigation-hack {
+      border: none;
+      padding: 0;
+    }
+  }
+}

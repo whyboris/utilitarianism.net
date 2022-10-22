@@ -1,6 +1,15 @@
 $breakpoint-tablet: 768px;
 
 @media (max-width: $breakpoint-tablet) {
+
+  .mobile-header {
+    display: initial;
+  }
+
+  .regular-header {
+    display: none;
+  }
+
   .dark-background {
     blockquote {
       padding: 0 !important;
