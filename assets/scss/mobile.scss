@@ -103,4 +103,26 @@
       }
     }
   }
+
+  .homepage-guest-essay-container {
+    a {
+      width: 100%;
+      min-height: 96px;
+    }
+
+    .guest-essay {
+      padding: 10px 0;
+
+      h2 {
+        font-size: 14px;
+        padding-top: 0;
+        transform: translateY(-6px);
+      }
+
+      .image-container {
+        height: 70px;
+        width: 60px;
+      }
+    }
+  }
 }
