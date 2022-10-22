@@ -4,7 +4,7 @@
   display: flex;
   background-color: white;
   justify-content: space-between;
-  max-width: 950px;
+  max-width: 850px;
   margin: 0 auto;
 
   .nudge-down {
@@ -60,7 +60,7 @@
       box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.2);
       display: none;
       left: 50%;
-      min-width: 320px;
+      min-width: 280px;
       // max-width: 420px;
       padding: 16px 16px 6px;
       position: absolute;

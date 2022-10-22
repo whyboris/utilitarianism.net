@@ -55,6 +55,7 @@ In the future we may want to use some `rtl` support
 - We enabled `unsafe` mode for _Markdown_ to allow [subscript](https://discourse.gohugo.io/t/footnote-sup-tag-not-working-inside-markdownify-help/25426) and other _HTML_ elements (e.g. see the _glossary.md_ file)
 - Pages that have the same name as a folder need to be moved into the folder and renamed to `_index.md` to work properly (e.g. `objections-to-utilitarianism`)
   - these use the `list.html` _layout_
+- `site-header.html` is unused - meant for homepage only (would include language dropdown)
 
 ## First time coding?
 

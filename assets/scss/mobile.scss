@@ -1,6 +1,13 @@
-$breakpoint-tablet: 768px;
+@media only screen and (max-width: $breakpoint-tablet) {
 
-@media (max-width: $breakpoint-tablet) {
+  .mobile-header {
+    display: initial;
+  }
+
+  .regular-header {
+    display: none;
+  }
+
   .dark-background {
     blockquote {
       padding: 0 !important;
@@ -44,6 +51,17 @@ $breakpoint-tablet: 768px;
     width: 25px;
   }
 
+  .books {
+    grid-template-columns: calc(50% - 15px) calc(50% - 15px);
+    justify-content: space-between;
+    row-gap: 20px;
+
+    .book {
+      height: 100%;
+      width: 100%;
+    }
+  }
+
   .thinker { // for the `about` page
     width: 120px;
     height: 120px;
@@ -70,4 +88,19 @@ $breakpoint-tablet: 768px;
     min-width: 100vw;
   }
 
+  .guest-essay-container {
+    .guest-essay {
+      padding: 0;
+  
+      .image-container {
+        height: 160px;
+        width: 120px;
+      }
+  
+      h2 {
+        font-size: 16px;
+        line-height: 1.6;
+      }
+    }
+  }
 }

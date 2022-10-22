@@ -1,4 +1,7 @@
 // @import 'developer-mode'; // keep disabled
+
+$breakpoint-tablet: 850px;
+
 @import 'colors';
 @import 'font';
 @import 'header';
@@ -10,6 +13,7 @@
 @import 'buttons';
 @import 'footnotes';
 @import 'unsorted';
+@import 'mobilenav';
 @import 'mobile';
 
 // Miscellaneous styling
@@ -20,4 +24,8 @@
 
 body {
   margin: 0;
+}
+
+h1 {
+  line-height: 1.5;
 }
