@@ -70,4 +70,19 @@ $breakpoint-tablet: 768px;
     min-width: 100vw;
   }
 
+  .guest-essay-container {
+    .guest-essay {
+      padding: 0;
+  
+      .image-container {
+        height: 160px;
+        width: 120px;
+      }
+  
+      h2 {
+        font-size: 16px;
+        line-height: 1.6;
+      }
+    }
+  }
 }
