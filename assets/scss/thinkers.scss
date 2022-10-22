@@ -85,3 +85,11 @@
     margin-left: 10px;
   }
 }
+
+.essay-author {
+  width: 180px;
+
+  & + p {
+    min-height: 225px;
+  }
+}
