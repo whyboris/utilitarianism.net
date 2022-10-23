@@ -81,7 +81,7 @@ _→ Main article: [Career choice](/acting-on-utilitarianism#career-choice)_
 
 Most of us will spend around 80,000 hours during our lives on our professional careers, and some careers achieve much more good than others. Your choice of career is, therefore, one of the most important moral choices of your life. By using this time to address the most pressing global problems, we can do an enormous amount of good. Yet, it is far from obvious which careers will allow you to do the most good from a utilitarian perspective.
 
-Fortunately, there is research available to help us make more informed choices. The organization[80,000 Hours](https://80000hours.org/)[^7] aims to help people use their careers to solve the world’s most pressing problems. To do this, they research how individuals can maximize the social impact of their careers, create online advice, and support readers who might enter priority areas.
+Fortunately, there is research available to help us make more informed choices. The organization [80,000 Hours](https://80000hours.org/)[^7] aims to help people use their careers to solve the world’s most pressing problems. To do this, they research how individuals can maximize the social impact of their careers, create online advice, and support readers who might enter priority areas.
 
 </details>
 
@@ -103,7 +103,7 @@ In slogan form, the utilitarian recommendation for using your money to help othe
 
 Citizens of affluent countries are in the richest few percent of the world’s population. By making small sacrifices, those in the affluent world have the power to dramatically improve the lives of others. Due to the extreme inequalities in wealth and income, one can do a lot more good by giving money to those most in need than by spending it on oneself.[^9]
 
-To give better, one can follow the recommendations from organizations such as[GiveWell](https://www.givewell.org/), which conducts exceptionally in-depth charity evaluations. GiveWell’s best-guess estimate is that the most cost-effective charities working in global health can save a child’s life for about $3,000.[^10]
+To give better, one can follow the recommendations from organizations such as [GiveWell](https://www.givewell.org/), which conducts exceptionally in-depth charity evaluations. GiveWell’s best-guess estimate is that the most cost-effective charities working in global health can save a child’s life for about $3,000.[^10]
 
 </details>
 
@@ -153,7 +153,7 @@ Utilitarianism is a very demanding ethical theory: it maintains that any time yo
 
 Though occasions where sacrificing your own life is the best thing to do are rare, utilitarianism is still very demanding in the world today. For example, by[donating to a highly effective global health charity](/acting-on-utilitarianism#charitable-giving), you can save a child’s life for just a few thousand dollars.[^11] As long as such donations benefit others more than a few thousand dollars would benefit yourself—as they almost certainly do, if you are a typical citizen of an affluent country—you ought to donate. Indeed, you likely ought to donate the majority of your lifetime income.
 
-As well as requiring very significant donations, utilitarianism claims that you ought to[choose whatever career will most benefit others](/acting-on-utilitarianism#career-choice), too. This might involve non-profit work, conducting important research, or going into politics or advocacy.
+As well as requiring very significant donations, utilitarianism claims that you ought to [choose whatever career will most benefit others](/acting-on-utilitarianism#career-choice), too. This might involve non-profit work, conducting important research, or going into politics or advocacy.
 
 See also: [Demandingness Objection to Utilitarianism](/objections-to-utilitarianism/demandingness)
 
@@ -210,7 +210,7 @@ The alternative to direct consequentialism is indirect consequentialism, accordi
 
 _→ Main article: [Doctrine of Doing and Allowing](/utilitarianism-and-practical-ethics#is-there-a-difference-between-doing-and-allowing-harm)_
 
-Many non-consequentialists believe there is a morally relevant difference between[doing harm and allowing harm](https://plato.stanford.edu/entries/doing-allowing/), even if the consequences of an action or inaction are the same. This position is known as the “Doctrine of Doing and Allowing”, according to which harms caused by actions—by things we actively do—are worse than harms of omission.
+Many non-consequentialists believe there is a morally relevant difference between [doing harm and allowing harm](https://plato.stanford.edu/entries/doing-allowing/), even if the consequences of an action or inaction are the same. This position is known as the “Doctrine of Doing and Allowing”, according to which harms caused by actions—by things we actively do—are worse than harms of omission.
 
 However, while consequentialists—including utilitarians—accept that doing harm is typically instrumentally worse than allowing harm, they deny that doing harm is intrinsically worse than allowing harm. Thus, they reject the Doctrine of Doing and Allowing.
 
@@ -371,7 +371,7 @@ The two main alternatives to hedonism are _[desire theories](/theories-of-wellbe
 
 _→ Main article: [Henry Sidgwick](/utilitarian-thinker/henry-sidgwick)_
 
-Henry Sidgwick (1838 - 1900) was a British philosopher and economist. One of the classical utilitarians, he wrote one of the most important statements of utilitarianism in his[The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf), which was said to be “the best book ever written on ethics”.[^24]
+Henry Sidgwick (1838 - 1900) was a British philosopher and economist. One of the classical utilitarians, he wrote one of the most important statements of utilitarianism in his [The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf), which was said to be “the best book ever written on ethics”.[^24]
 
 </details>
 
@@ -529,7 +529,7 @@ An effective way of doing good is by inspiring others to try to do more good. Th
 
 _→ Main article: [Peter Singer](/utilitarian-thinker/peter-singer)_
 
-Peter Singer (1946) is an Australian moral philosopher and Professor of Bioethics at Princeton University. His work concentrates on issues in applied ethics, in particular our treatment of animals, the ethics of global poverty, and effective altruism. The publication of his 1975 book[Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book)) helped start the modern animal rights movement.
+Peter Singer (1946) is an Australian moral philosopher and Professor of Bioethics at Princeton University. His work concentrates on issues in applied ethics, in particular our treatment of animals, the ethics of global poverty, and effective altruism. The publication of his 1975 book [Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book)) helped start the modern animal rights movement.
 
 </details>
 
@@ -699,7 +699,7 @@ External links:
 
 _→ Main article: [Speciesism](/utilitarianism-and-practical-ethics#speciesism)_
 
-Since utilitarianism accepts [impartiality](/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests), it considers not only the well-being of humans but also the well-being of non-human animals. Consequently, utilitarianism rejects[speciesism](https://www.animal-ethics.org/ethics-animals-section/speciesism/), the practice of giving individuals less moral consideration than others based on their species membership. To give individuals moral consideration is simply to consider how one’s behavior will affect them, whether by action or omission.
+Since utilitarianism accepts [impartiality](/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests), it considers not only the well-being of humans but also the well-being of non-human animals. Consequently, utilitarianism rejects [speciesism](https://www.animal-ethics.org/ethics-animals-section/speciesism/), the practice of giving individuals less moral consideration than others based on their species membership. To give individuals moral consideration is simply to consider how one’s behavior will affect them, whether by action or omission.
 
 Consequently, rejecting speciesism entails giving _equal moral consideration_ to the well-being of all individuals but does not entail treating all species equally. Species membership is not morally relevant _in itself_, but individuals belonging to different species may differ in other ways that do matter morally. In particular, it is likely that individuals from different species do not have the same capacity for conscious experience—for instance, because of the differing numbers of neurons in their brains. Since utilitarians believe that [only sentience matters morally in itself](/utilitarianism-and-practical-ethics#the-expanding-moral-circle), the utilitarian concern for individuals is proportional to their capacity for conscious experience. It is perfectly consistent with a rejection of speciesism to say we should equally consider the well-being of a fish and a chimpanzee, without implying that they have the capacity to suffer to the same degree and deserve equal treatment.
 
@@ -729,7 +729,7 @@ Importantly, one population may have greater total well-being than another in vi
 
 Thus, the total view implies that we can improve the world in two ways: either we improve the quality of life of existing people or we increase the number of people living positive lives. So, for example, the total view regards having a child that lives a happy and fulfilled life as something that makes the world better, other things being equal, since it adds to the total sum of well-being.[^35] In practice, there are often trade-offs between making existing people happier and creating additional happy people. On a planet with limited resources, adding more people to an already large population may at some point diminish the quality of life of everyone else severely enough that total well-being decreases.
 
-The total view’s foremost practical implication is[giving great importance](/utilitarianism-and-practical-ethics#longtermism) to ensuring the long-term flourishing of civilization. Since the total well-being enjoyed by all future people is potentially enormous, according to the total view, the[mitigation of existential risks](/acting-on-utilitarianism#existential-risk-reduction)—which threaten to destroy this immense future value—is one of the principal moral issues facing humanity.
+The total view’s foremost practical implication is[giving great importance](/utilitarianism-and-practical-ethics#longtermism) to ensuring the long-term flourishing of civilization. Since the total well-being enjoyed by all future people is potentially enormous, according to the total view, the [mitigation of existential risks](/acting-on-utilitarianism#existential-risk-reduction)—which threaten to destroy this immense future value—is one of the principal moral issues facing humanity.
 
 The main alternatives to the total view are the _[average view](/population-ethics#the-average-view)_, according to which one outcome is better than another if and only if it contains greater average well-being, and _[person-affecting views](/population-ethics#person-affecting-views-and-the-procreative-asymmetry)_, a family of views that share the intuition that an act can only be good/bad if it is good/bad _for_ someone. Standard person-affecting views stand in opposition to the total view since they entail that there is no moral good in bringing new people into existence because nonexistence means there is no one for whom it could be good to be created.
 
@@ -790,7 +790,7 @@ Welfarism is the view that only the _welfare_(also called _well-being_) of indiv
 
 Welfarism is one of the [four elements of utilitarian ethical theories](/types-of-utilitarianism#the-four-elements-of-utilitarianism).
 
-There are various types of welfarism, each of which regards different things as the constituents of well-being. The three most prevalent welfarist theories are _[hedonism](/theories-of-wellbeing#hedonism)_,[desire theories](/theories-of-wellbeing#desire-theories), and[objective list theories](/theories-of-wellbeing#objective-list-theories).
+There are various types of welfarism, each of which regards different things as the constituents of well-being. The three most prevalent welfarist theories are _[hedonism](/theories-of-wellbeing#hedonism)_, [desire theories](/theories-of-wellbeing#desire-theories), and [objective list theories](/theories-of-wellbeing#objective-list-theories).
 
 External links: [Welfarism](https://plato.stanford.edu/entries/well-being/#Wel), The Stanford Encyclopedia of Philosophy
 
