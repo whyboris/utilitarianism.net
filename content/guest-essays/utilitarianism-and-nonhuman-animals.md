@@ -113,7 +113,6 @@ We are only at the start of asking such questions, but the answers will be impor
 
 ---
 
-
 **About the author**
 
 {{< essay-author

@@ -129,4 +129,21 @@
       }
     }
   }
+
+  .callout {
+    padding: 35px;
+    
+    .two-button-callout {
+      display: block;
+
+      .callout-button {
+        text-align: center;
+        width: calc(100% - 40px);
+      }
+    }
+  }
+
+  li {
+    word-break: break-word; // for long URL in References, at least on Nir Eyal's essay - else page scrolls sideways
+  }
 }
