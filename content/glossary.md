@@ -347,7 +347,7 @@ Harriet Taylor Mill (1807 - 1858) was a British philosopher and women’s rights
 <details>
 <summary>Hedonic calculus<span class="icon"></span></summary>
 
-[Jeremy Bentham](/utilitarian-thinker/jeremy-bentham) proposed the hedonic calculus, or felicific calculus, as a method to determine the goodness and badness of an action’s consequences.[^22] Bentham suggested that in assessing these consequences, one should take into account their _intensity, duration, certainty, propinquity, fecundity_ (the chance that a pleasure is followed by other ones, a pain by further pains)_, purity_ (the chance that pleasure is followed by pains and vice versa), and _extent_ (the number of persons affected). Applying the hedonic calculus to similarly assess all the alternative actions, would show which one has the best overall consequences, and should therefore be chosen.
+[Jeremy Bentham](/utilitarian-thinker/jeremy-bentham) proposed the hedonic calculus, or felicific calculus, as a method to determine the goodness and badness of an action’s consequences.[^22] Bentham suggested that in assessing these consequences, one should take into account their _intensity, duration, certainty, propinquity, fecundity_ (the chance that a pleasure is followed by other ones, a pain by further pains), _purity_ (the chance that pleasure is followed by pains and vice versa), and _extent_ (the number of persons affected). Applying the hedonic calculus to similarly assess all the alternative actions, would show which one has the best overall consequences, and should therefore be chosen.
 
 However, Bentham was realistic about the limitations of this method, writing that “it is not to be expected that this process [of calculating expected consequences] should be strictly pursued previously to every moral judgment”.[^23]
 
@@ -418,7 +418,7 @@ The main alternative to indirect consequentialism is direct consequentialism, ac
 
 _→ Main article: [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)_
 
-Jeremy Bentham (1748 - 1832) was a British philosopher and social reformer, who is widely regarded as the founder of classical utilitarianism. His most influential work is[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf) (1789).
+Jeremy Bentham (1748 - 1832) was a British philosopher and social reformer, who is widely regarded as the founder of classical utilitarianism. His most influential work is [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf) (1789).
 
 </details>
 
@@ -427,7 +427,7 @@ Jeremy Bentham (1748 - 1832) was a British philosopher and social reformer, who 
 
 _→ Main article: [John Stuart Mill](/utilitarian-thinker/john-stuart-mill)_
 
-John Stuart Mill (1806 - 1873) was a British philosopher and political economist. A student of Jeremy Bentham, Mill promoted the ideas of utilitarianism and liberalism and has been called “the most influential English language philosopher of the nineteenth century”. His most influential works include his books[Utilitarianism](https://www.earlymoderntexts.com/assets/pdfs/mill1863.pdf) (1863) and[On Liberty](https://socialsciences.mcmaster.ca/econ/ugcm/3ll3/mill/liberty.pdf) (1859).
+John Stuart Mill (1806 - 1873) was a British philosopher and political economist. A student of Jeremy Bentham, Mill promoted the ideas of utilitarianism and liberalism and has been called “the most influential English language philosopher of the nineteenth century”. His most influential works include his books [Utilitarianism](https://www.earlymoderntexts.com/assets/pdfs/mill1863.pdf) (1863) and [On Liberty](https://socialsciences.mcmaster.ca/econ/ugcm/3ll3/mill/liberty.pdf) (1859).
 
 </details>
 
