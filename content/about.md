@@ -17,7 +17,7 @@ This website was written in collaboration by [William MacAskill](http://www.will
 * Richard is an Associate Professor in Philosophy at the University of Miami. He is the author of _[Parfit's Ethics](https://doi.org/10.1017/9781108582377)_, and received his PhD from Princeton University in 2012. Richard also writes _[Good Thoughts](https://rychappell.substack.com/)_, a newsletter about consequentialism in theory and practice, which you may follow to receive updates about utilitarianism.net (and related topics).
 * Darius holds a degree in Philosophy, Politics and Economics from the University of Oxford and currently studies for a graduate degree at Georgetown University.
 
-Thanks to James Aung for website design and management.
+Thanks to Boris Yakubchik—and previously, James Aung—for website design and management.
 
 This website has benefited from review and suggestions from too many people to list, but we are grateful to them all. Special mention to Marka Ellertson, Bella Forristal, Tomi Francis, Georgiana Gilgallon, Stefan Schubert, and Pablo Stafforini, for their many detailed comments.
 
