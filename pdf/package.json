@@ -3,6 +3,6 @@
     "start": "website2pdf -s http://localhost:1313/ru/sitemap.xml --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer"
   },
   "dependencies": {
-    "website2pdf": "^0.0.7"
+    "website2pdf": "0.0.7"
   }
 }
