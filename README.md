@@ -57,6 +57,10 @@ In the future we may want to use some `rtl` support
   - these use the `list.html` _layout_
 - `site-header.html` is unused - meant for homepage only (would include language dropdown)
 
+## PDF
+
+We can generate PDFs of all the pages with [website2pdf](https://github.com/jgazeau/website2pdf). See the _README.md_ inside the _PDF_ folder for instructions.
+
 ## First time coding?
 
 Starting may be daunting, but you can do it! Setting up will take two steps:

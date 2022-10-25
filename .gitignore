@@ -1,3 +1,8 @@
 /public/
 /resources/
 .hugo_build.lock
+
+pdf/node_modules
+pdf/package-lock.json
+pdf/w2pdf_output
+pdf/**/*.pdf

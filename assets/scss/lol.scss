@@ -16,6 +16,8 @@ $breakpoint-tablet: 850px;
 @import 'mobilenav';
 @import 'mobile';
 
+@import 'pdf'; // only toggle on when generating PDF files
+
 // Miscellaneous styling
 
 * {
