@@ -1,0 +1,70 @@
+.stork-wrapper {
+  min-height: 500px;
+}
+
+.stork-input {
+  background-color: #fff;
+  background-image: url("data:image/svg+xml,%3Csvg class='svg-icon search-icon' aria-labelledby='title desc' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 19.9 19.7'%3E%3Ctitle id='title'%3ESearch Icon%3C/title%3E%3Cdesc id='desc'%3EA magnifying glass icon.%3C/desc%3E%3Cg class='search-path' fill='none' stroke='%23848F91'%3E%3Cpath stroke-linecap='square' d='M18.5 18.3l-5.4-5.4'/%3E%3Ccircle cx='8' cy='8' r='7'/%3E%3C/g%3E%3C/svg%3E");
+  background-position: 8px 3px;
+  background-repeat: no-repeat;
+  background-size: 30px 47px;
+  border-radius: 5px;
+  border: 1px solid #aaa;
+  margin: 0 0 50px;
+  padding: 15px 15px 15px 60px;
+  position: relative;
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+  font-size: 20px;
+
+  outline: none;
+}
+
+.stork-message {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.stork-close-button {
+  display: none;
+}
+
+.stork-results {
+
+  padding-left: 0;
+
+
+  li {
+    list-style:none;
+
+    .stork-title {
+      font-size: 16px;
+      color: black;
+    }
+
+    a:-webkit-any-link {
+      color: $gray-333;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .stork-excerpt {
+      mark {
+        background-color: $search-highlight-blue;
+      }
+
+      p {
+        font-size: 12px;
+        padding-left: 20px;
+        margin: 0;
+      }
+    }
+  }
+
+}
+
+.stork-attribution {
+  text-align: center;
+  font-size: 14px;
+}

@@ -57,6 +57,12 @@ In the future we may want to use some `rtl` support
   - these use the `list.html` _layout_
 - `site-header.html` is unused - meant for homepage only (would include language dropdown)
 
+## Search
+
+We are using [stork-search](https://stork-search.net/)
+
+First you'll need to install `stork` on your machine (see link above). To update the search index run the command `stork build --input search.toml --output static/search.st`
+
 ## PDF
 
 We can generate PDFs of all the pages with [website2pdf](https://github.com/jgazeau/website2pdf). See the _README.md_ inside the _PDF_ folder for instructions.

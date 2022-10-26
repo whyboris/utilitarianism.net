@@ -6,6 +6,14 @@
 
 	  {{ block "head-extra" . }}{{ partial "head-extra.html" . }}{{ end }}
 
+    <!-- TODO: conditionally add this only to the `search` page -->
+    <script>
+      setTimeout(() => {
+        // stork.register("yourIndexName", "search.st"); // for local loading
+        stork.register("yourIndexName", "http://localhost:6969/lol.st"); // testing `brotli` compression with a custom Express server
+      }, 500)
+    </script>
+
   </head>
 
 
@@ -22,6 +30,9 @@
     {{ block "footnotes-script" . }}{{ partial "footnotes-script.html" . }}{{ end }}
 
     <div class="scroll-to-top" onclick="document.body.scrollTop = 0; document.documentElement.scrollTop = 0;"></div>
+
+    <!-- TODO: conditionally add this only to the `search` page -->
+    <script src="https://files.stork-search.net/releases/v1.5.0/stork.js"></script>
 
   </body>
 
