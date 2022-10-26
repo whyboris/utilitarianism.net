@@ -6,3 +6,5 @@ pdf/node_modules
 pdf/package-lock.json
 pdf/w2pdf_output
 pdf/**/*.pdf
+
+**/.DS_store

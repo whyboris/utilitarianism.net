@@ -7,12 +7,12 @@
          background: linear-gradient(180deg, {{ .Params.gradientTop }} 0%,  
                                              {{ .Params.gradientBottom }} 100%);"
 >
-    <span class="title">{{ .Params.book }}</span>
+    <h1 class="title">{{ .Params.book }}</h1>
     <span class="author">{{ .Params.author }}</span>
     <span class="year">{{ .Params.year }}</span>
 </div>
 
-<div class="article-body">
+<div class="article-body" data-pagefind-body>
 
   {{ .Content }}
 
