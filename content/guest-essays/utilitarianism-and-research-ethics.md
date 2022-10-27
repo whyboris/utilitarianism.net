@@ -55,7 +55,7 @@ Modern clinical ethics also emphasizes individual consent and not just the medic
 
 Mill argues that deciding for oneself adds great value to the individual’s life. Individuals tend to know best and care the most about what is good for them, and deciding for ourselves is inherently good for us.[^13] Bioethicists’ defenses of autonomous decision-making, either in the clinic or in research,[^14] essentially repeat Mill’s rationale. If Mill is right then exercising one’s personal autonomy—even against doctors’ advice—will often benefit one overall, even when it harms one's medical interests. Admittedly, individuals do not always benefit overall from having the last say on matters closely affecting their bodies and health—in either clinical care or research. But giving them that veto power even when it fails to maximize well-being may abide by the rules that tend to maximize well-being in the long run[^15]—an old utilitarian recipe for maximizing expected value.[^16]
 
-It may seem as though Kantian ethics can at least require _some_ form of consent to any study participation, whether or not that consent is fully autonomous. But even that is unclear: when Kant mentions the consent requirement, it is a requirement that the individual _could_ possibly consent, not that she _actually_consents.[^17]
+It may seem as though Kantian ethics can at least require _some_ form of consent to any study participation, whether or not that consent is fully autonomous. But even that is unclear: when Kant mentions the consent requirement, it is a requirement that the individual _could_ possibly consent, not that she _actually_ consents.[^17]
 
 ## II. Kantian obstacles to core research ethics norms
 
