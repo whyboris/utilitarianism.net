@@ -92,6 +92,12 @@
     min-width: 100vw;
   }
 
+  .littlefoot-footnote__content {
+    p {
+      min-width: initial;
+    }
+  }
+
   .guest-essay-container {
     .guest-essay {
       padding: 0;
