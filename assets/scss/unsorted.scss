@@ -320,3 +320,17 @@ hr {
     }
   }
 }
+
+.error-404 {
+  margin: 100px auto;
+  display: block;
+  text-align: center;
+
+  .text-404 {
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: $gray-aaa;
+    margin-bottom: 0;
+  }
+}
