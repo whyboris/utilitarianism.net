@@ -1,5 +1,44 @@
-.pagefind-ui__result-excerpt {
-  mark {
-    background-color: $search-highlight-blue !important;
+.search-hack {
+
+  .pagefind-ui__result-excerpt {
+    mark {
+      background-color: $search-highlight-blue;
+    }
   }
+
+  .pagefind-ui__form {
+    &::before {
+      transform: translate(calc(50vw + 288px), -46px);
+    }
+  }
+  
+  .pagefind-ui__drawer {
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .pagefind-ui__message {
+    margin-left: 30px;
+  }
+  
+  .pagefind-ui__search-input {
+    width: 130px;
+    height: 40px;
+
+    position: absolute;
+    left: calc(50vw + 286px);
+    transform: translateY(-43px);
+
+    border: 0;
+    background: initial;
+
+    &::placeholder {
+      font-weight: initial;
+    }
+  }
+
+  .pagefind-ui__button {
+    border: 0;
+    margin-top: 0;
+  }
+
 }
