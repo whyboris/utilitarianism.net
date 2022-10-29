@@ -16,7 +16,7 @@ title: "What is Utilitarianism?"
 
 <div class="homepage-center">
 
-## What Is Utilitarianism?
+# What Is Utilitarianism?
 
 _Utilitarianism_ is not a single viewpoint, but a family of related ethical theories. What these theories have in common is their focus on bringing about the best consequences for the world by improving the lives of all sentient beings. Utilitarianism holds that we should give equal moral consideration to the well-being of all individuals, regardless of characteristics such as their gender, race, nationality, or even [species](/guest-essays/utilitarianism-and-nonhuman-animals#the-moral-status-of-animals).[^1]
 
