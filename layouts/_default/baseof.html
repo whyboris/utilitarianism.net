@@ -13,7 +13,13 @@
 
     {{ block "header" . }}{{ partial "page-header.html" .}}{{ end }}
 
-    <main class="homepage-main" role="main">
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            new PagefindUI({ element: "#search" });
+        });
+    </script>
+
+    <main data-pagefind-body role="main">
       {{ block "main" . }}{{ end }}
     </main>
 

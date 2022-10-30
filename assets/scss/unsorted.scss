@@ -25,6 +25,12 @@
   }
 }
 
+// make h1 the same size as h2
+// we use h1 so the `pagefind` automatically tags the title of the page
+h1 {
+  font-size: 1.5em;
+}
+
 // end of article-body
 
 .guest-essay-container {
@@ -174,7 +180,7 @@
 
 .sub-header {
   display: flex;
-  justify-content: center;
+  justify-content: left;
   margin: 0 auto;
   width: 850px;
 

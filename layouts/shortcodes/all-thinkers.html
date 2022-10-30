@@ -1,7 +1,7 @@
 {{/* pass in `true` to hide the <hr> */}}
 {{ if not (.Get 0) }}<hr>{{ end }}
 
-<div class="all-thinkers-container">
+<div class="all-thinkers-container" data-pagefind-ignore>
 
     {{ range .Site.Menus.thinker }}
     <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">

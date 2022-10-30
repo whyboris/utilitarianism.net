@@ -58,6 +58,12 @@ In the future we may want to use some `rtl` support
 - `site-header.html` is unused - meant for homepage only (would include language dropdown)
 - _favicon_ generated with [this website](https://realfavicongenerator.net/) & added a custom `svg` to handle dark-theme browser, see [instructions](https://web.dev/building-an-adaptive-favicon/)
 
+## Search
+
+Search is handlede with [pagefind](https://pagefind.app/). You'll need to install [Node](https://nodejs.org/en/) and run `npm install -g pagefind`.
+
+When publishing the application, after `hugo -D` run `pagefind --source public` which will create the `_pagefind` folder inside `/public`. That is all that's needed for search to work. Thank you _pagefind_!
+
 ## PDF
 
 We can generate PDFs of all the pages with [website2pdf](https://github.com/jgazeau/website2pdf). See the _README.md_ inside the _PDF_ folder for instructions.
