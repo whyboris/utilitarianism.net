@@ -32,7 +32,7 @@ Sometimes philosophers talk about “welfare” or “utility” rather than “
 
 Utilitarianism accepts _[consequentialism](https://plato.stanford.edu/entries/consequentialism/)_, which is defined as follows:
 
-> **Consequentialism is the view that one morally ought to promote just good outcomes. **
+> **Consequentialism is the view that one morally ought to promote just good outcomes.**
 
 On this view, bringing about good outcomes is all that ultimately matters, from a moral perspective. Thus, to evaluate whether to perform an action, we should look at its overall consequences, rather than any of its other features (such as the _type_ of action that it is). For instance, when breaking a promise has bad consequences—as it usually does—consequentialists oppose it. However, breaking a promise is not considered wrong in itself. In exceptional cases, breaking a promise could be the morally best action available, such as when it is necessary to save a life. The ends in this case justify the means.
 

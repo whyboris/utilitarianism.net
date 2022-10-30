@@ -1,8 +1,10 @@
 {
   "scripts":{
-    "start": "website2pdf -s http://localhost:1313/ru/sitemap.xml --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer"
+    "start": "website2pdf --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer --safe-title --output-dir ./temp && npm run flat",
+    "flat": "node index.js"
   },
   "dependencies": {
-    "website2pdf": "0.0.7"
+    "website2pdf": "0.0.9",
+    "fdir": "5.3.0"
   }
 }

@@ -1,20 +1,20 @@
 // ARTICLE BODY ========================================
 
 .article-body {
-  max-width: 850px;
-  margin: 0 auto;
-  padding: 30px;
   background: white;
-
+  color: $font-color;
   font-family: Merriweather;
-  -webkit-font-smoothing: subpixel-antialiased;
-  font-weight: 300;
-  font-style: normal;
   font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
   letter-spacing: 0.03em;
   line-height: 2em;
+  margin: 0 auto;
+  max-width: 850px;
+  padding: 30px;
+  position: relative;
   text-transform: none;
-  color: $font-color;
+  -webkit-font-smoothing: subpixel-antialiased;
 
   a {
     color: $dark-blue;
@@ -289,6 +289,18 @@ hr {
   }
 }
 
+.non-book-header {
+  padding: 35px ;
+
+  .title {
+    display: block;
+    margin: 0 auto;
+    text-align: left;
+    width: 850px;
+    font-weight: initial;
+  }
+}
+
 .smaller {
   font-size: 14px;
 }
@@ -338,5 +350,16 @@ hr {
     font-weight: bold;
     color: $gray-aaa;
     margin-bottom: 0;
+  }
+}
+
+.pdf-download {
+  position: absolute;
+  right: -30px;
+  top: 50px;
+
+  .pdf-icon {
+    width: 30px;
+    height: 30px;
   }
 }
