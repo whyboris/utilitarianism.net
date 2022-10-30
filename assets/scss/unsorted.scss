@@ -289,6 +289,18 @@ hr {
   }
 }
 
+.non-book-header {
+  padding: 35px ;
+
+  .title {
+    display: block;
+    margin: 0 auto;
+    text-align: left;
+    width: 850px;
+    font-weight: initial;
+  }
+}
+
 .smaller {
   font-size: 14px;
 }
@@ -343,8 +355,8 @@ hr {
 
 .pdf-download {
   position: absolute;
-  right: -20px;
-  top: 30px;
+  right: -30px;
+  top: 50px;
 
   .pdf-icon {
     width: 30px;
