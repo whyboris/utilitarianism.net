@@ -1,0 +1,8 @@
+<div>
+  {{ with .Page }}
+  {{ $myVar := print .Params.title "_Utilitarianism_net.pdf" }}
+  {{ $myVar2 := replaceRE "( |,|_|-|:|'|  )" "_" $myVar }}
+  {{ $myVar3 := replace $myVar2 "__" "_" }}
+  <a href="/pdf/{{ $myVar3 }}">pdf</a>
+  {{ end }}
+</div>
