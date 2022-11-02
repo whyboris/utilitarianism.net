@@ -27,9 +27,8 @@
 
     <div class="scroll-to-top" onclick="document.body.scrollTop = 0; document.documentElement.scrollTop = 0;"></div>
 
-     
-      {{ block "pdf-hacking" . }}{{ partialCached "pdf-script" . }}{{ end }} 
-    
+    <!-- ENABLE BELOW WHEN PRINTING PDFs -->
+    <!-- {{ block "pdf-hacking" . }}{{ partialCached "pdf-script" . }}{{ end }} -->
 
   </body>
 
