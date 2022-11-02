@@ -25,23 +25,11 @@
 
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
 
-
     <div class="scroll-to-top" onclick="document.body.scrollTop = 0; document.documentElement.scrollTop = 0;"></div>
 
-    <script>
-
-      // enable code block when printing PDFs
-      var anchors = document.getElementsByTagName("a");
-
-      for (var i = 0; i < anchors.length; i++) {
-        const old = anchors[i].href;
-        if (!old.includes("#fn")) {
-          const new_url = old.replace("http://localhost:1313/", "https://utilitarianism.net/");
-          anchors[i].href = new_url;
-        }
-      }
-
-    </script>
+     
+      {{ block "pdf-hacking" . }}{{ partialCached "pdf-script" . }}{{ end }} 
+    
 
   </body>
 
