@@ -25,9 +25,11 @@
 
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
 
-    {{ block "footnotes-script" . }}{{ partial "footnotes-script.html" . }}{{ end }}
-
     <div class="scroll-to-top" onclick="document.body.scrollTop = 0; document.documentElement.scrollTop = 0;"></div>
+
+     
+      {{ block "pdf-hacking" . }}{{ partialCached "pdf-script" . }}{{ end }} 
+    
 
   </body>
 

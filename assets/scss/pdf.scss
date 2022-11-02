@@ -11,3 +11,25 @@ footer,
 .littlefoot-footnote__host {
   display: none !important;
 }
+
+a {
+  text-underline-offset: 5px;
+  text-decoration-color: $very-light-blue;
+}
+
+.footnote-ref, .footnote-backref {
+  padding: 5px;
+  text-decoration: none;
+  border: 1px solid $very-light-blue;
+  border-radius: 50%;
+  height: 15px;
+  width: 15px;
+  text-align: center;
+  transform: translate(0, -5px);
+  display: inline-block;
+  line-height: 13px;
+}
+
+.footnote-backref {
+  transform: translate(0, 0);
+}
