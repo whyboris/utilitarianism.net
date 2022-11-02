@@ -48,9 +48,9 @@ In contrast, according to indirect consequentialism we should evaluate the moral
 
 On our definition of consequentialism, only the direct view is a genuinely consequentialist position, and rule utilitarianism/consequentialism, despite the name, is not a type of consequentialism.[^2] As Brad Hooker, the world’s leading rule consequentialist, argues, the most plausible form of rule consequentialism is not motivated solely by the consequentialist commitment to outcomes being as good as possible: for example, he justifies rule consequentialism because it impartially justifies intuitively plausible moral rules.[^3] This marks an important difference from foundationally consequentialist theories.
 
-Though act utilitarianism assesses only actions (rather than rules) in terms of “rightness”, it nevertheless also recognizes the importance of having strong commitments to familiar moral rules. Rules such as “don’t lie” and “don’t kill” are regarded as useful decision procedures—guidelines we should almost always follow—but not as standards of moral rightness. For a related discussion that seeks to clarify this point further, see the section on “[multi-level utilitarianism](https://docs.google.com/document/d/1BiHcqCRp4CybPnFj-DvxArUfTSYnTdy9TAjx1rnCP0E/edit#)” below.
+Though act utilitarianism assesses only actions (rather than rules) in terms of “rightness”, it nevertheless also recognizes the importance of having strong commitments to familiar moral rules. Rules such as “don’t lie” and “don’t kill” are regarded as useful decision procedures—guidelines we should almost always follow—but not as standards of moral rightness. For a related discussion that seeks to clarify this point further, see the section on “[multi-level utilitarianism](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism)” below.
 
-### Welfarism 
+### Welfarism
 
 Consequentialists differ regarding what they mean by _good consequences_. Utilitarians endorse _[welfarism](https://plato.stanford.edu/entries/well-being/#Wel)_, which is defined as follows:
 > **Welfarism is the view that only the _welfare_ (also called _well-being_) of individuals determines the value of an outcome.**[^4]

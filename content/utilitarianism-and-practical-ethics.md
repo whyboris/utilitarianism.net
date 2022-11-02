@@ -28,15 +28,13 @@ However, while consequentialists—including utilitarians—accept that doing ha
 
 It matters a great deal whether or not there is an intrinsic moral difference between doing and allowing harm. As pointed out above, the _Doctrine of Doing and Allowing_ is at the heart of the disagreement between many consequentialists and non-consequentialists. Furthermore, it matters for real-world decision-making. For instance, the ethics guidelines of many medical associations never allow doctors to actively and intentionally cause the death of a patient. However, it is acceptable for doctors to intentionally let a patient die under certain circumstances, such as if the patient is in great pain and wants to end their life. This distinction—between a doctor letting a terminally ill patient die and a doctor actively assisting a patient who wants to end their life—is regarded as less relevant from a utilitarian perspective. If we allow doctors to let a terminally ill patient (who wishes to end their suffering) die, a utilitarian would argue that doctors should also be permitted to actively assist a patient to bring about their death with their consent.
 
-
 ## Demandingness 
 
-Utilitarianism is a very [demanding](https://docs.google.com/document/d/1JEh2T9lwhkYUHJ1YEvL2awdOXGqs3zh8MFAvbw_ZWPc/edit#) ethical theory: it maintains that any time you can do more to help other people than you can to help yourself, you should do so.[^2] For example, if you could sacrifice your life to save the lives of several other people then, other things being equal, according to utilitarianism, you ought to do so.
+Utilitarianism is a very [demanding](/objections-to-utilitarianism/demandingness) ethical theory: it maintains that any time you can do more to help other people than you can to help yourself, you should do so.[^2] For example, if you could sacrifice your life to save the lives of several other people then, other things being equal, according to utilitarianism, you ought to do so.
 
 Though occasions where sacrificing your own life is the best thing to do are rare, utilitarianism is still very demanding in the world today. For example, by [donating to a highly effective global health charity](/acting-on-utilitarianism#charitable-giving), you can save a child’s life for just a few thousand dollars.[^3] As long as such donations benefit others more than a few thousand dollars would benefit yourself—as they almost certainly do, if you are a typical citizen of an affluent country—you are obligated to donate. Indeed, you are likely obligated to donate the majority of your lifetime income. According to utilitarianism, it is only ever permissible to spend money on yourself—such as by going out to the movies or buying nice clothes—if you think that this expenditure would do more good than any possible donation. This is a very high bar. 
 
 As well as requiring very significant donations, utilitarianism claims that you ought to [choose whatever career will most benefit others](/acting-on-utilitarianism#career-choice), too. This might involve non-profit work, conducting important research, or going into politics or advocacy. 
-
 
 ## Cause Impartiality 
 
