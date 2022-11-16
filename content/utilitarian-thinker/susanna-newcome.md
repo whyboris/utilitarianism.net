@@ -84,8 +84,8 @@ The Anglican Utilitarian movement mentioned above was largely centered around th
 
 * _[An Enquiry Into the Evidence of the Christian Religion](https://www.google.com/books/edition/An_Enquiry_Into_the_Evidence_of_the_Chri/sFlOAQAAIAAJ?hl=en&gbpv=0)_ (2<sup>nd</sup> Edition, 1732)
 * _[An Enquiry Into the Evidence of the Christian Religion](https://www.google.com/books/edition/An_Enquiry_Into_the_Evidence_of_the_Chri/a_2DvtpbbEgC?hl=en&gbpv=0)_ (1<sup>st</sup> Edition, 1728)
-* _[The Plain Account of the Nature and End of the Sacrament of the Lord’s Supper](https://www.google.com/books/edition/The_Plain_Account_of_the_Nature_and_End/7ZdhAAAAcAAJ?hl=en&gbpv=0)_(Part One, 1737)
-* _[The Plain Account of the Nature and End of the Sacrament of the Lord’s Supper](https://www.google.com/books/edition/The_Plain_Account_of_the_Nature_and_End/_JdhAAAAcAAJ?hl=en&gbpv=0)_(Part Two, 1738)
+* _[The Plain Account of the Nature and End of the Sacrament of the Lord’s Supper](https://www.google.com/books/edition/The_Plain_Account_of_the_Nature_and_End/7ZdhAAAAcAAJ?hl=en&gbpv=0)_ (Part One, 1737)
+* _[The Plain Account of the Nature and End of the Sacrament of the Lord’s Supper](https://www.google.com/books/edition/The_Plain_Account_of_the_Nature_and_End/_JdhAAAAcAAJ?hl=en&gbpv=0)_ (Part Two, 1738)
 
 ## Resources on Susanna Newcome’s Life and Works
 
