@@ -1,0 +1,7 @@
+
+{{ if isset .Params "image" }}
+  {{ $myVar := print .Params.image }}
+  <div class="fake">
+    <img src="{{ $myVar }}">
+  </div>
+{{ end }}
