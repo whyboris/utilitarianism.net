@@ -17,3 +17,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   # [languages.jp]
   #   title = 'i18n test'
   #   weight = 2
+[Params]
+  pdf = false # boolean to toggle when generating PDF
+  search = false # boolean to toggle when generating the search index

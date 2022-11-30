@@ -3,6 +3,7 @@ title: "Resources and Further Reading"
 date: 2022-08-08T10:10:50-04:00
 draft: false
 menu: "main"
+image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 ---

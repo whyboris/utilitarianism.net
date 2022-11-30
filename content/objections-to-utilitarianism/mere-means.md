@@ -6,6 +6,7 @@ draft: false
 menu: ["objections"]
 weight: 4
 page: 4
+image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 {{< TOC >}}

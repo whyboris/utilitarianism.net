@@ -4,6 +4,7 @@ date: 2022-08-08T10:10:56-04:00
 draft: false
 menu: "main"
 weight: 4
+image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 > _“To what shall the character of utility be ascribed, if not to that which is a source of pleasure?”_

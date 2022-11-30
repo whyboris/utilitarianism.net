@@ -5,6 +5,7 @@ updated: 2022, Sept 8th - in sync with Google Doc
 draft: false
 menu: "quotes"
 weight: 1
+image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 {{< TOC unordered="true">}}

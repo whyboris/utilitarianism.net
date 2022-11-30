@@ -11,6 +11,7 @@ type: _default
 layout: book
 gradientTop: "#0c3b5b"
 gradientBottom: "#295573"
+image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 ## Introduction

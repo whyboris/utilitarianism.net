@@ -9,6 +9,7 @@ menu: "guide"
 weight: 1
 type: _default
 layout: book
+image: "/img/Utilitarianism-Website-Logo.png"
 gradientTop: "#0c3b5b"
 gradientBottom: "#295573"
 ---

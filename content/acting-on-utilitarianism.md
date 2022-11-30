@@ -5,6 +5,7 @@ updated: 2022, June 17th - by Richard
 draft: false
 menu: "acting"
 weight: 5
+image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 

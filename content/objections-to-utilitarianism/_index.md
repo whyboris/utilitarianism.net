@@ -5,6 +5,7 @@ draft: false
 menu: ["objections", "main"]
 weight: 8
 page: 0
+image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 > Bernard Williams...concluded a lengthy attack on utilitarianism by remarking: ‘The day cannot be too far off in which we hear no more of it.’ It is now more than forty years since Williams made that comment, but we continue to hear plenty about utilitarianism.[^1]  \
