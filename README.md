@@ -64,6 +64,8 @@ Search is handlede with [pagefind](https://pagefind.app/). You'll need to instal
 
 When publishing the application, after `hugo -D` run `pagefind --source public` which will create the `_pagefind` folder inside `/public`. That is all that's needed for search to work. Thank you _pagefind_!
 
+When using site search there are image previews on the side of search results. When generating the search index, toggle `search = true` in `config.toml` so that images appear correctly.
+
 ## PDF
 
 We can generate PDFs of all the pages with [website2pdf](https://github.com/jgazeau/website2pdf). See the _README.md_ inside the _PDF_ folder for instructions.
