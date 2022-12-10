@@ -1,3 +1,10 @@
+{{ if .Get "noabout" }}
+   
+{{ else }}
+  <h2>About the Author</h2>
+{{ end }}    
+
+
 <div class="thinker essay-author">
   <img src="{{ .Get "image" }}" alt="{{ .Get "text"}}" title="{{ .Get "text" }}"></img>
 </div>

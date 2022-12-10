@@ -147,7 +147,7 @@ Some studies even harm humanity more than they benefit it by generating “[dual
 
 This article disputes a common view of research ethics as being fundamentally antagonistic to utilitarianism and friendly to Kantianism. I have argued that (I) utilitarianism can account well for many core research ethics norms, while (II) Kantianism conflicts with many of them, and (III) a more utilitarian outlook would improve contemporary research ethics. Thus, utilitarianism and research ethics may turn out to be complementary, certainly compared to some alternatives to utilitarianism.
 
-**About the author**
+---
 
 {{< essay-author
      image="/img/authors/Nir-Eyal.jpg"

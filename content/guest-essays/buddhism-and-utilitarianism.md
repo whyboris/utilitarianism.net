@@ -134,8 +134,6 @@ I believe that Buddhism and utilitarianism are both committed to in-principle su
 
 ---
 
-**About the author**
-
 {{< essay-author
      image="/img/authors/Calvin-Baker.jpg"
      text="Calvin Baker" >}}

@@ -156,17 +156,19 @@ _A longer version of this article can be found [here](https://psyarxiv.com/w52zm
 
 ---
 
-**About the authors**
+<h2>About the Authors</h2>
 
 {{< essay-author
      image="/img/authors/Stefan-Schubert.jpg"
-     text="Stefan Schubert" >}}
+     text="Stefan Schubert"
+     noabout=true >}}
 
 [Stefan Schubert](https://stefanfschubert.com/) is a researcher at the Centre for Philosophy of Natural and Social Science, London School of Economics and Political Science, who works in the intersection of moral psychology and philosophy. His research focuses on questions related to effective altruism, such as why we don't invest more in safe-guarding our common future.
 
 {{< essay-author
      image="/img/authors/Lucius-Caviola.jpg"
-     text="Lucius Caviola" >}}
+     text="Lucius Caviola"
+     noabout=true >}}
 
 [Lucius Caviola](http://luciuscaviola.com/) is an experimental psychologist at Harvard University with a PhD from the University of Oxford. He studies the moral biases that prevent us from maximizing social welfare and develops strategies that could help us improve.
 
