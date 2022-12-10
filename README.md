@@ -77,7 +77,7 @@ To build the website for production there are several steps:
 1. Build the _Search_ index
 2. Build the _PDF_ files
 3. Build the final website
-   1. You must enable `HUGO_ENV="production` in `config.toml` else the website will have `noindex` set on every page, making Google ignore the website!
+   - You must enable `HUGO_ENV="production` in `config.toml` else the website will have `noindex` set on every page, making Google ignore the website!
 
 ## First time coding?
 

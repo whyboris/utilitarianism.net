@@ -19,6 +19,7 @@ enableRobotsTXT = true
   #   title = "i18n test"
   #   weight = 2
 [Params]
+  images = ["img/social.png"]
   pdf = false # boolean to toggle when generating PDF
   search = false # boolean to toggle when generating the search index
-  production = true # boolean to toggle if this is a production build
+  production = false # boolean to toggle if this is a production build

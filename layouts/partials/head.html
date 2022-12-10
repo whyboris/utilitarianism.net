@@ -2,11 +2,17 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-{{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
 <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
 
 <meta name="viewport" content="width=device-width,minimum-scale=1">
+
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+
+{{ if .Params.Keywords }}
+    <meta name="keywords" content="{{ if .Params.Keywords }}{{ delimit .Params.Keywords ", " }}{{ end }}">
+{{ else }}
+    <meta name="keywords" content="utilitarianism, unilitarian, consequentialism">
+{{ end }}
 
 {{ hugo.Generator }}
 
@@ -17,6 +23,7 @@
 {{ end }}
 
 {{ partial "site-style.html" . }}
+
 {{ partial "site-scripts.html" . }}
 
 {{ block "favicon" . }}
@@ -28,6 +35,6 @@
 {{- template "_internal/schema.html" . -}}
 {{- template "_internal/twitter_cards.html" . -}}
 
-{{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+{{ if .Site.Params.production  }}
     {{ template "_internal/google_analytics_async.html" . }}
 {{ end }}
