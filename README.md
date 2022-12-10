@@ -70,6 +70,15 @@ When using site search there are image previews on the side of search results. W
 
 We can generate PDFs of all the pages with [website2pdf](https://github.com/jgazeau/website2pdf). See the _README.md_ inside the _PDF_ folder for instructions.
 
+## Building
+
+To build the website for production there are several steps:
+
+1. Build the _Search_ index
+2. Build the _PDF_ files
+3. Build the final website
+   - You must enable `HUGO_ENV="production` in `config.toml` else the website will have `noindex` set on every page, making Google ignore the website!
+
 ## First time coding?
 
 Starting may be daunting, but you can do it! Setting up will take two steps:
