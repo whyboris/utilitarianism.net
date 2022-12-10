@@ -183,8 +183,6 @@ Now, recognizing the equal intrinsic value of positive experience no matter the 
 
 ---
 
-**About the author**
-
 {{< essay-author
      image="/img/authors/Sharon-Hewitt-Rawlette.jpg"
      text="Sharon Hewitt Rawlette" >}}

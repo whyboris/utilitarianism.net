@@ -188,8 +188,6 @@ Empirical observation reveals objective and universal moral value existing withi
 
 ---
 
-**About the author**
-
 {{< essay-author
      image="/img/authors/Neil-Sinhababu.jpg"
      text="Neil Sinhababu" >}}

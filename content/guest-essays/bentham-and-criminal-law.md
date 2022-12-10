@@ -148,8 +148,6 @@ This sample illustrates how helpful the penal code manuscripts are in understand
 
 ---
 
-**About the author**
-
 {{< essay-author
      image="/img/authors/Steve-Sverdlik.jpg"
      text="Steve Sverdlik" >}}
