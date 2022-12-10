@@ -10,10 +10,7 @@
 
 {{ hugo.Generator }}
 
-{{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
-{{ $production := eq (getenv "HUGO_ENV") "production" | or (eq site.Params.env "production") }}
-{{ $public := not .Params.private }}
-{{ if and $production $public }}
+{{ if .Site.Params.production }}
     <meta name="robots" content="index, follow">
 {{ else }}
     <meta name="robots" content="noindex, nofollow">

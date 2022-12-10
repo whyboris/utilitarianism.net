@@ -1,9 +1,10 @@
-baseURL = 'https://utilitarianism.net/'
-googleAnalytics = 'G-91NYS1B7E1'
-title = 'Utilitarianism'
-languageCode = 'en-us'
+baseURL = "https://utilitarianism.net/"
+googleAnalytics = "G-91NYS1B7E1"
+title = "Utilitarianism"
+languageCode = "en-us"
 theme = ["ananke"]
 disableKinds = ["taxonomy", "taxonomyTerm"]
+enableRobotsTXT = true
 [markup]
   [markup.tableOfContents]
     ordered = true
@@ -12,11 +13,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         unsafe = true
 [languages]
   [languages.en]
-    title = 'Utilitarianism.net'
+    title = "Utilitarianism.net"
     weight = 1
   # [languages.jp]
-  #   title = 'i18n test'
+  #   title = "i18n test"
   #   weight = 2
 [Params]
   pdf = false # boolean to toggle when generating PDF
   search = false # boolean to toggle when generating the search index
+  production = true # boolean to toggle if this is a production build
