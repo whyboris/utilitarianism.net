@@ -6,6 +6,7 @@ draft: false
 menu: ["objections"]
 weight: 2
 page: 2
+image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 > _Utilitarianism doesn't ask us to be morally perfect. It asks us to face up to our moral limitations and do as much as we humanly can to overcome them._

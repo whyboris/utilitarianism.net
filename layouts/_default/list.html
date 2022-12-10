@@ -6,6 +6,9 @@
       {{ .Title }}
     </h1>
 
+    {{ partial "fake-image.html" . }}
+    <!-- this renders _index.md pages -->
+
     {{ .Content }}
 
   </div>

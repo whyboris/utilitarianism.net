@@ -5,6 +5,7 @@ updated: 2022, Sept 5th - in sync with website
 draft: false
 menu: "main"
 weight: 1
+image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 > _"The utilitarian doctrine is, that happiness is desirable, and the only thing desirable, as an end; all other things being only desirable as means to that end."_

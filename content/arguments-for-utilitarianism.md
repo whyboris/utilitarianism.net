@@ -4,6 +4,7 @@ date: 2022-08-08T10:10:57-04:00
 draft: false
 menu: "main"
 weight: 3
+image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 {{< TOC >}}
