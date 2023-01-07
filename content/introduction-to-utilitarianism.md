@@ -163,7 +163,7 @@ Utilitarian ethics has an intellectual tradition spanning centuries, during whic
 
 The next chapter discusses the four elements of utilitarian theories in greater depth and introduces several variants of utilitarianism.
 
-_[Button with link to ‘[Elements and Types of Utilitarianism](/types-of-utilitarianism)’ chapter]_
+{{< next-page-textbook title="Elements and Types of Utilitarianism" url="/types-of-utilitarianism" >}}
 
 ---
 

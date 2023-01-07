@@ -127,17 +127,13 @@ But those are a fairly narrow range of views. By contrast, it is noteworthy—an
 
 The next chapter discusses several of the most important objections to utilitarianism and responses to these objections.
 
-_[Button with link to [Objections](/objections-to-utilitarianism) chapter]_
-
+{{< next-page-textbook title="Objections to Utilitarianism and Responses" url="/objections-to-utilitarianism" >}}
 
 {{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 
-
 {{< button >}}
 
-
 ## Resources and Further Reading
-
 
 ### Beyond Welfarism
 
@@ -145,18 +141,15 @@ _[Button with link to [Objections](/objections-to-utilitarianism) chapter]_
 * Elizabeth Anderson (1999). [What is the Point of Equality?](https://doi.org/10.1086/233897) _Ethics_ 109 (2): 287–337.
 * Derek Parfit (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_, 10 (3): 202–221.
 
-
 ### Prioritarianism
 
 * Derek Parfit (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_, 10(3): 202–221.
 * Johan E. Gustafsson (2021). _[Ex-Ante Prioritarianism Violates Sequential Ex‑Ante Pareto](https://doi.org/10.1017/S0953820821000303)_. _Utilitas,_ 1–11.
 * Joshua Greene & Jonathan Baron (2001). [Intuitions about Declining Marginal Utility](https://dx.doi.org/10.2139/ssrn.231183). _Journal of Behavioral Decision Making_, 14: 243–55.
 
-
 ### Desert-Adjusted Views
 
 * Fred Feldman (1995). [Adjusting utility for justice: A consequentialist reply to the objection from justice](https://dx.doi.org/10.2307/2108439). _Philosophy and Phenomenological Research_, 55(3): 567–585.
-
 
 ### Egoism and Partialism
 
@@ -166,14 +159,11 @@ _[Button with link to [Objections](/objections-to-utilitarianism) chapter]_
 * Troy Jollimore (2018). [Impartiality](https://plato.stanford.edu/entries/impartiality/ )_. The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 * Robert Goodin (1988). [What is so special about our fellow countrymen?](https://dx.doi.org/10.1086/292998) _Ethics_ 98(4): 663–686.
 
-
 ### Beyond Consequentialism
 
 * John Taurek (1977). [Should the numbers count?](https://www.jstor.org/stable/2264945). _Philosophy and Public Affairs_, 6(4): 293–316.
 * David Ross (1930). _The Right and the Good_. Clarendon Press.
 * Elizabeth Ashford (2003) [The Demandingness of Scanlon's Contractualism](https://doi.org/10.1086/342853). _Ethics_ 113(2): 273–302.
-
-
 
 
 [^1]:

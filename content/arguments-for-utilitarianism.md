@@ -155,8 +155,7 @@ However strong you judge the arguments in favor of utilitarianism to be, your ul
 
 The next chapter discusses theories of well-being, or what counts as being good for an individual.
 
-_[Button with link to [Theories of Well-Being](/theories-of-wellbeing) chapter]_
-
+{{< next-page-textbook title="Theories of Well-Being" url="/theories-of-wellbeing" >}}
 
 {{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 
