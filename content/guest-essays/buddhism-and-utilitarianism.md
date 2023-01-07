@@ -13,6 +13,7 @@ imageCaption: "Buddhism and Utilitarianism"
 summary: This article analyses the extent to which elements of utilitarianism can be found within (i) the Early Buddhist tradition, and (ii) classical Indian Mahāyāna Buddhism. It then explores a Buddhist perspective on well-being, and concludes by comparing Engaged Buddhism to effective altruism. 
 ---
 
+{{< guest-disclaimer >}}
 
 {{< TOC >}}
 

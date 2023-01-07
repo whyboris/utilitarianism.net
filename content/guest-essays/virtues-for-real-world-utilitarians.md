@@ -13,7 +13,7 @@ imageCaption: "Virtues for Real-World Utilitarians"
 summary: This article discusses how utilitarians should go about applying their philosophy in the real world. It argues that utilitarians should cultivate a set of utilitarian virtues, including moderate altruism, moral expansiveness, effectiveness-focus, truth-seeking, collaborativeness, and determination.
 ---
 
-[Stefan Schubert](https://stefanfschubert.com/) and [Lucius Caviola](http://luciuscaviola.com/)
+{{< guest-disclaimer >}}
 
 {{< TOC >}}
 
