@@ -1,6 +1,7 @@
 ---
 title: "Population Ethics"
-date: 2022-08-08T10:10:55-04:00
+date: 2023-01-01T10:10:55-04:00
+updated: 2023, Jan 8th - in sync with website
 draft: false
 menu: "main"
 weight: 5
@@ -33,7 +34,7 @@ Importantly, one population may have greater total wellbeing than another in vir
 
 **Value<sub>total view</sub> = N \* Q**
 
-Consider a hypothetical world A with 100 inhabitants (N<sub>A</sub>) at average wellbeing level 10 (Q<sub>A</sub>) and another hypothetical world B with 200 inhabitants (N<sub>B</sub>) at wellbeing level 5 (Q<sub>B</sub>). On the total view, worlds A and B are equally good because they both have 1,000 units of wellbeing (N<sub>A</sub> _ Q<sub>A</sub> = N<sub>B</sub> _ Q<sub>B</sub> = 1,000).
+Consider a hypothetical world A with 100 inhabitants (N<sub>A</sub>) at average wellbeing level 10 (Q<sub>A</sub>) and another hypothetical world B with 200 inhabitants (N<sub>B</sub>) at wellbeing level 5 (Q<sub>B</sub>). On the total view, worlds A and B are equally good because they both have 1,000 units of wellbeing (N<sub>A</sub> \* Q<sub>A</sub> = N<sub>B</sub> \* Q<sub>B</sub> = 1,000).
 
 When making such comparisons between hypothetical worlds in population ethics, these worlds are often illustrated graphically. The width of the following graphs represents the number of people, and the height represents their average wellbeing level. Consequently, the graphs’ area—width times height—represents the total welfare in the hypothetical worlds. Illustrated graphically, worlds A and B are equally valuable, according to the total view, since their graphs have the same area.
 

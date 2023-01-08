@@ -18,6 +18,12 @@
 
   a {
     color: $dark-blue;
+    text-underline-offset: 3px;
+    text-decoration-color: $very-light-blue;
+
+    &:hover {
+      color: black;
+    }
   }
 
   img {

@@ -1,14 +1,14 @@
 ---
 title: "Utilitarianism and Practical Ethics"
-date: 2022-08-08T10:10:54-04:00
+date: 2023-01-01T10:10:54-04:00
+updated: 2023, Jan 8th - in sync with website
 draft: false
 menu: "main"
 weight: 6
 image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
-> Are we to extend our concern to all the beings capable of pleasure and pain whose feelings are affected by our conduct? or are we to confine our view to human happiness? The former view is the one adopted by (...) the Utilitarian school (...) it seems arbitrary and unreasonable to exclude from the end, as so conceived, any pleasure of any sentient being.
-> \- [Henry Sidgwick](/utilitarian-thinker/henry-sidgwick)[^1]
+> Are we to extend our concern to all the beings capable of pleasure and pain whose feelings are affected by our conduct? or are we to confine our view to human happiness? The former view is the one adopted by (...) the Utilitarian school (...) it seems arbitrary and unreasonable to exclude from the end, as so conceived, any pleasure of any sentient being. <br> \- [Henry Sidgwick](/utilitarian-thinker/henry-sidgwick)[^1]
 
 {{< TOC >}}
 
@@ -19,6 +19,8 @@ Utilitarianism has important implications for how we should think about leading 
 We discuss how utilitarians should act in practice in the article [Acting on Utilitarianism](/acting-on-utilitarianism). In brief, most utilitarians should [donate a significant portion of their income](/acting-on-utilitarianism#charitable-giving) to address the world’s most pressing problems, [devote their careers to doing good](/acting-on-utilitarianism#career-choice), and aspire to high degrees of cooperativeness, personal integrity, and honesty.
 
 ## Is There a Difference Between Doing and Allowing Harm?
+
+> _"A person may cause evil to others not only by his actions but by his inaction, and in either case he is justly accountable to them for the injury."_ <br> \- [John Stuart Mill](/utilitarian-thinker/john-stuart-mill), [On Liberty](/books/on-liberty-john-stuart-mill/1)
 
 Many non-consequentialists believe there is a morally relevant difference between _[doing harm and allowing harm](https://plato.stanford.edu/entries/doing-allowing/)_, even if the consequences of an action or inaction are the same. This position is known as the “Doctrine of Doing and Allowing”, according to which harms caused by actions—by things we actively do—are worse than harms of omission. Those who subscribe to this doctrine may, for instance, claim that it is worse to harm a child, all else being equal, than it is to fail to prevent the same child from being harmed in an accident.
 
@@ -44,7 +46,7 @@ However, utilitarians argue that we should not choose our focus based primarily 
 
 > **Cause impartiality is the view that one’s choice of social cause to focus on should depend on, and only on, the expected amount of good that one can do in that cause.**
 
-To illustrate this idea, suppose that you could donate to one of two different charities. One provides bed netsbednets to protect children from malaria; the other treats cancer patients. Suppose that you will save twice as many lives by donating to the bednet charity than by donating to the cancer charity; however, a family member died of cancer, so you have a personal attachment to that cause. Should you, therefore, give to the cancer charity?
+To illustrate this idea, suppose that you could donate to one of two different charities. One provides bednets to protect children from malaria; the other treats cancer patients. Suppose that you will save twice as many lives by donating to the bednet charity than by donating to the cancer charity; however, a family member died of cancer, so you have a personal attachment to that cause. Should you, therefore, give to the cancer charity?
 
 The utilitarian would argue not. On the utilitarian view, the importance of saving two lives rather than one outweighs the personal attachment that might bring the donor to prioritize the life of the cancer sufferers. From the viewpoint of utilitarianism, we should be completely impartial in deciding which social cause to support, and instead let this decision be driven only by the question of where we can do the most good.
 
@@ -54,7 +56,7 @@ Importantly, we know that some ways of benefiting individuals do much more good 
 
 A crucial question in deciding which cause to dedicate our efforts to regards which individuals we should include in our moral deliberations.
 
-We now recognize that characteristics like race, gender, and sexual orientation do not justify discriminating against individuals or disregarding their suffering. Over time, our society has gradually expanded our moral concern to ever more groups, a trend of moral progress often called the _expanding moral circle_.[^7] But what are the limits of this trend? Should the moral circle include all humans but stop there? Should it be expanded to include non-human animals as wellanimals well? Or should it ultimately extend even to plants and the natural environment?
+We now recognize that characteristics like race, gender, and sexual orientation do not justify discriminating against individuals or disregarding their suffering. Over time, our society has gradually expanded our moral concern to ever more groups, a trend of moral progress often called the _expanding moral circle_.[^7] But what are the limits of this trend? Should the moral circle include all humans but stop there? Should it be expanded to include non-human animals as well? Or should it ultimately extend even to plants and the natural environment?
 
 Utilitarianism provides a clear response to this question: We should extend our moral concern to all _sentient beings_, meaning every individual capable of experiencing positive or negative conscious states. This includes humans and probably many non-human animals, but not plants or other entities that are non-sentient. This view is sometimes called _sentiocentrism_ as it regards sentience as the characteristic that entitles individuals to moral concern. Justifying this perspective, Peter Singer writes:
 
@@ -70,7 +72,7 @@ According to utilitarianism, geographical distance and national membership are n
 
 Of course, the geographical distance between oneself and one’s beneficiary may matter instrumentally—it is often easier to help people close by than people far away. However, in an increasingly globalized world it has become much easier to benefit even those who live on the other side of the world. And because of extreme global economic inequalities, an additional unit of resources benefits people in the least-developed countries much more than people in affluent countries like the United States or the United Kingdom—potentially 100 to 1,000 times more.[^9]
 
-We discuss the implications of cosmopolitanism for ethical action in [Chapter 5: Acting on Utilitarianism](/acting-on-utilitarianism#global-health-and-development).
+We discuss the implications of cosmopolitanism for ethical action in the article [Acting on Utilitarianism](/acting-on-utilitarianism#global-health-and-development).
 
 ### Anti-Speciesism: Expanding the Moral Circle Across Species
 
@@ -140,6 +142,7 @@ The next chapter discusses important rival theories that may overlap significant
 ### Cosmopolitanism: Expanding the Moral Circle Across Geography
 
 - [Poverty & Our Response to It: Crash Course Philosophy #44](https://youtu.be/D5sknLy7Smo)
+- Peter Singer (2009). [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/). New York: Penguin Random House. (the book is available for free download)
 - Peter Singer (1972). [Famine, Affluence, and Morality](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Singer_1972Famine.pdf). _Philosophy & Public Affairs_. 1(2): 229–243.
 - Samuel Scheffler (1999). [Conceptions of Cosmopolitanism](https://www.cambridge.org/core/journals/utilitas/article/conceptions-of-cosmopolitanism/28D86759086069E2A97FF730F13C274D). _Utilitas_. 11(3): 255–276.
 
@@ -152,8 +155,8 @@ The next chapter discusses important rival theories that may overlap significant
 
 ### Longtermism: Expanding the Moral Circle Across Time
 
+- Toby Ord (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
 - Hilary Greaves & William MacAskill (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_.[^21]
-
 - Nick Beckstead (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM)_. PhD Dissertation, Rutgers University.
 - Nick Bostrom (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://drive.google.com/open?id=0B4kMPIEI5Mb8WTJGckNSNG5seWs). _Utilitas_. 15(3): 308–314.
 
@@ -176,8 +179,8 @@ The next chapter discusses important rival theories that may overlap significant
 [^13]:
     There is an ongoing academic debate about the moral importance of wild animal welfare. For example, see the following:
     Ng, Y. (1995). [Towards Welfare Biology: Evolutionary Economics of Animal Consciousness and Suffering](https://www.ntu.edu.sg/home/ykng/Towards%20Welfare%20Biology-1995.pdf). _Biology and Philosophy_. 10 (3): 255–285. [doi:10.1007/BF00852469](https://doi.org/10.1007%2FBF00852469)
-    McMahan, J. (2013).[ The Moral Problem of Predation](http://jeffersonmcmahan.com/wp-content/uploads/2012/11/The-Moral-Problem-of-Predation.pdf). In Chignell, A; Cuneo, T. & Halteman, M. (eds.). _Philosophy Comes to Dinner: Arguments on the Ethics of Eating_. London: Routledge.
-    Moen, O. M. (2016).[ The Ethics of Wild Animal Suffering](http://www.olemartinmoen.com/wp-content/uploads/TheEthicsofWildAnimalSuffering.pdf). _Etikk I Praksis - Nordic Journal of Applied Ethics_. **10**: 1–14.
+    McMahan, J. (2013). [The Moral Problem of Predation](http://jeffersonmcmahan.com/wp-content/uploads/2012/11/The-Moral-Problem-of-Predation.pdf). In Chignell, A; Cuneo, T. & Halteman, M. (eds.). _Philosophy Comes to Dinner: Arguments on the Ethics of Eating_. London: Routledge.
+    Moen, O. M. (2016). [The Ethics of Wild Animal Suffering](http://www.olemartinmoen.com/wp-content/uploads/TheEthicsofWildAnimalSuffering.pdf). _Etikk I Praksis - Nordic Journal of Applied Ethics_. **10**: 1–14.
 
 [^14]:
     For a further discussion of this topic we recommend this interview with researcher Persis Eskander:
