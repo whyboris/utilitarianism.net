@@ -14,6 +14,7 @@ summary: "This essay questions the common research ethics’ philosophical found
 (II) Kantian ethics may conflict with many core research ethics norms, and (III) a more utilitarian outlook would improve contemporary research ethics in concrete ways."
 ---
 
+{{< guest-disclaimer >}}
 
 {{< TOC >}}
 

@@ -13,6 +13,8 @@ imageCaption: "The Feeling of Value Book"
 summary: In this summary of her 2016 book The Feeling of Value, Sharon Hewitt Rawlette defends “analytic hedonism”. From our direct acquaintance with the intrinsic value of good and bad experiential states, we can build an entire ethical system that is fully grounded in observable fact.
 ---
 
+{{< guest-disclaimer >}}
+
 {{< TOC >}}
 
 ## Introduction

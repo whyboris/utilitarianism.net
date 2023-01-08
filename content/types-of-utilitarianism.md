@@ -224,7 +224,7 @@ There are several further distinctions between utilitarian theories: we can dist
 
 The next chapter discusses arguments for utilitarianism, and for consequentialism more broadly.
 
-_[Button with link to [arguments](/arguments-for-utilitarianism) chapter]_
+{{< next-page-textbook title="Arguments for Utilitarianism" url="/arguments-for-utilitarianism" >}}
 
 {{< how-to-cite >}}
 
@@ -232,6 +232,7 @@ _[Button with link to [arguments](/arguments-for-utilitarianism) chapter]_
 ## Resources and Further Reading
 
 ### Consequentialism 
+
 * Walter Sinnott-Armstrong (2015). [Consequentialism](https://plato.stanford.edu/entries/consequentialism/). _Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 * Julia Driver (2011). _[Consequentialism, New Problems of Philosophy](https://www.routledge.com/Consequentialism/Driver/p/book/9780415772587)_. José Luis Bermúdez (ed.). Abingdon: Routledge.
 * Samuel Scheffler (1994). _[The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions](https://www.oxfordscholarship.com/view/10.1093/0198235119.001.0001/acprof-9780198235118)_. Oxford: Clarendon Press.

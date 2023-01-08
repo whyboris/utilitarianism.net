@@ -131,35 +131,28 @@ Though utilitarians should try to use their lives to do the most good they can, 
 
 The next chapter discusses important rival theories that may overlap significantly with utilitarianism in practice.
 
-_[Button with link to ‘[Near-Utilitarian Alternatives](/near-utilitarian-alternatives)’ chapter]_
-
+{{< next-page-textbook title="Near-Utilitarian Alternatives" url="/near-utilitarian-alternatives" >}}
 
 {{< how-to-cite authors="MacAskill, W. and Meissner, D." >}}
 
-
 {{< button >}}
 
-
 ## Resources and Further Reading 
-
 
 ### Is There a Difference Between Doing and Allowing Harm? 
 
 * Fiona Woollard & Frances Howard-Snyder (2016). [Doing vs. Allowing Harm](https://plato.stanford.edu/entries/doing-allowing/ ). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
-
 
 ### The Expanding Moral Circle 
 
 * Peter Singer (1997). [The Drowning Child and the Expanding Circle](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxlaHNhcGxhbmd1YWdlMjAxNXxneDoyNTNjNmMyNDBlN2JmMjMy)_. New Internationalist_.
 * Peter Singer (1981). _[The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle)_. Princeton: Princeton University Press.
 
-
 ### Cosmopolitanism: Expanding the Moral Circle Across Geography 
 
 * [Poverty & Our Response to It: Crash Course Philosophy #44](https://youtu.be/D5sknLy7Smo)
 * Peter Singer (1972). [Famine, Affluence, and Morality](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Singer_1972Famine.pdf). _Philosophy & Public Affairs_. 1(2): 229–243.
 * Samuel Scheffler (1999). [Conceptions of Cosmopolitanism](https://www.cambridge.org/core/journals/utilitas/article/conceptions-of-cosmopolitanism/28D86759086069E2A97FF730F13C274D). _Utilitas_. 11(3): 255–276.
-
 
 ### Anti-Speciesism: Expanding the Moral Circle Across Species 
 
@@ -168,7 +161,6 @@ _[Button with link to ‘[Near-Utilitarian Alternatives](/near-utilitarian-alter
 * Jeff McMahan (2002). [Animals](https://drive.google.com/open?id=0B4kMPIEI5Mb8YzJPSXVRMy04YkU). In R. G. Frey and Christopher Wellman (eds.), _The Blackwell Companion to Applied Ethics_. Oxford: Blackwell., pp. 525–536.
 * Jeff Sebo (2019). [A Utilitarian Case for Animal Rights](https://www.youtube.com/watch?v=vELWCTgA9oA). _Effective Altruism Global_.
 
-
 ### Longtermism: Expanding the Moral Circle Across Time 
 
 * Hilary Greaves & William MacAskill (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_.[^21]
@@ -176,10 +168,6 @@ _[Button with link to ‘[Near-Utilitarian Alternatives](/near-utilitarian-alter
 
 * Nick Beckstead (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM)_. PhD Dissertation, Rutgers University.
 * Nick Bostrom (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://drive.google.com/open?id=0B4kMPIEI5Mb8WTJGckNSNG5seWs). _Utilitas_. 15(3): 308–314.
-
-
-
-
 
 
 [^1]:

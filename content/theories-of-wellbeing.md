@@ -165,7 +165,7 @@ The competing theories of well-being mostly coincide in practice, but this may c
 
 The next chapter discusses _population ethics_, and how to evaluate outcomes in which different numbers of people may exist.
 
-_[Button with link to ‘[Population Ethics](/population-ethics)’ chapter]_
+{{< next-page-textbook title="Population Ethics" url="/population-ethics" >}}
 
 {{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 

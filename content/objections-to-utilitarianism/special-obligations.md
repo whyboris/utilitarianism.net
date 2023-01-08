@@ -57,7 +57,7 @@ We have seen that utilitarianism supports many forms of partiality in practice, 
 
 Against those who insist upon partiality at a fundamental theoretical level, utilitarians may respond that their intuitions are ill-founded, and that their resulting view is troublingly unprincipled (and even self-defeating). If we start to think of (fundamental) impartiality as the moral default, and partiality as something that stands in need of special justification, then utilitarianism may look to be on much firmer footing.
 
-{{< next-page-objection hide-next="true" >}}
+{{< next-page-objection hide-next="true" end-objection="true" >}}
 
 {{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 

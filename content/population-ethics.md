@@ -9,7 +9,7 @@ image: "/img/Utilitarianism-Website-Logo.png"
 
 {{< TOC >}}
 
-## Introduction 
+## Introduction
 
 Utilitarians agree that if the number of people that were ever to exist is held constant, we should promote the _sum total of wellbeing_ in that fixed population.[^1] But in reality, the population is not fixed. We have the option of bringing more people into existence, such as by having children. If these additional people would have good lives, is that a way of making the world better? This question falls in the domain of _population ethics_, which deals with the moral problems that arise when our actions affect who and how many people are born and at what quality of life.
 
@@ -27,7 +27,6 @@ This article will survey five major approaches to population ethics:
 
 According to the _total view_ of population ethics:
 
-
 > **One outcome is better than another if and only if it contains greater total wellbeing.**[^3]
 
 Importantly, one population may have greater total wellbeing than another in virtue of having more people. One way to calculate this total is to multiply the number of individuals (N) with their average quality of life (Q).[^4] We can, therefore, represent the total view by the following value function:
@@ -38,9 +37,7 @@ Consider a hypothetical world A with 100 inhabitants (N<sub>A</sub>) at average 
 
 When making such comparisons between hypothetical worlds in population ethics, these worlds are often illustrated graphically. The width of the following graphs represents the number of people, and the height represents their average wellbeing level. Consequently, the graphs’ area—width times height—represents the total welfare in the hypothetical worlds. Illustrated graphically, worlds A and B are equally valuable, according to the total view, since their graphs have the same area.
 
-
 ![Total View](/img/population-ethics-1.png "Total View")
-
 
 The total view implies that we can improve the world in two ways: either we can improve the quality of life of existing people, or we can increase the number of people living positive lives.[^5] The total view makes no distinction between whether the additional wellbeing would come to people who already exist or to entirely new people. For example, the total view regards having a child that lives a happy and fulfilled life as something that makes the world better, all else equal, since it adds to the total wellbeing.[^6] Importantly, the claim is not that having the child might make the world better in virtue of enriching the lives of others; instead, it is that having the child is good in itself. How good it is to bring a new person into existence depends on how much better or worse that person’s life is than a “neutral life”. According to this view, happy people are good and having more of a good thing, other things being equal, makes an outcome better.
 
@@ -48,20 +45,13 @@ In practice, there are often trade-offs between making existing people happier a
 
 The total view’s foremost practical implication is giving great importance to ensuring the long-term flourishing of civilization. This entails taking [existential risk reduction](/acting-on-utilitarianism#existential-risk-reduction) very seriously as a moral priority.[^8] Existential risks—such as all-out nuclear war, or extreme climate change, or an engineered global pandemic—threaten the survival of humankind. If humanity survives, civilization may flourish over billions of years, and an enormous number of future people may get to enjoy highly fulfilling lives. The total wellbeing across all future generations may be astronomically large, and an existential catastrophe would irreversibly deprive humanity of this potentially grand future. From the perspective of the total view and many other moral views, the stakes involved with existential risks are so immense that the mitigation of these risks becomes one of the principal moral issues facing humanity.
 
-
 ### Objecting to the Total View: The Repugnant Conclusion 
 
 The most prominent objection to the total view is the _repugnant conclusion_, originally raised by Derek Parfit.[^9] In its simplest form, the repugnant conclusion is that:[^10]
 
-
 > **For any world A, there is a better world Z in which no one has a life that is more than barely worth living.**
 
-
-    
-
 ![The Repugnant Conclusion](/img/population-ethics-2.png "The Repugnant Conclusion")
-
-
 
 All lives in world Z are positive, but they are only barely worth living. If the population in Z is sufficiently large, Z’s total wellbeing—represented by the graph’s area—is greater than A’s. Consequently, the total view implies that world Z is better than world A: the repugnant conclusion.
 
@@ -70,7 +60,6 @@ On the total view, a sufficiently large increase in the quantity of a population
 Importantly, the total view need not imply that we should maximize population size _in practice_. It is an open empirical question how best to promote total wellbeing in real-life circumstances: blindly increasing population without also ensuring a high quality of lives is not guaranteed (or even likely) to be the best approach. But even if the total view avoids repugnant implications in practice, it remains important to assess whether its broader implications (for various hypothetical scenarios) are ones that we are willing to accept.
 
 As such, proponents of the total view might respond to the challenge presented by the repugnant conclusion by debunking the intuition, biting the bullet, or attacking the alternatives. We will consider these in turn.
-
 
 #### Debunking the Intuition 
 
@@ -82,23 +71,17 @@ Second, we may not adequately appreciate that lives “barely worth living” ar
 
 Third, we may mistakenly imagine ourselves as part of the populations being compared in the repugnant conclusion. Consequently, an egoistic bias may push us to favor populations with a high quality of life.[^16]
 
-
 #### Tolerating the Intuition 
 
 Proponents of the total view may “bite the bullet” and simply accept that world Z is better than world A. They may point out that, while initially counterintuitive, this conclusion is based on the compelling goal to create a world with as much total wellbeing as possible. On the total view, reductions in the average wellbeing level of a population can be more than compensated for by adding sufficiently many lives that are worth living. Since lives worth living are (one would naturally think) an inherently good thing, it seems rhetorically overblown to call this implication “repugnant”.
 
 Indeed, it turns out to be remarkably difficult to avoid the repugnant conclusion. Strong arguments, such as Parfit's “mere addition paradox”,[^17] entail the repugnant conclusion without assuming the total view to begin with. Consider the choice between the following three worlds, A, A+, and B.
 
-
-
 ![Mere Addition Paradox](/img/population-ethics-3.png "Mere Addition Paradox")
-
-
 
 In world A, everyone’s wellbeing is very high. World A+ contains (i) one population group that is identical to the A population in terms of population size and average wellbeing, and (ii) a second group of the same size but with slightly lower wellbeing. Most people would agree that A+ is not worse than A (and may even be better) since, intuitively, merely adding people with lives worth living (without thereby harming anyone else) cannot make an outcome worse. Now consider world B with the same overall population size as A+. The average wellbeing in B is slightly higher than in A+ but lower than in A. When we compare worlds A+ and B, it seems that B must be better. Not only are the average _and_ total welfare in B higher than in A+, but wellbeing is also more equally distributed. Yet, if B is better than A+, and A+ is not worse than A, it follows that B must be better than A.[^18] Repeating this process—comparing world B with B+ and C etc.—leads to world Z with an enormous number of people with lives barely worth living. Following the above reasoning, world Z must be better than world A: the repugnant conclusion.
 
 Recent papers from Dean Spears and Mark Budolfson make a different case for the inescapability of (something like) the repugnant conclusion.[^19] The authors argue that _all_ plausible theories imply that it is sometimes better to add vast numbers of barely-positive lives to an existing population than to add a smaller number of extremely positive lives.[^20] From this result, they conclude that “the repugnant conclusion provides no methodological guidance for theory or policy-making, because it does not discriminate among candidate [theories]”.[^21] Others might try to resist this conclusion, however, by arguing that these new verdicts—involving adding to existing populations—are not as intuitively problematic as the original repugnant conclusion.
-
 
 #### Attacking the Alternatives 
 
@@ -106,11 +89,9 @@ A final response is to note that counterintuitive implications are by no means u
 
 To evaluate this comparative claim, we must consider the merits (and demerits) of the competing views. Philosophers have proposed several alternatives to the total view that seek to avoid (at least the original version of) the repugnant conclusion. These theories include the _average view_, _variable value theories_, _critical level and range theories,_ and _person-affecting views_.
 
-
 ## The Average View 
 
 According to the _average view_ of population ethics:
-
 
 > **One outcome is better than another if and only if it contains greater average wellbeing.**
 
@@ -126,15 +107,11 @@ First, consider a world inhabited by a single person enduring excruciating suffe
 
 Second, the average view entails the _sadistic conclusion_:[^27]
 
-
 > **It can sometimes be better to create lives with negative wellbeing than to create lives with positive wellbeing from the same starting point, all else equal.**
 
 Adding a small number of tortured, miserable people to a population diminishes the average wellbeing less than adding a sufficiently large number of people whose lives are pretty good, yet below the existing average. To see this, consider the following graph where world A has lower average wellbeing than world B. Counterintuitively, the average view thus entails that we should prefer world B over world A.
 
-
-
 ![Average view and the sadistic conclusion](/img/population-ethics-4.png "Average view and the sadistic conclusion")
-
 
 Third, the average view prefers arbitrarily small populations over very large populations, as long as the average wellbeing was higher. For example, a world with a single, extremely happy individual would be favored to a world with ten billion people, all of whom are extremely happy but just ever-so-slightly less happy than that single person.
 
@@ -149,18 +126,15 @@ The simplest variable value theories may be represented by the following value f
 
 This diminishing marginal value allows variable value theories to avoid some of the weaknesses of the total and average views. For instance, Hilary Greaves writes that:[^29]
 
-
 > Arguably, [the average view] is intuitively less plausible for small populations: if there are otherwise only ten persons who will ever live, for instance, it (perhaps) seems more worthwhile to add an additional person with a given positive well-being level than if there are already 100 billion persons.
 
 At first glance, it is an attractive feature of variable value theories that they approximate the total view at small population sizes and the average view at large population sizes since they may thereby avoid the repugnant conclusion.[^30]
 
 However, variable value theories face problems of their own. First, in approximating the average view at large population sizes, they risk susceptibility to the same objections. So, to avoid approving of adding (above-average) negative lives to the world, variable value theorists must invoke an asymmetry according to which only the value of positive lives diminishes but not the disvalue of negative lives. Adding negative lives to a world always makes the world non-instrumentally worse, on such a view, even if it happens to improve the average. However, such an asymmetry leads to an analogue of what Parfit calls the _absurd conclusion_:[^31] that a population considered to be good, with many happy and few miserable lives, can be turned into a population considered to be bad merely by proportionally increasing the number of both positive and negative lives.[^32] To escape this objection, variable value theorists must allow additional good lives to sometimes _compensate_ for additional bad lives, without introducing further unintended consequences that undermine their view. This is no easy task.[^33]
 
-
 ## Critical Level and Critical Range Theories 
 
 According to critical level theories:
-
 
 > **Adding an individual makes an outcome better to the extent that their wellbeing exceeds some critical level.**
 
@@ -176,14 +150,9 @@ Critical level theories avoid the repugnant conclusion if their critical level i
 
 However, a positive critical level entails an especially appalling version of the sadistic conclusion, which gets worse the higher the chosen critical level.[^35] This is because it implies that it is preferable for a world to contain individuals with negative wellbeing—lives not worth living, such as lives of constant torture—than to contain vastly more individuals with lives that are worth living yet below the critical level. Graphically illustrated, critical level theories counterintuitively imply that world A (with a sufficiently large population) is _worse_ than world B.
 
- 
-
 ![Critical level theory](/img/population-ethics-5.png "Critical level theory")
 
-
-
 To avoid this unacceptable result, we may move to a _critical range_ theory,[^36] according to which:
-
 
 > **Adding an individual makes an outcome better to the extent that their wellbeing exceeds the upper end of a _critical range_, and makes an outcome worse to the extent that their wellbeing falls below the lower limit of the critical range.**
 
@@ -195,12 +164,9 @@ To further develop this view, we may think of the value of a life as having two 
 
 The key implication of this critical range theory (with moderate value blur) is that an intrinsically good life must contain _significantly_ more welfare than an intrinsically bad life, because between these two levels there is a moderate range of lives that are meh, as illustrated below:[^41]
 
-
 ![Critical range theory](/img/population-ethics-6.png "Critical range theory")
 
-
 The resulting view, while theoretically complex, seems less susceptible to severe objections than the other views we have surveyed. In particular, it can simultaneously avoid both the repugnant conclusion and the sadistic conclusion. But it is worth noting that it cannot accommodate the strong “anti-repugnance” intuition that the idyllic world A is strictly _better_ than the repugnant world Z.[^42] Critical range theories instead regard the two worlds as incomparable, due to the immense value blur introduced by all those meh lives in world Z.
-
 
 ## Person-Affecting Views and the Procreative Asymmetry 
 
@@ -215,16 +181,13 @@ All of the theories discussed above—the total view, the average view, variable
 | Critical level theory<span style="text-align: initial; font-family: Merriweather">[^44]</span> | **N * (Q - α)** |
 > **N** = number of persons; **Q** = average wellbeing level; **α** = critical level; **f()** = strictly increasing and strictly concave function with a horizontal asymptote
 
-
 Impersonal theories imply that creating an additional person with a (sufficiently) good life makes the world better, other things being equal.[^45] However, many people intuitively reject this implication. They would say that there are no moral reasons to bring into existence additional people—at least no reasons based on the wellbeing these people would enjoy if created. Jan Narveson put this idea in slogan form: “We are in favour of making people happy, but neutral about making happy people”.[^46] _Person-affecting views_ of population ethics attempt to capture this intuition of neutrality.[^47]
 
 To this end, standard person-affecting views accept the _person-affecting restriction_:
 
-
 > **An outcome cannot be better (or worse) than another unless it is better (or worse) _for_ someone.**[^48]
 
 At first glance, this principle sounds eminently plausible. When considering only fixed-population cases, it amounts to an expression of _[welfarism](/types-of-utilitarianism#welfarism)_: the view that wellbeing is the only value. But problems arise when comparing outcomes in which different people exist, especially if combined with the principle of _Existence Incomparability_:[^49]
-
 
 > **If a person exists in one outcome but not the other, it is not possible to compare their wellbeing across these outcomes.**
 
@@ -236,27 +199,21 @@ Generalizing this reasoning would lead us to similarly hold that intrinsically _
 
 Many person-affecting theorists wish to avoid this result and instead endorse the _procreative asymmetry_, according to which:
 
-
 > **It is bad to create people with negative wellbeing, but not good to create people with positive wellbeing, all else equal.**
 
 While many find this principle intuitive,[^51] it is notoriously difficult to provide a principled basis for it.[^52] The procreative asymmetry also has several deeply problematic implications, stemming from its failure to consider positive lives to be a good thing.
 
 The simplest such view holds that positive lives make _no difference in value_ to the outcome. But this falsely implies that creating lives with low positive welfare is just as good as creating an equal number of lives at a high welfare level. For example, consider the choice between creating either of two worlds inhabited by different sets of future people. In world A<sub>1</sub>, everyone has a wonderful life. In world A<sub>2</sub>, all people have lives that are much worse than in A<sub>1</sub> yet still positive.
 
-
 ![Person affecting views and the assymetry](/img/population-ethics-7.png "Person affecting views and the assymetry")
-
 
 Clearly, we should prefer world A<sub>1</sub> over A<sub>2</sub>. However, the simplest version of the procreative asymmetry implies that both worlds are equally good—because they are not good at all.
 
 In cases involving comparisons to empty worlds, the simple procreative asymmetry sometimes yields verdicts that seem even more misguided. Consider the following choice between world A and world B:[^53]
 
-
 > **In world A, all but a few people have excellent lives. But some people suffer from an extremely rare disease that makes life not worth living. In world B, no people exist.**
 
-
 ![Person affecting views and the assymetry](/img/population-ethics-8.png "Person affecting views and the assymetry")
-
 
 Most people would prefer world A over an empty world B. But the simple procreative asymmetry would seem, perversely, to favor the empty world B since it counts the many good lives in world A for nothing while the few bad lives dominate the decision. On this view, there are no worthwhile trade-offs between good and bad lives. It would be better, supposedly, to have no lives at all.
 
@@ -275,7 +232,6 @@ We may also raise more theoretical objections to such a view. For instance, Ord 
 
 For all these reasons, utilitarians are largely united in rejecting person-affecting views, even as they continue to debate which impersonal theory provides the best way forward.
 
-
 ## Practical Implications of Population Ethical Theories 
 
 Population ethics is a field of great importance for real-world decision-making. In particular, which population ethical view we adopt shapes the importance we should assign to preserving and improving the long-term future of humanity. If human civilization persists, and perhaps one day spreads to the stars, there could be an inconceivably large number of future people with good lives. Their existence and wellbeing depend in part on the choices we make today: especially how many resources we, the current generation, invest in [preventing existential risks](/acting-on-utilitarianism#existential-risk-reduction), which threaten the continued survival and long-term flourishing of humankind.[^56]
@@ -287,7 +243,6 @@ Even on the average view, there is reason to expect the long-term future to make
 Proponents of standard person-affecting views (with a strict procreative asymmetry) are sceptical of the claim that reducing existential risk is of enormous importance. They would still think that reducing these risks has some value because this reduces the risk of death for those alive today. But they would not regard the absence of future generations as an intrinsic moral loss. However, while these strict asymmetric views may not be concerned about the prospect of human extinction, they may seriously worry about the possibility of a dystopian future containing many miserable lives. Averting such a negative future would be critically important on these views.[^60] Others might be drawn to a weaker (and correspondingly more plausible) version of the asymmetry, according to which we do have some reason to create flourishing lives, but _stronger_ reason to help existing people or to avoid lives of negative wellbeing. On these moderate views, ensuring that the future goes well would still be very important since so many lives are at stake.
 
 Finally, there is an argument from [moral uncertainty](https://forum.effectivealtruism.org/tag/moral-uncertainty): given the difficult terrain of population ethics, we may not be entirely confident of any particular view. Therefore, we should figure out what degree of belief we ought to have in each theory and then take the action that is the best compromise between those theories. As we have seen, many plausible theories agree that improving the long-term future is of great moral importance. Therefore, unless one can be extremely confident in standard person-affecting views, it would seem prudent to pay heed to this conclusion and take significant steps to safeguard our future.[^61]
-
 
 ## Conclusion 
 
@@ -301,9 +256,7 @@ The most important practical implications of population ethics concern how much 
 
 The next chapter discusses the most important implications of utilitarianism for how we should think about leading an ethical life.
 
-_[Button with link to ‘[Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics)’ chapter]_
-
-
+{{< next-page-textbook title="Utilitarianism and Practical Ethics" url="/utilitarianism-and-practical-ethics" >}}
 
 {{< how-to-cite authors="Chappell, R.Y., Meissner, D., and MacAskill, W." >}}
 
@@ -324,7 +277,6 @@ _[Button with link to ‘[Utilitarianism and Practical Ethics](/utilitarianism-a
 * Richard Yetter Chappell (2021). Section 7: Population Ethics, _[Parfit's Ethics](https://philpapers.org/rec/CHAPE-5)_. Cambridge: Cambridge University Press.
 * Derek Parfit (1984). Part Four: Future Generations, _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Clarendon Press.
 
-
 ### The Total View and Repugnant Conclusion
 
 * Gustaf Arrhenius, Jesper Ryberg, & Torbjörn Tännsjö (2017). [The Repugnant Conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
@@ -333,12 +285,10 @@ _[Button with link to ‘[Utilitarianism and Practical Ethics](/utilitarianism-a
 * Michael Huemer (2008). [In Defence of Repugnance](https://doi.org/10.1093/mind/fzn079). _Mind_. 117(468): 899–933.
 * Torbjörn Tännsjö (2002). [Why We Ought to Accept the Repugnant Conclusion](https://www.cambridge.org/core/journals/utilitas/article/why-we-ought-to-accept-the-repugnant-conclusion/F60DB3A1B9CA4460650EA5DF9AA0540D). _Utilitas_. 14(3): 339–359.
 
-
 ### Variable Value Theories 
 
 * Theodore Sider (1991). [Might Theory X be a theory of diminishing marginal value?](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8FF333C386B19DCF121A408F7E29B976?doi=10.1.1.591.8496&rep=rep1&type=pdf) _Analysis_. 51(4): 265–271.
 * Thomas Hurka (1983). [Value and Population Size](https://doi.org/10.1086/292462). _Ethics_. 93(3): 496–507.
-
 
 ### Critical Level and Critical Range Theories 
 
@@ -347,7 +297,6 @@ _[Button with link to ‘[Utilitarianism and Practical Ethics](/utilitarianism-a
 * John Broome (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press.
 * Johan Gustafsson (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
 
-
 ### Neutrality Intuition
 
 * Jeff McMahan (2013). [Causing People to Exist and Saving People’s Lives](https://doi.org/10.1007/s10892-012-9139-1). _Journal of Ethics_. 17: 5–35.
@@ -355,7 +304,6 @@ _[Button with link to ‘[Utilitarianism and Practical Ethics](/utilitarianism-a
 * Kryster Bykvist (2007). [The Benefits of Coming into Existence](https://doi.org/10.1007/s11098-005-3982-x). _Philosophical Studies._ 135(3), 335–362. 
 * John Broome (2005). [Should We Value Population?](https://doi.org/10.1111/j.1467-9760.2005.00230.x). _The Journal of Political Philosophy_. 13(4): 399–413.
 * Elizabeth Harman (2004). [Can We Harm and Benefit in Creating?](https://www.jstor.org/stable/3840929 ). _Philosophical Perspectives_. 18: 89–113.
-
 
 ### Person-Affecting Views and the Asymmetry
 
@@ -367,13 +315,11 @@ _[Button with link to ‘[Utilitarianism and Practical Ethics](/utilitarianism-a
 * Josh Parsons (2002). [Axiological Actualism](https://doi.org/10.1093/ajp/80.2.137). _Australasian Journal of Philosophy_. 80(2): 137–147.
 * Melinda A. Roberts (2002). [A New Way of Doing the Best That We Can: Person-Based Consequentialism and the Equality Problem](https://doi.org/10.1086/324321). _Ethics_. 112(2): 315–350.
 
-
 ### Practical Implications of Population Ethics
 
 * Toby Ord (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing.
 * David Althaus & Lukas Gloor (2018). [Reducing Risks of Astronomical Suffering: a Neglected Priority](https://longtermrisk.org/reducing-risks-of-astronomical-suffering-a-neglected-priority/). _Center on Long-Term Risk_.
 * Nick Beckstead (2013). [On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM). PhD Dissertation, Rutgers University.
-
 
 ### Impossibility Theorems in Population Ethics
 
@@ -381,9 +327,6 @@ _[Button with link to ‘[Utilitarianism and Practical Ethics](/utilitarianism-a
 * Philip Kitcher (2000). [Parfit's Puzzle](https://doi.org/10.1111/0029-4624.00278). _Noûs_. 34(4): 550–577.
 * Erik Carlson (1998). [Mere addition and two trilemmas of population ethics](https://doi.org/10.1017/S0266267100003862). _Economics and Philosophy_. 14(2): 283–306.
 * Yew-Kwang Ng (1989). [What should we do about future generations? Impossibility of Parfit's Theory X](https://doi.org/10.1017/S0266267100002406). _Economics and Philosophy_. 5(2): 235–253.
-
-
-
 
 
 [^1]:
