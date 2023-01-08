@@ -301,7 +301,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 
 - Ord, T. (2009). _[Beyond Action: Applying Consequentialism to Decision Making and Motivation](https://drive.google.com/open?id=0B4kMPIEI5Mb8S201Wl85NTN1UHc)_. DPhil Dissertation, University of Oxford.
 - Pettit, P. & Smith, M (2000). [Global Consequentialism](http://www.princeton.edu/~msmith/mypapers/Pettit-Smith-Global-2000.pdf). In Hooker, B., Mason, E. & Miller, D. (eds.). _Morality, Rules and Consequences: A Critical Reader_. Edinburgh University Press.
-- McElwee, B. (2020). [The Ambitions of Consequentialism](https://doi.org/10.26556/jesp. v17i2.528). _Journal of Ethics and Social Philosophy_. 17(2).
+- McElwee, B. (2020). [The Ambitions of Consequentialism](https://doi.org/10.26556/jesp.v17i2.528). _Journal of Ethics and Social Philosophy_. 17(2).
 - Chappell, R.Y. (2012). [Fittingness: The Sole Normative Primitive](https://dx.doi.org/10.1111/j.1467-9213.2012.00075.x). _Philosophical Quarterly_. 62(249): 684–704.
 - Chappell, R.Y. Consequentialism: Core and Expansion, forthcoming in D. Copp, C. Rosati, and T. Rulli (eds.). _The Oxford Handbook of Normative Ethics_. Oxford University Press.
 
