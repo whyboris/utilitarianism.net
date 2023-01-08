@@ -27,7 +27,7 @@ This article presents a survey of IPML and discusses Bentham’s thinking about 
 
 ## IPML and Utilitarian Criminal Law
 
-### Part 1: Bentham’s Moral Assumptions  
+### Part 1: Bentham’s Moral Assumptions
 
 IPML contains four parts. In the first, Bentham explains the fundamental moral assumptions he accepts and how he proposes to establish their truth. He accepted the form of utilitarianism now called ‘[act utilitarianism](/glossary#act-utilitarianism)’. It asserts that _the morally right action for a person to perform at a given time is the one that, among her options then, produces the most happiness_. A wrong act is one that produces less than the most happiness that it is possible for her to produce at that time. In IPML, Bentham speaks of acts that fail to produce the most happiness as ‘mischievous’, a central term in the book.
 
@@ -161,80 +161,29 @@ Steve Sverdlik taught philosophy at Southern Methodist University in Dallas. He 
 
 {{< guest-essays true >}}
 
-[^1]:
-     I give more detail in my forthcoming book: _Bentham’s Introduction to the Principles of Morals and Legislation: A Guide_ (Oxford University Press).
-
-[^2]:
-     An excellent study of hedonism is Fred Feldman, _Pleasure and the Good Life_, Oxford: Oxford University Press, 2004.
-
-[^3]:
-    _The Rationale of Punishment_. In _The Works of Jeremy Bentham_. Edited by John Bowring. Edinburgh: William Tait, 1838-43. Vol. 1, p. 398.
-
-[^4]:
-     Mark Kleiman, _When Brute Force Fails_, Princeton: Princeton University Press, 2009. P. 30.
-
-[^5]:
-     This is only an approximation. It obviously wouldn't be a good thing to replace two minor thefts with one murder. What ultimately matters, for utilitarians, is not the _number_of wrong or 'mischievous' acts but the severity of their effect on overall happiness.
-
-[^6]:
-     IPML, chapter 15, paragraph 3.
-
-[^7]:
-     Henry Sidgwick, _The Methods of Ethics_, 7<sup>th</sup> edition. Indianapolis: Hackett, 1981. Pp. 41, 84.
-
-[^8]:
-     Later in his career Bentham realized that the law can increase the probability of punishment, which would allow it to decrease its severity. For example, he understood that a police force could increase the probability of arresting and punishing criminals. There were no police forces in England when Bentham wrote IPML. For a contemporary treatment of the role of probability and discounting in potential criminals’ decision-making, see Kleiman, _When Brute Force Fails_, chapter 5.
-
-[^9]:
-     Bentham states, in effect, that the principle of utility entails that every offender who _can_ be deterred _should_ be deterred. See IPML, chapter 14, paragraphs 8 and 9. But this is in tension with his earlier remarks about ‘unprofitability’ in IPML, chapter 13, paragraphs 3, 13-6. I explore this issue in “Bentham on Temptation and Deterrence” _Utilitas_ (September 2019), and defend the interpretation presented here.
-
-[^10]:
-     IPML, chapter 13, paragraph 3. See also paragraphs 13-6.
-
-[^11]:
-     A survey of the economics and science of deterrence is Kleiman, _When Brute Force Fails_, chapters 2-6.
-
-[^12]:
-     “Offenses against One’s Self: Paederasty.” _Journal of Homosexuality_ (Summer and Fall 1978).
-
-[^13]:
-     The classic contemporary treatment of ‘legal paternalism’ is Joel Feinberg, _Harm to Self_, New York: Oxford University Press, 1986.
-
-[^14]:
-     IPML, chapter 17, paragraph 15.
-
-[^15]:
-     IPML, chapter 7, paragraph 21.
-
-[^16]:
-     <http://transcribe-bentham.ucl.ac.uk/td/Penal_Code>. Boxes 71 and 72 contain the manuscripts from around 1780.
-
-[^17]:
-     IPML, chapter 17, paragraph 4.
-
-[^18]:
-     IPML, chapter 17, paragraph 4.
-
-[^19]:
-     Peter Singer, _Animal Liberation_, New York: Harper, 2009. P. 7.
-
-[^20]:
-     [http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001-4](http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001-4)
-
-[^21]:
-     [http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001](http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001)
-
-[^22]:
-     [http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/004](http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/004). Compare IPML, chapter 17, paragraph 4.
-
-[^23]:
-     See Shelly Kagan’s discussion of the general ‘deprivation account’ of the badness of death. _Death_. New Haven: Yale University Press, 2012, 205-33. I’ve used a hedonistic version of this account. This applies only to the issue of why the death of an animal can be bad for the animal itself. Bentham also argues that hurting an animal can be instrumentally bad for others, by eventually causing pain to the person who hurts the animal, and to other persons. [http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/002-3](http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/002-3)
-
-[^24]:
-     [http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001](http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001)
-
-[^25]:
-     [http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001](http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001)
-
-[^26]:
-     [http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001](http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001)
+[^1]: I give more detail in my forthcoming book: _Bentham’s Introduction to the Principles of Morals and Legislation: A Guide_ (Oxford University Press).
+[^2]: An excellent study of hedonism is Fred Feldman, _Pleasure and the Good Life_, Oxford: Oxford University Press, 2004.
+[^3]: _The Rationale of Punishment_. In _The Works of Jeremy Bentham_. Edited by John Bowring. Edinburgh: William Tait, 1838-43. Vol. 1, p. 398.
+[^4]: Mark Kleiman, _When Brute Force Fails_, Princeton: Princeton University Press, 2009. P. 30.
+[^5]: This is only an approximation. It obviously wouldn't be a good thing to replace two minor thefts with one murder. What ultimately matters, for utilitarians, is not the \_number_of wrong or 'mischievous' acts but the severity of their effect on overall happiness.
+[^6]: IPML, chapter 15, paragraph 3.
+[^7]: Henry Sidgwick, _The Methods of Ethics_, 7<sup>th</sup> edition. Indianapolis: Hackett, 1981. Pp. 41, 84.
+[^8]: Later in his career Bentham realized that the law can increase the probability of punishment, which would allow it to decrease its severity. For example, he understood that a police force could increase the probability of arresting and punishing criminals. There were no police forces in England when Bentham wrote IPML. For a contemporary treatment of the role of probability and discounting in potential criminals’ decision-making, see Kleiman, _When Brute Force Fails_, chapter 5.
+[^9]: Bentham states, in effect, that the principle of utility entails that every offender who _can_ be deterred _should_ be deterred. See IPML, chapter 14, paragraphs 8 and 9. But this is in tension with his earlier remarks about ‘unprofitability’ in IPML, chapter 13, paragraphs 3, 13-6. I explore this issue in “Bentham on Temptation and Deterrence” _Utilitas_ (September 2019), and defend the interpretation presented here.
+[^10]: IPML, chapter 13, paragraph 3. See also paragraphs 13-6.
+[^11]: A survey of the economics and science of deterrence is Kleiman, _When Brute Force Fails_, chapters 2-6.
+[^12]: “Offenses against One’s Self: Paederasty.” _Journal of Homosexuality_ (Summer and Fall 1978).
+[^13]: The classic contemporary treatment of ‘legal paternalism’ is Joel Feinberg, _Harm to Self_, New York: Oxford University Press, 1986.
+[^14]: IPML, chapter 17, paragraph 15.
+[^15]: IPML, chapter 7, paragraph 21.
+[^16]: <http://transcribe-bentham.ucl.ac.uk/td/Penal_Code>. Boxes 71 and 72 contain the manuscripts from around 1780.
+[^17]: IPML, chapter 17, paragraph 4.
+[^18]: IPML, chapter 17, paragraph 4.
+[^19]: Peter Singer, _Animal Liberation_, New York: Harper, 2009. P. 7.
+[^20]: [http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001-4](http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001-4)
+[^21]: [http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001](http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001)
+[^22]: [http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/004](http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/004). Compare IPML, chapter 17, paragraph 4.
+[^23]: See Shelly Kagan’s discussion of the general ‘deprivation account’ of the badness of death. _Death_. New Haven: Yale University Press, 2012, 205-33. I’ve used a hedonistic version of this account. This applies only to the issue of why the death of an animal can be bad for the animal itself. Bentham also argues that hurting an animal can be instrumentally bad for others, by eventually causing pain to the person who hurts the animal, and to other persons. [http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/002-3](http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/002-3)
+[^24]: [http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001](http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001)
+[^25]: [http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001](http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001)
+[^26]: [http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001](http://transcribe-bentham.ucl.ac.uk/td/JB/072/214/001)

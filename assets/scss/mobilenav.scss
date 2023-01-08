@@ -1,126 +1,130 @@
-
 // MOBILE MENU
 
 .mobile-header {
-    display: none;
-  
-    header {
-      background: $off-white;
-      overflow: hidden;
-      position: absolute;
-      width: 100vw;
-      z-index: 20;
-      border-bottom: 1px solid $gray-aaa;
-    }
-  
-    &::after {
-      content: "";
-      display: block;
-      height: 50px;
-      width: 10px;
-    }
-    
-    header a, header label {
-      color: black;
-      display: block;
-      line-height: 20px;
-      padding: 20px;
-      text-decoration: none;
-    }
-    
-    header a:hover, header label:hover { color: $gray-333; }
-    
-    header label {
-      cursor: pointer;
-      float: right;
-      padding: 18px 20px;
-    }
-    
-    header label:after {
-      content: "\2261";
-      font-size: 1.8em;
-    }
-    
-    .logo {
-      float: left;
-      width: 200px;
-      margin: 14px;
-  
-      a {
-        padding: 0;
-      }
-  
-      img {
-        max-width: 100%;
-      }
-    }
-      
-    nav {
-      float: right;
-      max-height: 0;
-      width: 100%;
-      -webkit-transition: max-height 0.3s; 
-         -moz-transition: max-height 0.3s;
-           -o-transition: max-height 0.3s;
-              transition: max-height 0.3s;
-    }
-    
-    nav ul {
-      margin: 0;
-      padding-bottom: 10px;
+  display: none;
+
+  header {
+    background: $off-white;
+    overflow: hidden;
+    position: absolute;
+    width: 100vw;
+    z-index: 20;
+    border-bottom: 1px solid $gray-aaa;
+  }
+
+  &::after {
+    content: "";
+    display: block;
+    height: 50px;
+    width: 10px;
+  }
+
+  header a,
+  header label {
+    color: black;
+    display: block;
+    line-height: 20px;
+    padding: 20px;
+    text-decoration: none;
+  }
+
+  header a:hover,
+  header label:hover {
+    color: $gray-333;
+  }
+
+  header label {
+    cursor: pointer;
+    float: right;
+    padding: 18px 20px;
+  }
+
+  header label:after {
+    content: "\2261";
+    font-size: 1.8em;
+  }
+
+  .logo {
+    float: left;
+    width: 200px;
+    margin: 14px;
+
+    a {
       padding: 0;
     }
-        
-    nav li {
-      display: block;
-      padding-left: 40px;
+
+    img {
+      max-width: 100%;
     }
-  
-    ul li:last-child {
-      padding-bottom: 12px;
-    }
-      
-    nav a {
-      padding: 10px;
-      // width: 100%;
-      display: inline-block;
-  
-      span {
-        font-size: 10px;
-      }
-    }
-    
-    #nav { display: none; }
-    
-    #nav:checked ~ nav {
-      max-height: 200vh; /* This can be anything bigger than your nav height. The transition duration works with this */
-    }
-    
-    @media only screen and (min-width: $breakpoint-tablet) {
-      
-      header label { display: none; }
-      
-      nav {
-        width: auto;
-        max-height: none;
-      }
-      
-      nav ul {
-        padding: 0;
-        padding-right: 10px;
-      }
-      
-      nav li {
-        display: inline-block;
-        text-align: left;
-      }
-      
-      header nav a {
-        display: inline-block;
-        padding: 20px 10px;
-        width: auto;
-      }
-      
-    }
-    
   }
+
+  nav {
+    float: right;
+    max-height: 0;
+    width: 100%;
+    -webkit-transition: max-height 0.3s;
+    -moz-transition: max-height 0.3s;
+    -o-transition: max-height 0.3s;
+    transition: max-height 0.3s;
+  }
+
+  nav ul {
+    margin: 0;
+    padding-bottom: 10px;
+    padding: 0;
+  }
+
+  nav li {
+    display: block;
+    padding-left: 40px;
+  }
+
+  ul li:last-child {
+    padding-bottom: 12px;
+  }
+
+  nav a {
+    padding: 10px;
+    // width: 100%;
+    display: inline-block;
+
+    span {
+      font-size: 10px;
+    }
+  }
+
+  #nav {
+    display: none;
+  }
+
+  #nav:checked ~ nav {
+    max-height: 200vh; /* This can be anything bigger than your nav height. The transition duration works with this */
+  }
+
+  @media only screen and (min-width: $breakpoint-tablet) {
+    header label {
+      display: none;
+    }
+
+    nav {
+      width: auto;
+      max-height: none;
+    }
+
+    nav ul {
+      padding: 0;
+      padding-right: 10px;
+    }
+
+    nav li {
+      display: inline-block;
+      text-align: left;
+    }
+
+    header nav a {
+      display: inline-block;
+      padding: 20px 10px;
+      width: auto;
+    }
+  }
+}

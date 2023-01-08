@@ -5,9 +5,14 @@
     {{ $myVar3 := replace $myVar2 "__" "_" }}
     {{ $myVar4 := replace $myVar3 "__" "_" }}
 
-    <a href="/pdf/{{ $myVar4 }}">
-      <img src="/img/pdf.svg" class="pdf-icon" title="Download as PDF" alt="PDF download">
-    </a>
 
+    <a href="/pdf/{{ $myVar4 }}">
+      <img
+        src="/img/pdf.svg"
+        class="pdf-icon"
+        title="Download as PDF"
+        alt="PDF download"
+      />
+    </a>
   {{ end }}
 </div>

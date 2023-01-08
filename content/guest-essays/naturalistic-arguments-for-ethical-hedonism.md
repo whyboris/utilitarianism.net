@@ -117,14 +117,14 @@ To say something has moral value is to say that it should please this vast range
 
 Other moral concepts applying to events, actions, character traits, and societies similarly concern how all should feel. "You should feel guilty about what you did" is a way to call someone's action wrong. Calling character traits "admirable" is saying they're virtues; calling them "contemptible" is calling them vices. The hedonic analyses of moral concepts below show that this wide range of moral concepts can beanalyzed in terms of norms for pleasant and unpleasant feelings.
 
-| **Concept** | **Hedonic analysis** | **Examples of moral feelings** |
-| --- | --- | --- |
-| GOOD | events that should please all | hope (if uncertain), delight |
-| RIGHT | actions that should please all | pride (for oneself) |
-| VIRTUOUS | character traits that should please all | admiration |
-| BAD | events that should displease all | horror, sadness |
-| WRONG | actions that should displease all | guilt (for oneself), anger (for others) |
-| EVIL / VICE | character traits that should displease all | hatred (for evil), contempt (for vice) |
+| **Concept** | **Hedonic analysis**                       | **Examples of moral feelings**          |
+| ----------- | ------------------------------------------ | --------------------------------------- |
+| GOOD        | events that should please all              | hope (if uncertain), delight            |
+| RIGHT       | actions that should please all             | pride (for oneself)                     |
+| VIRTUOUS    | character traits that should please all    | admiration                              |
+| BAD         | events that should displease all           | horror, sadness                         |
+| WRONG       | actions that should displease all          | guilt (for oneself), anger (for others) |
+| EVIL / VICE | character traits that should displease all | hatred (for evil), contempt (for vice)  |
 
 Moral concepts apply to whatever should arouse moral feelings in all.[^20] Pleasure and displeasure are the basic moral feelings. More complex moral feelings such as hope, guilt, and admiration have additional phenomenal character or representational content, as well as being pleasant or unpleasant. The analysis excludes motivational, deliberative, or physiological effects accompanying moral feelings, which aren't essential to moral concepts.
 
@@ -204,124 +204,52 @@ Empirical observation reveals objective and universal moral value existing withi
 
 ## Further Reading
 
-* Railton, Peter (1989). Naturalism and prescriptivity. _Social Philosophy and Policy_, 7(1): 151–174.
+- Railton, Peter (1989). Naturalism and prescriptivity. _Social Philosophy and Policy_, 7(1): 151–174.
 
-* Rawlette, Sharon (2016). _The Feeling of Value_. CreateSpace Independent Publishing Platform, California.
+- Rawlette, Sharon (2016). _The Feeling of Value_. CreateSpace Independent Publishing Platform, California.
 
-* Sinhababu, Neil (forthcoming). Pleasure is goodness; morality is universal. _Ethical Theory and Moral Practice_.
+- Sinhababu, Neil (forthcoming). Pleasure is goodness; morality is universal. _Ethical Theory and Moral Practice_.
 
-* Sinhababu, Neil (forthcoming). The epistemic argument for hedonism. In Chakraborty (ed.), _Human Minds and Cultures_. Routledge.
+- Sinhababu, Neil (forthcoming). The epistemic argument for hedonism. In Chakraborty (ed.), _Human Minds and Cultures_. Routledge.
 
-[^1]:
-    Bentham, Jeremy (1780). _An Introduction to the Principles of Morals and Legislation_. Dover Publications. Rawlette, Sharon (2016). _The Feeling of Value_. CreateSpace Independent Publishing Platform, California.
-
-[^2]:
-    Sinhababu, Neil (forthcoming). The epistemic argument for hedonism. In Chakraborty (ed.), _Human Minds and Cultures_. Routledge. Sinhababu, Neil (draft). The reliable route from nonmoral evidence to moral conclusions.
-
-[^3]:
-    Sinhababu, Neil (forthcoming). Pleasure is goodness; morality is universal. _Ethical Theory and Moral Practice_.
-
-[^4]:
-    Bramble, Ben (2013). The distinctive feeling theory of pleasure. _Philosophical Studies_,162(2): 201–217; Crisp, Roger (2006). _Reasons and the Good_. New York: Oxford University Press.
-
-[^5]:
-    Railton, Peter (1989). Naturalism and prescriptivity. _Social Philosophy and Policy_,7(1): 151–174.
-
-[^6]:
-    Nietzsche, Friedrich (1954). _The Portable Nietzsche_. Penguin Books. Mackie, John Leslie (1977). _Ethics: Inventing Right and Wrong_. Penguin Books.
-
-[^7]:
-    Huemer, Michael (2005). _Ethical Intuitionism_. Palgrave Macmillan. Parfit, Derek (2011). _On What Matters_. Oxford University Press.
-
-[^8]:
-    Goldman, Alvin (1986). _Epistemology and Cognition_. Cambridge, MA: Harvard University Press.
-
-[^9]:
-    Beebe, James (2004). The generality problem, statistical relevance and the Tri-level hypothesis. _Noûs_, 38(1): 177–195. Lyons, Jack (2019). Algorithm and parameters: solving the generality problem for reliabilism. _Philosophical Review_, 128(4): 463–509.
-
-[^10]:
-    Stewart, Todd (2005). The competing practices argument and self-defeat. _Episteme_, 2(1): 13–24.
-
-[^11]:
-    Gertler, Brie (2001). Introspecting phenomenal states. _Philosophy and Phenomenological Research_ 63(2): 305–28. Feest, Uljana (2014). Phenomenal experiences, first-person methods, and the artificiality of experimental data. _Philosophy of Science_,81(5): 927–939.
-
-[^12]:
-    Shaver, Robert (2004). The appeal of utilitarianism. _Utilitas_, 16(3): 235–250.
-
-[^13]:
-    Kagan, Shelly (1992). The limits of well-being. _Social Philosophy and Policy_, 9(2): 169–189.
-
-[^14]:
-    Grundmann, Thomas (2021). Dependent reliability. _Philosophy and Phenomenological Research_ (forthcoming).
-
-[^15]:
-    Horn, Justin (2017). Moral realism, fundamental moral disagreement, and moral reliability. _Journal of Value Inquiry_, 51(3): 363–381.
-
-[^16]:
-    Jones, Adam (2011). _Genocide: A Comprehensive Introduction_. New York: Routledge.
-
-[^17]:_
+[^1]: Bentham, Jeremy (1780). _An Introduction to the Principles of Morals and Legislation_. Dover Publications. Rawlette, Sharon (2016). _The Feeling of Value_. CreateSpace Independent Publishing Platform, California.
+[^2]: Sinhababu, Neil (forthcoming). The epistemic argument for hedonism. In Chakraborty (ed.), _Human Minds and Cultures_. Routledge. Sinhababu, Neil (draft). The reliable route from nonmoral evidence to moral conclusions.
+[^3]: Sinhababu, Neil (forthcoming). Pleasure is goodness; morality is universal. _Ethical Theory and Moral Practice_.
+[^4]: Bramble, Ben (2013). The distinctive feeling theory of pleasure. _Philosophical Studies_,162(2): 201–217; Crisp, Roger (2006). _Reasons and the Good_. New York: Oxford University Press.
+[^5]: Railton, Peter (1989). Naturalism and prescriptivity. _Social Philosophy and Policy_,7(1): 151–174.
+[^6]: Nietzsche, Friedrich (1954). _The Portable Nietzsche_. Penguin Books. Mackie, John Leslie (1977). _Ethics: Inventing Right and Wrong_. Penguin Books.
+[^7]: Huemer, Michael (2005). _Ethical Intuitionism_. Palgrave Macmillan. Parfit, Derek (2011). _On What Matters_. Oxford University Press.
+[^8]: Goldman, Alvin (1986). _Epistemology and Cognition_. Cambridge, MA: Harvard University Press.
+[^9]: Beebe, James (2004). The generality problem, statistical relevance and the Tri-level hypothesis. _Noûs_, 38(1): 177–195. Lyons, Jack (2019). Algorithm and parameters: solving the generality problem for reliabilism. _Philosophical Review_, 128(4): 463–509.
+[^10]: Stewart, Todd (2005). The competing practices argument and self-defeat. _Episteme_, 2(1): 13–24.
+[^11]: Gertler, Brie (2001). Introspecting phenomenal states. _Philosophy and Phenomenological Research_ 63(2): 305–28. Feest, Uljana (2014). Phenomenal experiences, first-person methods, and the artificiality of experimental data. _Philosophy of Science_,81(5): 927–939.
+[^12]: Shaver, Robert (2004). The appeal of utilitarianism. _Utilitas_, 16(3): 235–250.
+[^13]: Kagan, Shelly (1992). The limits of well-being. _Social Philosophy and Policy_, 9(2): 169–189.
+[^14]: Grundmann, Thomas (2021). Dependent reliability. _Philosophy and Phenomenological Research_ (forthcoming).
+[^15]: Horn, Justin (2017). Moral realism, fundamental moral disagreement, and moral reliability. _Journal of Value Inquiry_, 51(3): 363–381.
+[^16]: Jones, Adam (2011). _Genocide: A Comprehensive Introduction_. New York: Routledge.
+[^17]:
+    _
     Deuteronomy_ 20.16–17
 
-[^18]:
-    Street, Sharon (2006). A Darwinian dilemma for realist theories of value. _Philosophical Studies_, 127:1, 109–166.
-
-[^19]:
-    Korman, Daniel Z. & Locke, Dustin (2020). Against Minimalist Responses to Moral Debunking Arguments. _Oxford Studies in Metaethics_, 15: 309–332.
-
-[^20]:
-    Kauppinen, Antti (2013). A Humean theory of moral intuition. _Canadian Journal of Philosophy_, 43(3): 360–381. Tappolet, Christine (2016). _Emotions, Values, and Agency_. Oxford: Oxford University Press; Werner, Preston (2016). Moral perception and the contents of experience. _Journal of Moral Philosophy_,13(3): 294–317.
-
-[^21]:
-    Moore, George Edward (1903). _Principia Ethica_. Dover Publications.
-
-[^22]:
-    Kant, Immanuel (1785). _Groundwork of the Metaphysic of Morals_. Foot, Philippa (1972). Morality as a system of hypothetical imperatives. _Philosophical Review_, 81(3): 305–316.
-
-[^23]:
-    Siegel, Susanna (2010). The contents of visual experience. _Oxford University Press_, New York.
-
-[^24]:
-    Schnall, Simone; Jonathan Haidt, Gerald Clore, and Alexander Jordan (2008). Disgust as embodied moral judgment. _Personality and Social Psychology Bulletin_, 34(8): 1096–1109. Laham, Simon, Adam Alter, & Geoffrey Goodwin (2009). Easy on the mind, easy on the wrongdoer. _Cognition_, 112(3): 462–466.
-
-[^25]:
-    Hume, David (1739/2000). _A Treatise of Human Nature_. Oxford: Oxford University Press.
-
-[^26]:
-    Borowich, A. (2008). Failed reparative therapy of orthodox Jewish homosexuals. _Journal of Gay & Lesbian Mental Health_, 12(3): 167–177. Fjelstrom, J. (2013). Sexual orientation change efforts and the search for authenticity. _Journal of Homosexuality_, 60(6): 801–827.
-
-[^27]:
-    Díaz-León, Esa (2017). Sexual orientation as interpretation? Sexual desires, concepts, and choice. _Journal of Social Ontology_, 3(2): 231–248.
-
-[^28]:
-    Cf. Smith, Michael (1994). _The Moral Problem_. Oxford: Blackwell. Korsgaard, Christine (1996). _The Sources of Normativity_. Cambridge: Cambridge University Press.
-
-[^29]:
-    Sinhababu, Neil (2017). _Humean Nature._ Oxford University Press, Oxford.
-
-[^30]:
-    Wong, David B. (2006). _Natural Moralities: A Defense of Pluralistic Relativism_. Oxford University Press.
-
-[^31]:
-    Boyd, Richard (1988). How to be a moral realist. In Sayre-McCord (ed.), _Essays on Moral Realism_. Cornell University Press. pp. 181–228. Dowell, Janice (2016). The metaethical insignificance of Moral Twin Earth. In Shafer-Landau (ed.) _Oxford Studies in Metaethics_. Oxford: Oxford University Press. 1–27.
-
-[^32]:
-    Sinhababu, Neil (2019). One-person Moral Twin Earth cases. _Thought_, 8(1): 16–22.
-
-[^33]:
-    Johnson, Michael (2018). Pure quotation and natural naming. _Journal of Philosophy_, 115(10): 550–566.
-
-[^34]:
-    Marshall, Colin (2016). Lockean empathy. _Southern Journal of Philosophy_, 54(1): 87–106.
-
-[^35]:
-    Blumson, Ben (2014). _Resemblance and Representation_. Open Book Publishers.
-
-[^36]:
-    MacAskill, Will (2002). _What We Owe the Future_. New York: Basic Books.
-
-[^37]:
-    Mill, J. S. (1861). _Utilitarianism_. Oxford: Oxford University Press. Driver, Julia (2001). _Uneasy Virtue_. Cambridge: Cambridge University Press.
-
-[^38]:
-    Sinhababu, Neil (2013). Unequal Vividness and Double Effect. _Utilitas_, 25(3): 291–315.
+[^18]: Street, Sharon (2006). A Darwinian dilemma for realist theories of value. _Philosophical Studies_, 127:1, 109–166.
+[^19]: Korman, Daniel Z. & Locke, Dustin (2020). Against Minimalist Responses to Moral Debunking Arguments. _Oxford Studies in Metaethics_, 15: 309–332.
+[^20]: Kauppinen, Antti (2013). A Humean theory of moral intuition. _Canadian Journal of Philosophy_, 43(3): 360–381. Tappolet, Christine (2016). _Emotions, Values, and Agency_. Oxford: Oxford University Press; Werner, Preston (2016). Moral perception and the contents of experience. _Journal of Moral Philosophy_,13(3): 294–317.
+[^21]: Moore, George Edward (1903). _Principia Ethica_. Dover Publications.
+[^22]: Kant, Immanuel (1785). _Groundwork of the Metaphysic of Morals_. Foot, Philippa (1972). Morality as a system of hypothetical imperatives. _Philosophical Review_, 81(3): 305–316.
+[^23]: Siegel, Susanna (2010). The contents of visual experience. _Oxford University Press_, New York.
+[^24]: Schnall, Simone; Jonathan Haidt, Gerald Clore, and Alexander Jordan (2008). Disgust as embodied moral judgment. _Personality and Social Psychology Bulletin_, 34(8): 1096–1109. Laham, Simon, Adam Alter, & Geoffrey Goodwin (2009). Easy on the mind, easy on the wrongdoer. _Cognition_, 112(3): 462–466.
+[^25]: Hume, David (1739/2000). _A Treatise of Human Nature_. Oxford: Oxford University Press.
+[^26]: Borowich, A. (2008). Failed reparative therapy of orthodox Jewish homosexuals. _Journal of Gay & Lesbian Mental Health_, 12(3): 167–177. Fjelstrom, J. (2013). Sexual orientation change efforts and the search for authenticity. _Journal of Homosexuality_, 60(6): 801–827.
+[^27]: Díaz-León, Esa (2017). Sexual orientation as interpretation? Sexual desires, concepts, and choice. _Journal of Social Ontology_, 3(2): 231–248.
+[^28]: Cf. Smith, Michael (1994). _The Moral Problem_. Oxford: Blackwell. Korsgaard, Christine (1996). _The Sources of Normativity_. Cambridge: Cambridge University Press.
+[^29]: Sinhababu, Neil (2017). _Humean Nature._ Oxford University Press, Oxford.
+[^30]: Wong, David B. (2006). _Natural Moralities: A Defense of Pluralistic Relativism_. Oxford University Press.
+[^31]: Boyd, Richard (1988). How to be a moral realist. In Sayre-McCord (ed.), _Essays on Moral Realism_. Cornell University Press. pp. 181–228. Dowell, Janice (2016). The metaethical insignificance of Moral Twin Earth. In Shafer-Landau (ed.) _Oxford Studies in Metaethics_. Oxford: Oxford University Press. 1–27.
+[^32]: Sinhababu, Neil (2019). One-person Moral Twin Earth cases. _Thought_, 8(1): 16–22.
+[^33]: Johnson, Michael (2018). Pure quotation and natural naming. _Journal of Philosophy_, 115(10): 550–566.
+[^34]: Marshall, Colin (2016). Lockean empathy. _Southern Journal of Philosophy_, 54(1): 87–106.
+[^35]: Blumson, Ben (2014). _Resemblance and Representation_. Open Book Publishers.
+[^36]: MacAskill, Will (2002). _What We Owe the Future_. New York: Basic Books.
+[^37]: Mill, J. S. (1861). _Utilitarianism_. Oxford: Oxford University Press. Driver, Julia (2001). _Uneasy Virtue_. Cambridge: Cambridge University Press.
+[^38]: Sinhababu, Neil (2013). Unequal Vividness and Double Effect. _Utilitas_, 25(3): 291–315.

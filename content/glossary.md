@@ -47,7 +47,7 @@ Utilitarian moral reasoning has a strong track record of contributing to humanit
 
 _→ Main article:_ _[Arguments for utilitarianism: The Golden Rule, the Veil of Ignorance, and the Ideal Observer](/arguments-for-utilitarianism#the-golden-rule-the-veil-of-ignorance-and-the-ideal-observer)_
 
-Imagine you had to decide how to structure society from behind a [veil of ignorance](https://plato.stanford.edu/entries/original-position/). Behind this veil of ignorance, you know all the facts about each person’s circumstances in society—what their income is, how happy they are, how they are affected by social policies, and their preferences and likes. However, what you do not know is which of these people you are. You only know that you have an _equal chance_of being any__of these people. Imagine, now, that you are trying to act in a rational and self-interested way—you are just trying to do whatever is best for yourself. How would you structure society?
+Imagine you had to decide how to structure society from behind a [veil of ignorance](https://plato.stanford.edu/entries/original-position/). Behind this veil of ignorance, you know all the facts about each person’s circumstances in society—what their income is, how happy they are, how they are affected by social policies, and their preferences and likes. However, what you do not know is which of these people you are. You only know that you have an \_equal chance_of being any\_\_of these people. Imagine, now, that you are trying to act in a rational and self-interested way—you are just trying to do whatever is best for yourself. How would you structure society?
 
 Nobel Prize-winning economist John Harsanyi proved that in this situation you will structure society to promote the sum total of everyone’s well-being.[^4] In other words, if you are rational and acting in self-interest and were put behind the veil of ignorance, you would come to use some version of utilitarianism as the principle to decide about the structure and rules of society.
 
@@ -126,7 +126,7 @@ Consequentialism is the view that one morally ought to promote just good outcome
 
 Consequentialism is one of the [four elements of utilitarian ethical theories](/types-of-utilitarianism#the-four-elements-of-utilitarianism).
 
-External links: [Consequentialism](https://plato.stanford.edu/entries/consequentialism/ ), Stanford Encyclopedia of Philosophy
+External links: [Consequentialism](https://plato.stanford.edu/entries/consequentialism/), Stanford Encyclopedia of Philosophy
 
 </details>
 
@@ -141,7 +141,7 @@ Utilitarianism accepts moral cosmopolitanism and consequently regards geographic
 
 An implication of accepting moral cosmopolitanism is to take [improving global health and development](/acting-on-utilitarianism#global-health-and-development) very seriously as moral priorities.
 
-External links: [Taxonomy of Contemporary Cosmopolitanisms](https://plato.stanford.edu/entries/cosmopolitanism/#TaxoContCosm ), Stanford Encyclopedia of Philosophy
+External links: [Taxonomy of Contemporary Cosmopolitanisms](https://plato.stanford.edu/entries/cosmopolitanism/#TaxoContCosm), Stanford Encyclopedia of Philosophy
 
 </details>
 
@@ -176,11 +176,11 @@ See the article [The Demandingness Objection](/objections-to-utilitarianism/dema
 <details>
 <summary>Deontology<span class="icon"></span></summary>
 
-According to _deontology_, morality is about following a system of duties and rules, like “Do Not Lie” or “Do Not Steal”. As Larry Alexander and Michael Moore [write](https://plato.stanford.edu/entries/ethics-deontological/ ): “In contrast to consequentialist theories, deontological theories judge the morality of choices by criteria different from the states of affairs those choices bring about. The most familiar forms of deontology, and also the forms presenting the greatest contrast to consequentialism, hold that some choices cannot be justified by their effects—that no matter how morally good their consequences, some choices are morally forbidden”.[^13]
+According to _deontology_, morality is about following a system of duties and rules, like “Do Not Lie” or “Do Not Steal”. As Larry Alexander and Michael Moore [write](https://plato.stanford.edu/entries/ethics-deontological/): “In contrast to consequentialist theories, deontological theories judge the morality of choices by criteria different from the states of affairs those choices bring about. The most familiar forms of deontology, and also the forms presenting the greatest contrast to consequentialism, hold that some choices cannot be justified by their effects—that no matter how morally good their consequences, some choices are morally forbidden”.[^13]
 
 The main alternatives to deontology are _[consequentialism](/types-of-utilitarianism#consequentialism)_, the view that the moral rightness of actions (or rules, policies, etc.) depends on, and only on, the value of their consequences, and _[virtue ethics](https://plato.stanford.edu/entries/ethics-virtue/)_, according to which morality is fundamentally about having or developing a virtuous character.
 
-External links: [Deontological Ethics](https://plato.stanford.edu/entries/ethics-deontological/ ), Stanford Encyclopedia of Philosophy
+External links: [Deontological Ethics](https://plato.stanford.edu/entries/ethics-deontological/), Stanford Encyclopedia of Philosophy
 
 </details>
 
@@ -235,7 +235,7 @@ Egalitarianism is the view that inequality is bad _in itself_, over and above an
 
 Egalitarians thus reject [welfarism](/types-of-utilitarianism#welfarism), the view that positive well-being is the only intrinsic good, and negative well-being is the only intrinsic bad.
 
-External links: [Egalitarianism](https://plato.stanford.edu/entries/egalitarianism/ ), Stanford Encyclopedia of Philosophy
+External links: [Egalitarianism](https://plato.stanford.edu/entries/egalitarianism/), Stanford Encyclopedia of Philosophy
 
 </details>
 
@@ -255,7 +255,7 @@ Alternative views include [prioritarianism](/near-utilitarian-alternatives#prior
 
 _→ Main article: [Equality objection to utilitarianism](/objections-to-utilitarianism/equality)_
 
-Some argue that utilitarianism conflicts with the ideal of equality. Suppose, for example, that you could choose between two possible distributions of well-being, _Equality_and _Inequality_: Equality has 1,000 people at well-being level 45, while Inequality has 500 people at 80 well-being and another 500 people at 20 well-being.
+Some argue that utilitarianism conflicts with the ideal of equality. Suppose, for example, that you could choose between two possible distributions of well-being, _Equality_and \_Inequality_: Equality has 1,000 people at well-being level 45, while Inequality has 500 people at 80 well-being and another 500 people at 20 well-being.
 
 By the lights of utilitarianism, only the sum total of well-being determines the goodness of an outcome: it does not matter how that well-being is distributed across people. Since the sum total of well-being is greater in Inequality (= 50) than in Equality (= 45), the unequal outcome is preferable according to utilitarianism. Some philosophers object to the utilitarian view regarding this choice, claiming that the equal distribution of well-being in Equality provides a reason to choose this outcome. On this view, total well-being is not all that matters; equality of distribution also matters. Equality, it is claimed, is an important moral consideration that the utilitarian overlooks.
 
@@ -270,7 +270,7 @@ _→ Main article: [Existential risk reduction](/acting-on-utilitarianism#existe
 
 An existential risk is a risk that threatens the destruction of humanity’s long-term potential—such as all-out nuclear war, or extreme climate change, or an engineered global pandemic.[^15] From a utilitarian perspective (and the perspective of many other moral views), the realization of an existential risk would be uniquely bad and much worse than non-existential catastrophes. Besides the deaths of all 7.8 billion people on this planet, an existential catastrophe would irreversibly deprive humanity of a potentially grand future and preclude trillions of lives to come. Since the stakes involved with existential risks are so large, their mitigation may, therefore, be one of the most important moral issues we face.
 
-External links: [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/ ), Toby Ord (2020)
+External links: [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/), Toby Ord (2020)
 
 </details>
 
@@ -292,7 +292,7 @@ A priority for utilitarians may be to help society to continue to widen its mora
 
 _→ Main article: [Expectational utilitarianism](/types-of-utilitarianism#expectational-utilitarianism-versus-objective-utilitarianism)_
 
-Expectational utilitarianism is the view we should promote _expected_ well-being, as opposed to the well-being an action will _in fact_ produce. Expectational utilitarianism states we should choose the actions with the highest expected value.[^18] The expected value of an action is the sum of the value of each of the potential outcomes multiplied by the probability of that outcome occurring. So, for example, according to expectational utilitarianism, we should choose a 10% chance of saving 1,000 lives over a 50% chance of saving 150 lives because the former option saves an expected 100 lives (= 10% \*1,000 lives) whereas the latter option saves an expected 75 lives (= 50%* 150 lives).
+Expectational utilitarianism is the view we should promote _expected_ well-being, as opposed to the well-being an action will _in fact_ produce. Expectational utilitarianism states we should choose the actions with the highest expected value.[^18] The expected value of an action is the sum of the value of each of the potential outcomes multiplied by the probability of that outcome occurring. So, for example, according to expectational utilitarianism, we should choose a 10% chance of saving 1,000 lives over a 50% chance of saving 150 lives because the former option saves an expected 100 lives (= 10% \*1,000 lives) whereas the latter option saves an expected 75 lives (= 50%\* 150 lives).
 
 The main alternative to expectational utilitarianism is _objective utilitarianism_, on which the rightness of an action depends on the well-being it will _in fact_ produce.
 
@@ -381,7 +381,7 @@ Henry Sidgwick (1838 - 1900) was a British philosopher and economist. One of the
 
 _→ Main article: [Global vs Hybrid Utilitarianism](/types-of-utilitarianism#global-utilitarianism-versus-hybrid-utilitarianism)_
 
-Hybrid utilitarianism is the view that, while one morally ought to promote just overall well-being, the moral quality of an aim or intention can depend on factors other than whether it promotes overall well-being. In particular, hybrid utilitarians may understand virtue and praise-worthiness as concerning whether the target individual _intends_ good results, in contrast to global utilitarian evaluation of whether the target's intentions _produce_good results. When the two come into conflict, we should prefer to achieve good results than to merely intend them—so in this sense the hybrid utilitarian agrees with much that the global utilitarian wants to say. Hybridists just hold that there is more to say in addition.
+Hybrid utilitarianism is the view that, while one morally ought to promote just overall well-being, the moral quality of an aim or intention can depend on factors other than whether it promotes overall well-being. In particular, hybrid utilitarians may understand virtue and praise-worthiness as concerning whether the target individual _intends_ good results, in contrast to global utilitarian evaluation of whether the target's intentions \_produce_good results. When the two come into conflict, we should prefer to achieve good results than to merely intend them—so in this sense the hybrid utilitarian agrees with much that the global utilitarian wants to say. Hybridists just hold that there is more to say in addition.
 
 </details>
 
@@ -443,8 +443,8 @@ An implication of strong longtermism is to take [existential risk reduction](/ac
 
 External links:
 
-* Greaves, H. & MacAskill, W. (2019). [The case for strong longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/ ). _Global Priorities Institute Working Paper_, 7.
-* Beckstead, N. (2013). [On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM). Ph.D. Dissertation, Rutgers University.
+- Greaves, H. & MacAskill, W. (2019). [The case for strong longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute Working Paper_, 7.
+- Beckstead, N. (2013). [On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM). Ph.D. Dissertation, Rutgers University.
 
 </details>
 
@@ -490,9 +490,9 @@ Negative utilitarianism is a version of utilitarianism that assigns either no (a
 
 External links:
 
-* Smart, J.J.C. (1989). [Negative Utilitarianism](https://doi.org/10.1007/978-94-009-2380-5_3), in D’Agostino F., Jarvie I.C. (eds) _Freedom and Rationality. Boston Studies in the Philosophy of Science_. 117. Springer, Dordrecht.
-* Walker, A. D. M. (1974). [Negative Utilitarianism](http://www.jstor.org/stable/2252744). _Mind_, New Series. 83(331): 424–28.
-* Acton, H. B. & Watkins, J. W. N. (1963). [Symposium: Negative Utilitarianism](https://www.jstor.org/stable/4106709). _Proceedings of the Aristotelian Society, Supplementary Volumes_ 37: 83–114.
+- Smart, J.J.C. (1989). [Negative Utilitarianism](https://doi.org/10.1007/978-94-009-2380-5_3), in D’Agostino F., Jarvie I.C. (eds) _Freedom and Rationality. Boston Studies in the Philosophy of Science_. 117. Springer, Dordrecht.
+- Walker, A. D. M. (1974). [Negative Utilitarianism](http://www.jstor.org/stable/2252744). _Mind_, New Series. 83(331): 424–28.
+- Acton, H. B. & Watkins, J. W. N. (1963). [Symposium: Negative Utilitarianism](https://www.jstor.org/stable/4106709). _Proceedings of the Aristotelian Society, Supplementary Volumes_ 37: 83–114.
 
 </details>
 
@@ -512,7 +512,7 @@ The main alternatives to objective list theories include _[hedonism](/theories-o
 
 _→ Main article: [Expectation utilitarianism versus objective utilitarianism](/types-of-utilitarianism#expectational-utilitarianism-versus-objective-utilitarianism)_
 
-Objective utilitarianism is the view that the rightness of an action depends on the well-being it will _in fact_ produce, as opposed to the view we should promote _expected_well-being (i.e. expectational utilitarianism).
+Objective utilitarianism is the view that the rightness of an action depends on the well-being it will _in fact_ produce, as opposed to the view we should promote \_expected_well-being (i.e. expectational utilitarianism).
 
 </details>
 
@@ -530,7 +530,7 @@ An effective way of doing good is by inspiring others to try to do more good. Th
 
 _→ Main article: [Peter Singer](/utilitarian-thinker/peter-singer)_
 
-Peter Singer (1946) is an Australian moral philosopher and Professor of Bioethics at Princeton University. His work concentrates on issues in applied ethics, in particular our treatment of animals, the ethics of global poverty, and effective altruism. The publication of his 1975 book [Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book)) helped start the modern animal rights movement.
+Peter Singer (1946) is an Australian moral philosopher and Professor of Bioethics at Princeton University. His work concentrates on issues in applied ethics, in particular our treatment of animals, the ethics of global poverty, and effective altruism. The publication of his 1975 book [Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>) helped start the modern animal rights movement.
 
 </details>
 
@@ -545,8 +545,8 @@ Some of the main theories of population ethics include the _[total view](/popula
 
 External links:
 
-* Greaves, H. (2017). [Population Axiology]( https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12.
-* [The Repugnant Conclusion](https://plato.stanford.edu/archives/spr2017/entries/repugnant-conclusion/). The Stanford Encyclopedia of Philosophy.
+- Greaves, H. (2017). [Population Axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12.
+- [The Repugnant Conclusion](https://plato.stanford.edu/archives/spr2017/entries/repugnant-conclusion/). The Stanford Encyclopedia of Philosophy.
 
 </details>
 
@@ -575,7 +575,7 @@ _→ Main article: [Prioritarianism](/near-utilitarian-alternatives#prioritarian
 
 Prioritarianism holds that "benefiting people matters more the worse off these people are."[^31] Prioritarians thus reject the utilitarian conception of impartiality that assigns equal weight to everyone's interests (no matter their current level of well-being.)
 
-External links: [Priority](https://plato.stanford.edu/entries/egalitarianism/#Pri ), Stanford Encyclopedia of Philosophy
+External links: [Priority](https://plato.stanford.edu/entries/egalitarianism/#Pri), Stanford Encyclopedia of Philosophy
 
 </details>
 
@@ -586,13 +586,13 @@ The quality-adjusted life year (QALY) is a measure of the value of health outcom
 
 When medical resources are scarce, utilitarians (amongst others) will want the resources to be distributed efficiently, i.e. so as to do the most good. While it would be intrusive and impractical to compare different individuals' well-being in any especially fine-grained way, it's important to at least consider the health outcomes of an intervention, such as its effects on one's life expectancy. Note that not all "life-saving" interventions are equal in this regard: to save an eighty year-old's life might really mean to provide them with 5 extra life-years (in expectation), whereas saving a thirty year-old might grant them 50+ extra life-years. This is a big difference in how much health benefit each stands to gain from having their life "saved".
 
-But _quantity_ of life is not the only thing that's relevant: we also care about _quality_ of life. Health economists thus devised the _quality-adjusted life-year_ metric, based on survey data of how most people would weigh trade-offs between different medical conditions and extra years of life. For example, if most people would require at least ten years of life while clinically depressed in order to outweigh the value of one year of life in full health, that suggests they value one life-year of clinical depression as roughly equal to 0.1 QALYs. If given a choice between successfully treating clinical depression for 20 years (i.e., 0.9 * 20 = 18 QALY gain), or extending someone else's life by 10 years in full health (i.e. 10 QALY gain), these made-up numbers would suggest that the depression treatment was more important.
+But _quantity_ of life is not the only thing that's relevant: we also care about _quality_ of life. Health economists thus devised the _quality-adjusted life-year_ metric, based on survey data of how most people would weigh trade-offs between different medical conditions and extra years of life. For example, if most people would require at least ten years of life while clinically depressed in order to outweigh the value of one year of life in full health, that suggests they value one life-year of clinical depression as roughly equal to 0.1 QALYs. If given a choice between successfully treating clinical depression for 20 years (i.e., 0.9 \* 20 = 18 QALY gain), or extending someone else's life by 10 years in full health (i.e. 10 QALY gain), these made-up numbers would suggest that the depression treatment was more important.
 
 External links:
 
-* Sassi, F. (2006) [Calculating QALYs, comparing QALY and DALY calculations](https://doi.org/10.1093/heapol/czl018)._Health Policy Plan_, 21(5): 402–8.
-* Singer, P., McKie, J., Kuhse, H., & Richardson, J. (1995). [Double jeopardy and the use of QALYs in health care allocation](http://dx.doi.org/10.1136/jme.21.3.144). _Journal of Medical Ethics_, 21(3): 144–150.
-* Chappell, R.Y. (2016). [Against ‘Saving Lives’: Equal Concern and Differential Impact](https://dx.doi.org/10.1111/bioe.12171). _Bioethics_, 30(3): 159–164. (Note that Chappell is a co-author of this website)
+- Sassi, F. (2006) [Calculating QALYs, comparing QALY and DALY calculations](https://doi.org/10.1093/heapol/czl018)._Health Policy Plan_, 21(5): 402–8.
+- Singer, P., McKie, J., Kuhse, H., & Richardson, J. (1995). [Double jeopardy and the use of QALYs in health care allocation](http://dx.doi.org/10.1136/jme.21.3.144). _Journal of Medical Ethics_, 21(3): 144–150.
+- Chappell, R.Y. (2016). [Against ‘Saving Lives’: Equal Concern and Differential Impact](https://dx.doi.org/10.1111/bioe.12171). _Bioethics_, 30(3): 159–164. (Note that Chappell is a co-author of this website)
 
 </details>
 
@@ -610,7 +610,7 @@ Richard M. Hare (1919 - 2002) was a British philosopher and Professor at the Uni
 
 _→ Main article: [Rights objection to utilitarianism](/objections-to-utilitarianism/rights)_
 
-According to commonsense morality and many non-utilitarian theories, there are certain _moral constraints_you should never, or rarely, violate. These constraints are expressed in moral rules like “do not lie!” and “do not kill!”. These rules are intuitively very plausible. This presents a problem for utilitarianism. The reason for this is that utilitarianism not only specifies__which outcomes are best⁠—those having the highest overall level of well-being⁠—but also says that it would be wrong to fail to realize these outcomes.
+According to commonsense morality and many non-utilitarian theories, there are certain \_moral constraints_you should never, or rarely, violate. These constraints are expressed in moral rules like “do not lie!” and “do not kill!”. These rules are intuitively very plausible. This presents a problem for utilitarianism. The reason for this is that utilitarianism not only specifies\_\_which outcomes are best⁠—those having the highest overall level of well-being⁠—but also says that it would be wrong to fail to realize these outcomes.
 
 Sometimes, realizing the best outcome may require violating moral constraints⁠ against harming others⁠—that is, violating their rights. For example, suppose there were five people waiting for an organ transplant and that you could save their lives if you killed one other person to harvest their organs. Intuitively, we would regard this as wrong, but it seems that utilitarianism would regard this as morally required.
 
@@ -642,9 +642,9 @@ The main alternatives to satisficing utilitarianism are _scalar utilitarianism_,
 
 External links:
 
-* Bradley, B. (2006). [Against Satisficing Consequentialism](https://doi.org/10.1017/S0953820806001877). _Utilitas_, 18(2): 97–108.
-* Chappell, R.Y. (2019). [Willpower Satisficing](https://dx.doi.org/10.1111/nous.12213). _Noûs_ 53 (2): 251–265. Note that Chappell is a co-author of this website.
-* Slote, M. & Pettit, P. (1984). [Satisficing Consequentialism](https://www.princeton.edu/~ppettit/papers/1984/Satisficing%20Consequentialism.pdf). _Proceedings of the Aristotelian Society_, Supplementary Volumes. 58: 139–163 & 165–176.
+- Bradley, B. (2006). [Against Satisficing Consequentialism](https://doi.org/10.1017/S0953820806001877). _Utilitas_, 18(2): 97–108.
+- Chappell, R.Y. (2019). [Willpower Satisficing](https://dx.doi.org/10.1111/nous.12213). _Noûs_ 53 (2): 251–265. Note that Chappell is a co-author of this website.
+- Slote, M. & Pettit, P. (1984). [Satisficing Consequentialism](https://www.princeton.edu/~ppettit/papers/1984/Satisficing%20Consequentialism.pdf). _Proceedings of the Aristotelian Society_, Supplementary Volumes. 58: 139–163 & 165–176.
 
 </details>
 
@@ -659,8 +659,8 @@ The main alternatives to scalar utilitarianism are _maximizing utilitarianism_, 
 
 External links:
 
-* Sinhababu, N. (2018). [Scalar Consequentialism the Right Way](https://link.springer.com/article/10.1007%2Fs11098-017-0998-y). _Philosophical Studies_. 175: 3131–3144.
-* Norcross, A. (2006). [The Scalar Approach to Utilitarianism](https://onlinelibrary.wiley.com/doi/10.1002/9780470776483.ch15). In West, H. (ed.), _The Blackwell Guide to Mill's Utilitarianism_. Hoboken, New Jersey: Wiley-Blackwell. pp. 217–232.
+- Sinhababu, N. (2018). [Scalar Consequentialism the Right Way](https://link.springer.com/article/10.1007%2Fs11098-017-0998-y). _Philosophical Studies_. 175: 3131–3144.
+- Norcross, A. (2006). [The Scalar Approach to Utilitarianism](https://onlinelibrary.wiley.com/doi/10.1002/9780470776483.ch15). In West, H. (ed.), _The Blackwell Guide to Mill's Utilitarianism_. Hoboken, New Jersey: Wiley-Blackwell. pp. 217–232.
 
 </details>
 
@@ -690,8 +690,8 @@ The main alternative to single-level utilitarianism is _multi-level utilitariani
 
 External links:
 
-* Hare, R.M. (1981). Chapters 1–3, _[Moral Thinking: Its Methods, Levels, and Point](https://oxford.universitypressscholarship.com/view/10.1093/0198246609.001.0001/acprof-9780198246602)_. Oxford: Oxford University Press.
-* Roger Crisp (1997). [Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2). Routledge., pp. 105–112.
+- Hare, R.M. (1981). Chapters 1–3, _[Moral Thinking: Its Methods, Levels, and Point](https://oxford.universitypressscholarship.com/view/10.1093/0198246609.001.0001/acprof-9780198246602)_. Oxford: Oxford University Press.
+- Roger Crisp (1997). [Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2). Routledge., pp. 105–112.
 
 </details>
 
@@ -715,7 +715,7 @@ _→ Main article: [Demandingness](/utilitarianism-and-practical-ethics#demandin
 
 Many ethical theories posit that some actions are _supererogatory_; that is, they are morally good but not required. In contrast, most consequentialist theories, including utilitarianism, deny that supererogatory actions exist. Utilitarianism requires us to always act such as to bring about the best outcome. The theory leaves no room for actions that are permissible yet do not bring about the best consequences. Any time you can do more to help other people than you can to help yourself, you should do so. For example, if you could sacrifice your life to save the lives of several other people, then, other things being equal, according to utilitarianism, you ought to do so. This makes utilitarianism a very [demanding](/objections-to-utilitarianism/demandingness) ethical theory.
 
-External links: [Supererogation](https://plato.stanford.edu/entries/supererogation/ ), Stanford Encyclopedia of Philosophy
+External links: [Supererogation](https://plato.stanford.edu/entries/supererogation/), Stanford Encyclopedia of Philosophy
 
 </details>
 
@@ -736,8 +736,8 @@ The main alternatives to the total view are the _[average view](/population-ethi
 
 External links:
 
-* Greaves, H. (2017). [Population Axiology]( https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12.
-* [The Repugnant Conclusion](https://plato.stanford.edu/archives/spr2017/entries/repugnant-conclusion/), The Stanford Encyclopedia of Philosophy
+- Greaves, H. (2017). [Population Axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12.
+- [The Repugnant Conclusion](https://plato.stanford.edu/archives/spr2017/entries/repugnant-conclusion/), The Stanford Encyclopedia of Philosophy
 
 </details>
 
@@ -766,8 +766,8 @@ The utility monster is a thought experiment devised by Robert Nozick to criticiz
 
 For a utilitarian critique, see:
 
-* Chappell, R.Y. (2021). [Negative Utility Monsters](https://dx.doi.org/10.1017/s0953820821000169). _Utilitas_ 33 (4): 417-421. \
-(Note that Chappell is a co-author of this website.)
+- Chappell, R.Y. (2021). [Negative Utility Monsters](https://dx.doi.org/10.1017/s0953820821000169). _Utilitas_ 33 (4): 417-421. \
+  (Note that Chappell is a co-author of this website.)
 
 </details>
 
@@ -778,7 +778,7 @@ According to virtue ethics, morality is fundamentally about having or developing
 
 The main alternatives to virtue ethics are _[consequentialism](https://plato.stanford.edu/entries/consequentialism/)_, according to which what fundamentally matters is promoting good consequences, and _[deontology](https://plato.stanford.edu/entries/ethics-deontological/)_, which views morality as being about following a system of duties and rules, like “Do Not Lie” or “Do Not Steal”.
 
-External links: [Virtue Ethics](https://plato.stanford.edu/entries/ethics-virtue/ ), The Stanford Encyclopedia of Philosophy
+External links: [Virtue Ethics](https://plato.stanford.edu/entries/ethics-virtue/), The Stanford Encyclopedia of Philosophy
 
 </details>
 
@@ -810,115 +810,46 @@ External links: [Well-being](https://plato.stanford.edu/entries/well-being/), Th
 
 {{< how-to-cite >}}
 
-[^1]:
-     This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are utilitarian theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](/population-ethics).
-
-[^2]:
-     For a discussion of global consequentialism, see (i) Pettit, P. & Smith, M. (2000). [Global Consequentialism](https://philarchive.org/archive/PETGC), in Brad Hooker, Elinor Mason & Dale Miller (eds.), _Morality, Rules and Consequences: A Critical Reader_. Edinburgh University Press; and (ii) Ord, T. (2009). [Beyond Action: Applying Consequentialism to Decision Making and Motivation](https://drive.google.com/open?id=0B4kMPIEI5Mb8S201Wl85NTN1UHc). DPhil Thesis, University of Oxford.
-
-[^3]:
-     This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are aggregationist theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of[population ethics](/population-ethics).
-
+[^1]: This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are utilitarian theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](/population-ethics).
+[^2]: For a discussion of global consequentialism, see (i) Pettit, P. & Smith, M. (2000). [Global Consequentialism](https://philarchive.org/archive/PETGC), in Brad Hooker, Elinor Mason & Dale Miller (eds.), _Morality, Rules and Consequences: A Critical Reader_. Edinburgh University Press; and (ii) Ord, T. (2009). [Beyond Action: Applying Consequentialism to Decision Making and Motivation](https://drive.google.com/open?id=0B4kMPIEI5Mb8S201Wl85NTN1UHc). DPhil Thesis, University of Oxford.
+[^3]: This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are aggregationist theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of[population ethics](/population-ethics).
 [^4]:
-     Harsanyi formalized his argument for utilitarianism in Harsanyi, J. (1978). [Bayesian Decision Theory and Utilitarian Ethics](http://www.jstor.org/stable/1816692). _The American Economic Review,_ _68_(2), 223–228.
+    Harsanyi formalized his argument for utilitarianism in Harsanyi, J. (1978). [Bayesian Decision Theory and Utilitarian Ethics](http://www.jstor.org/stable/1816692). _The American Economic Review,_ _68_(2), 223–228.
     For discussion about his proof, see Greaves, H. (2017). [A Reconsideration of the Harsanyi–Sen–Weymark Debate on Utilitarianism](https://www.cambridge.org/core/journals/utilitas/article/reconsideration-of-the-harsanyisenweymark-debate-on-utilitarianism/45B191ED9B7BE4ACF598B49A74DCDF0E). _Utilitas,_ _29_(2), 175–213.
 
-[^5]:
-     Bostrom, N. (2003. [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://www.nickbostrom.com/astronomical/waste.pdf). _Utilitas_. 15(3), 308–314.
-
-[^6]:
-     Bostrom, N. (2003. [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://www.nickbostrom.com/astronomical/waste.pdf). _Utilitas_. 15(3), 308–314.
-
-[^7]:
-     Note that Professor William MacAskill, coauthor of this website, is a cofounder of [80,000 Hours](https://80000hours.org/).
-
-[^8]:
-     Ord, T. (2019). [The Moral Imperative Towards Cost-Effectiveness in Global Health](https://www.givingwhatwecan.org/research/the-moral-imperative-towards-cost-effectiveness/)_, In Effective Altruism: Philosophical Issues._Oxford: Oxford University Press.
-
-[^9]:
-     Cf. MacAskill, W. (2014). [Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/). New York: Random House. Chapter 1. Note that Professor William MacAskill, coauthor of this website, is the author of _Doing Good Better_.
-
-[^10]:
-     GiveWell (2019). [Your Dollar Goes Further Overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
-
-[^11]:
-    <sup> </sup>GiveWell (2019). [Your dollar goes further overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
-
-[^12]:
-     GiveWell (2019). [Against Malaria Foundation](https://www.givewell.org/charities/amf).
-
-[^13]:
-     Alexander, L. & Moore, M. (2020). [Deontological Ethics](https://plato.stanford.edu/archives/win2020/entries/ethics-deontological/). The Stanford Encyclopedia of Philosophy. Zalta, E. N. (ed.).
-
-[^14]:
-     For a detailed philosophical discussion of effective altruism, see the 16 articles included in Greaves, H. & Pummer, T. (2019). [Effective Altruism: Philosophical Issues](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198841364.001.0001/oso-9780198841364). Oxford: Oxford University Press.
-
-[^15]:
-     Ord, T. (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing., p. 37
-
-[^16]:
-     Cf. Singer, P. (1981). [The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle). Princeton: Princeton University Press.
-
-[^17]:
-     Anthis, J. & Paez, E. (2021). [Moral circle expansion: A promising strategy to impact the far future](https://doi.org/10.1016/j.futures.2021.102756 ). _Futures_, 130.
-
-[^18]:
-     Utilitarians of any type understand “value” in terms of well-being.
-
-[^19]:
-     GiveWell (2019). [Your Dollar Goes Further Overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
-
-[^20]:
-     For instance, Peter Singer’s book [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/) (the updated 10-year anniversary edition is available for free download) makes the case for the ethical importance of improving global health and international development.
-
-[^21]:
-     For a discussion of global consequentialism, see (i) Pettit, P. & Smith, M. (2000). [Global Consequentialism](https://philarchive.org/archive/PETGC), in Brad Hooker, Elinor Mason & Dale Miller (eds.), _Morality, Rules and Consequences: A Critical Reader_. Edinburgh University Press; and (ii) Ord, T. (2009). [Beyond Action: Applying Consequentialism to Decision Making and Motivation](https://drive.google.com/open?id=0B4kMPIEI5Mb8S201Wl85NTN1UHc). DPhil Thesis, University of Oxford.
-
-[^22]:
-     Bentham, J. (1789). Chapter IV: Value of a Lot of Pleasure or Pain, How to be Measured, In _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_.
-
-[^23]:
-     Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennet, J. (ed.)., p. 23
-
-[^24]:
-     Smart, J. J. C. (1956). [Extreme and Restricted Utilitarianism](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Smart_1956Utilitarianism.pdf). _The Philosophical Quarterly_. 6(25)., p. 347.
-
-[^25]:
-     Bostrom, N. (2011). [Infinite Ethics](https://www.nickbostrom.com/ethics/infinite.html). _Analysis and Metaphysics_. 10: 9–59.
-
-[^26]:
-     Cf. Greaves, H. & MacAskill, W. (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_. Section 4.1. Note that Professor William MacAskill, coauthor of this website, is also a coauthor of this paper.
-
-[^27]:
-     More precisely: the more that an act would promote the sum total of well-being, the more moral reason one has to perform that act.
-
-[^28]:
-     For a discussion of this view, see Slote, M. & Pettit, P. (1984). [Satisficing Consequentialism](https://www.princeton.edu/~ppettit/papers/1984/Satisficing%20Consequentialism.pdf). _Proceedings of the Aristotelian Society_, Supplementary Volumes. 58: 139–163 & 165–176.
-
-[^29]:
-     Smart, R. N. (1958). [Negative Utilitarianism](https://doi.org/10.1093/mind/LXVII.268.542). _Mind_. 67(268): 542–43.
-
-[^30]:
-     Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennet, J. (ed.)., p. 7
-
-[^31]:
-     Parfit, D. (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_,10(3): 202–221, p. 213.
-
-[^32]:
-     More precisely: the more that an act would promote the sum total of well-being, the more moral reason one has to perform that act.
-
-[^33]:
-     Norcross, A. (2020). _Morality by Degrees: Reasons Without Demands_. Oxford University Press.
-
+[^5]: Bostrom, N. (2003. [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://www.nickbostrom.com/astronomical/waste.pdf). _Utilitas_. 15(3), 308–314.
+[^6]: Bostrom, N. (2003. [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://www.nickbostrom.com/astronomical/waste.pdf). _Utilitas_. 15(3), 308–314.
+[^7]: Note that Professor William MacAskill, coauthor of this website, is a cofounder of [80,000 Hours](https://80000hours.org/).
+[^8]: Ord, T. (2019). [The Moral Imperative Towards Cost-Effectiveness in Global Health](https://www.givingwhatwecan.org/research/the-moral-imperative-towards-cost-effectiveness/)\_, In Effective Altruism: Philosophical Issues.\_Oxford: Oxford University Press.
+[^9]: Cf. MacAskill, W. (2014). [Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/). New York: Random House. Chapter 1. Note that Professor William MacAskill, coauthor of this website, is the author of _Doing Good Better_.
+[^10]: GiveWell (2019). [Your Dollar Goes Further Overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
+[^11]: <sup> </sup>GiveWell (2019). [Your dollar goes further overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
+[^12]: GiveWell (2019). [Against Malaria Foundation](https://www.givewell.org/charities/amf).
+[^13]: Alexander, L. & Moore, M. (2020). [Deontological Ethics](https://plato.stanford.edu/archives/win2020/entries/ethics-deontological/). The Stanford Encyclopedia of Philosophy. Zalta, E. N. (ed.).
+[^14]: For a detailed philosophical discussion of effective altruism, see the 16 articles included in Greaves, H. & Pummer, T. (2019). [Effective Altruism: Philosophical Issues](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198841364.001.0001/oso-9780198841364). Oxford: Oxford University Press.
+[^15]: Ord, T. (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing., p. 37
+[^16]: Cf. Singer, P. (1981). [The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle). Princeton: Princeton University Press.
+[^17]: Anthis, J. & Paez, E. (2021). [Moral circle expansion: A promising strategy to impact the far future](https://doi.org/10.1016/j.futures.2021.102756). _Futures_, 130.
+[^18]: Utilitarians of any type understand “value” in terms of well-being.
+[^19]: GiveWell (2019). [Your Dollar Goes Further Overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
+[^20]: For instance, Peter Singer’s book [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/) (the updated 10-year anniversary edition is available for free download) makes the case for the ethical importance of improving global health and international development.
+[^21]: For a discussion of global consequentialism, see (i) Pettit, P. & Smith, M. (2000). [Global Consequentialism](https://philarchive.org/archive/PETGC), in Brad Hooker, Elinor Mason & Dale Miller (eds.), _Morality, Rules and Consequences: A Critical Reader_. Edinburgh University Press; and (ii) Ord, T. (2009). [Beyond Action: Applying Consequentialism to Decision Making and Motivation](https://drive.google.com/open?id=0B4kMPIEI5Mb8S201Wl85NTN1UHc). DPhil Thesis, University of Oxford.
+[^22]: Bentham, J. (1789). Chapter IV: Value of a Lot of Pleasure or Pain, How to be Measured, In _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_.
+[^23]: Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennet, J. (ed.)., p. 23
+[^24]: Smart, J. J. C. (1956). [Extreme and Restricted Utilitarianism](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Smart_1956Utilitarianism.pdf). _The Philosophical Quarterly_. 6(25)., p. 347.
+[^25]: Bostrom, N. (2011). [Infinite Ethics](https://www.nickbostrom.com/ethics/infinite.html). _Analysis and Metaphysics_. 10: 9–59.
+[^26]: Cf. Greaves, H. & MacAskill, W. (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_. Section 4.1. Note that Professor William MacAskill, coauthor of this website, is also a coauthor of this paper.
+[^27]: More precisely: the more that an act would promote the sum total of well-being, the more moral reason one has to perform that act.
+[^28]: For a discussion of this view, see Slote, M. & Pettit, P. (1984). [Satisficing Consequentialism](https://www.princeton.edu/~ppettit/papers/1984/Satisficing%20Consequentialism.pdf). _Proceedings of the Aristotelian Society_, Supplementary Volumes. 58: 139–163 & 165–176.
+[^29]: Smart, R. N. (1958). [Negative Utilitarianism](https://doi.org/10.1093/mind/LXVII.268.542). _Mind_. 67(268): 542–43.
+[^30]: Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennet, J. (ed.)., p. 7
+[^31]: Parfit, D. (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_,10(3): 202–221, p. 213.
+[^32]: More precisely: the more that an act would promote the sum total of well-being, the more moral reason one has to perform that act.
+[^33]: Norcross, A. (2020). _Morality by Degrees: Reasons Without Demands_. Oxford University Press.
 [^34]:
-     Jeremy Bentham rejected single-level utilitarianism, writing that “it is not to be expected that this process [of calculating expected consequences] should be strictly pursued previously to every moral judgment.” Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennet, J. (ed.)., p. 23
+    Jeremy Bentham rejected single-level utilitarianism, writing that “it is not to be expected that this process [of calculating expected consequences] should be strictly pursued previously to every moral judgment.” Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennet, J. (ed.)., p. 23
     Henry Sidgwick concurs, writing that “the end that gives the criterion of rightness needn’t always be the end that we consciously aim at; and if experience shows that general happiness will be better achieved if men frequently act from motives other than pure universal philanthropy, those other motives are preferable on utilitarian principles”. Sidgwick, H. (1874). [The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf). Bennet, J. (ed.)., p. 201
 
-[^35]:
-     Whether or not we should have the child, however, depends also on whether this improves the total well-being more than improving the lives of existing people would, and on issues regarding resource constraints and overpopulation.
-
-[^36]:
-     This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are utilitarian theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](https://en.wikipedia.org/wiki/Population_ethics).
-
-[^37]:
-     Nozick, R. (1974). _[Anarchy, State, and Utopia](https://en.wikipedia.org/wiki/Anarchy,_State,_and_Utopia)_. Basic Books.
+[^35]: Whether or not we should have the child, however, depends also on whether this improves the total well-being more than improving the lives of existing people would, and on issues regarding resource constraints and overpopulation.
+[^36]: This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are utilitarian theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](https://en.wikipedia.org/wiki/Population_ethics).
+[^37]: Nozick, R. (1974). _[Anarchy, State, and Utopia](https://en.wikipedia.org/wiki/Anarchy,_State,_and_Utopia)_. Basic Books.

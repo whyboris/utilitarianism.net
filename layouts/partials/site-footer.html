@@ -1,86 +1,96 @@
 <footer class="site-footer" role="contentinfo">
+  <div class="footer-navigation">
+    <div class="temp-navigation-hack">
+      <span class="footer-heading">Core Articles</span>
 
-<div class="footer-navigation">
-
-  <div class="temp-navigation-hack">
-
-    <span class="footer-heading">Core Articles</span>
-
-    <ol>
-      {{ range first 8 .Site.Menus.main.Sort.ByWeight }}
-        <li>
-          <a href="{{ .URL }}">{{ .Title }}</a>
-        </li>  
-      {{ end }}
-
-      {{/* After "Objections" article list all the Objection articles */}}
-      <ul>
-        {{ with .Site.Menus.objections.Sort.ByWeight }}
-          {{ range first 7 . }}
-            <li>
-              <a href="{{ .URL }}">{{ .Title }}</a>
-            </li>
-          {{ end }}
+      <ol>
+        {{ range first 8 .Site.Menus.main.Sort.ByWeight }}
+          <li>
+            <a href="{{ .URL }}">{{ .Title }}</a>
+          </li>
         {{ end }}
-      </ul>
 
-      {{ range last 1 .Site.Menus.main.Sort.ByWeight }}
-      <li>
-        <a href="{{ .URL }}">{{ .Title }}</a>
-      </li>  
-    {{ end }}
-    </ol>
+        {{/* After "Objections" article list all the Objection articles */}}
+        <ul>
+          {{ with .Site.Menus.objections.Sort.ByWeight }}
+            {{ range first 7 . }}
+              <li>
+                <a href="{{ .URL }}">{{ .Title }}</a>
+              </li>
+            {{ end }}
+          {{ end }}
+        </ul>
 
+        {{ range last 1 .Site.Menus.main.Sort.ByWeight }}
+          <li>
+            <a href="{{ .URL }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+      </ol>
+    </div>
+
+    <div class="temp-navigation-hack">
+      <span class="footer-heading">Other Content</span>
+
+      <a href="/acting-on-utilitarianism">Acting on Utilitarianism</a>
+      <a href="/utilitarian-quotes">Utilitarian Quotes</a>
+      <a href="/utilitarian-thinkers">Utilitarian Thinkers</a>
+      <a href="/glossary">Utilitarian Glossary</a>
+      <a href="/books">Utilitarian Books</a>
+      <a href="/utilitarianism-for-high-school-students"
+        >Utilitarianism: Simply Explained</a
+      >
+      <a href="/about">About Us</a>
+
+      <br /><br />
+
+      <span class="footer-heading">Guest Essays</span>
+
+      <a href="/guest-essays/utilitarianism-and-nonhuman-animals"
+        >Utilitarianism and Nonhuman Animals</a
+      >
+      <a href="/guest-essays/virtues-for-real-world-utilitarians"
+        >Virtues for Real-World Utilitarians</a
+      >
+      <a href="/guest-essays/buddhism-and-utilitarianism"
+        >Buddhism and Utilitarianism</a
+      >
+      <a href="/guest-essays/bentham-and-criminal-law"
+        >Bentham and Criminal Law</a
+      >
+      <a href="/guest-essays/precis-of-the-feeling-of-value"
+        >Analytic Hedonism</a
+      >
+      <a href="/guest-essays/naturalistic-arguments-for-ethical-hedonism"
+        >Naturalistic Arguments for Hedonism</a
+      >
+      <a href="/guest-essays/utilitarianism-and-research-ethics"
+        >Utilitarianism and Research Ethics</a
+      >
+
+      <br /><br />
+
+      <span class="footer-heading">Study Guides</span>
+
+      <a href="/peter-singer-famine-affluence-and-morality"
+        >Singer’s ‘Famine, Affluence, and Morality’</a
+      >
+    </div>
   </div>
 
-
-
-  <div class="temp-navigation-hack">
-
-    <span class="footer-heading">Other Content</span>
-
-    <a href="/acting-on-utilitarianism">Acting on Utilitarianism</a>
-    <a href="/utilitarian-quotes">Utilitarian Quotes</a>
-    <a href="/utilitarian-thinkers">Utilitarian Thinkers</a>
-    <a href="/glossary">Utilitarian Glossary</a>
-    <a href="/books">Utilitarian Books</a>
-    <a href="/utilitarianism-for-high-school-students">Utilitarianism: Simply Explained</a>
-    <a href="/about">About Us</a>
-
-    <br><br>
-
-    <span class="footer-heading">Guest Essays</span>
-
-    <a href="/guest-essays/utilitarianism-and-nonhuman-animals">Utilitarianism and Nonhuman Animals</a>
-    <a href="/guest-essays/virtues-for-real-world-utilitarians">Virtues for Real-World Utilitarians</a>
-    <a href="/guest-essays/buddhism-and-utilitarianism">Buddhism and Utilitarianism</a>
-    <a href="/guest-essays/bentham-and-criminal-law">Bentham and Criminal Law</a>
-    <a href="/guest-essays/precis-of-the-feeling-of-value">Analytic Hedonism</a>
-    <a href="/guest-essays/naturalistic-arguments-for-ethical-hedonism">Naturalistic Arguments for Hedonism</a>
-    <a href="/guest-essays/utilitarianism-and-research-ethics">Utilitarianism and Research Ethics</a>
-
-    <br><br>
-
-    <span class="footer-heading">Study Guides</span>
-
-    <a href="/peter-singer-famine-affluence-and-morality">Singer’s ‘Famine, Affluence, and Morality’</a>
-
+  <div class="disclaimer">
+    <div class="oxford-container">
+      <img
+        class="oxford-logo"
+        style="width: 70px; height: 70px"
+        src="/img/oxford.svg"
+      />
+    </div>
+    <div class="disclaimer-text">
+      &copy; Utilitarianism.net
+      <br />
+      This website was co-created by William MacAskill, Associate Professor of
+      Philosophy at the University of Oxford
+    </div>
   </div>
-
-</div>
-
-
-
-<div class="disclaimer">
-  <div class="oxford-container">
-    <img class="oxford-logo" style="width: 70px; height: 70px" src="/img/oxford.svg">
-  </div>
-  <div class="disclaimer-text">
-    &copy; Utilitarianism.net
-    <br>
-    This website was co-created by William MacAskill, Associate Professor of Philosophy at the University of Oxford
-  </div>    
-</div>
-
-
 </footer>

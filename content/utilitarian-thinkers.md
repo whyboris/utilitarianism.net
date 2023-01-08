@@ -8,7 +8,7 @@ weight: 1
 
 Utilitarian ideas go back in part to the works of philosophers in ancient China, including Mozi, and ancient Greece, including Epicurus.[^1] Utilitarianism was further developed, refined and promoted in the late 18th and early 19th century by the classical utilitarians, Jeremy Bentham, John Stuart Mill, and Henry Sidgwick.
 
-These articles summarize the lives and ideas of the major utilitarian philosophers. For a much more detailed historical account than we can provide on this website, we recommend the book _[The Happiness Philosophers: The Lives and Works of the Great Utilitarians](https://press.princeton.edu/books/hardcover/9780691154770/the-happiness-philosophers)_ and the article [The History of Utilitarianism](https://plato.stanford.edu/entries/utilitarianism-history/ ) on the Stanford Encyclopedia of Philosophy. Wikipedia also maintains a [list of utilitarians](https://en.wikipedia.org/wiki/List_of_utilitarians).
+These articles summarize the lives and ideas of the major utilitarian philosophers. For a much more detailed historical account than we can provide on this website, we recommend the book _[The Happiness Philosophers: The Lives and Works of the Great Utilitarians](https://press.princeton.edu/books/hardcover/9780691154770/the-happiness-philosophers)_ and the article [The History of Utilitarianism](https://plato.stanford.edu/entries/utilitarianism-history/) on the Stanford Encyclopedia of Philosophy. Wikipedia also maintains a [list of utilitarians](https://en.wikipedia.org/wiki/List_of_utilitarians).
 
 <br>
 
@@ -30,7 +30,7 @@ Mozi (墨翟) was a Chinese philosopher who founded the philosophical school of 
 
 {{< thinker-name name="Susanna Newcome" year="(1685 - 1763)" >}}
 
-Susanna Newcome was a British philosopher and theologian.  Her most significant work, _An Enquiry into the Evidence of the Christian Religion_ (1728), contains an early formulation of utilitarian thought.
+Susanna Newcome was a British philosopher and theologian. Her most significant work, _An Enquiry into the Evidence of the Christian Religion_ (1728), contains an early formulation of utilitarian thought.
 
 {{< read-more url="susanna-newcome" >}}
 
@@ -96,19 +96,14 @@ Richard M. Hare was a British philosopher and Professor at the Universities of O
 
 {{< thinker-name name="Peter Singer" year="(1946)" >}}
 
-Peter Singer is an Australian moral philosopher and Professor of Bioethics at Princeton University. His work concentrates on issues in applied ethics, in particular our treatment of animals, the ethics of global poverty, and effective altruism. The publication of his 1975 book _[Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book))_ helped start the modern animal rights movement.
+Peter Singer is an Australian moral philosopher and Professor of Bioethics at Princeton University. His work concentrates on issues in applied ethics, in particular our treatment of animals, the ethics of global poverty, and effective altruism. The publication of his 1975 book _[Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book))\_ helped start the modern animal rights movement.
 
 {{< read-more url="peter-singer" >}}
 
-[^1]:
-     Cf. Singer, P. & de Lazari-Radek, K. (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford: Oxford University Press. Chapter 1.
-
+[^1]: Cf. Singer, P. & de Lazari-Radek, K. (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford: Oxford University Press. Chapter 1.
 [^2]:
-     Cf. Fraser, C. (2015). [Mohism](https://plato.stanford.edu/entries/mohism/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
+    Cf. Fraser, C. (2015). [Mohism](https://plato.stanford.edu/entries/mohism/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
     Cf. Singer, P. & de Lazari-Radek, K. (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford: Oxford University Press. Chapter 1.
 
-[^3]:
-     Macleod, C. (2017). [John Stuart Mill](https://plato.stanford.edu/archives/spr2017/entries/mill/), _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
-
-[^4]:
-     Smart, J. J. C. (1956). [Extreme and Restricted Utilitarianism](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Smart_1956Utilitarianism.pdf). _The Philosophical Quarterly_. 6(25)., p. 347.
+[^3]: Macleod, C. (2017). [John Stuart Mill](https://plato.stanford.edu/archives/spr2017/entries/mill/), _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
+[^4]: Smart, J. J. C. (1956). [Extreme and Restricted Utilitarianism](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Smart_1956Utilitarianism.pdf). _The Philosophical Quarterly_. 6(25)., p. 347.

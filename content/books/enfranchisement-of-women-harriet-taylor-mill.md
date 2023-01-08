@@ -5,7 +5,7 @@ year: "1851"
 title: "Enfranchisement of Women"
 layout: book
 image: "/img/books/enfranchisement-of-women.jpg"
-gradientTop: "#315b71" 
+gradientTop: "#315b71"
 gradientBottom: "#824608"
 menu: ["book"]
 weight: -6

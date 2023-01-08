@@ -21,7 +21,7 @@ description: "Utilitarianism.net is an open access textbook with guest essays, s
 
 _Utilitarianism_ is not a single viewpoint, but a family of related ethical theories. What these theories have in common is their focus on bringing about the best consequences for the world by improving the lives of all sentient beings. Utilitarianism holds that we should give equal moral consideration to the well-being of all individuals, regardless of characteristics such as their gender, race, nationality, or even [species](/guest-essays/utilitarianism-and-nonhuman-animals#the-moral-status-of-animals).[^1]
 
-The original and most influential version of utilitarianism is _classical utilitarianism_, first expressed in the writings of [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham) and [John Stuart Mill](/utilitarian-thinker/john-stuart-mill). Classical utilitarianism holds that what makes someone’s life go well is based on the  subjective conscious experiences they have. A good life is filled with positive conscious experiences like enjoyment, happiness, and contentment, whereas a bad life contains many negative conscious experiences like suffering and pain. Classical utilitarianism holds that we should act so that the world contains the greatest sum total of positive experience over negative experience.
+The original and most influential version of utilitarianism is _classical utilitarianism_, first expressed in the writings of [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham) and [John Stuart Mill](/utilitarian-thinker/john-stuart-mill). Classical utilitarianism holds that what makes someone’s life go well is based on the subjective conscious experiences they have. A good life is filled with positive conscious experiences like enjoyment, happiness, and contentment, whereas a bad life contains many negative conscious experiences like suffering and pain. Classical utilitarianism holds that we should act so that the world contains the greatest sum total of positive experience over negative experience.
 
 {{< small-button url="introduction-to-utilitarianism" text="Continue reading: Introduction to Utilitarianism" >}}
 
@@ -104,5 +104,4 @@ Read more [about us](/about).
 
 </div>
 
-[^1]:
-     Of course, individuals of different species may differ drastically in their capacity to suffer or flourish: a typical human or dolphin may have vastly more well-being at stake than a typical mouse or chicken. The point is just that an equal amount of suffering matters equally no matter who it is that experiences it.
+[^1]: Of course, individuals of different species may differ drastically in their capacity to suffer or flourish: a typical human or dolphin may have vastly more well-being at stake than a typical mouse or chicken. The point is just that an equal amount of suffering matters equally no matter who it is that experiences it.

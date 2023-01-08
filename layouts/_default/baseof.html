@@ -1,22 +1,25 @@
 <!DOCTYPE html>
-<html lang="{{ site.LanguageCode | default "en" }}" {{- with partialCached "func/GetLanguageDirection" "GetLanguageDirection" }} dir="{{ . }}" {{- end }}>
+<html
+  lang="{{ site.LanguageCode | default "en" }}"
+  {{- with partialCached "func/GetLanguageDirection" "GetLanguageDirection" }}
+    dir="{{ . }}"
+  {{- end }}
+>
   <head>
-
     {{ block "all-head" . }}{{ partial "head.html" . }}{{ end }}
 
-	  {{ block "head-extra" . }}{{ partial "head-extra.html" . }}{{ end }}
+    {{ block "head-extra" . }}{{ partial "head-extra.html" . }}{{ end }}
 
   </head>
 
-
   <body>
+    {{ block "header" . }}{{ partial "page-header.html" . }}{{ end }}
 
-    {{ block "header" . }}{{ partial "page-header.html" .}}{{ end }}
 
     <script>
-        window.addEventListener('DOMContentLoaded', (event) => {
-            new PagefindUI({ element: "#search" });
-        });
+      window.addEventListener("DOMContentLoaded", (event) => {
+        new PagefindUI({ element: "#search" });
+      });
     </script>
 
     <main data-pagefind-body role="main">
@@ -25,13 +28,17 @@
 
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
 
-    <div class="scroll-to-top" onclick="document.body.scrollTop = 0; document.documentElement.scrollTop = 0;"></div>
+
+    <div
+      class="scroll-to-top"
+      onclick="document.body.scrollTop = 0; document.documentElement.scrollTop = 0;"
+    ></div>
 
     <!-- ENABLE BELOW WHEN PRINTING PDFs -->
-    <!-- {{ block "pdf-hacking" . }}{{ partialCached "pdf-script" . }}{{ end }} -->
+    <!-- {{ block "pdf-hacking" . }}{{ partialCached "pdf-script" . }}{{ end }}
+     -->
 
     {{ block "footnotes-script" . }}{{ partial "footnotes-script" . }}{{ end }}
 
   </body>
-
 </html>

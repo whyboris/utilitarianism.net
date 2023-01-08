@@ -1,10 +1,19 @@
 {{ if .IsTranslated }}
-<div class="dropdown header-navigation-item i18n-container">
-
+  <div class="dropdown header-navigation-item i18n-container">
     <div class="i18n-icon">
-    <svg class="language-selection" width="30" height="30" viewBox="0 0 980 926">
-        <g transform="translate(0,926) scale(0.1,-0.1)" fill="#000000" stroke="none">
-            <path d="M3700 9244 c-19 -2 -84 -9 -145 -15 -452 -45 -949 -194 -1378 -411
+      <svg
+        class="language-selection"
+        width="30"
+        height="30"
+        viewBox="0 0 980 926"
+      >
+        <g
+          transform="translate(0,926) scale(0.1,-0.1)"
+          fill="#000000"
+          stroke="none"
+        >
+          <path
+            d="M3700 9244 c-19 -2 -84 -9 -145 -15 -452 -45 -949 -194 -1378 -411
         -965 -489 -1665 -1314 -1991 -2348 -79 -249 -127 -476 -162 -770 -22 -177 -25
         -655 -6 -825 67 -583 228 -1089 497 -1561 649 -1135 1774 -1862 3090 -1995
         154 -16 566 -16 715 -1 490 51 902 161 1333 356 l161 73 70 -101 c86 -126 138
@@ -52,20 +61,20 @@
         -236 c6 -7 46 -92 89 -188 44 -96 112 -235 151 -309 40 -74 71 -136 69 -137
         -8 -9 -306 163 -452 261 -199 133 -288 202 -282 218 4 15 372 165 408 167 4 0
         11 -6 17 -12z m3311 -463 c9 -60 8 -72 -6 -87 -17 -19 -142 -83 -148 -76 -2 2
-        27 58 63 125 37 67 70 119 74 115 3 -4 11 -38 17 -77z"></path></g></svg>
+        27 58 63 125 37 67 70 119 74 115 3 -4 11 -38 17 -77z"
+          ></path>
+        </g>
+      </svg>
     </div>
 
     <div class="table-of-contents dropdown-content language-dropdown">
-
-        <ul>
-            {{ range .Translations }}
-            <li>
-                <a class="language-link" href="{{ .RelPermalink }}">{{ .Lang }}</a>
-            </li>
-            {{ end}}
-        </ul>
-
+      <ul>
+        {{ range .Translations }}
+          <li>
+            <a class="language-link" href="{{ .RelPermalink }}">{{ .Lang }}</a>
+          </li>
+        {{ end }}
+      </ul>
     </div>
-
-</div>
+  </div>
 {{ end }}

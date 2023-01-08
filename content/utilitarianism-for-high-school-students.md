@@ -82,7 +82,7 @@ Utilitarians may respond by referencing endorsing our reluctance to kill innocen
 
 Utilitarianism claims that we should do whatever would bring about the overall best result, counting everyone equally. This implies that we are almost always acting wrongly, because there is almost always something _better_ that we could be doing. For example, almost anytime pretty much whenever you spend money on yourself, you could have done more good by instead donating that money to effective global charities.
 
-If a person constantly told you to do everything that utilitarianism requires, they'd probably drive you crazy. "Give me a f*ing break!" you might snap at them. They would be making unreasonable demands. But surely morality itself should not be in the business of making unreasonable demands, right?
+If a person constantly told you to do everything that utilitarianism requires, they'd probably drive you crazy. "Give me a f\*ing break!" you might snap at them. They would be making unreasonable demands. But surely morality itself should not be in the business of making unreasonable demands, right?
 
 Utilitarians may respond by denying that their theory is best understood as making "demands" in this sense. When utilitarianism says that we ought to donate more to charity, this really just means that it would be the _best_ or morally ideal choice. But it's not as though anyone would _blame_ you for falling short of the ideal. (Utilitarians might instead reserve blame for those who give _egregiously_ little weight to others' interests, and positively praise anyone who is more altruistic than average.)
 

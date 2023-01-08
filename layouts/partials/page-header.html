@@ -1,52 +1,44 @@
 <div class="regular-header">
+  <header>
+    <div class="website-header">
+      <div class="logo">
+        <a href="{{ .Site.BaseURL | relLangURL }}">
+          <img
+            src="/img/Utilitarianism-Website-Logo.png"
+            alt="Utilitarianism.net website logo"
+          />
+        </a>
+      </div>
 
-<header>
+      {{ partial "site-navigation.html" . }}
 
-  <div class="website-header">
-
-    <div class="logo">
-      <a href="{{ .Site.BaseURL | relLangURL }}">
-        <img src="/img/Utilitarianism-Website-Logo.png" alt="Utilitarianism.net website logo">
-      </a>
     </div>
-    
-    {{ partial "site-navigation.html" . }}
 
+    <div class="website-header website-header-2">
+      {{ partial "site-navigation-2.html" . }}
+    </div>
 
-    
-  </div>
-
-  <div class="website-header website-header-2">
-    {{ partial "site-navigation-2.html" . }}
-  </div>
-
-  <div class="search-hack">
-    <div id="search"></div>
-  </div>
-
-
-</header>
-
+    <div class="search-hack">
+      <div id="search"></div>
+    </div>
+  </header>
 </div>
 
-
-
 <div class="mobile-header">
-
   <header>
-    
     <div class="logo">
       <a href="{{ .Site.BaseURL | relLangURL }}">
-        <img src="/img/Utilitarianism-Website-Logo.png" alt="Utilitarianism.net website logo">
+        <img
+          src="/img/Utilitarianism-Website-Logo.png"
+          alt="Utilitarianism.net website logo"
+        />
       </a>
     </div>
 
-  
-    <input id="nav" type="checkbox">
+    <input id="nav" type="checkbox" />
     <label for="nav"></label>
-    
-    <nav>
 
+    <nav>
       <ul>
         <li>
           <a href="/introduction-to-utilitarianism">Introduction</a>
@@ -55,10 +47,12 @@
           <a href="/acting-on-utilitarianism">Acting</a>
         </li>
         <li>
-          <a href="/utilitarianism-for-high-school-students">Simply Explained</a>
+          <a href="/utilitarianism-for-high-school-students"
+            >Simply Explained</a
+          >
         </li>
         <li>
-            <a href="/textbook">Online Textbook</a>
+          <a href="/textbook">Online Textbook</a>
         </li>
         <li>
           <a href="/utilitarian-quotes">Quotes</a>
@@ -78,12 +72,7 @@
         <li>
           <a href="/about">About Us</a>
         </li>
-
       </ul>
-
-    </nav> 
-
+    </nav>
   </header>
-
-
 </div>

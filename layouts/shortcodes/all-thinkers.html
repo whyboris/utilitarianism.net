@@ -1,24 +1,22 @@
 {{/* pass in `true` to hide the <hr> */}}
-{{ if not (.Get 0) }}<hr>{{ end }}
+{{ if not (.Get 0) }}<hr />{{ end }}
+
 
 <div class="all-thinkers-container" data-pagefind-ignore>
-
-    {{ range .Site.Menus.thinker }}
+  {{ range .Site.Menus.thinker }}
     <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
-        <div class="thinker-container">
-
-            <div class="image">
-                {{ with .Page }}
-                <img src="{{ .Params.image }}">
-                {{ end }}
-            </div>
-
-            <div class="name">
-              {{ .Name }}
-            </div>
-
+      <div class="thinker-container">
+        <div class="image">
+          {{ with .Page }}
+            <img src="{{ .Params.image }}" />
+          {{ end }}
         </div>
+
+        <div class="name">
+          {{ .Name }}
+        </div>
+      </div>
     </a>
-    {{ end }}
+  {{ end }}
 
 </div>

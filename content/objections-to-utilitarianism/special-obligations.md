@@ -65,38 +65,19 @@ Against those who insist upon partiality at a fundamental theoretical level, uti
 
 ### Resources and Further Reading
 
-* Goodin, R. (1988). [What Is So Special about Our Fellow Countrymen?](https://doi.org/10.1086/292998) _Ethics_, 98(4): 663–686.
-* Jackson, F. (1991).[Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.
-* Parfit, D. (1984). _Reasons and Persons_. Oxford: Clarendon Press.
-* de Lazari-Radek, K. & Singer, P. (2012). [The Objectivity of Ethics and the Unity of Practical Reason](https://dx.doi.org/10.1086/667837). _Ethics,_ 123(1): 9–31.
-* Everett, J.A.C., Faber, N.S., Savulescu, J., and Crockett, M.J. (2018). [The costs of being consequentialist: Social inference from instrumental harm and impartial beneficence](https://doi.org/10.1016/j.jesp.2018.07.004). _Journal of Experimental Social Psychology,_ 79: 200–216.
+- Goodin, R. (1988). [What Is So Special about Our Fellow Countrymen?](https://doi.org/10.1086/292998) _Ethics_, 98(4): 663–686.
+- Jackson, F. (1991).[Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.
+- Parfit, D. (1984). _Reasons and Persons_. Oxford: Clarendon Press.
+- de Lazari-Radek, K. & Singer, P. (2012). [The Objectivity of Ethics and the Unity of Practical Reason](https://dx.doi.org/10.1086/667837). _Ethics,_ 123(1): 9–31.
+- Everett, J.A.C., Faber, N.S., Savulescu, J., and Crockett, M.J. (2018). [The costs of being consequentialist: Social inference from instrumental harm and impartial beneficence](https://doi.org/10.1016/j.jesp.2018.07.004). _Journal of Experimental Social Psychology,_ 79: 200–216.
 
-[^1]:
-     ‘Personal capacities’ here could include mental health, willpower, moral motivation, etc.—basically anything that enables you to be effective in achieving your goals—in contrast to things like depression, burnout, etc., that could be expected to significantly reduce your ability to achieve things.
-
-[^2]:
-     Goodin, R. (1988). [What Is So Special about Our Fellow Countrymen?](https://doi.org/10.1086/292998). _Ethics_, 98(4): 663–686. See also Jackson, F. (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.
-
-[^3]:
-     Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Clarendon Press.
-
-[^4]:
-     Furthermore, there may be reputational costs to utilitarians failing to prioritize their family members, which could reverse the long-run expected value of so acting, once the risk of social backlash is taken into account. Acting in ways that are widely regarded as wrong is socially risky, which gives utilitarians extra practical reasons to think twice before violating widely-accepted norms of “special obligation”. See: Everett, J.A.C., Faber, N.S., Savulescu, J., and Crockett, M.J. (2018). [The costs of being consequentialist: Social inference from instrumental harm and impartial beneficence](https://doi.org/10.1016/j.jesp.2018.07.004). _Journal of Experimental Social Psychology_, 79: 200–216.
-
-[^5]:
-     This is closely related to the “moral schizophrenia” objection to sophisticated utilitarianism, discussed in the article on [the alienation objection](/objections-to-utilitarianism/alienation#sophisticated-utilitarianism). The current objection seems weaker however. The alienation objection concerned things that utilitarianism putatively failed to value _at all_. Whereas in this case, utilitarianism certainly values the well-being of your child; the question is just whether _even more_concern is warranted. Firm confidence on such matters of degree seems inherently more difficult to establish.
-
-[^6]:
-     de Lazari-Radek, K. & Singer, P. (2012). [The Objectivity of Ethics and the Unity of Practical Reason](https://dx.doi.org/10.1086/667837). _Ethics,_ 123(1): 9–31.
-
-[^7]:
-     Parfit, D. (1984). _Reasons and Persons_. 1987 revised edition. Oxford: Clarendon Press, p. 97.
-
-[^8]:
-     Parfit, D. (1984). _Reasons and Persons_. 1987 revised edition. Oxford: Clarendon Press, p. 103. As Parfit notes, a minimal revision would temporarily prohibit partiality in just these sorts of situations where greater cooperation is in _everyone's_ interests (conditional on your expecting a sufficient number of others to likewise cooperate). This minimal revision may seem ad hoc if partiality is _fundamental_ to ethics, but makes much more sense on utilitarian accounts which take partiality to be merely instrumentally justified in the first place.
-
-[^9]:
-     Utilitarians who endorse partiality for instrumental reasons have a simple criterion for determining this answer: we should draw the line in whatever way would have the effect of maximizing overall well-being. But this answer is not available to those who take partiality to be intrinsically rather than instrumentally justified.
-
-[^10]:
-     Assuming, for simplicity, that the lives are all relevantly similar in terms of their expected future well-being.
+[^1]: ‘Personal capacities’ here could include mental health, willpower, moral motivation, etc.—basically anything that enables you to be effective in achieving your goals—in contrast to things like depression, burnout, etc., that could be expected to significantly reduce your ability to achieve things.
+[^2]: Goodin, R. (1988). [What Is So Special about Our Fellow Countrymen?](https://doi.org/10.1086/292998). _Ethics_, 98(4): 663–686. See also Jackson, F. (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.
+[^3]: Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Clarendon Press.
+[^4]: Furthermore, there may be reputational costs to utilitarians failing to prioritize their family members, which could reverse the long-run expected value of so acting, once the risk of social backlash is taken into account. Acting in ways that are widely regarded as wrong is socially risky, which gives utilitarians extra practical reasons to think twice before violating widely-accepted norms of “special obligation”. See: Everett, J.A.C., Faber, N.S., Savulescu, J., and Crockett, M.J. (2018). [The costs of being consequentialist: Social inference from instrumental harm and impartial beneficence](https://doi.org/10.1016/j.jesp.2018.07.004). _Journal of Experimental Social Psychology_, 79: 200–216.
+[^5]: This is closely related to the “moral schizophrenia” objection to sophisticated utilitarianism, discussed in the article on [the alienation objection](/objections-to-utilitarianism/alienation#sophisticated-utilitarianism). The current objection seems weaker however. The alienation objection concerned things that utilitarianism putatively failed to value _at all_. Whereas in this case, utilitarianism certainly values the well-being of your child; the question is just whether \_even more_concern is warranted. Firm confidence on such matters of degree seems inherently more difficult to establish.
+[^6]: de Lazari-Radek, K. & Singer, P. (2012). [The Objectivity of Ethics and the Unity of Practical Reason](https://dx.doi.org/10.1086/667837). _Ethics,_ 123(1): 9–31.
+[^7]: Parfit, D. (1984). _Reasons and Persons_. 1987 revised edition. Oxford: Clarendon Press, p. 97.
+[^8]: Parfit, D. (1984). _Reasons and Persons_. 1987 revised edition. Oxford: Clarendon Press, p. 103. As Parfit notes, a minimal revision would temporarily prohibit partiality in just these sorts of situations where greater cooperation is in _everyone's_ interests (conditional on your expecting a sufficient number of others to likewise cooperate). This minimal revision may seem ad hoc if partiality is _fundamental_ to ethics, but makes much more sense on utilitarian accounts which take partiality to be merely instrumentally justified in the first place.
+[^9]: Utilitarians who endorse partiality for instrumental reasons have a simple criterion for determining this answer: we should draw the line in whatever way would have the effect of maximizing overall well-being. But this answer is not available to those who take partiality to be intrinsically rather than instrumentally justified.
+[^10]: Assuming, for simplicity, that the lives are all relevantly similar in terms of their expected future well-being.
