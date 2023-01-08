@@ -10,7 +10,6 @@
 
         <ol>
           {{ range .Site.Menus.main }}
-
             <li
               class="{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
                 active
@@ -42,7 +41,6 @@
 
         <ul>
           {{ range .Site.Menus.guest }}
-
             <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
               <li>
                 <div class="title">
