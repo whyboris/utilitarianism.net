@@ -104,7 +104,7 @@ Assessments of the ethics of actual studies tend to pay lots of attention to the
 
 ### 2. Accounting for risk to broad patient populations
 
-Scientific trials always assess interventions in a circumscribed set of the population instead of releasing these interventions to the population at large, or at least to its low-risk segments, while monitoring the results. The main point of starting in a circumscribed set of people is to minimize the number of people injured. This may reflect the utilitarian concern with minimizing the \_cumulative_harm to people. The point is clearly not to minimize the chance of harm to each study participant considered in isolation.
+Scientific trials always assess interventions in a circumscribed set of the population instead of releasing these interventions to the population at large, or at least to its low-risk segments, while monitoring the results. The main point of starting in a circumscribed set of people is to minimize the number of people injured. This may reflect the utilitarian concern with minimizing the _cumulative_ harm to people. The point is clearly not to minimize the chance of harm to each study participant considered in isolation.
 
 ### 3. Accounting for risk to so-called study bystanders
 

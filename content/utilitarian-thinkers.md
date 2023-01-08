@@ -96,7 +96,7 @@ Richard M. Hare was a British philosopher and Professor at the Universities of O
 
 {{< thinker-name name="Peter Singer" year="(1946)" >}}
 
-Peter Singer is an Australian moral philosopher and Professor of Bioethics at Princeton University. His work concentrates on issues in applied ethics, in particular our treatment of animals, the ethics of global poverty, and effective altruism. The publication of his 1975 book _[Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book))\_ helped start the modern animal rights movement.
+Peter Singer is an Australian moral philosopher and Professor of Bioethics at Princeton University. His work concentrates on issues in applied ethics, in particular our treatment of animals, the ethics of global poverty, and effective altruism. The publication of his 1975 book _[Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book))_ helped start the modern animal rights movement.
 
 {{< read-more url="peter-singer" >}}
 

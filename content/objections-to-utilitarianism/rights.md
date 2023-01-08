@@ -75,7 +75,7 @@ Of course, it's important to stress that real life comes with no such stipulatio
 - Shelly Kagan (1989). _[The Limits of Morality](https://oxford.universitypressscholarship.com/view/10.1093/0198239165.001.0001/acprof-9780198239161)_. New York: Oxford University Press.
 - Eduardo Rivera-López (2012). [The Moral Murderer. A (more) effective counterexample to consequentialism](https://doi.org/10.1111/j.1467-9329.2012.00544.x). _Ratio_, 25(3): 307–325.
 
-[^1]: Adapted from Thomson, J. (1976). [Killing, Letting Die, and the Trolley Problem](https://doi.org/10.5840/monist197659224). \_The Monist_59 (2): 204–17, p. 206.
+[^1]: Adapted from Thomson, J. (1976). [Killing, Letting Die, and the Trolley Problem](https://doi.org/10.5840/monist197659224). _The Monist_. 59 (2): 204–17, p. 206.
 [^2]:
     This reputational harm is far from trivial. Each individual who is committed to (competently) [acting on utilitarianism](/acting-on-utilitarianism) could be expected to save _many_ lives. So to do things that risk deterring _many_ others in society (at a population-wide level) from following utilitarian ethics is to risk _immense_ harm. On the reputational costs of instrumental harm, see:
     Everett, J.A.C., Faber, N.S., Savulescu, J., and Crockett, M.J. (2018). [The costs of being consequentialist: Social inference from instrumental harm and impartial beneficence](https://doi.org/10.1016/j.jesp.2018.07.004). _Journal of Experimental Social Psychology,_ 79: 200–216.

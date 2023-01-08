@@ -244,7 +244,7 @@ I believe that Buddhism and utilitarianism are both committed to in-principle su
 [^13]: See subsection 3.2.2 for some considerations in favor of this reading.
 [^14]: The relationship between personal liberation and other-regarding virtues like compassion is a vexed interpretive issue. It is uncontroversial that these virtues are traditionally thought to facilitate one’s progress on the path to awakening. Briefly, the reason is that the ultimate cause of _duḥkha_ is egocentrism (see subsection 2.3), and cultivating non-instrumental concern for the well-being of others is supposed to counteract egocentrism. On some readings, the other-regarding virtues have solely instrumental value: they matter just to the extent that they help us to attain liberation (see e.g. Breyer 2015 and Siderits 2016). On other readings, the core Buddhist virtues are essential parts of the awakened state and valuable for their own sakes (see e.g. Keown 2001, Goodman 2009, Flanagan 2011, and Gowans 2015b).
 [^15]: Davis 2017, 231. _Dukkha_ is the Pāli word for the Sanskrit ‘_duḥkha_’.
-[^16]: See Goodman 2016 for a more comprehensive treatment of Śāntideva. Goodman’s consequentialist reading of _BCA_ (see also Goodman 2009)\_\_ has informed my own reading of the text.
+[^16]: See Goodman 2016 for a more comprehensive treatment of Śāntideva. Goodman’s consequentialist reading of _BCA_ (see also Goodman 2009) has informed my own reading of the text.
 [^17]: _BCA_ 5.84; see also 5.101, 8.109, 8.137.
 [^18]: _BCA_ 5.84.
 [^19]: _BCA_ 6.75; see also 6.72.

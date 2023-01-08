@@ -165,7 +165,7 @@ Steve Sverdlik taught philosophy at Southern Methodist University in Dallas. He 
 [^2]: An excellent study of hedonism is Fred Feldman, _Pleasure and the Good Life_, Oxford: Oxford University Press, 2004.
 [^3]: _The Rationale of Punishment_. In _The Works of Jeremy Bentham_. Edited by John Bowring. Edinburgh: William Tait, 1838-43. Vol. 1, p. 398.
 [^4]: Mark Kleiman, _When Brute Force Fails_, Princeton: Princeton University Press, 2009. P. 30.
-[^5]: This is only an approximation. It obviously wouldn't be a good thing to replace two minor thefts with one murder. What ultimately matters, for utilitarians, is not the \_number_of wrong or 'mischievous' acts but the severity of their effect on overall happiness.
+[^5]: This is only an approximation. It obviously wouldn't be a good thing to replace two minor thefts with one murder. What ultimately matters, for utilitarians, is not the _number_ of wrong or 'mischievous' acts but the severity of their effect on overall happiness.
 [^6]: IPML, chapter 15, paragraph 3.
 [^7]: Henry Sidgwick, _The Methods of Ethics_, 7<sup>th</sup> edition. Indianapolis: Hackett, 1981. Pp. 41, 84.
 [^8]: Later in his career Bentham realized that the law can increase the probability of punishment, which would allow it to decrease its severity. For example, he understood that a police force could increase the probability of arresting and punishing criminals. There were no police forces in England when Bentham wrote IPML. For a contemporary treatment of the role of probability and discounting in potential criminals’ decision-making, see Kleiman, _When Brute Force Fails_, chapter 5.
