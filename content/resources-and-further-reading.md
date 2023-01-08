@@ -226,7 +226,7 @@ Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practica
 ### Speciesism: Expanding the Moral Circle Across Species
 
 - [Non-Human Animals: Crash Course Philosophy #42](https://youtu.be/y3-BX-jN_Ac)
-- Peter Singer (1975). _[Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book))_. New York: HarperCollins.
+- Peter Singer (1975). _[Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>)_. New York: HarperCollins.
 - Jeff McMahan (2002). [Animals](https://drive.google.com/open?id=0B4kMPIEI5Mb8YzJPSXVRMy04YkU). In R. G. Frey and Christopher Wellman (eds.), _The Blackwell Companion to Applied Ethics_. Oxford: Blackwell., pp. 525–536.
 - Jeff Sebo (2019). [A Utilitarian Case for Animal Rights](https://www.youtube.com/watch?v=vELWCTgA9oA). _Effective Altruism Global_.
 

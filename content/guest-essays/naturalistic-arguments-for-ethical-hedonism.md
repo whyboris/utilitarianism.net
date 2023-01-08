@@ -228,10 +228,7 @@ Empirical observation reveals objective and universal moral value existing withi
 [^14]: Grundmann, Thomas (2021). Dependent reliability. _Philosophy and Phenomenological Research_ (forthcoming).
 [^15]: Horn, Justin (2017). Moral realism, fundamental moral disagreement, and moral reliability. _Journal of Value Inquiry_, 51(3): 363–381.
 [^16]: Jones, Adam (2011). _Genocide: A Comprehensive Introduction_. New York: Routledge.
-[^17]:
-    _
-    Deuteronomy_ 20.16–17
-
+[^17]: _Deuteronomy_ 20.16–17
 [^18]: Street, Sharon (2006). A Darwinian dilemma for realist theories of value. _Philosophical Studies_, 127:1, 109–166.
 [^19]: Korman, Daniel Z. & Locke, Dustin (2020). Against Minimalist Responses to Moral Debunking Arguments. _Oxford Studies in Metaethics_, 15: 309–332.
 [^20]: Kauppinen, Antti (2013). A Humean theory of moral intuition. _Canadian Journal of Philosophy_, 43(3): 360–381. Tappolet, Christine (2016). _Emotions, Values, and Agency_. Oxford: Oxford University Press; Werner, Preston (2016). Moral perception and the contents of experience. _Journal of Moral Philosophy_,13(3): 294–317.

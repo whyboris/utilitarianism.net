@@ -235,7 +235,7 @@ The next chapter discusses the four elements of utilitarian theories in greater 
 [^20]:
     On extreme poverty see: Singer, P. (2009). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_. Bainbridge Island, WA: Penguin Random House LLC.
 
-    On factory farming see: Singer, P. (1975). _[Animal Liberation: A New Ethics for Our Treatment of Animals](https://en.wikipedia.org/wiki/Animal_Liberation_(book))_. New York: HarperCollins.
+    On factory farming see: Singer, P. (1975). _[Animal Liberation: A New Ethics for Our Treatment of Animals](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>)_. New York: HarperCollins.
 
 [^21]: Cf. Wolf, S. (1982). [Moral Saints](https://www.jstor.org/stable/2026228). _The Journal of Philosophy_, _79_(8), 419. doi: 10.2307/2026228
 [^22]: GiveWell (2019). [Against Malaria Foundation](https://www.givewell.org/charities/amf).
