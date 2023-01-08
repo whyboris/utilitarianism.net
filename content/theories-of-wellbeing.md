@@ -7,7 +7,7 @@ weight: 4
 image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
-> _“To what shall the character of utility be ascribed, if not to that which is a source of pleasure?”_  <br> \- [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^1]
+> _“To what shall the character of utility be ascribed, if not to that which is a source of pleasure?”_ <br> \- [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^1]
 
 {{< TOC >}}
 
