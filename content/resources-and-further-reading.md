@@ -164,7 +164,7 @@ Resources for [Population Ethics](/utilitarianism-and-practical-ethics):
 ### Variable Value Theories
 
 - Theodore Sider (1991). [Might Theory X be a theory of diminishing marginal value?](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8FF333C386B19DCF121A408F7E29B976?doi=10.1.1.591.8496&rep=rep1&type=pdf) _Analysis_. 51(4): 265–271.
-- Thomas Hurka (1983). [Value and Population Size](https://doi.org/10.1086/292462). _Ethics_. 93(3): 496–507.
+- Thomas Hurka (1983). [Value and Population Size](https://doi.org/10.1086/292462). _Ethics_, 93(3): 496–507.
 
 ### Critical Level and Critical Range Theories
 
@@ -186,10 +186,10 @@ Resources for [Population Ethics](/utilitarianism-and-practical-ethics):
 - Gustaf Arrhenius (2009). [Can the Person Affecting Restriction Solve the Problems in Population Ethics?](https://doi.org/10.1007/978-1-4020-5697-0_14), in Roberts, M.A., Wasserman, D.T. (eds.) _Harming Future Persons_. International Library of Ethics, Law, and the New Medicine. 35. Springer, Dordrecht.
 - Daniel Cohen (2019). [An Actualist Explanation of the Procreation Asymmetry](https://doi.org/10.1017/S0953820819000293). _Utilitas_. 32(1): 70–89.
 - Johann Frick (2014). _['Making People Happy, Not Making Happy People': A Defense of the Asymmetry Intuition in Population Ethics](http://nrs.harvard.edu/urn-3:HUL.InstRepos:13064981)_. Doctoral dissertation, Harvard University.
-- Caspar Hare (2007). [Voices from Another World: Must We Respect the Interests of People Who Do Not, and Will Never, Exist?](https://doi.org/10.1086/512172). _Ethics_. 117(3): 498–523.
+- Caspar Hare (2007). [Voices from Another World: Must We Respect the Interests of People Who Do Not, and Will Never, Exist?](https://doi.org/10.1086/512172). _Ethics_, 117(3): 498–523.
 - Jan Narveson (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1): 62–86.
 - Josh Parsons (2002). [Axiological Actualism](https://doi.org/10.1093/ajp/80.2.137). _Australasian Journal of Philosophy_. 80(2): 137–147.
-- Melinda A. Roberts (2002). [A New Way of Doing the Best That We Can: Person-Based Consequentialism and the Equality Problem](https://doi.org/10.1086/324321). _Ethics_. 112(2): 315–350.
+- Melinda A. Roberts (2002). [A New Way of Doing the Best That We Can: Person-Based Consequentialism and the Equality Problem](https://doi.org/10.1086/324321). _Ethics_, 112(2): 315–350.
 
 ### Practical Implications of Population Ethics
 
@@ -263,7 +263,7 @@ Resources for [Objections to Utilitarianism and Responses](/objections-to-utilit
 
 ### The Equality Objection
 
-- Roger Crisp (2003). [Equality, Priority, and Compassion](https://www.jstor.org/stable/10.1086/373954?seq=1). _Ethics_. 113(4): 745–763.
+- Roger Crisp (2003). [Equality, Priority, and Compassion](https://www.jstor.org/stable/10.1086/373954?seq=1). _Ethics_, 113(4): 745–763.
 - Larry Temkin (2003). [Equality, Priority or What?](https://www.cambridge.org/core/journals/economics-and-philosophy/article/equality-priority-or-what/9FEEDE10582AE359AAB4EF545EDCD201). _Economics and Philosophy_. 19(1): 61–87.
 - Derek Parfit (1997). [Equality and Priority](https://www.philosophy.rutgers.edu/joomlatools-files/docman-files/3ParfitEqualityorPriority2000.pdf). _Ratio_. 10(3): 202–221.
 - Larry Temkin (1993). [Inequality](https://global.oup.com/academic/product/inequality-9780195111491). New York: Oxford University Press.

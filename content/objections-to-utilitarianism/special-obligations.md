@@ -1,6 +1,7 @@
 ---
 title: "The Special Obligations Objection"
 date: 2022-08-08T10:08:51-04:00
+updated: 2023, Jan 8th - in sync with website
 type: "page"
 draft: false
 menu: ["objections"]
@@ -66,7 +67,7 @@ Against those who insist upon partiality at a fundamental theoretical level, uti
 ### Resources and Further Reading
 
 - Goodin, R. (1988). [What Is So Special about Our Fellow Countrymen?](https://doi.org/10.1086/292998) _Ethics_, 98(4): 663–686.
-- Jackson, F. (1991).[Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.
+- Jackson, F. (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.
 - Parfit, D. (1984). _Reasons and Persons_. Oxford: Clarendon Press.
 - de Lazari-Radek, K. & Singer, P. (2012). [The Objectivity of Ethics and the Unity of Practical Reason](https://dx.doi.org/10.1086/667837). _Ethics,_ 123(1): 9–31.
 - Everett, J.A.C., Faber, N.S., Savulescu, J., and Crockett, M.J. (2018). [The costs of being consequentialist: Social inference from instrumental harm and impartial beneficence](https://doi.org/10.1016/j.jesp.2018.07.004). _Journal of Experimental Social Psychology,_ 79: 200–216.

@@ -253,7 +253,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 ### Impartiality
 
 - Troy Jollimore (2018). [Impartiality](https://plato.stanford.edu/entries/impartiality/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
-- Robert Goodin (1988). [What is so special about our fellow countrymen?](https://dx.doi.org/10.1086/292998) _Ethics_ 98 (4): 663-686.
+- Robert Goodin (1988). [What is so special about our fellow countrymen?](https://dx.doi.org/10.1086/292998) _Ethics_, 98 (4): 663-686.
 
 ### Aggregationism
 
@@ -289,7 +289,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 ### Expectational Utilitarianism Versus Objective Utilitarianism
 
 - Roger Crisp (1997). _[Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2)_. Routledge., pp. 99–101.
-- Frank Jackson (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_. 101(3): 461–482.
+- Jackson, F. (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.
 - Peter A. Graham (2021). _[Subjective Versus Objective Moral Wrongness](https://doi.org/10.1017/9781108588249)_. Cambridge University Press.
 
 ### Multi-level Utilitarianism Versus Single-level Utilitarianism
@@ -314,7 +314,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 
 [^4]: More specifically, it holds that positive well-being is the only intrinsic good, and negative well-being is the only intrinsic bad. Assigning further value to (for instance, more equal) distributions of well-being goes beyond welfarism, by treating something other than well-being itself as intrinsically valuable.
 [^5]: Sidgwick, H. (1874). _[The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf)_. Bennett, J. (ed.)., p. 186
-[^6]: Practical reasons to endorse some moderate degree of partiality include avoidance of burn-out, and your being in an especially good position to help, for instance, your own child. See Jackson, F. (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_ 101 (3): 461-482.
+[^6]: Practical reasons to endorse some moderate degree of partiality include avoidance of burn-out, and your being in an especially good position to help, for instance, your own child. See Jackson, F. (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101 (3): 461-482.
 [^7]: This definition is adapted from Bostrom, N. (2011). [Infinite Ethics](https://www.nickbostrom.com/ethics/infinite.pdf). _Analysis and Metaphysics_, 10: 9–59.
 [^8]: In principle, other aggregation methods (like multiplication or something more complex) are conceivable. But we focus here on the additive form of aggregationism, since that is by far the most common view.
 [^9]: This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are aggregationist theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](/population-ethics).
@@ -346,7 +346,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
     Sinhababu, N. (2018). [Scalar Consequentialism the Right Way](https://link.springer.com/article/10.1007%2Fs11098-017-0998-y). _Philosophical Studies_. 175: 3131–3144.
 
 [^21]: Chappell, R.Y. (2020). [Deontic Pluralism and the Right Amount of Good](https://philpapers.org/rec/CHADPA-8). In Douglas W. Portmore (ed.), _The Oxford Handbook of Consequentialism_. Oxford University Press. pp. 498-512. Note that Chappell is a co-author of this website.
-[^22]: Jackson, F. (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_. 101(3): 461–482.
+[^22]: Jackson, F. (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.
 [^23]: In line with the above explanation of welfarism, utilitarians of any type understand “value” in terms of well-being.
 [^24]:
     Bales, R. Eugene (1971). [Act-Utilitarianism: Account of Right-Making Characteristics or Decision-Making Procedure?](https://www.jstor.org/stable/20009403) _American Philosophical Quarterly_. 8(3): 257–265.
