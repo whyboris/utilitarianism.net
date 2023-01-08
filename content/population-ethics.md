@@ -23,7 +23,7 @@ This article will survey five major approaches to population ethics:
 4. _Critical level_ (and _critical range_) _theories_ that tweak the total view to only count positive wellbeing above a critical baseline level (or range).
 5. _Person-affecting views_ that deny we have (non-instrumental) reason to add happy lives to the world.[^2]
 
-## The Total View 
+## The Total View
 
 According to the _total view_ of population ethics:
 
@@ -31,9 +31,9 @@ According to the _total view_ of population ethics:
 
 Importantly, one population may have greater total wellbeing than another in virtue of having more people. One way to calculate this total is to multiply the number of individuals (N) with their average quality of life (Q).[^4] We can, therefore, represent the total view by the following value function:
 
-**Value<sub>total view</sub> = N * Q**
+**Value<sub>total view</sub> = N \* Q**
 
-Consider a hypothetical world A with 100 inhabitants (N<sub>A</sub>) at average wellbeing level 10 (Q<sub>A</sub>) and another hypothetical world B with 200 inhabitants (N<sub>B</sub>) at wellbeing level 5 (Q<sub>B</sub>). On the total view, worlds A and B are equally good because they both have 1,000 units of wellbeing (N<sub>A</sub> * Q<sub>A</sub> = N<sub>B</sub> * Q<sub>B</sub> = 1,000).
+Consider a hypothetical world A with 100 inhabitants (N<sub>A</sub>) at average wellbeing level 10 (Q<sub>A</sub>) and another hypothetical world B with 200 inhabitants (N<sub>B</sub>) at wellbeing level 5 (Q<sub>B</sub>). On the total view, worlds A and B are equally good because they both have 1,000 units of wellbeing (N<sub>A</sub> _ Q<sub>A</sub> = N<sub>B</sub> _ Q<sub>B</sub> = 1,000).
 
 When making such comparisons between hypothetical worlds in population ethics, these worlds are often illustrated graphically. The width of the following graphs represents the number of people, and the height represents their average wellbeing level. Consequently, the graphs’ area—width times height—represents the total welfare in the hypothetical worlds. Illustrated graphically, worlds A and B are equally valuable, according to the total view, since their graphs have the same area.
 
@@ -45,7 +45,7 @@ In practice, there are often trade-offs between making existing people happier a
 
 The total view’s foremost practical implication is giving great importance to ensuring the long-term flourishing of civilization. This entails taking [existential risk reduction](/acting-on-utilitarianism#existential-risk-reduction) very seriously as a moral priority.[^8] Existential risks—such as all-out nuclear war, or extreme climate change, or an engineered global pandemic—threaten the survival of humankind. If humanity survives, civilization may flourish over billions of years, and an enormous number of future people may get to enjoy highly fulfilling lives. The total wellbeing across all future generations may be astronomically large, and an existential catastrophe would irreversibly deprive humanity of this potentially grand future. From the perspective of the total view and many other moral views, the stakes involved with existential risks are so immense that the mitigation of these risks becomes one of the principal moral issues facing humanity.
 
-### Objecting to the Total View: The Repugnant Conclusion 
+### Objecting to the Total View: The Repugnant Conclusion
 
 The most prominent objection to the total view is the _repugnant conclusion_, originally raised by Derek Parfit.[^9] In its simplest form, the repugnant conclusion is that:[^10]
 
@@ -61,7 +61,7 @@ Importantly, the total view need not imply that we should maximize population si
 
 As such, proponents of the total view might respond to the challenge presented by the repugnant conclusion by debunking the intuition, biting the bullet, or attacking the alternatives. We will consider these in turn.
 
-#### Debunking the Intuition 
+#### Debunking the Intuition
 
 Our intuitions about these cases may be unreliable or based on subtle misunderstandings.[^11]
 
@@ -71,7 +71,7 @@ Second, we may not adequately appreciate that lives “barely worth living” ar
 
 Third, we may mistakenly imagine ourselves as part of the populations being compared in the repugnant conclusion. Consequently, an egoistic bias may push us to favor populations with a high quality of life.[^16]
 
-#### Tolerating the Intuition 
+#### Tolerating the Intuition
 
 Proponents of the total view may “bite the bullet” and simply accept that world Z is better than world A. They may point out that, while initially counterintuitive, this conclusion is based on the compelling goal to create a world with as much total wellbeing as possible. On the total view, reductions in the average wellbeing level of a population can be more than compensated for by adding sufficiently many lives that are worth living. Since lives worth living are (one would naturally think) an inherently good thing, it seems rhetorically overblown to call this implication “repugnant”.
 
@@ -83,13 +83,13 @@ In world A, everyone’s wellbeing is very high. World A+ contains (i) one popul
 
 Recent papers from Dean Spears and Mark Budolfson make a different case for the inescapability of (something like) the repugnant conclusion.[^19] The authors argue that _all_ plausible theories imply that it is sometimes better to add vast numbers of barely-positive lives to an existing population than to add a smaller number of extremely positive lives.[^20] From this result, they conclude that “the repugnant conclusion provides no methodological guidance for theory or policy-making, because it does not discriminate among candidate [theories]”.[^21] Others might try to resist this conclusion, however, by arguing that these new verdicts—involving adding to existing populations—are not as intuitively problematic as the original repugnant conclusion.
 
-#### Attacking the Alternatives 
+#### Attacking the Alternatives
 
 A final response is to note that counterintuitive implications are by no means unique to the total view. Several impossibility theorems prove that it is _logically_ _impossible_ for any population ethical theory to satisfy every intuitively desirable principle and axiom.[^22] One such axiom is to avoid the repugnant conclusion. However, some philosophers argue that avoiding the repugnant conclusion is not worth the theoretical costs of giving up other axioms or fundamental principles. Accepting the repugnant conclusion provides an easy response to the impossibility theorems since the total view is consistent with all the other axioms of these theorems.[^23] In light of this, a growing number of ethicists have come to accept and defend the repugnant conclusion and the total view.[^24]
 
 To evaluate this comparative claim, we must consider the merits (and demerits) of the competing views. Philosophers have proposed several alternatives to the total view that seek to avoid (at least the original version of) the repugnant conclusion. These theories include the _average view_, _variable value theories_, _critical level and range theories,_ and _person-affecting views_.
 
-## The Average View 
+## The Average View
 
 According to the _average view_ of population ethics:
 
@@ -115,14 +115,13 @@ Adding a small number of tortured, miserable people to a population diminishes t
 
 Third, the average view prefers arbitrarily small populations over very large populations, as long as the average wellbeing was higher. For example, a world with a single, extremely happy individual would be favored to a world with ten billion people, all of whom are extremely happy but just ever-so-slightly less happy than that single person.
 
-
-## Variable Value Theories 
+## Variable Value Theories
 
 To compromise between the total and average views, some philosophers have proposed _variable value_ _theories_. According to these theories, the marginal value of creating additional people diminishes—the larger the existing population, the smaller the value of adding another person.
 
 The simplest variable value theories may be represented by the following value function, with number of individuals N and average quality of life Q:[^28]
 
-> **Value<sub>variable value</sub> = Q * f(N)**
+> **Value<sub>variable value</sub> = Q \* f(N)**
 
 This diminishing marginal value allows variable value theories to avoid some of the weaknesses of the total and average views. For instance, Hilary Greaves writes that:[^29]
 
@@ -132,7 +131,7 @@ At first glance, it is an attractive feature of variable value theories that the
 
 However, variable value theories face problems of their own. First, in approximating the average view at large population sizes, they risk susceptibility to the same objections. So, to avoid approving of adding (above-average) negative lives to the world, variable value theorists must invoke an asymmetry according to which only the value of positive lives diminishes but not the disvalue of negative lives. Adding negative lives to a world always makes the world non-instrumentally worse, on such a view, even if it happens to improve the average. However, such an asymmetry leads to an analogue of what Parfit calls the _absurd conclusion_:[^31] that a population considered to be good, with many happy and few miserable lives, can be turned into a population considered to be bad merely by proportionally increasing the number of both positive and negative lives.[^32] To escape this objection, variable value theorists must allow additional good lives to sometimes _compensate_ for additional bad lives, without introducing further unintended consequences that undermine their view. This is no easy task.[^33]
 
-## Critical Level and Critical Range Theories 
+## Critical Level and Critical Range Theories
 
 According to critical level theories:
 
@@ -142,7 +141,7 @@ Consequently, an outcome can be made worse not only by bringing into existence a
 
 The total value of an outcome, according to critical level theories, can be represented by the following value function, with number of individuals N, average quality of live Q, and critical level α:
 
-**Value<sub>critical level</sub> = N * (Q - α)**
+**Value<sub>critical level</sub> = N \* (Q - α)**
 
 By looking at this value function, we may observe that the total view of population ethics is simply a critical level theory with a critical level of zero (α = 0). All critical level theories, including the total view, agree that the value of adding an individual to the world depends only on that individual’s wellbeing level and—in contrast to the average view and variable value theories—not on the number of existing persons or their wellbeing levels.
 
@@ -168,17 +167,17 @@ The key implication of this critical range theory (with moderate value blur) is 
 
 The resulting view, while theoretically complex, seems less susceptible to severe objections than the other views we have surveyed. In particular, it can simultaneously avoid both the repugnant conclusion and the sadistic conclusion. But it is worth noting that it cannot accommodate the strong “anti-repugnance” intuition that the idyllic world A is strictly _better_ than the repugnant world Z.[^42] Critical range theories instead regard the two worlds as incomparable, due to the immense value blur introduced by all those meh lives in world Z.
 
-## Person-Affecting Views and the Procreative Asymmetry 
+## Person-Affecting Views and the Procreative Asymmetry
 
 All of the theories discussed above—the total view, the average view, variable value theories, and critical level and range theories—are _impersonal theories_.[^43]
 
+|                                    **Impersonal theories**                                     | **Value function (value of a particular state of the world)** |
+| :--------------------------------------------------------------------------------------------: | :-----------------------------------------------------------: |
+|                                           Total view                                           |                          **N \* Q**                           |
+|                                          Average view                                          |                             **Q**                             |
+|                                     Variable value theory                                      |                         **f(N) \* Q**                         |
+| Critical level theory<span style="text-align: initial; font-family: Merriweather">[^44]</span> |                       **N \* (Q - α)**                        |
 
-| **Impersonal theories** | **Value function (value of a particular state of the world)** |
-| :---: | :---: |
-| Total view | **N * Q** |
-| Average view | **Q** |
-| Variable value theory | **f(N) * Q** |
-| Critical level theory<span style="text-align: initial; font-family: Merriweather">[^44]</span> | **N * (Q - α)** |
 > **N** = number of persons; **Q** = average wellbeing level; **α** = critical level; **f()** = strictly increasing and strictly concave function with a horizontal asymptote
 
 Impersonal theories imply that creating an additional person with a (sufficiently) good life makes the world better, other things being equal.[^45] However, many people intuitively reject this implication. They would say that there are no moral reasons to bring into existence additional people—at least no reasons based on the wellbeing these people would enjoy if created. Jan Narveson put this idea in slogan form: “We are in favour of making people happy, but neutral about making happy people”.[^46] _Person-affecting views_ of population ethics attempt to capture this intuition of neutrality.[^47]
@@ -225,14 +224,13 @@ We should recognize that A is better. But to do that, we must reject the strict 
 
 We may also raise more theoretical objections to such a view. For instance, Ord (2020) notes that person-affecting views typically fall afoul of one or more of the following problems:[^55]
 
-
 1. having moral rankings change when “irrelevant alternatives” are introduced (such as preferring A to B when they are the only choices, but then B over A when an inferior option C is also available);
-2. having cyclical orderings of value (saying that A is better than B, B is better than C, and C is better than A); 
+2. having cyclical orderings of value (saying that A is better than B, B is better than C, and C is better than A);
 3. saying that all outcomes that differ even slightly in how many people exist are incomparable.
 
 For all these reasons, utilitarians are largely united in rejecting person-affecting views, even as they continue to debate which impersonal theory provides the best way forward.
 
-## Practical Implications of Population Ethical Theories 
+## Practical Implications of Population Ethical Theories
 
 Population ethics is a field of great importance for real-world decision-making. In particular, which population ethical view we adopt shapes the importance we should assign to preserving and improving the long-term future of humanity. If human civilization persists, and perhaps one day spreads to the stars, there could be an inconceivably large number of future people with good lives. Their existence and wellbeing depend in part on the choices we make today: especially how many resources we, the current generation, invest in [preventing existential risks](/acting-on-utilitarianism#existential-risk-reduction), which threaten the continued survival and long-term flourishing of humankind.[^56]
 
@@ -244,7 +242,7 @@ Proponents of standard person-affecting views (with a strict procreative asymmet
 
 Finally, there is an argument from [moral uncertainty](https://forum.effectivealtruism.org/tag/moral-uncertainty): given the difficult terrain of population ethics, we may not be entirely confident of any particular view. Therefore, we should figure out what degree of belief we ought to have in each theory and then take the action that is the best compromise between those theories. As we have seen, many plausible theories agree that improving the long-term future is of great moral importance. Therefore, unless one can be extremely confident in standard person-affecting views, it would seem prudent to pay heed to this conclusion and take significant steps to safeguard our future.[^61]
 
-## Conclusion 
+## Conclusion
 
 Our actions affect the quality, quantity, and identity of future lives. Population ethics deals with the thorny moral issues arising from such effects on future generations.
 
@@ -262,286 +260,201 @@ The next chapter discusses the most important implications of utilitarianism for
 
 {{< button >}}
 
-
 ## Resources and Further Reading
-
 
 ### Introduction to Population Ethics
 
-* Hilary Greaves (2017). [Population Axiology](https://onlinelibrary.wiley.com/doi/abs/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
-
+- Hilary Greaves (2017). [Population Axiology](https://onlinelibrary.wiley.com/doi/abs/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
 
 ### General Discussions of Population Ethics
 
-* Gustaf Arrhenius (2000). [Future Generations: A Challenge for Moral Theory](http://www.diva-portal.org/smash/get/diva2:170236/FULLTEXT01.pdf). PhD Dissertation, Uppsala University.
-* Richard Yetter Chappell (2021). Section 7: Population Ethics, _[Parfit's Ethics](https://philpapers.org/rec/CHAPE-5)_. Cambridge: Cambridge University Press.
-* Derek Parfit (1984). Part Four: Future Generations, _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Clarendon Press.
+- Gustaf Arrhenius (2000). [Future Generations: A Challenge for Moral Theory](http://www.diva-portal.org/smash/get/diva2:170236/FULLTEXT01.pdf). PhD Dissertation, Uppsala University.
+- Richard Yetter Chappell (2021). Section 7: Population Ethics, _[Parfit's Ethics](https://philpapers.org/rec/CHAPE-5)_. Cambridge: Cambridge University Press.
+- Derek Parfit (1984). Part Four: Future Generations, _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Clarendon Press.
 
 ### The Total View and Repugnant Conclusion
 
-* Gustaf Arrhenius, Jesper Ryberg, & Torbjörn Tännsjö (2017). [The Repugnant Conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
-* Johan E. Gustafsson (forthcoming). [Our Intuitive Grasp of the Repugnant Conclusion](http://johanegustafsson.net/papers/our-intuitive-grasp-of-the-repugnant-conclusion.pdf). In Krister Bykvist and Timothy Campbell (eds.), _The Oxford Handbook of Population Ethics_. Oxford: Oxford University Press.
-* Spears, D. & Budolfson, M. (2021). [Repugnant conclusions](https://doi.org/10.1007/s00355-021-01321-2). _Social Choice and Welfare_. 28.
-* Michael Huemer (2008). [In Defence of Repugnance](https://doi.org/10.1093/mind/fzn079). _Mind_. 117(468): 899–933.
-* Torbjörn Tännsjö (2002). [Why We Ought to Accept the Repugnant Conclusion](https://www.cambridge.org/core/journals/utilitas/article/why-we-ought-to-accept-the-repugnant-conclusion/F60DB3A1B9CA4460650EA5DF9AA0540D). _Utilitas_. 14(3): 339–359.
+- Gustaf Arrhenius, Jesper Ryberg, & Torbjörn Tännsjö (2017). [The Repugnant Conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Johan E. Gustafsson (forthcoming). [Our Intuitive Grasp of the Repugnant Conclusion](http://johanegustafsson.net/papers/our-intuitive-grasp-of-the-repugnant-conclusion.pdf). In Krister Bykvist and Timothy Campbell (eds.), _The Oxford Handbook of Population Ethics_. Oxford: Oxford University Press.
+- Spears, D. & Budolfson, M. (2021). [Repugnant conclusions](https://doi.org/10.1007/s00355-021-01321-2). _Social Choice and Welfare_. 28.
+- Michael Huemer (2008). [In Defence of Repugnance](https://doi.org/10.1093/mind/fzn079). _Mind_. 117(468): 899–933.
+- Torbjörn Tännsjö (2002). [Why We Ought to Accept the Repugnant Conclusion](https://www.cambridge.org/core/journals/utilitas/article/why-we-ought-to-accept-the-repugnant-conclusion/F60DB3A1B9CA4460650EA5DF9AA0540D). _Utilitas_. 14(3): 339–359.
 
-### Variable Value Theories 
+### Variable Value Theories
 
-* Theodore Sider (1991). [Might Theory X be a theory of diminishing marginal value?](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8FF333C386B19DCF121A408F7E29B976?doi=10.1.1.591.8496&rep=rep1&type=pdf) _Analysis_. 51(4): 265–271.
-* Thomas Hurka (1983). [Value and Population Size](https://doi.org/10.1086/292462). _Ethics_. 93(3): 496–507.
+- Theodore Sider (1991). [Might Theory X be a theory of diminishing marginal value?](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8FF333C386B19DCF121A408F7E29B976?doi=10.1.1.591.8496&rep=rep1&type=pdf) _Analysis_. 51(4): 265–271.
+- Thomas Hurka (1983). [Value and Population Size](https://doi.org/10.1086/292462). _Ethics_. 93(3): 496–507.
 
-### Critical Level and Critical Range Theories 
+### Critical Level and Critical Range Theories
 
-* Charles Blackorby, Walter Bossert, & David J. Donaldson (1995). [Intertemporal Population Ethics: Critical-Level Utilitarian Principles](https://doi.org/10.2307/2171771). _Econometrica_, 63(6): 1303–1320.
-* Charles Blackorby, Walter Bossert, & David J. Donaldson (2005). _[Population Issues in Social Choice Theory, Welfare Economics, and Ethics](https://doi.org/10.1017/CCOL0521825512)_. Cambridge: Cambridge University Press.
-* John Broome (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press.
-* Johan Gustafsson (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
+- Charles Blackorby, Walter Bossert, & David J. Donaldson (1995). [Intertemporal Population Ethics: Critical-Level Utilitarian Principles](https://doi.org/10.2307/2171771). _Econometrica_, 63(6): 1303–1320.
+- Charles Blackorby, Walter Bossert, & David J. Donaldson (2005). _[Population Issues in Social Choice Theory, Welfare Economics, and Ethics](https://doi.org/10.1017/CCOL0521825512)_. Cambridge: Cambridge University Press.
+- John Broome (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press.
+- Johan Gustafsson (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
 
 ### Neutrality Intuition
 
-* Jeff McMahan (2013). [Causing People to Exist and Saving People’s Lives](https://doi.org/10.1007/s10892-012-9139-1). _Journal of Ethics_. 17: 5–35.
-* Wlodek Rabinowicz (2009). [Broome and the Intuition of Neutrality](https://dx.doi.org/10.1111/j.1533-6077.2009.00174.x). _Philosophical Issues_. 19(1): 389–411.
-* Kryster Bykvist (2007). [The Benefits of Coming into Existence](https://doi.org/10.1007/s11098-005-3982-x). _Philosophical Studies._ 135(3), 335–362. 
-* John Broome (2005). [Should We Value Population?](https://doi.org/10.1111/j.1467-9760.2005.00230.x). _The Journal of Political Philosophy_. 13(4): 399–413.
-* Elizabeth Harman (2004). [Can We Harm and Benefit in Creating?](https://www.jstor.org/stable/3840929 ). _Philosophical Perspectives_. 18: 89–113.
+- Jeff McMahan (2013). [Causing People to Exist and Saving People’s Lives](https://doi.org/10.1007/s10892-012-9139-1). _Journal of Ethics_. 17: 5–35.
+- Wlodek Rabinowicz (2009). [Broome and the Intuition of Neutrality](https://dx.doi.org/10.1111/j.1533-6077.2009.00174.x). _Philosophical Issues_. 19(1): 389–411.
+- Kryster Bykvist (2007). [The Benefits of Coming into Existence](https://doi.org/10.1007/s11098-005-3982-x). _Philosophical Studies._ 135(3), 335–362.
+- John Broome (2005). [Should We Value Population?](https://doi.org/10.1111/j.1467-9760.2005.00230.x). _The Journal of Political Philosophy_. 13(4): 399–413.
+- Elizabeth Harman (2004). [Can We Harm and Benefit in Creating?](https://www.jstor.org/stable/3840929). _Philosophical Perspectives_. 18: 89–113.
 
 ### Person-Affecting Views and the Asymmetry
 
-* Gustaf Arrhenius (2009). [Can the Person Affecting Restriction Solve the Problems in Population Ethics?](https://doi.org/10.1007/978-1-4020-5697-0_14), in Roberts, M.A., Wasserman, D.T. (eds.) _Harming Future Persons_. International Library of Ethics, Law, and the New Medicine. 35. Springer, Dordrecht.
-* Daniel Cohen (2019). [An Actualist Explanation of the Procreation Asymmetry](https://doi.org/10.1017/S0953820819000293). _Utilitas_. 32(1): 70–89.
-* Johann Frick (2014). _['Making People Happy, Not Making Happy People': A Defense of the Asymmetry Intuition in Population Ethics](http://nrs.harvard.edu/urn-3:HUL.InstRepos:13064981)_. Doctoral dissertation, Harvard University.
-* Caspar Hare (2007). [Voices from Another World: Must We Respect the Interests of People Who Do Not, and Will Never, Exist?](https://doi.org/10.1086/512172). _Ethics_. 117(3): 498–523.
-* Jan Narveson (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1): 62–86.
-* Josh Parsons (2002). [Axiological Actualism](https://doi.org/10.1093/ajp/80.2.137). _Australasian Journal of Philosophy_. 80(2): 137–147.
-* Melinda A. Roberts (2002). [A New Way of Doing the Best That We Can: Person-Based Consequentialism and the Equality Problem](https://doi.org/10.1086/324321). _Ethics_. 112(2): 315–350.
+- Gustaf Arrhenius (2009). [Can the Person Affecting Restriction Solve the Problems in Population Ethics?](https://doi.org/10.1007/978-1-4020-5697-0_14), in Roberts, M.A., Wasserman, D.T. (eds.) _Harming Future Persons_. International Library of Ethics, Law, and the New Medicine. 35. Springer, Dordrecht.
+- Daniel Cohen (2019). [An Actualist Explanation of the Procreation Asymmetry](https://doi.org/10.1017/S0953820819000293). _Utilitas_. 32(1): 70–89.
+- Johann Frick (2014). _['Making People Happy, Not Making Happy People': A Defense of the Asymmetry Intuition in Population Ethics](http://nrs.harvard.edu/urn-3:HUL.InstRepos:13064981)_. Doctoral dissertation, Harvard University.
+- Caspar Hare (2007). [Voices from Another World: Must We Respect the Interests of People Who Do Not, and Will Never, Exist?](https://doi.org/10.1086/512172). _Ethics_. 117(3): 498–523.
+- Jan Narveson (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1): 62–86.
+- Josh Parsons (2002). [Axiological Actualism](https://doi.org/10.1093/ajp/80.2.137). _Australasian Journal of Philosophy_. 80(2): 137–147.
+- Melinda A. Roberts (2002). [A New Way of Doing the Best That We Can: Person-Based Consequentialism and the Equality Problem](https://doi.org/10.1086/324321). _Ethics_. 112(2): 315–350.
 
 ### Practical Implications of Population Ethics
 
-* Toby Ord (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing.
-* David Althaus & Lukas Gloor (2018). [Reducing Risks of Astronomical Suffering: a Neglected Priority](https://longtermrisk.org/reducing-risks-of-astronomical-suffering-a-neglected-priority/). _Center on Long-Term Risk_.
-* Nick Beckstead (2013). [On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM). PhD Dissertation, Rutgers University.
+- Toby Ord (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing.
+- David Althaus & Lukas Gloor (2018). [Reducing Risks of Astronomical Suffering: a Neglected Priority](https://longtermrisk.org/reducing-risks-of-astronomical-suffering-a-neglected-priority/). _Center on Long-Term Risk_.
+- Nick Beckstead (2013). [On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM). PhD Dissertation, Rutgers University.
 
 ### Impossibility Theorems in Population Ethics
 
-* Gustaf Arrhenius (2000). [An Impossibility Theorem for Welfarist Axiologies](https://doi.org/10.1017/S0266267100000249). _Economics and Philosophy_. 16(2): 247–266.
-* Philip Kitcher (2000). [Parfit's Puzzle](https://doi.org/10.1111/0029-4624.00278). _Noûs_. 34(4): 550–577.
-* Erik Carlson (1998). [Mere addition and two trilemmas of population ethics](https://doi.org/10.1017/S0266267100003862). _Economics and Philosophy_. 14(2): 283–306.
-* Yew-Kwang Ng (1989). [What should we do about future generations? Impossibility of Parfit's Theory X](https://doi.org/10.1017/S0266267100002406). _Economics and Philosophy_. 5(2): 235–253.
+- Gustaf Arrhenius (2000). [An Impossibility Theorem for Welfarist Axiologies](https://doi.org/10.1017/S0266267100000249). _Economics and Philosophy_. 16(2): 247–266.
+- Philip Kitcher (2000). [Parfit's Puzzle](https://doi.org/10.1111/0029-4624.00278). _Noûs_. 34(4): 550–577.
+- Erik Carlson (1998). [Mere addition and two trilemmas of population ethics](https://doi.org/10.1017/S0266267100003862). _Economics and Philosophy_. 14(2): 283–306.
+- Yew-Kwang Ng (1989). [What should we do about future generations? Impossibility of Parfit's Theory X](https://doi.org/10.1017/S0266267100002406). _Economics and Philosophy_. 5(2): 235–253.
 
-
-[^1]:
-     When we talk about populations, we mean total populations: not just how many people are alive at a specific time, but consideration of all people across all time.
-
-[^2]:
-
-     Other writers, following Parfit (1984), sometimes speak of a “wide person-affecting view” which allows for (non-instrumental) reasons to add happy lives. For ease of expression, in this article we use “person-affecting” in the more distinctive _narrow_ sense which rejects this idea.
-
-[^3]:
-     Throughout this article, we use the terms “quality of life”, “welfare”, and “wellbeing” interchangeably. These terms are used to describe how well or poorly someone’s entire life goes, not just how well-off someone is at a specific moment in time. Moreover, concepts such as “units of wellbeing” and “wellbeing levels” are simplifications used for illustrative purposes, and they do not imply that we can in practice precisely measure wellbeing.
-
-[^4]:
-     An alternative method is to add up the wellbeing levels of all individuals.
-
-[^5]:
-     The notion of a positive life, which is critical for the total view, only makes sense relative to a zero point on the wellbeing scale. This zero point is the threshold above which life becomes “worth living”. A “neutral life”, at wellbeing level 0, is neither “worth living” nor “not worth living”. This may be either a life with no value or disvalue, or a life with exactly as much value as disvalue. For discussion of the subtleties surrounding the concept of a life “worth living”, see Broome, J. (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press., pp. 66–68.
-
-[^6]:
-     Stronger still: on the total view, it would be intrinsically _better _to create a new person at welfare level 100 than to improve an existing person's wellbeing from level 1 to 100.
-
-[^7]:
-     For an exploration of whether the world is overpopulated or underpopulated, see Ord, T. (2014). [Overpopulation or Underpopulation?](http://amirrorclear.net/files/overpopulation-or-underpopulation.pdf), in Goldin, I. _[Is the World Full?](doi.org/10.1093/acprof:oso/9780199677771.001.0001)_. Oxford: Oxford University Press.
-
+[^1]: When we talk about populations, we mean total populations: not just how many people are alive at a specific time, but consideration of all people across all time.
+[^2]: Other writers, following Parfit (1984), sometimes speak of a “wide person-affecting view” which allows for (non-instrumental) reasons to add happy lives. For ease of expression, in this article we use “person-affecting” in the more distinctive _narrow_ sense which rejects this idea.
+[^3]: Throughout this article, we use the terms “quality of life”, “welfare”, and “wellbeing” interchangeably. These terms are used to describe how well or poorly someone’s entire life goes, not just how well-off someone is at a specific moment in time. Moreover, concepts such as “units of wellbeing” and “wellbeing levels” are simplifications used for illustrative purposes, and they do not imply that we can in practice precisely measure wellbeing.
+[^4]: An alternative method is to add up the wellbeing levels of all individuals.
+[^5]: The notion of a positive life, which is critical for the total view, only makes sense relative to a zero point on the wellbeing scale. This zero point is the threshold above which life becomes “worth living”. A “neutral life”, at wellbeing level 0, is neither “worth living” nor “not worth living”. This may be either a life with no value or disvalue, or a life with exactly as much value as disvalue. For discussion of the subtleties surrounding the concept of a life “worth living”, see Broome, J. (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press., pp. 66–68.
+[^6]: Stronger still: on the total view, it would be intrinsically \_better \_to create a new person at welfare level 100 than to improve an existing person's wellbeing from level 1 to 100.
+[^7]: For an exploration of whether the world is overpopulated or underpopulated, see Ord, T. (2014). [Overpopulation or Underpopulation?](http://amirrorclear.net/files/overpopulation-or-underpopulation.pdf), in Goldin, I. _[Is the World Full?](doi.org/10.1093/acprof:oso/9780199677771.001.0001)_. Oxford: Oxford University Press.
 [^8]:
-     Reducing existential risk is a priority not just for the total view but for a wide variety of moral views. However, for the total view there is an especially large amount of value at stake with preserving the long-term flourishing of civilization. 
+    Reducing existential risk is a priority not just for the total view but for a wide variety of moral views. However, for the total view there is an especially large amount of value at stake with preserving the long-term flourishing of civilization.
     Cf. Ord, T. (2020). Chapter 2: Existential Risk, in _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
 
 [^9]:
-     While Parfit deserves credit for raising the philosophical debate around the repugnant conclusion, arguably Henry Sidgwick noticed it much earlier, writing that “the point up to which, on utilitarian principles, population ought to be encouraged to increase, is not that at which the average happiness is the greatest possible (...) but that at which the happiness reaches its maximum”.
+    While Parfit deserves credit for raising the philosophical debate around the repugnant conclusion, arguably Henry Sidgwick noticed it much earlier, writing that “the point up to which, on utilitarian principles, population ought to be encouraged to increase, is not that at which the average happiness is the greatest possible (...) but that at which the happiness reaches its maximum”.
     Sidgwick, H. (1907). _[The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf)_, 7th edition. London: Macmillan., p. 418
 
 [^10]:
-     This formulation is taken from Greaves, H. (2017). [Population Axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12(11). Parfit’s longer original formulation was as follows: “For any possible population of at least ten billion people, all with a very high quality of life, there must be some much larger imaginable population whose existence, if other things are equal, would be better even though its members have lives that are barely worth living.” 
+    This formulation is taken from Greaves, H. (2017). [Population Axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12(11). Parfit’s longer original formulation was as follows: “For any possible population of at least ten billion people, all with a very high quality of life, there must be some much larger imaginable population whose existence, if other things are equal, would be better even though its members have lives that are barely worth living.”
     Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press., p. 342
 
-[^11]:
-     Geir Asheim et al. (2021). [What Should We Agree on about the Repugnant Conclusion?](https://doi.org/10.1017/S095382082100011X). _Utilitas_. 1–5.
-
+[^11]: Geir Asheim et al. (2021). [What Should We Agree on about the Repugnant Conclusion?](https://doi.org/10.1017/S095382082100011X). _Utilitas_. 1–5.
 [^12]:
-     Broome, J. (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press.
+    Broome, J. (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press.
     Huemer, M. (2008). [In Defence of Repugnance](https://doi.org/10.1093/mind/fzn079). _Mind_. 117(468): 899–933.
     Gustafsson, J. (Forthcoming). Our Intuitive Grasp of the Repugnant Conclusion, in _The Oxford Handbook of Population Ethics_. Oxford: Oxford University Press.
 
 [^13]:
-     Ryberg, J. (1996). [Is the Repugnant Conclusion Repugnant?](https://doi.org/10.1080/05568649609506547). _Philosophical Papers_, 25: 161–177.
+    Ryberg, J. (1996). [Is the Repugnant Conclusion Repugnant?](https://doi.org/10.1080/05568649609506547). _Philosophical Papers_, 25: 161–177.
     Tännsjö, T. (1992). [Who are the Beneficiaries?](https://doi.org/10.1111/j.1467-8519.1992.tb00207.x). _Bioethics_, 6(4): 288–296.
     Mackie, J. L. (1985). Parfit’s Population Paradox, in J. Mackie & P. Mackie (eds.) _[Persons and Values](https://philpapers.org/rec/MACPAV)_. Oxford: Oxford University Press.
 
-[^14]:
-     This was how Parfit sometimes characterized the “repugnant” world Z, for example in his (1986) [Overpopulation and the Quality of Life](https://philarchive.org/rec/PAROAT-4). In Peter Singer (ed.), _Applied Ethics_. Oxford: Oxford University Press.
-
-[^15]:
-     Hutchinson, M. (2014). _The Ethics of Extending and Creating Life_. Unpublished DPhil dissertation, University of Oxford.
-
+[^14]: This was how Parfit sometimes characterized the “repugnant” world Z, for example in his (1986) [Overpopulation and the Quality of Life](https://philarchive.org/rec/PAROAT-4). In Peter Singer (ed.), _Applied Ethics_. Oxford: Oxford University Press.
+[^15]: Hutchinson, M. (2014). _The Ethics of Extending and Creating Life_. Unpublished DPhil dissertation, University of Oxford.
 [^16]:
-     Tännsjö, T. (2002). [Why We Ought to Accept the Repugnant Conclusion](https://doi.org/10.1017/S0953820800003642). _Utilitas_, 14(3): 339–59.
+    Tännsjö, T. (2002). [Why We Ought to Accept the Repugnant Conclusion](https://doi.org/10.1017/S0953820800003642). _Utilitas_, 14(3): 339–59.
     Huemer, M. (2008). [In Defence of Repugnance](https://doi.org/10.1093/mind/fzn079). _Mind_. 117(468): 899–933.
 
-[^17]:
-     Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press. Chapter 19.
-
-[^18]:
-     At least on standard assumptions. As we will see below, this no longer follows if, in addition to the standard trichotomy of value relations (being _greater than_, _lesser than_, and _precisely equal_), there is a fourth relation of being _on a par_. For then, B might be better than A+, while _both_ A+ and B are merely on a par with A.
-
+[^17]: Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press. Chapter 19.
+[^18]: At least on standard assumptions. As we will see below, this no longer follows if, in addition to the standard trichotomy of value relations (being _greater than_, _lesser than_, and _precisely equal_), there is a fourth relation of being _on a par_. For then, B might be better than A+, while _both_ A+ and B are merely on a par with A.
 [^19]:
-     Spears, D. & Budolfson, M. (2021). [Repugnant conclusions](https://doi.org/10.1007/s00355-021-01321-2). _Social Choice and Welfare_. 28.
+    Spears, D. & Budolfson, M. (2021). [Repugnant conclusions](https://doi.org/10.1007/s00355-021-01321-2). _Social Choice and Welfare_. 28.
     Spears, D. & Budolfson, M. (2018). [Why the Repugnant Conclusion is Inescapable](https://scholar.princeton.edu/sites/default/files/cfi/files/budolfson_spears_2018_repugnant_cfi.pdf). _Princeton University Climate Futures Initiative working paper_.
 
-[^20]:
-     To see how this applies to the _average view_, for example, just suppose that we have a base population that contains immense suffering. Adding a vast population of barely-positive lives may then do more to bring up the average than a moderate number of excellent lives would.
-
-[^21]:
-     Spears, D. & Budolfson, M. (2021). [Repugnant conclusions](https://doi.org/10.1007/s00355-021-01321-2). _Social Choice and Welfare_. 28.
-
+[^20]: To see how this applies to the _average view_, for example, just suppose that we have a base population that contains immense suffering. Adding a vast population of barely-positive lives may then do more to bring up the average than a moderate number of excellent lives would.
+[^21]: Spears, D. & Budolfson, M. (2021). [Repugnant conclusions](https://doi.org/10.1007/s00355-021-01321-2). _Social Choice and Welfare_. 28.
 [^22]:
-     Gustaf Arrhenius (2000). [An Impossibility Theorem for Welfarist Axiologies](https://doi.org/10.1017/S0266267100000249). _Economics and Philosophy_. 16(2), 247–266.
+    Gustaf Arrhenius (2000). [An Impossibility Theorem for Welfarist Axiologies](https://doi.org/10.1017/S0266267100000249). _Economics and Philosophy_. 16(2), 247–266.
     Gustaf Arrhenius (2011). [The Impossibility of a Satisfactory Population Ethics](https://doi.org/10.1142/9789814368018_0001). In Ehtibar N. Dzhafarov and Lacey Perry (eds.), _Descriptive and Normative Approaches to Human Behavior_. Singapore: World Scientific Publishing Co. 1–26.
     Philip Kitcher (2000). [Parfit's Puzzle](https://doi.org/10.1111/0029-4624.00278). _Noûs_. 34(4), 550–577.
     Erik Carlson (1998). [Mere Addition and Two Trilemmas of Population Ethics](https://doi.org/10.1017/S0266267100003862). _Economics and Philosophy_. 14(2), 283–306.
     Yew-Kwang Ng (1989). [What Should We Do About Future Generations? Impossibility of Parfit's Theory X](https://doi.org/10.1017/S0266267100002406). _Economics and Philosophy_. 5(2), 235–253.
 
-[^23]:
-     Greaves, H. (2017). [Population Axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
-
+[^23]: Greaves, H. (2017). [Population Axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
 [^24]:
-     E.g. Tännsjö, T. (2002). [Why We Ought to Accept the Repugnant Conclusion](https://doi.org/10.1017/S0953820800003642). _Utilitas_, 14(3): 339–59.
+    E.g. Tännsjö, T. (2002). [Why We Ought to Accept the Repugnant Conclusion](https://doi.org/10.1017/S0953820800003642). _Utilitas_, 14(3): 339–59.
     Huemer, M. (2008). [In Defence of Repugnance](https://doi.org/10.1093/mind/fzn079). _Mind_. 117(468): 899–933.
 
-[^25]:
-     Note that the average and total views _always _agree on the ranking of outcomes when these outcomes contain the same number of individuals. In such cases, both theories are said to be “extensionally equivalent”.
-
-[^26]:
-     This is a variation on the _Hell Three_ case from Parfit (1984), p. 422.
-
+[^25]: Note that the average and total views \_always \_agree on the ranking of outcomes when these outcomes contain the same number of individuals. In such cases, both theories are said to be “extensionally equivalent”.
+[^26]: This is a variation on the _Hell Three_ case from Parfit (1984), p. 422.
 [^27]:
-     Definition adapted from Arrhenius, G. (2000). [An Impossibility Theorem for Welfarist Axiologies](https://doi.org/10.1017/S0266267100000249). _Economics and Philosophy_. 16(2): 247–266.
+    Definition adapted from Arrhenius, G. (2000). [An Impossibility Theorem for Welfarist Axiologies](https://doi.org/10.1017/S0266267100000249). _Economics and Philosophy_. 16(2): 247–266.
     Note that this label is misleading. Whereas the previous objection noted how the average view sometimes favours the addition of miserable lives (which does seem sadistic), the so-called "sadistic conclusion" instead objects to the claim that adding a small number of negative-welfare lives may be _less bad_ than adding a vast number of moderately-positive ones to an otherwise very happy world. Insofar as this comparative judgment stems from evaluating (some) positive-welfare lives negatively, rather than negative-welfare lives positively, the "sadism" label seems a misnomer.
 
 [^28]:
-     Where **f** is is a strictly increasing and strictly concave function with a horizontal asymptote. That is, as N increases, **f(N)** increases at a diminishing pace, and never surpasses a certain limit. 
+    Where **f** is is a strictly increasing and strictly concave function with a horizontal asymptote. That is, as N increases, **f(N)** increases at a diminishing pace, and never surpasses a certain limit.
     Cf. Hurka, T. (1983). [Value and Population Size](https://doi.org/10.1086/292462). _Ethics_. 93(3): 496–507;
     Ng, Y.-k. (1989). [What Should We Do About Future Generations?](https://doi.org/10.1017/S0266267100002406). _Economics and Philosophy_. 5(2): 235–253.
 
-[^29]:
-     Greaves, H. (2017). [Population Axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
-
+[^29]: Greaves, H. (2017). [Population Axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
 [^30]:
-     They may avoid the repugnant conclusion since the total value of a population is subject to an upper limit if the value of additional lives diminishes asymptotically.
+    They may avoid the repugnant conclusion since the total value of a population is subject to an upper limit if the value of additional lives diminishes asymptotically.
     Cf. Greaves, H. (2017). [Population Axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
 
-[^31]:
-     Parfit, D. (1984). Chapter 18: The Absurd Conclusion, in _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press.
-
-[^32]:
-     Consider a good world with one billion happy people and a single miserable person. Imagine we repeatedly increase the numbers of happy and miserable people by the same factor—ten billion happy people and ten miserable people; one hundred billion happy people and one hundred miserable people, etc. For a sufficiently large population, every time we increase its size in this way, the world gets worse (according to these asymmetric theories) until we eventually reach an overall bad world.
-
-[^33]:
-     For one such attempt, see section 7.2.2 of Chappell, R.Y. (2021). _[Parfit's Ethics](https://philpapers.org/rec/CHAPE-5)_. Cambridge: Cambridge University Press. Note that the book's author, Professor Richard Yetter Chappell, is a coauthor of this website.
-
-[^34]:
-     The critical level is generally assumed to be non-negative, that is either positive or zero. A negative critical level would implausibly attribute positive value to (some) negative lives.
-
-[^35]:
-     Cf. Broome, J. (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press., p. 213–214.
-
+[^31]: Parfit, D. (1984). Chapter 18: The Absurd Conclusion, in _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press.
+[^32]: Consider a good world with one billion happy people and a single miserable person. Imagine we repeatedly increase the numbers of happy and miserable people by the same factor—ten billion happy people and ten miserable people; one hundred billion happy people and one hundred miserable people, etc. For a sufficiently large population, every time we increase its size in this way, the world gets worse (according to these asymmetric theories) until we eventually reach an overall bad world.
+[^33]: For one such attempt, see section 7.2.2 of Chappell, R.Y. (2021). _[Parfit's Ethics](https://philpapers.org/rec/CHAPE-5)_. Cambridge: Cambridge University Press. Note that the book's author, Professor Richard Yetter Chappell, is a coauthor of this website.
+[^34]: The critical level is generally assumed to be non-negative, that is either positive or zero. A negative critical level would implausibly attribute positive value to (some) negative lives.
+[^35]: Cf. Broome, J. (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press., p. 213–214.
 [^36]:
-     Blackorby, C., Bossert, W. and Donaldson, D. (1996). [Quasi-Orderings and Population Ethics](https://doi.org/10.1007/BF00183348). _Social Choice and Welfare_, 13 (2): 129–50.
+    Blackorby, C., Bossert, W. and Donaldson, D. (1996). [Quasi-Orderings and Population Ethics](https://doi.org/10.1007/BF00183348). _Social Choice and Welfare_, 13 (2): 129–50.
     Rabinowicz, W. (2009). [Broome and the Intuition of Neutrality](https://dx.doi.org/10.1111/j.1533-6077.2009.00174.x)._ Philosophical Issues_, 19 (1): 389–411.
-Gustafsson, J. (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
-
-[^37]:
-     While philosophers do not typically use this colloquial term, it may be helpful to imagine someone who, when asked whether the world is improved by adding a barely-worth-living life, shrugs their shoulders and responds, “meh”.
-
-[^38]:
-     Cf. Chang, R. (2002). [The possibility of parity](https://dx.doi.org/10.1086/339673). _Ethics_, 112 (4): 659–688.
-
-[^39]:
-     One may, for example, get this result by thinking of the critical range as representing a range within which it is _indeterminate where the critical level lies_. Or one may consider it a range of_ reasonable pluralism_, such that one could permissibly treat any point in this range as the critical level when forming personal preferences about which lives to add (or not) to the world. On either approach, we can then _supervaluate_, and hold that population X is (truly, determinately, or objectively) better than Y just if this evaluation would follow from _all_ critical level theories where the critical level falls within the specified range.
-
-[^40]:
-     Gustafsson develops a view along these lines, though with different terminology than we use here (e.g. using "undistinguishedness" in place of "value blur"). See:
-Gustafsson, J. (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
-
-[^41]:
-     The following illustration is adapted from p.92 of Gustafsson, J. (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
-
-[^42]:
-     This may prove especially problematic if the critical range is symmetric, such that slightly negative lives also qualify as meh (rather than bad). Most would think the idyllic world A should be strictly better than a world "Z-" containing a vast number of slightly negative lives, but symmetric critical range theories will struggle to deliver this verdict. Cf. Gustafsson (2020), p. 95, who claims that this is not a terrible bullet to bite if the personal/wellbeing value of such a life is also blurry, and so “meh” (in our terminology) rather than bad _for the person living it_.
     Gustafsson, J. (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
 
-[^43]:
-     Here we use the term “impersonal” simply to contrast with the (narrow) person-affecting view. So even an impersonal theory (on our usage) can take the value of a state of affairs to be grounded in facts about what is good for particular people, e.g. if one holds that a happy existence can constitute a non-comparative benefit, parallel to how a miserable existence constitutes a non-comparative harm.
+[^37]: While philosophers do not typically use this colloquial term, it may be helpful to imagine someone who, when asked whether the world is improved by adding a barely-worth-living life, shrugs their shoulders and responds, “meh”.
+[^38]: Cf. Chang, R. (2002). [The possibility of parity](https://dx.doi.org/10.1086/339673). _Ethics_, 112 (4): 659–688.
+[^39]: One may, for example, get this result by thinking of the critical range as representing a range within which it is _indeterminate where the critical level lies_. Or one may consider it a range of* reasonable pluralism*, such that one could permissibly treat any point in this range as the critical level when forming personal preferences about which lives to add (or not) to the world. On either approach, we can then _supervaluate_, and hold that population X is (truly, determinately, or objectively) better than Y just if this evaluation would follow from _all_ critical level theories where the critical level falls within the specified range.
+[^40]:
+    Gustafsson develops a view along these lines, though with different terminology than we use here (e.g. using "undistinguishedness" in place of "value blur"). See:
+    Gustafsson, J. (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
 
+[^41]: The following illustration is adapted from p.92 of Gustafsson, J. (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
+[^42]:
+    This may prove especially problematic if the critical range is symmetric, such that slightly negative lives also qualify as meh (rather than bad). Most would think the idyllic world A should be strictly better than a world "Z-" containing a vast number of slightly negative lives, but symmetric critical range theories will struggle to deliver this verdict. Cf. Gustafsson (2020), p. 95, who claims that this is not a terrible bullet to bite if the personal/wellbeing value of such a life is also blurry, and so “meh” (in our terminology) rather than bad _for the person living it_.
+    Gustafsson, J. (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
+
+[^43]: Here we use the term “impersonal” simply to contrast with the (narrow) person-affecting view. So even an impersonal theory (on our usage) can take the value of a state of affairs to be grounded in facts about what is good for particular people, e.g. if one holds that a happy existence can constitute a non-comparative benefit, parallel to how a miserable existence constitutes a non-comparative harm.
 [^44]:
-     The critical range theories we have discussed are more difficult to capture in a numerical formula. But if we put aside any lives that fall within the critical range, we might approximate the remaining overall value by separately summing the positive and negative welfare levels, to the extent that they exceed their respective ends of the critical range. So, using positive and negative subscripts to denote the respective numbers, averages, and critical boundary points for these two subpopulations, we can write the value function as: <strong>N<sub>+</sub> * (Q<sub>+</sub> - α<sub>+</sub>) + N<sub>-</sub> * (Q<sub>-</sub> - α<sub>-</sub>)</strong>.
+    The critical range theories we have discussed are more difficult to capture in a numerical formula. But if we put aside any lives that fall within the critical range, we might approximate the remaining overall value by separately summing the positive and negative welfare levels, to the extent that they exceed their respective ends of the critical range. So, using positive and negative subscripts to denote the respective numbers, averages, and critical boundary points for these two subpopulations, we can write the value function as: <strong>N<sub>+</sub> _ (Q<sub>+</sub> - α<sub>+</sub>) + N<sub>-</sub> _ (Q<sub>-</sub> - α<sub>-</sub>)</strong>.
 
-    Alternatively, we might think of the value of the world as itself indeterminate or corresponding to a numerical range, as given by all the possible critical level theories corresponding to the critical range, i.e.: everything from <strong>N * (Q - α<sub>-</sub>) </strong>to <strong>N * (Q - α<sub>+</sub>)</strong>.  On this approach, the value of the repugnant world Z, for example, would be indeterminate across an immense range of values stemming from <em>extremely negative</em> to <em>extremely positive</em>, because <strong>N</strong> is unimaginably huge whereas the sign of <strong>(Q - α)</strong> is indeterminate, given the range of candidate critical levels <strong>α</strong>.
+    Alternatively, we might think of the value of the world as itself indeterminate or corresponding to a numerical range, as given by all the possible critical level theories corresponding to the critical range, i.e.: everything from <strong>N _ (Q - α<sub>-</sub>) </strong>to <strong>N _ (Q - α<sub>+</sub>)</strong>. On this approach, the value of the repugnant world Z, for example, would be indeterminate across an immense range of values stemming from <em>extremely negative</em> to <em>extremely positive</em>, because <strong>N</strong> is unimaginably huge whereas the sign of <strong>(Q - α)</strong> is indeterminate, given the range of candidate critical levels <strong>α</strong>.
 
-[^45]:
-     On the total view, adding a person with positive wellbeing is always good, all else equal. The same is true for variable value theories, though for a large pre-existing population the marginal value of an additional life being added may be low. On the average view, adding a person is good, other things being equal, if the person’s wellbeing exceeds the existing average; similarly, it is good on critical level (and range) theories, if the person’s wellbeing exceeds the critical level (or range).
-
-[^46]:
-     Narveson, J. (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1), 62–86., p. 80
-
+[^45]: On the total view, adding a person with positive wellbeing is always good, all else equal. The same is true for variable value theories, though for a large pre-existing population the marginal value of an additional life being added may be low. On the average view, adding a person is good, other things being equal, if the person’s wellbeing exceeds the existing average; similarly, it is good on critical level (and range) theories, if the person’s wellbeing exceeds the critical level (or range).
+[^46]: Narveson, J. (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1), 62–86., p. 80
 [^47]:
-     For instance, see Narveson, J. (1967). [Utilitarianism and New Generations](https://www.jstor.org/stable/2252027). _Mind_. 76(301): 62–72.
+    For instance, see Narveson, J. (1967). [Utilitarianism and New Generations](https://www.jstor.org/stable/2252027). _Mind_. 76(301): 62–72.
     Narveson, J. (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1), 62–86.
     Roberts, M.A. (2002). [A New Way of Doing the Best That We Can: Person-based Consequentialism and the Equality Problem](https://doi.org/10.1086/324321). _Ethics_. 112(2): 315–350.
     Roberts, M.A. (2004). [Person-Based Consequentialism and the Procreation Obligation](https://doi.org/10.1007/978-1-4020-2473-3_7), in J. Ryberg and T. Tännsjö (eds.) _The Repugnant Conclusion_. Library Of Ethics And Applied Philosophy. 15, 99–128.
 
-[^48]:
-     At least, it cannot be better or worse in terms of wellbeing.
-
+[^48]: At least, it cannot be better or worse in terms of wellbeing.
 [^49]:
-     Cf. Arrhenius, G. (2000). Chapter 8, [Future Generations: A Challenge for Moral Theory](http://uu.diva-portal.org/smash/get/diva2:170236/FULLTEXT01). PhD thesis, Uppsala;
+    Cf. Arrhenius, G. (2000). Chapter 8, [Future Generations: A Challenge for Moral Theory](http://uu.diva-portal.org/smash/get/diva2:170236/FULLTEXT01). PhD thesis, Uppsala;
     Heyd, D. (1988). [Procreation and Value: Can Ethics Deal With Futurity Problems?](https://doi.org/10.1007/BF02380074). _Philosophia_, 18: 151–170.
 
-[^50]:
-     Cf. Parfit's “wretched child” case. Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press., p. 391
-
-[^51]:
-     Though one of the coauthors of this website (Richard Yetter Chappell) has argued elsewhere that “it is thought to be ‘intuitive’ primarily because it has been implicitly confused with other, more plausible theses.” See Chappell, R.Y. (2017). [Rethinking the Asymmetry](https://doi.org/10.1080/00455091.2016.1250203). _Canadian Journal of Philosophy_ 47 (2):167-177.
-
-[^52]:
-     McMahan, J. (2009). [Asymmetries in the Morality of Causing People to Exist](https://doi.org/10.1007/978-1-4020-5697-0_3). In David Wasserman and Melinda Roberts (eds.), _Harming Future Persons_. Springer.
-
-[^53]:
-     Case description adapted from Beckstead, N. (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM)_. PhD Dissertation, Rutgers University.
-
-[^54]:
-     A major challenge for such a view would be to explain how to render this value blur compatible with the asymmetry, so that miserable lives are appropriately recognized as bad (not merely meh).
-
-[^55]:
-     Ord, T. (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing. See especially note 25 of the Appendices.
-
+[^50]: Cf. Parfit's “wretched child” case. Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press., p. 391
+[^51]: Though one of the coauthors of this website (Richard Yetter Chappell) has argued elsewhere that “it is thought to be ‘intuitive’ primarily because it has been implicitly confused with other, more plausible theses.” See Chappell, R.Y. (2017). [Rethinking the Asymmetry](https://doi.org/10.1080/00455091.2016.1250203). _Canadian Journal of Philosophy_ 47 (2):167-177.
+[^52]: McMahan, J. (2009). [Asymmetries in the Morality of Causing People to Exist](https://doi.org/10.1007/978-1-4020-5697-0_3). In David Wasserman and Melinda Roberts (eds.), _Harming Future Persons_. Springer.
+[^53]: Case description adapted from Beckstead, N. (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM)_. PhD Dissertation, Rutgers University.
+[^54]: A major challenge for such a view would be to explain how to render this value blur compatible with the asymmetry, so that miserable lives are appropriately recognized as bad (not merely meh).
+[^55]: Ord, T. (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing. See especially note 25 of the Appendices.
 [^56]:
-     In addition to existential risk reduction, another promising strategy to improve the long-term future is “moral circle expansion”: increasing the moral concern for members of some outlying groups to include, ideally, all sentient beings.
-    Anthis, J. & Paez, E. (2021). [Moral circle expansion: A promising strategy to impact the far future](https://doi.org/10.1016/j.futures.2021.102756 ). _Futures_, 130.
+    In addition to existential risk reduction, another promising strategy to improve the long-term future is “moral circle expansion”: increasing the moral concern for members of some outlying groups to include, ideally, all sentient beings.
+    Anthis, J. & Paez, E. (2021). [Moral circle expansion: A promising strategy to impact the far future](https://doi.org/10.1016/j.futures.2021.102756). _Futures_, 130.
 
-[^57]:
-     This assumption is plausible: with continued technological, social, and moral progress, the average quality of life in the future will likely increase further, as it has for hundreds of years. Only an implausibly high critical level—on which even the value of the average life in the present generation is negative—may render invalid the conclusion that existential risk reduction should be a priority.
-
-[^58]:
-     Although the suffering on factory farms might mean that our generation is driving _down_ the average wellbeing among sentient creatures who have yet existed. But technological improvements, particularly the development of [cultivated meat](https://gfi.org/science/the-science-of-cultivated-meat/) and other animal product alternatives, could render factory farming a temporary phenomenon.
-
-[^59]:
-     If what counts as a “large” population is much greater than the current population, this further increases the importance assigned by variable values theories to avoiding existential risks since they approximate the total view for small populations.
-
+[^57]: This assumption is plausible: with continued technological, social, and moral progress, the average quality of life in the future will likely increase further, as it has for hundreds of years. Only an implausibly high critical level—on which even the value of the average life in the present generation is negative—may render invalid the conclusion that existential risk reduction should be a priority.
+[^58]: Although the suffering on factory farms might mean that our generation is driving _down_ the average wellbeing among sentient creatures who have yet existed. But technological improvements, particularly the development of [cultivated meat](https://gfi.org/science/the-science-of-cultivated-meat/) and other animal product alternatives, could render factory farming a temporary phenomenon.
+[^59]: If what counts as a “large” population is much greater than the current population, this further increases the importance assigned by variable values theories to avoiding existential risks since they approximate the total view for small populations.
 [^60]:
-     For instance, Althaus & Gloor (2018) argue that reducing risks of astronomical future suffering should be an ethical priority.
+    For instance, Althaus & Gloor (2018) argue that reducing risks of astronomical future suffering should be an ethical priority.
     Althaus, D. & Gloor, L. (2018). [Reducing Risks of Astronomical Suffering: a Neglected Priority](https://longtermrisk.org/reducing-risks-of-astronomical-suffering-a-neglected-priority/). _Center on Long-Term Risk_.
 
 [^61]:
-     Hilary Greaves and Toby Ord argue that (given a plausible approach for dealing with moral uncertainty), as the expected number of future lives grows, this “systematically pushes one toward choosing the option preferred by the Total View and critical-level views, even if one’s credence in those theories is low”. 
+    Hilary Greaves and Toby Ord argue that (given a plausible approach for dealing with moral uncertainty), as the expected number of future lives grows, this “systematically pushes one toward choosing the option preferred by the Total View and critical-level views, even if one’s credence in those theories is low”.
     Greaves, H. & Ord, T. (2017). [Moral Uncertainty About Population Axiology](https://doi.org/10.26556/jesp.v12i2.223). _Journal of Ethics and Social Philosophy_. 12(2).
     See also, MacAskill, W., Bykvist, K., & Ord, T. (2020). Chapter 8, Practical Ethics Given Moral Uncertainty, in _[Moral Uncertainty](https://www.moraluncertainty.com/)_. Oxford: Oxford University Press.
     Ord, T. (2020). Appendix B: Population Ethics and Existential Risk, in _[The Precipice: Existential Risks and the Future of Humanity](https://theprecipice.com/)_. Hachette Books: New York.

@@ -3,9 +3,9 @@
 
   <ol>
     {{ range .Site.Menus.main.Sort.ByWeight }}
-    <li>
-      <a href="{{ .URL }}">{{ .Title }}</a>
-    </li>
+      <li>
+        <a href="{{ .URL }}">{{ .Title }}</a>
+      </li>
     {{ end }}
   </ol>
 

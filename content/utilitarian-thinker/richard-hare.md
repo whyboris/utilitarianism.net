@@ -68,27 +68,27 @@ What Hare has given us is not a solution to the world’s problems but a set of 
 
 ## Representative Works of Richard M. Hare
 
-* Hare, R. M. (1952). _[The Language of Morals](http://doi.org/10.1093/0198810776.001.0001)_. Oxford: Clarendon Press.
-* Hare, R. M. (1963). _[Freedom and Reason](http://doi.org/10.1093/019881092X.001.0001)_. Oxford: Clarendon Press.
-* Hare, R. M. (1981). _[Moral Thinking: Its Levels, Method, and Point](http://doi.org/10.1093/0198246609.001.0001)_. Oxford: Oxford University Press.
-* Hare, R. M. (1982), [Ethical Theory and Utilitarianism](https://doi.org/10.1017/CBO9780511611964.003), in Sen, A.; Williams, B. (eds.), _Utilitarianism and Beyond_. Cambridge: Cambridge University Press, pp. 22–38.
-* Hare, R. M. (1989). _[Essays in Ethical Theory](https://philpapers.org/rec/HAREIE-3)_. Oxford: Oxford University Press.
-* Hare, R. M. (1989). _[Essays on Political Morality](https://global.oup.com/academic/product/essays-on-political-morality-9780198249948)_. Oxford: Oxford University Press.
-* Hare, R. M. (1992). _[Essays on Religion and Education](https://global.oup.com/academic/product/essays-on-religion-and-education-9780198249979)_. Oxford: Oxford University Press.
-* Hare, R. M. (1997). _[Sorting Out Ethics](http://doi.org/10.1093/0198250320.001.0001)_. Oxford: Oxford University Press.
+- Hare, R. M. (1952). _[The Language of Morals](http://doi.org/10.1093/0198810776.001.0001)_. Oxford: Clarendon Press.
+- Hare, R. M. (1963). _[Freedom and Reason](http://doi.org/10.1093/019881092X.001.0001)_. Oxford: Clarendon Press.
+- Hare, R. M. (1981). _[Moral Thinking: Its Levels, Method, and Point](http://doi.org/10.1093/0198246609.001.0001)_. Oxford: Oxford University Press.
+- Hare, R. M. (1982), [Ethical Theory and Utilitarianism](https://doi.org/10.1017/CBO9780511611964.003), in Sen, A.; Williams, B. (eds.), _Utilitarianism and Beyond_. Cambridge: Cambridge University Press, pp. 22–38.
+- Hare, R. M. (1989). _[Essays in Ethical Theory](https://philpapers.org/rec/HAREIE-3)_. Oxford: Oxford University Press.
+- Hare, R. M. (1989). _[Essays on Political Morality](https://global.oup.com/academic/product/essays-on-political-morality-9780198249948)_. Oxford: Oxford University Press.
+- Hare, R. M. (1992). _[Essays on Religion and Education](https://global.oup.com/academic/product/essays-on-religion-and-education-9780198249979)_. Oxford: Oxford University Press.
+- Hare, R. M. (1997). _[Sorting Out Ethics](http://doi.org/10.1093/0198250320.001.0001)_. Oxford: Oxford University Press.
 
 ## Resources on Richard M. Hare’s Life and Work
 
-* Price, A. (2019). [Richard Mervyn Hare](https://plato.stanford.edu/entries/hare). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
-* Singer, P. (2002). [R. M. Hare's Achievements in Moral Philosophy](https://doi.org/10.1017/S0953820800003629). _Utilitas_, 14(3), 309-317.
-* [R. M. Hare](https://web.archive.org/web/20210314180836/https://www.utilitarian.net/hare/) resources page containing Hare's writings, secondary literature, reviews, obituaries and a bibliography [archive]
+- Price, A. (2019). [Richard Mervyn Hare](https://plato.stanford.edu/entries/hare). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
+- Singer, P. (2002). [R. M. Hare's Achievements in Moral Philosophy](https://doi.org/10.1017/S0953820800003629). _Utilitas_, 14(3), 309-317.
+- [R. M. Hare](https://web.archive.org/web/20210314180836/https://www.utilitarian.net/hare/) resources page containing Hare's writings, secondary literature, reviews, obituaries and a bibliography [archive]
 
 ## Prominent Quotes of Richard M. Hare
 
-* “The rules of moral reasoning are, basically, two, corresponding to the two features of moral judgment...When we are trying, in a concrete case, to decide what we ought to do, what we are looking for...is an action to which we can commit ourselves (prescriptively) but which we are at the same time prepared to accept as exemplifying a principle of action to be prescribed for others in like circumstances (universalizability)...[I]f we cannot universalize the principle, it cannot become an ‘ought’.” (Freedom and Reason, pp. 89–90, 1963)
-* “...what the principle of utility requires of me is to do for each man affected by my actions what I wish were done for me in the hypothetical circumstances that I were in precisely his situation; and, if my actions affect more than one man...to do what I wish, all in all, to be done for me in the hypothetical circumstances that I occupied all their situations…” (Ethical Theory and Utilitarianism, p. 26, 1982)
-* “[In the bilateral case]...if I have full knowledge of the other person's preferences, I shall myself have acquired preferences equal to his regarding what should be done to me were I in his situation; and these are the preferences which are now conflicting with my original prescription. So we have in effect not an interpersonal conflict of preferences or prescriptions, but an intrapersonal one; both of the conflicting preferences are mine...Multilateral cases now present less difficulty than at first appeared. For in them too the interpersonal conflicts...will reduce themselves, given full knowledge of the preferences of others, to intrapersonal ones.” (Moral Thinking, p. 110, 1981)
-* “It is said that the prescription to keep all black people in subjection is formally universal, and internally consistent, and so is not ruled out by the Categorical Imperative. But the point is: can somebody who has fully represented to himself the situation of black people who are kept in subjection go on willing that they should be so treated? For if he has fully represented this to himself, he will have formed a preference that he should not be so treated if he is a black person; and this is inconsistent with the universal form of the proposed maxim. There is of course the problem of the fanatical black-hater who is prepared to prescribe that the maxim should be followed even if he himself were a black person. I have discussed the case of this fanatic at length in my books...and I think I have shown that my theory can deal with him. At any rate the Kantian move can be used in arguments with ordinary non-fanatical people.” (Sorting Out Ethics, p. 135, 1997)
+- “The rules of moral reasoning are, basically, two, corresponding to the two features of moral judgment...When we are trying, in a concrete case, to decide what we ought to do, what we are looking for...is an action to which we can commit ourselves (prescriptively) but which we are at the same time prepared to accept as exemplifying a principle of action to be prescribed for others in like circumstances (universalizability)...[I]f we cannot universalize the principle, it cannot become an ‘ought’.” (Freedom and Reason, pp. 89–90, 1963)
+- “...what the principle of utility requires of me is to do for each man affected by my actions what I wish were done for me in the hypothetical circumstances that I were in precisely his situation; and, if my actions affect more than one man...to do what I wish, all in all, to be done for me in the hypothetical circumstances that I occupied all their situations…” (Ethical Theory and Utilitarianism, p. 26, 1982)
+- “[In the bilateral case]...if I have full knowledge of the other person's preferences, I shall myself have acquired preferences equal to his regarding what should be done to me were I in his situation; and these are the preferences which are now conflicting with my original prescription. So we have in effect not an interpersonal conflict of preferences or prescriptions, but an intrapersonal one; both of the conflicting preferences are mine...Multilateral cases now present less difficulty than at first appeared. For in them too the interpersonal conflicts...will reduce themselves, given full knowledge of the preferences of others, to intrapersonal ones.” (Moral Thinking, p. 110, 1981)
+- “It is said that the prescription to keep all black people in subjection is formally universal, and internally consistent, and so is not ruled out by the Categorical Imperative. But the point is: can somebody who has fully represented to himself the situation of black people who are kept in subjection go on willing that they should be so treated? For if he has fully represented this to himself, he will have formed a preference that he should not be so treated if he is a black person; and this is inconsistent with the universal form of the proposed maxim. There is of course the problem of the fanatical black-hater who is prepared to prescribe that the maxim should be followed even if he himself were a black person. I have discussed the case of this fanatic at length in my books...and I think I have shown that my theory can deal with him. At any rate the Kantian move can be used in arguments with ordinary non-fanatical people.” (Sorting Out Ethics, p. 135, 1997)
 
 ### About the Author
 
@@ -96,11 +96,6 @@ What Hare has given us is not a solution to the world’s problems but a set of 
 
 {{< all-thinkers >}}
 
-[^1]:
-     Singer, P. (2002). [R. M. Hare's Achievements in Moral Philosophy](https://doi.org/10.1017/S0953820800003629). _Utilitas_, 14(3): 309–317.
-
-[^2]:
-     Wittgenstein, L. (1922). _[Tractatus Logico-Philosophicus](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus)_.
-
-[^3]:
-     Foot, P. (1967). The Problem of Abortion and the Doctrine of the Double Effect. _Oxford Review_, no. 5.
+[^1]: Singer, P. (2002). [R. M. Hare's Achievements in Moral Philosophy](https://doi.org/10.1017/S0953820800003629). _Utilitas_, 14(3): 309–317.
+[^2]: Wittgenstein, L. (1922). _[Tractatus Logico-Philosophicus](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus)_.
+[^3]: Foot, P. (1967). The Problem of Abortion and the Doctrine of the Double Effect. _Oxford Review_, no. 5.

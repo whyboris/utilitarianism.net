@@ -32,39 +32,28 @@ The Mohists are also the first to introduce a sophisticated version of conceptua
 
 ## Representative works of Mò Dí
 
-* _[Mòzǐ](https://ctext.org/mozi)_ (c. 3rd Century BCE)
+- _[Mòzǐ](https://ctext.org/mozi)_ (c. 3rd Century BCE)
 
 ## Resources on Mò Dí’s Life and Work
 
-* Fraser, C. (2015).[Mohism](https://plato.stanford.edu/entries/sidgwick/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
-* Fraser, C. (2016). _The Philosophy of the Mòzǐ_: _The First Consequentialists._ New York: Columbia University Press.
-* Loy, H. C. [Mozi](https://www.iep.utm.edu/mozi/). _The Internet Encyclopedia of Philosophy_.
+- Fraser, C. (2015).[Mohism](https://plato.stanford.edu/entries/sidgwick/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
+- Fraser, C. (2016). _The Philosophy of the Mòzǐ_: _The First Consequentialists._ New York: Columbia University Press.
+- Loy, H. C. [Mozi](https://www.iep.utm.edu/mozi/). _The Internet Encyclopedia of Philosophy_.
 
 ## Prominent Mò Dí Quotes
 
-* “Universal love is really the way of the sage-kings. It is what gives peace to the rulers and sustenance to the people.” (_Mòzǐ_ 4: 12, W. P. Mei transl.)
-* “The benevolent person planning on behalf of the world is like this… If the world is poor, he undertakes to enrich it; if the people are few, he undertakes to increase their number; if the multitude is in disorder, he undertakes to put them in order. When he is in these situations, there are indeed cases when his strength is insufficient, his resources exhausted, or his knowledge lacking, and then he gives up. In no case would he dare spare any effort, conceal any scheme, or withhold any benefit without pursuing them on behalf of the world.” (_Mòzǐ_ 25: 1, C. Fraser transl.)
-* “The task of the benevolent is surely to diligently seek to promote the benefit of the world and eliminate harm to the world and to take this as a model throughout the world. Does it benefit people? Then do it. Does it not benefit people? Then stop.” (_Mòzǐ_ 32: 1, C. Fraser transl.)
-* “Thus the various lords not caring about each other, they inevitably go to war; heads of clans not caring about each other, they inevitably subvert each other; people not caring about each other, they inevitably injure each other; rulers and subjects not caring about each other, they are not generous and loyal; fathers and sons not caring about each other, they are not paternally kind and filially devoted; elder and younger brothers not caring about each other, they are not peaceful and harmonious. The people of the world all not caring about each other, the strong inevitably oppress the weak, the wealthy inevitably humiliate the poor, the noble are inevitably contemptuous of the lowly, and the cunning inevitably deceive the ignorant.” (_Mòzǐ_ 15: 1b, C. Fraser transl.)
+- “Universal love is really the way of the sage-kings. It is what gives peace to the rulers and sustenance to the people.” (_Mòzǐ_ 4: 12, W. P. Mei transl.)
+- “The benevolent person planning on behalf of the world is like this… If the world is poor, he undertakes to enrich it; if the people are few, he undertakes to increase their number; if the multitude is in disorder, he undertakes to put them in order. When he is in these situations, there are indeed cases when his strength is insufficient, his resources exhausted, or his knowledge lacking, and then he gives up. In no case would he dare spare any effort, conceal any scheme, or withhold any benefit without pursuing them on behalf of the world.” (_Mòzǐ_ 25: 1, C. Fraser transl.)
+- “The task of the benevolent is surely to diligently seek to promote the benefit of the world and eliminate harm to the world and to take this as a model throughout the world. Does it benefit people? Then do it. Does it not benefit people? Then stop.” (_Mòzǐ_ 32: 1, C. Fraser transl.)
+- “Thus the various lords not caring about each other, they inevitably go to war; heads of clans not caring about each other, they inevitably subvert each other; people not caring about each other, they inevitably injure each other; rulers and subjects not caring about each other, they are not generous and loyal; fathers and sons not caring about each other, they are not paternally kind and filially devoted; elder and younger brothers not caring about each other, they are not peaceful and harmonious. The people of the world all not caring about each other, the strong inevitably oppress the weak, the wealthy inevitably humiliate the poor, the noble are inevitably contemptuous of the lowly, and the cunning inevitably deceive the ignorant.” (_Mòzǐ_ 15: 1b, C. Fraser transl.)
 
 Written by [Tyler John](https://philpeople.org/profiles/tyler-john-1).
 
 {{< all-thinkers >}}
 
-[^1]:
-     Fraser, C. (2016). _The Philosophy of the Mòzǐ_: _The First Consequentialists._ New York: Columbia University Press, 6-8.
-
-[^2]:
-     Graham, A. C. (1976). _Later Mohist Logic_, _Ethics and Science._ Hong Kong: Chinese University Press, 64-65 & 79.
-
-[^3]:
-     Fraser, C. (2016), 1-7; Lewis, M. E. (1999). “Warring States: Political History” in _The Cambridge History of Ancient China_, ed. Michael Loewe and Edward L. Shaughnessy, 587-650 (Cambridge: Cambridge University Press).
-
-[^4]:
-     Fraser, C. (2015). [Mohism](https://plato.stanford.edu/entries/mohism/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
-
-[^5]:
-     Fraser, C. (2016), 53-57.
-
-[^6]:
-     Mòzǐ 35-37.
+[^1]: Fraser, C. (2016). _The Philosophy of the Mòzǐ_: _The First Consequentialists._ New York: Columbia University Press, 6-8.
+[^2]: Graham, A. C. (1976). _Later Mohist Logic_, _Ethics and Science._ Hong Kong: Chinese University Press, 64-65 & 79.
+[^3]: Fraser, C. (2016), 1-7; Lewis, M. E. (1999). “Warring States: Political History” in _The Cambridge History of Ancient China_, ed. Michael Loewe and Edward L. Shaughnessy, 587-650 (Cambridge: Cambridge University Press).
+[^4]: Fraser, C. (2015). [Mohism](https://plato.stanford.edu/entries/mohism/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
+[^5]: Fraser, C. (2016), 53-57.
+[^6]: Mòzǐ 35-37.

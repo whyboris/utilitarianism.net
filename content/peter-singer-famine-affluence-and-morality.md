@@ -148,23 +148,23 @@ Considering repeatability means that we need to take our overall patterns of res
 
 ## Discussion Questions
 
-* Many effective altruists now believe that you can do more good through [pursuing a high-impact career](/acting-on-utilitarianism#career-choice) than by donating (even generously) whilst working at a less impactful job. How does that affect your view of Singer's argument? Could you be morally required to consider a career change? Should someone in a high-impact career be expected to donate to charity in addition?
-* This study guide focuses on the more moderate version of Singer's rescue principle. But he also defends a stronger version, according to which we are morally required to prevent bad things from happening whenever we can do so without sacrificing anything of _comparable_ moral significance. How much of a difference do you see between these two versions of the principle? Do you think the stronger principle is correct?
-* What would a [scalar utilitarian](/types-of-utilitarianism#reconstructing-rightness-maximizing-satisficing-and-scalar-utilitarianism) think of Singer's principles? If there is no such thing as obligation, but just better and worse actions, how would that affect Singer's argument? Would it become any less important or worthwhile to save lives if it was no longer "obligatory" in addition? What do you think is added by saying that an act is (not only good but also) "obligatory"?
-* Imagine that you are going to donate money to an effective charity—enough to save _two_ lives. But along the way, you see a child drowning in a pond. There is no time to set aside the cash in your pockets: if you jump in, the money will be destroyed, so you will be unable to make the donation after all. Should you still save the drowning child? Why / why not?
-* We tend to just think about the money or resources that people already have. But suppose that you could easily earn _more_, say by working overtime (or shifting to a more lucrative job). Might it be wrong to not earn more money (in order to then donate more)? How would you apply Singer's principles to this case?
-* Suppose that a wealthy friend tends to get defensive when confronted with moral challenges. Currently they donate a little bit to help others, but you know that if you told them about Singer's argument, they would clam up and stop donating altogether.
-  * Would it be wrong for you to tell them about Singer's argument?
-  * If so, would that mean that Singer's conclusion is _false_, and they are not obliged to donate more after all? Or could a moral claim be true even if it was not always a good idea to tell people about it?
+- Many effective altruists now believe that you can do more good through [pursuing a high-impact career](/acting-on-utilitarianism#career-choice) than by donating (even generously) whilst working at a less impactful job. How does that affect your view of Singer's argument? Could you be morally required to consider a career change? Should someone in a high-impact career be expected to donate to charity in addition?
+- This study guide focuses on the more moderate version of Singer's rescue principle. But he also defends a stronger version, according to which we are morally required to prevent bad things from happening whenever we can do so without sacrificing anything of _comparable_ moral significance. How much of a difference do you see between these two versions of the principle? Do you think the stronger principle is correct?
+- What would a [scalar utilitarian](/types-of-utilitarianism#reconstructing-rightness-maximizing-satisficing-and-scalar-utilitarianism) think of Singer's principles? If there is no such thing as obligation, but just better and worse actions, how would that affect Singer's argument? Would it become any less important or worthwhile to save lives if it was no longer "obligatory" in addition? What do you think is added by saying that an act is (not only good but also) "obligatory"?
+- Imagine that you are going to donate money to an effective charity—enough to save _two_ lives. But along the way, you see a child drowning in a pond. There is no time to set aside the cash in your pockets: if you jump in, the money will be destroyed, so you will be unable to make the donation after all. Should you still save the drowning child? Why / why not?
+- We tend to just think about the money or resources that people already have. But suppose that you could easily earn _more_, say by working overtime (or shifting to a more lucrative job). Might it be wrong to not earn more money (in order to then donate more)? How would you apply Singer's principles to this case?
+- Suppose that a wealthy friend tends to get defensive when confronted with moral challenges. Currently they donate a little bit to help others, but you know that if you told them about Singer's argument, they would clam up and stop donating altogether.
+  - Would it be wrong for you to tell them about Singer's argument?
+  - If so, would that mean that Singer's conclusion is _false_, and they are not obliged to donate more after all? Or could a moral claim be true even if it was not always a good idea to tell people about it?
 
 ## Essay Tips
 
 Your professor will have explained their general expectations, or what they are looking for in a good philosophy paper. You can find [other helpful general guidelines online](http://www.jimpryor.net/teaching/guidelines/writing.html). If writing on Singer's 'Famine, Affluence, and Morality' in particular, you should take care to avoid the following common pitfalls:
 
-* Do not get hung up on empirical disputes, such as those surrounding aid skepticism. The interesting philosophical question is whether Singer's moral _principles_ are correct. So just suppose we are in a position where we could help others. The fundamental philosophical question here is: how much _could_ morality, in principle, require us to give up in order to help others? Aid skepticism does not answer this question, but merely dodges it. (Further, as [MacAskill](http://www.jpe.ox.ac.uk/papers/aid-scepticism-and-effective-altruism/) emphasizes: "There are thousands of pressing problems that call out for our attention and that we could make significant inroads on with our resources." Global health charities are far from the only way that our money could be productively used to help others.)
-* Do not get distracted by the sociological question of whether we could hope to _convince_ most of society to act upon Singer's recommendations. The question is what we, as individuals, _ought to do_. It is not about what we can _convince_ others of. That would, again, be to dodge the fundamental moral question.
-* Although Singer is a utilitarian, his argument in this paper does not rely upon utilitarianism as a premise. Look again at the premises. These are all claims that even non-utilitarians could (and arguably should) accept. Alternatively, if you think that non-utilitarians ought to reject one or more of these premises, your essay should offer an argument to this effect.
-* If you are having trouble coming up with an original "take" on the argument, it can often be helpful to read published responses until you find one that you disagree with. (You might start with our suggestions for further reading, below.) You can then write about why you disagree, diagnosing where you think the other author's argument or objection goes wrong. Or, if you disagree with Singer's original argument, you could explain why, while also showing how you think others' _defenses_ of his argument (as found, for example, in this very study guide) go wrong.
+- Do not get hung up on empirical disputes, such as those surrounding aid skepticism. The interesting philosophical question is whether Singer's moral _principles_ are correct. So just suppose we are in a position where we could help others. The fundamental philosophical question here is: how much _could_ morality, in principle, require us to give up in order to help others? Aid skepticism does not answer this question, but merely dodges it. (Further, as [MacAskill](http://www.jpe.ox.ac.uk/papers/aid-scepticism-and-effective-altruism/) emphasizes: "There are thousands of pressing problems that call out for our attention and that we could make significant inroads on with our resources." Global health charities are far from the only way that our money could be productively used to help others.)
+- Do not get distracted by the sociological question of whether we could hope to _convince_ most of society to act upon Singer's recommendations. The question is what we, as individuals, _ought to do_. It is not about what we can _convince_ others of. That would, again, be to dodge the fundamental moral question.
+- Although Singer is a utilitarian, his argument in this paper does not rely upon utilitarianism as a premise. Look again at the premises. These are all claims that even non-utilitarians could (and arguably should) accept. Alternatively, if you think that non-utilitarians ought to reject one or more of these premises, your essay should offer an argument to this effect.
+- If you are having trouble coming up with an original "take" on the argument, it can often be helpful to read published responses until you find one that you disagree with. (You might start with our suggestions for further reading, below.) You can then write about why you disagree, diagnosing where you think the other author's argument or objection goes wrong. Or, if you disagree with Singer's original argument, you could explain why, while also showing how you think others' _defenses_ of his argument (as found, for example, in this very study guide) go wrong.
 
 Good luck! And remember to cite your sources.
 
@@ -174,93 +174,64 @@ Good luck! And remember to cite your sources.
 
 ## Resources and Further Reading
 
-* Singer, P. (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243.
-* Singer, P. (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. (Download a free ebook or audiobook of the 10th anniversary edition at [www.thelifeyoucansave.org](www.thelifeyoucansave.org).)
-* Miller, R. (2004). [Beneficence, Duty and Distance](https://dx.doi.org/10.1111/j.1088-4963.2004.00018.x). _Philosophy and Public Affairs_, 32(4): 357–383.
-* Timmerman, T. (2015). [Sometimes there is nothing wrong with letting a child drown](https://dx.doi.org/10.1093/analys/anv015). _Analysis_, 75(2): 204–212.
-* Sterri, A.B. & Moen, O.M. (2021). [The ethics of emergencies](https://dx.doi.org/10.1007/s11098-020-01566-0). _Philosophical Studies,_ 178 (8): 2621–2634.
-* Kamm, F.M. (1999). Famine Ethics: The Problem of Distance in Morality and Singer’s Ethical Theory, in _Singer and His Critics_, ed. Dale Jamieson, Oxford: Blackwell: 174–203.
-* Slote, M. (2007). Famine, Affluence, and Virtue, in _Working Virtue: Virtue Ethics and Contemporary Moral Problems_, ed. Rebecca L. Walker and Philip J. Ivanhoe, Oxford: Clarendon Press: 279–296.
-* Chappell, R.Y. & Yetter-Chappell, H. (2016). [Virtue and Salience](https://doi.org/10.1080/00048402.2015.1115530). _Australasian Journal of Philosophy_, 94(3): 449–463. (Note that Chappell is a co-author of this website.)
-* MacAskill, W. (2019). [Aid Scepticism and Effective Altruism](http://www.jpe.ox.ac.uk/papers/aid-scepticism-and-effective-altruism/). _Journal of Practical Ethics_, 7(1): 49–60. (Note that MacAskill is a co-author of this website.)
-* Forcehimes, A.T. & Semrau, L. (2019). Beneficence: Does Agglomeration Matter? _Journal of Applied Philosophy_ 36 (1): 17-33.
-* Sin, W. (2010). Trivial Sacrifices, Great Demands. _Journal of Moral Philosophy_ 7 (1): 3-15.
-* Thomson, J.A. (2021). Relief from Rescue. _Philosophical Studies_ 179 (4): 1221-1239.
+- Singer, P. (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243.
+- Singer, P. (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. (Download a free ebook or audiobook of the 10th anniversary edition at [www.thelifeyoucansave.org](www.thelifeyoucansave.org).)
+- Miller, R. (2004). [Beneficence, Duty and Distance](https://dx.doi.org/10.1111/j.1088-4963.2004.00018.x). _Philosophy and Public Affairs_, 32(4): 357–383.
+- Timmerman, T. (2015). [Sometimes there is nothing wrong with letting a child drown](https://dx.doi.org/10.1093/analys/anv015). _Analysis_, 75(2): 204–212.
+- Sterri, A.B. & Moen, O.M. (2021). [The ethics of emergencies](https://dx.doi.org/10.1007/s11098-020-01566-0). _Philosophical Studies,_ 178 (8): 2621–2634.
+- Kamm, F.M. (1999). Famine Ethics: The Problem of Distance in Morality and Singer’s Ethical Theory, in _Singer and His Critics_, ed. Dale Jamieson, Oxford: Blackwell: 174–203.
+- Slote, M. (2007). Famine, Affluence, and Virtue, in _Working Virtue: Virtue Ethics and Contemporary Moral Problems_, ed. Rebecca L. Walker and Philip J. Ivanhoe, Oxford: Clarendon Press: 279–296.
+- Chappell, R.Y. & Yetter-Chappell, H. (2016). [Virtue and Salience](https://doi.org/10.1080/00048402.2015.1115530). _Australasian Journal of Philosophy_, 94(3): 449–463. (Note that Chappell is a co-author of this website.)
+- MacAskill, W. (2019). [Aid Scepticism and Effective Altruism](http://www.jpe.ox.ac.uk/papers/aid-scepticism-and-effective-altruism/). _Journal of Practical Ethics_, 7(1): 49–60. (Note that MacAskill is a co-author of this website.)
+- Forcehimes, A.T. & Semrau, L. (2019). Beneficence: Does Agglomeration Matter? _Journal of Applied Philosophy_ 36 (1): 17-33.
+- Sin, W. (2010). Trivial Sacrifices, Great Demands. _Journal of Moral Philosophy_ 7 (1): 3-15.
+- Thomson, J.A. (2021). Relief from Rescue. _Philosophical Studies_ 179 (4): 1221-1239.
 
-[^1]:
-     Singer, P. (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_ 1 (3): 229-243.
-
-[^2]:
-     See also Unger, P. (1996). _Living High and Letting Die: Our Illusion of Innocence_. Oxford University Press.
-
-[^3]:
-     P1 and P4 are quoted (with minor edits for clarity) from p. 231 of the text. P2, P3, and C are our own extrapolations.
-
-[^4]:
-     Singer advocates a stricter version of the rescue principle, where we are required to sacrifice even some genuinely morally significant things, so long as they are not _comparably_ significant to the harms thereby prevented. We focus here on the less demanding version of the rescue principle since (as Singer notes) it is sufficient for practical purposes, while being more difficult to reject. But the stronger version is also plausible, and is entailed by utilitarianism (while also being compatible with other moral theories).
-
+[^1]: Singer, P. (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_ 1 (3): 229-243.
+[^2]: See also Unger, P. (1996). _Living High and Letting Die: Our Illusion of Innocence_. Oxford University Press.
+[^3]: P1 and P4 are quoted (with minor edits for clarity) from p. 231 of the text. P2, P3, and C are our own extrapolations.
+[^4]: Singer advocates a stricter version of the rescue principle, where we are required to sacrifice even some genuinely morally significant things, so long as they are not _comparably_ significant to the harms thereby prevented. We focus here on the less demanding version of the rescue principle since (as Singer notes) it is sufficient for practical purposes, while being more difficult to reject. But the stronger version is also plausible, and is entailed by utilitarianism (while also being compatible with other moral theories).
 [^5]:
-     The career-focused version of Singer’s argument might look like this (with P1 unchanged):
-     
-     P2*: We can prevent suffering and death by working in an impactful job rather than spending our time on a career that does not help others.
-     
-     P3*: We can work in an impactful job without significant uncompensated sacrifice.
-     
-     P4*: If it is in our power to prevent something very bad from happening, without significant uncompensated sacrifice, we ought, morally, to do it.
-     Therefore,
-     
-     C*: We ought, morally, to work in an impactful job rather than spend our time on a career that does not help others.
-     
-     Note that P3 and P4 are worded in terms of significant _uncompensated_ sacrifice, because one's choice of career is a major life decision that is likely to involve significant tradeoffs. If one passes up becoming an artist (say), there may be something morally significant about that loss, even if one is overall happier with an alternate career. If you receive benefits commensurate with what you sacrificed, we can say that your sacrifice was _compensated_ and so not costly to you, all things considered.
+    The career-focused version of Singer’s argument might look like this (with P1 unchanged):
+
+    P2\*: We can prevent suffering and death by working in an impactful job rather than spending our time on a career that does not help others.
+
+    P3\*: We can work in an impactful job without significant uncompensated sacrifice.
+
+    P4\*: If it is in our power to prevent something very bad from happening, without significant uncompensated sacrifice, we ought, morally, to do it.
+    Therefore,
+
+    C\*: We ought, morally, to work in an impactful job rather than spend our time on a career that does not help others.
+
+    Note that P3 and P4 are worded in terms of significant _uncompensated_ sacrifice, because one's choice of career is a major life decision that is likely to involve significant tradeoffs. If one passes up becoming an artist (say), there may be something morally significant about that loss, even if one is overall happier with an alternate career. If you receive benefits commensurate with what you sacrificed, we can say that your sacrifice was _compensated_ and so not costly to you, all things considered.
 
 [^6]:
-     Someone sufficiently desperate to escape the argument might try to reject the first premise by claiming that _overpopulation_ is such a problem that we should not seek to save lives after all (because lives saved add to overpopulation, thus increasing overall suffering). But there are a number of reasons why this is badly misguided.
-     First, this claim is a myth: empirically, saving lives in poor countries does not lead to overpopulation. See: Melinda Gates (2014). [Saving Lives Does Not Lead to Overpopulation](https://thebreakthrough.org/issues/conservation/saving-lives-does-not-lead-to-overpopulation). _The Breakthrough Institute_; Hans Rosling. [Will saving poor children lead to overpopulation?](https://www.gapminder.org/answers/will-saving-poor-children-lead-to-overpopulation/) _Gapminder Foundation_.
+    Someone sufficiently desperate to escape the argument might try to reject the first premise by claiming that _overpopulation_ is such a problem that we should not seek to save lives after all (because lives saved add to overpopulation, thus increasing overall suffering). But there are a number of reasons why this is badly misguided.
+    First, this claim is a myth: empirically, saving lives in poor countries does not lead to overpopulation. See: Melinda Gates (2014). [Saving Lives Does Not Lead to Overpopulation](https://thebreakthrough.org/issues/conservation/saving-lives-does-not-lead-to-overpopulation). _The Breakthrough Institute_; Hans Rosling. [Will saving poor children lead to overpopulation?](https://www.gapminder.org/answers/will-saving-poor-children-lead-to-overpopulation/) _Gapminder Foundation_.
 
-     Second, someone who really believed this claim would also need to advocate for shutting down hospitals, letting serial killers go free, etc. Few would be willing to consistently hold the view that there is no point to saving innocent lives. Letting people die unnecessarily seems an atrocious way to attempt to counteract overpopulation.
+    Second, someone who really believed this claim would also need to advocate for shutting down hospitals, letting serial killers go free, etc. Few would be willing to consistently hold the view that there is no point to saving innocent lives. Letting people die unnecessarily seems an atrocious way to attempt to counteract overpopulation.
 
-     Third, there are obviously better alternatives, such as empowering women in ways that predictably lower birth rates. Examples of this include global family planning charities or girls' education. See Singer, P. (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243, p. 240.
+    Third, there are obviously better alternatives, such as empowering women in ways that predictably lower birth rates. Examples of this include global family planning charities or girls' education. See Singer, P. (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243, p. 240.
 
-     Finally, note that it is increasingly [disputed](https://doi.org/10.1093/acprof:oso/9780199677771.003.0003) whether we should be more concerned about overpopulation or underpopulation; and that none of these concerns touch on the importance of reducing suffering, which increases the quality rather than quantity of life.
+    Finally, note that it is increasingly [disputed](https://doi.org/10.1093/acprof:oso/9780199677771.003.0003) whether we should be more concerned about overpopulation or underpopulation; and that none of these concerns touch on the importance of reducing suffering, which increases the quality rather than quantity of life.
 
-[^7]:
-     Though, as we'll see below, the drowning child scenario might help to illuminate the boundaries of morality's demands here.
-
-[^8]:
-     Or, even more minimally, to simply _not violate anyone's rights_. Either way, philosophers call this a _negative_ duty—a duty to _not_ do a certain action—in contrast to _positive_ duties to _do_ a certain action.
-
-[^9]:
-     Singer, P. (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243, p. 231.
-
-[^10]:
-     Singer, P. (1997). [The Drowning Child and the Expanding Circle](https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist). _New Internationalist_. ([archive](https://web.archive.org/web/20210614021936/https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist))
-
-[^11]:
-     Of course, the relevant question is not the psychological one of what someone would be willing to choose, but the moral one of what choice is truly justifiable. But it is often by thinking through such a choice from the inside that we form our moral beliefs about which choices are morally permissible.
-
-[^12]:
-     See also Chapter 3: Common Objections to Giving, in Singer, P. (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_.
-
-[^13]:
-     Though for a competing view, see Kamm, F.M. (1999). Famine Ethics: The Problem of Distance in Morality and Singer’s Ethical Theory, in _Singer and His Critics_, ed. Dale Jamieson, Oxford: Blackwell: 174–203.
-
+[^7]: Though, as we'll see below, the drowning child scenario might help to illuminate the boundaries of morality's demands here.
+[^8]: Or, even more minimally, to simply _not violate anyone's rights_. Either way, philosophers call this a _negative_ duty—a duty to _not_ do a certain action—in contrast to _positive_ duties to _do_ a certain action.
+[^9]: Singer, P. (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243, p. 231.
+[^10]: Singer, P. (1997). [The Drowning Child and the Expanding Circle](https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist). _New Internationalist_. ([archive](https://web.archive.org/web/20210614021936/https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist))
+[^11]: Of course, the relevant question is not the psychological one of what someone would be willing to choose, but the moral one of what choice is truly justifiable. But it is often by thinking through such a choice from the inside that we form our moral beliefs about which choices are morally permissible.
+[^12]: See also Chapter 3: Common Objections to Giving, in Singer, P. (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_.
+[^13]: Though for a competing view, see Kamm, F.M. (1999). Famine Ethics: The Problem of Distance in Morality and Singer’s Ethical Theory, in _Singer and His Critics_, ed. Dale Jamieson, Oxford: Blackwell: 174–203.
 [^14]:
-     Though for a competing view, which takes normal empathetic responses to determine what is right, see Slote, M. (2007). Famine, Affluence, and Virtue, in _Working Virtue: Virtue Ethics and Contemporary_
+    Though for a competing view, which takes normal empathetic responses to determine what is right, see Slote, M. (2007). Famine, Affluence, and Virtue, in _Working Virtue: Virtue Ethics and Contemporary_
     _Moral Problems_, ed. Rebecca L. Walker and Philip J. Ivanhoe, Oxford: Clarendon Press: 279–296.
 
-[^15]:
-     Chappell, R.Y. & Yetter-Chappell, H. (2016). [Virtue and Salience](https://doi.org/10.1080/00048402.2015.1115530). _Australasian Journal of Philosophy_, 94(3): 449–463, p.453. Note that Chappell is a co-author of this website.
-
-[^16]:
-     Timmerman, T. (2015). [Sometimes there is nothing wrong with letting a child drown](https://dx.doi.org/10.1093/analys/anv015). _Analysis_, 75(2): 204–212.
-
-[^17]:
-     Notably, Singer's stricter _comparable sacrifice principle_ might require those sacrifices, if none of the personal losses were _comparable_ in significance to the extra lives saved. Singer himself endorses the utilitarian thought that we ought (in principle) to give to the point of _marginal utility_, where the cost to us of giving any more would equal or outweigh the gain to others. But non-utilitarians might, of course, take a different view of what counts as being of comparable moral significance. And the weaker rescue principle (P4) that our main text focuses on is certainly less demanding.
-
+[^15]: Chappell, R.Y. & Yetter-Chappell, H. (2016). [Virtue and Salience](https://doi.org/10.1080/00048402.2015.1115530). _Australasian Journal of Philosophy_, 94(3): 449–463, p.453. Note that Chappell is a co-author of this website.
+[^16]: Timmerman, T. (2015). [Sometimes there is nothing wrong with letting a child drown](https://dx.doi.org/10.1093/analys/anv015). _Analysis_, 75(2): 204–212.
+[^17]: Notably, Singer's stricter _comparable sacrifice principle_ might require those sacrifices, if none of the personal losses were _comparable_ in significance to the extra lives saved. Singer himself endorses the utilitarian thought that we ought (in principle) to give to the point of _marginal utility_, where the cost to us of giving any more would equal or outweigh the gain to others. But non-utilitarians might, of course, take a different view of what counts as being of comparable moral significance. And the weaker rescue principle (P4) that our main text focuses on is certainly less demanding.
 [^18]:
-     This interpretation brings Singer's rescue principle much closer to Miller's _Principle of Sympathy_, according to which: "One's underlying disposition to respond to neediness as such ought to be sufficiently demanding that giving which would express greater underlying concern would impose a significant risk of worsening one's life, if one fulfilled all further responsibilities; and it need not be any more demanding than this."
+    This interpretation brings Singer's rescue principle much closer to Miller's _Principle of Sympathy_, according to which: "One's underlying disposition to respond to neediness as such ought to be sufficiently demanding that giving which would express greater underlying concern would impose a significant risk of worsening one's life, if one fulfilled all further responsibilities; and it need not be any more demanding than this."
 
-     Miller, R. (2004). [Beneficence, Duty and Distance](https://dx.doi.org/10.1111/j.1088-4963.2004.00018.x)._ Philosophy and Public Affairs_, 32(4): 357–383, p.359.
+    Miller, R. (2004). [Beneficence, Duty and Distance](https://dx.doi.org/10.1111/j.1088-4963.2004.00018.x)._ Philosophy and Public Affairs_, 32(4): 357–383, p.359.
 
-[^19]:
-     Sterri, A.B. & Moen, O.M. (2021). [The ethics of emergencies](https://dx.doi.org/10.1007/s11098-020-01566-0). _Philosophical Studies,_ 178 (8): 2621–2634.
+[^19]: Sterri, A.B. & Moen, O.M. (2021). [The ethics of emergencies](https://dx.doi.org/10.1007/s11098-020-01566-0). _Philosophical Studies,_ 178 (8): 2621–2634.

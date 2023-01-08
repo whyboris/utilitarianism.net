@@ -1,20 +1,21 @@
 <div class="citation">
   <h2>How to Cite This Page</h2>
   <div class="how-to-cite">
-    
     {{ if .Get "authors" }}
-        {{ .Get "authors" }} 
+      {{ .Get "authors" }}
     {{ else }}
-        MacAskill, W., Meissner, D., and Chappell, R.Y.
-    {{ end }}    
-    
-    (2022). {{ .Page.Title }}. In R.Y. Chappell, D. Meissner, and W. MacAskill (eds.), 
+      MacAskill, W., Meissner, D., and Chappell, R.Y.
+    {{ end }}
+
+    (2022). {{ .Page.Title }}. In R.Y. Chappell, D. Meissner, and W. MacAskill
+    (eds.),
     <em> An Introduction to Utilitarianism </em>
 
-    https://www.utilitarianism.net{{ strings.TrimRight "/" .Page.RelPermalink
-    }}, accessed
+    https://www.utilitarianism.net{{ strings.TrimRight "/" .Page.RelPermalink }},
+    accessed
     <script>
       document.write(new Date().toLocaleDateString("en-US"));
-    </script>.
+    </script>
+    .
   </div>
 </div>

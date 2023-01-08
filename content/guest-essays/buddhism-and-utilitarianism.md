@@ -10,7 +10,7 @@ weight: 3
 layout: "book"
 image: "/img/essays/buddhism.jpg"
 imageCaption: "Buddhism and Utilitarianism"
-summary: This article analyses the extent to which elements of utilitarianism can be found within (i) the Early Buddhist tradition, and (ii) classical Indian Mahāyāna Buddhism. It then explores a Buddhist perspective on well-being, and concludes by comparing Engaged Buddhism to effective altruism. 
+summary: This article analyses the extent to which elements of utilitarianism can be found within (i) the Early Buddhist tradition, and (ii) classical Indian Mahāyāna Buddhism. It then explores a Buddhist perspective on well-being, and concludes by comparing Engaged Buddhism to effective altruism.
 ---
 
 {{< guest-disclaimer >}}
@@ -151,263 +151,142 @@ I believe that Buddhism and utilitarianism are both committed to in-principle su
 
 ## References
 
-* Baker, Calvin. 2022. “Buddhism and Effective Altruism.” In _Effective Altruism: Synergies, Tension, Dialogue_, ed. Dominic Roser, Stefan Riedener and Markus Huppenbauer, 17–45. Baden-Baden: Nomos.
+- Baker, Calvin. 2022. “Buddhism and Effective Altruism.” In _Effective Altruism: Synergies, Tension, Dialogue_, ed. Dominic Roser, Stefan Riedener and Markus Huppenbauer, 17–45. Baden-Baden: Nomos.
 
-* Barnhart, Michael G. 2012. “Theory and Comparison in the Discussion of Buddhist Ethics.” _Philosophy East and West_, 62(1): 16–43.
+- Barnhart, Michael G. 2012. “Theory and Comparison in the Discussion of Buddhist Ethics.” _Philosophy East and West_, 62(1): 16–43.
 
-* Bhikkhu Bodhi (trans.). MN 75 “[To Māgandiya](https://suttacentral.net/mn75/en/bodhi).” _Sutta Central_.
+- Bhikkhu Bodhi (trans.). MN 75 “[To Māgandiya](https://suttacentral.net/mn75/en/bodhi).” _Sutta Central_.
 
-* Bostrom, Nick. 2011. “Infinite Ethics.” _Analysis and Metaphysics_, 10: 9–59.
+- Bostrom, Nick. 2011. “Infinite Ethics.” _Analysis and Metaphysics_, 10: 9–59.
 
-* Breyer, Daniel. 2015. “The Cessation of Suffering and Buddhist Axiology.” _Journal of Buddhist Ethics_, 22: 533–60.
+- Breyer, Daniel. 2015. “The Cessation of Suffering and Buddhist Axiology.” _Journal of Buddhist Ethics_, 22: 533–60.
 
-* Buchanan, Allen E. 2011. _Beyond Humanity? The Ethics of Biomedical Enhancement_. New York: Oxford University Press.
+- Buchanan, Allen E. 2011. _Beyond Humanity? The Ethics of Biomedical Enhancement_. New York: Oxford University Press.
 
-* Clayton, Barbra R. 2018. “The Changing Way of the Bodhisattva: Superheroes, Saints, and Social Workers.” In _The Oxford Handbook of Buddhist Ethics_, ed. Daniel Cozort and James Mark Shields, 135–60. New York: Oxford University Press.
+- Clayton, Barbra R. 2018. “The Changing Way of the Bodhisattva: Superheroes, Saints, and Social Workers.” In _The Oxford Handbook of Buddhist Ethics_, ed. Daniel Cozort and James Mark Shields, 135–60. New York: Oxford University Press.
 
-* Davis, Jake H. 2016. “The Scope for Wisdom: Early Buddhism on Reasons and Persons.” In _The Bloomsbury Research Handbook of Indian Ethics_, ed. Shyam Ranganathan, 127–53. London: Bloomsbury Academic.
+- Davis, Jake H. 2016. “The Scope for Wisdom: Early Buddhism on Reasons and Persons.” In _The Bloomsbury Research Handbook of Indian Ethics_, ed. Shyam Ranganathan, 127–53. London: Bloomsbury Academic.
 
-* Davis, Jake H. 2017. “‘When You Know for Yourselves’: Mindfulness, Wisdom, and the Qualities of Heart.” In _A Mirror is for Reflection: Understanding Buddhist Ethics_, ed. Jake H. Davis, 223–35. New York: Oxford University Press.
+- Davis, Jake H. 2017. “‘When You Know for Yourselves’: Mindfulness, Wisdom, and the Qualities of Heart.” In _A Mirror is for Reflection: Understanding Buddhist Ethics_, ed. Jake H. Davis, 223–35. New York: Oxford University Press.
 
-* Fink, Charles K. 2013. “The Cultivation of Virtue in Buddhist Ethics.” _Journal of Buddhist Ethics_, 20: 667–701.
+- Fink, Charles K. 2013. “The Cultivation of Virtue in Buddhist Ethics.” _Journal of Buddhist Ethics_, 20: 667–701.
 
-* Finnigan, Bronwyn. 2017. “[Buddhism and Animal Ethics](https://doi.org/10.1111/phc3.12424).” _Philosophy Compass_ 12 (7).
+- Finnigan, Bronwyn. 2017. “[Buddhism and Animal Ethics](https://doi.org/10.1111/phc3.12424).” _Philosophy Compass_ 12 (7).
 
-* Flanagan, Owen. 2011. _The Bodhisattva’s Brain: Buddhism Naturalized_. Cambridge: MIT Press.
+- Flanagan, Owen. 2011. _The Bodhisattva’s Brain: Buddhism Naturalized_. Cambridge: MIT Press.
 
-* Garfield, Jay L. 2021. _Buddhist Ethics: A Philosophical Exploration_. New York: Oxford University Press.
+- Garfield, Jay L. 2021. _Buddhist Ethics: A Philosophical Exploration_. New York: Oxford University Press.
 
-* Gethin, Rupert. 1998. _The Foundations of Buddhism_. Oxford: Oxford University Press.
+- Gethin, Rupert. 1998. _The Foundations of Buddhism_. Oxford: Oxford University Press.
 
-* Gold, Jonathan C. 2019. “Introduction: Participatory Authorship and Communal Interpretation: The _Bodhicaryāvatāra_ as a ‘World Classic’.” In _Readings of Śāntideva’s_ Guide to Bodhisattva Practice, ed. Jonathan C. Gold and Douglas S. Duckworth, 1–25. New York. Columbia University Press.
+- Gold, Jonathan C. 2019. “Introduction: Participatory Authorship and Communal Interpretation: The _Bodhicaryāvatāra_ as a ‘World Classic’.” In _Readings of Śāntideva’s_ Guide to Bodhisattva Practice, ed. Jonathan C. Gold and Douglas S. Duckworth, 1–25. New York. Columbia University Press.
 
-* Goodman, Charles. 2009. _Consequences of Compassion: An Interpretation and Defense of Buddhist Ethics_. New York: Oxford University Press.
+- Goodman, Charles. 2009. _Consequences of Compassion: An Interpretation and Defense of Buddhist Ethics_. New York: Oxford University Press.
 
-* Goodman, Charles. 2016. “[Śāntideva](https://plato.stanford.edu/archives/fall2016/entries/shantideva/).” In _The Stanford Encyclopedia of Philosophy_ (Fall 2016 Edition), ed. Edward N. Zalta.
+- Goodman, Charles. 2016. “[Śāntideva](https://plato.stanford.edu/archives/fall2016/entries/shantideva/).” In _The Stanford Encyclopedia of Philosophy_ (Fall 2016 Edition), ed. Edward N. Zalta.
 
-* Gowans, Christopher W. 2015a. _Buddhist Moral Philosophy: An Introduction_. New York: Routledge.
+- Gowans, Christopher W. 2015a. _Buddhist Moral Philosophy: An Introduction_. New York: Routledge.
 
-* Gowans, Christopher W. 2015b. “Buddhist Understandings of Well-Being.” In _The Routledge Handbook of Philosophy of Well-Being_, ed. Guy Fletcher, 70-80. Abingdon: Routledge.
+- Gowans, Christopher W. 2015b. “Buddhist Understandings of Well-Being.” In _The Routledge Handbook of Philosophy of Well-Being_, ed. Guy Fletcher, 70-80. Abingdon: Routledge.
 
-* Gowans, Christopher W. 2017. “Buddhist Moral Thought and Western Moral Philosophy.” In _A Mirror is for Reflection: Understanding Buddhist Ethics_, ed. Jake H. Davis, 53–69. New York: Oxford University Press.
+- Gowans, Christopher W. 2017. “Buddhist Moral Thought and Western Moral Philosophy.” In _A Mirror is for Reflection: Understanding Buddhist Ethics_, ed. Jake H. Davis, 53–69. New York: Oxford University Press.
 
-* Greaves, Hilary and William MacAskill. 2021. “[The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism-2/)”. _Global Priorities Institute_.
+- Greaves, Hilary and William MacAskill. 2021. “[The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism-2/)”. _Global Priorities Institute_.
 
-* Hallisey, Charles. “Ethical Particularism in Theravada Buddhism.” _Journal of Buddhist Ethics_, 3: 32–43.
+- Hallisey, Charles. “Ethical Particularism in Theravada Buddhism.” _Journal of Buddhist Ethics_, 3: 32–43.
 
-* Harris, Stephen E. 2014. “Suffering and the Shape of Well-Being in Buddhist Ethics.” _Asian Philosophy_, 24 (3): 242–59.
+- Harris, Stephen E. 2014. “Suffering and the Shape of Well-Being in Buddhist Ethics.” _Asian Philosophy_, 24 (3): 242–59.
 
-* Harvey, Peter. 2000. _An Introduction to Buddhist Ethics: Foundations, Values, and Issues_. New York: Cambridge University Press.
+- Harvey, Peter. 2000. _An Introduction to Buddhist Ethics: Foundations, Values, and Issues_. New York: Cambridge University Press.
 
-* Hidalgo, Javier. 2021. “Buddhist Error Theory.” _The Journal of Value Inquiry,_ 55: 21–40.
+- Hidalgo, Javier. 2021. “Buddhist Error Theory.” _The Journal of Value Inquiry,_ 55: 21–40.
 
-* Keown, Damien. 1992. _The Nature of Buddhist Ethics_. New York: St. Martin’s Press.
+- Keown, Damien. 1992. _The Nature of Buddhist Ethics_. New York: St. Martin’s Press.
 
-* King, Sallie B. “The Ethics of Engaged Buddhism in Asia.” In _The Oxford Handbook of Buddhist Ethics_, ed. Daniel Cozort and James Mark Shields, 479–500. New York: Oxford University Press.
+- King, Sallie B. “The Ethics of Engaged Buddhism in Asia.” In _The Oxford Handbook of Buddhist Ethics_, ed. Daniel Cozort and James Mark Shields, 479–500. New York: Oxford University Press.
 
-* MacAskill, William. 2019. “The Definition of Effective Altruism.” In _Effective Altruism: Philosophical Issues_, edited by Hilary Greaves and Theron Pummer, 10–28. New York: Oxford University Press.
+- MacAskill, William. 2019. “The Definition of Effective Altruism.” In _Effective Altruism: Philosophical Issues_, edited by Hilary Greaves and Theron Pummer, 10–28. New York: Oxford University Press.
 
-* Ord, Toby. 2020. _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury.
+- Ord, Toby. 2020. _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury.
 
-* Panaïoti, Antoine. 2012. _Nietzsche and Buddhist Philosophy_. Cambridge: Cambridge University Press.
+- Panaïoti, Antoine. 2012. _Nietzsche and Buddhist Philosophy_. Cambridge: Cambridge University Press.
 
-* Śāntideva. 2008. _A Guide to the Bodhisattva Way of Life_ (_Bodhicaryāvatāra_). Translated by Kate Crosby and Andrew Skilton. New York: Oxford University Press.
+- Śāntideva. 2008. _A Guide to the Bodhisattva Way of Life_ (_Bodhicaryāvatāra_). Translated by Kate Crosby and Andrew Skilton. New York: Oxford University Press.
 
-* Siderits, Mark. 2016. “Buddhist Reductionism and the Structure of Buddhist Ethics.” In _Studies in Buddhist Philosophy_ by Mark Siderits, ed. Jan Westerhoff, 263–76. New York: Oxford University Press.
+- Siderits, Mark. 2016. “Buddhist Reductionism and the Structure of Buddhist Ethics.” In _Studies in Buddhist Philosophy_ by Mark Siderits, ed. Jan Westerhoff, 263–76. New York: Oxford University Press.
 
-* Strawson, Galen. 2017. “Free Will and the Sense of Self.” In _Buddhist Perspectives on Free Will: Agentless Agency?_, ed. Rick Repetti,  72–83. New York: Routledge.
+- Strawson, Galen. 2017. “Free Will and the Sense of Self.” In _Buddhist Perspectives on Free Will: Agentless Agency?_, ed. Rick Repetti, 72–83. New York: Routledge.
 
-* Sujato Bhikkhu (trans). MN 72 “[Aggivaccha Sutta: With Vacchagotta on Fire](https://suttacentral.net/mn72/en/sujato).” _Sutta Central_.
+- Sujato Bhikkhu (trans). MN 72 “[Aggivaccha Sutta: With Vacchagotta on Fire](https://suttacentral.net/mn72/en/sujato).” _Sutta Central_.
 
-* Thanissaro Bhikkhu (trans.). AN 8.6 “[Lokavipatti Sutta: The Failings of the World](https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html).” _Access to Insight_.
+- Thanissaro Bhikkhu (trans.). AN 8.6 “[Lokavipatti Sutta: The Failings of the World](https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html).” _Access to Insight_.
 
-* Vélez de Cea, Abraham. 2010/2011. “Value Pluralism in Early Buddhist Ethics.” _Journal of the International Association of Buddhist Studies_, 33(1-2): 211–37.
+- Vélez de Cea, Abraham. 2010/2011. “Value Pluralism in Early Buddhist Ethics.” _Journal of the International Association of Buddhist Studies_, 33(1-2): 211–37.
 
-* Wallace, David Foster. 2005. “Consider the Lobster.” In _The Best American Essays 2005_, ed. Susan Orlean and Robert Atwan, 252-70. New York: Houghton Mifflin.
+- Wallace, David Foster. 2005. “Consider the Lobster.” In _The Best American Essays 2005_, ed. Susan Orlean and Robert Atwan, 252-70. New York: Houghton Mifflin.
 
-* Westerhoff, Jan. 2017. “Buddhism without Reincarnation? Examining the Prospects of a ‘Naturalized’ Buddhism.” In _A Mirror is for Reflection: Understanding Buddhist Ethics_, ed. Jake H. Davis, 146–65. New York: Oxford University Press.
+- Westerhoff, Jan. 2017. “Buddhism without Reincarnation? Examining the Prospects of a ‘Naturalized’ Buddhism.” In _A Mirror is for Reflection: Understanding Buddhist Ethics_, ed. Jake H. Davis, 146–65. New York: Oxford University Press.
 
-* Wilkinson, Hayden. 2021. “Infinite Aggregation: Expanded Edition.” _Philosophical Studies_, 178: 1917–1949.
+- Wilkinson, Hayden. 2021. “Infinite Aggregation: Expanded Edition.” _Philosophical Studies_, 178: 1917–1949.
 
-[^1]:
-     I am grateful to Richard Yetter Chappell, Jonathan Gold, and Darius Meissner for helpful comments on earlier drafts of this article.
-
-[^2]:
-     Though, it is important not to conflate contemporary Theravāda Buddhism with Early Buddhism as it was practiced during the life of the historical Buddha (ca. 6th/5th centuries BCE) and the centuries afterwards.
-
-[^3]:
-     Vajrayāna Buddhism, perhaps most associated with Tibet, is sometimes thought of as a third branch. Scholars tend to classify Vajrayāna Buddhism as a special sub-branch of the Mahāyāna, but for our purposes, not much hangs on this classificatory distinction.
-
-[^4]:
-     This is a simplification—quoting from [this article](/acting-on-utilitarianism#effective-altruism), “While utilitarianism and effective altruism share certain similarities, they are distinct and differ in important ways. Unlike utilitarianism, effective altruism does not require that we [sacrifice our own interests](/objections-to-utilitarianism/demandingness) whenever doing so brings about a greater benefit to others. Unlike utilitarianism, effective altruism does not claim that we should always seek to maximize wellbeing, [whatever the means](/objections-to-utilitarianism/rights). Finally, unlike utilitarianism, effective altruism does not equate the good with the total sum of wellbeing.” As a result, effective altruism is compatible with [a wide range of moral theories](/near-utilitarian-alternatives#conclusion) besides utilitarianism.
-
-[^5]:
-     Garfield 2021, 17.
-
-[^6]:
-     See e.g. Keown 1992 and Fink 2013.
-
-[^7]:
-     See e.g. Goodman 2009 and Siderits 2016.
-
-[^8]:
-     See e.g. Harvey 2000, 51 and Vélez de Cea 2010.
-
-[^9]:
-     See e.g. Hallisey 1996, Barnhart 2012, and Garfield 2021.
-
-[^10]:
-     See Hidalgo 2020.
-
-[^11]:
-     See Gowans 2015a and Gowans 2017.
-
-[^12]:
-     Though see Goodman 2009, who argues that Theravāda Buddhist ethics is a form of rule consequentialism, and [this textbook](/types-of-utilitarianism#consequentialism) for a discussion of whether rule consequentialism is a species of consequentialism at all.
-
-[^13]:
-     See subsection 3.2.2 for some considerations in favor of this reading.
-
-[^14]:
-     The relationship between personal liberation and other-regarding virtues like compassion is a vexed interpretive issue. It is uncontroversial that these virtues are traditionally thought to facilitate one’s progress on the path to awakening. Briefly, the reason is that the ultimate cause of _duḥkha_ is egocentrism (see subsection 2.3), and cultivating non-instrumental concern for the well-being of others is supposed to counteract egocentrism. On some readings, the other-regarding virtues have solely instrumental value: they matter just to the extent that they help us to attain liberation (see e.g. Breyer 2015 and Siderits 2016). On other readings, the core Buddhist virtues are essential parts of the awakened state and valuable for their own sakes (see e.g. Keown 2001, Goodman 2009, Flanagan 2011, and Gowans 2015b).
-
-[^15]:
-     Davis 2017, 231. _Dukkha_ is the Pāli word for the Sanskrit ‘_duḥkha_’.
-
-[^16]:
-     See Goodman 2016 for a more comprehensive treatment of Śāntideva. Goodman’s consequentialist reading of _BCA_ (see also Goodman 2009)__ has informed my own reading of the text.
-
-[^17]:
-     _BCA_ 5.84; see also 5.101, 8.109, 8.137.
-
-[^18]:
-     _BCA_ 5.84.
-
-[^19]:
-     _BCA_ 6.75; see also 6.72.
-
-[^20]:
-     _BCA_ 8.105; see also 5.86-87.
-
-[^21]:
-     _BCA_ 8.90-10; see also 8.104-120.
-
-[^22]:
-     _BCA_ 8.90, 8.94, 8.103. It is fascinating to compare Śāntideva’s arguments in _BCA_ 8.90-137 to those of Derek Partfit in Part III of _Reasons and Persons_, which argues for an impartial consequentialism partially on the basis of revisionary views of personal identity. On some readings, Śāntideva anticipates Parfit by over 1,000 years.
-
-[^23]:
-     A moral theory can agree that we ought to impartially promote well-being without being foundationally consequentialist. Take, for example, a moral theory whose bedrock is compassion. This theory might tell us to promote well-being because that is the compassionate thing to do. But importantly, ‘because it’s compassionate’ is a different explanation of why an action is right than ‘because it will lead to better consequences than every other available action’.
-
-[^24]:
-     Garfield 2021, 22-23.
-
-[^25]:
-     If Garfield’s interpretation is correct, then it is also possible that Buddhism is not even committed to welfarism. [Welfarism](/types-of-utilitarianism#welfarism) says that positive well-being is the only intrinsic value. Everything else that is valuable is so just to the extent that it contributes to well-being. But on one way of understanding moral phenomenology, the only intrinsic value is (acquiring) apt moral phenomenology. And although having apt moral phenomenology entails having great non-instrumental concern for the well-being of others, well-being itself does not play the fundamental axiological role. (I do not claim that this is Garfield’s view. It is simply a conceptual possibility.)
-
-[^26]:
-     Though, see Davis 2016, 146 for a brief mention of the problem in the context of Early Buddhism.
-
-[^27]:
-     Bostrom 2011, 10.
-
-[^28]:
-     Of course, it is also bad news for non-consequentialist moral theories which agree that we have moral reason to promote the good. But the problem seems more acute for consequentialism than it does for non-consequentialism, because whereas infinitarian paralysis threatens the _entire_ consequentialist enterprise, it presumably leaves other aspects of non-consequentialist moral life intact. We can still do things like cultivate virtues and respect others’ autonomy even if we cannot increase the quantity of well-being in the universe.
-
-[^29]:
-     E.g., by attempting fancy mathematical footwork (e.g., Bostrom 2011) or accepting other counterintuitive implications, such as that the spatiotemporal arrangement of value _itself_ has non-instrumental importance (e.g., Wilkinson 2021), which arguably run against the core intuitions that motivate consequentialism in the first place.
-
-[^30]:
-     Particularly prominent in the Zen tradition, an East Asian form of Mahāyāna Buddhism.
-
-[^31]:
-     Strawson 2017, 73, 75, 77.
-
-[^32]:
-     For a more thorough exposition of this psychological process, see Panaïoti 2012, chapter 4.
-
-[^33]:
-     Buddhists often portray this state in terms of negatives such as freedom from fear, dissatisfaction, and other unwholesome mental states.
-
-[^34]:
-     For a deeper dive into the various forms of _duḥkha_ and the psychological analysis they receive in the Buddhist tradition, see Harris 2014 and Garfield 2021, chapter 6.
-
-[^35]:
-     Gethin 1998, 27.
-
-[^36]:
-     _BCA_ 7.64.
-
-[^37]:
-     _BCA_ 8.80.
-
-[^38]:
-     Baker 2022.
-
-[^39]:
-     Cf. Gold 2019, 3.
-
-[^40]:
-     Baker 2022.
-
-[^41]:
-     Though see Baker 2022 for a discussion of the extent to which Buddhist and utilitarian/effective altruist priorities might align in the short term.
-
-[^42]:
-     See e.g. Goodman 2009, 102: “Even a cursory reading of Śāntideva’s text makes it clear that he regards the universe, at least as it exists now, as bad.”
-
-[^43]:
-     Westerhoff 2017, 149, 153.
-
-[^44]:
-     Panaïoti 2012, 159.
-
-[^45]:
-     MN 72 “Aggivaccha Sutta.”
-
-[^46]:
-     MN 75 “To Māgandiya.”
-
-[^47]:
-     _BCA_ 8.108.
-
-[^48]:
-     _BCA_ 10.33.
-
-[^49]:
-     See Breyer 2015 for a defense of this interpretation.
-
-[^50]:
-     For discussion, see Clayton 2018; King 2018; and Garfield 2021, chapter 12.
-
-[^51]:
-     King 2018.
-
-[^52]:
-     Clayton 2018, 136.
-
-[^53]:
-     For elaboration, see MacAskill (2019).
-
-[^54]:
-     For a survey of Buddhist ethical thought on non-human animals, see Finnigan 2017.
-
-[^55]:
-     See e.g. the _Lankāvatārasūtra_, an important Mahāyāna _sūtra_ that advocates for vegetarianism and continues to exert cultural and religious influence in East Asia.
-
-[^56]:
-     Aversion, to reiterate, is an intentional attitude directed at the first-order contents of experience, which include hedonic valence (whether something is pleasant or unpleasant). In Buddhist psychology, aversion can arise only in the mindstream of a being that has a sense—even if minimal—of being someone/something _for whom_ things can be good or bad. (You and I clearly have this sense. Rocks do not. It is exceedingly likely that dogs do. But do all worms and insects? This descriptive question has key ethical significance for the Buddhist.)
-
-[^57]:
-     Although Buddhists may find subtle disagreement with the appeal to preferences in the following passage, it is worth quoting from David Foster Wallace’s essay “Consider the Lobster” for illustration. Remarking on the culinary practice of boiling lobsters alive, Wallace writes, “there remain the facts of the frantically clanking lid, the pathetic clinging to the edge of the pot. Standing at the stove, it is hard to deny in any meaningful way that this is a living creature experiencing pain and wishing to avoid/escape the painful experience. To my lay mind, the lobster's behavior in the kettle appears to be the expression of a _preference;_ and it may well be that an ability to form preferences is the decisive criterion for real suffering.* The logic of this (preference → suffering) relation may be easiest to see in the negative case. If you cut certain kinds of worms in half, the halves will often keep crawling around and going about their vermiform business as if nothing had happened. When we assert, based on their post-op behavior, that these worms appear not to be suffering, what we're really saying is that there's no sign that the worms know anything bad has happened or would _prefer_ not to have gotten cut in half” (2005, 267).
-
-[^58]:
-     See [Ord (2020)](https://theprecipice.com/) and [Greaves and MacAskill (2021)](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism-2/) for exposition and defense of this sort of view, as well as discussion of how one might arrive at it even if one does not accept all the components of utilitarianism.
-
-[^59]:
-     Though I should note that there has been very little scholarly work on what Buddhist principles imply about the open questions in population ethics.
-
-[^60]:
-     The best stand-alone source on human enhancement I’m aware of is Buchanan 2011.
-
-[^61]:
-     Recall the no-self (_anātman_) thesis: all we are are series of impersonal mental and physical events, which themselves arise in dependence on innumerable other impersonal causes and conditions.
+[^1]: I am grateful to Richard Yetter Chappell, Jonathan Gold, and Darius Meissner for helpful comments on earlier drafts of this article.
+[^2]: Though, it is important not to conflate contemporary Theravāda Buddhism with Early Buddhism as it was practiced during the life of the historical Buddha (ca. 6th/5th centuries BCE) and the centuries afterwards.
+[^3]: Vajrayāna Buddhism, perhaps most associated with Tibet, is sometimes thought of as a third branch. Scholars tend to classify Vajrayāna Buddhism as a special sub-branch of the Mahāyāna, but for our purposes, not much hangs on this classificatory distinction.
+[^4]: This is a simplification—quoting from [this article](/acting-on-utilitarianism#effective-altruism), “While utilitarianism and effective altruism share certain similarities, they are distinct and differ in important ways. Unlike utilitarianism, effective altruism does not require that we [sacrifice our own interests](/objections-to-utilitarianism/demandingness) whenever doing so brings about a greater benefit to others. Unlike utilitarianism, effective altruism does not claim that we should always seek to maximize wellbeing, [whatever the means](/objections-to-utilitarianism/rights). Finally, unlike utilitarianism, effective altruism does not equate the good with the total sum of wellbeing.” As a result, effective altruism is compatible with [a wide range of moral theories](/near-utilitarian-alternatives#conclusion) besides utilitarianism.
+[^5]: Garfield 2021, 17.
+[^6]: See e.g. Keown 1992 and Fink 2013.
+[^7]: See e.g. Goodman 2009 and Siderits 2016.
+[^8]: See e.g. Harvey 2000, 51 and Vélez de Cea 2010.
+[^9]: See e.g. Hallisey 1996, Barnhart 2012, and Garfield 2021.
+[^10]: See Hidalgo 2020.
+[^11]: See Gowans 2015a and Gowans 2017.
+[^12]: Though see Goodman 2009, who argues that Theravāda Buddhist ethics is a form of rule consequentialism, and [this textbook](/types-of-utilitarianism#consequentialism) for a discussion of whether rule consequentialism is a species of consequentialism at all.
+[^13]: See subsection 3.2.2 for some considerations in favor of this reading.
+[^14]: The relationship between personal liberation and other-regarding virtues like compassion is a vexed interpretive issue. It is uncontroversial that these virtues are traditionally thought to facilitate one’s progress on the path to awakening. Briefly, the reason is that the ultimate cause of _duḥkha_ is egocentrism (see subsection 2.3), and cultivating non-instrumental concern for the well-being of others is supposed to counteract egocentrism. On some readings, the other-regarding virtues have solely instrumental value: they matter just to the extent that they help us to attain liberation (see e.g. Breyer 2015 and Siderits 2016). On other readings, the core Buddhist virtues are essential parts of the awakened state and valuable for their own sakes (see e.g. Keown 2001, Goodman 2009, Flanagan 2011, and Gowans 2015b).
+[^15]: Davis 2017, 231. _Dukkha_ is the Pāli word for the Sanskrit ‘_duḥkha_’.
+[^16]: See Goodman 2016 for a more comprehensive treatment of Śāntideva. Goodman’s consequentialist reading of _BCA_ (see also Goodman 2009) has informed my own reading of the text.
+[^17]: _BCA_ 5.84; see also 5.101, 8.109, 8.137.
+[^18]: _BCA_ 5.84.
+[^19]: _BCA_ 6.75; see also 6.72.
+[^20]: _BCA_ 8.105; see also 5.86-87.
+[^21]: _BCA_ 8.90-10; see also 8.104-120.
+[^22]: _BCA_ 8.90, 8.94, 8.103. It is fascinating to compare Śāntideva’s arguments in _BCA_ 8.90-137 to those of Derek Partfit in Part III of _Reasons and Persons_, which argues for an impartial consequentialism partially on the basis of revisionary views of personal identity. On some readings, Śāntideva anticipates Parfit by over 1,000 years.
+[^23]: A moral theory can agree that we ought to impartially promote well-being without being foundationally consequentialist. Take, for example, a moral theory whose bedrock is compassion. This theory might tell us to promote well-being because that is the compassionate thing to do. But importantly, ‘because it’s compassionate’ is a different explanation of why an action is right than ‘because it will lead to better consequences than every other available action’.
+[^24]: Garfield 2021, 22-23.
+[^25]: If Garfield’s interpretation is correct, then it is also possible that Buddhism is not even committed to welfarism. [Welfarism](/types-of-utilitarianism#welfarism) says that positive well-being is the only intrinsic value. Everything else that is valuable is so just to the extent that it contributes to well-being. But on one way of understanding moral phenomenology, the only intrinsic value is (acquiring) apt moral phenomenology. And although having apt moral phenomenology entails having great non-instrumental concern for the well-being of others, well-being itself does not play the fundamental axiological role. (I do not claim that this is Garfield’s view. It is simply a conceptual possibility.)
+[^26]: Though, see Davis 2016, 146 for a brief mention of the problem in the context of Early Buddhism.
+[^27]: Bostrom 2011, 10.
+[^28]: Of course, it is also bad news for non-consequentialist moral theories which agree that we have moral reason to promote the good. But the problem seems more acute for consequentialism than it does for non-consequentialism, because whereas infinitarian paralysis threatens the _entire_ consequentialist enterprise, it presumably leaves other aspects of non-consequentialist moral life intact. We can still do things like cultivate virtues and respect others’ autonomy even if we cannot increase the quantity of well-being in the universe.
+[^29]: E.g., by attempting fancy mathematical footwork (e.g., Bostrom 2011) or accepting other counterintuitive implications, such as that the spatiotemporal arrangement of value _itself_ has non-instrumental importance (e.g., Wilkinson 2021), which arguably run against the core intuitions that motivate consequentialism in the first place.
+[^30]: Particularly prominent in the Zen tradition, an East Asian form of Mahāyāna Buddhism.
+[^31]: Strawson 2017, 73, 75, 77.
+[^32]: For a more thorough exposition of this psychological process, see Panaïoti 2012, chapter 4.
+[^33]: Buddhists often portray this state in terms of negatives such as freedom from fear, dissatisfaction, and other unwholesome mental states.
+[^34]: For a deeper dive into the various forms of _duḥkha_ and the psychological analysis they receive in the Buddhist tradition, see Harris 2014 and Garfield 2021, chapter 6.
+[^35]: Gethin 1998, 27.
+[^36]: _BCA_ 7.64.
+[^37]: _BCA_ 8.80.
+[^38]: Baker 2022.
+[^39]: Cf. Gold 2019, 3.
+[^40]: Baker 2022.
+[^41]: Though see Baker 2022 for a discussion of the extent to which Buddhist and utilitarian/effective altruist priorities might align in the short term.
+[^42]: See e.g. Goodman 2009, 102: “Even a cursory reading of Śāntideva’s text makes it clear that he regards the universe, at least as it exists now, as bad.”
+[^43]: Westerhoff 2017, 149, 153.
+[^44]: Panaïoti 2012, 159.
+[^45]: MN 72 “Aggivaccha Sutta.”
+[^46]: MN 75 “To Māgandiya.”
+[^47]: _BCA_ 8.108.
+[^48]: _BCA_ 10.33.
+[^49]: See Breyer 2015 for a defense of this interpretation.
+[^50]: For discussion, see Clayton 2018; King 2018; and Garfield 2021, chapter 12.
+[^51]: King 2018.
+[^52]: Clayton 2018, 136.
+[^53]: For elaboration, see MacAskill (2019).
+[^54]: For a survey of Buddhist ethical thought on non-human animals, see Finnigan 2017.
+[^55]: See e.g. the _Lankāvatārasūtra_, an important Mahāyāna _sūtra_ that advocates for vegetarianism and continues to exert cultural and religious influence in East Asia.
+[^56]: Aversion, to reiterate, is an intentional attitude directed at the first-order contents of experience, which include hedonic valence (whether something is pleasant or unpleasant). In Buddhist psychology, aversion can arise only in the mindstream of a being that has a sense—even if minimal—of being someone/something _for whom_ things can be good or bad. (You and I clearly have this sense. Rocks do not. It is exceedingly likely that dogs do. But do all worms and insects? This descriptive question has key ethical significance for the Buddhist.)
+[^57]: Although Buddhists may find subtle disagreement with the appeal to preferences in the following passage, it is worth quoting from David Foster Wallace’s essay “Consider the Lobster” for illustration. Remarking on the culinary practice of boiling lobsters alive, Wallace writes, “there remain the facts of the frantically clanking lid, the pathetic clinging to the edge of the pot. Standing at the stove, it is hard to deny in any meaningful way that this is a living creature experiencing pain and wishing to avoid/escape the painful experience. To my lay mind, the lobster's behavior in the kettle appears to be the expression of a _preference;_ and it may well be that an ability to form preferences is the decisive criterion for real suffering.\* The logic of this (preference → suffering) relation may be easiest to see in the negative case. If you cut certain kinds of worms in half, the halves will often keep crawling around and going about their vermiform business as if nothing had happened. When we assert, based on their post-op behavior, that these worms appear not to be suffering, what we're really saying is that there's no sign that the worms know anything bad has happened or would _prefer_ not to have gotten cut in half” (2005, 267).
+[^58]: See [Ord (2020)](https://theprecipice.com/) and [Greaves and MacAskill (2021)](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism-2/) for exposition and defense of this sort of view, as well as discussion of how one might arrive at it even if one does not accept all the components of utilitarianism.
+[^59]: Though I should note that there has been very little scholarly work on what Buddhist principles imply about the open questions in population ethics.
+[^60]: The best stand-alone source on human enhancement I’m aware of is Buchanan 2011.
+[^61]: Recall the no-self (_anātman_) thesis: all we are are series of impersonal mental and physical events, which themselves arise in dependence on innumerable other impersonal causes and conditions.

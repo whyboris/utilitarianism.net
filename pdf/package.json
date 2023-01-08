@@ -1,5 +1,5 @@
 {
-  "scripts":{
+  "scripts": {
     "start": "website2pdf --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer --safe-title --output-dir ./temp && npm run flat",
     "flat": "node index.js"
   },

@@ -30,35 +30,26 @@ Taylor Mill is most famous, however, for her views on women’s rights, expresse
 
 ## Representative Works of Harriet Taylor Mill
 
-* [The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill) (1851)
-* The Complete Works of Harriet Taylor Mill (1998)
+- [The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill) (1851)
+- The Complete Works of Harriet Taylor Mill (1998)
 
 ## Resources on Harriet Taylor Mill’s Life and Work
 
-* [Stanford Encyclopedia of Philosophy article on Harriet Taylor Mill](https://plato.stanford.edu/entries/harriet-mill/)
-* [Harriet Taylor Mill WordPress Blog](https://harriettaylormill.com/)
-* [Harriet Taylor Mill and the Enfranchisement of Women](https://mirandayardley.com/en/harriet-taylor-mill-and-the-enfranchisement-of-women/) on Miranda Yardley’s blog
-* [Harriet Taylor Mill Wikipedia article](https://en.wikipedia.org/wiki/Harriet_Taylor_Mill)
+- [Stanford Encyclopedia of Philosophy article on Harriet Taylor Mill](https://plato.stanford.edu/entries/harriet-mill/)
+- [Harriet Taylor Mill WordPress Blog](https://harriettaylormill.com/)
+- [Harriet Taylor Mill and the Enfranchisement of Women](https://mirandayardley.com/en/harriet-taylor-mill-and-the-enfranchisement-of-women/) on Miranda Yardley’s blog
+- [Harriet Taylor Mill Wikipedia article](https://en.wikipedia.org/wiki/Harriet_Taylor_Mill)
 
 ## Prominent Quotes of Harriet Taylor Mill
 
-* “We deny the right of any portion of the species to decide for another portion what is and what is not their ‘proper sphere’. The proper sphere for all human beings is the largest and highest which they are able to attain to.” ([The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill), 1851)
-* “There is no inherent reason or necessity that all women should voluntarily choose to devote their lives to one animal function and its consequences. Numbers of women are wives and mothers only because there is no other career open to them, no other occupation for their feelings or activities. Every improvement in their education, and enlargement of their faculties, everything which renders them more qualified for any other mode of life, increases the number of those to whom it is an injury and an oppression to be denied the choice. To say that women must be excluded from active life because maternity disqualifies them for it, is in fact to say that every other career should be forbidden them, in order that maternity may be their only resource.” ([The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill), 1851)
-* “(...) if we look to the great majority of cases, the effect of women’s legal inferiority, on the character both of women and of men, must be painted in far darker colours. We do not speak here of the grosser brutalities, nor of the man’s power to seize on the woman’s earnings, or compel her to live with him against her will. We do not address ourselves to any one who requires to have it proved that these things should be remedied. We suppose average cases, in which there is neither complete union nor complete disunion of feelings and character; and we affirm, that, in such cases, the influence of the dependence on the woman’s side is demoralising to the character of both.” ([The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill), 1851)
+- “We deny the right of any portion of the species to decide for another portion what is and what is not their ‘proper sphere’. The proper sphere for all human beings is the largest and highest which they are able to attain to.” ([The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill), 1851)
+- “There is no inherent reason or necessity that all women should voluntarily choose to devote their lives to one animal function and its consequences. Numbers of women are wives and mothers only because there is no other career open to them, no other occupation for their feelings or activities. Every improvement in their education, and enlargement of their faculties, everything which renders them more qualified for any other mode of life, increases the number of those to whom it is an injury and an oppression to be denied the choice. To say that women must be excluded from active life because maternity disqualifies them for it, is in fact to say that every other career should be forbidden them, in order that maternity may be their only resource.” ([The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill), 1851)
+- “(...) if we look to the great majority of cases, the effect of women’s legal inferiority, on the character both of women and of men, must be painted in far darker colours. We do not speak here of the grosser brutalities, nor of the man’s power to seize on the woman’s earnings, or compel her to live with him against her will. We do not address ourselves to any one who requires to have it proved that these things should be remedied. We suppose average cases, in which there is neither complete union nor complete disunion of feelings and character; and we affirm, that, in such cases, the influence of the dependence on the woman’s side is demoralising to the character of both.” ([The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill), 1851)
 
 {{< all-thinkers >}}
 
-[^1]:
-     From an 1854 letter John Stuart Mill sent Taylor Mill.
-
-[^2]:
-     Cf. [Harriet Taylor Mill](https://harriettaylormill.com/ ), Wordpress Blog. (Accessed: 1st January 2020).
-
-[^3]:
-     Mill, J. S. (1873). _[Autobiography](/books/autobiography-john-stuart-mill/7)_. Chapter 7: 1840-1870.
-
-[^4]:
-     Taylor Mill, H. (1851). [The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill). _Westminster Review_., p. 3
-
-[^5]:
-     Taylor Mill, H. (1851). [The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill). _Westminster Review_., p. 3
+[^1]: From an 1854 letter John Stuart Mill sent Taylor Mill.
+[^2]: Cf. [Harriet Taylor Mill](https://harriettaylormill.com/), Wordpress Blog. (Accessed: 1st January 2020).
+[^3]: Mill, J. S. (1873). _[Autobiography](/books/autobiography-john-stuart-mill/7)_. Chapter 7: 1840-1870.
+[^4]: Taylor Mill, H. (1851). [The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill). _Westminster Review_., p. 3
+[^5]: Taylor Mill, H. (1851). [The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill). _Westminster Review_., p. 3

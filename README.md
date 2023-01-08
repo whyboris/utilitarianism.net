@@ -1,6 +1,6 @@
 # Utilitarianism.net
 
-This is a WIP repository that will replace the current _utilitarianism.net_ website. The technology we are using is [*Hugo*](https://gohugo.io/) for its flexibility, speed, ease of use, and _i18n_ (internationalization) support.
+This is a WIP repository that will replace the current _utilitarianism.net_ website. The technology we are using is [_Hugo_](https://gohugo.io/) for its flexibility, speed, ease of use, and _i18n_ (internationalization) support.
 
 ## Developing
 
@@ -36,7 +36,7 @@ After adding a document it will likely need some manual fixes:
   - if the authors are not "MacAskill, W., Meissner, D., and Chappell, R.Y." then do `{{< how-to-cite authors="your authors" >}}`
 - Add the _Action_ button shortcode `{{< button >}}`
 - If a footnote was multi-paragraph, add the indentation so the text stays with the footnote (rather than being rendered to the page at the bottom)
-- If you have the [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) in your _VSCode_, right-click and "Format Document" 
+- If you have the [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) in your _VSCode_, right-click and "Format Document"
 - Look over the document for any other manual fixes
 
 Consider adding [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) to your _VSCode_ for automatic error highlighting, and adding [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) for catching some spelling mistakes.
@@ -57,6 +57,8 @@ In the future we may want to use some `rtl` support
   - these use the `list.html` _layout_
 - `site-header.html` is unused - meant for homepage only (would include language dropdown)
 - _favicon_ generated with [this website](https://realfavicongenerator.net/) & added a custom `svg` to handle dark-theme browser, see [instructions](https://web.dev/building-an-adaptive-favicon/)
+- We are using [Prettier](https://prettier.io/) to format our code, along with [prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template). 
+  - Install both globally `npm install -g prettier` & `npm install -g prettier-plugin-go-template` and then run `prettier --write . '!themes/**/*'` to format all the files in the repository.
 
 ## Search
 
@@ -96,9 +98,9 @@ Starting may be daunting, but you can do it! Setting up will take two steps:
 From now on any time you want to work on the website, _with your terminal_:
 
 - enter the project folder `cd utilitarianism.net`, and
-- run `hugo server -D` 
+- run `hugo server -D`
 - open `http://localhost:1313/` in your browser
-  
+
 After editing any file (with _VSCode_ or any other text editor) and saving it, the website will automatically refresh with the latest changes 🎉
 
 Feel free to reach out with questions by going to [Issues](https://github.com/whyboris/utilitarianism.net/issues)

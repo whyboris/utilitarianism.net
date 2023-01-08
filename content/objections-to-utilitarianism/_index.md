@@ -8,7 +8,7 @@ page: 0
 image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
-> Bernard Williams...concluded a lengthy attack on utilitarianism by remarking: ‘The day cannot be too far off in which we hear no more of it.’ It is now more than forty years since Williams made that comment, but we continue to hear plenty about utilitarianism.[^1]  \
+> Bernard Williams...concluded a lengthy attack on utilitarianism by remarking: ‘The day cannot be too far off in which we hear no more of it.’ It is now more than forty years since Williams made that comment, but we continue to hear plenty about utilitarianism.[^1] \
 > \- Peter Singer & Katarzyna de Lazari-Radek
 
 {{< TOC >}}
@@ -61,11 +61,8 @@ In separate articles, we discuss the following critiques of utilitarianism:
 
 ## Resources and Further Reading
 
-* Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford: Oxford University Press. Chapter 4: Objections.
-* J. J. C. Smart & Bernard Williams (1973). _Utilitarianism: For and Against_. Cambridge: Cambridge University Press.
+- Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford: Oxford University Press. Chapter 4: Objections.
+- J. J. C. Smart & Bernard Williams (1973). _Utilitarianism: For and Against_. Cambridge: Cambridge University Press.
 
-[^1]:
-     de Lazari-Radek, K. & Singer, P. (2017). _Utilitarianism: A Very Short Introduction_. Oxford: Oxford University Press. Preface.
-
-[^2]:
-     For a discussion of evolutionary debunking arguments, see Hanson, R. (2002). [Why Health Is Not Special: Errors In Evolved Bioethics Intuitions](http://mason.gmu.edu/~rhanson/bioerr.pdf). _Social Philosophy & Policy_. 19(2): 153–79. See also the discussion in our chapter on the [Arguments for Utilitarianism](/arguments-for-utilitarianism#evolutionary-debunking-arguments).
+[^1]: de Lazari-Radek, K. & Singer, P. (2017). _Utilitarianism: A Very Short Introduction_. Oxford: Oxford University Press. Preface.
+[^2]: For a discussion of evolutionary debunking arguments, see Hanson, R. (2002). [Why Health Is Not Special: Errors In Evolved Bioethics Intuitions](http://mason.gmu.edu/~rhanson/bioerr.pdf). _Social Philosophy & Policy_. 19(2): 153–79. See also the discussion in our chapter on the [Arguments for Utilitarianism](/arguments-for-utilitarianism#evolutionary-debunking-arguments).

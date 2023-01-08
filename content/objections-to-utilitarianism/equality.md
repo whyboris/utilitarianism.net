@@ -57,7 +57,7 @@ To see this, suppose that you can choose between one of two options for distribu
 
 ![Utilitarianism and equality - objections to utilitarianism](/img/equality3.jpg "Utilitarianism and equality - objections to utilitarianism")
 
-We can stipulate that both Abel and Beth would rationally prefer Risky Gamble over Safe Bet. They do so because their expected well-being in Risky Gamble is 50 (=(80+20)*50%), which is higher than the expected well-being in Safe Bet of 45.[^5] So, if we follow ex ante Pareto then we should prefer Risky Gamble to Safe Bet. However, Risky Gamble results in an unequal outcome. Those who preferred Equality to Inequality must therefore also prefer Safe Bet to Risky Gamble. They must do so even though doing so is against the best interests of all parties concerned.
+We can stipulate that both Abel and Beth would rationally prefer Risky Gamble over Safe Bet. They do so because their expected well-being in Risky Gamble is 50 (=(80+20)\*50%), which is higher than the expected well-being in Safe Bet of 45.[^5] So, if we follow ex ante Pareto then we should prefer Risky Gamble to Safe Bet. However, Risky Gamble results in an unequal outcome. Those who preferred Equality to Inequality must therefore also prefer Safe Bet to Risky Gamble. They must do so even though doing so is against the best interests of all parties concerned.
 
 This objection has been developed formally by the economist John Harsanyi, who proved it in his utilitarian aggregation theorem.[^6]
 
@@ -73,26 +73,15 @@ Finally, proponents of utilitarianism may once again “bite the bullet” and s
 
 ## Resources and Further Reading
 
-* Toby Ord (2015). [A New Counterexample to Prioritarianism](http://amirrorclear.net/files/a-new-counterexample-to-prioritarianism.pdf). _Utilitas,_ _27_(3): 298–302.
-* Roger Crisp (2003). [Equality, Priority, and Compassion](https://www.jstor.org/stable/10.1086/373954?seq=1). _Ethics_, 113(4): 745–763.
-* Larry Temkin (2003). [Equality, Priority or What?](https://www.cambridge.org/core/journals/economics-and-philosophy/article/equality-priority-or-what/9FEEDE10582AE359AAB4EF545EDCD201). _Economics and Philosophy_, 19(1): 61–87.
-* Derek Parfit (1997). [Equality and Priority](https://www.philosophy.rutgers.edu/joomlatools-files/docman-files/3ParfitEqualityorPriority2000.pdf). _Ratio_, 10(3): 202–221.
-* Larry Temkin (1993). [Inequality](https://global.oup.com/academic/product/inequality-9780195111491). New York: Oxford University Press.
+- Toby Ord (2015). [A New Counterexample to Prioritarianism](http://amirrorclear.net/files/a-new-counterexample-to-prioritarianism.pdf). _Utilitas,_ _27_(3): 298–302.
+- Roger Crisp (2003). [Equality, Priority, and Compassion](https://www.jstor.org/stable/10.1086/373954?seq=1). _Ethics_, 113(4): 745–763.
+- Larry Temkin (2003). [Equality, Priority or What?](https://www.cambridge.org/core/journals/economics-and-philosophy/article/equality-priority-or-what/9FEEDE10582AE359AAB4EF545EDCD201). _Economics and Philosophy_, 19(1): 61–87.
+- Derek Parfit (1997). [Equality and Priority](https://www.philosophy.rutgers.edu/joomlatools-files/docman-files/3ParfitEqualityorPriority2000.pdf). _Ratio_, 10(3): 202–221.
+- Larry Temkin (1993). [Inequality](https://global.oup.com/academic/product/inequality-9780195111491). New York: Oxford University Press.
 
-[^1]:
-     Greene, J. (2013). _Moral Tribes: Emotion, Reason, and the Gap Between Us and Them_. New York: The Penguin Press. Chapter 10.
-
-[^2]:
-     Cf. Drupp et al. (2018). [Discounting Disentangled](http://www.lse.ac.uk/GranthamInstitute/wp-content/uploads/2015/06/Working-Paper-172-Drupp-et-al.pdf). _American Economic Journal: Economic Policy_. 10(4): 109–134.
-
-[^3]:
-     Parfit, D. (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_,10(3): 202–221.
-
-[^4]:
-     Though this leaves open the choice between the utilitarian's [equal consideration of interests](/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests) and the [prioritarian](/near-utilitarian-alternatives#prioritarianism) approach of giving extra weight to the interests of the worst off.
-
-[^5]:
-     Indeed, the standard way of defining a magnitude of well-being is in terms of rational decisions in the face of uncertainty. On this account, what it means for an outcome to provide 100 well-being is that one, for example, ought to be indifferent between that outcome and a 50/50 chance of 200 well-being or 0 well-being.
-
-[^6]:
-     Cf. Harsanyi, J. C. (1955). [Cardinal welfare, individualistic ethics, and interpersonal comparisons of utility](https://www.jstor.org/stable/1827128). _The Journal of Political Economy_., pp. 309–321.
+[^1]: Greene, J. (2013). _Moral Tribes: Emotion, Reason, and the Gap Between Us and Them_. New York: The Penguin Press. Chapter 10.
+[^2]: Cf. Drupp et al. (2018). [Discounting Disentangled](http://www.lse.ac.uk/GranthamInstitute/wp-content/uploads/2015/06/Working-Paper-172-Drupp-et-al.pdf). _American Economic Journal: Economic Policy_. 10(4): 109–134.
+[^3]: Parfit, D. (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_,10(3): 202–221.
+[^4]: Though this leaves open the choice between the utilitarian's [equal consideration of interests](/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests) and the [prioritarian](/near-utilitarian-alternatives#prioritarianism) approach of giving extra weight to the interests of the worst off.
+[^5]: Indeed, the standard way of defining a magnitude of well-being is in terms of rational decisions in the face of uncertainty. On this account, what it means for an outcome to provide 100 well-being is that one, for example, ought to be indifferent between that outcome and a 50/50 chance of 200 well-being or 0 well-being.
+[^6]: Cf. Harsanyi, J. C. (1955). [Cardinal welfare, individualistic ethics, and interpersonal comparisons of utility](https://www.jstor.org/stable/1827128). _The Journal of Political Economy_., pp. 309–321.
