@@ -1,6 +1,7 @@
 ---
-title: "Objections to Utilitarianism"
-date: 2022-08-08T10:10:52-04:00
+title: "Objections to Utilitarianism and Responses"
+date: 2023-01-01T10:10:52-04:00
+updated: 2023, Jan 8th - in sync with website
 draft: false
 menu: ["objections", "main"]
 weight: 8
