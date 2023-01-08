@@ -58,7 +58,7 @@ In the future we may want to use some `rtl` support
 - `site-header.html` is unused - meant for homepage only (would include language dropdown)
 - _favicon_ generated with [this website](https://realfavicongenerator.net/) & added a custom `svg` to handle dark-theme browser, see [instructions](https://web.dev/building-an-adaptive-favicon/)
 - We are using [Prettier](https://prettier.io/) to format our code, along with [prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template). 
-  - Install both globally `npm install -g prettier` & `npm install -g prettier-plugin-go-template` and then run `prettier --write .` to format all the files in the repository.
+  - Install both globally `npm install -g prettier` & `npm install -g prettier-plugin-go-template` and then run `prettier --write . '!themes/**/*'` to format all the files in the repository.
 
 ## Search
 

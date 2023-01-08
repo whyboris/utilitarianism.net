@@ -1,5 +1,6 @@
 { 
   "endOfLine": "lf",
+  "tabWidth": 2,
   "overrides": [
     {
       "files": ["*.html"],
