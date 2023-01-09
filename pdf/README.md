@@ -14,4 +14,4 @@ We can generate all the PDFs of every page:
 
 ## Notes
 
-- To customize the PDF styling, just edit the file `assets/scss/pdf.scss`
+- To customize the PDF styling, just edit the file `pdf.scss`
