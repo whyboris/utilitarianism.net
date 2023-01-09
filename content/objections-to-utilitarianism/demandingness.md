@@ -1,6 +1,7 @@
 ---
 title: "The Demandingness Objection"
 date: 2022-08-08T10:08:55-04:00
+updated: 2023, Jan 8th - in sync with website
 type: "page"
 draft: false
 menu: ["objections"]
@@ -21,7 +22,7 @@ Very few people, including utilitarian philosophers, live their life in perfect 
 
 To many people, these extreme obligations of utilitarianism seem absurd at first glance. According to commonsense morality, we are permitted to spend most of our income on ourselves, our loved ones, and on our personal projects. Charity, by commonsense lights, is good and praiseworthy, but not obligatory.
 
-Proponents of utilitarianism might [respond to this objection in four ways](/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). We will go through these in turn.
+Proponents of utilitarianism might [respond to this objection in four ways](/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). We will go through them in turn.
 
 ## Accommodating the Intuition
 

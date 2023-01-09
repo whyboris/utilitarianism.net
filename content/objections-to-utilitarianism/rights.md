@@ -1,6 +1,7 @@
 ---
 title: "The Rights Objection"
 date: 2022-08-08T10:08:57-04:00
+updated: 2023, Jan 8th - in sync with website
 type: "page"
 draft: false
 menu: ["objections"]
@@ -21,7 +22,7 @@ Sometimes, realizing the best outcome requires violating moral constraints again
 
 At first glance, it seems that utilitarianism has to answer the question with “Yes, the doctor should kill Chuck”. It is better that five people live than that one person lives. But on commonsense morality and virtually every other moral theory, the answer is “No, do not kill Chuck”. On most views, killing Chuck would be morally monstrous. Utilitarianism seems to be the rare exception that claims otherwise. This apparent implication is often taken as an argument against utilitarianism being the correct moral theory.
 
-Proponents of utilitarianism might [respond to this objection in four ways](/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). We will go through these in turn.
+Proponents of utilitarianism might [respond to this objection in four ways](/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). We will go through them in turn.
 
 ## Accommodating the Intuition
 

@@ -1,6 +1,7 @@
 ---
-title: "Objections to Utilitarianism"
-date: 2022-08-08T10:10:52-04:00
+title: "Objections to Utilitarianism and Responses"
+date: 2023-01-01T10:10:52-04:00
+updated: 2023, Jan 8th - in sync with website
 draft: false
 menu: ["objections", "main"]
 weight: 8
@@ -8,8 +9,8 @@ page: 0
 image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
-> Bernard Williams...concluded a lengthy attack on utilitarianism by remarking: ‘The day cannot be too far off in which we hear no more of it.’ It is now more than forty years since Williams made that comment, but we continue to hear plenty about utilitarianism.[^1] \
-> \- Peter Singer & Katarzyna de Lazari-Radek
+> _"Bernard Williams...concluded a lengthy attack on utilitarianism by remarking: ‘The day cannot be too far off in which we hear no more of it.’ It is now more than forty years since Williams made that comment, but we continue to hear plenty about utilitarianism."_ \
+> \- [Peter Singer](/utilitarian-thinker/peter-singer) & Katarzyna de Lazari-Radek [^1]
 
 {{< TOC >}}
 
@@ -47,7 +48,7 @@ In separate articles, we discuss the following critiques of utilitarianism:
 
 4. [The mere means objection](/objections-to-utilitarianism/mere-means) claims that utilitarianism treats people as “mere means” to the greater good rather than as ends in themselves.
 
-5. [The separateness of persons objection](/objections-to-utilitarianism/separateness) charges utilitarianism with aggregating well-being in an unacceptable way, neglecting the significance of the boundaries between individuals.
+5. [The separateness of persons objection](/objections-to-utilitarianism/separateness-of-persons) charges utilitarianism with aggregating well-being in an unacceptable way, neglecting the significance of the boundaries between individuals.
 
 6. [The alienation objection](/objections-to-utilitarianism/alienation) alleges that the moral reasons posited by utilitarianism are troublingly cold and aloof, alienating us from the particular people and projects that (rightly) matter to us.
 

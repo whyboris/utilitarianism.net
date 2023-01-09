@@ -18,10 +18,20 @@
 
   a {
     color: $dark-blue;
+    text-underline-offset: 3px;
+    text-decoration-color: $link-underline-blue;
+
+    &:hover {
+      color: black;
+    }
   }
 
   img {
     max-width: 100%;
+  }
+
+  li {
+    margin-bottom: 0.5em;
   }
 }
 

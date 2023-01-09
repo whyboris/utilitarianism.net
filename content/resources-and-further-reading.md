@@ -6,19 +6,11 @@ menu: "main"
 image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
----
-
-WARNING - webpage outdated
-
----
-
 <div class="hide-TOC-children-hack">
 {{< TOC >}}
 </div>
 
 ## Chapter 1: Introduction to Utilitarianism
-
-Resources for [Chapter 1: Introduction to Utilitarianism](/introduction-to-utilitarianism):
 
 ### Introduction
 
@@ -50,20 +42,21 @@ Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 - Julia Driver (2011). _[Consequentialism, New Problems of Philosophy](https://www.routledge.com/Consequentialism/Driver/p/book/9780415772587)_. José Luis Bermúdez (ed.). Abingdon: Routledge.
 - Samuel Scheffler (1994). _[The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions](https://www.oxfordscholarship.com/view/10.1093/0198235119.001.0001/acprof-9780198235118)_. Oxford: Clarendon Press.
 
-### Welfarism & Theories of Welfare
+### Welfarism & Theories of Well-Being
 
-- Roger Crisp (2017). [Wellbeing](https://plato.stanford.edu/entries/well-being/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Roger Crisp (2017). [Well-Being](https://plato.stanford.edu/entries/well-being/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Nils Holtug (2003). [Welfarism – The Very Idea](https://www.cambridge.org/core/journals/utilitas/article/welfarism-the-very-idea/A30F2C8C26CF4AA19D9984BBC8FC9DA3). _Utilitas_. 15(2): 151–174.
 - Shelly Kagan (1992). [The Limits of Well-being](https://drive.google.com/file/d/0B4kMPIEI5Mb8cC1lOF91R1hFaE0/view). Social Philosophy & Policy. 9(2): 169–189.
 
 ### Impartiality
 
 - Troy Jollimore (2018). [Impartiality](https://plato.stanford.edu/entries/impartiality/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Robert Goodin (1988). [What is so special about our fellow countrymen?](https://dx.doi.org/10.1086/292998) _Ethics 98_ (4): 663-686.
 
 ### Additive Aggregationism
 
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. London: Continuum. Chapter 5: Utilitarian Aggregation.
-- Alastair Norcross (1997). [Comparing Harms: Headaches and Human Lives](https://spot.colorado.edu/~norcross/Comparingharms.pdf). _Philosophy & Public Affairs_. 26(2): 135–167
+- Alastair Norcross (1997). [Comparing Harms: Headaches and Human Lives](https://spot.colorado.edu/~norcross/Comparingharms.pdf). _Philosophy & Public Affairs_. 26(2): 135–167.
 - John Broome (1991). _[Weighing Goods: Equality, Uncertainty, and Time](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119451266)_. London: Wiley-Blackwell. Chapters 4 and 10.
 
 ### Hedonism
@@ -83,28 +76,43 @@ Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 - Gustaf Arrhenius (2000). _[Future generations: A challenge for moral theory](http://www.diva-portal.org/smash/get/diva2:170236/FULLTEXT01.pdf)_. PhD Dissertation, Uppsala University.
 - Derek Parfit (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Clarendon Press.
 
-### Scalar Versus Maximizing or Satisficing Utilitarianism
+### Maximizing, Satisficing and Scalar Utilitarianism
 
+- Richard Y. Chappell (2020). [Deontic Pluralism and the Right Amount of Good](https://philpapers.org/rec/CHADPA-8). In Douglas W. Portmore (ed.), _The Oxford Handbook of Consequentialism_. Oxford University Press. pp. 498–512.
 - Neil Sinhababu (2018). [Scalar consequentialism the right way](https://philarchive.org/archive/SINSCT-3). _Philosophical Studies_. 175: 3131–3144.
+- Alastair Norcross (2020). _[Morality by Degrees: Reasons Without Demands](https://philpapers.org/rec/NORMBD)_. Oxford University Press.
 - Alastair Norcross (2006). [The Scalar Approach to Utilitarianism](https://onlinelibrary.wiley.com/doi/10.1002/9780470776483.ch15). In Henry West (ed.), _The Blackwell Guide to Mill's Utilitarianism_. Wiley-Blackwell., pp. 217–32.
 - Ben Bradley (2006). [Against Satisficing Consequentialism](https://www.cambridge.org/core/journals/utilitas/article/against-satisficing-consequentialism/247AFF8D4B350823C5CE2CCF346F5CD8). _Utilitas_. 18(2): 97–108.
 
 ### Expectational Utilitarianism Versus Objective Utilitarianism
 
 - Roger Crisp (1997). _[Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2)_. Routledge., pp. 99–101.
+- Frank Jackson (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). Ethics. 101(3): 461–482.
+- Peter A. Graham (2021). _[Subjective Versus Objective Moral Wrongness](https://doi.org/10.1017/9781108588249)_. Cambridge University Press.
 
 ### Multi-level Utilitarianism Versus Single-level Utilitarianism
 
+- Hare, R.M. (1981). _[Moral Thinking: Its Levels, Method, and Point](https://oxford.universitypressscholarship.com/view/10.1093/0198246609.001.0001/acprof-9780198246602)_. Oxford University Press.
+- Railton, P. (1984). [Alienation, consequentialism, and the demands of morality](https://www.jstor.org/stable/2265273). _Philosophy and Public Affairs_. 13(2): 134–171.
 - Roger Crisp (1997). _[Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2)_. Routledge., pp. 105–112.
 
 ### Global Utilitarianism Versus Local Utilitarianism
 
 - Ord, T. (2009). _[Beyond Action: Applying Consequentialism to Decision Making and Motivation](https://drive.google.com/open?id=0B4kMPIEI5Mb8S201Wl85NTN1UHc)_. DPhil Dissertation, University of Oxford.
 - Pettit, P. & Smith, M (2000). [Global Consequentialism](http://www.princeton.edu/~msmith/mypapers/Pettit-Smith-Global-2000.pdf). In Hooker, B., Mason, E. & Miller, D. (eds.). _Morality, Rules and Consequences: A Critical Reader_. Edinburgh University Press (2000).
+- McElwee, B. (2020). [The Ambitions of Consequentialism](https://doi.org/10.26556/jesp.%20v17i2.528). _Journal of Ethics and Social Philosophy_. 17(2).
+- Chappell, R.Y. (2012). [Fittingness: The Sole Normative Primitive](https://dx.doi.org/10.1111/j.1467-9213.2012.00075.x). _Philosophical Quarterly_. 62(249): 684–704.
+- Chappell, R.Y. Consequentialism: Core and Expansion, forthcoming in D. Copp, C. Rosati, and T. Rulli (eds.). _The Oxford Handbook of Normative Ethics_. Oxford University Press.
 
-## Chapter 3: Theories of Well-Being
+## Chapter 3: Arguments for Utilitarianism
 
-Resources for [Theories of Well-Being](/theories-of-wellbeing):
+- Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. Continuum.
+- Robert Goodin (1995). _[Utilitarianism as a Public Philosophy](https://www.cambridge.org/core/books/utilitarianism-as-a-public-philosophy/DFAF4F0BDBA6B06F9BCB1DDC3D0A26A7)_. Cambridge University Press.
+- Caspar Hare (2016). [Should We Wish Well to All?](http://dx.doi.org/10.1215/00318108-3624764) _Philosophical Review_ 125, 4: 451–472.
+- Peter Singer & Katarzyna de Lazari-Radek (2017). Chapter 2: Justifications, in _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford University Press.
+- J.J.C. Smart (1973). An outline of a system of utilitarian ethics, in J.J.C. Smart & Bernard Williams, _[Utilitarianism: For and Against](https://www.cambridge.org/core/books/abs/utilitarianism/an-outline-of-a-system-of-utilitarian-ethics/8DE8362FF43188D53C855A70C70223E2)_. Cambridge University Press.
+
+## Chapter 4: Theories of Well-Being
 
 ### Introduction
 
@@ -139,7 +147,7 @@ Resources for [Theories of Well-Being](/theories-of-wellbeing):
 - Guy Fletcher (2013). [A Fresh Start for an Objective List Theory of Well-Being](https://doi.org/10.1017/S0953820812000453). _Utilitas_. 25(2): 206–220.
 - James Griffin (1986). _[Well-Being: Its Meaning, Measurement and Moral Importance](https://doi.org/10.1093/0198248431.001.0001)_. Oxford: Clarendon Press.
 
-## Chapter 4: Population Ethics
+## Chapter 5: Population Ethics
 
 Resources for [Population Ethics](/utilitarianism-and-practical-ethics):
 
@@ -164,7 +172,7 @@ Resources for [Population Ethics](/utilitarianism-and-practical-ethics):
 ### Variable Value Theories
 
 - Theodore Sider (1991). [Might Theory X be a theory of diminishing marginal value?](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8FF333C386B19DCF121A408F7E29B976?doi=10.1.1.591.8496&rep=rep1&type=pdf) _Analysis_. 51(4): 265–271.
-- Thomas Hurka (1983). [Value and Population Size](https://doi.org/10.1086/292462). _Ethics_. 93(3): 496–507.
+- Thomas Hurka (1983). [Value and Population Size](https://doi.org/10.1086/292462). _Ethics_, 93(3): 496–507.
 
 ### Critical Level and Critical Range Theories
 
@@ -186,10 +194,10 @@ Resources for [Population Ethics](/utilitarianism-and-practical-ethics):
 - Gustaf Arrhenius (2009). [Can the Person Affecting Restriction Solve the Problems in Population Ethics?](https://doi.org/10.1007/978-1-4020-5697-0_14), in Roberts, M.A., Wasserman, D.T. (eds.) _Harming Future Persons_. International Library of Ethics, Law, and the New Medicine. 35. Springer, Dordrecht.
 - Daniel Cohen (2019). [An Actualist Explanation of the Procreation Asymmetry](https://doi.org/10.1017/S0953820819000293). _Utilitas_. 32(1): 70–89.
 - Johann Frick (2014). _['Making People Happy, Not Making Happy People': A Defense of the Asymmetry Intuition in Population Ethics](http://nrs.harvard.edu/urn-3:HUL.InstRepos:13064981)_. Doctoral dissertation, Harvard University.
-- Caspar Hare (2007). [Voices from Another World: Must We Respect the Interests of People Who Do Not, and Will Never, Exist?](https://doi.org/10.1086/512172). _Ethics_. 117(3): 498–523.
+- Caspar Hare (2007). [Voices from Another World: Must We Respect the Interests of People Who Do Not, and Will Never, Exist?](https://doi.org/10.1086/512172). _Ethics_, 117(3): 498–523.
 - Jan Narveson (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1): 62–86.
 - Josh Parsons (2002). [Axiological Actualism](https://doi.org/10.1093/ajp/80.2.137). _Australasian Journal of Philosophy_. 80(2): 137–147.
-- Melinda A. Roberts (2002). [A New Way of Doing the Best That We Can: Person-Based Consequentialism and the Equality Problem](https://doi.org/10.1086/324321). _Ethics_. 112(2): 315–350.
+- Melinda A. Roberts (2002). [A New Way of Doing the Best That We Can: Person-Based Consequentialism and the Equality Problem](https://doi.org/10.1086/324321). _Ethics_, 112(2): 315–350.
 
 ### Practical Implications of Population Ethics
 
@@ -204,7 +212,7 @@ Resources for [Population Ethics](/utilitarianism-and-practical-ethics):
 - Erik Carlson (1998). [Mere addition and two trilemmas of population ethics](https://doi.org/10.1017/S0266267100003862). _Economics and Philosophy_. 14(2): 283–306.
 - Yew-Kwang Ng (1989). [What should we do about future generations? Impossibility of Parfit's Theory X](https://doi.org/10.1017/S0266267100002406). _Economics and Philosophy_. 5(2): 235–253.
 
-## Chapter 5: Utilitarianism and Practical Ethics
+## Chapter 6: Utilitarianism and Practical Ethics
 
 Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics):
 
@@ -223,7 +231,7 @@ Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practica
 - Peter Singer (1972). [Famine, Affluence, and Morality](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Singer_1972Famine.pdf). _Philosophy & Public Affairs_. 1(2): 229–243.
 - Samuel Scheffler (1999). [Conceptions of Cosmopolitanism](https://www.cambridge.org/core/journals/utilitas/article/conceptions-of-cosmopolitanism/28D86759086069E2A97FF730F13C274D). _Utilitas_. 11(3): 255–276.
 
-### Speciesism: Expanding the Moral Circle Across Species
+### Anti-Speciesism: Expanding the Moral Circle Across Species
 
 - [Non-Human Animals: Crash Course Philosophy #42](https://youtu.be/y3-BX-jN_Ac)
 - Peter Singer (1975). _[Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>)_. New York: HarperCollins.
@@ -236,9 +244,39 @@ Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practica
 - Nick Beckstead (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM)_. PhD Dissertation, Rutgers University.
 - Nick Bostrom (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://drive.google.com/open?id=0B4kMPIEI5Mb8WTJGckNSNG5seWs). _Utilitas_. 15(3): 308–314.
 
-## Chapter 6: Objections to Utilitarianism and Responses
+## Chapter 7: Near-Utilitarian Alternatives
 
-Resources for [Objections to Utilitarianism and Responses](/objections-to-utilitarianism):
+### Beyond Welfarism
+
+- Richard Routley (1973). [Is there a need for a new, an environmental, ethic?](https://doi.org/10.5840/wcp151973136). _Proceedings of the XVth World Congress of Philosophy_, 1: 205–210.
+- Elizabeth Anderson (1999). [What is the Point of Equality?](https://doi.org/10.1086/233897) _Ethics_ 109 (2): 287–337.
+- Derek Parfit (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_, 10 (3): 202–221.
+
+### Prioritarianism
+
+- Derek Parfit (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_, 10(3): 202–221.
+- Johan E. Gustafsson (2021). [Ex-Ante Prioritarianism Violates Sequential Ex‑Ante Pareto](https://doi.org/10.1017/S0953820821000303). _Utilitas_, 1–11.
+- Joshua Greene & Jonathan Baron (2001). [Intuitions about Declining Marginal Utility](https://dx.doi.org/10.2139/ssrn.231183). _Journal of Behavioral Decision Making_, 14: 243–55.
+
+### Desert-Adjusted Views
+
+- Fred Feldman (1995). [Adjusting utility for justice: A consequentialist reply to the objection from justice](https://dx.doi.org/10.2307/2108439). _Philosophy and Phenomenological Research_, 55(3): 567–585.
+
+### Egoism and Partialism
+
+- Simon Keller (2013). _Partiality_. Princeton University Press.
+- Derek Parfit (1984). Part Two: Rationality and Time, [Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons). Clarendon Press.
+- Andreas Mogensen (2019). [The only ethical argument for positive 𝛿?](https://globalprioritiesinstitute.org/andreas-mogensen-the-only-ethical-argument-for-positive-delta-2/). forthcoming in _Philosophical Studies_.
+- Troy Jollimore (2018). [Impartiality](https://plato.stanford.edu/entries/impartiality/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Robert Goodin (1988). [What is so special about our fellow countrymen?](https://dx.doi.org/10.1086/292998). _Ethics_ 98(4): 663–686.
+
+### Beyond Consequentialism
+
+- John Taurek (1977). [Should the numbers count?](https://www.jstor.org/stable/2264945). _Philosophy and Public Affairs_, 6(4): 293–316.
+- David Ross (1930). _The Right and the Good_. Clarendon Press.
+- Elizabeth Ashford (2003) [The Demandingness of Scanlon's Contractualism](https://doi.org/10.1086/342853). _Ethics_ 113(2): 273–302.
+
+## Chapter 8: Objections to Utilitarianism and Responses
 
 ### General
 
@@ -263,14 +301,13 @@ Resources for [Objections to Utilitarianism and Responses](/objections-to-utilit
 
 ### The Equality Objection
 
-- Roger Crisp (2003). [Equality, Priority, and Compassion](https://www.jstor.org/stable/10.1086/373954?seq=1). _Ethics_. 113(4): 745–763.
+- Toby Ord (2015). [A New Counterexample to Prioritarianism](http://amirrorclear.net/files/a-new-counterexample-to-prioritarianism.pdf). _Utilitas_, 27(3): 298–302.
+- Roger Crisp (2003). [Equality, Priority, and Compassion](https://www.jstor.org/stable/10.1086/373954?seq=1). _Ethics_, 113(4): 745–763.
 - Larry Temkin (2003). [Equality, Priority or What?](https://www.cambridge.org/core/journals/economics-and-philosophy/article/equality-priority-or-what/9FEEDE10582AE359AAB4EF545EDCD201). _Economics and Philosophy_. 19(1): 61–87.
 - Derek Parfit (1997). [Equality and Priority](https://www.philosophy.rutgers.edu/joomlatools-files/docman-files/3ParfitEqualityorPriority2000.pdf). _Ratio_. 10(3): 202–221.
 - Larry Temkin (1993). [Inequality](https://global.oup.com/academic/product/inequality-9780195111491). New York: Oxford University Press.
 
-## Article: Acting on Utilitarianism
-
-Resources for [Acting on Utilitarianism](/acting-on-utilitarianism):
+## Acting on Utilitarianism
 
 ### General
 

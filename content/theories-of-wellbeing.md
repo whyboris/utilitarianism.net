@@ -1,6 +1,7 @@
 ---
 title: "Theories of Well-Being"
-date: 2022-08-08T10:10:56-04:00
+date: 2023-01-01T10:10:56-04:00
+updated: 2023, Jan 8th - in sync with website
 draft: false
 menu: "main"
 weight: 4
@@ -86,13 +87,13 @@ According to desire theories, what makes your life go well for you is simply to 
 
 Importantly, our preferences can be satisfied without our realizing it, so long as things in reality are as we prefer them to be. For example, many parents would prefer to:
 
-1. Falsely believe their child has died, even if the child is actually alive and happy,
+&emsp;(i) Falsely believe their child has died, even if the child is actually alive and happy,</li>
 
 rather than to:
 
-2. Falsely believe their child is alive and happy, even if the child is actually dead.
+&emsp;(ii) Falsely believe their child is alive and happy, even if the child is actually dead.</li>
 
-A parent who strongly desires a happy life for their child may be happier in scenario (2ii), where they (falsely) believe this desire to be satisfied. But their desire is actually satisfied in (1i), and that is what really benefits them, according to standard desire theories.[^18]
+A parent who strongly desires a happy life for their child may be happier in scenario (ii), where they (falsely) believe this desire to be satisfied. But their desire is actually satisfied in (i), and that is what really benefits them, according to standard desire theories.[^18]
 
 As a result, desire theories can easily account for our reluctance to plug into the experience machine.[^19] The latter offers happiness based on false beliefs. But if we care about anything outside of our own heads (as most of us seem to), then the experience machine will leave those desires unfulfilled. A “real” life may contain less happiness, but more desire-fulfilment, and hence more well-being according to desire theories.
 

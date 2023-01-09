@@ -1,6 +1,7 @@
 ---
 title: "The Alienation Objection"
 date: 2022-08-08T10:08:52-04:00
+updated: 2023, Jan 8th - in sync with website
 type: "page"
 draft: false
 menu: ["objections"]

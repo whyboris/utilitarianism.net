@@ -1,6 +1,7 @@
 ---
 title: "Arguments for Utilitarianism"
-date: 2022-08-08T10:10:57-04:00
+date: 2023-01-01T10:10:57-04:00
+updated: 2023, Jan 8th - in sync with website
 draft: false
 menu: "main"
 weight: 3
@@ -88,7 +89,7 @@ Deontological theories are explicitly _non-consequentialist_: instead of morally
 
 #### The Paradox of Deontology
 
-Deontologists hold that there is a _constraint_ against killing: that it is wrong to kill an innocent person even if this would save five _other_ innocent people from being killed. This verdict can seem puzzling on its face.[^17] After all, given how terrible killing is, should we not want there to be _less_ of it? As Scheffler (1985) argued, rational choice in general tends to be goal-directed, a conception which fits poorly with deontic constraints.[^18] A deontologist might claim that their goal is simply to avoid violating moral constraints _themselves_, which they can best achieve by not killing anyone, even if that results in more individuals others being killed. While this explanation can render deontological verdicts coherent, it does so at the cost of making them seem awfully narcissistic, as though the deontologist’s central concern was just to maintain their own moral purity or “clean hands”.
+Deontologists hold that there is a _constraint_ against killing: that it is wrong to kill an innocent person even if this would save five _other_ innocent people from being killed. This verdict can seem puzzling on its face.[^17] After all, given how terrible killing is, should we not want there to be _less_ of it? As Scheffler (1985) argued, rational choice in general tends to be goal-directed, a conception which fits poorly with deontic constraints.[^18] A deontologist might claim that their goal is simply to avoid violating moral constraints _themselves_, which they can best achieve by not killing anyone, even if that results in more individuals being killed. While this explanation can render deontological verdicts coherent, it does so at the cost of making them seem awfully narcissistic, as though the deontologist’s central concern was just to maintain their own moral purity or “clean hands”.
 
 Deontologists might push back against this characterization by instead insisting that moral action need not be goal-directed at all.[^19] Rather than only seeking to promote value (or minimize harm), they claim that moral agents may sometimes be called upon to _respect_ another’s value (by not harming them, even as a means to preventing greater harm to others), which would seem an appropriately outwardly-directed, non-narcissistic motivation.
 
@@ -175,11 +176,11 @@ The next chapter discusses theories of well-being, or what counts as being good 
     Rawls, J. (1971). _A Theory of Justice_. Belknap Press.
 
 [^10]:
-    Harsanyi formalized his argument for utilitarianism in Harsanyi, J. (1978).[ Bayesian Decision Theory and Utilitarian Ethics](http://www.jstor.org/stable/1816692). _The American Economic Review_, 68(2): 223–228.
-    For discussion about his proof, see Greaves, H. (2017).[ A Reconsideration of the Harsanyi–Sen–Weymark Debate on Utilitarianism](https://www.cambridge.org/core/journals/utilitas/article/reconsideration-of-the-harsanyisenweymark-debate-on-utilitarianism/45B191ED9B7BE4ACF598B49A74DCDF0E). _Utilitas_, 29(2): 175–213.
+    Harsanyi formalized his argument for utilitarianism in Harsanyi, J. (1978). [Bayesian Decision Theory and Utilitarian Ethics](http://www.jstor.org/stable/1816692). _The American Economic Review_, 68(2): 223–228.
+    For discussion about his proof, see Greaves, H. (2017). [A Reconsideration of the Harsanyi–Sen–Weymark Debate on Utilitarianism](https://www.cambridge.org/core/journals/utilitas/article/reconsideration-of-the-harsanyisenweymark-debate-on-utilitarianism/45B191ED9B7BE4ACF598B49A74DCDF0E). _Utilitas_, 29(2): 175–213.
 
 [^11]: Singer, P. (2011). _[The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle)_. Princeton University Press.
-[^12]: Cf. Williams, E. G. (2015).[ The Possibility of an Ongoing Moral Catastrophe](https://link.springer.com/article/10.1007/s10677-015-9567-7). _Ethical Theory and Moral Practice_, 18(5): 971–982.
+[^12]: Cf. Williams, E. G. (2015). [The Possibility of an Ongoing Moral Catastrophe](https://link.springer.com/article/10.1007/s10677-015-9567-7). _Ethical Theory and Moral Practice_, 18(5): 971–982.
 [^13]: That is, fully informed moral agents who successfully do what they objectively ought to do. It would of course be no surprise if a misinformed or misguided moral agent made things worse.
 [^14]:
     Philippa Foot famously characterized the “spellbinding force” of utilitarianism (and consequentialism more broadly) as stemming from “the rather simple thought that it can never be right to prefer a worse state of affairs to a better”., p. 198

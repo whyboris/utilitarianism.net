@@ -63,8 +63,7 @@ Since some moral problems may be far more important than others, choosing what c
 
 ### Global Health and Development
 
-> One thing that greatly matters is the failure of we rich people to prevent, as we so easily could, much of the suffering and many of the early deaths of the poorest people in the world. \
-> \- Derek Parfit[^11]
+> _"One thing that greatly matters is the failure of we rich people to prevent, as we so easily could, much of the suffering and many of the early deaths of the poorest people in the world."_  <br> \- Derek Parfit[^11]
 
 As explained in the chapter [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#cosmopolitanism), utilitarians endorse cosmopolitanism, according to which the geographical distance between an actor and someone they can help is not morally relevant in itself. Cosmopolitanism implies that we should look for effective interventions to help others, regardless of their nationality, where they live, or where they come from.
 
@@ -78,7 +77,7 @@ Other evidence-backed and cost-effective ways to help the very poor include givi
 
 ### Farm Animal Welfare
 
-> the question is not, Can they reason? nor, Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being? (...) The time will come when humanity will extend its mantle over everything which breathes. \
+> _"The question is not, Can they reason? nor, Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being? (...) The time will come when humanity will extend its mantle over everything which breathes."_
 > \- [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^17]
 
 Improving the welfare of farmed animals should be a high moral priority for utilitarians. The argument for this conclusion is simple: First, animals matter morally; second, humans cause a huge amount of unnecessary suffering to animals in factory farms; third, there are easy ways to reduce the number of farmed animals and the severity of their suffering. We will go over these premises one by one.
@@ -97,8 +96,7 @@ In the US, only a few tens of millions of philanthropic dollars are donated ever
 
 ### Existential Risk Reduction
 
-> Classical Utilitarians (...) would claim, as Sidgwick did, that the destruction of mankind would be by far the greatest of all conceivable crimes. The badness of this crime would lie in the vast reduction of the possible sum of happiness. \
-> \- Derek Parfit[^23]
+> _"Classical Utilitarians (...) would claim, as Sidgwick did, that the destruction of mankind would be by far the greatest of all conceivable crimes. The badness of this crime would lie in the vast reduction of the possible sum of happiness."_ \- Derek Parfit[^23]
 
 The chapter [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#longtermism) introduced _strong longtermism_, according to which the most important determinant of the value of our actions today is how those actions affect the very long-run future. Strong longtermism follows from utilitarianism⁠—and a wide range of other moral viewpoints⁠—if we assume that some of our actions can meaningfully affect the long-run future and that we can estimate which effects are positive and which negative.[^24]
 

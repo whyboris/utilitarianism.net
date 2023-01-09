@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Utilitarianism"
-date: 2022-08-08T10:10:59-04:00
-updated: 2022, Sept 5th - in sync with website
+date: 2023-01-01T10:10:59-04:00
+updated: 2023, Jan 8th - in sync with website
 draft: false
 menu: "main"
 weight: 1

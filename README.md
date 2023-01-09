@@ -6,7 +6,7 @@ This is a WIP repository that will replace the current _utilitarianism.net_ webs
 
 For detailed instructions if you're new to coding, see the [section below](#first-time-coding)
 
-Short version: make sure you have installed [Hugo](https://gohugo.io/getting-started/installing/) (`0.101.0` or newer) first. After cloning the repository, run `git submodule update --init` to download the themes submodule; this needs to be done only once. After this, just run the server:
+Short version: make sure you have installed [Hugo](https://gohugo.io/getting-started/installing/) (repository started with version `0.101.0` but is now on `0.109.0`) first. After cloning the repository, run `git submodule update --init` to download the themes submodule; this needs to be done only once. After this, just run the server:
 
 ```sh
 hugo server -D
@@ -89,6 +89,7 @@ Starting may be daunting, but you can do it! Setting up will take two steps:
    - [git](https://git-scm.com/)
    - a _terminal_ if you don't have one (on Mac try [Hyper](https://hyper.is), on Windows try [FluentTerminal](https://github.com/felixse/FluentTerminal) or [Terminus](https://github.com/Eugeny/terminus))
    - [Hugo](https://gohugo.io/getting-started/installing/)
+     - On windows I recommend `choco install hugo-extended`
    - [VSCode](https://code.visualstudio.com) to easily edit files _(optional)_
 2. In your terminal: _note: these steps only need to be done once_
    - _clone_ this repository: `https://github.com/whyboris/utilitarianism.net.git`
