@@ -12,8 +12,6 @@ image: "/img/Utilitarianism-Website-Logo.png"
 
 ## Chapter 1: Introduction to Utilitarianism
 
-Resources for [Chapter 1: Introduction to Utilitarianism](/introduction-to-utilitarianism):
-
 ### Introduction
 
 - [Utilitarianism: Crash Course Philosophy #36](https://youtu.be/-a739VjqdSI)
@@ -246,7 +244,7 @@ Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practica
 - Nick Beckstead (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM)_. PhD Dissertation, Rutgers University.
 - Nick Bostrom (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://drive.google.com/open?id=0B4kMPIEI5Mb8WTJGckNSNG5seWs). _Utilitas_. 15(3): 308–314.
 
-## Chapter 7: Near-Utilitarian Asternatives
+## Chapter 7: Near-Utilitarian Alternatives
 
 ### Beyond Welfarism
 
@@ -303,14 +301,13 @@ Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practica
 
 ### The Equality Objection
 
+- Toby Ord (2015). [A New Counterexample to Prioritarianism](http://amirrorclear.net/files/a-new-counterexample-to-prioritarianism.pdf). _Utilitas_, 27(3): 298–302.
 - Roger Crisp (2003). [Equality, Priority, and Compassion](https://www.jstor.org/stable/10.1086/373954?seq=1). _Ethics_, 113(4): 745–763.
 - Larry Temkin (2003). [Equality, Priority or What?](https://www.cambridge.org/core/journals/economics-and-philosophy/article/equality-priority-or-what/9FEEDE10582AE359AAB4EF545EDCD201). _Economics and Philosophy_. 19(1): 61–87.
 - Derek Parfit (1997). [Equality and Priority](https://www.philosophy.rutgers.edu/joomlatools-files/docman-files/3ParfitEqualityorPriority2000.pdf). _Ratio_. 10(3): 202–221.
 - Larry Temkin (1993). [Inequality](https://global.oup.com/academic/product/inequality-9780195111491). New York: Oxford University Press.
 
-## Article: Acting on Utilitarianism
-
-Resources for [Acting on Utilitarianism](/acting-on-utilitarianism):
+## Acting on Utilitarianism
 
 ### General
 
