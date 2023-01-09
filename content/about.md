@@ -7,7 +7,7 @@ weight: 1
 
 ## Our Purpose
 
-This website serves as a textbook introduction to utilitarianism at the undergraduate level. It provides a concise, accessible and engaging introduction to modern utilitarianism. There is a particular focus on classical utilitarianism, as we believe it remains the most compelling version of utilitarianism. The content of this website aims to be understandable to a broad audience, avoiding philosophical jargon where possible and providing definitions where necessary.
+This website serves as a textbook introduction to utilitarianism at the undergraduate level. It provides a concise, accessible and engaging introduction to modern utilitarianism. The content of this website aims to be understandable to a broad audience, avoiding philosophical jargon where possible and providing definitions where necessary.
 
 ## Who We Are
 
