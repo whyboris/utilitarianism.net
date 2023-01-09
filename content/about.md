@@ -11,11 +11,11 @@ This website serves as a textbook introduction to utilitarianism at the undergra
 
 ## Who We Are
 
-This website was written in collaboration by [William MacAskill](http://www.williammacaskill.com/), [Richard Yetter Chappell](http://yetterchappell.net/Richard/), and [Darius Meissner](https://www.linkedin.com/in/darius-meissner/).
+This website was written in collaboration by [Richard Yetter Chappell](http://yetterchappell.net/Richard/), [Darius Meissner](https://www.linkedin.com/in/darius-meissner/), and [William MacAskill](http://www.williammacaskill.com/).
 
-- William is an Associate Professor in Philosophy and Senior Research Fellow at the [Global Priorities Institute](https://globalprioritiesinstitute.org/) at the University of Oxford. He is the author of _[Doing Good Better: Effective Altruism and a Radical New Way to Make a Difference](http://www.williammacaskill.com/book)_.
-- Richard is an Associate Professor in Philosophy at the University of Miami. He is the author of _[Parfit's Ethics](https://doi.org/10.1017/9781108582377)_, and received his PhD from Princeton University in 2012. Richard also writes _[Good Thoughts](https://rychappell.substack.com/)_, a newsletter about consequentialism in theory and practice, which you may follow to receive updates about utilitarianism.net (and related topics).
+- Richard is an Associate Professor in Philosophy at the University of Miami. He is the author of _[Parfit's Ethics](https://doi.org/10.1017/9781108582377)_, and received his PhD from Princeton University in 2012. Richard also writes _[Good Thoughts](https://rychappell.substack.com/)_, a newsletter about consequentialism in theory and practice, which you can follow to receive updates about utilitarianism.net (and related topics).
 - Darius holds a degree in Philosophy, Politics and Economics from the University of Oxford and currently studies for a graduate degree at Georgetown University.
+- William is an Associate Professor in Philosophy and Senior Research Fellow at the [Global Priorities Institute](https://globalprioritiesinstitute.org/) at the University of Oxford. He is the author of _[Doing Good Better: Effective Altruism and a Radical New Way to Make a Difference](http://www.williammacaskill.com/book)_ and _[What We Owe The Future](https://whatweowethefuture.com/)_.
 
 Thanks to Boris Yakubchik—and previously, James Aung—for website design and management.
 
