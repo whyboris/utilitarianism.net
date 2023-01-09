@@ -96,7 +96,7 @@ Addressing these problems may involve [donating generously to effective charitie
 
 ## Who We Are
 
-This website was written by [William MacAskill](http://www.williammacaskill.com/), [Richard Yetter Chappell](http://yetterchappell.net/Richard/), and Darius Meissner. William is an Associate Professor in Philosophy and Senior Research Fellow at the [Global Priorities Institute](https://globalprioritiesinstitute.org/) at the University of Oxford. Richard is an Assistant Professor in Philosophy at the University of Miami and holds a PhD from Princeton University. Darius holds a degree in Philosophy, Politics and Economics from the University of Oxford and currently studies for a graduate degree at Georgetown University.
+This website was written by [William MacAskill](http://www.williammacaskill.com/), [Richard Yetter Chappell](http://yetterchappell.net/Richard/), and Darius Meissner. William is an Associate Professor in Philosophy and Senior Research Fellow at the [Global Priorities Institute](https://globalprioritiesinstitute.org/) at the University of Oxford. Richard is an Associate Professor in Philosophy at the University of Miami and holds a PhD from Princeton University. Darius holds a degree in Philosophy, Politics and Economics from the University of Oxford and currently studies for a graduate degree at Georgetown University.
 
 We're proud to have secured [endorsements](/about#endorsements) from prominent scholars, including at Harvard University, Princeton University, and New York University.
 
