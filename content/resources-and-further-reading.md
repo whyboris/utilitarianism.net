@@ -47,14 +47,14 @@ Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 
 - Roger Crisp (2017). [Well-Being](https://plato.stanford.edu/entries/well-being/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Nils Holtug (2003). [Welfarism – The Very Idea](https://www.cambridge.org/core/journals/utilitas/article/welfarism-the-very-idea/A30F2C8C26CF4AA19D9984BBC8FC9DA3). _Utilitas_. 15(2): 151–174.
-- Shelly Kagan (1992). [The Limits of Well-being](https://drive.google.com/file/d/0B4kMPIEI5Mb8cC1lOF91R1hFaE0/view). Social Philosophy & Policy. 9(2): 169–189.
+- Shelly Kagan (1992). [The Limits of Well-Being](https://dx.doi.org/10.1017/s0265052500001461). Social Philosophy & Policy. 9(2): 169–189.
 
 ### Impartiality
 
 - Troy Jollimore (2018). [Impartiality](https://plato.stanford.edu/entries/impartiality/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Robert Goodin (1988). [What is so special about our fellow countrymen?](https://dx.doi.org/10.1086/292998) _Ethics 98_ (4): 663-686.
 
-### Additive Aggregationism
+### Aggregationism
 
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. London: Continuum. Chapter 5: Utilitarian Aggregation.
 - Alastair Norcross (1997). [Comparing Harms: Headaches and Human Lives](https://spot.colorado.edu/~norcross/Comparingharms.pdf). _Philosophy & Public Affairs_. 26(2): 135–167.
@@ -70,7 +70,7 @@ Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 
 ### Population Ethics
 
-- Johan E. Gustafsson (forthcoming). [Our Intuitive Grasp of the Repugnant Conclusion](http://johanegustafsson.net/papers/our-intuitive-grasp-of-the-repugnant-conclusion.pdf). In Krister Bykvist and Timothy Campbell (eds.), _The Oxford Handbook of Population Ethics_. Oxford: Oxford University Press.
+- Johan E. Gustafsson (2022). [Our Intuitive Grasp of the Repugnant Conclusion](http://johanegustafsson.net/papers/our-intuitive-grasp-of-the-repugnant-conclusion.pdf). In Krister Bykvist and Timothy Campbell (eds.), _The Oxford Handbook of Population Ethics_. Oxford: Oxford University Press.
 - Hilary Greaves (2017). [Population Axiology](https://onlinelibrary.wiley.com/doi/abs/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
 - Gustaf Arrhenius, Jesper Ryberg, & Torbjörn Tännsjö (2017). [The Repugnant Conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Michael Huemer (2008). [In Defence of Repugnance](https://www.jstor.org/stable/20532700). _Mind_. 117(468): 899-933.
@@ -97,7 +97,7 @@ Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 - Railton, P. (1984). [Alienation, consequentialism, and the demands of morality](https://www.jstor.org/stable/2265273). _Philosophy and Public Affairs_. 13(2): 134–171.
 - Roger Crisp (1997). _[Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2)_. Routledge., pp. 105–112.
 
-### Global Utilitarianism Versus Local Utilitarianism
+### Global Utilitarianism Versus Hybrid Utilitarianism
 
 - Ord, T. (2009). _[Beyond Action: Applying Consequentialism to Decision Making and Motivation](https://drive.google.com/open?id=0B4kMPIEI5Mb8S201Wl85NTN1UHc)_. DPhil Dissertation, University of Oxford.
 - Pettit, P. & Smith, M (2000). [Global Consequentialism](http://www.princeton.edu/~msmith/mypapers/Pettit-Smith-Global-2000.pdf). In Hooker, B., Mason, E. & Miller, D. (eds.). _Morality, Rules and Consequences: A Critical Reader_. Edinburgh University Press (2000).
