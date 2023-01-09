@@ -13,7 +13,7 @@ imageCaption: "Utilitarianism and Nonhuman Animals"
 summary: This essay advances three claims about utilitarianism and nonhuman animals. Utilitarianism plausibly implies, first, that all vertebrates and many invertebrates morally matter, but that some of these animals might matter more than others; second, that we should attempt to both promote animal welfare and respect animal rights in practice; and third, that we should prioritize farmed and wild animals and work to support them.
 ---
 
-Jeff Sebo
+{{< guest-disclaimer >}}
 
 {{< TOC >}}
 
@@ -31,7 +31,7 @@ While we will not be able to answer all of these questions in this short essay, 
 
 Utilitarians accept a theory of moral status – that is, a theory of who morally matters for their own sakes – called _sentientism_. According to this theory, all and only _sentient beings_ – that is, all and only beings who can consciously experience positive states like happiness or negative states like suffering – have moral status. Utilitarians also accept the _principle of equal consideration of interests_, according to which we morally ought to consider all interests equally when deciding what to do. In short, if someone is sentient, then they have interests. And if someone has interests, then we must extend equal consideration to their interests, no matter who they are, or which social or biological categories they happen to occupy.
 
-This combination of sentientism and [impartiality](/types-of-utilitarianism#impartiality) is part of why utilitarianism has historically been such a progressive theory. To this day, many people accept highly restrictive and hierarchical theories of moral status. For example, many people accept that only humans or rational agents morally matter. Many others accept that all sentient beings morally matter, but that some matter more than others; for instance, many people accept that members of some species, nations, and generations matter more than members of others, all else equal. In rejecting such views, utilitarianism commits us to expanding our moral circle much more widely than most human societies have done so far.  
+This combination of sentientism and [impartiality](/types-of-utilitarianism#impartiality) is part of why utilitarianism has historically been such a progressive theory. To this day, many people accept highly restrictive and hierarchical theories of moral status. For example, many people accept that only humans or rational agents morally matter. Many others accept that all sentient beings morally matter, but that some matter more than others; for instance, many people accept that members of some species, nations, and generations matter more than members of others, all else equal. In rejecting such views, utilitarianism commits us to expanding our moral circle much more widely than most human societies have done so far.
 
 At the same time, utilitarians also accept that equal consideration is compatible with differential treatment. For example, insofar as different individuals have different interests, we might need to treat them differently to promote their welfare. Moreover, insofar as some individuals have stronger interests than others, we might need to prioritize the former individuals all else equal, to reflect the reality that they have more at stake. This kind of differential treatment is compatible with equal consideration because what matters is not that we treat everyone the same way or assign everyone the same moral weight, but rather that we treat like interests alike when deciding what to do.
 
@@ -47,7 +47,7 @@ In contrast, there is not yet an emerging consensus about which invertebrates �
 
 Now consider the question how much happiness and suffering someone can experience. In order to answer this question, we must first ask how much happiness and suffering someone can experience _at any given time_. This question is hard to answer as well. For instance, we might think that how much happiness and suffering you can experience at any given time depends in part on how many neurons you have. If so, then we might be able to compare how much happiness and suffering different animals can experience in part by comparing how many neurons they have. But this is unlikely to be a reliable approach, since many other factors, such as how our neurons are arranged, likely matter as well.
 
-In order to determine how much happiness and suffering someone can experience, we must also ask how much happiness and suffering they can experience_across time_. This question is hard to answer as well. For instance, we might think that how much happiness and suffering you can experience across time depends on how much happiness and suffering you can experience at any given time, coupled with how long your life will be. But this might not be a reliable approach either. For instance, what if different animals experience the passage of time differently, such that a given week, month, or year feels longer to some animals than to others? We are only at the start of wrapping our minds around such questions.
+In order to determine how much happiness and suffering someone can experience, we must also ask how much happiness and suffering they can experience _across time_. This question is hard to answer as well. For instance, we might think that how much happiness and suffering you can experience across time depends on how much happiness and suffering you can experience at any given time, coupled with how long your life will be. But this might not be a reliable approach either. For instance, what if different animals experience the passage of time differently, such that a given week, month, or year feels longer to some animals than to others? We are only at the start of wrapping our minds around such questions.
 
 But even if we are highly uncertain about whether particular animals are sentient or about how much happiness and suffering they can experience, we can still make rough estimates in order to make decisions about their treatment. For instance, suppose that we think that ants are anywhere from 20-40% likely to be sentient, and that they can experience anywhere from 10-20 units of happiness or suffering at a time, if any at all. In that case, utilitarians can use these probabilities and utilities to roughly estimate how much happiness and suffering ants can experience, in expectation. We can then incorporate these estimates into the harm-benefit analyses that we use to determine how to do the most good possible.
 
@@ -103,7 +103,7 @@ Third, many effective animal advocates pursue _economic and technological change
 
 Fourth, many effective animal advocates pursue _capacity building_ by, for instance, supporting the development of a broad, pluralistic animal advocacy movement. For example, [Animal Charity Evaluators](https://animalcharityevaluators.org/) distributes money not only to a relatively small number of “top” and “standout” organizations through their Recommended Charity Fund, but also to a relatively large number of “promising projects around the globe” through their Movement Grants. The idea behind the latter fund is that we can make our work more effective overall when we support a variety of cause areas and interventions, so that we can continue to build knowledge, power, and political will in the movement over time.[^4]
 
-Finally, many effective animal advocates conduct, support, and promote _research_around animal welfare and advocacy. This is important for all areas, but is especially important for wild animal welfare, given how little we still know about what wild animals need and how we can help them. Thus, for example, the [Wild Animal Initiative](https://www.wildanimalinitiative.org/) is working to support the development of [welfare biology](https://en.wikipedia.org/wiki/Welfare_biology) as an academic field. The idea behind this approach is that while we might want to be able to help wild animals as soon as possible, we can do much more good for them in the long run if we focus in the short term on determining how we can help them ethically and effectively.
+Finally, many effective animal advocates conduct, support, and promote _research_ around animal welfare and advocacy. This is important for all areas, but is especially important for wild animal welfare, given how little we still know about what wild animals need and how we can help them. Thus, for example, the [Wild Animal Initiative](https://www.wildanimalinitiative.org/) is working to support the development of [welfare biology](https://en.wikipedia.org/wiki/Welfare_biology) as an academic field. The idea behind this approach is that while we might want to be able to help wild animals as soon as possible, we can do much more good for them in the long run if we focus in the short term on determining how we can help them ethically and effectively.
 
 But while many effective animal advocates see these approaches as promising, we must also keep an open mind about them. After all, utilitarianism and effective altruism are about doing the most good possible, not about supporting cause areas or interventions that we happen to personally like. So even if we, say, spend a decade working to improve the lives of farmed animals through corporate outreach, we should be prepared to switch to a new cause area or intervention if and when further information reveals that doing so is more promising overall. Pursuing particular projects while maintaining an open mind about which projects are best can be difficult. But it is also essential if we want our work to be effective.
 
@@ -112,8 +112,6 @@ Moving forward, utilitarians and other effective altruists will need to consider
 We are only at the start of asking such questions, but the answers will be important. In general, it can be tempting to work on different cause areas separately, for instance by working on _either_ existential risk mitigation, global health and development, _or_ animal welfare. But the reality is that these cause areas are linked, not only because we need to prioritize between them but also because how we interact with humans and other animals in the short term will partly determine which problems our successors will face and which beliefs, values, practices, and institutions our successors will have in the long run. So, thinking about how these cause areas interact can help us make our work in each one more effective.
 
 ---
-
-**About the author**
 
 {{< essay-author
      image="/img/authors/Jeff-Sebo.jpg"
@@ -129,14 +127,7 @@ We are only at the start of asking such questions, but the answers will be impor
 
 {{< guest-essays true >}}
 
-[^1]:
-     Bentham, J. (1789).[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.)., p. 143
-
-[^2]:
-     Singer, P. (2002).[Preface, Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book)). New York: HarperCollins Publishers., p. 13
-
-[^3]:
-     Bentham, J. (1843).[Anarchical Fallacies](http://fs2.american.edu/dfagel/www/Class%20Readings/Bentham/AnarchichalFallicies_excerpt.pdf).
-
-[^4]:
-     Disclosure: At the time of writing, I serve on the board of directors at Animal Charity Evaluators.
+[^1]: Bentham, J. (1789).[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.)., p. 143
+[^2]: Singer, P. (2002).[Preface, Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>). New York: HarperCollins Publishers., p. 13
+[^3]: Bentham, J. (1843).[Anarchical Fallacies](http://fs2.american.edu/dfagel/www/Class%20Readings/Bentham/AnarchichalFallicies_excerpt.pdf).
+[^4]: Disclosure: At the time of writing, I serve on the board of directors at Animal Charity Evaluators.

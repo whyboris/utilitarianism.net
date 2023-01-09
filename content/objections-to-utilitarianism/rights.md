@@ -1,11 +1,13 @@
 ---
 title: "The Rights Objection"
 date: 2022-08-08T10:08:57-04:00
+updated: 2023, Jan 8th - in sync with website
 type: "page"
 draft: false
 menu: ["objections"]
 weight: 1
 page: 1
+image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 {{< TOC >}}
@@ -20,7 +22,7 @@ Sometimes, realizing the best outcome requires violating moral constraints again
 
 At first glance, it seems that utilitarianism has to answer the question with “Yes, the doctor should kill Chuck”. It is better that five people live than that one person lives. But on commonsense morality and virtually every other moral theory, the answer is “No, do not kill Chuck”. On most views, killing Chuck would be morally monstrous. Utilitarianism seems to be the rare exception that claims otherwise. This apparent implication is often taken as an argument against utilitarianism being the correct moral theory.
 
-Proponents of utilitarianism might [respond to this objection in four ways](/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). We will go through these in turn.
+Proponents of utilitarianism might [respond to this objection in four ways](/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). We will go through them in turn.
 
 ## Accommodating the Intuition
 
@@ -34,7 +36,7 @@ This is a generalizable defense of utilitarianism against a wide range of allege
 
 A second strategy to deal with the Transplant case is to debunk the intuition against killing Chuck by showing that the intuition is unreliable. A utilitarian might argue that it is almost always wrong to commit murder and that we should cultivate strong character dispositions and social norms against murder. Therefore, our intuition against killing Chuck may just result from us having embraced a general moral norm against murder. While this norm is correct in the vast majority of cases, it can fail under those very exceptional circumstances where killing someone would actually bring about the best consequences.
 
-We may also worry that the intuition reflects [an objectionable form of status quo bias](/arguments-for-utilitarianism#status-quo-bias). However terrible it is for Chuck to die prematurely, is it not—upon reflection⁠—equally terrible⁠ for any _one_ of the five potential beneficiaries to die prematurely?  Why do we find it so much easier to ignore their interests in this situation, and what could possibly justify such neglect? There are practical reasons why instituting rights _against being killed_ may typically do more good than rights _to have one's life be saved_, and the utilitarian's recommended "public code" of morality may reflect this.  But when we consider a specific case, there's no obvious reason why the one right should be more important (let alone five times more important) than the other, as a matter of principle.  So attending more to the moral claims of the five who will otherwise die may serve to weaken our initial intuition that what matters most is just that Chuck not be killed.
+We may also worry that the intuition reflects [an objectionable form of status quo bias](/arguments-for-utilitarianism#status-quo-bias). However terrible it is for Chuck to die prematurely, is it not—upon reflection⁠—equally terrible⁠ for any _one_ of the five potential beneficiaries to die prematurely? Why do we find it so much easier to ignore their interests in this situation, and what could possibly justify such neglect? There are practical reasons why instituting rights _against being killed_ may typically do more good than rights _to have one's life be saved_, and the utilitarian's recommended "public code" of morality may reflect this. But when we consider a specific case, there's no obvious reason why the one right should be more important (let alone five times more important) than the other, as a matter of principle. So attending more to the moral claims of the five who will otherwise die may serve to weaken our initial intuition that what matters most is just that Chuck not be killed.
 
 ## Attacking the Alternatives
 
@@ -42,7 +44,7 @@ A third response to the Transplant case is to _attack the available alternatives
 
 All of the standard [arguments against deontic constraints](/arguments-for-utilitarianism#the-poverty-of-the-alternatives) become relevant at this point. For example, the [hope objection](/arguments-for-utilitarianism#the-hope-objection) flags that a benevolent observer should prefer that the five be saved, and it's hard to see how deontic moral rules could matter more (or have greater normative authority) than what we—or any impartial benevolent observer—should hope is done.
 
-As noted above, the charge of [status quo bias](/arguments-for-utilitarianism#status-quo-bias) seems especially pressing in this context. If you asked all six people from behind [the veil of ignorance](/arguments-for-utilitarianism#the-golden-rule-the-veil-of-ignorance-and-the-ideal-observer) whether you should kill one of them to save the other five, they'd all agree that you should.  A 5/6 chance of survival is far better than 1/6, after all. And it's morally arbitrary that the one happens to have healthy organs while the other five do not.  There's no moral reason to privilege this antecedent state of affairs, just because it's the status quo. Yet that's just _what it is_ to grant the one a right not to be killed while refusing the five any rights to be saved.  It is to arbitrarily uphold the status quo distribution of health and well-being as morally privileged, no matter that we could improve upon it (as established by the impartial mechanism of the veil of ignorance).
+As noted above, the charge of [status quo bias](/arguments-for-utilitarianism#status-quo-bias) seems especially pressing in this context. If you asked all six people from behind [the veil of ignorance](/arguments-for-utilitarianism#the-golden-rule-the-veil-of-ignorance-and-the-ideal-observer) whether you should kill one of them to save the other five, they'd all agree that you should. A 5/6 chance of survival is far better than 1/6, after all. And it's morally arbitrary that the one happens to have healthy organs while the other five do not. There's no moral reason to privilege this antecedent state of affairs, just because it's the status quo. Yet that's just _what it is_ to grant the one a right not to be killed while refusing the five any rights to be saved. It is to arbitrarily uphold the status quo distribution of health and well-being as morally privileged, no matter that we could improve upon it (as established by the impartial mechanism of the veil of ignorance).
 
 Another challenge may be presented by increasing the stakes in our thought experiment:
 
@@ -68,21 +70,16 @@ Of course, it's important to stress that real life comes with no such stipulatio
 
 ## Resources and Further Reading
 
-* Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford: Oxford University Press. Chapter 4: Objections, Section “Does utilitarianism tell us to act immorally?”.
-* Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. London: Continuum. Chapter 8: Is Utilitarianism too Permissive?
-* Shelly Kagan (1998). _[Normative Ethics](https://books.google.de/books/about/Normative_Ethics.html?id=iO8TAAAAYAAJ&redir_esc=y)_. Boulder, CO: Westview Press. Chapter 3.
-* Shelly Kagan (1989). _[The Limits of Morality](https://oxford.universitypressscholarship.com/view/10.1093/0198239165.001.0001/acprof-9780198239161)_. New York: Oxford University Press.
-* Eduardo Rivera-López (2012). [The Moral Murderer. A (more) effective counterexample to consequentialism](https://doi.org/10.1111/j.1467-9329.2012.00544.x). _Ratio_, 25(3): 307–325.
+- Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford: Oxford University Press. Chapter 4: Objections, Section “Does utilitarianism tell us to act immorally?”.
+- Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. London: Continuum. Chapter 8: Is Utilitarianism too Permissive?
+- Shelly Kagan (1998). _[Normative Ethics](https://books.google.de/books/about/Normative_Ethics.html?id=iO8TAAAAYAAJ&redir_esc=y)_. Boulder, CO: Westview Press. Chapter 3.
+- Shelly Kagan (1989). _[The Limits of Morality](https://oxford.universitypressscholarship.com/view/10.1093/0198239165.001.0001/acprof-9780198239161)_. New York: Oxford University Press.
+- Eduardo Rivera-López (2012). [The Moral Murderer. A (more) effective counterexample to consequentialism](https://doi.org/10.1111/j.1467-9329.2012.00544.x). _Ratio_, 25(3): 307–325.
 
-[^1]:
-     Adapted from Thomson, J. (1976). [Killing, Letting Die, and the Trolley Problem](https://doi.org/10.5840/monist197659224). _The Monist_59 (2): 204–17, p. 206.
-
+[^1]: Adapted from Thomson, J. (1976). [Killing, Letting Die, and the Trolley Problem](https://doi.org/10.5840/monist197659224). _The Monist_. 59 (2): 204–17, p. 206.
 [^2]:
-     This reputational harm is far from trivial. Each individual who is committed to (competently) [acting on utilitarianism](/acting-on-utilitarianism) could be expected to save _many_ lives. So to do things that risk deterring _many_ others in society (at a population-wide level) from following utilitarian ethics is to risk _immense_ harm. On the reputational costs of instrumental harm, see:
+    This reputational harm is far from trivial. Each individual who is committed to (competently) [acting on utilitarianism](/acting-on-utilitarianism) could be expected to save _many_ lives. So to do things that risk deterring _many_ others in society (at a population-wide level) from following utilitarian ethics is to risk _immense_ harm. On the reputational costs of instrumental harm, see:
     Everett, J.A.C., Faber, N.S., Savulescu, J., and Crockett, M.J. (2018). [The costs of being consequentialist: Social inference from instrumental harm and impartial beneficence](https://doi.org/10.1016/j.jesp.2018.07.004). _Journal of Experimental Social Psychology,_ 79: 200–216.
 
-[^3]:
-     Rivera-López, E. (2012). [The moral murderer. A (more) effective counterexample to consequentialism](https://doi.org/10.1111/j.1467-9329.2012.00544.x). _Ratio_,25(3): 307–325. For critical discussion, see R.Y. Chappell, [Counterexamples to Consequentialism](https://www.philosophyetc.net/2012/08/counterexamples-to-consequentialism.html). Note that Chappell is a co-author of this website.
-
-[^4]:
-     Even if we can somehow stipulate that the agent's first-order evidence supports believing that murder is net-positive in their case, we also need to take into account the _higher-order evidence_ that most people who make such judgments are mistaken.  Given the risk of miscalculation, and the far greater harms that could result from violating widely-accepted social norms, utilitarianism may well recommend that doctors adopt a _strictly_ anti-murder disposition, rather than being open to committing murder whenever it _seems_ to them to be for the best.
+[^3]: Rivera-López, E. (2012). [The moral murderer. A (more) effective counterexample to consequentialism](https://doi.org/10.1111/j.1467-9329.2012.00544.x). _Ratio_,25(3): 307–325. For critical discussion, see R.Y. Chappell, [Counterexamples to Consequentialism](https://www.philosophyetc.net/2012/08/counterexamples-to-consequentialism.html). Note that Chappell is a co-author of this website.
+[^4]: Even if we can somehow stipulate that the agent's first-order evidence supports believing that murder is net-positive in their case, we also need to take into account the _higher-order evidence_ that most people who make such judgments are mistaken. Given the risk of miscalculation, and the far greater harms that could result from violating widely-accepted social norms, utilitarianism may well recommend that doctors adopt a _strictly_ anti-murder disposition, rather than being open to committing murder whenever it _seems_ to them to be for the best.

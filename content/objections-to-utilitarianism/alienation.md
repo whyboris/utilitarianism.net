@@ -1,11 +1,13 @@
 ---
 title: "The Alienation Objection"
 date: 2022-08-08T10:08:52-04:00
+updated: 2023, Jan 8th - in sync with website
 type: "page"
 draft: false
 menu: ["objections"]
 weight: 6
 page: 6
+image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 {{< TOC >}}
@@ -62,42 +64,21 @@ It would be deeply alienating for a moral theory to invalidate the overwhelming 
 
 ### Resources and Further Reading
 
-* Chappell, R.Y. (2021). [The Right Wrong-Makers](https://philpapers.org/rec/CHATRW-3). _Philosophy and Phenomenological Research_, 103(2): 426–440.
-* Maguire, B. & Baker, C. (2020). [The Alienation Objection to Consequentialism](https://philpapers.org/rec/MAGTAO-6), in D. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press.
-* Pettit, P. & Brennan, G. (1986). [Restrictive Consequentialism](https://philpapers.org/rec/PETRC). _Australasian Journal of Philosophy_, 64(4): 438–455.
-* Railton, P. (1984). [Alienation, Consequentialism, and the Demands of Morality](https://philpapers.org/rec/RAIACA). _Philosophy and Public Affairs_, 13(2): 134–171.
-* Stocker, M. (1976). [The Schizophrenia of Modern Ethical Theories](https://dx.doi.org/10.2307/2025782). _Journal of Philosophy_, 73: 453–466.
-* Williams, B. (1981). Persons, Character and Morality. In _Moral Luck: Philosophical Papers, 1973–1980_, Cambridge University Press.
+- Chappell, R.Y. (2021). [The Right Wrong-Makers](https://philpapers.org/rec/CHATRW-3). _Philosophy and Phenomenological Research_, 103(2): 426–440.
+- Maguire, B. & Baker, C. (2020). [The Alienation Objection to Consequentialism](https://philpapers.org/rec/MAGTAO-6), in D. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press.
+- Pettit, P. & Brennan, G. (1986). [Restrictive Consequentialism](https://philpapers.org/rec/PETRC). _Australasian Journal of Philosophy_, 64(4): 438–455.
+- Railton, P. (1984). [Alienation, Consequentialism, and the Demands of Morality](https://philpapers.org/rec/RAIACA). _Philosophy and Public Affairs_, 13(2): 134–171.
+- Stocker, M. (1976). [The Schizophrenia of Modern Ethical Theories](https://dx.doi.org/10.2307/2025782). _Journal of Philosophy_, 73: 453–466.
+- Williams, B. (1981). Persons, Character and Morality. In _Moral Luck: Philosophical Papers, 1973–1980_, Cambridge University Press.
 
-[^1]:
-     This example is adapted from Stocker, M. (1976). [The Schizophrenia of Modern Ethical Theories](https://dx.doi.org/10.2307/2025782). _Journal of Philosophy_, 73: 453–466, p. 462. Of course, if you wanted to cheer up your friend, you would refrain from voicing such a callous thought aloud. But it seems bad enough to even be _thinking_ that way.
-
-[^2]:
-     Williams, B. (1981). Persons, Character and Morality. In _Moral Luck: Philosophical Papers, 1973–1980_, Cambridge University Press.
-
-[^3]:
-     Railton, P. (1984). [Alienation, Consequentialism, and the Demands of Morality](https://philpapers.org/rec/RAIACA). _Philosophy and Public Affairs_, 13(2): 134–171, p.153.
-
-[^4]:
-     Railton, P. (1984). [Alienation, Consequentialism, and the Demands of Morality](https://philpapers.org/rec/RAIACA). _Philosophy and Public Affairs_, 13(2): 134–171, p.151.
-
-[^5]:
-     Stocker, M. (1976). [The Schizophrenia of Modern Ethical Theories](https://dx.doi.org/10.2307/2025782). _Journal of Philosophy_, 73: 453–466.
-
-[^6]:
-     This is related to, but subtly distinct from, the standard [multi-level utilitarian](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism) distinction between one’s _criterion of rightness_ and one’s _decision procedure_. Multi-level utilitarians note that heuristics (such as respecting rights) might help us to better achieve utilitarian goals, but this is a mere change in strategy, not a change in what they ultimately want. Sophisticated utilitarians go further, adopting non-utilitarian goals or intrinsic desires when this would have good results. This introduces a disconnect between theory and _motivation_ that is not necessarily found in routine multi-level utilitarianism.
-
-[^7]:
-     Chappell, R.Y. (2021). [The Right Wrong-Makers](https://philpapers.org/rec/CHATRW-3). _Philosophy and Phenomenological Research_, 103(2): 426–440. Note that Chappell is a co-author of this website.
-
-[^8]:
-     Chappell, R.Y. (2015). [Value Receptacles](https://dx.doi.org/10.1111/nous.12023). _Noûs_, 49(2): 322–332. Note that Chappell is a co-author of this website.
-
-[^9]:
-     More generally, the subsumption strategy may extend to whatever welfare goods the utilitarian recognizes as having intrinsic value. Depending on their [theory of well-being](/theories-of-wellbeing), this might include just happiness, just desire satisfaction, or any number of putative objective goods such as friendship, knowledge, etc.
-
-[^10]:
-     Railton, P. (1984). [Alienation, Consequentialism, and the Demands of Morality](https://philpapers.org/rec/RAIACA). _Philosophy and Public Affairs_, 13(2): 134–171, p.144. Note that Railton uses the tennis player example in a different context (and with a different contrasting motivation) than our use of it here.
-
-[^11]:
-     Pettit, P. & Brennan, G. (1986). [Restrictive Consequentialism](https://philpapers.org/rec/PETRC). _Australasian Journal of Philosophy_, 64(4): 438–455.
+[^1]: This example is adapted from Stocker, M. (1976). [The Schizophrenia of Modern Ethical Theories](https://dx.doi.org/10.2307/2025782). _Journal of Philosophy_, 73: 453–466, p. 462. Of course, if you wanted to cheer up your friend, you would refrain from voicing such a callous thought aloud. But it seems bad enough to even be _thinking_ that way.
+[^2]: Williams, B. (1981). Persons, Character and Morality. In _Moral Luck: Philosophical Papers, 1973–1980_, Cambridge University Press.
+[^3]: Railton, P. (1984). [Alienation, Consequentialism, and the Demands of Morality](https://philpapers.org/rec/RAIACA). _Philosophy and Public Affairs_, 13(2): 134–171, p.153.
+[^4]: Railton, P. (1984). [Alienation, Consequentialism, and the Demands of Morality](https://philpapers.org/rec/RAIACA). _Philosophy and Public Affairs_, 13(2): 134–171, p.151.
+[^5]: Stocker, M. (1976). [The Schizophrenia of Modern Ethical Theories](https://dx.doi.org/10.2307/2025782). _Journal of Philosophy_, 73: 453–466.
+[^6]: This is related to, but subtly distinct from, the standard [multi-level utilitarian](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism) distinction between one’s _criterion of rightness_ and one’s _decision procedure_. Multi-level utilitarians note that heuristics (such as respecting rights) might help us to better achieve utilitarian goals, but this is a mere change in strategy, not a change in what they ultimately want. Sophisticated utilitarians go further, adopting non-utilitarian goals or intrinsic desires when this would have good results. This introduces a disconnect between theory and _motivation_ that is not necessarily found in routine multi-level utilitarianism.
+[^7]: Chappell, R.Y. (2021). [The Right Wrong-Makers](https://philpapers.org/rec/CHATRW-3). _Philosophy and Phenomenological Research_, 103(2): 426–440. Note that Chappell is a co-author of this website.
+[^8]: Chappell, R.Y. (2015). [Value Receptacles](https://dx.doi.org/10.1111/nous.12023). _Noûs_, 49(2): 322–332. Note that Chappell is a co-author of this website.
+[^9]: More generally, the subsumption strategy may extend to whatever welfare goods the utilitarian recognizes as having intrinsic value. Depending on their [theory of well-being](/theories-of-wellbeing), this might include just happiness, just desire satisfaction, or any number of putative objective goods such as friendship, knowledge, etc.
+[^10]: Railton, P. (1984). [Alienation, Consequentialism, and the Demands of Morality](https://philpapers.org/rec/RAIACA). _Philosophy and Public Affairs_, 13(2): 134–171, p.144. Note that Railton uses the tennis player example in a different context (and with a different contrasting motivation) than our use of it here.
+[^11]: Pettit, P. & Brennan, G. (1986). [Restrictive Consequentialism](https://philpapers.org/rec/PETRC). _Australasian Journal of Philosophy_, 64(4): 438–455.

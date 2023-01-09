@@ -1,40 +1,46 @@
 {{/* see `next-page.html` for details on how this works */}}
 
+
 <div class="objections-buttons-container">
+  {{ if not (.Get "hide-next") }}
 
-    {{ if not (.Get "hide-next") }}
+    {{ $frontmatterMenu := first 1 $.Page.Params.menu }}
 
-        {{ $frontmatterMenu := first 1 $.Page.Params.menu }}
+    {{ $pageNumber := .Page.Params.page }}
 
-        {{ $pageNumber := .Page.Params.page }}
-        
-        {{ range $index, $element := (index .Site.Menus $frontmatterMenu).Sort.ByWeight }}
+    {{ range $index, $element := (index .Site.Menus $frontmatterMenu).Sort.ByWeight }}
 
-            {{ if eq $pageNumber $index}}
-            <a href="{{ .URL }}">
-                <div class="small-button">
-                    {{ with .Page }}
-                        Next: {{ .Title }}
-                    {{ end }}
-                </div>
-            </a>
+      {{ if eq $pageNumber $index }}
+        <a href="{{ .URL }}">
+          <div class="small-button">
+            {{ with .Page }}
+              Next:
+              {{ .Title }}
             {{ end }}
+          </div>
+        </a>
+      {{ end }}
 
-        {{ end }}
-    
     {{ end }}
 
+  {{ end }}
 
-    {{ if not (.Get "hide-other") }}
+  {{ if not (.Get "hide-other") }}
 
-    <a href="/objections-to-utilitarianism#specific-objections-against-utilitarianism">
-        <div class="small-button">
-            Other Objections to Utilitarianism
-        </div>
+    <a
+      href="/objections-to-utilitarianism#specific-objections-against-utilitarianism"
+    >
+      <div class="small-button">Other Objections to Utilitarianism</div>
     </a>
+  {{ end }}
 
-    {{ end }}
+  {{ if .Get "end-objection" }}
+
+    <a href="/acting-on-utilitarianism">
+      <div class="small-button">Next Chapter: Acting on Utilitarianism</div>
+    </a>
+  {{ end }}
 
 </div>
 
-<hr>
+<hr />

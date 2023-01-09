@@ -1,10 +1,41 @@
 {{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
-  <div class="article-body">
+  {{/* NOTES: all this `if isset` checking for year is to make `textbook.md` render properly with author and year */}}
 
-    <h1>
-      {{ .Title }}
-    </h1>
+
+  <div
+    class="book-header {{ with .Params.year }}
+    {{ else }}
+      {{ print "non-book-header" }}
+    {{ end }}"
+    style="background: {{ default "#0c3b5b" .Params.gradientTop }};
+          background: linear-gradient(180deg, {{ if (isset .Params "gradientTop") }}
+      {{ .Params.gradientTop }}
+    {{ else }}
+      {{ print "#0c3b5b" }}
+    {{ end }} 0%,  
+                                              {{ if (isset .Params "gradientBottom") }}
+      {{ .Params.gradientBottom }}
+    {{ else }}
+      {{ print "#236d9f" }}
+    {{ end }} 100%);"
+  >
+    <h1 class="title" data-pagefind-meta="title">{{ .Title }}</h1>
+
+    {{ if isset .Params "year" }}
+      <span class="author">{{ .Params.author }}</span>
+      <span class="year">{{ .Params.year }}</span>
+    {{ end }}
+
+  </div>
+
+  <div class="article-body">
+    {{ partial "fake-image.html" . }}
+
+    {{ if isset .Params "year" }}
+    {{ else }}
+      {{ partial "PDF.html" . }}
+    {{ end }}
 
     {{ .Content }}
 

@@ -4,7 +4,8 @@ author: "Harriet Taylor Mill"
 year: "1851"
 title: "Enfranchisement of Women"
 layout: book
-gradientTop: "#315b71" 
+image: "/img/books/enfranchisement-of-women.jpg"
+gradientTop: "#315b71"
 gradientBottom: "#824608"
 menu: ["book"]
 weight: -6

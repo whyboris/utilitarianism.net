@@ -2,19 +2,22 @@
 
 $breakpoint-tablet: 850px;
 
-@import 'colors';
-@import 'font';
-@import 'header';
-@import 'homepage';
-@import 'footer';
-@import 'thinkers';
-@import 'toc'; // table of contents
-@import 'glossary';
-@import 'buttons';
-@import 'footnotes';
-@import 'unsorted';
-@import 'mobilenav';
-@import 'mobile';
+@import "colors";
+@import "font";
+@import "header";
+@import "homepage";
+@import "footer";
+@import "thinkers";
+@import "toc"; // table of contents
+@import "glossary";
+@import "buttons";
+@import "footnotes";
+@import "unsorted";
+@import "search";
+@import "mobilenav";
+@import "mobile";
+
+// @import 'pdf'; // only toggle on when generating PDF files
 
 // Miscellaneous styling
 
@@ -29,3 +32,9 @@ body {
 h1 {
   line-height: 1.5;
 }
+
+// temporary hack for picking correct image when generating serach index
+
+// .fake {
+//   display: none;
+// }

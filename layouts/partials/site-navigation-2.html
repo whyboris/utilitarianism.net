@@ -1,127 +1,97 @@
 <div class="site-navigation-header sub-header">
+  <div class="header-navigation-item">
+    <a href="/about">About Us</a>
+  </div>
 
-    <div class="header-navigation-item">
-        <a href="/about">About Us</a>
-    </div>
+  <div class="dropdown header-navigation-item">
+    <a href="/utilitarian-thinkers"> Utilitarian Thinkers </a>
 
-    <div class="dropdown header-navigation-item">
-      
-      <a href="/utilitarian-thinkers">
-        Utilitarian Thinkers
-      </a>
-
-{{ if false }}
+    {{ if false }}
       <div class="table-of-contents dropdown-content">
-
         {{ if .Site.Menus.thinker }}
 
           <ul>
-            
             {{ range .Site.Menus.thinker }}
 
-            <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
-              <li>
-
-                <div class="title">
-                  {{ .Name }}
-                </div>
-                
-              </li>
-            </a>
-
+              <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+                <li>
+                  <div class="title">
+                    {{ .Name }}
+                  </div>
+                </li>
+              </a>
             {{ end }}
 
           </ul>
-
         {{ end }}
 
       </div>
-{{ end }}
+    {{ end }}
 
-    </div>
+  </div>
 
-    <div class="header-navigation-item">
-      <a href="/utilitarian-quotes">Utilitarian Quotes</a>
-    </div>
+  <div class="header-navigation-item">
+    <a href="/utilitarian-quotes">Utilitarian Quotes</a>
+  </div>
 
-    <div class="header-navigation-item">
-      <a href="/glossary">Glossary</a>
-    </div>
+  <div class="header-navigation-item">
+    <a href="/glossary">Glossary</a>
+  </div>
 
-    
-    
-    <div class="dropdown header-navigation-item">
-      
-        <a href="/books">
-          Books
-        </a>
+  <div class="dropdown header-navigation-item">
+    <a href="/books"> Books </a>
 
-{{ if false}}
-        <div class="table-of-contents dropdown-content">
-    
-          {{ if .Site.Menus.book }}
-    
-            <ul>
-              
-              {{ range .Site.Menus.book }}
-    
+    {{ if false }}
+      <div class="table-of-contents dropdown-content">
+        {{ if .Site.Menus.book }}
+
+          <ul>
+            {{ range .Site.Menus.book }}
+
               <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
                 <li>
                   {{ with .Page }}
                     <div class="title">
                       {{ .Params.book }}
                     </div>
-                    
+
                     <span class="author">
                       {{ .Params.author }}
                     </span>
-                    <span class="year">
-                      ({{ .Params.year }})
-                    </span>
-                    {{ end }}
-                  </li>
-                </a>
-    
-              {{ end }}
-    
-            </ul>
-    
-          {{ end }}
-    
-        </div>
-{{ end }}
-
-    </div>
-
-    <div class="dropdown header-navigation-item">
-    
-        <span class="no-pointer">Study guides</span>
-    
-        <div class="table-of-contents dropdown-content nudge-up">
-    
-          {{ if .Site.Menus.guide }}
-    
-            <ul>
-              
-              {{ range .Site.Menus.guide }}
-    
-              <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
-                <li>
-                  {{ with .Page }}
-                  {{ .Params.menuTitle }}
+                    <span class="year"> ({{ .Params.year }}) </span>
                   {{ end }}
                 </li>
               </a>
-    
-              {{ end }}
-    
-            </ul>
-    
+            {{ end }}
+
+          </ul>
+        {{ end }}
+
+      </div>
+    {{ end }}
+
+  </div>
+
+  <div class="dropdown header-navigation-item">
+    <span class="no-pointer">Study guides</span>
+
+    <div class="table-of-contents dropdown-content nudge-up">
+      {{ if .Site.Menus.guide }}
+
+        <ul>
+          {{ range .Site.Menus.guide }}
+            <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+              <li>
+                {{ with .Page }}
+                  {{ .Params.menuTitle }}
+                {{ end }}
+              </li>
+            </a>
           {{ end }}
-    
-    
-        </div>
+
+        </ul>
+      {{ end }}
 
     </div>
-
+  </div>
 </div>

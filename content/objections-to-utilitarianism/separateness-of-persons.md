@@ -1,11 +1,13 @@
 ---
 title: "The Separateness of Persons Objection"
 date: 2022-08-08T10:08:54-04:00
+updated: 2023, Jan 8th - in sync with website
 type: "page"
 draft: false
 menu: ["objections"]
 weight: 5
 page: 5
+image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 {{< TOC >}}
@@ -104,78 +106,41 @@ We have seen that the “separateness of persons” objection to utilitarianism 
 
 ### Resources and Further Reading
 
-* Brink, D. (2020). [Consequentialism, the Separateness of Persons, and Aggregation](https://www.doi.org/10.1093/oxfordhb/9780190905323.013.14). In Douglas W. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press.
-* Chappell, R.Y. (2021). _[Parfit’s Ethics](https://philpapers.org/rec/CHAPE-5)_, section 3.2. Cambridge University Press. (Note that Chappell is a co-author of this website.)
-* Chappell, R.Y. (2015). [Value Receptacles](https://dx.doi.org/10.1111/nous.12023). _Noûs_, 49(2): 322–332.
-* Cohen, G.A. (2011). [Rescuing Conservatism: A Defense of Existing Value](https://doi.org/10.1093/acprof:oso/9780199753673.003.0009). In R. Jay Wallace, Rahul Kumar, and Samuel Freeman (eds.), _Reasons and Recognition: Essays on the Philosophy of T.M. Scanlon_. Oxford University Press.
-* Dickert, S., Västfjäll, D., Kleber, J., & Slovic, P. (2015). [Scope insensitivity: The limits of intuitive valuation of human lives in public policy](http://dx.doi.org/10.1016/j.jarmac.2014.09.002). _Journal of Applied Research in Memory and Cognition_, 4(3): 248–255.
-* Nozick, R. (1974). _Anarchy, State, and Utopia._ Basic Books.
-* Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio,_ 16(4): 368–390
-* Paul, E.F., Miller, F., and Paul, J. (eds.) (2010). _[Utilitarianism: The Aggregation Question](https://www.cambridge.org/us/academic/subjects/philosophy/ethics/utilitarianism-aggregation-question-volume-26-part-1?format=PB&isbn=9780521756327)_. Cambridge University Press.
-* Rawls, J. (1971). _A Theory of Justice_. Belknap Press.
-* Scanlon, T.M. (1998). _What We Owe to Each Other_. Belknap Press.
+- Brink, D. (2020). [Consequentialism, the Separateness of Persons, and Aggregation](https://www.doi.org/10.1093/oxfordhb/9780190905323.013.14). In Douglas W. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press.
+- Chappell, R.Y. (2021). _[Parfit’s Ethics](https://philpapers.org/rec/CHAPE-5)_, section 3.2. Cambridge University Press. (Note that Chappell is a co-author of this website.)
+- Chappell, R.Y. (2015). [Value Receptacles](https://dx.doi.org/10.1111/nous.12023). _Noûs_, 49(2): 322–332.
+- Cohen, G.A. (2011). [Rescuing Conservatism: A Defense of Existing Value](https://doi.org/10.1093/acprof:oso/9780199753673.003.0009). In R. Jay Wallace, Rahul Kumar, and Samuel Freeman (eds.), _Reasons and Recognition: Essays on the Philosophy of T.M. Scanlon_. Oxford University Press.
+- Dickert, S., Västfjäll, D., Kleber, J., & Slovic, P. (2015). [Scope insensitivity: The limits of intuitive valuation of human lives in public policy](http://dx.doi.org/10.1016/j.jarmac.2014.09.002). _Journal of Applied Research in Memory and Cognition_, 4(3): 248–255.
+- Nozick, R. (1974). _Anarchy, State, and Utopia._ Basic Books.
+- Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio,_ 16(4): 368–390
+- Paul, E.F., Miller, F., and Paul, J. (eds.) (2010). _[Utilitarianism: The Aggregation Question](https://www.cambridge.org/us/academic/subjects/philosophy/ethics/utilitarianism-aggregation-question-volume-26-part-1?format=PB&isbn=9780521756327)_. Cambridge University Press.
+- Rawls, J. (1971). _A Theory of Justice_. Belknap Press.
+- Scanlon, T.M. (1998). _What We Owe to Each Other_. Belknap Press.
 
-[^1]:
-     Rawls, J. (1971). _A Theory of Justice_, p.27.
-
+[^1]: Rawls, J. (1971). _A Theory of Justice_, p.27.
 [^2]:
-     As [R.M. Hare](/utilitarian-thinker/richard-hare) presses the challenge: “To have concern for someone is to seek his good, or to seek to promote his interests; and to have equal concern for all people is to seek equally their good, or to give equal weight to their interests, which is exactly what utilitarianism requires. To do this is to treat others' interests in the same way as a prudent person treats his own interests, present and future...To do this is not to fail to 'insist on the separateness of persons'.” See:
+    As [R.M. Hare](/utilitarian-thinker/richard-hare) presses the challenge: “To have concern for someone is to seek his good, or to seek to promote his interests; and to have equal concern for all people is to seek equally their good, or to give equal weight to their interests, which is exactly what utilitarianism requires. To do this is to treat others' interests in the same way as a prudent person treats his own interests, present and future...To do this is not to fail to 'insist on the separateness of persons'.” See:
     Hare, R.M. (1984). 'Rights, Utility, and Universalization: Reply to J.L. Mackie', in R. Frey (ed.) _Utility and Rights_, p.107.
 
-[^3]:
-     Brink, D. (2020). [Consequentialism, the Separateness of Persons, and Aggregation](https://www.doi.org/10.1093/oxfordhb/9780190905323.013.14). In Douglas W. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press.
-
-[^4]:
-     Nozick, R. (1974). _Anarchy, State, and Utopia_, p.33.
-
-[^5]:
-     Though an interestingly different line of response would be to appeal to a [Veil of Ignorance](/arguments-for-utilitarianism#the-golden-rule-the-veil-of-ignorance-and-the-ideal-observer) argument. While the individual who gets harmed is not compensated for it _in the moment_, each individual should be willing _in advance_ (i.e., from behind the veil of ignorance) to agree to utilitarian tradeoffs since this is the best way for them to maximize their own well-being, in expectation.
-
-[^6]:
-     de Lazari-Radek, K. and Singer, P. (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford University Press. Chapter 4: Objections, p. 82.
-
+[^3]: Brink, D. (2020). [Consequentialism, the Separateness of Persons, and Aggregation](https://www.doi.org/10.1093/oxfordhb/9780190905323.013.14). In Douglas W. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press.
+[^4]: Nozick, R. (1974). _Anarchy, State, and Utopia_, p.33.
+[^5]: Though an interestingly different line of response would be to appeal to a [Veil of Ignorance](/arguments-for-utilitarianism#the-golden-rule-the-veil-of-ignorance-and-the-ideal-observer) argument. While the individual who gets harmed is not compensated for it _in the moment_, each individual should be willing _in advance_ (i.e., from behind the veil of ignorance) to agree to utilitarian tradeoffs since this is the best way for them to maximize their own well-being, in expectation.
+[^6]: de Lazari-Radek, K. and Singer, P. (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford University Press. Chapter 4: Objections, p. 82.
 [^7]:
-     Brink notes that Rawls’ own egalitarian view often requires uncompensated sacrifices from the wealthy.
-Brink, D. (2020). [Consequentialism, the Separateness of Persons, and Aggregation](https://www.doi.org/10.1093/oxfordhb/9780190905323.013.14). In Douglas W. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press, p.387.
+    Brink notes that Rawls’ own egalitarian view often requires uncompensated sacrifices from the wealthy.
+    Brink, D. (2020). [Consequentialism, the Separateness of Persons, and Aggregation](https://www.doi.org/10.1093/oxfordhb/9780190905323.013.14). In Douglas W. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press, p.387.
 
-[^8]:
-     Singer, P. (2011). _Practical Ethics_, third edition. Cambridge University Press., p. 106
-
-[^9]:
-     The following paragraphs draw directly from Chappell, R.Y. (2015). [Value Receptacles](https://dx.doi.org/10.1111/nous.12023). _Noûs_, 49(2): 322–332. Note that Chappell is a co-author of this website.
-
-[^10]:
-     Cf. Cohen, G.A. (2011). [Rescuing Conservatism: A Defense of Existing Value](https://doi.org/10.1093/acprof:oso/9780199753673.003.0009). In R. Jay Wallace, Rahul Kumar, and Samuel Freeman (eds.), _Reasons and Recognition: Essays on the Philosophy of T.M. Scanlon_. Oxford University Press.
-
-[^11]:
-     Chappell, R.Y. (2015). [Value Receptacles](https://dx.doi.org/10.1111/nous.12023). _Noûs_, 49(2): 322–332, p. 328. Note that Chappell is a co-author of this website.
-
-[^12]:
-     “Value pluralism” is often used to refer to the idea of multiple distinct _types_ or kinds of values. But the relevant form of pluralism to secure non-fungibility is instead _token_ pluralism. Bob’s and Sally’s interests may both be values of the same _kind_ (namely, welfare value), but they are distinct individual (or “token”) values in the sense that it is fitting to have a _separate_ intrinsic desire for each. Contrast this with money, where distinct $20 bills are _not_ distinctly valuable: it would be strange to desire each bill separately, rather than just having a single overarching desire for “more money” that a $20 bill could equally well satisfy.
-
-[^13]:
-     Nagel, T. (1977). Equality. Reprinted in (1979) _Mortal Questions_. Cambridge University Press., p. 123
-
-[^14]:
-     Scanlon, T.M. (1998). _What We Owe to Each Other_. Belknap Press.
-
-[^15]:
-     This is a quote from Derek Parfit's concise summary of the thought experiment, on p. 375 of Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio_, 16(4): 368–390.
-
-[^16]:
-     The following subsections draw directly from section 3.2 of Chappell, R.Y. (2021). _Parfit's Ethics_. Cambridge University Press. Note that Chappell is a co-author of this website.
-
-[^17]:
-     Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio_, 16(4): 368–390. What if the watchers are somehow even worse-off? Then Parfit’s explanation fails, but he could comfortably suggest in this case that slightly improving the lot of billions of worse-off individuals really should be prioritized over offering great relief to a single individual who is already in a better state than these others.
-
-[^18]:
-     Dickert, S., Västfjäll, D., Kleber, J., & Slovic, P. (2015). [Scope insensitivity: The limits of intuitive valuation of human lives in public policy](http://dx.doi.org/10.1016/j.jarmac.2014.09.002). _Journal of Applied Research in Memory and Cognition_, 4(3): 248–255.
-
-[^19]:
-     Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio_, 16(4): 368–390, p.385.
-
-[^20]:
-     This text continues to draw directly from section 3.2 of Chappell, R.Y. (2021). _Parfit's Ethics_. Cambridge University Press. Chappell is a co-author of this website.
-
-[^21]:
-     There are ways of imagining the case where this would not be so. For example, if we imagine giving the extra minutes of life to each person on their deathbed, the first several such minutes might be disproportionately lacking in value, compared to a more representative minute of life. To properly test principles of aggregation, we should imagine a setup where the independence assumption holds—for instance, by supposing that the extra minutes are given to people at some earlier point in their life, before mortal illness strikes. This makes it clearer how a single minute might, in some cases, have significant value, by being just what the recipient needed in order to complete some important life project.
+[^8]: Singer, P. (2011). _Practical Ethics_, third edition. Cambridge University Press., p. 106
+[^9]: The following paragraphs draw directly from Chappell, R.Y. (2015). [Value Receptacles](https://dx.doi.org/10.1111/nous.12023). _Noûs_, 49(2): 322–332. Note that Chappell is a co-author of this website.
+[^10]: Cf. Cohen, G.A. (2011). [Rescuing Conservatism: A Defense of Existing Value](https://doi.org/10.1093/acprof:oso/9780199753673.003.0009). In R. Jay Wallace, Rahul Kumar, and Samuel Freeman (eds.), _Reasons and Recognition: Essays on the Philosophy of T.M. Scanlon_. Oxford University Press.
+[^11]: Chappell, R.Y. (2015). [Value Receptacles](https://dx.doi.org/10.1111/nous.12023). _Noûs_, 49(2): 322–332, p. 328. Note that Chappell is a co-author of this website.
+[^12]: “Value pluralism” is often used to refer to the idea of multiple distinct _types_ or kinds of values. But the relevant form of pluralism to secure non-fungibility is instead _token_ pluralism. Bob’s and Sally’s interests may both be values of the same _kind_ (namely, welfare value), but they are distinct individual (or “token”) values in the sense that it is fitting to have a _separate_ intrinsic desire for each. Contrast this with money, where distinct $20 bills are _not_ distinctly valuable: it would be strange to desire each bill separately, rather than just having a single overarching desire for “more money” that a $20 bill could equally well satisfy.
+[^13]: Nagel, T. (1977). Equality. Reprinted in (1979) _Mortal Questions_. Cambridge University Press., p. 123
+[^14]: Scanlon, T.M. (1998). _What We Owe to Each Other_. Belknap Press.
+[^15]: This is a quote from Derek Parfit's concise summary of the thought experiment, on p. 375 of Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio_, 16(4): 368–390.
+[^16]: The following subsections draw directly from section 3.2 of Chappell, R.Y. (2021). _Parfit's Ethics_. Cambridge University Press. Note that Chappell is a co-author of this website.
+[^17]: Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio_, 16(4): 368–390. What if the watchers are somehow even worse-off? Then Parfit’s explanation fails, but he could comfortably suggest in this case that slightly improving the lot of billions of worse-off individuals really should be prioritized over offering great relief to a single individual who is already in a better state than these others.
+[^18]: Dickert, S., Västfjäll, D., Kleber, J., & Slovic, P. (2015). [Scope insensitivity: The limits of intuitive valuation of human lives in public policy](http://dx.doi.org/10.1016/j.jarmac.2014.09.002). _Journal of Applied Research in Memory and Cognition_, 4(3): 248–255.
+[^19]: Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio_, 16(4): 368–390, p.385.
+[^20]: This text continues to draw directly from section 3.2 of Chappell, R.Y. (2021). _Parfit's Ethics_. Cambridge University Press. Chappell is a co-author of this website.
+[^21]: There are ways of imagining the case where this would not be so. For example, if we imagine giving the extra minutes of life to each person on their deathbed, the first several such minutes might be disproportionately lacking in value, compared to a more representative minute of life. To properly test principles of aggregation, we should imagine a setup where the independence assumption holds—for instance, by supposing that the extra minutes are given to people at some earlier point in their life, before mortal illness strikes. This makes it clearer how a single minute might, in some cases, have significant value, by being just what the recipient needed in order to complete some important life project.

@@ -1,21 +1,21 @@
-{{ define "header" }}{{ partial "page-header.html" . }}{{ end }} 
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
-
-<div 
-  class="book-header" 
-  style="background: {{ default "#3380b4" .Params.gradientTop }};
+  <div
+    class="book-header"
+    style="background: {{ default "#3380b4" .Params.gradientTop }};
          background: linear-gradient(180deg, {{ .Params.gradientTop }} 0%,  
                                              {{ .Params.gradientBottom }} 100%);"
->
-    <span class="title">{{ .Params.book }}</span>
+  >
+    <h1 class="title" data-pagefind-meta="title">{{ .Params.book }}</h1>
     <span class="author">{{ .Params.author }}</span>
     <span class="year">{{ .Params.year }}</span>
-</div>
+  </div>
 
-<div class="article-body">
+  <div class="article-body">
+    {{ partial "fake-image.html" . }}
 
-  {{ .Content }}
+    {{ partial "PDF.html" . }}
 
-</div>
-
+    {{ .Content }}
+  </div>
 {{ end }}

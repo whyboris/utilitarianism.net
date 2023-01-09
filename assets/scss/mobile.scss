@@ -1,5 +1,10 @@
-@media only screen and (max-width: $breakpoint-tablet) {
+@media only screen and (max-width: 990px) {
+  .pdf-download {
+    display: none;
+  }
+}
 
+@media only screen and (max-width: $breakpoint-tablet) {
   .mobile-header {
     display: initial;
   }
@@ -16,7 +21,7 @@
 
   .article-body {
     padding: 20px;
-    
+
     blockquote {
       padding-left: 20px;
     }
@@ -37,7 +42,7 @@
 
     .footer-navigation {
       display: block;
-  
+
       .footer-heading {
         transform: translate(4px, -4px);
       }
@@ -62,7 +67,8 @@
     }
   }
 
-  .thinker { // for the `about` page
+  .thinker {
+    // for the `about` page
     width: 120px;
     height: 120px;
   }
@@ -92,15 +98,21 @@
     min-width: 100vw;
   }
 
+  .littlefoot-footnote__content {
+    p {
+      min-width: initial;
+    }
+  }
+
   .guest-essay-container {
     .guest-essay {
       padding: 0;
-  
+
       .image-container {
         height: 160px;
         width: 120px;
       }
-  
+
       h2 {
         font-size: 16px;
         line-height: 1.6;
@@ -132,7 +144,7 @@
 
   .callout {
     padding: 35px;
-    
+
     .two-button-callout {
       display: block;
 

@@ -1,22 +1,27 @@
 {{/* pass in `true` to hide the <hr> */}}
-{{ if not (.Get 0) }}<hr>{{ end }}
+{{ if not (.Get 0) }}<hr />{{ end }}
 
-<h2>Guest Essays</h2>
 
-<div class="guest-essay-container homepage-guest-essay-container">
-  {{ range first 10 .Site.Menus.guest.Sort.ByWeight }}
-  <a href="{{ .URL }}">
-    {{ with .Page }}
-    <div class="guest-essay">
-      <div class="image-container" style="background-image: url('{{ .Params.image }}')">
-        <!-- <img src="{{ .Params.image }}" alt="{{ .Params.imageCaption }}" /> -->
-      </div>
-      <h2>{{ .Title }}</h2>
+<div class="hide-on-pdf" data-pagefind-ignore>
+  <h2>Guest Essays</h2>
 
-      <span class="author"> {{ .Params.author }} </span>
+  <div class="guest-essay-container homepage-guest-essay-container">
+    {{ range first 10 .Site.Menus.guest.Sort.ByWeight }}
+      <a href="{{ .URL }}">
+        {{ with .Page }}
+          <div class="guest-essay">
+            <div
+              class="image-container"
+              style="background-image: url('{{ .Params.image }}')"
+            >
+              <!-- <img src="{{ .Params.image }}" alt="{{ .Params.imageCaption }}" /> -->
+            </div>
+            <h2>{{ .Title }}</h2>
 
-    </div>
+            <span class="author"> {{ .Params.author }} </span>
+          </div>
+        {{ end }}
+      </a>
     {{ end }}
-  </a>
-  {{ end }}
+  </div>
 </div>

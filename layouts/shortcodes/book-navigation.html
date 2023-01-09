@@ -4,23 +4,20 @@
 
 
 <div class="table-of-contents book-table-of-contents">
-
   <h2>Contents</h2>
 
   <ul>
-  
     {{ range (index .Site.Menus $frontmatterMenu).Sort.ByWeight }}
 
       {{ with .Page }}
-      <li {{ if eq $currentPageTitle .Title }} class="selected"{{ end }}>
-        <a href="{{ .RelPermalink }}">
-          {{ .Title }}
-        </a>
-      </li>
+        <li {{ if eq $currentPageTitle .Title }}class="selected"{{ end }}>
+          <a href="{{ .RelPermalink }}">
+            {{ .Title }}
+          </a>
+        </li>
       {{ end }}
-    
-    {{ end }}
-  
-  </ul>
 
+    {{ end }}
+
+  </ul>
 </div>

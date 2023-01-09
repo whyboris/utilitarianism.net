@@ -1,12 +1,12 @@
 # Utilitarianism.net
 
-This is a WIP repository that will replace the current _utilitarianism.net_ website. The technology we are using is [*Hugo*](https://gohugo.io/) for its flexibility, speed, ease of use, and _i18n_ (internationalization) support.
+This is a WIP repository that will replace the current _utilitarianism.net_ website. The technology we are using is [_Hugo_](https://gohugo.io/) for its flexibility, speed, ease of use, and _i18n_ (internationalization) support.
 
 ## Developing
 
 For detailed instructions if you're new to coding, see the [section below](#first-time-coding)
 
-Short version: make sure you have installed [Hugo](https://gohugo.io/getting-started/installing/) (`0.101.0` or newer) first. After cloning the repository, run `git submodule update --init` to download the themes submodule; this needs to be done only once. After this, just run the server:
+Short version: make sure you have installed [Hugo](https://gohugo.io/getting-started/installing/) (repository started with version `0.101.0` but is now on `0.109.0`) first. After cloning the repository, run `git submodule update --init` to download the themes submodule; this needs to be done only once. After this, just run the server:
 
 ```sh
 hugo server -D
@@ -36,7 +36,7 @@ After adding a document it will likely need some manual fixes:
   - if the authors are not "MacAskill, W., Meissner, D., and Chappell, R.Y." then do `{{< how-to-cite authors="your authors" >}}`
 - Add the _Action_ button shortcode `{{< button >}}`
 - If a footnote was multi-paragraph, add the indentation so the text stays with the footnote (rather than being rendered to the page at the bottom)
-- If you have the [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) in your _VSCode_, right-click and "Format Document" 
+- If you have the [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) in your _VSCode_, right-click and "Format Document"
 - Look over the document for any other manual fixes
 
 Consider adding [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) to your _VSCode_ for automatic error highlighting, and adding [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) for catching some spelling mistakes.
@@ -56,6 +56,30 @@ In the future we may want to use some `rtl` support
 - Pages that have the same name as a folder need to be moved into the folder and renamed to `_index.md` to work properly (e.g. `objections-to-utilitarianism`)
   - these use the `list.html` _layout_
 - `site-header.html` is unused - meant for homepage only (would include language dropdown)
+- _favicon_ generated with [this website](https://realfavicongenerator.net/) & added a custom `svg` to handle dark-theme browser, see [instructions](https://web.dev/building-an-adaptive-favicon/)
+- We are using [Prettier](https://prettier.io/) to format our code, along with [prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template).
+  - Install both globally `npm install -g prettier` & `npm install -g prettier-plugin-go-template` and then run `prettier --write .` to format all the files in the repository.
+
+## Search
+
+Search is handlede with [pagefind](https://pagefind.app/). You'll need to install [Node](https://nodejs.org/en/) and run `npm install -g pagefind`.
+
+When publishing the application, after `hugo -D` run `pagefind --source public` which will create the `_pagefind` folder inside `/public`. That is all that's needed for search to work. Thank you _pagefind_!
+
+When using site search there are image previews on the side of search results. When generating the search index, toggle `search = true` in `config.toml` so that images appear correctly.
+
+## PDF
+
+We can generate PDFs of all the pages with [website2pdf](https://github.com/jgazeau/website2pdf). See the _README.md_ inside the _PDF_ folder for instructions.
+
+## Building
+
+To build the website for production there are several steps:
+
+1. Build the _Search_ index
+2. Build the _PDF_ files
+3. Build the final website
+   - You must enable `HUGO_ENV="production` in `config.toml` else the website will have `noindex` set on every page, making Google ignore the website!
 
 ## First time coding?
 
@@ -65,6 +89,7 @@ Starting may be daunting, but you can do it! Setting up will take two steps:
    - [git](https://git-scm.com/)
    - a _terminal_ if you don't have one (on Mac try [Hyper](https://hyper.is), on Windows try [FluentTerminal](https://github.com/felixse/FluentTerminal) or [Terminus](https://github.com/Eugeny/terminus))
    - [Hugo](https://gohugo.io/getting-started/installing/)
+     - On windows I recommend `choco install hugo-extended`
    - [VSCode](https://code.visualstudio.com) to easily edit files _(optional)_
 2. In your terminal: _note: these steps only need to be done once_
    - _clone_ this repository: `https://github.com/whyboris/utilitarianism.net.git`
@@ -74,9 +99,9 @@ Starting may be daunting, but you can do it! Setting up will take two steps:
 From now on any time you want to work on the website, _with your terminal_:
 
 - enter the project folder `cd utilitarianism.net`, and
-- run `hugo server -D` 
+- run `hugo server -D`
 - open `http://localhost:1313/` in your browser
-  
+
 After editing any file (with _VSCode_ or any other text editor) and saving it, the website will automatically refresh with the latest changes 🎉
 
 Feel free to reach out with questions by going to [Issues](https://github.com/whyboris/utilitarianism.net/issues)

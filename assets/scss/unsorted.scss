@@ -1,28 +1,44 @@
 // ARTICLE BODY ========================================
 
 .article-body {
-  max-width: 850px;
-  margin: 0 auto;
-  padding: 30px;
   background: white;
-
+  color: $font-color;
   font-family: Merriweather;
-  -webkit-font-smoothing: subpixel-antialiased;
-  font-weight: 300;
-  font-style: normal;
   font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
   letter-spacing: 0.03em;
   line-height: 2em;
+  margin: 0 auto;
+  max-width: 850px;
+  padding: 30px;
+  position: relative;
   text-transform: none;
-  color: $font-color;
+  -webkit-font-smoothing: subpixel-antialiased;
 
   a {
     color: $dark-blue;
+    text-underline-offset: 3px;
+    text-decoration-color: $link-underline-blue;
+
+    &:hover {
+      color: black;
+    }
   }
 
   img {
     max-width: 100%;
   }
+
+  li {
+    margin-bottom: 0.5em;
+  }
+}
+
+// make h1 the same size as h2
+// we use h1 so the `pagefind` automatically tags the title of the page
+h1 {
+  font-size: 1.5em;
 }
 
 // end of article-body
@@ -174,7 +190,7 @@
 
 .sub-header {
   display: flex;
-  justify-content: center;
+  justify-content: left;
   margin: 0 auto;
   width: 850px;
 
@@ -283,6 +299,18 @@ hr {
   }
 }
 
+.non-book-header {
+  padding: 35px;
+
+  .title {
+    display: block;
+    margin: 0 auto;
+    text-align: left;
+    width: 850px;
+    font-weight: initial;
+  }
+}
+
 .smaller {
   font-size: 14px;
 }
@@ -318,5 +346,30 @@ hr {
       border: none;
       padding: 0;
     }
+  }
+}
+
+.error-404 {
+  margin: 100px auto;
+  display: block;
+  text-align: center;
+
+  .text-404 {
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: $gray-aaa;
+    margin-bottom: 0;
+  }
+}
+
+.pdf-download {
+  position: absolute;
+  right: -30px;
+  top: 50px;
+
+  .pdf-icon {
+    width: 30px;
+    height: 30px;
   }
 }

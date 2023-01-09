@@ -1,79 +1,64 @@
 <nav role="navigation" class="high-z-index">
-
   <div class="dropdown header-navigation-item nudge-down">
-
-    <a href="/" class="large-hit-box">
-      Learn about Utilitarianism
-    </a>
+    <a href="/textbook" class="large-hit-box"> Learn about Utilitarianism </a>
 
     {{ $currentPage := . }}
 
-    <div class="table-of-contents dropdown-content">
 
+    <div class="table-of-contents dropdown-content">
       {{ if .Site.Menus.main }}
 
         <ol>
-          
           {{ range .Site.Menus.main }}
-
-            <li class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
+            <li
+              class="{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
+                active
+              {{ end }}"
+            >
               <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
                 {{ .Name }}
               </a>
             </li>
-
           {{ end }}
 
         </ol>
-
       {{ end }}
 
     </div>
+  </div>
 
-  </div>  
-  
   <div class="header-navigation-item nudge-down">
-    <a href="/acting-on-utilitarianism" class="large-hit-box">Acting on Utilitarianism</a>
+    <a href="/acting-on-utilitarianism" class="large-hit-box"
+      >Acting on Utilitarianism</a
+    >
   </div>
 
   <div class="dropdown header-navigation-item nudge-down">
-
-    <a href="/guest-essays" class="large-hit-box">
-      Guest Essays
-    </a>
+    <a href="/guest-essays" class="large-hit-box"> Guest Essays </a>
 
     <div class="table-of-contents dropdown-content content-wide">
-
       {{ if .Site.Menus.guest }}
 
         <ul>
-          
           {{ range .Site.Menus.guest }}
+            <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+              <li>
+                <div class="title">
+                  {{ .Name }}
+                </div>
 
-          <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
-            <li>
-              
-              <div class="title">
-                {{ .Name }}
-              </div>
-                
-              <span class="author">
-                {{ with .Page }}
-                {{ .Params.author }}
-                {{ end }}
-              </span>
-            </li>
-          </a>
-
+                <span class="author">
+                  {{ with .Page }}
+                    {{ .Params.author }}
+                  {{ end }}
+                </span>
+              </li>
+            </a>
           {{ end }}
 
         </ul>
-
       {{ end }}
 
-
     </div>
-
-  </div>  
-
+  </div>
 </nav>

@@ -13,6 +13,8 @@ imageCaption: "The Feeling of Value Book"
 summary: In this summary of her 2016 book The Feeling of Value, Sharon Hewitt Rawlette defends “analytic hedonism”. From our direct acquaintance with the intrinsic value of good and bad experiential states, we can build an entire ethical system that is fully grounded in observable fact.
 ---
 
+{{< guest-disclaimer >}}
+
 {{< TOC >}}
 
 ## Introduction
@@ -91,11 +93,11 @@ This division of the experience of pain into at least two basic parts is widely 
 
 Moral antirealists insist that what is missing in these cases is simply the disposition to avoid the nociceptive sensations, but there are reasons to think that the missing element is more than that, that it’s in fact an experiential quality, a _feeling_ of badness. Consider:
 
-* The badness of pain can’t just consist in avoidance behavior, because there are documented cases of reflexive avoidance responses without a conscious feeling of pain.[^10]
+- The badness of pain can’t just consist in avoidance behavior, because there are documented cases of reflexive avoidance responses without a conscious feeling of pain.[^10]
 
-* The badness of pain can’t just consist in a conscious plan for avoidance, since even those without the cognitive ability to form plans seem capable of feeling pain, such as newborn babies and people with severe mental handicaps.
-* And the badness of pain can’t just consist in a certain bodily or hormonal state, because the same state can be associated with both positive and negative emotions, depending on the context. Injecting people with adrenaline, for instance, doesn’t change their mood all on its own. A situation with a slightly cheerful or slightly irritating valence is required to determine the emotion elicited by the adrenaline (and the situation alone isn’t enough to elicit the emotion either, as shown by the lack of response in those injected with an inert substance).[^11]
-What is more, we ought to _expect_ our dispositions of attraction and aversion to have a qualitative feel to them, for the simple reason that so much other important information that we use in conscious decision making manifests in this way. Our visual system may let us know that a lion is up ahead, but unless we also have access to our brain’s verdict about whether the proximity of a lion is good or bad, this purely visual information is useless to promote our survival. We need to be able to consciously reflect on the best escape strategy, and it would seem consistent with our other knowledge about conscious thought that we require an experiential manifestation of our brain’s verdict of “Bad!” with regard to the lion’s proximity.
+- The badness of pain can’t just consist in a conscious plan for avoidance, since even those without the cognitive ability to form plans seem capable of feeling pain, such as newborn babies and people with severe mental handicaps.
+- And the badness of pain can’t just consist in a certain bodily or hormonal state, because the same state can be associated with both positive and negative emotions, depending on the context. Injecting people with adrenaline, for instance, doesn’t change their mood all on its own. A situation with a slightly cheerful or slightly irritating valence is required to determine the emotion elicited by the adrenaline (and the situation alone isn’t enough to elicit the emotion either, as shown by the lack of response in those injected with an inert substance).[^11]
+  What is more, we ought to _expect_ our dispositions of attraction and aversion to have a qualitative feel to them, for the simple reason that so much other important information that we use in conscious decision making manifests in this way. Our visual system may let us know that a lion is up ahead, but unless we also have access to our brain’s verdict about whether the proximity of a lion is good or bad, this purely visual information is useless to promote our survival. We need to be able to consciously reflect on the best escape strategy, and it would seem consistent with our other knowledge about conscious thought that we require an experiential manifestation of our brain’s verdict of “Bad!” with regard to the lion’s proximity.
 
 Now, you might think that the brain could use an experiential marker for badness that was not itself bad, but there is evidence that the brain needs a marker that is simultaneously experiential _and_ intrinsically motivating. Consider the experience of Paul Brand, who spent years developing artificial sensing systems for victims of leprosy.[^12] Since leprosy makes a patient insensitive to pain in their hands and feet, Brand developed gloves and socks containing pressure sensors capable of indicating when some action the patient was taking was having a harmful effect on their body. Unfortunately, these indications that they were performing an action such that it could lead to the destruction of a finger or toe did not stop patients from performing the action. They were not sufficiently motivated by this information about their future well-being, and the project ultimately failed.
 
@@ -183,8 +185,6 @@ Now, recognizing the equal intrinsic value of positive experience no matter the 
 
 ---
 
-**About the author**
-
 {{< essay-author
      image="/img/authors/Sharon-Hewitt-Rawlette.jpg"
      text="Sharon Hewitt Rawlette" >}}
@@ -199,82 +199,29 @@ Now, recognizing the equal intrinsic value of positive experience no matter the 
 
 {{< guest-essays true >}}
 
-[^1]:
-     David Hume (1740). _A Treatise of Human Nature_, Book 3, Part 1, Section 1.
-
-[^2]:
-     Moore actually formulated his Open Question Argument in terms of natural properties rather than descriptive ones, but there’s nothing that would limit its scope to naturalistic analyses of normative concepts rather than descriptive analyses in general, and it makes the central issue clearer to talk in terms of descriptive properties. See G. E. Moore (1903). _[Principia Ethica](https://www.gutenberg.org/files/53430/53430-h/53430-h.htm)_. Cambridge: Cambridge University Press, pp. 5–21.
-
-[^3]:
-     Allan Gibbard (2003). _Thinking How to Live_. Cambridge, MA: Harvard University Press, Ch. 2, especially pp. 23–29.
-
-[^4]:
-     I add the phrase “in every way” to help remove any apparent coherence that might arise from someone’s using a slightly different sense of the term ‘intrinsically’ than what I have been employing in this essay.
-
-[^5]:
-     Because there is an obvious sense in which the question “Is pleasure intrinsically good?” is settled by the meaning of the terms involved.
-
-[^6]:
-     Sharon Street (2006). A Darwinian Dilemma for Realist Theories of Value. _Philosophical Studies_, 127, 146.
-
-[^7]:
-     Street, 145.
-
-[^8]:
-     Christine Korsgaard. The Sources of Normativity, in Grethe B. Peterson, ed. (1994), _The Tanner Lectures on Human Values_. 15. Salt Lake City: University of Utah Press. Excerpted in _Moral Discourse and Practice: Some Philosophical Approaches_, edited by Stephen Darwall, Allan Gibbard, and Peter Railton (1997). Oxford: Oxford University Press, 402.
-
-[^9]:
-     See D. D. Price, A. Von Der Gruen, J. Miller, A. Rafii, and C. A. Price (1985). Psychophysical Analysis of Morphine Analgesia. _Pain_, 22: 261–69; E. L. Foltz and L. E. White (1962). Pain ‘Relief’ by Frontal Cingulotomy. _Journal of Neurosurgery_, 19: 89–100; J. M. Gybels and W. H. Sweet (1989). _Neurosurgical Treatment of Persistent Pain_. Basel: Karger.; and P. D. Wall (2000). _Pain: The Science of Suffering_. New York: Columbia University Press.
-
-[^10]:
-
-     Robert Coghill. Pain: Making the Private Experience Public, in Murat Aydede, ed. (2005). _Pain: New Essays on Its Nature and the Methodology of Its Study_. Cambridge, MA: MIT Press, 301; and M. M. Morgan, M. M. Heinricher, and H. L. Fields (1994). Inhibition and Facilitation of Different Nocifensor Reflexes by Spatially Remote Noxious Stimuli. _Journal of Neuropsychology_, 72: 1152–60.
-
-[^11]:
-
-     Stanley Schachter and Jerome Singer (1962). Cognitive, Social, and Physiological Determinants of Emotional States. _Psychological Review_, 69: 379–99.
-
-[^12]:
-     Paul Brand and Philip Yancey (1993). _Pain: The Gift Nobody Wants_. New York: Harper Collins, especially pp. 194–96.
-
-[^13]:
-     Brand and Yancey, 194.
-
-[^14]:
-     Jaak Panksepp. Social Pain, Support, and Empathy, in Murat Aydede, ed. (2005). _Pain: New Essays on Its Nature and the Methodology of Its Study_. Cambridge, MA: MIT Press, 373.
-
-[^15]:
-     Panksepp, Social Pain, 376; J. Panksepp, B. H. Herman, T. Villberg, P. Bishop, and F. G. DeEskinazi (1980). Endogenous Opioids and Social Behavior. _Neuroscience and Biobehavioral Reviews_ 4: 473–87; and J. Panksepp, S. M. Siviy, and L. A. Normansell. Brain Opioids and Social Emotions, in M. Reite and T. Fields, eds. (1985). _The Psychobiology of Attachment and Separation_. New York: Academic Press, 3–49.
-
-[^16]:
-     Panksepp, Social Pain, 376; Panksepp, Herman, et al.; and Panksepp, Siviy, and Normansell.
-
-[^17]:
-     For a summary of this research and a discussion of its theoretical implications, see Michel Cabanac (1992). Pleasure: the Common Currency, _Journal of Theoretical Biology_, 155(2): 173–200.
-
-[^18]:
-     This view on the agent-neutrality of the badness of pain is also defended by Thomas Nagel (1986). _The View from Nowhere_. Oxford: Oxford University Press, pp. 158-62.
-
-[^19]:
-     For arguments to this effect, see Derek Parfit (1984). _Reasons and Persons_. Oxford: Clarendon Press, Part III. Richard Yetter Chappell summarizes Parfit’s arguments [here](https://rychappell.substack.com/p/do-you-really-exist-over-time).
-
-[^20]:
-     Gerd Gigerenzer (2007). _Gut Feelings: The Intelligence of the Unconscious_. New York: Viking.
-
-[^21]:
-     John Stuart Mill, _[On Liberty](/books/on-liberty-john-stuart-mill/1)_, reprinted in Albert William Levi, ed. (1963). _The Six Great Humanistic Essays of John Stuart Mill_. New York: Washington Square Press.
-
-[^22]:
-     Robert Nozick (1974). _Anarchy, State, and Utopia_. New York: Basic Books, 42–45.
-
-[^23]:
-     For a more detailed version of my thoughts on Nozick’s experience machine thought experiment, see Chapter 7 of _[The Feeling of Value](https://sharonrawlette.wordpress.com/books/the-feeling-of-value/)_ or Sharon Hewitt (2010). What Do Our Intuitions About the Experience Machine Really Tell Us About Hedonism?. _Philosophical Studies_, 151(3): 330–49.
-
-[^24]:
-     Thanks to Robert Wiblin for pointing out that the relevant difference here is our superfluity.
-
-[^25]:
-     John Stuart Mill, _[Utilitarianism](/books/utilitarianism-john-stuart-mill/1)_, reprinted in Albert William Levi, ed. (1963). _The Six Great Humanistic Essays of John Stuart Mill_. New York: Washington Square Press, 252.
-
-[^26]:
-     Peter Singer (1981). _The Expanding Circle: Ethics and Sociobiology_. New York: Farrar, Straus, & Giroux.
+[^1]: David Hume (1740). _A Treatise of Human Nature_, Book 3, Part 1, Section 1.
+[^2]: Moore actually formulated his Open Question Argument in terms of natural properties rather than descriptive ones, but there’s nothing that would limit its scope to naturalistic analyses of normative concepts rather than descriptive analyses in general, and it makes the central issue clearer to talk in terms of descriptive properties. See G. E. Moore (1903). _[Principia Ethica](https://www.gutenberg.org/files/53430/53430-h/53430-h.htm)_. Cambridge: Cambridge University Press, pp. 5–21.
+[^3]: Allan Gibbard (2003). _Thinking How to Live_. Cambridge, MA: Harvard University Press, Ch. 2, especially pp. 23–29.
+[^4]: I add the phrase “in every way” to help remove any apparent coherence that might arise from someone’s using a slightly different sense of the term ‘intrinsically’ than what I have been employing in this essay.
+[^5]: Because there is an obvious sense in which the question “Is pleasure intrinsically good?” is settled by the meaning of the terms involved.
+[^6]: Sharon Street (2006). A Darwinian Dilemma for Realist Theories of Value. _Philosophical Studies_, 127, 146.
+[^7]: Street, 145.
+[^8]: Christine Korsgaard. The Sources of Normativity, in Grethe B. Peterson, ed. (1994), _The Tanner Lectures on Human Values_. 15. Salt Lake City: University of Utah Press. Excerpted in _Moral Discourse and Practice: Some Philosophical Approaches_, edited by Stephen Darwall, Allan Gibbard, and Peter Railton (1997). Oxford: Oxford University Press, 402.
+[^9]: See D. D. Price, A. Von Der Gruen, J. Miller, A. Rafii, and C. A. Price (1985). Psychophysical Analysis of Morphine Analgesia. _Pain_, 22: 261–69; E. L. Foltz and L. E. White (1962). Pain ‘Relief’ by Frontal Cingulotomy. _Journal of Neurosurgery_, 19: 89–100; J. M. Gybels and W. H. Sweet (1989). _Neurosurgical Treatment of Persistent Pain_. Basel: Karger.; and P. D. Wall (2000). _Pain: The Science of Suffering_. New York: Columbia University Press.
+[^10]: Robert Coghill. Pain: Making the Private Experience Public, in Murat Aydede, ed. (2005). _Pain: New Essays on Its Nature and the Methodology of Its Study_. Cambridge, MA: MIT Press, 301; and M. M. Morgan, M. M. Heinricher, and H. L. Fields (1994). Inhibition and Facilitation of Different Nocifensor Reflexes by Spatially Remote Noxious Stimuli. _Journal of Neuropsychology_, 72: 1152–60.
+[^11]: Stanley Schachter and Jerome Singer (1962). Cognitive, Social, and Physiological Determinants of Emotional States. _Psychological Review_, 69: 379–99.
+[^12]: Paul Brand and Philip Yancey (1993). _Pain: The Gift Nobody Wants_. New York: Harper Collins, especially pp. 194–96.
+[^13]: Brand and Yancey, 194.
+[^14]: Jaak Panksepp. Social Pain, Support, and Empathy, in Murat Aydede, ed. (2005). _Pain: New Essays on Its Nature and the Methodology of Its Study_. Cambridge, MA: MIT Press, 373.
+[^15]: Panksepp, Social Pain, 376; J. Panksepp, B. H. Herman, T. Villberg, P. Bishop, and F. G. DeEskinazi (1980). Endogenous Opioids and Social Behavior. _Neuroscience and Biobehavioral Reviews_ 4: 473–87; and J. Panksepp, S. M. Siviy, and L. A. Normansell. Brain Opioids and Social Emotions, in M. Reite and T. Fields, eds. (1985). _The Psychobiology of Attachment and Separation_. New York: Academic Press, 3–49.
+[^16]: Panksepp, Social Pain, 376; Panksepp, Herman, et al.; and Panksepp, Siviy, and Normansell.
+[^17]: For a summary of this research and a discussion of its theoretical implications, see Michel Cabanac (1992). Pleasure: the Common Currency, _Journal of Theoretical Biology_, 155(2): 173–200.
+[^18]: This view on the agent-neutrality of the badness of pain is also defended by Thomas Nagel (1986). _The View from Nowhere_. Oxford: Oxford University Press, pp. 158-62.
+[^19]: For arguments to this effect, see Derek Parfit (1984). _Reasons and Persons_. Oxford: Clarendon Press, Part III. Richard Yetter Chappell summarizes Parfit’s arguments [here](https://rychappell.substack.com/p/do-you-really-exist-over-time).
+[^20]: Gerd Gigerenzer (2007). _Gut Feelings: The Intelligence of the Unconscious_. New York: Viking.
+[^21]: John Stuart Mill, _[On Liberty](/books/on-liberty-john-stuart-mill/1)_, reprinted in Albert William Levi, ed. (1963). _The Six Great Humanistic Essays of John Stuart Mill_. New York: Washington Square Press.
+[^22]: Robert Nozick (1974). _Anarchy, State, and Utopia_. New York: Basic Books, 42–45.
+[^23]: For a more detailed version of my thoughts on Nozick’s experience machine thought experiment, see Chapter 7 of _[The Feeling of Value](https://sharonrawlette.wordpress.com/books/the-feeling-of-value/)_ or Sharon Hewitt (2010). What Do Our Intuitions About the Experience Machine Really Tell Us About Hedonism?. _Philosophical Studies_, 151(3): 330–49.
+[^24]: Thanks to Robert Wiblin for pointing out that the relevant difference here is our superfluity.
+[^25]: John Stuart Mill, _[Utilitarianism](/books/utilitarianism-john-stuart-mill/1)_, reprinted in Albert William Levi, ed. (1963). _The Six Great Humanistic Essays of John Stuart Mill_. New York: Washington Square Press, 252.
+[^26]: Peter Singer (1981). _The Expanding Circle: Ethics and Sociobiology_. New York: Farrar, Straus, & Giroux.

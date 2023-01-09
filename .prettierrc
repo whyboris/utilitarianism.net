@@ -1,0 +1,12 @@
+{
+  "endOfLine": "lf",
+  "tabWidth": 2,
+  "overrides": [
+    {
+      "files": ["*.html"],
+      "options": {
+        "parser": "go-template"
+      }
+    }
+  ]
+}

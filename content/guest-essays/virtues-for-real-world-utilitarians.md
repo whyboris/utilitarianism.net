@@ -13,7 +13,7 @@ imageCaption: "Virtues for Real-World Utilitarians"
 summary: This article discusses how utilitarians should go about applying their philosophy in the real world. It argues that utilitarians should cultivate a set of utilitarian virtues, including moderate altruism, moral expansiveness, effectiveness-focus, truth-seeking, collaborativeness, and determination.
 ---
 
-[Stefan Schubert](https://stefanfschubert.com/) and [Lucius Caviola](http://luciuscaviola.com/)
+{{< guest-disclaimer >}}
 
 {{< TOC >}}
 
@@ -29,12 +29,12 @@ In order to overcome the most important obstacles, they should cultivate a set o
 
 Our list of utilitarian virtues is as follows.[^1]
 
-* _Moderate altruism_: to partly overcome selfishness and give some resources to others.
-* _Moral expansiveness_: to overcome our natural partiality against distant beneficiaries.
-* _Effectiveness-focus_: to overcome our emotional numbness to the scale of a problem and our biases in favor of ineffective ways of helping others.
-* _Truth-seeking_: to overcome motivated reasoning and a host of epistemic biases in order to find the most effective ways of maximizing well-being.
-* _Collaborativeness_: to engage in fruitful collaboration with other utilitarians and be willing to compromise with those who hold differing moral views.
-* _Determination_: to consistently act on utilitarian principles with persistence and deliberation.
+- _Moderate altruism_: to partly overcome selfishness and give some resources to others.
+- _Moral expansiveness_: to overcome our natural partiality against distant beneficiaries.
+- _Effectiveness-focus_: to overcome our emotional numbness to the scale of a problem and our biases in favor of ineffective ways of helping others.
+- _Truth-seeking_: to overcome motivated reasoning and a host of epistemic biases in order to find the most effective ways of maximizing well-being.
+- _Collaborativeness_: to engage in fruitful collaboration with other utilitarians and be willing to compromise with those who hold differing moral views.
+- _Determination_: to consistently act on utilitarian principles with persistence and deliberation.
 
 Lastly, we discuss how utilitarianism relates to common sense virtues and common sense ethics. We argue that when we move from the philosophical seminar room to the real world, utilitarianism does not say that we should harm others for the greater good in the way [it naively may seem](/objections-to-utilitarianism/rights). But although utilitarianism converges with common sense ethics in that regard, it departs from it in other key ways: for instance, by emphasizing the importance of caring for distant beneficiaries (moral expansiveness) and the importance of always choosing the most effective ways of helping others (effectiveness-focus).
 
@@ -156,17 +156,19 @@ _A longer version of this article can be found [here](https://psyarxiv.com/w52zm
 
 ---
 
-**About the authors**
+<h2>About the Authors</h2>
 
 {{< essay-author
      image="/img/authors/Stefan-Schubert.jpg"
-     text="Stefan Schubert" >}}
+     text="Stefan Schubert"
+     noabout=true >}}
 
 [Stefan Schubert](https://stefanfschubert.com/) is a researcher at the Centre for Philosophy of Natural and Social Science, London School of Economics and Political Science, who works in the intersection of moral psychology and philosophy. His research focuses on questions related to effective altruism, such as why we don't invest more in safe-guarding our common future.
 
 {{< essay-author
      image="/img/authors/Lucius-Caviola.jpg"
-     text="Lucius Caviola" >}}
+     text="Lucius Caviola"
+     noabout=true >}}
 
 [Lucius Caviola](http://luciuscaviola.com/) is an experimental psychologist at Harvard University with a PhD from the University of Oxford. He studies the moral biases that prevent us from maximizing social welfare and develops strategies that could help us improve.
 
@@ -178,126 +180,57 @@ _A longer version of this article can be found [here](https://psyarxiv.com/w52zm
 
 ## Resources and Further Reading
 
-* Bazerman, Max (2020). _[Better, not perfect: a realist’s guide to maximum sustainable goodness](https://www.amazon.co.uk/Better-Not-Perfect-Realists-Sustainable-ebook/dp/B082J39V98)_. Harper Business.
-* Bradley, Ben (2018). [Contemporary Consequentialist Theories of Virtue.](https://benbradleyweb.files.wordpress.com/2016/09/consequentialist-theories-of-virtue-final-web.pdf) In _The Oxford Handbook of Virtue_.
-* Caviola, Lucius, David Althaus, Stefan Schubert, and Joshua Lewis (2022). [What psychological traits predict interest in effective altruism?](https://forum.effectivealtruism.org/posts/7f3sq7ZHcRsaBBeMD/what-psychological-traits-predict-interest-in-effective) _Effective Altruism Forum_.
-* Caviola, Lucius, Stefan Schubert, and Joshua D. Greene (2021). [The Psychology of (In) Effective Altruism.](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(21)00090-5) _Trends in Cognitive Sciences_.
-* Crisp, Roger (1992). [Utilitarianism and the Life of Virtue.](https://www.jstor.org/stable/2220212) _The Philosophical Quarterly_, 42, pp. 139-160.
-* de Lazari-Radek, Katarina, and Peter Singer (2013). [How much more demanding is utilitarianism than common sense morality?](https://www.cairn.info/revue-internationale-de-philosophie-2013-4-page-427.htm) _Revue International de Philosophy_, 67(4): 427–438.
-* Ord, Toby (2009). [Beyond Action: Applying consequentialism to decision making and motivation.](http://www.amirrorclear.net/academic/papers/beyond-action.pdf) D. Phil. dissertation, University of Oxford.
-* Schmidt, Andreas. T. (2017). [Being Good by Doing Good: Goodness and the Evaluation of Persons.](https://www.cambridge.org/core/journals/utilitas/article/being-good-by-doing-good-goodness-and-the-evaluation-of-persons/774381E3ECAB0C8A3B961B9E6EA997AD) _Utilitas_, 29(1): 3.
-* Schubert, Stefan and Lucius Caviola. [Virtues for Real-World Utilitarianism](https://psyarxiv.com/w52zm). In Aguiar, Fernando, Antonio Gaitán, and Hugo Viciano, _Issues in Experimental Moral Philosophy_, Routledge (forthcoming).
-* Schubert, Stefan, Ben Garfinkel, and Owen Cotton-Barratt (2017). [Considering Considerateness: Why communities of do-gooders should be exceptionally considerate.](https://www.centreforeffectivealtruism.org/blog/considering-considerateness-why-communities-of-do-gooders-should-be) Effectivealtruism.org.
+- Bazerman, Max (2020). _[Better, not perfect: a realist’s guide to maximum sustainable goodness](https://www.amazon.co.uk/Better-Not-Perfect-Realists-Sustainable-ebook/dp/B082J39V98)_. Harper Business.
+- Bradley, Ben (2018). [Contemporary Consequentialist Theories of Virtue.](https://benbradleyweb.files.wordpress.com/2016/09/consequentialist-theories-of-virtue-final-web.pdf) In _The Oxford Handbook of Virtue_.
+- Caviola, Lucius, David Althaus, Stefan Schubert, and Joshua Lewis (2022). [What psychological traits predict interest in effective altruism?](https://forum.effectivealtruism.org/posts/7f3sq7ZHcRsaBBeMD/what-psychological-traits-predict-interest-in-effective) _Effective Altruism Forum_.
+- Caviola, Lucius, Stefan Schubert, and Joshua D. Greene (2021). [The Psychology of (In) Effective Altruism.](<https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(21)00090-5>) _Trends in Cognitive Sciences_.
+- Crisp, Roger (1992). [Utilitarianism and the Life of Virtue.](https://www.jstor.org/stable/2220212) _The Philosophical Quarterly_, 42, pp. 139-160.
+- de Lazari-Radek, Katarina, and Peter Singer (2013). [How much more demanding is utilitarianism than common sense morality?](https://www.cairn.info/revue-internationale-de-philosophie-2013-4-page-427.htm) _Revue International de Philosophy_, 67(4): 427–438.
+- Ord, Toby (2009). [Beyond Action: Applying consequentialism to decision making and motivation.](http://www.amirrorclear.net/academic/papers/beyond-action.pdf) D. Phil. dissertation, University of Oxford.
+- Schmidt, Andreas. T. (2017). [Being Good by Doing Good: Goodness and the Evaluation of Persons.](https://www.cambridge.org/core/journals/utilitas/article/being-good-by-doing-good-goodness-and-the-evaluation-of-persons/774381E3ECAB0C8A3B961B9E6EA997AD) _Utilitas_, 29(1): 3.
+- Schubert, Stefan and Lucius Caviola. [Virtues for Real-World Utilitarianism](https://psyarxiv.com/w52zm). In Aguiar, Fernando, Antonio Gaitán, and Hugo Viciano, _Issues in Experimental Moral Philosophy_, Routledge (forthcoming).
+- Schubert, Stefan, Ben Garfinkel, and Owen Cotton-Barratt (2017). [Considering Considerateness: Why communities of do-gooders should be exceptionally considerate.](https://www.centreforeffectivealtruism.org/blog/considering-considerateness-why-communities-of-do-gooders-should-be) Effectivealtruism.org.
 
 **Videos of talks:**
 
-* Caviola, Lucius (2017). [Against Naïve Effective Altruism](https://www.youtube.com/watch?v=-2oRgxxafXk).
-* Schubert, Stefan (2019). [Moral Aspirations and Psychological Limitations](https://www.youtube.com/watch?v=mcp-wnu2NhY).
-* Schubert, Stefan (2020). [Naïve effective altruism and the danger of neglecting psychology](https://www.youtube.com/watch?v=g-RJ5CDQLNM&t).
+- Caviola, Lucius (2017). [Against Naïve Effective Altruism](https://www.youtube.com/watch?v=-2oRgxxafXk).
+- Schubert, Stefan (2019). [Moral Aspirations and Psychological Limitations](https://www.youtube.com/watch?v=mcp-wnu2NhY).
+- Schubert, Stefan (2020). [Naïve effective altruism and the danger of neglecting psychology](https://www.youtube.com/watch?v=g-RJ5CDQLNM&t).
 
 {{< guest-essays true >}}
 
-[^1]:
-     Importantly, this list is tentative and not meant to be exhaustive.
-
-[^2]:
-     Crockett, M. J., & Lockwood, P. L. (2018). Extraordinary altruism and transcending the self. _Trends in Cognitive Sciences, 22_(12): 1071–1073.
-
-[^3]:
-     Christakis, Nicholas A (2019). _Blueprint: The evolutionary origins of a good society_. Hachette UK.
-
-[^4]:
-     Singer, Peter (1981/2011). _[The expanding circle: Ethics, evolution, and moral progress](https://en.wikipedia.org/wiki/The_Expanding_Circle)_. Princeton University Press.
-
-[^5]:
-     MacAskill, William (2015). _[Doing good better: Effective altruism and a radical new way to make a difference](https://en.wikipedia.org/wiki/Doing_Good_Better)_. Guardian Faber Publishing.
-
-[^6]:
-     Animal Charity Evaluators (2016). [Why Farmed Animals](https://animalcharityevaluators.org/donation-advice/why-farmed-animals/).
-
-[^7]:
-     Greaves, Hilary, and William MacAskill (2021). [The case for strong longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism-2/). _Global Priorities Institute, working paper, 5_.
-
-[^8]:
-     Crimston, Daniel, Paul G. Bain, Matthew J. Hornsey, and Brock Bastian (2016). Moral expansiveness: Examining variability in the extension of the moral world. _Journal of Personality and Social Psychology_ 111(4): 636–653; Crimston, Daniel, Matthew J. Hornsey, Paul G. Bain, and Brock Bastian (2018). Toward a psychology of moral expansiveness. _Current Directions in Psychological Science_, 27(1): 14–19.
-
-[^9]:
-     Note that since such partiality is unique to the personal sphere, this does not mean that they should permit themselves to be nepotistic in favor of family members or friends within professional or institutional contexts.
-
-[^10]:
-     Caviola, Lucius, David Althaus, Stefan Schubert, and Joshua Lewis (2022). [What psychological traits predict interest in effective altruism?](https://forum.effectivealtruism.org/posts/7f3sq7ZHcRsaBBeMD/what-psychological-traits-predict-interest-in-effective). Effective Altruism Forum.
-
-[^11]:
-     Tetlock, P. E. (2003). Thinking the unthinkable: Sacred values and taboo cognitions.; Caviola, Lucius, Stefan Schubert, and Jason Nemirow (2020b). The many obstacles to effective giving. _Judgment and Decision Making_, 15(2): 159–172
-
-[^12]:
-     Berman, Jonathan Z., Alixandra Barasch, Emma E. Levine, and Deborah A. Small (2018). Impediments to effective altruism: The role of subjective preferences in charitable giving. _Psychological science_, 29(5): 834–844.
-
-[^13]:
-     Jamison, Dean et al (2006). _Disease Control Priorities in Developing Countries_, World Bank; Ord, Toby (2013). The Moral Imperative Toward Cost-Effectiveness in Global Health, Center for Global Development; Caviola, Lucius, Stefan Schubert, and Jason Nemirow (2020). The many obstacles to effective giving. _Judgment and Decision Making_, 15(2): 159–172.
-
-[^14]:
-     Burum, Bethany, Martin A. Nowak, and Moshe Hoffman (2020). An evolutionary explanation for ineffective altruism. _Nature Human Behaviour_, 1–13; Miller, Geoffrey (2000). _The mating mind: How sexual choice shaped the evolution of human nature_. Heinemann; Simmler, Kevin, and Robin Hanson (2017). _The elephant in the brain: Hidden motives in everyday life_. Oxford University Press; Lloyd, Elisabeth, David Sloan Wilson, and Elliott Sober (2011). Evolutionary mismatch and what to do about it: A basic tutorial. _Evolutionary Applications_, 2–4; Cosmides, Leda, and John Tooby (2006). _Evolutionary psychology, moral heuristics, and the law_. Dahlem University Press.
-
-[^15]:
-     Caviola, Lucius, Stefan Schubert, Elliot Teperman, David Moss, Spencer Greenberg, and Nadira S. Faber (2020). Donors vastly underestimate differences in charities’ effectiveness. _Judgment and Decision Making_, 15(4): 509–516.
-
-[^16]:
-     Tarsney, Christian (2019). [The epistemic challenge to longtermism](https://globalprioritiesinstitute.org/christian-tarsney-the-epistemic-challenge-to-longtermism/). Global Priorities Institute, working paper, 10.
-
-[^17]:
-     Kahan, Dan M (2015). The politically motivated reasoning paradigm, part 1: What politically motivated reasoning is and how to measure it. _Emerging trends in the social and behavioral sciences: An interdisciplinary, searchable, and linkable resource_: 1–16.
-
-[^18]:
-     Oswald, Margit E., and Stefan Grosjean (2004). Confirmation bias. In _Cognitive illusions: A handbook on fallacies and biases in thinking, judgment and memory_, 79.
-
-[^19]:
-     Hoffrage, Ulrich (2004). Overconfidence. In _Cognitive illusions: A handbook on fallacies and biases in thinking, judgment and memory_.
-
-[^20]:
-     Caviola, Lucius, Stefan Schubert, and Jason Nemirow (2020). The many obstacles to effective giving. _Judgment and Decision Making_, 15(2): 159–172.
-
-[^21]:
-     Stanovich, Keith E., Richard F. West, and Maggie E. Toplak (2016). _The rationality quotient: Toward a test of rational thinking_. MIT press.
-
-[^22]:
-     Pinker, Steven (2021). _Rationality: What It Is, Why It Seems Scarce, Why It Matters_. Allen Lane.
-
-[^23]:
-     Galef, Julia (2021). _The Scout Mindset: Why Some People See Things Clearly and Others Don't_. Penguin.
-
-[^24]:
-     Stanovich, Keith E., and Richard F. West (1997). Reasoning independently of prior belief and individual differences in actively open-minded thinking. _Journal of Educational Psychology_, 89(2): 342.
-
-[^25]:
-     Ord, Toby (2015). Moral trade. _Ethics_, 126(1): 118–138.
-
-[^26]:
-     See Caviola, Lucius, Stefan Schubert, Elliot Teperman, David Moss, Spencer Greenberg, and N. Faber (2020). Donors vastly underestimate differences in charities’ effectiveness. _Judgment and Decision Making_,__15:4: 509–516.
-
-[^27]:
-     Haidt, Jonathan (2012). _The righteous mind: Why good people are divided by politics and religion._ Vintage.
-
-[^28]:
-     Sheeran, Paschal, and Thomas L. Webb (2016). The intention–behavior gap. _Social and personality psychology compass_, 10(9): 503–518.
-
-[^29]:
-     Schwarz, Norbert, and Leigh Ann Vaughn (2002). The Availability Heuristic Revisited: Ease of Recall and Content of Recall as Distinct Sources of Information. Chapter in _Heuristics and Biases: The Psychology of Intuitive Judgment_, edited by Thomas Gilovich, Dale Griffin, and Daniel Kahneman, 103–19. Cambridge: Cambridge University Press.
-
-[^30]:
-     Misuraca, Raffaella, Palmira Faraci, Amelia Gangemi, Floriana A. Carmeci, and Silvana Miceli (2015). The Decision Making Tendency Inventory: A new measure to assess maximizing, satisficing, and minimizing. _Personality and Individual Differences_, 85: 111–116.
-
-[^31]:
-     Cotra, Ajeya (2017). [Introduction to Effective Altruism](https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/5EqJozsDdHcF7dpPL).[Effective Altruism Forum](https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/5EqJozsDdHcF7dpPL). Our italics.
-
-[^32]:
-     Foot, Philippa (1967). The problem of abortion and the doctrine of the double effect. _Oxford Review_, 5: 5–15; Thomson, Judith Jarvis (1976). Killing, Letting Die, and the Trolley Problem, _The Monist_, 59: 204–17; Greene, Joshua D., R. Brian Sommerville, Leigh E. Nystrom, John M. Darley, and Jonathan D. Cohen (2001). An fMRI investigation of emotional engagement in moral judgment. _Science_, 293(5537): 2105–2108.
-
-[^33]:
-     Everett, Jim AC, Nadira S. Faber, Julian Savulescu, and Molly J. Crockett (2018). The costs of being consequentialist: Social inference from instrumental harm and impartial beneficence. _Journal of experimental social psychology_, 79: 200–216.
-
-[^34]:
-     Mill, John Stuart (1838). Bentham, in John M. Robson (ed.) Collected works (vol. X), Toronto: Toronto University Press: pp. 75–116; Sidgwick, Henry (1907/1981). _The Method of Ethics_, 7th edition. Indianapolis: Hackett; Crisp, Roger (1992). Utilitarianism and the Life of Virtue. _The Philosophical Quarterly_, 42(167): 139–160; Hooker, Brad (2002). _Ideal code, real world: A rule-consequentialist theory of morality_. Oxford University Press; Ord, Toby (2009). Beyond Action: Applying consequentialism to decision making and motivation. D. Phil. dissertation, University of Oxford.
-
-[^35]:
-     Mill, John Stuart (1861/1992). _Utilitarianism_, In _On Liberty and Utilitarianism_, Knopf: Everyman’s Library, Volume 81.; Railton, Peter (1984). Alienation, Consequentialism, and the Demands of Morality. _Philosophy and Public Affairs_,__13: 134–171.
+[^1]: Importantly, this list is tentative and not meant to be exhaustive.
+[^2]: Crockett, M. J., & Lockwood, P. L. (2018). Extraordinary altruism and transcending the self. _Trends in Cognitive Sciences, 22_(12): 1071–1073.
+[^3]: Christakis, Nicholas A (2019). _Blueprint: The evolutionary origins of a good society_. Hachette UK.
+[^4]: Singer, Peter (1981/2011). _[The expanding circle: Ethics, evolution, and moral progress](https://en.wikipedia.org/wiki/The_Expanding_Circle)_. Princeton University Press.
+[^5]: MacAskill, William (2015). _[Doing good better: Effective altruism and a radical new way to make a difference](https://en.wikipedia.org/wiki/Doing_Good_Better)_. Guardian Faber Publishing.
+[^6]: Animal Charity Evaluators (2016). [Why Farmed Animals](https://animalcharityevaluators.org/donation-advice/why-farmed-animals/).
+[^7]: Greaves, Hilary, and William MacAskill (2021). [The case for strong longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism-2/). _Global Priorities Institute, working paper, 5_.
+[^8]: Crimston, Daniel, Paul G. Bain, Matthew J. Hornsey, and Brock Bastian (2016). Moral expansiveness: Examining variability in the extension of the moral world. _Journal of Personality and Social Psychology_ 111(4): 636–653; Crimston, Daniel, Matthew J. Hornsey, Paul G. Bain, and Brock Bastian (2018). Toward a psychology of moral expansiveness. _Current Directions in Psychological Science_, 27(1): 14–19.
+[^9]: Note that since such partiality is unique to the personal sphere, this does not mean that they should permit themselves to be nepotistic in favor of family members or friends within professional or institutional contexts.
+[^10]: Caviola, Lucius, David Althaus, Stefan Schubert, and Joshua Lewis (2022). [What psychological traits predict interest in effective altruism?](https://forum.effectivealtruism.org/posts/7f3sq7ZHcRsaBBeMD/what-psychological-traits-predict-interest-in-effective). Effective Altruism Forum.
+[^11]: Tetlock, P. E. (2003). Thinking the unthinkable: Sacred values and taboo cognitions.; Caviola, Lucius, Stefan Schubert, and Jason Nemirow (2020b). The many obstacles to effective giving. _Judgment and Decision Making_, 15(2): 159–172
+[^12]: Berman, Jonathan Z., Alixandra Barasch, Emma E. Levine, and Deborah A. Small (2018). Impediments to effective altruism: The role of subjective preferences in charitable giving. _Psychological science_, 29(5): 834–844.
+[^13]: Jamison, Dean et al (2006). _Disease Control Priorities in Developing Countries_, World Bank; Ord, Toby (2013). The Moral Imperative Toward Cost-Effectiveness in Global Health, Center for Global Development; Caviola, Lucius, Stefan Schubert, and Jason Nemirow (2020). The many obstacles to effective giving. _Judgment and Decision Making_, 15(2): 159–172.
+[^14]: Burum, Bethany, Martin A. Nowak, and Moshe Hoffman (2020). An evolutionary explanation for ineffective altruism. _Nature Human Behaviour_, 1–13; Miller, Geoffrey (2000). _The mating mind: How sexual choice shaped the evolution of human nature_. Heinemann; Simmler, Kevin, and Robin Hanson (2017). _The elephant in the brain: Hidden motives in everyday life_. Oxford University Press; Lloyd, Elisabeth, David Sloan Wilson, and Elliott Sober (2011). Evolutionary mismatch and what to do about it: A basic tutorial. _Evolutionary Applications_, 2–4; Cosmides, Leda, and John Tooby (2006). _Evolutionary psychology, moral heuristics, and the law_. Dahlem University Press.
+[^15]: Caviola, Lucius, Stefan Schubert, Elliot Teperman, David Moss, Spencer Greenberg, and Nadira S. Faber (2020). Donors vastly underestimate differences in charities’ effectiveness. _Judgment and Decision Making_, 15(4): 509–516.
+[^16]: Tarsney, Christian (2019). [The epistemic challenge to longtermism](https://globalprioritiesinstitute.org/christian-tarsney-the-epistemic-challenge-to-longtermism/). Global Priorities Institute, working paper, 10.
+[^17]: Kahan, Dan M (2015). The politically motivated reasoning paradigm, part 1: What politically motivated reasoning is and how to measure it. _Emerging trends in the social and behavioral sciences: An interdisciplinary, searchable, and linkable resource_: 1–16.
+[^18]: Oswald, Margit E., and Stefan Grosjean (2004). Confirmation bias. In _Cognitive illusions: A handbook on fallacies and biases in thinking, judgment and memory_, 79.
+[^19]: Hoffrage, Ulrich (2004). Overconfidence. In _Cognitive illusions: A handbook on fallacies and biases in thinking, judgment and memory_.
+[^20]: Caviola, Lucius, Stefan Schubert, and Jason Nemirow (2020). The many obstacles to effective giving. _Judgment and Decision Making_, 15(2): 159–172.
+[^21]: Stanovich, Keith E., Richard F. West, and Maggie E. Toplak (2016). _The rationality quotient: Toward a test of rational thinking_. MIT press.
+[^22]: Pinker, Steven (2021). _Rationality: What It Is, Why It Seems Scarce, Why It Matters_. Allen Lane.
+[^23]: Galef, Julia (2021). _The Scout Mindset: Why Some People See Things Clearly and Others Don't_. Penguin.
+[^24]: Stanovich, Keith E., and Richard F. West (1997). Reasoning independently of prior belief and individual differences in actively open-minded thinking. _Journal of Educational Psychology_, 89(2): 342.
+[^25]: Ord, Toby (2015). Moral trade. _Ethics_, 126(1): 118–138.
+[^26]: See Caviola, Lucius, Stefan Schubert, Elliot Teperman, David Moss, Spencer Greenberg, and N. Faber (2020). Donors vastly underestimate differences in charities’ effectiveness. _Judgment and Decision Making_, 15:4: 509–516.
+[^27]: Haidt, Jonathan (2012). _The righteous mind: Why good people are divided by politics and religion._ Vintage.
+[^28]: Sheeran, Paschal, and Thomas L. Webb (2016). The intention–behavior gap. _Social and personality psychology compass_, 10(9): 503–518.
+[^29]: Schwarz, Norbert, and Leigh Ann Vaughn (2002). The Availability Heuristic Revisited: Ease of Recall and Content of Recall as Distinct Sources of Information. Chapter in _Heuristics and Biases: The Psychology of Intuitive Judgment_, edited by Thomas Gilovich, Dale Griffin, and Daniel Kahneman, 103–19. Cambridge: Cambridge University Press.
+[^30]: Misuraca, Raffaella, Palmira Faraci, Amelia Gangemi, Floriana A. Carmeci, and Silvana Miceli (2015). The Decision Making Tendency Inventory: A new measure to assess maximizing, satisficing, and minimizing. _Personality and Individual Differences_, 85: 111–116.
+[^31]: Cotra, Ajeya (2017). [Introduction to Effective Altruism](https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/5EqJozsDdHcF7dpPL).[Effective Altruism Forum](https://forum.effectivealtruism.org/s/YCa8BRQoxKbmf5CJb/p/5EqJozsDdHcF7dpPL). Our italics.
+[^32]: Foot, Philippa (1967). The problem of abortion and the doctrine of the double effect. _Oxford Review_, 5: 5–15; Thomson, Judith Jarvis (1976). Killing, Letting Die, and the Trolley Problem, _The Monist_, 59: 204–17; Greene, Joshua D., R. Brian Sommerville, Leigh E. Nystrom, John M. Darley, and Jonathan D. Cohen (2001). An fMRI investigation of emotional engagement in moral judgment. _Science_, 293(5537): 2105–2108.
+[^33]: Everett, Jim AC, Nadira S. Faber, Julian Savulescu, and Molly J. Crockett (2018). The costs of being consequentialist: Social inference from instrumental harm and impartial beneficence. _Journal of experimental social psychology_, 79: 200–216.
+[^34]: Mill, John Stuart (1838). Bentham, in John M. Robson (ed.) Collected works (vol. X), Toronto: Toronto University Press: pp. 75–116; Sidgwick, Henry (1907/1981). _The Method of Ethics_, 7th edition. Indianapolis: Hackett; Crisp, Roger (1992). Utilitarianism and the Life of Virtue. _The Philosophical Quarterly_, 42(167): 139–160; Hooker, Brad (2002). _Ideal code, real world: A rule-consequentialist theory of morality_. Oxford University Press; Ord, Toby (2009). Beyond Action: Applying consequentialism to decision making and motivation. D. Phil. dissertation, University of Oxford.
+[^35]: Mill, John Stuart (1861/1992). _Utilitarianism_, In _On Liberty and Utilitarianism_, Knopf: Everyman’s Library, Volume 81.; Railton, Peter (1984). Alienation, Consequentialism, and the Demands of Morality. _Philosophy and Public Affairs_, 13: 134–171.

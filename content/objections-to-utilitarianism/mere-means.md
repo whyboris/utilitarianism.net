@@ -1,11 +1,13 @@
 ---
 title: "The Mere Means Objection"
 date: 2022-08-08T10:08:55-04:00
+updated: 2023, Jan 8th - in sync with website
 type: "page"
 draft: false
 menu: ["objections"]
 weight: 4
 page: 4
+image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 {{< TOC >}}
@@ -70,29 +72,14 @@ But there may be other, closely related, objections that people sometimes have i
 
 Resources and Further Reading
 
-* Derek Parfit (2011). _On What Matters: Vol 1_. Oxford University Press. Chapter 9: Merely as a Means.
-* Samuel Kerstein (2019). [Treating Persons as Means](https://plato.stanford.edu/archives/sum2019/entries/persons-means/), _The Stanford Encyclopedia of Philosophy_ (Summer 2019 Edition), Edward N. Zalta (ed.).
+- Derek Parfit (2011). _On What Matters: Vol 1_. Oxford University Press. Chapter 9: Merely as a Means.
+- Samuel Kerstein (2019). [Treating Persons as Means](https://plato.stanford.edu/archives/sum2019/entries/persons-means/), _The Stanford Encyclopedia of Philosophy_ (Summer 2019 Edition), Edward N. Zalta (ed.).
 
-[^1]:
-     Strictly speaking, this objection applies to all (aggregative) consequentialist theories. The responses we offer on behalf of utilitarianism in this article would equally apply in defense of other consequentialist theories.
-
-[^2]:
-     Kant, Immanuel (1785). _[Groundwork of the Metaphysics of Morals](https://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf)_, translated by Jonathan Bennett.
-
-[^3]:
-     Specifically, they would be willing to sacrifice goods that added up to an equal or lesser loss of well-being value, in order to relieve this burden.
-
-[^4]:
-     Cf. Parfit, D. (2011). _On What Matters: Vol 1_. Oxford University Press. Chapter 9: Merely as a Means.
-
-[^5]:
-     Kamm, F. (1998). [Is it right to save the greater number?](https://oxford.universitypressscholarship.com/view/10.1093/0195119118.001.0001/acprof-9780195119114-chapter-7#) in _Morality, Mortality Volume I: Death and Whom to Save From It._ Oxford University Press, p. 148.
-
-[^6]:
-     Strictly speaking: her interests are given equal weight, but if she has lower remaining life expectancy than the children (and hence correspondingly less future well-being at stake), then the intrinsic value of her future life may be _lower_ than that of those with longer yet to live.
-
-[^7]:
-     Thanks to Toby Ord for suggesting this variant.
-
-[^8]:
-     For example, they may claim that you should not treat people in ways that they either do not consent to, or could not reasonably consent to.
+[^1]: Strictly speaking, this objection applies to all (aggregative) consequentialist theories. The responses we offer on behalf of utilitarianism in this article would equally apply in defense of other consequentialist theories.
+[^2]: Kant, Immanuel (1785). _[Groundwork of the Metaphysics of Morals](https://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf)_, translated by Jonathan Bennett.
+[^3]: Specifically, they would be willing to sacrifice goods that added up to an equal or lesser loss of well-being value, in order to relieve this burden.
+[^4]: Cf. Parfit, D. (2011). _On What Matters: Vol 1_. Oxford University Press. Chapter 9: Merely as a Means.
+[^5]: Kamm, F. (1998). [Is it right to save the greater number?](https://oxford.universitypressscholarship.com/view/10.1093/0195119118.001.0001/acprof-9780195119114-chapter-7#) in _Morality, Mortality Volume I: Death and Whom to Save From It._ Oxford University Press, p. 148.
+[^6]: Strictly speaking: her interests are given equal weight, but if she has lower remaining life expectancy than the children (and hence correspondingly less future well-being at stake), then the intrinsic value of her future life may be _lower_ than that of those with longer yet to live.
+[^7]: Thanks to Toby Ord for suggesting this variant.
+[^8]: For example, they may claim that you should not treat people in ways that they either do not consent to, or could not reasonably consent to.

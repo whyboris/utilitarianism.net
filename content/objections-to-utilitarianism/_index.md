@@ -1,14 +1,16 @@
 ---
-title: "Objections to Utilitarianism"
-date: 2022-08-08T10:10:52-04:00
+title: "Objections to Utilitarianism and Responses"
+date: 2023-01-01T10:10:52-04:00
+updated: 2023, Jan 8th - in sync with website
 draft: false
 menu: ["objections", "main"]
 weight: 8
 page: 0
+image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
-> Bernard Williams...concluded a lengthy attack on utilitarianism by remarking: ‘The day cannot be too far off in which we hear no more of it.’ It is now more than forty years since Williams made that comment, but we continue to hear plenty about utilitarianism.[^1]  \
-> \- Peter Singer & Katarzyna de Lazari-Radek
+> _"Bernard Williams...concluded a lengthy attack on utilitarianism by remarking: ‘The day cannot be too far off in which we hear no more of it.’ It is now more than forty years since Williams made that comment, but we continue to hear plenty about utilitarianism."_ \
+> \- [Peter Singer](/utilitarian-thinker/peter-singer) & Katarzyna de Lazari-Radek [^1]
 
 {{< TOC >}}
 
@@ -46,7 +48,7 @@ In separate articles, we discuss the following critiques of utilitarianism:
 
 4. [The mere means objection](/objections-to-utilitarianism/mere-means) claims that utilitarianism treats people as “mere means” to the greater good rather than as ends in themselves.
 
-5. [The separateness of persons objection](/objections-to-utilitarianism/separateness) charges utilitarianism with aggregating well-being in an unacceptable way, neglecting the significance of the boundaries between individuals.
+5. [The separateness of persons objection](/objections-to-utilitarianism/separateness-of-persons) charges utilitarianism with aggregating well-being in an unacceptable way, neglecting the significance of the boundaries between individuals.
 
 6. [The alienation objection](/objections-to-utilitarianism/alienation) alleges that the moral reasons posited by utilitarianism are troublingly cold and aloof, alienating us from the particular people and projects that (rightly) matter to us.
 
@@ -60,11 +62,8 @@ In separate articles, we discuss the following critiques of utilitarianism:
 
 ## Resources and Further Reading
 
-* Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford: Oxford University Press. Chapter 4: Objections.
-* J. J. C. Smart & Bernard Williams (1973). _Utilitarianism: For and Against_. Cambridge: Cambridge University Press.
+- Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford: Oxford University Press. Chapter 4: Objections.
+- J. J. C. Smart & Bernard Williams (1973). _Utilitarianism: For and Against_. Cambridge: Cambridge University Press.
 
-[^1]:
-     de Lazari-Radek, K. & Singer, P. (2017). _Utilitarianism: A Very Short Introduction_. Oxford: Oxford University Press. Preface.
-
-[^2]:
-     For a discussion of evolutionary debunking arguments, see Hanson, R. (2002). [Why Health Is Not Special: Errors In Evolved Bioethics Intuitions](http://mason.gmu.edu/~rhanson/bioerr.pdf). _Social Philosophy & Policy_. 19(2): 153–79. See also the discussion in our chapter on the [Arguments for Utilitarianism](/arguments-for-utilitarianism#evolutionary-debunking-arguments).
+[^1]: de Lazari-Radek, K. & Singer, P. (2017). _Utilitarianism: A Very Short Introduction_. Oxford: Oxford University Press. Preface.
+[^2]: For a discussion of evolutionary debunking arguments, see Hanson, R. (2002). [Why Health Is Not Special: Errors In Evolved Bioethics Intuitions](http://mason.gmu.edu/~rhanson/bioerr.pdf). _Social Philosophy & Policy_. 19(2): 153–79. See also the discussion in our chapter on the [Arguments for Utilitarianism](/arguments-for-utilitarianism#evolutionary-debunking-arguments).

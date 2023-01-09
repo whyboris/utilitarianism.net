@@ -1,3 +1,10 @@
 /public/
 /resources/
 .hugo_build.lock
+
+pdf/node_modules
+pdf/package-lock.json
+pdf/temp
+pdf/**/*.pdf
+
+**/.DS_store

@@ -23,6 +23,10 @@
 
 .littlefoot-footnote__content {
   max-height: 500px !important;
+
+  p {
+    min-width: 450px;
+  }
 }
 
 /*

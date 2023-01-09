@@ -14,6 +14,7 @@ summary: "This essay questions the common research ethics’ philosophical found
 (II) Kantian ethics may conflict with many core research ethics norms, and (III) a more utilitarian outlook would improve contemporary research ethics in concrete ways."
 ---
 
+{{< guest-disclaimer >}}
 
 {{< TOC >}}
 
@@ -29,8 +30,8 @@ Following public outrage at multiple research ethics abuses exposed in the 1960s
 
 This article questions this common picture of research ethics’ philosophical foundations. It argues that:
 
-(I) utilitarianism can account for many core research ethics norms,  \
-(II) Kantian ethics may conflict with many core research ethics norms, and  \
+(I) utilitarianism can account for many core research ethics norms, \
+(II) Kantian ethics may conflict with many core research ethics norms, and \
 (III) a more utilitarian outlook would improve contemporary research ethics in concrete ways.
 
 ## I. Utilitarian support for core research ethics norms
@@ -55,7 +56,7 @@ Modern clinical ethics also emphasizes individual consent and not just the medic
 
 Mill argues that deciding for oneself adds great value to the individual’s life. Individuals tend to know best and care the most about what is good for them, and deciding for ourselves is inherently good for us.[^13] Bioethicists’ defenses of autonomous decision-making, either in the clinic or in research,[^14] essentially repeat Mill’s rationale. If Mill is right then exercising one’s personal autonomy—even against doctors’ advice—will often benefit one overall, even when it harms one's medical interests. Admittedly, individuals do not always benefit overall from having the last say on matters closely affecting their bodies and health—in either clinical care or research. But giving them that veto power even when it fails to maximize well-being may abide by the rules that tend to maximize well-being in the long run[^15]—an old utilitarian recipe for maximizing expected value.[^16]
 
-It may seem as though Kantian ethics can at least require _some_ form of consent to any study participation, whether or not that consent is fully autonomous. But even that is unclear: when Kant mentions the consent requirement, it is a requirement that the individual _could_ possibly consent, not that she _actually_consents.[^17]
+It may seem as though Kantian ethics can at least require _some_ form of consent to any study participation, whether or not that consent is fully autonomous. But even that is unclear: when Kant mentions the consent requirement, it is a requirement that the individual _could_ possibly consent, not that she _actually_ consents.[^17]
 
 ## II. Kantian obstacles to core research ethics norms
 
@@ -103,7 +104,7 @@ Assessments of the ethics of actual studies tend to pay lots of attention to the
 
 ### 2. Accounting for risk to broad patient populations
 
-Scientific trials always assess interventions in a circumscribed set of the population instead of releasing these interventions to the population at large, or at least to its low-risk segments, while monitoring the results. The main point of starting in a circumscribed set of people is to minimize the number of people injured. This may reflect the utilitarian concern with minimizing the _cumulative_harm to people. The point is clearly not to minimize the chance of harm to each study participant considered in isolation.
+Scientific trials always assess interventions in a circumscribed set of the population instead of releasing these interventions to the population at large, or at least to its low-risk segments, while monitoring the results. The main point of starting in a circumscribed set of people is to minimize the number of people injured. This may reflect the utilitarian concern with minimizing the _cumulative_ harm to people. The point is clearly not to minimize the chance of harm to each study participant considered in isolation.
 
 ### 3. Accounting for risk to so-called study bystanders
 
@@ -147,7 +148,7 @@ Some studies even harm humanity more than they benefit it by generating “[dual
 
 This article disputes a common view of research ethics as being fundamentally antagonistic to utilitarianism and friendly to Kantianism. I have argued that (I) utilitarianism can account well for many core research ethics norms, while (II) Kantianism conflicts with many of them, and (III) a more utilitarian outlook would improve contemporary research ethics. Thus, utilitarianism and research ethics may turn out to be complementary, certainly compared to some alternatives to utilitarianism.
 
-**About the author**
+---
 
 {{< essay-author
      image="/img/authors/Nir-Eyal.jpg"
@@ -203,122 +204,43 @@ This article disputes a common view of research ethics as being fundamentally an
 - Wertheimer, Alan. 2014. "(Why) should we require consent to participation in research?" _Journal of Law and the Biosciences_, 1(2): 137–182. doi: 10.1093/jlb/lsu008.
 - Whitney, S. N., and C. E. Schneider. 2011. "Viewpoint: a method to estimate the cost in lives of ethics board review of biomedical research." _Journal of Internal Medicine_, 269(4): 396–402. doi: 10.1111/j.1365-2796.2011.02351_2.x.
 
-[^1]:
-     For excellent comments, I am grateful to Richard Chappell, Dan Hausman, and Darius Meissner.
-
-[^2]:
-     Jonas (1969, 237); Rothman (1987); see also Donagan (1977, 325).
-
-[^3]:
-     Jonas (1969, 235)
-
-[^4]:
-     Rothman (1987, 1198)
-
-[^5]:
-     Donagan (1977, 320, 323, 326)
-
-[^6]:
-     See, e.g., Emanuel, Wendler, and Grady (2000, 2706); Emanuel and Grady (2008, 223-5).
-
-[^7]:
-     Kass et al. (1996)
-
-[^8]:
-     Tännsjö (1999)
-
-[^9]:
-     Emanuel et al (2000)
-
-[^10]:
-     O'Neill (2003)
-
-[^11]:
-     Faden and Beauchamp (1986)
-
-[^12]:
-     Mill (2003 [1869]); Powers, Faden, and Saghai (2012); O’Neill (2003, 3f.))
-
-[^13]:
-     Mill (2003 [1869])
-
-[^14]:
-     Dworkin (1988, 21-33); Buchanan and Brock (1990, 29-36)
-
-[^15]:
-     Eyal (2015)
-
-[^16]:
-     Sidgwick (1981 [1874]); Hare (1981)
-
-[^17]:
-     Kant (1999 [1785], §430); Wertheimer (2014, 149)
-
-[^18]:
-     Korsgaard (1988); Darwall (2006, 265)
-
-[^19]:
-     Miller and Wertheimer (2007)
-
-[^20]:
-     Korsgaard (1993)
-
-[^21]:
-     Waldron (1985)
-
-[^22]:
-     Feinberg (1973); O'Neill (2016)
-
-[^23]:
-     Ripstein (2009)
-
-[^24]:
-     Thomson (2008)
-
-[^25]:
-     Rosenblatt (2020)
-
-[^26]:
-     Steuwer, Jamrozik, and Eyal (2021)
-
-[^27]:
-     Kimmelman (2005); Resnik and Sharp (2006); Shah et al. (2018); Eyal and Holtzman (2020)
-
-[^28]:
-     Esvelt (2018)
-
-[^29]:
-     Walen (2020)
-
-[^30]:
-     Walen (2020)
-
-[^31]:
-     Scanlon (2013)
-
-[^32]:
-     See, e.g., Kimmelman (2010).
-
-[^33]:
-     Chappell and Singer (2020)
-
-[^34]:
-     Tabarrok (2021)
-
-[^35]:
-     Whitney and Schneider (2011)
-
-[^36]:
-     Emanuel, Wendler, and Grady (2000)
-
-[^37]:
-     Eyal (2017)
-
-[^38]:
-     Emanuel, Wendler, and Grady (2000)
-
-[^39]:
-     Frankfurt (1987)
-
-[^40]:
-     Lewis et al. (2019)
+[^1]: For excellent comments, I am grateful to Richard Chappell, Dan Hausman, and Darius Meissner.
+[^2]: Jonas (1969, 237); Rothman (1987); see also Donagan (1977, 325).
+[^3]: Jonas (1969, 235)
+[^4]: Rothman (1987, 1198)
+[^5]: Donagan (1977, 320, 323, 326)
+[^6]: See, e.g., Emanuel, Wendler, and Grady (2000, 2706); Emanuel and Grady (2008, 223-5).
+[^7]: Kass et al. (1996)
+[^8]: Tännsjö (1999)
+[^9]: Emanuel et al (2000)
+[^10]: O'Neill (2003)
+[^11]: Faden and Beauchamp (1986)
+[^12]: Mill (2003 [1869]); Powers, Faden, and Saghai (2012); O’Neill (2003, 3f.))
+[^13]: Mill (2003 [1869])
+[^14]: Dworkin (1988, 21-33); Buchanan and Brock (1990, 29-36)
+[^15]: Eyal (2015)
+[^16]: Sidgwick (1981 [1874]); Hare (1981)
+[^17]: Kant (1999 [1785], §430); Wertheimer (2014, 149)
+[^18]: Korsgaard (1988); Darwall (2006, 265)
+[^19]: Miller and Wertheimer (2007)
+[^20]: Korsgaard (1993)
+[^21]: Waldron (1985)
+[^22]: Feinberg (1973); O'Neill (2016)
+[^23]: Ripstein (2009)
+[^24]: Thomson (2008)
+[^25]: Rosenblatt (2020)
+[^26]: Steuwer, Jamrozik, and Eyal (2021)
+[^27]: Kimmelman (2005); Resnik and Sharp (2006); Shah et al. (2018); Eyal and Holtzman (2020)
+[^28]: Esvelt (2018)
+[^29]: Walen (2020)
+[^30]: Walen (2020)
+[^31]: Scanlon (2013)
+[^32]: See, e.g., Kimmelman (2010).
+[^33]: Chappell and Singer (2020)
+[^34]: Tabarrok (2021)
+[^35]: Whitney and Schneider (2011)
+[^36]: Emanuel, Wendler, and Grady (2000)
+[^37]: Eyal (2017)
+[^38]: Emanuel, Wendler, and Grady (2000)
+[^39]: Frankfurt (1987)
+[^40]: Lewis et al. (2019)
