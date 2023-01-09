@@ -48,7 +48,7 @@ In separate articles, we discuss the following critiques of utilitarianism:
 
 4. [The mere means objection](/objections-to-utilitarianism/mere-means) claims that utilitarianism treats people as “mere means” to the greater good rather than as ends in themselves.
 
-5. [The separateness of persons objection](/objections-to-utilitarianism/separateness) charges utilitarianism with aggregating well-being in an unacceptable way, neglecting the significance of the boundaries between individuals.
+5. [The separateness of persons objection](/objections-to-utilitarianism/separateness-of-persons) charges utilitarianism with aggregating well-being in an unacceptable way, neglecting the significance of the boundaries between individuals.
 
 6. [The alienation objection](/objections-to-utilitarianism/alienation) alleges that the moral reasons posited by utilitarianism are troublingly cold and aloof, alienating us from the particular people and projects that (rightly) matter to us.
 
