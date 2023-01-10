@@ -59,7 +59,7 @@ Consequentialists differ regarding what they mean by _good consequences_. Utilit
 
 > **Welfarism is the view that only the _welfare_ (also called _well-being_) of individuals determines the value of an outcome.**[^4]
 
-Specifically, from a welfarist perspective, good consequences are those which increase well-being in the world, while bad consequences are those which decrease it. Philosophers use the term well-being to describe everything that is good for a person in itself, as opposed to things only instrumentally good for a person. For example, money can buy many useful things and is thus good for a person instrumentally, but it is not a component of their well-being. However, regular access to food is an example of a component of wellbeing because wellbeing is at least partially dependent on it.
+Specifically, from a welfarist perspective, good consequences are those which increase well-being in the world, while bad consequences are those which decrease it. Philosophers use the term well-being to describe everything that is good for a person in itself, as opposed to things only instrumentally good for a person. For example, money can buy many useful things and is thus good for a person instrumentally, but it is not a component of their well-being.
 
 Different [theories of well-being](/theories-of-wellbeing) regard different things as the constituents of well-being. The three most prevalent theories are _[hedonism](/theories-of-wellbeing#hedonism)_, _[desire theories](/theories-of-wellbeing#desire-theories)_ and _[objective list theories](/theories-of-wellbeing#objective-list-theories)_.
 
