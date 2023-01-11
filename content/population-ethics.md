@@ -6,6 +6,7 @@ draft: false
 menu: "main"
 weight: 5
 image: "/img/Utilitarianism-Website-Logo.png"
+description: "Population ethics tackles questions like how we should weigh new lives against existing lives, and how we should balance quantity and quality of life (when comparing different-sized populations). This chapter critically surveys five major approaches to population ethics: the total view, the average view, variable value theories, critical level (and critical range) theories, and person-affecting views."
 ---
 
 {{< TOC >}}

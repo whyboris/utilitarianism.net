@@ -8,6 +8,7 @@ menu: ["objections"]
 weight: 5
 page: 5
 image: "/img/Utilitarianism-Website-Logo.png"
+description: "The idea that utilitarianism neglects the 'separateness of persons' has proven to be a widely influential objection. But it is one that is difficult to pin down. This article explores three candidate interpretations of the objection, and how utilitarians can respond to each."
 ---
 
 {{< TOC >}}
@@ -16,7 +17,7 @@ It is widely agreed that self-interest (or prudence) calls for aggregating harms
 
 This _separateness of persons_ objection was stated most famously by John Rawls:
 
-> [Utilitarianism] is the consequence of extending to society the principle of choice for one man, and then, to make this extension work, conflating all persons into one…Utilitarianism does not take seriously the distinction between persons.[^1]
+> [Utilitarianism] is the consequence of extending to society the principle of choice for one man, and then, to make this extension work, conflating all persons into one… Utilitarianism does not take seriously the distinction between persons.[^1]
 
 Despite its influence, the reasoning behind this objection can be difficult to pin down. The idea that utilitarians must “conflat[e] all persons into one” seems to presume that they (i) _start_ with “the principle of choice for one man”, and then (ii) argue for their view on the basis that all of society can be treated (perhaps metaphorically) as just another individual. But in fact many utilitarian arguments, as laid out in the chapter on the [arguments for utilitarianism](/arguments-for-utilitarianism), do _not_ take this form. So this interpretation of the objection seems too narrow. It might debunk one particular argument for utilitarianism, but utilitarianism itself may still be well-supported on other grounds.
 

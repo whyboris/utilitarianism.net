@@ -6,6 +6,7 @@ draft: false
 menu: "main"
 weight: 2
 image: "/img/Utilitarianism-Website-Logo.png"
+description: "After defining utilitarianism, this chapter offers a detailed analysis of its four key elements (consequentialism, welfarism, impartiality, and aggregationism). It explains the difference between maximizing, satisficing, and scalar utilitarianism, and other important distinctions between utilitarian theories."
 ---
 
 {{< TOC >}}

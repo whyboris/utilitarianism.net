@@ -6,6 +6,7 @@ draft: false
 menu: "main"
 weight: 6
 image: "/img/Utilitarianism-Website-Logo.png"
+description: "Utilitarianism has important implications for how we should think about leading an ethical life. Despite giving no intrinsic weight to deontic constraints, it supports many commonsense prohibitions and virtues in practice. Its main practical difference instead lies in its emphasis on positively doing good, in more expansive and efficient ways than people typically prioritize."
 ---
 
 > Are we to extend our concern to all the beings capable of pleasure and pain whose feelings are affected by our conduct? or are we to confine our view to human happiness? The former view is the one adopted by (...) the Utilitarian school (...) it seems arbitrary and unreasonable to exclude from the end, as so conceived, any pleasure of any sentient being. <br> \- [Henry Sidgwick](/utilitarian-thinker/henry-sidgwick)[^1]

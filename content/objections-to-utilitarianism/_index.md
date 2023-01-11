@@ -7,6 +7,7 @@ menu: ["objections", "main"]
 weight: 8
 page: 0
 image: "/img/Utilitarianism-Website-Logo.png"
+description: "This article explains four general strategies for responding to objections to utilitarianism, before introducing the most influential specific objections to the theory."
 ---
 
 > _"Bernard Williams...concluded a lengthy attack on utilitarianism by remarking: ‘The day cannot be too far off in which we hear no more of it.’ It is now more than forty years since Williams made that comment, but we continue to hear plenty about utilitarianism."_ \
