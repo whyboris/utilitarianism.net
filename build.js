@@ -2,8 +2,11 @@ var fs = require('fs');
 
 const flag = process.argv[2];
 
+const CSS_PATH = './assets/scss/lol.scss';
+
 if (!flag) {
 
+  console.log("this is a script to assist with building the website")
   console.log("ERROR - no flag passed in");
 
 } else if (flag === "reset") {
@@ -13,6 +16,8 @@ if (!flag) {
   const newString = setAllFalse(tomlString);
 
   writeTomlString(newString);
+
+  disablePDFSCSS()
 
 } else if (["search", "pdf", "production"].includes(flag)) {
 
@@ -28,6 +33,26 @@ if (!flag) {
 
   console.log("ERROR - you can only pass in 'search', 'pdf', 'production', or 'reset'");
 
+}
+
+if (flag === "pdf") {
+  enablePDFSCSS();
+}
+
+function enablePDFSCSS() {
+  const scssFileString = fs.readFileSync(CSS_PATH, 'utf-8');
+  const pdfEnabled = scssFileString.replace("// @import 'pdf';","@import 'pdf';");
+  if (scssFileString !== pdfEnabled) {
+    fs.writeFileSync(CSS_PATH, pdfEnabled, 'utf-8');
+  }
+}
+
+function disablePDFSCSS() {
+  const scssFileString = fs.readFileSync(CSS_PATH, 'utf-8');
+  const pdfDisabled = scssFileString.replace("@import 'pdf';","// @import 'pdf';");
+  if (scssFileString !== pdfDisabled) {
+    fs.writeFileSync(CSS_PATH, pdfDisabled, 'utf-8');
+  }
 }
 
 function setAllFalse(incoming) {
