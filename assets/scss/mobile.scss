@@ -5,6 +5,17 @@
 }
 
 @media only screen and (max-width: $breakpoint-tablet) {
+  .book-header,
+  .non-book-header {
+    margin-top: 12px;
+    padding: 15px;
+
+    h1.title {
+      max-width: 100%;
+      font-size: 22px;
+    }
+  }
+  
   .mobile-header {
     display: initial;
   }
