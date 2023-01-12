@@ -81,6 +81,8 @@ To build the website for production there are several steps:
 3. Build the final website
    - You must enable `HUGO_ENV="production` in `config.toml` else the website will have `noindex` set on every page, making Google ignore the website!
 
+To simplify building, consider installing [just](https://github.com/casey/just) and then running the commands: `just pdf`, `just search`, `just build`
+
 ## First time coding?
 
 Starting may be daunting, but you can do it! Setting up will take two steps:
