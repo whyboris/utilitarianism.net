@@ -9,13 +9,13 @@ For detailed instructions if you're new to coding, see the [section below](#firs
 Short version: make sure you have installed [Hugo](https://gohugo.io/getting-started/installing/) (repository started with version `0.101.0` but is now on `0.109.0`) first. After cloning the repository, run `git submodule update --init` to download the themes submodule; this needs to be done only once. After this, just run the server:
 
 ```sh
-hugo server -D
+hugo serve
 ```
 
 To build the production version of the application just run:
 
 ```sh
-hugo -D
+hugo
 ```
 
 Consult _Hugo_ [documentation](https://gohugo.io/documentation/) if you have trouble, or reach out to Boris with questions.
@@ -64,7 +64,7 @@ In the future we may want to use some `rtl` support
 
 Search is handlede with [pagefind](https://pagefind.app/). You'll need to install [Node](https://nodejs.org/en/) and run `npm install -g pagefind`.
 
-When publishing the application, after `hugo -D` run `pagefind --source public` which will create the `_pagefind` folder inside `/public`. That is all that's needed for search to work. Thank you _pagefind_!
+When publishing the application, after `hugo` run `pagefind --source public` which will create the `_pagefind` folder inside `/public`. That is all that's needed for search to work. Thank you _pagefind_!
 
 When using site search there are image previews on the side of search results. When generating the search index, toggle `search = true` in `config.toml` so that images appear correctly.
 
@@ -101,7 +101,7 @@ Starting may be daunting, but you can do it! Setting up will take two steps:
 From now on any time you want to work on the website, _with your terminal_:
 
 - enter the project folder `cd utilitarianism.net`, and
-- run `hugo server -D`
+- run `hugo serve`
 - open `http://localhost:1313/` in your browser
 
 After editing any file (with _VSCode_ or any other text editor) and saving it, the website will automatically refresh with the latest changes 🎉
