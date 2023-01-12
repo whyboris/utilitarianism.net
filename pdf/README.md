@@ -1,8 +1,14 @@
 # PDF generation
 
-You will need [Node](https://nodejs.org/en/) installed first. Also, the first time you use this system you'll need to run `npm install`. Every time after:
+You will need [Node](https://nodejs.org/en/) installed first.
 
-We can generate all the PDFs of every page:
+The first time you use this system you'll need to run `npm install` inside this directory.
+
+To generate all the PDFs for the public website, use the `just` build system.
+
+## Just
+
+`just pdf` command will perform all this for you:
 
 - In `lol.scss` enable the line `@import pdf;`
   - this hides some elements from the print version (e.g. navigation, footer, scroll-to-top arrow)

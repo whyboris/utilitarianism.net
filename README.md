@@ -74,35 +74,50 @@ We can generate PDFs of all the pages with [website2pdf](https://github.com/jgaz
 
 ## Building
 
-To build the website for production there are several steps:
+First time only:
+
+- install [pagefind](https://pagefind.app/) with `npm install -g pagefind`
+- install [website2pdf](https://github.com/jgazeau/website2pdf) by going into the folder _pdf_ (`cd pdf`) and then running `npm install` there
+- install [just](https://github.com/casey/just)
+
+Now, simply run the commands: `just build` and you're done 🚀
+
+Under the hood this will happen:
 
 1. Build the _Search_ index
 2. Build the _PDF_ files
 3. Build the final website
-   - You must enable `HUGO_ENV="production` in `config.toml` else the website will have `noindex` set on every page, making Google ignore the website!
 
-To simplify building, consider installing [just](https://github.com/casey/just) and then running the commands: `just pdf`, `just search`, `just build`
+See `justfile` for details which in turn uses `build.js` to do some of its bidding.
 
 ## First time coding?
 
-Starting may be daunting, but you can do it! Setting up will take two steps:
+Starting may be daunting, but you can do it! Setting up will take some steps:
 
 1. Install:
    - [git](https://git-scm.com/)
-   - a _terminal_ if you don't have one (on Mac try [Hyper](https://hyper.is), on Windows try [FluentTerminal](https://github.com/felixse/FluentTerminal) or [Terminus](https://github.com/Eugeny/terminus))
+   - a _terminal_ if you don't have one
+     - on Mac try [Hyper](https://hyper.is)
+     - on Windows you can use _Git Bash_ which is installed when you install _git_ or try [FluentTerminal](https://github.com/felixse/FluentTerminal) or [Tabby](https://github.com/Eugeny/tabby))
    - [Hugo](https://gohugo.io/getting-started/installing/)
-     - On windows I recommend `choco install hugo-extended`
+     - on Mac I recommend `brew install hugo`
+       - this requires you first install [brew](https://brew.sh/)
+     - on Windows I recommend `choco install hugo-extended`
+       - this requires you first install [chocolatey](https://chocolatey.org/)
    - [VSCode](https://code.visualstudio.com) to easily edit files _(optional)_
 2. In your terminal: _note: these steps only need to be done once_
    - _clone_ this repository: `https://github.com/whyboris/utilitarianism.net.git`
    - enter it: `cd utilitarianism.net`
    - install submodules: `git submodule update --init`
+3. If you want to _build_ the public version of the website, you'll need to also install:
+   - [Node](https://nodejs.org/en/)
+   - [Just](https://github.com/casey/just)
 
 From now on any time you want to work on the website, _with your terminal_:
 
 - enter the project folder `cd utilitarianism.net`, and
 - run `hugo serve`
-- open `http://localhost:1313/` in your browser
+- open `http://localhost:1313/` in your browser (this link will appear in your terminal)
 
 After editing any file (with _VSCode_ or any other text editor) and saving it, the website will automatically refresh with the latest changes 🎉
 
