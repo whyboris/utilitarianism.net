@@ -9,13 +9,13 @@ For detailed instructions if you're new to coding, see the [section below](#firs
 Short version: make sure you have installed [Hugo](https://gohugo.io/getting-started/installing/) (repository started with version `0.101.0` but is now on `0.109.0`) first. After cloning the repository, run `git submodule update --init` to download the themes submodule; this needs to be done only once. After this, just run the server:
 
 ```sh
-hugo server -D
+hugo serve
 ```
 
 To build the production version of the application just run:
 
 ```sh
-hugo -D
+hugo
 ```
 
 Consult _Hugo_ [documentation](https://gohugo.io/documentation/) if you have trouble, or reach out to Boris with questions.
@@ -64,7 +64,7 @@ In the future we may want to use some `rtl` support
 
 Search is handlede with [pagefind](https://pagefind.app/). You'll need to install [Node](https://nodejs.org/en/) and run `npm install -g pagefind`.
 
-When publishing the application, after `hugo -D` run `pagefind --source public` which will create the `_pagefind` folder inside `/public`. That is all that's needed for search to work. Thank you _pagefind_!
+When publishing the application, after `hugo` run `pagefind --source public` which will create the `_pagefind` folder inside `/public`. That is all that's needed for search to work. Thank you _pagefind_!
 
 When using site search there are image previews on the side of search results. When generating the search index, toggle `search = true` in `config.toml` so that images appear correctly.
 
@@ -74,33 +74,50 @@ We can generate PDFs of all the pages with [website2pdf](https://github.com/jgaz
 
 ## Building
 
-To build the website for production there are several steps:
+First time only:
+
+- install [pagefind](https://pagefind.app/) with `npm install -g pagefind`
+- install [website2pdf](https://github.com/jgazeau/website2pdf) by going into the folder _pdf_ (`cd pdf`) and then running `npm install` there
+- install [just](https://github.com/casey/just)
+
+Now, simply run the commands: `just build` and you're done 🚀
+
+Under the hood this will happen:
 
 1. Build the _Search_ index
 2. Build the _PDF_ files
 3. Build the final website
-   - You must enable `HUGO_ENV="production` in `config.toml` else the website will have `noindex` set on every page, making Google ignore the website!
+
+See `justfile` for details which in turn uses `build.js` to do some of its bidding.
 
 ## First time coding?
 
-Starting may be daunting, but you can do it! Setting up will take two steps:
+Starting may be daunting, but you can do it! Setting up will take some steps:
 
 1. Install:
    - [git](https://git-scm.com/)
-   - a _terminal_ if you don't have one (on Mac try [Hyper](https://hyper.is), on Windows try [FluentTerminal](https://github.com/felixse/FluentTerminal) or [Terminus](https://github.com/Eugeny/terminus))
+   - a _terminal_ if you don't have one
+     - on Mac try [Hyper](https://hyper.is)
+     - on Windows you can use _Git Bash_ which is installed when you install _git_ or try [FluentTerminal](https://github.com/felixse/FluentTerminal) or [Tabby](https://github.com/Eugeny/tabby))
    - [Hugo](https://gohugo.io/getting-started/installing/)
-     - On windows I recommend `choco install hugo-extended`
+     - on Mac I recommend `brew install hugo`
+       - this requires you first install [brew](https://brew.sh/)
+     - on Windows I recommend `choco install hugo-extended`
+       - this requires you first install [chocolatey](https://chocolatey.org/)
    - [VSCode](https://code.visualstudio.com) to easily edit files _(optional)_
 2. In your terminal: _note: these steps only need to be done once_
    - _clone_ this repository: `https://github.com/whyboris/utilitarianism.net.git`
    - enter it: `cd utilitarianism.net`
    - install submodules: `git submodule update --init`
+3. If you want to _build_ the public version of the website, you'll need to also install:
+   - [Node](https://nodejs.org/en/)
+   - [Just](https://github.com/casey/just)
 
 From now on any time you want to work on the website, _with your terminal_:
 
 - enter the project folder `cd utilitarianism.net`, and
-- run `hugo server -D`
-- open `http://localhost:1313/` in your browser
+- run `hugo serve`
+- open `http://localhost:1313/` in your browser (this link will appear in your terminal)
 
 After editing any file (with _VSCode_ or any other text editor) and saving it, the website will automatically refresh with the latest changes 🎉
 

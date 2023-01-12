@@ -34,9 +34,10 @@
       onclick="document.body.scrollTop = 0; document.documentElement.scrollTop = 0;"
     ></div>
 
-    <!-- ENABLE BELOW WHEN PRINTING PDFs -->
-    <!-- {{ block "pdf-hacking" . }}{{ partialCached "pdf-script" . }}{{ end }}
-     -->
+    <!-- Only for printing PDFs -->
+    {{ if .Site.Params.pdf }}
+      {{ block "pdf-hacking" . }}{{ partialCached "pdf-script" . }}{{ end }}
+    {{ end }}
 
     {{ block "footnotes-script" . }}{{ partial "footnotes-script" . }}{{ end }}
 
