@@ -20,6 +20,9 @@ enableRobotsTXT = true
   #   weight = 2
 [Params]
   images = ["img/social.png"]
+  # WARNING - below 3 (pdf, search, production) should all be "false"
+  #           they are automatically toggled when using the build steps
+  #           needless to say, do not rename these variables ;)
   pdf = false # boolean to toggle when generating PDF
   search = false # boolean to toggle when generating the search index
   production = false # boolean to toggle if this is a production build
