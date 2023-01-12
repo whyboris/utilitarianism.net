@@ -3,9 +3,11 @@ var fs = require("fs");
 const flag = process.argv[2];
 
 const CSS_PATH = "./assets/scss/lol.scss";
+const GLOSSARY_PATH = "./content/glossary.md";
 
 if (flag === "pdf") {
   enablePDFSCSS();
+  openAllGlossary();
 }
 
 if (!flag) {
@@ -13,6 +15,7 @@ if (!flag) {
   console.log("Please use `just` to build");
 } else if (flag === "pdfreset") {
   disablePDFSCSS();
+  closeAllGlossary();
 } else if (flag === "reset") {
   const tomlString = getTomlString();
   const allFalse = setAllFalse(tomlString);
@@ -26,6 +29,18 @@ if (!flag) {
   console.log(
     "ERROR - you can only pass in 'search', 'pdf', 'pdfreset', 'production', or 'reset'"
   );
+}
+
+function openAllGlossary() {
+  const glossaryString = fs.readFileSync(GLOSSARY_PATH, "utf-8");
+  const allOpen = glossaryString.replaceAll("<details>","<details open>");
+  fs.writeFileSync(GLOSSARY_PATH, allOpen, "utf-8");
+}
+
+function closeAllGlossary() {
+  const glossaryString = fs.readFileSync(GLOSSARY_PATH, "utf-8");
+  const allClosed = glossaryString.replaceAll("<details open>","<details>");
+  fs.writeFileSync(GLOSSARY_PATH, allClosed, "utf-8");
 }
 
 function enablePDFSCSS() {
