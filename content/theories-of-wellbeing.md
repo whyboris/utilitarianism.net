@@ -6,6 +6,7 @@ draft: false
 menu: "main"
 weight: 4
 image: "/img/Utilitarianism-Website-Logo.png"
+description: "Explores the three major theories of well-being, or what makes a life good for the individual living it: hedonism, desire theory, and objective list theory."
 ---
 
 > _“To what shall the character of utility be ascribed, if not to that which is a source of pleasure?”_ <br> \- [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^1]
@@ -49,9 +50,9 @@ Still, on a purely theoretical level, we may ask: what if there were _many_ sadi
 
 At this point, it is worth distinguishing a couple of subtly different claims that one might object to: (i) the sadists benefit from their sadistic pleasure, and (ii) the benefits to the sadists count as _moral goods_, or something that we should want to promote (all else equal).
 
-To reject (i) means rejecting hedonism. But if sadistic pleasure does not benefit the sadist, then this implies that someone who wants to make the sadist worse off could not do that by means of blocking their sadistic pleasure. And that seems mistaken.
+To reject (i) means rejecting hedonism about well-being. But if sadistic pleasure does not benefit the sadist, then this implies that someone who wants to make the sadist worse off could not do that by means of blocking their sadistic pleasure. And that seems mistaken.
 
-Alternatively, one might retain hedonism while respecting our anti-sadist intuitions by instead rejecting (ii), and denying that _benefiting sadists at the cost to their victims_ is reasonable or good. This would involve rejecting utilitarianism, strictly speaking, though a [closely related consequentialist view](/near-utilitarian-alternatives#desert-adjusted-views) which merely gives equal weight to all _innocent_ interests (while discounting illicit interests) remains available, and overlaps with utilitarianism in the vast majority of cases.
+Alternatively, one might retain hedonism about well-being while respecting our anti-sadist intuitions by instead rejecting (ii), and denying that _benefiting sadists at the cost to their victims_ is reasonable or good. This would involve rejecting utilitarianism, strictly speaking, though a [closely related consequentialist view](/near-utilitarian-alternatives#desert-adjusted-views) which merely gives equal weight to all _innocent_ interests (while discounting illicit interests) remains available, and overlaps with utilitarianism in the vast majority of cases.
 
 Hedonistic utilitarians might seek to preserve both (i) and (ii) by offering an alternative explanation of our intuitions. For example, we may judge the sadists’ _characters_ to be bad insofar as they enjoy hurting others, and so they seem likely to act wrongly in many other circumstances.[^8]
 

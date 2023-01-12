@@ -7,17 +7,17 @@ weight: 1
 
 ## Our Purpose
 
-This website serves as a textbook introduction to utilitarianism at the undergraduate level. It provides a concise, accessible and engaging introduction to modern utilitarianism. There is a particular focus on classical utilitarianism, as we believe it remains the most compelling version of utilitarianism. The content of this website aims to be understandable to a broad audience, avoiding philosophical jargon where possible and providing definitions where necessary.
+This website serves as a textbook introduction to utilitarianism at the undergraduate level. It provides a concise, accessible and engaging introduction to modern utilitarianism. The content of this website aims to be understandable to a broad audience, avoiding philosophical jargon where possible and providing definitions where necessary.
 
 ## Who We Are
 
-This website was written in collaboration by [William MacAskill](http://www.williammacaskill.com/), [Richard Yetter Chappell](http://yetterchappell.net/Richard/), and [Darius Meissner](https://www.linkedin.com/in/darius-meissner/).
+This website was written in collaboration by [Richard Yetter Chappell](http://yetterchappell.net/Richard/), [Darius Meissner](https://www.linkedin.com/in/darius-meissner/), and [William MacAskill](http://www.williammacaskill.com/).
 
-- William is an Associate Professor in Philosophy and Senior Research Fellow at the [Global Priorities Institute](https://globalprioritiesinstitute.org/) at the University of Oxford. He is the author of _[Doing Good Better: Effective Altruism and a Radical New Way to Make a Difference](http://www.williammacaskill.com/book)_.
-- Richard is an Associate Professor in Philosophy at the University of Miami. He is the author of _[Parfit's Ethics](https://doi.org/10.1017/9781108582377)_, and received his PhD from Princeton University in 2012. Richard also writes _[Good Thoughts](https://rychappell.substack.com/)_, a newsletter about consequentialism in theory and practice, which you may follow to receive updates about utilitarianism.net (and related topics).
+- Richard is an Associate Professor in Philosophy at the University of Miami. He is the author of _[Parfit's Ethics](https://doi.org/10.1017/9781108582377)_, and received his PhD from Princeton University in 2012. Richard also writes _[Good Thoughts](https://rychappell.substack.com/)_, a newsletter about consequentialism in theory and practice, which you can follow to receive updates about utilitarianism.net (and related topics).
 - Darius holds a degree in Philosophy, Politics and Economics from the University of Oxford and currently studies for a graduate degree at Georgetown University.
+- William is an Associate Professor in Philosophy and Senior Research Fellow at the [Global Priorities Institute](https://globalprioritiesinstitute.org/) at the University of Oxford. He is the author of _[Doing Good Better: Effective Altruism and a Radical New Way to Make a Difference](http://www.williammacaskill.com/book)_ and _[What We Owe The Future](https://whatweowethefuture.com/)_.
 
-Thanks to James Aung for website design and management.
+Thanks to Boris Yakubchik—and previously, James Aung—for website design and management.
 
 This website has benefited from review and suggestions from too many people to list, but we are grateful to them all. Special mention to Marka Ellertson, Bella Forristal, Tomi Francis, Georgiana Gilgallon, Stefan Schubert, and Pablo Stafforini, for their many detailed comments.
 

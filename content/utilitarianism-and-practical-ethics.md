@@ -6,6 +6,7 @@ draft: false
 menu: "main"
 weight: 6
 image: "/img/Utilitarianism-Website-Logo.png"
+description: "Utilitarianism has important implications for how we should think about leading an ethical life. Despite giving no intrinsic weight to deontic constraints, it supports many commonsense prohibitions and virtues in practice. Its main practical difference instead lies in its emphasis on positively doing good, in more expansive and efficient ways than people typically prioritize."
 ---
 
 > Are we to extend our concern to all the beings capable of pleasure and pain whose feelings are affected by our conduct? or are we to confine our view to human happiness? The former view is the one adopted by (...) the Utilitarian school (...) it seems arbitrary and unreasonable to exclude from the end, as so conceived, any pleasure of any sentient being. <br> \- [Henry Sidgwick](/utilitarian-thinker/henry-sidgwick)[^1]
@@ -68,7 +69,7 @@ On this basis, a priority for utilitarians may be to help society to continue to
 
 ### Cosmopolitanism: Expanding the Moral Circle Across Geography
 
-According to utilitarianism, geographical distance and national membership are not intrinsically morally irrelevant. This means that, by the lights of utilitarianism, we have no grounds for discriminating against someone because of where they live, where they come from, or what nationality they have. This makes utilitarianism an example of _[moral cosmopolitanism](https://plato.stanford.edu/entries/cosmopolitanism/#TaxoContCosm)_. Proponents of moral cosmopolitanism believe that if you have the means to save a life in a faraway country, doing so matters just as much as saving a life close by in your own country; all lives deserve equal moral consideration, wherever they are.
+According to utilitarianism, geographical distance and national membership are not intrinsically morally relevant. This means that, by the lights of utilitarianism, we have no grounds for discriminating against someone because of where they live, where they come from, or what nationality they have. This makes utilitarianism an example of _[moral cosmopolitanism](https://plato.stanford.edu/entries/cosmopolitanism/#TaxoContCosm)_. Proponents of moral cosmopolitanism believe that if you have the means to save a life in a faraway country, doing so matters just as much as saving a life close by in your own country; all lives deserve equal moral consideration, wherever they are.
 
 Of course, the geographical distance between oneself and one’s beneficiary may matter instrumentally—it is often easier to help people close by than people far away. However, in an increasingly globalized world it has become much easier to benefit even those who live on the other side of the world. And because of extreme global economic inequalities, an additional unit of resources benefits people in the least-developed countries much more than people in affluent countries like the United States or the United Kingdom—potentially 100 to 1,000 times more.[^9]
 
@@ -156,7 +157,7 @@ The next chapter discusses important rival theories that may overlap significant
 ### Longtermism: Expanding the Moral Circle Across Time
 
 - Toby Ord (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
-- Hilary Greaves & William MacAskill (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_.[^21]
+- Hilary Greaves & William MacAskill (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_.
 - Nick Beckstead (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM)_. PhD Dissertation, Rutgers University.
 - Nick Bostrom (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://drive.google.com/open?id=0B4kMPIEI5Mb8WTJGckNSNG5seWs). _Utilitas_. 15(3): 308–314.
 
@@ -192,4 +193,3 @@ The next chapter discusses important rival theories that may overlap significant
 [^18]: For a detailed discussion of existential risks and the moral importance of the long-run future of humanity, see Ord, T. (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
 [^19]: For a classic paper on the importance of reducing existential risk, see Bostrom, N. (2013).[ Existential Risk Prevention as Global Priority](http://www.existential-risk.org/concept.pdf). _Global Policy_. **4** (1): 15–3.
 [^20]: Note that Professor William MacAskill, coauthor of this website, is also a coauthor of this paper.
-[^21]: Note that Professor William MacAskill, coauthor of this website, is also a coauthor of this paper.
