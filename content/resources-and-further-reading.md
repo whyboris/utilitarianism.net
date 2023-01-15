@@ -5,6 +5,7 @@ updated: 2023, Jan 8th - in sync with website
 draft: false
 menu: "main"
 image: "/img/Utilitarianism-Website-Logo.png"
+description: "Resources and further reading about utilitarianism."
 ---
 
 <div class="hide-TOC-children-hack">

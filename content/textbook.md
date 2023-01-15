@@ -11,12 +11,4 @@ Below is an online textbook that aims to provide a concise, accessible, and enga
 
 For a high-school level introduction, see [Utilitarianism: Simply Explained](/utilitarianism-for-high-school-students/)
 
-<div class="textbook-hack">
-<div class="homepage-body">
-<div class="dark-background">
-
 {{< textbook-contents >}}
-
-</div>
-</div>
-</div>

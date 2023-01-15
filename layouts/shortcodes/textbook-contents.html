@@ -1,28 +1,29 @@
-<div class="temp-navigation-hack">
-  <span class="footer-heading">Textbook Chapters</span>
+<div class="guest-essay-container textbook-chapters-descriptions">
 
-  <ol>
-    {{ range first 8 .Site.Menus.main.Sort.ByWeight }}
-      <li>
-        <a href="{{ .URL }}">{{ .Title }}</a>
-      </li>
-    {{ end }}
-
-    {{/* After "Objections" article list all the Objection articles */}}
-    <ul>
-      {{ with .Site.Menus.objections.Sort.ByWeight }}
-        {{ range first 7 . }}
-          <li>
-            <a href="{{ .URL }}">{{ .Title }}</a>
-          </li>
-        {{ end }}
+  {{ range first 8 .Site.Menus.main.Sort.ByWeight }}
+    <a href="{{ .URL }}">
+      {{ with .Page }}
+        {{ block "chapter" . }}{{ partial "textbook-chapter.html" . }}{{ end }}
       {{ end }}
-    </ul>
+    </a>
+  {{ end }}
 
-    {{ range last 1 .Site.Menus.main.Sort.ByWeight }}
-      <li>
-        <a href="{{ .URL }}">{{ .Title }}</a>
-      </li>
+  {{ with .Site.Menus.objections.Sort.ByWeight }}
+    {{ range first 7 . }}
+      <a href="{{ .URL }}">
+        {{ with .Page }}
+          {{ block "objections" . }}{{ partial "textbook-chapter.html" . }}{{ end }}
+        {{ end }}
+      </a>
     {{ end }}
-  </ol>
+  {{ end }}
+
+  {{ range last 1 .Site.Menus.main.Sort.ByWeight }}
+    <a href="{{ .URL }}">
+      {{ with .Page }}
+        {{ block "last-chapter" . }}{{ partial "textbook-chapter.html" . }}{{ end }}
+      {{ end }}
+    </a>
+  {{ end }}
+
 </div>
