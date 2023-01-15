@@ -373,3 +373,38 @@ hr {
     height: 30px;
   }
 }
+
+.textbook-chapters-descriptions {
+  h2 {
+    font-size: 20px;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  .objections {
+    margin-left: 35px;
+  }
+  
+  .square {
+    border-radius: 5px;
+    height: calc(100% - 20px);
+    position: absolute;
+    width: 30px;
+    text-align: center;
+    color: white;
+  }
+
+  .guest-essay {
+    border-radius: 10px;
+    margin-bottom: 0;
+    min-height: initial;
+    padding: 10px;
+    position: relative;
+  }
+
+  .title-and-description {
+    margin-left: 40px;
+  }
+}

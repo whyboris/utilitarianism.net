@@ -9,6 +9,8 @@ weight: 7
 page: 7
 image: "/img/Utilitarianism-Website-Logo.png"
 description: "It is usually thought that certain relationships, like parenthood or guardianship, give rise to special obligations to protect those who fall under our care. If utilitarianism denied this, for example by recommending that parents neglect their own children in order to save a larger number of strangers, that might seem to count seriously against the theory. This article explores how utilitarians might best respond."
+gradientTop: "#531694"
+gradientBottom: "#260380"
 ---
 
 {{< TOC >}}

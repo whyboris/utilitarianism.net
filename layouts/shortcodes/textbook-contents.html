@@ -1,28 +1,32 @@
-<div class="temp-navigation-hack">
-  <span class="footer-heading">Textbook Chapters</span>
+<div class="guest-essay-container textbook-chapters-descriptions">
 
-  <ol>
-    {{ range first 8 .Site.Menus.main.Sort.ByWeight }}
-      <li>
-        <a href="{{ .URL }}">{{ .Title }}</a>
-      </li>
-    {{ end }}
-
-    {{/* After "Objections" article list all the Objection articles */}}
-    <ul>
-      {{ with .Site.Menus.objections.Sort.ByWeight }}
-        {{ range first 7 . }}
-          <li>
-            <a href="{{ .URL }}">{{ .Title }}</a>
-          </li>
-        {{ end }}
+  {{ range $index, $lol := first 8 .Site.Menus.main.Sort.ByWeight }}
+    <a href="{{ .URL }}">
+      {{ with .Page }}
+        {{ .Scratch.Set "chapter" (add $index 1) }}
+        {{ partial "textbook-chapter.html" . }}
       {{ end }}
-    </ul>
+    </a>
+  {{ end }}
 
-    {{ range last 1 .Site.Menus.main.Sort.ByWeight }}
-      <li>
-        <a href="{{ .URL }}">{{ .Title }}</a>
-      </li>
+  <div class="objections">
+    {{ range $index, $lol := first 7 .Site.Menus.objections.Sort.ByWeight }}
+      <a href="{{ .URL }}">
+        {{ with .Page }}
+          {{ .Scratch.Set "chapter" (add $index 1) }}
+          {{ partial "textbook-chapter.html" . }}
+        {{ end }}
+      </a>
     {{ end }}
-  </ol>
+  </div>
+
+  {{ range $index, $lol := last 1 .Site.Menus.main.Sort.ByWeight }}
+    <a href="{{ .URL }}">
+      {{ with .Page }}
+        {{ .Scratch.Set "chapter" (add $index 9) }}
+        {{ partial "textbook-chapter.html" . }}
+      {{ end }}
+    </a>
+  {{ end }}
+
 </div>
