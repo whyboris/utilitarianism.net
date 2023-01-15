@@ -9,6 +9,8 @@ weight: 5
 page: 5
 image: "/img/Utilitarianism-Website-Logo.png"
 description: "The idea that utilitarianism neglects the 'separateness of persons' has proven to be a widely influential objection. But it is one that is difficult to pin down. This article explores three candidate interpretations of the objection, and how utilitarians can respond to each."
+gradientTop: "#836e5d"
+gradientBottom: "#331521"
 ---
 
 {{< TOC >}}

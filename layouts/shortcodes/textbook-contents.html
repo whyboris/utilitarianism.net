@@ -8,14 +8,12 @@
     </a>
   {{ end }}
 
-  {{ with .Site.Menus.objections.Sort.ByWeight }}
-    {{ range first 7 . }}
-      <a href="{{ .URL }}">
-        {{ with .Page }}
-          {{ block "objections" . }}{{ partial "textbook-chapter.html" . }}{{ end }}
-        {{ end }}
-      </a>
-    {{ end }}
+  {{ range first 7 .Site.Menus.objections.Sort.ByWeight }}
+    <a href="{{ .URL }}">
+      {{ with .Page }}
+        {{ block "objections" . }}{{ partial "textbook-chapter.html" . }}{{ end }}
+      {{ end }}
+    </a>
   {{ end }}
 
   {{ range last 1 .Site.Menus.main.Sort.ByWeight }}

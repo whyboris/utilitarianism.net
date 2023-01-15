@@ -374,19 +374,31 @@ hr {
   }
 }
 
-
-.square {
-  float: left;
-  margin-right: 40px;
-  position: relative;
-  width: 100px;
-  height: 100px;
-  border-radius: 10px;
-}
-
 .textbook-chapters-descriptions {
+  h2 {
+    font-size: 20px;
+  }
+
+  p {
+    margin: 0;
+  }
+  
+  .square {
+    border-radius: 5px;
+    height: calc(100% - 20px);
+    position: absolute;
+    width: 30px;
+  }
+
   .guest-essay {
-    min-height: initial;
+    border-radius: 10px;
     margin-bottom: 0;
+    min-height: initial;
+    padding: 10px;
+    position: relative;
+  }
+
+  .title-and-description {
+    margin-left: 40px;
   }
 }

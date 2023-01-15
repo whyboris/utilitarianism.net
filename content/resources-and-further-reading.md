@@ -6,6 +6,8 @@ draft: false
 menu: "main"
 image: "/img/Utilitarianism-Website-Logo.png"
 description: "Resources and further reading about utilitarianism."
+gradientTop: "#836e5d"
+gradientBottom: "#331521"
 ---
 
 <div class="hide-TOC-children-hack">

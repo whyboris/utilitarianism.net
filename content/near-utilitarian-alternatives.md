@@ -7,6 +7,8 @@ menu: "main"
 weight: 7
 image: "/img/Utilitarianism-Website-Logo.png"
 description: "There are several ways to reject aspects of utilitarianism while remaining on board with the general thrust of the theory (at least in practice). This chapter explores a range of such near-utilitarian views, to demonstrate the robustness of utilitarianism's practical recommendations.  Even if you think the theory is technically false, you may nonetheless have good grounds to largely agree with its practical verdicts."
+gradientTop: "#836e5d"
+gradientBottom: "#331521"
 ---
 
 {{< TOC >}}

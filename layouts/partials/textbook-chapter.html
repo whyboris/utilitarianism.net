@@ -1,9 +1,12 @@
 <div class="guest-essay">
   <div
     class="square"
-    style="background: linear-gradient(180deg, #0c3b5b 0%, #236d9f 100%);"
+    style="background: linear-gradient(180deg, {{ .Params.gradientTop }} 0%,  
+    {{ .Params.gradientBottom }} 100%);"
   >
   </div>
-  <h2>{{ .Title }}</h2>
-  <p>{{ .Params.Description }}</p>
+  <div class="title-and-description">
+    <h2>{{ .Title }}</h2>
+    <p>{{ .Params.Description }}</p>
+  </div>
 </div>

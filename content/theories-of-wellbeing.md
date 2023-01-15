@@ -7,6 +7,8 @@ menu: "main"
 weight: 4
 image: "/img/Utilitarianism-Website-Logo.png"
 description: "Explores the three major theories of well-being, or what makes a life good for the individual living it: hedonism, desire theory, and objective list theory."
+gradientTop: "#836e5d"
+gradientBottom: "#331521"
 ---
 
 > _“To what shall the character of utility be ascribed, if not to that which is a source of pleasure?”_ <br> \- [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^1]

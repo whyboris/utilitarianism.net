@@ -9,6 +9,8 @@ weight: 2
 page: 2
 image: "/img/Utilitarianism-Website-Logo.png"
 description: "In directing us to choose the impartially best outcome, even at significant cost to ourselves, utilitarianism can seem an incredibly demanding theory. This page explores whether this feature of utilitarianism is objectionable, and if so, how defenders of the view might best respond."
+gradientTop: "#836e5d"
+gradientBottom: "#331521"
 ---
 
 > _Utilitarianism doesn't ask us to be morally perfect. It asks us to face up to our moral limitations and do as much as we humanly can to overcome them._
