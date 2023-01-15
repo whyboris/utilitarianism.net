@@ -1,25 +1,30 @@
 <div class="guest-essay-container textbook-chapters-descriptions">
 
-  {{ range first 8 .Site.Menus.main.Sort.ByWeight }}
+  {{ range $index, $lol := first 8 .Site.Menus.main.Sort.ByWeight }}
     <a href="{{ .URL }}">
       {{ with .Page }}
-        {{ block "chapter" . }}{{ partial "textbook-chapter.html" . }}{{ end }}
+        {{ .Scratch.Set "chapter" (add $index 1) }}
+        {{ partial "textbook-chapter.html" . }}
       {{ end }}
     </a>
   {{ end }}
 
-  {{ range first 7 .Site.Menus.objections.Sort.ByWeight }}
-    <a href="{{ .URL }}">
-      {{ with .Page }}
-        {{ block "objections" . }}{{ partial "textbook-chapter.html" . }}{{ end }}
-      {{ end }}
-    </a>
-  {{ end }}
+  <div class="objections">
+    {{ range $index, $lol := first 7 .Site.Menus.objections.Sort.ByWeight }}
+      <a href="{{ .URL }}">
+        {{ with .Page }}
+          {{ .Scratch.Set "chapter" (add $index 1) }}
+          {{ partial "textbook-chapter.html" . }}
+        {{ end }}
+      </a>
+    {{ end }}
+  </div>
 
-  {{ range last 1 .Site.Menus.main.Sort.ByWeight }}
+  {{ range $index, $lol := last 1 .Site.Menus.main.Sort.ByWeight }}
     <a href="{{ .URL }}">
       {{ with .Page }}
-        {{ block "last-chapter" . }}{{ partial "textbook-chapter.html" . }}{{ end }}
+        {{ .Scratch.Set "chapter" (add $index 9) }}
+        {{ partial "textbook-chapter.html" . }}
       {{ end }}
     </a>
   {{ end }}

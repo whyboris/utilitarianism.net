@@ -1,9 +1,11 @@
 <div class="guest-essay">
   <div
     class="square"
-    style="background: linear-gradient(180deg, {{ .Params.gradientTop }} 0%,  
-    {{ .Params.gradientBottom }} 100%);"
+    style="background: linear-gradient(180deg, {{ .Params.gradientTop }} 0%, {{ .Params.gradientBottom }} 100%);"
   >
+    <span>
+      {{ .Scratch.Get "chapter" }}
+    </span>
   </div>
   <div class="title-and-description">
     <h2>{{ .Title }}</h2>

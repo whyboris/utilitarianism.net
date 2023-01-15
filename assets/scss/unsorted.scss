@@ -382,12 +382,18 @@ hr {
   p {
     margin: 0;
   }
+
+  .objections {
+    margin-left: 35px;
+  }
   
   .square {
     border-radius: 5px;
     height: calc(100% - 20px);
     position: absolute;
     width: 30px;
+    text-align: center;
+    color: white;
   }
 
   .guest-essay {
