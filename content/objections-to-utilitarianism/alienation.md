@@ -9,8 +9,8 @@ weight: 6
 page: 6
 image: "/img/Utilitarianism-Website-Logo.png"
 description: "Utilitarianism's strict impartiality threatens to alienate us from much that we hold dear. This article explores how defenders of the view might best address such concerns. The sophisticated utilitarian strategy recommends adopting motivations other than explicitly utilitarian ones. The subsumption strategy instead argues that direct concern for particular goods or individuals can be subsumed within straightforwardly utilitarian motivations. By suitably combining the two, utilitarians may be able to offer a full response to the alienation objection."
-gradientTop: "#836e5d"
-gradientBottom: "#331521"
+gradientTop: "#822FA8"
+gradientBottom: "#531694"
 ---
 
 {{< TOC >}}
