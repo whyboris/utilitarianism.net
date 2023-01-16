@@ -4,6 +4,7 @@
 
 .objections-buttons-container {
   display: flex;
+  flex-flow: wrap;
   justify-content: space-around;
   margin: 36px 0 30px;
 }
@@ -15,6 +16,7 @@
   display: inline-block;
   font-size: 16px;
   line-height: 180%;
+  margin: 10px 0;
   padding: 14px 28px;
   text-align: center;
   width: auto;
@@ -26,6 +28,15 @@
   a {
     color: white;
     text-decoration: none;
+  }
+}
+
+.inverted {
+  background-color: white;
+  color: $dark-blue;
+
+  &:hover {
+    background-color: $gray-ddd;
   }
 }
 

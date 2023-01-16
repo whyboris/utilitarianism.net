@@ -1,0 +1,8 @@
+<blockquote class="quote">
+  <p>“{{ .Get "text" }}”</p>
+  {{ if .Get "link" }}
+    <p class="author">— <a href="{{ .Get "link" }}">{{ .Get "author" }}</a></p>
+  {{ else }}
+    <p class="author">— {{ .Get "author" }}</p>
+  {{ end }}
+</blockquote>

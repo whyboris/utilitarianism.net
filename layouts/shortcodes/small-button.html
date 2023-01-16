@@ -1,3 +1,5 @@
 <a href="/{{ .Get "url" }}">
-  <div class="small-button">{{ .Get "text" }}</div>
+  <div class="small-button {{ if .Get "inverted" }}inverted{{ end }}">
+    {{ .Get "text" }}
+  </div>
 </a>

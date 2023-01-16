@@ -90,9 +90,11 @@ What Hare has given us is not a solution to the world’s problems but a set of 
 - “[In the bilateral case]...if I have full knowledge of the other person's preferences, I shall myself have acquired preferences equal to his regarding what should be done to me were I in his situation; and these are the preferences which are now conflicting with my original prescription. So we have in effect not an interpersonal conflict of preferences or prescriptions, but an intrapersonal one; both of the conflicting preferences are mine...Multilateral cases now present less difficulty than at first appeared. For in them too the interpersonal conflicts...will reduce themselves, given full knowledge of the preferences of others, to intrapersonal ones.” (Moral Thinking, p. 110, 1981)
 - “It is said that the prescription to keep all black people in subjection is formally universal, and internally consistent, and so is not ruled out by the Categorical Imperative. But the point is: can somebody who has fully represented to himself the situation of black people who are kept in subjection go on willing that they should be so treated? For if he has fully represented this to himself, he will have formed a preference that he should not be so treated if he is a black person; and this is inconsistent with the universal form of the proposed maxim. There is of course the problem of the fanatical black-hater who is prepared to prescribe that the maxim should be followed even if he himself were a black person. I have discussed the case of this fanatic at length in my books...and I think I have shown that my theory can deal with him. At any rate the Kantian move can be used in arguments with ordinary non-fanatical people.” (Sorting Out Ethics, p. 135, 1997)
 
-### About the Author
+{{< essay-author
+     image="/img/authors/Jonathan-Baron.jpg"
+     text="Jonathan Baron" >}}
 
-**[Jonathan Baron](https://www.sas.upenn.edu/~baron/)** is a retired professor of psychology at the University of Pennsylvania. His main research interest is moral judgment, particularly citizens' judgments about public policy. He has published books and articles concerning utilitarianism and its applications, as well as psychology.
+[Jonathan Baron](https://www.sas.upenn.edu/~baron/) is a retired professor of psychology at the University of Pennsylvania. His main research interest is moral judgment, particularly citizens' judgments about public policy. He has published books and articles concerning utilitarianism and its applications, as well as psychology.
 
 {{< all-thinkers >}}
 

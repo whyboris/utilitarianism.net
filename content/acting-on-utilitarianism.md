@@ -152,9 +152,7 @@ The areas currently among the top priorities for utilitarians predominantly bene
 
 To do the most good they can, utilitarians often donate money to effective charities, work on helping others with their career, and do outreach aimed at encouraging other people to do these things. We face many severe moral problems, which present opportunities to do an enormous amount of good. To benefit others as much as possible, utilitarians carefully prioritize among their options, focusing their efforts wherever they believe they can make the biggest positive contribution to overall wellbeing.
 
-_[First button with text “[Donate to effective charities](https://www.givingwhatwecan.org/)”]_
-
-_[Second button with text “[Choose an impactful career](https://80000hours.org/)”]_
+{{< acting-buttons >}}
 
 {{< how-to-cite authors="MacAskill, W. and Meissner, D." >}}
 

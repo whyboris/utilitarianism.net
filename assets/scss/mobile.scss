@@ -42,12 +42,6 @@
     }
   }
 
-  .small-button {
-    left: 50%;
-    position: relative;
-    transform: translateX(-50%);
-  }
-
   .site-footer {
     padding-top: 20px;
 
@@ -118,6 +112,10 @@
   .guest-essay-container {
     .guest-essay {
       padding: 0;
+
+      .square {
+        transform: translateY(6px);
+      }
 
       .image-container {
         height: 160px;
