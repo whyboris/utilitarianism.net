@@ -7,9 +7,10 @@ description: "Utilitarianism.net is an open access textbook with guest essays, s
 
 <div class="homepage-center">
 
-> “The core precept of utilitarianism is that we should make the world the best place we can. That means that, as far as it is within our power, we should bring about a world in which every individual has the highest possible level of well-being.”
->
-> \- [Peter Singer](/utilitarian-thinker/peter-singer)
+{{< quote
+     text="The core precept of utilitarianism is that we should make the world the best place we can. That means that, as far as it is within our power, we should bring about a world in which every individual has the highest possible level of well-being."
+     author="Peter Singer"
+     link="/utilitarian-thinker/peter-singer" >}}
 
 </div>
 
@@ -37,9 +38,9 @@ This website aims to provide a concise, accessible and engaging introduction to 
 
 {{< index-navigation >}}
 
-> “This is the perfect introduction to utilitarianism: comprehensive, critical and accessible as a basis for classroom discussion or public debate.”
->
-> <span class="smaller">— Prof. Philip Pettit, Princeton / ANU</span>
+{{< quote
+     text="This is the perfect introduction to utilitarianism: comprehensive, critical and accessible as a basis for classroom discussion or public debate."
+     author="Prof. Philip Pettit, Princeton / ANU" >}}
 
 <center>
 <br>
@@ -79,9 +80,9 @@ Addressing these problems may involve [donating generously to effective charitie
 
 <div class="homepage-center">
 
-> “Utilitarianism is a great idea with an awful name. It is, in my opinion, the most underrated and misunderstood idea in all of moral and political philosophy.”
->
-> \- Joshua Greene
+{{< quote 
+     text="Utilitarianism is a great idea with an awful name. It is, in my opinion, the most underrated and misunderstood idea in all of moral and political philosophy."
+     author="Joshua Greene" >}}
 
 </div>
 

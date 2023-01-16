@@ -21,6 +21,13 @@
     background-color: $dark-blue;
     color: white;
 
+    ::selection {
+      background: $oxford-blue;
+    }
+    ::-moz-selection {
+      background: $oxford-blue;
+    }
+
     .temp-navigation-hack {
       background: white;
       color: $dark-blue;
@@ -55,7 +62,7 @@
 
     blockquote {
       border: 0;
-      padding: 50px;
+      padding: 30px;
 
       p {
         font-size: 18px;

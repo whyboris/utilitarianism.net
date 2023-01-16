@@ -23,6 +23,13 @@ $breakpoint-tablet: 850px;
 
 * {
   font-family: Merriweather;
+
+  ::selection {
+    background: $search-highlight-blue;
+  }
+  ::-moz-selection {
+    background: $search-highlight-blue;
+  }
 }
 
 body {
