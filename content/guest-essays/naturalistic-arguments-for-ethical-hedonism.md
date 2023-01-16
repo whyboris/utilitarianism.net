@@ -192,7 +192,7 @@ Empirical observation reveals objective and universal moral value existing withi
      image="/img/authors/Neil-Sinhababu.jpg"
      text="Neil Sinhababu" >}}
 
-[Neil Sinhababu](https://www.neilsinhababu.com/) is Associate Professor of Philosophy at the National University of Singapore. His main interests are in metaethics, alongside various projects in Nietzsche scholarship and modal metaphysics. He hopes to write a book presenting these arguments in more detail, perhaps titled _Pleasure Fundamentalism_.
+[**Neil Sinhababu**](https://www.neilsinhababu.com/) is Associate Professor of Philosophy at the National University of Singapore. His main interests are in metaethics, alongside various projects in Nietzsche scholarship and modal metaphysics. He hopes to write a book presenting these arguments in more detail, perhaps titled _Pleasure Fundamentalism_.
 
 ---
 

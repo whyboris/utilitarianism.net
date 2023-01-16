@@ -154,9 +154,13 @@ This article disputes a common view of research ethics as being fundamentally an
      image="/img/authors/Nir-Eyal.jpg"
      text="Nir Eyal" >}}
 
-[Nir Eyal](https://globalhealth.rutgers.edu/who-we-are/nir-eyal/) is the inaugural Henry Rutgers Professor of Bioethics at Rutgers University. He founded and directs Rutgers’s [Center for Population-Level Bioethics](https://cplb.rutgers.edu/home), with appointments at the School of Public Health and the Department of Philosophy. Dr. Eyal’s work falls primarily in population-level bioethics, and he co-edits Oxford University Press’ series in that area. He also contributes to research ethics and to other areas of ethics and political philosophy. Earlier, as a faculty member at Harvard, he and students together started Harvard’s effective altruism activities.
+[**Nir Eyal**](https://globalhealth.rutgers.edu/who-we-are/nir-eyal/) is the inaugural Henry Rutgers Professor of Bioethics at Rutgers University. He founded and directs Rutgers’s [Center for Population-Level Bioethics](https://cplb.rutgers.edu/home), with appointments at the School of Public Health and the Department of Philosophy. Dr. Eyal’s work falls primarily in population-level bioethics, and he co-edits Oxford University Press’ series in that area. He also contributes to research ethics and to other areas of ethics and political philosophy. Earlier, as a faculty member at Harvard, he and students together started Harvard’s effective altruism activities.
+
+---
 
 {{< how-to-cite authors="Eyal, N." >}}
+
+{{< two-button >}}
 
 ## References
 

@@ -117,7 +117,7 @@ We are only at the start of asking such questions, but the answers will be impor
      image="/img/authors/Jeff-Sebo.jpg"
      text="Jeff Sebo" >}}
 
-**[Jeff Sebo](https://jeffsebo.net)** is Clinical Associate Professor of Environmental Studies, Affiliated Professor of Bioethics, Medical Ethics, Philosophy, and Law, and Director of the Animal Studies M.A. Program at New York University. He is author of _Saving Animals, Saving Ourselves_ (2022) and co-author of _Chimpanzee Rights_ (2018) and _Food, Animals, and the Environment_ (2018).
+[**Jeff Sebo**](https://jeffsebo.net) is Clinical Associate Professor of Environmental Studies, Affiliated Professor of Bioethics, Medical Ethics, Philosophy, and Law, and Director of the Animal Studies M.A. Program at New York University. He is author of _Saving Animals, Saving Ourselves_ (2022) and co-author of _Chimpanzee Rights_ (2018) and _Food, Animals, and the Environment_ (2018).
 
 ---
 
