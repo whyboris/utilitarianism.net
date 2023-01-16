@@ -24,7 +24,9 @@ _Utilitarianism_ is not a single viewpoint, but a family of related ethical theo
 
 The original and most influential version of utilitarianism is _classical utilitarianism_, first expressed in the writings of [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham) and [John Stuart Mill](/utilitarian-thinker/john-stuart-mill). Classical utilitarianism holds that what makes someone’s life go well is based on the subjective conscious experiences they have. A good life is filled with positive conscious experiences like enjoyment, happiness, and contentment, whereas a bad life contains many negative conscious experiences like suffering and pain. Classical utilitarianism holds that we should act so that the world contains the greatest sum total of positive experience over negative experience.
 
+<center>
 {{< small-button url="introduction-to-utilitarianism" text="Continue reading: Introduction to Utilitarianism" >}}
+</center>
 
 </div>
 
@@ -43,10 +45,7 @@ This website aims to provide a concise, accessible and engaging introduction to 
      author="Prof. Philip Pettit, Princeton / ANU" >}}
 
 <center>
-<br>
-
-[View Academic Endorsements](/about#endorsements)
-
+{{< small-button url="about#endorsements" text="View Academic Endorsements" inverted=true >}}
 </center>
 
 </div>
@@ -65,7 +64,9 @@ A few moral projects appear especially pressing by utilitarian lights, such as [
 
 Addressing these problems may involve [donating generously to effective charities](/acting-on-utilitarianism#charitable-giving), [choosing your career based on how to most help others](/acting-on-utilitarianism#career-choice), and [encouraging other people to do the same](/acting-on-utilitarianism#outreach).
 
+<center>
 {{< small-button url="acting-on-utilitarianism" text="Read: Acting on Utilitarianism" >}}
+</center>
 
 <br>
 <br>

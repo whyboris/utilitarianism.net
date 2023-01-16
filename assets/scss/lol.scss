@@ -32,6 +32,11 @@ $breakpoint-tablet: 850px;
   }
 }
 
+a {
+  text-underline-offset: 3px;
+  text-decoration-color: $light-blue;
+}
+
 body {
   margin: 0;
 }
