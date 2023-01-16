@@ -16,11 +16,11 @@ gradientBottom: "#f64f59"
 
 Susanna Newcome (1685-1763) was an eighteenth-century philosopher and theologian who lived and worked in England. Her most significant work, _An Enquiry into the Evidence of the Christian Religion_, contains an early formulation of utilitarian thought. In this short book, Newcome synthesizes contemporary developments in natural theology and moral psychology to offer a utilitarian account of the nature of ethics and our moral duties.
 
-**Life and Works**
+## Life and Works
 
 Newcome (née Squire) was born in 1685 in the small Wiltshire village of Durnford, where her father was a vicar.[^1] Following her marriage to John Newcome, a professor and university administrator, she moved to Cambridge, where she spent most of her adult life. Newcome had a keen interest in philosophy and theology and followed contemporary developments and disputes in these areas. She is known to have published two works during her lifetime. The _Enquiry_, mentioned above, consists of a rational assessment of the truth of Christianity. Newcome offers an argument for God’s existence and an account of the divine nature before arguing that we might expect God to provide us with revelation and defending the veracity of the revelations contained in the Bible. In making these arguments, she explores many issues relating to ethics. Her other work, _The Plain Account of the Nature and End of the Sacrament of the Lord’s Supper Contrary to Scripture_, was a polemical contribution to a contemporary theological debate. Newcome was widely respected for her character and intellect, and her works received positive reviews. She died in Cambridge in 1763 and was buried in St. Bene’t’s Church, where she had been a longtime parishioner.
 
-**Pleasure, Happiness, and the Good**
+## Pleasure, Happiness, and the Good
 
 A central component of Newcome’s utilitarianism is her commitment to a form of ethical hedonism (sometimes also called evaluative hedonism). Several things are commonly thought to be good: money, wisdom, family, achievement, justice, and so on. [Hedonism](/theories-of-wellbeing#hedonism) is the view that there is only one true good: pleasure. Other putative goods are either not truly good or are only good in virtue of some connection to pleasure. In Sections 2 and 3 of the _Enquiry_, Newcome introduces a number of definitions which make clear that pleasure is essentially desirable, that it has a tight conceptual connection with happiness, and that it is additive in the sense that pleasure can aggregate and more pleasure is better than less. Her view is that “to all sensible beings pleasure is preferable to pain” and that “happiness is a term for collected pleasure, or a sum total of pleasure.”
 
@@ -32,7 +32,7 @@ In addition to ethical or evaluative hedonism, Newcome also seems to have been a
 
 In the context of her utilitarianism, part of what makes Newcome’s commitment to psychological hedonism particularly interesting is the way it combines with another of her claims about human psychology. Specifically, Newcome believes that causing pleasure in others (which she equates with doing good) is pleasurable. Conversely, causing pain to others (which she equates with doing evil) is painful. Here is her formulation of the position: “No man makes happy, but he secretly applauds the Action; no man makes miserable, but he secretly condemns himself. No man designs ill, and stands unreproach’d by himself; no man designs good, that has not pleasure, even from that intention.” This is a powerful claim. Newcome thinks pleasure is fundamentally good and that we are motivated to pursue it. If one of the best ways to pursue pleasure ends up being the provision of pleasure to others then this is a welcome result. It means that we have some compelling reason to care not just about our own well-being, but also the well-being of others. Ultimately, of course, the question of whether causing pleasure to others is pleasurable (and causing pain to others is painful) will be an empirical one. Newcome seems to believe that these claims pass muster on introspective grounds. But she also believes that they have theological warrant. On her view, a benevolent God would have ensured that our good deeds were accompanied by a feeling of pleasure and our bad deeds by a feeling of pain.
 
-**Moral Duties**
+## Moral Duties
 
 Moral philosophers writing during Newcome’s time often considered our moral obligations as falling under three heads: duties to ourselves, duties to others, and duties to God. Newcome adopts this tripartite distinction. What is notable, however, is that she justifies all of these duties by arguing that they will increase happiness. Our duties to ourselves include self-preservation, the obligation to avoid harmful overindulgence, and to care for our faculties. The idea is that we must maintain ourselves in good working order if we are to understand and pursue what will lead to our future happiness. The justification of our duties to God is also based in human happiness. Newcome notes that “God is not like man” in that God “does not receive damage if we pay him not that which belongs to him.” Nevertheless, she argues that fulfilling our obligations to God is important because it will make _us_ happy.
 
@@ -46,7 +46,7 @@ Newcome was writing at a very early stage in the development of modern utilitari
 
 Further, while Newcome agrees with the rule utilitarian that the best way to promote happiness is to follow a general set of rules, she might nonetheless disagree that actions are right _because_ or only _insofar as_ they are in accord with those rules. Her clear commitment throughout is to the idea that actions are right because or insofar as they promote happiness. Following certain rules is only morally commendable because divine beneficence ensures that following those rules will, in all instances, promote happiness. Given all of this, it might be best to see Newcome as a [multi-level utilitarian](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism). Multi-level utilitarians argue that actions are right insofar as they promote happiness, but reject the idea that in making decisions we should attempt to determine how much happiness would be generated by each of our possible actions. Instead, they are happy to adopt and follow general rules as heuristics which will guide them in their efforts to generate maximal happiness.
 
-**Thematic Links to Contemporary Utilitarians**
+## Thematic Links to Contemporary Utilitarians
 
 Two other points in Newcome’s discussion of our duties to others are worth emphasizing because of the way they resonate with key themes in contemporary utilitarian thought. The first relates to the concept of _[maximization](/types-of-utilitarianism#reconstructing-rightness-maximizing-satisficing-and-scalar-utilitarianism)_. Utilitarians often claim that we should not just choose a _good_ option from those available to us but that we should choose the _best_ option available to us. To the extent that actions are good insofar as they generate happiness, this means that we should always choose the action likely to generate the most or the greatest amount of happiness. This line of thought is very much present in Newcome’s _Enquiry_. As she puts the point: “God always wills happiness to the whole creation, and has made man capable and willing and promoting the happiness of his species; then God wills that man always will happiness, and promote it as far as he is able”. The final clause here suggests we should aim to _maximize_ the amount of happiness we create.
 
@@ -60,7 +60,7 @@ Newcome, no doubt reflecting some of the prejudices of her time and place, does 
 
 As mentioned above, views of this sort were very rare at the time. Only a few other thinkers in early modern Britain, people like Francis Hutcheson and Humphry Primatt, were beginning to consider animal welfare in this way.[^4] So Newcome deserves recognition as one of the first proponents of animal rights.
 
-**Religion and Ethics**
+## Religion and Ethics
 
 As mentioned above, Newcome’s text is explicitly religious. Indeed, the central goal of the book is the defense of Christianity. In keeping with this, much of what Newcome says about morality is derived from her understanding of God’s nature and what she believes God intends for creation. So she often characterizes our moral duties in terms of what would make us pleasing to God or what would allow us to better emulate God’s goodness.
 
@@ -70,7 +70,7 @@ Newcome’s book is a defense of Christianity as revealed in Scripture, but it i
 
 Because of these views, Newcome offers an interesting insight into the relationship between early utilitarianism and Christianity. And, in many ways, her moral views were similar to other contemporary theologians in the Church of England. In fact, it can be useful to think of Newcome and her contemporaries as constituting a school of thought: Anglican Utilitarianism.[^5] Rationalist strands in theology combined with the prevalence of hedonist conceptions of the good in this period. This offered fertile ground for the development of utilitarianism in England even prior to its systematic exposition by authors like Bentham.
 
-**Legacy**
+## Legacy
 
 Although Newcome’s books were appreciated by her contemporaries, there are comparatively few references to her work in later authors. And, unfortunately, her thought is not well-known today. Newcome published anonymously, and this was likely an obstacle to her building a larger reputation. Additionally, Newcome published just two works and only one of them—the _Enquiry_—was on a topic of enduring interest. And, perhaps most importantly, Newcome wrote at a time when women philosophers and theologians struggled to publish, to be read, and to be taken seriously. It seems very likely that her gender was an important factor in her ideas not receiving more attention. Despite all of this, a careful examination of Newcome’s historical and intellectual context supports the claim that she made a very important contribution to the development of utilitarianism.
 
@@ -102,11 +102,11 @@ The Anglican Utilitarian movement mentioned above was largely centered around th
 - “[A person] may say, he fed, he cloath’d, but when that which should feed and cloath, is to be parted with by himself, in that thing desired to be pardon’d; but God not only wills, but in all actings with sensible beings promotes their happiness: consequently man must, if he would be acceptable to God, promote happiness whenever he has the opportunity.” (_Enquiry_)
 - “[An individual should] remember, when he makes the Creatures labour, to do it with mercy; to lay no grievous burden on them, and what is not proportion’d to their strength; to use them with no unnecessary severity; but to be as compassionate towards them, as is consistent with them being serviceable to him. And further, when he takes away their lives, he is to remember to do it in that manner which is least painful to them.” (_Enquiry_)
 
-_Written by Patrick Connolly_
+{{< essay-author
+     image="/img/authors/Patrick-Connolly.jpg"
+     text="Patrick Connolly - Caroline Goddard Photography" >}}
 
-### About the Author
-
-**[Patrick Connolly](https://sites.google.com/site/patrickjconnolly3/)** is an Assistant Professor of philosophy at Lehigh University. His research focuses on issues at the intersection of philosophy, theology, and the natural sciences in seventeenth-century Europe. While much of his past work focuses on the thought of John Locke and Isaac Newton, he has also pursued projects relating to a number of lesser-known figures including Susanna Newcome.
+[Patrick Connolly](https://sites.google.com/site/patrickjconnolly3/) is an Assistant Professor of philosophy at Lehigh University. His research focuses on issues at the intersection of philosophy, theology, and the natural sciences in seventeenth-century Europe. While much of his past work focuses on the thought of John Locke and Isaac Newton, he has also pursued projects relating to a number of lesser-known figures including Susanna Newcome.
 
 {{< all-thinkers >}}
 
