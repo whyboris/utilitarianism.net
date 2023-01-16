@@ -24,7 +24,7 @@ _Utilitarianism_ is a moral theory that combines two key claims:
 &emsp;&emsp; and \
 (2) It's better to do more good than less.
 
-Seems obvious, right? But these simple ideas turn out to have radical implications for how we should live our lives. The purpose of this website is to (i) [introduce](https://www.utilitarianism.net/introduction-to-utilitarianism) and [defend](https://www.utilitarianism.net/objections-to-utilitarianism) these key ideas, and (ii) explore their [practical implications](https://www.utilitarianism.net/acting-on-utilitarianism).
+Seems obvious, right? But these simple ideas turn out to have radical implications for how we should live our lives. The purpose of this website is to (i) [introduce](/introduction-to-utilitarianism) and [defend](/objections-to-utilitarianism) these key ideas, and (ii) explore their [practical implications](/acting-on-utilitarianism).
 
 Most people say they'd like to help people and make a difference in the world. Utilitarians are interested in doing _the most good they can_.
 
@@ -64,7 +64,7 @@ Many ethical traditions endorse some form of the _Golden Rule_: "do unto others 
 
 One vivid way to implement this principle is to imagine yourself in the position of _each_ affected person, one after the other, living each of their lives (with _their_ tastes and preferences) in sequence. If you were, in effect, _everybody_, what would it be rational for you to choose? Clearly, this would support (i) treating everyone's interests equally, and (ii) always preferring more good rather than less—that is, the key ideas of utilitarianism.
 
-> Click [here](https://www.utilitarianism.net/arguments-for-utilitarianism) for a more advanced discussion of arguments for utilitarianism.
+> Click [here](/arguments-for-utilitarianism) for a more advanced discussion of arguments for utilitarianism.
 
 ## Two Objections to Utilitarianism
 
@@ -88,15 +88,15 @@ If a person constantly told you to do everything that utilitarianism requires, t
 
 Utilitarians may respond by denying that their theory is best understood as making "demands" in this sense. When utilitarianism says that we ought to donate more to charity, this really just means that it would be the _best_ or morally ideal choice. But it's not as though anyone would _blame_ you for falling short of the ideal. (Utilitarians might instead reserve blame for those who give _egregiously_ little weight to others' interests, and positively praise anyone who is more altruistic than average.)
 
-> Click [here](https://www.utilitarianism.net/objections-to-utilitarianism) for a more advanced discussion of objections to utilitarianism.
+> Click [here](/objections-to-utilitarianism) for a more advanced discussion of objections to utilitarianism.
 
 ## History and Track Record
 
-The classical utilitarians of the 18th and 19th centuries had social and political attitudes that were far ahead of their time. As a progressive social reformer, [Jeremy Bentham](https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham) defended issues such as the separation of church and state; the abolition of slavery and of capital punishment; legal regulations to protect criminals and non-human animals from cruel treatment; and the decriminalization of homosexuality as early as the late 1700s. Indeed, his manuscripts on homosexuality were so liberal that his editor hid them from the public after Bentham’s death. They were only published two centuries later.
+The classical utilitarians of the 18th and 19th centuries had social and political attitudes that were far ahead of their time. As a progressive social reformer, [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham) defended issues such as the separation of church and state; the abolition of slavery and of capital punishment; legal regulations to protect criminals and non-human animals from cruel treatment; and the decriminalization of homosexuality as early as the late 1700s. Indeed, his manuscripts on homosexuality were so liberal that his editor hid them from the public after Bentham’s death. They were only published two centuries later.
 
-[John Stuart Mill](https://www.utilitarianism.net/utilitarian-thinker/john-stuart-mill) defended freedom of speech and the provision of social welfare for the poor. He was the second member of the UK’s Parliament to call for women’s suffrage, and he advocated for gender equality more generally.
+[John Stuart Mill](/utilitarian-thinker/john-stuart-mill) defended freedom of speech and the provision of social welfare for the poor. He was the second member of the UK’s Parliament to call for women’s suffrage, and he advocated for gender equality more generally.
 
-In a similar vein, [Henry Sidgwick](https://www.utilitarianism.net/utilitarian-thinker/henry-sidgwick) advocated for women’s education and the freedom of education from religious doctrines. Modern utilitarians like [Peter Singer](https://www.utilitarianism.net/utilitarian-thinker/peter-singer) are outspoken advocates drawing attention to pressing moral problems such as extreme poverty and factory farming.
+In a similar vein, [Henry Sidgwick](/utilitarian-thinker/henry-sidgwick) advocated for women’s education and the freedom of education from religious doctrines. Modern utilitarians like [Peter Singer](/utilitarian-thinker/peter-singer) are outspoken advocates drawing attention to pressing moral problems such as extreme poverty and factory farming.
 
 While the early proponents of utilitarianism were far from perfect, their reasoning led them to avoid many of the moral prejudices of their time and reach more enlightened moral and political positions. Those of us living today are, of course, no less fallible than our forebears. To help overcome our own biases, our moral and political views may similarly benefit from being checked against utilitarian principles.
 
