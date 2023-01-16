@@ -1,0 +1,10 @@
+<div class="objections">
+  {{ range $index, $lol := first 7 .Site.Menus.objections.Sort.ByWeight }}
+    <a href="{{ .URL }}">
+      {{ with .Page }}
+        {{ .Scratch.Set "chapter" (add $index 1) }}
+        {{ partial "textbook-chapter.html" . }}
+      {{ end }}
+    </a>
+  {{ end }}
+</div>

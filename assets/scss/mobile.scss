@@ -119,6 +119,10 @@
     .guest-essay {
       padding: 0;
 
+      .square {
+        transform: translateY(6px);
+      }
+
       .image-container {
         height: 160px;
         width: 120px;

@@ -43,19 +43,7 @@ A fourth strategy is to _tolerate_ the intuition, which is sometimes called “b
 
 In separate articles, we discuss the following critiques of utilitarianism:
 
-1. [The rights objection](/objections-to-utilitarianism/rights) charges utilitarianism with being overly _permissive_. To maximize the sum total of well-being, utilitarianism might be thought to allow infringing upon others’ rights or violating other apparent moral constraints.
-
-2. [The demandingness objection](/objections-to-utilitarianism/demandingness) claims that utilitarianism is overly _demanding_ because it requires excessive self-sacrifice from us in order to help others.
-
-3. [The equality objection](/objections-to-utilitarianism/equality) holds that utilitarianism is not sufficiently concerned with distributive justice and the value of _equality_.
-
-4. [The mere means objection](/objections-to-utilitarianism/mere-means) claims that utilitarianism treats people as “mere means” to the greater good rather than as ends in themselves.
-
-5. [The separateness of persons objection](/objections-to-utilitarianism/separateness-of-persons) charges utilitarianism with aggregating well-being in an unacceptable way, neglecting the significance of the boundaries between individuals.
-
-6. [The alienation objection](/objections-to-utilitarianism/alienation) alleges that the moral reasons posited by utilitarianism are troublingly cold and aloof, alienating us from the particular people and projects that (rightly) matter to us.
-
-7. Finally, [the special obligations objection](/objections-to-utilitarianism/special-obligations) holds that utilitarianism is excessively impartial, and does not sufficiently account for the special obligations that we have to our friends and family.
+{{< textbook-objections >}}
 
 {{< next-page-objection hide-other="true" >}}
 
