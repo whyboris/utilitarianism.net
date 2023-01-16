@@ -338,17 +338,6 @@ hr {
   }
 }
 
-.textbook-hack {
-  .dark-background {
-    background-color: initial;
-
-    .temp-navigation-hack {
-      border: none;
-      padding: 0;
-    }
-  }
-}
-
 .error-404 {
   margin: 100px auto;
   display: block;
@@ -389,11 +378,17 @@ hr {
   
   .square {
     border-radius: 5px;
-    height: calc(100% - 20px);
-    position: absolute;
-    width: 30px;
-    text-align: center;
     color: white;
+    height: calc(100% - 12px);
+    position: absolute;
+    text-align: center;
+    transform: translateY(-4px);
+    width: 30px;
+
+    span {
+      display: block;
+      transform: translateY(9px);
+    }
   }
 
   .guest-essay {

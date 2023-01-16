@@ -32,7 +32,7 @@
   <div class="article-body">
     {{ partial "fake-image.html" . }}
 
-    {{ if isset .Params "year" }}
+    {{ if or (isset .Params "year") (isset .Params "hidepdf") }}
     {{ else }}
       {{ partial "PDF.html" . }}
     {{ end }}
