@@ -12,7 +12,7 @@ These articles summarize the lives and ideas of the major utilitarian philosophe
 
 <br>
 
-<div class="guest-essay-container">
+<div class="guest-essay-container thinkers-container">
 
 {{% thinker-wrapper link="mozi" %}}
 
