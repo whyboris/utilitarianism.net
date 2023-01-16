@@ -26,7 +26,7 @@ You can get in touch with us at contact[at]utilitarianism.net
 
 ## Endorsements
 
-{{< thinker
+{{< endorsement
      link="https://www.appiah.net/"
      image="/img/about/Kwame-Anthony-Appiah.jpg"
      text="Kwame Anthony Appiah" >}}
@@ -38,7 +38,7 @@ You can get in touch with us at contact[at]utilitarianism.net
      link="https://www.appiah.net/"
      uni="New York University" >}}
 
-{{< thinker
+{{< endorsement
      link="https://www.joshua-greene.net/"
      image="/img/about/Joshue-Greene.jpg"
      text="Joshua Greene" >}}
@@ -50,7 +50,7 @@ You can get in touch with us at contact[at]utilitarianism.net
      link="https://www.joshua-greene.net/"
      uni="Harvard University" >}}
 
-{{< thinker
+{{< endorsement
      link="https://en.wikipedia.org/wiki/Katarzyna_de_Lazari-Radek"
      image="/img/about/Katarzyna-de-Lazari-Radek.jpg"
      text="Katarzyna de Lazari-Radek" >}}
@@ -62,7 +62,7 @@ You can get in touch with us at contact[at]utilitarianism.net
      link="https://en.wikipedia.org/wiki/Katarzyna_de_Lazari-Radek"
      uni="University of Łódź" >}}
 
-{{< thinker
+{{< endorsement
      link="https://www.princeton.edu/~ppettit/"
      image="/img/about/Philip-Pettit.jpg"
      text="Philip Pettit" >}}
@@ -76,7 +76,7 @@ You can get in touch with us at contact[at]utilitarianism.net
 
 <br>
 
-{{< thinker
+{{< endorsement
      link="https://petersinger.info/"
      image="/img/about/Peter-Singer-photo-credit-Alletta-Vaandering.jpg"
      text="Peter Singer" >}}
