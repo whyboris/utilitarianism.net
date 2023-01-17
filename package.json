@@ -1,4 +1,9 @@
 {
+  "name": "utilitarianism.net",
+  "version": "0.0.1",
+  "description": "Official repository for utilitarianism.net",
+  "keywords": ["utilitarianism", "utilitarian", "hugo"],
+  "author": "Boris Yakubchik",
   "scripts": {
     "pdf": "cd pdf && website2pdf --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer --safe-title --output-dir ./temp && npm run flat",
     "flat": "cd pdf && node index.js"
