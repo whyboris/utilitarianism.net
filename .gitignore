@@ -2,8 +2,8 @@
 /resources/
 .hugo_build.lock
 
-pdf/node_modules
-pdf/package-lock.json
+node_modules
+package-lock.json
 pdf/temp
 pdf/**/*.pdf
 
