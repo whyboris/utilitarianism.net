@@ -6,7 +6,7 @@ build: search pdf production
 @search:
   node build.js search
   hugo
-  pagefind --source public
+  npm run search
   node build.js reset
   echo ""
   echo "   🚀  Search index generated"

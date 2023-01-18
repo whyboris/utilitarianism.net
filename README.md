@@ -13,6 +13,8 @@ First time:
 - Install [Hugo](https://gohugo.io/getting-started/installing/) (current version is `0.109.0`)
 - Run `git submodule update --init` to download the themes submodule
 
+Any time after:
+
 ```sh
 hugo serve
 ```
