@@ -2,14 +2,19 @@
   "name": "utilitarianism.net",
   "version": "0.0.1",
   "description": "Official repository for utilitarianism.net",
-  "keywords": ["utilitarianism", "utilitarian", "hugo"],
+  "keywords": [
+    "utilitarianism",
+    "utilitarian",
+    "hugo"
+  ],
   "author": "Boris Yakubchik",
   "scripts": {
     "pdf": "cd pdf && website2pdf --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer --safe-title --output-dir ./temp && npm run flat",
     "flat": "cd pdf && node index.js"
   },
   "devDependencies": {
-    "website2pdf": "0.0.9",
-    "fdir": "5.3.0"
+    "fdir": "5.3.0",
+    "pagefind": "0.10.6",
+    "website2pdf": "0.0.9"
   }
 }

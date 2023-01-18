@@ -1,24 +1,41 @@
 # Utilitarianism.net
 
-This is a WIP repository that will replace the current _utilitarianism.net_ website. The technology we are using is [_Hugo_](https://gohugo.io/) for its flexibility, speed, ease of use, and _i18n_ (internationalization) support.
+Official code for the [_utilitarianism.net_](https://www.utilitarianism.net/) website.
 
 ## Developing
 
-For detailed instructions if you're new to coding, see the [section below](#first-time-coding)
+We are using [_Hugo_](https://gohugo.io/) to build the website and several helper libraries and scripts to generate PDFs and add search functionality.
 
-Short version: make sure you have installed [Hugo](https://gohugo.io/getting-started/installing/) (repository started with version `0.101.0` but is now on `0.109.0`) first. After cloning the repository, run `git submodule update --init` to download the themes submodule; this needs to be done only once. After this, just run the server:
+If you're new to coding, see the [section below](#first-time-coding).
+
+First time:
+
+- Install [Hugo](https://gohugo.io/getting-started/installing/) (current version is `0.109.0`)
+- Run `git submodule update --init` to download the themes submodule
 
 ```sh
 hugo serve
 ```
 
-To build the production version of the application just run:
+## Building
 
-```sh
-hugo
-```
+First time:
 
-Consult _Hugo_ [documentation](https://gohugo.io/documentation/) if you have trouble, or reach out to Boris with questions.
+- install [Node](https://nodejs.org/en/)
+- install [just](https://github.com/casey/just)
+- run `npm install` which will install:
+  - [pagefind](https://pagefind.app) to generate images
+  - [website2pdf](https://github.com/jgazeau/website2pdf) to generate PDFs
+
+Now, simply run the commands: `just build` and you're done 🚀
+
+Under the hood this will happen:
+
+1. Build the _Search_ index
+2. Build the _PDF_ files
+3. Build the final website
+
+See `justfile` for details which in turn uses `build.js` to do some of its bidding.
 
 ## Adding documents
 
@@ -41,54 +58,24 @@ After adding a document it will likely need some manual fixes:
 
 Consider adding [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) to your _VSCode_ for automatic error highlighting, and adding [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) for catching some spelling mistakes.
 
-## Internationalization
-
-In the future we may want to use some `rtl` support
-
-```
-{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }}
-```
-
 ## Notes
 
+- Consult _Hugo_ [documentation](https://gohugo.io/documentation/) if you have trouble, or reach out to Boris with questions.
 - We have a shortcode that will generate the table of contents: `{{< TOC >}}`
 - We enabled `unsafe` mode for _Markdown_ to allow [subscript](https://discourse.gohugo.io/t/footnote-sup-tag-not-working-inside-markdownify-help/25426) and other _HTML_ elements (e.g. see the _glossary.md_ file)
 - Pages that have the same name as a folder need to be moved into the folder and renamed to `_index.md` to work properly (e.g. `objections-to-utilitarianism`)
   - these use the `list.html` _layout_
 - `site-header.html` is unused - meant for homepage only (would include language dropdown)
 - _favicon_ generated with [this website](https://realfavicongenerator.net/) & added a custom `svg` to handle dark-theme browser, see [instructions](https://web.dev/building-an-adaptive-favicon/)
-- We are using [Prettier](https://prettier.io/) to format our code, along with [prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template).
-  - Install both globally `npm install -g prettier` & `npm install -g prettier-plugin-go-template` and then run `prettier --write .` to format all the files in the repository.
-
-## Search
-
-Search is handlede with [pagefind](https://pagefind.app/). You'll need to install [Node](https://nodejs.org/en/) and run `npm install -g pagefind`.
-
-When publishing the application, after `hugo` run `pagefind --source public` which will create the `_pagefind` folder inside `/public`. That is all that's needed for search to work. Thank you _pagefind_!
-
-When using site search there are image previews on the side of search results. When generating the search index, toggle `search = true` in `config.toml` so that images appear correctly.
-
-## PDF
-
-We can generate PDFs of all the pages with [website2pdf](https://github.com/jgazeau/website2pdf). See the _README.md_ inside the _PDF_ folder for instructions.
-
-## Building
-
-First time only:
-
-- install [pagefind](https://pagefind.app/) with `npm install -g pagefind`
-- install [website2pdf](https://github.com/jgazeau/website2pdf) by going into the folder _pdf_ (`cd pdf`) and then running `npm install` there
-- install [just](https://github.com/casey/just)
-
-Now, simply run the commands: `just build` and you're done 🚀
-
-Under the hood this will happen:
-
-1. Build the _Search_ index
-2. Build the _PDF_ files
-3. Build the final website
-
-See `justfile` for details which in turn uses `build.js` to do some of its bidding.
+- In the future we may want to use some `rtl` support (try `$.Site.Language.LanguageDirection "rtl"`)
+- We are using [Prettier](https://prettier.io/) to format our code, along with [prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template)
+  - Install both globally `npm install -g prettier` & `npm install -g prettier-plugin-go-template` and then run `prettier --write .` to format all the files in the repository
+- **PDF** generation happens with [website2pdf](https://github.com/jgazeau/website2pdf). For more details see the _README.md_ inside the _PDF_ folder
+- **Search** is handlede with [pagefind](https://pagefind.app/)
+  - If `npm install` errors out on _Windows_, consider using the `PowerShell` terminal instead
+  - It is build with `just search` and is part of the `just build` command, no manual steps needed
+  - During the build, to add image previews to the side of search results, `search = true` is toggled in `config.toml`
+  - Durning the build, `hugo` runs in parallel with `pagefind --source public` which creates the `_pagefind` folder inside `/public`
 
 ## First time coding?
 
