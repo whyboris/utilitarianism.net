@@ -1,12 +1,10 @@
 # PDF generation
 
-You will need [Node](https://nodejs.org/en/) installed first.
+These steps should be automated and will run when you run `just pdf` which also runs when you `just build`
 
-The first time you use this system you'll need to run `npm install` inside this directory.
+## Details
 
-To generate all the PDFs for the public website, use the `just` build system.
-
-## Just
+The longer explanation:
 
 `just pdf` command will perform all this for you:
 
@@ -20,4 +18,4 @@ To generate all the PDFs for the public website, use the `just` build system.
 
 ## Notes
 
-- To customize the PDF styling, just edit the file `pdf.scss`
+- To customize the PDF styling, just edit the file `assets/scss/pdf.scss`

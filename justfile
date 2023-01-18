@@ -6,7 +6,7 @@ build: search pdf production
 @search:
   node build.js search
   hugo
-  pagefind --source public
+  npm run search
   node build.js reset
   echo ""
   echo "   🚀  Search index generated"
@@ -14,7 +14,7 @@ build: search pdf production
 @pdf:
   node build.js pdf
   hugo serve & sleep 2
-  cd pdf && npm start
+  cd pdf && npm run pdf
   node build.js pdfreset
   node build.js reset
   echo ""
