@@ -13,6 +13,8 @@ if (flag === "pdf") {
 if (!flag) {
   console.log("This is a script to assist with the building of the website");
   console.log("Please use `just` to build");
+} else if (flag == "zip") { 
+  zipFullWebsite();
 } else if (flag === "pdfreset") {
   disablePDFSCSS();
   closeAllGlossary();
@@ -27,7 +29,7 @@ if (!flag) {
   writeTomlString(flagEnabled);
 } else {
   console.log(
-    "ERROR - you can only pass in 'search', 'pdf', 'pdfreset', 'production', or 'reset'"
+    "ERROR - you can only pass in 'search', 'pdf', 'pdfreset', 'production', 'reset', or 'zip'"
   );
 }
 
@@ -84,4 +86,22 @@ function getTomlString() {
 
 function writeTomlString(tomlString) {
   fs.writeFileSync("./config.toml", tomlString, "utf-8");
+}
+
+function zipFullWebsite() {
+  const zip = require('bestzip');
+
+  const dateToday = new Date().toISOString().slice(0, 10);
+
+  zip({
+    cwd: 'public',
+    source: '*',
+    destination: '../dist/' + dateToday + '.zip'
+  }).then(function() {
+    // console.log('all done!');
+  }).catch(function(err) {
+    console.log("Zipping directory failed!");
+    console.error(err.stack);
+    process.exit(1);
+  });
 }

@@ -94,6 +94,7 @@ When you run the `npm run build` script, under the hood we'll use `just` to exec
 - Build the _Search_ index
 - Build the _PDF_ files
 - Build the final website
+- Zip the _/public_ directory into a single file in _/dist_
 - Serve the _/public_ folder for a quick manual check
 
 See `justfile` for details; notice it uses `build.js` to do some of its bidding.
