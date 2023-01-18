@@ -26,7 +26,7 @@ First time:
 - install [Node](https://nodejs.org/en/)
 - install [just](https://github.com/casey/just)
 - run `npm install` which will install:
-  - [pagefind](https://pagefind.app) to generate images
+  - [pagefind](https://pagefind.app) to generate the search index
   - [website2pdf](https://github.com/jgazeau/website2pdf) to generate PDFs
 
 Now, simply run the commands: `just build` and you're done 🚀
@@ -38,6 +38,8 @@ Under the hood this will happen:
 3. Build the final website
 
 See `justfile` for details which in turn uses `build.js` to do some of its bidding.
+
+_Bonus:_ if you run `npm install -g serve` you'll be able to then preview the production website with `cd public` followed by `serve` 🎉
 
 ## Adding documents
 
