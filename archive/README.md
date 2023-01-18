@@ -2,8 +2,9 @@
 
 This folder contains instructions for people new to coding, tips for cleaning markdown files imported from _Google Docs_, some old notes, and more details about building the application.
 
-**Table of Contents**
-- [First time coding?](#first-time-coding)
+## Table of Contents
+
+- [First time coding](#first-time-coding)
 - [Importing from Google Docs](#importing-from-google-docs)
 - [Miscellaneous Notes](#miscellaneous-notes)
 - [Building](#building)
@@ -86,3 +87,15 @@ After adding a document it will likely need some manual fixes:
   - During the build, to add image previews to the side of search results, `search = true` is toggled in `config.toml`
   - Durning the build, `hugo` runs in parallel with `pagefind --source public` which creates the `_pagefind` folder inside `/public`
 - If you run _hugo_ and see the warning _"port 1313 already in use, attempting to use an available port"_ try `npm run kill-hugo` which is equivalent to [`npx kill-port 1313`](https://github.com/tiaanduplessis/kill-port)
+
+When you run the `npm run build` script, under the hood we'll use `just` to execute these in order:
+
+- Clean the _/public_ folder
+- Build the _Search_ index
+- Build the _PDF_ files
+- Build the final website
+- Serve the _/public_ folder for a quick manual check
+
+See `justfile` for details; notice it uses `build.js` to do some of its bidding.
+
+Once the build is finished, you'll get a link in your terminal (to `http://localhost:3000`) which will be a local preview of the finished website. Please spot-check it to make sure it functions as expected (for example: search works & PDFs exist).

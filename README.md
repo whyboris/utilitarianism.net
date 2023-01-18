@@ -35,17 +35,9 @@ Any time after:
 npm run build
 ```
 
-Under the hood this will happen:
+The `/public` folder now contains all the static files needed: zip them up, upload to your webhost, and unzip -- you're _done_ 🤩
 
-- Clean the _/public_ folder
-- Build the _Search_ index
-- Build the _PDF_ files
-- Build the final website
-- Serve the _/public_ folder for a quick manual check
-
-See `justfile` for details which in turn uses `build.js` to do some of its bidding.
-
-Once the build is finished, you'll get a link to `http://localhost:3000` which will be a local preview of the finished website.
+For more details see [archive/README.md](archive/README.md#building)
 
 ## Adding documents
 
