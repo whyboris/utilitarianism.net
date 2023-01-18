@@ -2,7 +2,7 @@
 
 Official code for the [_utilitarianism.net_](https://www.utilitarianism.net/) website.
 
-We are using [_Hugo_](https://gohugo.io/) to build the base website and a few _npm packages_ and scripts to generate PDFs and add search functionality.
+We are using [_Hugo_](https://gohugo.io/) to build the base website and a few _npm packages_ and scripts to generate PDFs, add search functionality, etc.
 
 ## Developing
 
@@ -27,7 +27,9 @@ First time:
 - run `npm install` which will install:
   - [pagefind](https://pagefind.app) to generate the search index
   - [website2pdf](https://github.com/jgazeau/website2pdf) to generate PDFs
-  - [just](https://github.com/casey/just) to orchestrate the build steps
+  - [just-install](https://github.com/brombal/just-install) to orchestrate the build steps with [just](https://github.com/casey/just)
+  - [bestzip](https://github.com/nfriedly/node-bestzip) to zip the finished files into one
+  - [serve](https://github.com/vercel/serve) to preview the final build
 
 Any time after:
 
@@ -35,7 +37,7 @@ Any time after:
 npm run build
 ```
 
-The `/public` folder now contains all the static files needed: zip them up, upload to your webhost, and unzip -- you're _done_ 🤩
+The `/public` folder now contains all the static files. The `/dist` folder now has the zip of them all: upload to your webhost, unzip, and you are _done_ 🤩
 
 For more details see [archive/README.md](archive/README.md#building)
 

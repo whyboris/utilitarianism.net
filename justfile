@@ -1,7 +1,7 @@
 run:
   hugo serve
 
-build: clean search pdf production serve
+build: clean search pdf production zip serve
 
 @clean:
   rm -rf public
@@ -31,6 +31,13 @@ build: clean search pdf production serve
   node build.js reset
   echo ""
   echo "   🚀  Production build finished"
+
+@zip:
+  rm -rf dist
+  mkdir dist
+  node build.js zip
+  echo ""
+  echo "   🚀  Zipping build to /dist finished"
 
 @serve:
   echo "   🔎  Preview the final website:"

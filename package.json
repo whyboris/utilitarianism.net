@@ -15,9 +15,11 @@
     "pdf": "cd pdf && website2pdf --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer --safe-title --output-dir ./temp && npm run move-pdf",
     "move-pdf": "cd pdf && node move-pdf.js",
     "kill-hugo": "kill-port 1313",
-    "public": "serve public"
+    "public": "serve public",
+    "zip": "node build.js zip"
   },
   "devDependencies": {
+    "bestzip": "2.2.1",
     "fdir": "5.3.0",
     "just-install": "1.0.8",
     "kill-port": "2.0.1",

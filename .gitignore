@@ -7,4 +7,6 @@ package-lock.json
 pdf/temp
 pdf/**/*.pdf
 
+dist
+
 **/.DS_store
