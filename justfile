@@ -14,7 +14,7 @@ build: search pdf production
 @pdf:
   node build.js pdf
   hugo serve & sleep 2
-  cd pdf && npm run pdf
+  npm run pdf
   node build.js pdfreset
   node build.js reset
   echo ""
