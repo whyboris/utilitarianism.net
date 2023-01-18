@@ -39,7 +39,7 @@ Under the hood this will happen:
 
 See `justfile` for details which in turn uses `build.js` to do some of its bidding.
 
-_Bonus:_ if you run `npm install -g serve` you'll be able to then preview the production website with `cd public` followed by `serve` 🎉
+Once the build is finished, you'll get a link to `http://localhost:3000` which will be a local preview of the finished website.
 
 ## Adding documents
 

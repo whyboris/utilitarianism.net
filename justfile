@@ -1,7 +1,7 @@
 run:
   hugo serve
 
-build: search pdf production
+build: search pdf production serve
 
 @search:
   node build.js search
@@ -27,3 +27,6 @@ build: search pdf production
   node build.js reset
   echo ""
   echo "   🚀  Production build finished"
+
+@serve:
+  npm run public

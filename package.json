@@ -14,13 +14,15 @@
     "search": "pagefind --source public",
     "pdf": "cd pdf && website2pdf --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer --safe-title --output-dir ./temp && npm run move-pdf",
     "move-pdf": "cd pdf && node move-pdf.js",
-    "kill-hugo": "kill-port 1313"
+    "kill-hugo": "kill-port 1313",
+    "public": "serve public"
   },
   "devDependencies": {
     "fdir": "5.3.0",
     "just-install": "1.0.8",
     "kill-port": "2.0.1",
     "pagefind": "0.10.6",
+    "serve": "14.1.2",
     "website2pdf": "0.0.10"
   }
 }
