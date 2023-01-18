@@ -17,6 +17,7 @@ build: search pdf production
   npm run pdf
   node build.js pdfreset
   node build.js reset
+  npm run kill-hugo
   echo ""
   echo "   🚀  PDF generation finished"
 
