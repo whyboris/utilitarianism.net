@@ -1,7 +1,11 @@
 run:
   hugo serve
 
-build: search pdf production
+build: clean search pdf production serve
+
+@clean:
+  rm -rf public
+  echo "   🚀  cleaned /public"
 
 @search:
   node build.js search
@@ -17,6 +21,7 @@ build: search pdf production
   npm run pdf
   node build.js pdfreset
   node build.js reset
+  npm run kill-hugo
   echo ""
   echo "   🚀  PDF generation finished"
 
@@ -26,3 +31,7 @@ build: search pdf production
   node build.js reset
   echo ""
   echo "   🚀  Production build finished"
+
+@serve:
+  echo "   🔎  Preview the final website:"
+  npm run public

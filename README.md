@@ -4,7 +4,7 @@ Official code for the [_utilitarianism.net_](https://www.utilitarianism.net/) we
 
 ## Developing
 
-We are using [_Hugo_](https://gohugo.io/) to build the website and several helper libraries and scripts to generate PDFs and add search functionality.
+We are using [_Hugo_](https://gohugo.io/) to build the base website. There are also a few _npm packages_ and custom scripts to generate PDFs and add search functionality.
 
 If you're new to coding, see the [section below](#first-time-coding).
 
@@ -23,13 +23,13 @@ hugo serve
 
 First time:
 
-- install [Node](https://nodejs.org/en/)
-- install [just](https://github.com/casey/just)
+- install [Node](https://nodejs.org/en/) which will install:
 - run `npm install` which will install:
   - [pagefind](https://pagefind.app) to generate the search index
   - [website2pdf](https://github.com/jgazeau/website2pdf) to generate PDFs
+  - [just](https://github.com/casey/just) to orchestrate the build steps
 
-Now, simply run the commands: `just build` and you're done 🚀
+Now, simply run the commands: `npm run build` and you're done 🚀
 
 Under the hood this will happen:
 
@@ -39,7 +39,7 @@ Under the hood this will happen:
 
 See `justfile` for details which in turn uses `build.js` to do some of its bidding.
 
-_Bonus:_ if you run `npm install -g serve` you'll be able to then preview the production website with `cd public` followed by `serve` 🎉
+Once the build is finished, you'll get a link to `http://localhost:3000` which will be a local preview of the finished website.
 
 ## Adding documents
 
@@ -80,6 +80,7 @@ Consider adding [MarkdownLint](https://marketplace.visualstudio.com/items?itemNa
   - It is build with `just search` and is part of the `just build` command, no manual steps needed
   - During the build, to add image previews to the side of search results, `search = true` is toggled in `config.toml`
   - Durning the build, `hugo` runs in parallel with `pagefind --source public` which creates the `_pagefind` folder inside `/public`
+- If you run _hugo_ and see the warning _"port 1313 already in use, attempting to use an available port"_ you can try running [`npx kill-port 1313`](https://github.com/tiaanduplessis/kill-port)
 
 ## First time coding?
 
@@ -102,7 +103,6 @@ Starting may be daunting, but you can do it! Setting up will take some steps:
    - install submodules: `git submodule update --init`
 3. If you want to _build_ the public version of the website, you'll need to also install:
    - [Node](https://nodejs.org/en/)
-   - [Just](https://github.com/casey/just)
 
 From now on any time you want to work on the website, _with your terminal_:
 
