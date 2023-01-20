@@ -80,6 +80,7 @@ After adding a document it will likely need some manual fixes:
     - The `.` is moved to the next line in _how to cite_ resulting in a space before the period
     - Some footnotes get indented incorrectly; even though the page and notes display correctly after, this isn't great
     - other minor things
+  - The main benefit of having this installed, is that in _VS Code_ you can right-click and _format_ all the `.html` files now.
 
 ## Building
 
