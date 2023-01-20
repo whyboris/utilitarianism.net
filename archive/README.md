@@ -43,7 +43,7 @@ Feel free to reach out with questions by going to [Issues](https://github.com/wh
 
 ## Importing from Google Docs
 
-You can easily import Google Documents via [Docs to Markdown](https://workspace.google.com/u/0/marketplace/app/docs_to_markdown/700168918607) (see [documentation](https://github.com/evbacher/gd2md-html/wiki)). See _/archive_ folder for more details.
+You can easily import Google Documents via [Docs to Markdown](https://workspace.google.com/u/0/marketplace/app/docs_to_markdown/700168918607) (see [documentation](https://github.com/evbacher/gd2md-html/wiki)).
 
 After adding a document it will likely need some manual fixes:
 
@@ -74,8 +74,13 @@ After adding a document it will likely need some manual fixes:
 - There is also a custom `svg` _favicon_ to handle dark-theme browser, see [instructions](https://web.dev/building-an-adaptive-favicon/)
 - `site-header.html` is unused - meant for homepage only (it may one day include a language dropdown)
 - In the future we may want to use some `rtl` support (try `$.Site.Language.LanguageDirection "rtl"`)
-- We could use [Prettier](https://prettier.io/) to format our code, along with [prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template)
-  - Install both globally `npm install -g prettier` & `npm install -g prettier-plugin-go-template` and then run `prettier --write .` to format all the files in the repository
+- We have used [Prettier](https://prettier.io/) along with the [prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template) to format our code, but it creates some edits that need to then be manually reverted
+  - To execute, run `npm run prettier` but please manually confirm that no errors snuck in.
+    - One example is `\_` after _Animal Liberation_ book links - which breaks underlining (not what we want)
+    - The `.` is moved to the next line in _how to cite_ resulting in a space before the period
+    - Some footnotes get indented incorrectly; even though the page and notes display correctly after, this isn't great
+    - other minor things
+  - The main benefit of having this installed, is that in _VS Code_ you can right-click and _format_ all the `.html` files now.
 
 ## Building
 

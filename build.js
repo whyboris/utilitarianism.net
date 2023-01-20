@@ -13,7 +13,7 @@ if (flag === "pdf") {
 if (!flag) {
   console.log("This is a script to assist with the building of the website");
   console.log("Please use `just` to build");
-} else if (flag == "zip") { 
+} else if (flag == "zip") {
   zipFullWebsite();
 } else if (flag === "pdfreset") {
   disablePDFSCSS();
@@ -35,13 +35,13 @@ if (!flag) {
 
 function openAllGlossary() {
   const glossaryString = fs.readFileSync(GLOSSARY_PATH, "utf-8");
-  const allOpen = glossaryString.replaceAll("<details>","<details open>");
+  const allOpen = glossaryString.replaceAll("<details>", "<details open>");
   fs.writeFileSync(GLOSSARY_PATH, allOpen, "utf-8");
 }
 
 function closeAllGlossary() {
   const glossaryString = fs.readFileSync(GLOSSARY_PATH, "utf-8");
-  const allClosed = glossaryString.replaceAll("<details open>","<details>");
+  const allClosed = glossaryString.replaceAll("<details open>", "<details>");
   fs.writeFileSync(GLOSSARY_PATH, allClosed, "utf-8");
 }
 
@@ -89,19 +89,21 @@ function writeTomlString(tomlString) {
 }
 
 function zipFullWebsite() {
-  const zip = require('bestzip');
+  const zip = require("bestzip");
 
   const dateToday = new Date().toISOString().slice(0, 10);
 
   zip({
-    cwd: 'public',
-    source: '*',
-    destination: '../dist/' + dateToday + '.zip'
-  }).then(function() {
-    // console.log('all done!');
-  }).catch(function(err) {
-    console.log("Zipping directory failed!");
-    console.error(err.stack);
-    process.exit(1);
-  });
+    cwd: "public",
+    source: "*",
+    destination: "../dist/" + dateToday + ".zip",
+  })
+    .then(function () {
+      // console.log('all done!');
+    })
+    .catch(function (err) {
+      console.log("Zipping directory failed!");
+      console.error(err.stack);
+      process.exit(1);
+    });
 }

@@ -81,7 +81,7 @@ Addressing these problems may involve [donating generously to effective charitie
 
 <div class="homepage-center">
 
-{{< quote 
+{{< quote
      text="Utilitarianism is a great idea with an awful name. It is, in my opinion, the most underrated and misunderstood idea in all of moral and political philosophy."
      author="Joshua Greene" >}}
 

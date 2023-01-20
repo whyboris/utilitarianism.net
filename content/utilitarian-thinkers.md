@@ -27,7 +27,6 @@ Mozi (墨翟) was a Chinese philosopher who founded the philosophical school of 
 
 {{% /thinker-wrapper %}}
 
-
 {{% thinker-wrapper link="susanna-newcome" %}}
 
 {{< thinker
@@ -40,7 +39,6 @@ Mozi (墨翟) was a Chinese philosopher who founded the philosophical school of 
 Susanna Newcome was a British philosopher and theologian. Her most significant work, _An Enquiry into the Evidence of the Christian Religion_ (1728), contains an early formulation of utilitarian thought.
 
 {{% /thinker-wrapper %}}
-
 
 {{% thinker-wrapper link="jeremy-bentham" %}}
 
@@ -55,7 +53,6 @@ Jeremy Bentham was a British philosopher and social reformer, who is widely rega
 
 {{% /thinker-wrapper %}}
 
-
 {{% thinker-wrapper link="john-stuart-mill" %}}
 
 {{< thinker
@@ -68,7 +65,6 @@ Jeremy Bentham was a British philosopher and social reformer, who is widely rega
 John Stuart Mill was a British philosopher and political economist. A student of Jeremy Bentham, Mill promoted the ideas of utilitarianism and liberalism and has been called “the most influential English language philosopher of the nineteenth century”. His most influential works include his books _Utilitarianism_ (1863) and _On Liberty_ (1859).
 
 {{% /thinker-wrapper %}}
-
 
 {{% thinker-wrapper link="harriet-taylor-mill" %}}
 
@@ -83,7 +79,6 @@ Harriet Taylor Mill was a British philosopher and women’s rights advocate. A c
 
 {{% /thinker-wrapper %}}
 
-
 {{% thinker-wrapper link="henry-sidgwick" %}}
 
 {{< thinker
@@ -97,7 +92,6 @@ Henry Sidgwick was a British philosopher and economist. One of the classical uti
 
 {{% /thinker-wrapper %}}
 
-
 {{% thinker-wrapper link="richard-hare" %}}
 
 {{< thinker
@@ -110,7 +104,6 @@ Henry Sidgwick was a British philosopher and economist. One of the classical uti
 Richard M. Hare was a British philosopher and Professor at the Universities of Oxford and Florida. One of the most influential moral philosophers of the twentieth century, Hare is most famous for his meta-ethical theory of prescriptivism, which he used to argue for utilitarianism.
 
 {{% /thinker-wrapper %}}
-
 
 {{% thinker-wrapper link="peter-singer" %}}
 
