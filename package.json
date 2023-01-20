@@ -16,7 +16,8 @@
     "move-pdf": "cd pdf && node move-pdf.js",
     "kill-hugo": "kill-port 1313",
     "public": "serve public",
-    "zip": "node build.js zip"
+    "zip": "node build.js zip",
+    "prettier": "prettier --write ."
   },
   "devDependencies": {
     "bestzip": "2.2.1",
@@ -24,6 +25,8 @@
     "just-install": "1.0.8",
     "kill-port": "2.0.1",
     "pagefind": "0.10.6",
+    "prettier": "2.8.3",
+    "prettier-plugin-go-template": "0.0.13",
     "serve": "14.1.2",
     "website2pdf": "0.0.10"
   }

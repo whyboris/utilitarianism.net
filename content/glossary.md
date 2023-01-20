@@ -531,7 +531,7 @@ An effective way of doing good is by inspiring others to try to do more good. Th
 
 _→ Main article:_ [_Peter Singer_](/utilitarian-thinker/peter-singer)
 
-Peter Singer (1946) is an Australian moral philosopher and Professor of Bioethics at Princeton University. His work concentrates on issues in applied ethics, in particular our treatment of animals, the ethics of global poverty, and effective altruism. The publication of his 1975 book [Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book)) helped start the modern animal rights movement.
+Peter Singer (1946) is an Australian moral philosopher and Professor of Bioethics at Princeton University. His work concentrates on issues in applied ethics, in particular our treatment of animals, the ethics of global poverty, and effective altruism. The publication of his 1975 book [Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>) helped start the modern animal rights movement.
 
 </details>
 
@@ -546,8 +546,8 @@ Some of the main theories of population ethics include the [_total view_](/popul
 
 _External links:_
 
-* Greaves, H. (2017). [Population Axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12.
-* [The Repugnant Conclusion](https://plato.stanford.edu/archives/spr2017/entries/repugnant-conclusion/). The Stanford Encyclopedia of Philosophy.
+- Greaves, H. (2017). [Population Axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12.
+- [The Repugnant Conclusion](https://plato.stanford.edu/archives/spr2017/entries/repugnant-conclusion/). The Stanford Encyclopedia of Philosophy.
 
 </details>
 
@@ -605,6 +605,7 @@ Chappell, R.Y. (2016). [Against ‘Saving Lives’: Equal Concern and Differenti
 _→ Main article: [Richard M. Hare](/utilitarian-thinker/richard-hare)_
 
 Richard M. Hare (1919 - 2002) was a British philosopher and Professor at the Universities of Oxford and Florida. One of the most influential moral philosophers of the twentieth century, Hare is most famous for his meta-ethical theory of [prescriptivism](https://plato.stanford.edu/entries/moral-cognitivism/#PreUniPre), which he used to argue for utilitarianism.
+
 </details>
 
 <details>
