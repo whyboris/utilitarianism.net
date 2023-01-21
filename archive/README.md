@@ -11,35 +11,73 @@ This folder contains instructions for people new to coding, tips for cleaning ma
 
 ## First time coding
 
-Starting may be daunting, but you can do it! Setting up will take some steps:
+Starting may be daunting, but you can do it! Setting up will take some steps, but if you follow these in order it should be mostly surprise-free:
 
-1. Install:
-   - [git](https://git-scm.com/)
-   - a _terminal_ if you don't have one
-     - on Mac try [Hyper](https://hyper.is)
-     - on Windows you can use _Git Bash_ which is installed when you install _git_ or try [FluentTerminal](https://github.com/felixse/FluentTerminal) or [Tabby](https://github.com/Eugeny/tabby))
-   - [Hugo](https://gohugo.io/getting-started/installing/)
-     - on Mac I recommend `brew install hugo`
-       - this requires you first install [brew](https://brew.sh/)
-     - on Windows I recommend `choco install hugo-extended`
-       - this requires you first install [chocolatey](https://chocolatey.org/)
-   - [VSCode](https://code.visualstudio.com) to easily edit files _(optional)_
-2. In your terminal: _note: these steps only need to be done once_
-   - _clone_ this repository: `https://github.com/whyboris/utilitarianism.net.git`
-   - enter it: `cd utilitarianism.net`
+### Setting up
+
+Below steps need to be done only once:
+
+1. Install [git](https://git-scm.com/)
+  - When installing, just click "_next_" through the default-selected options, no need to worry about any of them
+  - This will automatically install _Git Bash_, a _terminal_ for executing commands
+
+_Please read:_ **Terminal** is a tool you use to make your computer execute commands (anything formatted `this way` below is a command you run in your terminal). There are many terminals to choose from:
+  - _Mac_: you can use the default _terminal_ that comes with the OS
+    - or consider [Hyper](https://hyper.is)
+  - _Windows_: you can use _Git Bash_ which is installed when you install _git_ or _Powershell_ that is part of the OS
+    - or consider [FluentTerminal](https://github.com/felixse/FluentTerminal) or [Tabby](https://github.com/Eugeny/tabby))
+    - if some installation below fails, you may need to try the command using _Powershell_
+      - _unlikely_, but if you see an error about "administrator" something, try running _Powershell_ as an _administrator_ (right-click the icon in the _Start_ menu and "Run as administrator")
+
+2. Install [Hugo](https://gohugo.io/getting-started/installing/)
+  - _Mac_: 
+    - Install [brew](https://brew.sh/), then
+    - `brew install hugo`
+  - _Windows_: 
+    - Install [Scoop](https://scoop.sh/), then
+    - `scoop install hugo-extended`
+3. Install [Just](https://github.com/casey/just)
+  - _Mac_: `brew install just`
+  - _Windows_: `scoop install just`
+4. Install [VSCode](https://code.visualstudio.com) _(step optional)_
+  - This is the nicest way to edit files 
+5. _Last steps_ 🎉 all in your terminal:
+   - _navigate_ to a folder where you would like your code to be located
+     - this is done with the command `cd` followed by `..` to go up a directory or a folder name to enter it
+      - for example `cd ..`, `cd ..` to go up twice, and then `cd code` to enter the folder with the name "code"
+      - _Windows_: consider creating a folder _C:\code_ to put all your code for ease of finding later
+      - you can also use the _tab_ key on your keyboard to auto-complete a folder name
+   - _clone_ this repository by running `git clone https://github.com/whyboris/utilitarianism.net.git`
+   - enter the folder: `cd utilitarianism.net`
    - install submodules: `git submodule update --init`
-3. If you want to _build_ the public version of the website, you'll need to also install:
-   - [Node](https://nodejs.org/en/)
+
+### Developing
 
 From now on any time you want to work on the website, _with your terminal_:
 
-- enter the project folder `cd utilitarianism.net`, and
-- run `hugo serve`
-- open `http://localhost:1313/` in your browser (this link will appear in your terminal)
+1. enter the project folder (_navigate_ to the folder _utilitarianism.net_ on your computer with your terminal)
+2. run `hugo serve` with your terminal
+3. open `http://localhost:1313/` in your browser (this link will appear in your terminal)
 
 After editing any file (with _VSCode_ or any other text editor) and saving it, the website will automatically refresh with the latest changes 🎉
 
-Feel free to reach out with questions by going to [Issues](https://github.com/whyboris/utilitarianism.net/issues)
+### Building
+
+To _build_ the website (generating all the files needed) we'll install just one more tool:
+
+_Only once:_
+
+1. Install [Node](https://nodejs.org/en/)
+2. enter the project folder with your terminal
+3. run `npm install`
+
+_Every time after:_
+
+Run `npm run build` in your terminal.
+
+This should generate the search index, all the PDFs, and run a server to preview the final result. Additionally, this script puts the finished build into a _zip_ file inside the _dist_ folder to transfer to our webhost.
+
+Feel free to reach out with questions by creating an _Issue_ in this project's [Issues](https://github.com/whyboris/utilitarianism.net/issues) page.
 
 ## Importing from Google Docs
 
