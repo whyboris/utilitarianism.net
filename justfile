@@ -5,7 +5,9 @@ build: clean search pdf production zip serve
 
 @clean:
   rm -rf public
+  echo ""
   echo "   🚀  cleaned /public"
+  echo ""
 
 @search:
   node build.js search
@@ -14,6 +16,7 @@ build: clean search pdf production zip serve
   node build.js reset
   echo ""
   echo "   🚀  Search index generated"
+  echo ""
 
 @pdf:
   node build.js pdf
@@ -24,6 +27,7 @@ build: clean search pdf production zip serve
   npm run kill-hugo
   echo ""
   echo "   🚀  PDF generation finished"
+  echo ""
 
 @production:
   node build.js production
@@ -31,6 +35,7 @@ build: clean search pdf production zip serve
   node build.js reset
   echo ""
   echo "   🚀  Production build finished"
+  echo ""
 
 @zip:
   rm -rf dist
@@ -38,7 +43,10 @@ build: clean search pdf production zip serve
   node build.js zip
   echo ""
   echo "   🚀  Zipping build to /dist finished"
+  echo ""
 
 @serve:
+  echo ""
   echo "   🔎  Preview the final website:"
+  echo ""
   npm run public

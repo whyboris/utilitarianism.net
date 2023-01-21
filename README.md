@@ -6,11 +6,11 @@ We are using [_Hugo_](https://gohugo.io/) to build the base website and a few _n
 
 ## Developing
 
-If you're new to coding, see the [detailed instructions](archive/README.md#first-time-coding).
+If you're new to coding, see the [detailed instructions](instructions/README.md#first-time-coding).
 
 First time:
 
-- Install [Hugo](https://gohugo.io/getting-started/installing/) (current version is `0.109.0` extended edition)
+- Install [Hugo](https://gohugo.io/getting-started/installing/) (current version is `0.109.0` _extended edition_)
 - Run `git submodule update --init` to download the themes submodule
 
 Any time after:
@@ -24,12 +24,8 @@ hugo serve
 First time:
 
 - install [Node](https://nodejs.org/en/)
-- run `npm install` which will install:
-  - [pagefind](https://pagefind.app) to generate the search index
-  - [website2pdf](https://github.com/jgazeau/website2pdf) to generate PDFs
-  - [just-install](https://github.com/brombal/just-install) to orchestrate the build steps with [just](https://github.com/casey/just)
-  - [bestzip](https://github.com/nfriedly/node-bestzip) to zip the finished files into one
-  - [serve](https://github.com/vercel/serve) to preview the final build
+- install [just](https://github.com/casey/just)
+- run `npm install`
 
 Any time after:
 
@@ -39,12 +35,29 @@ npm run build
 
 The `/public` folder now contains all the static files. The `/dist` folder now has the zip of them all: upload to your webhost, unzip, and you are _done_ 🤩
 
-For more details see [archive/README.md](archive/README.md#building)
+For more details see [instructions/README.md](instructions/README.md#building)
 
 ## Adding documents
 
-You can easily import Google Documents via [Docs to Markdown](https://workspace.google.com/u/0/marketplace/app/docs_to_markdown/700168918607). see [archive/README.md](archive/README.md#importing-from-google-docs) for more info.
+You can easily import Google Documents via [Docs to Markdown](https://workspace.google.com/u/0/marketplace/app/docs_to_markdown/700168918607). see [instructions/README.md](instructions/README.md#importing-from-google-docs) for more info.
 
 ## Notes
 
-See [archive/README.md](archive/README.md) for more useful information about getting started with or working on this project.
+See [instructions/README.md](instructions/README.md) for more useful information about getting started with or working on this project.
+
+## Thank you
+
+A huge **thank you** to the numerous creators and contributors that make building new things possible, easier, _and_ a pleasure.
+
+**Thank you** to the libraries without which our website would not be possible or would be less than it is now:
+- [hugo](https://github.com/gohugoio/hugo) for building the website HTML
+- [pagefind](https://pagefind.app) for generating the search index
+- [website2pdf](https://github.com/jgazeau/website2pdf) for generating PDFs
+
+**Thank you** to supporting libraries that make the process of building better:
+- [just](https://github.com/casey/just) for handle building scripts
+- [fdir](https://github.com/thecodrr/fdir) for the fastest way to crawl a directory
+- [bestzip](https://github.com/nfriedly/node-bestzip) for zipping the finished files into one
+- [serve](https://github.com/vercel/serve) for previewing the final build
+
+This is not a complete list, there are too many others to list 🙇‍♂️

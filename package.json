@@ -22,9 +22,8 @@
   "devDependencies": {
     "bestzip": "2.2.1",
     "fdir": "5.3.0",
-    "just-install": "1.0.8",
     "kill-port": "2.0.1",
-    "pagefind": "0.10.6",
+    "pagefind": "0.10.7",
     "prettier": "2.8.3",
     "prettier-plugin-go-template": "0.0.13",
     "serve": "14.1.2",
