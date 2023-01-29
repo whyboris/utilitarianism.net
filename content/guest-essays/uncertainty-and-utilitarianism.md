@@ -10,7 +10,7 @@ menu: "guest"
 weight: 8
 image: "/img/essays/_______________________.jpg"
 imageCaption: "Uncertainty and Utilitarianism"
-summary: "summary"
+summary: "When we're less than fully certain of which moral view is correct, it may be wise to 'hedge our bets' by finding a compromise between the different views we find plausible. This essay especially explores the implications of moral uncertainty for utilitarian-friendly agents—those who have non-negligible confidence in utilitarianism or in some of its central claims."
 ---
 
 {{< guest-disclaimer >}}
