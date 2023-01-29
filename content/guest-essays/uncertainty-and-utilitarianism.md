@@ -139,6 +139,8 @@ It is still true, of course, that the approach to moral uncertainty sketched her
 
 {{< two-button >}}
 
+{{< guest-essays true >}}
+
 ## Resources and Further Reading
 
 - Bykvist, Krister (2022). Evaluative uncertainty and population ethics. In G. Arrhenius, K. Bykvist, T. Campbell, & E. Finneron-Burns (Eds.), _Handbook on Population Ethics_. Oxford University Press.

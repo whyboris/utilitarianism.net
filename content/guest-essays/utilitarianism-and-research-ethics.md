@@ -162,6 +162,8 @@ This article disputes a common view of research ethics as being fundamentally an
 
 {{< two-button >}}
 
+{{< guest-essays true >}}
+
 ## References
 
 - Buchanan Allen E., and Dan W. Brock. 1990. _Deciding for Others; The Ethics of Surrogate Decision Making_. Cambridge: Cambridge University Press.

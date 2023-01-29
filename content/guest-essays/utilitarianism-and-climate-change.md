@@ -168,6 +168,8 @@ Nevertheless, utilitarianism might approve this process. Even though world emiss
 
 {{< two-button >}}
 
+{{< guest-essays true >}}
+
 ## References
 
 - Barry, Christian, and Garrett Cullity, ‘Offsetting and risk imposition’, _Ethics_, 132 (2022), pp. 352–81.
