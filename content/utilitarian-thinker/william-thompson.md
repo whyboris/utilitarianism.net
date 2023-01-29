@@ -5,7 +5,7 @@ year: "1775–1833"
 date: 2023-01-01T10:10:59-04:00
 draft: false
 menu: "thinker"
-weight: 100
+weight: 4
 layout: "book"
 image: "/img/thinkers/William-Thompson.jpg"
 gradientTop: "#0F2027"

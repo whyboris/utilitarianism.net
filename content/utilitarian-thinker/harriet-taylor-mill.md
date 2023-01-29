@@ -5,7 +5,7 @@ year: "1807 - 1858"
 date: 2022-08-08T10:10:59-04:00
 draft: false
 menu: ["thinker"]
-weight: 5
+weight: 6
 layout: "book"
 image: "/img/thinkers/Harriet-Taylor-Mill.jpg"
 gradientTop: "#5614B0"

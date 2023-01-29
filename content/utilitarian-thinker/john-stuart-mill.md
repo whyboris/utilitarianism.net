@@ -6,7 +6,7 @@ date: 2022-08-08T10:10:59-04:00
 draft: false
 menu: ["thinker"]
 layout: "book"
-weight: 4
+weight: 5
 image: "/img/thinkers/John-Stuart-Mill.jpg"
 gradientTop: "#ad5389"
 gradientBottom: "#3c1053"

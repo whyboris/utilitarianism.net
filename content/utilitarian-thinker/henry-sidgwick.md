@@ -5,7 +5,7 @@ year: "1838 - 1900"
 date: 2022-08-08T10:10:59-04:00
 draft: false
 menu: ["thinker"]
-weight: 6
+weight: 7
 layout: "book"
 image: "/img/thinkers/Henry-Sidgwick.jpg"
 gradientTop: "#093028"
