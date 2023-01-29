@@ -132,11 +132,13 @@
   .homepage-guest-essay-container {
     a {
       width: 100%;
-      min-height: 96px;
+      min-height: 80px;
+      margin-bottom: 6px;
     }
 
     .guest-essay {
-      padding: 10px 0;
+      padding: 10px 0 0;
+      min-height: 70px;
 
       h2 {
         font-size: 14px;
@@ -146,6 +148,7 @@
 
       .image-container {
         height: 70px;
+        transform: translate(5px, -6px);
         width: 60px;
       }
     }
