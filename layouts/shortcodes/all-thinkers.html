@@ -8,7 +8,7 @@
       <div class="thinker-container">
         <div class="image">
           {{ with .Page }}
-            <img src="{{ .Params.image }}" />
+            <img loading="lazy" alt="{{ .Params.title }}" src="{{ replace .Params.image ".jpg" "-small.jpg" }}" />
           {{ end }}
         </div>
 

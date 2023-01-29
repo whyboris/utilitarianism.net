@@ -178,6 +178,8 @@ _A longer version of this article can be found [here](https://psyarxiv.com/w52zm
 
 {{< two-button >}}
 
+{{< guest-essays true >}}
+
 ## Resources and Further Reading
 
 - Bazerman, Max (2020). _[Better, not perfect: a realist’s guide to maximum sustainable goodness](https://www.amazon.co.uk/Better-Not-Perfect-Realists-Sustainable-ebook/dp/B082J39V98)_. Harper Business.

@@ -12,9 +12,8 @@
           <div class="guest-essay">
             <div
               class="image-container"
-              style="background-image: url('{{ .Params.image }}')"
             >
-              <!-- <img src="{{ .Params.image }}" alt="{{ .Params.imageCaption }}" /> -->
+              <img loading="lazy" alt="{{ .Params.title }}" src="{{ replace .Params.image ".jpg" "-small.jpg" }}">
             </div>
             <h2>{{ .Title }}</h2>
 
