@@ -17,7 +17,7 @@ summary: "summary"
 
 {{< TOC >}}
 
-## 1. The focus on emissions
+## The focus on emissions
 
 How does utilitarianism tell us to respond to climate change? This is a question about the actions of individuals and also the actions of governments and the international community. At every level, how should we act?
 
@@ -29,7 +29,7 @@ Even this focus is not completely sharp. There is not just one quantity of emiss
 
 I shall concentrate on the current emissions of carbon dioxide. Carbon dioxide is the most abundant and most important greenhouse gas apart from water vapour, whose abundance is not directly affected by human beings. Moreover, conclusions about carbon dioxide can be partially extended to other gases by assigning each gas a ‘carbon dioxide equivalent’. The equivalence cannot be exact, because of the gases’ different lifetimes in the atmosphere, but it provides a useful approximation.
 
-## 2. The social cost of carbon
+## The social cost of carbon
 
 I start with the effects of carbon dioxide emissions. We need to know how much benefit—measured in utilitarian terms—is to be gained by reducing these emissions. We can ask specifically how much a one-tonne reduction in emissions would add to the total [well-being](/theories-of-wellbeing) of the world.
 
@@ -103,7 +103,7 @@ Policy to limit climate change is bound to affect who gets born. For example, a 
 
 However, climate change and policy to limit climate change are also very likely to alter the numbers of people who live in the future, and not just their identities. [Numbers do matter to a utilitarian](/population-ethics#the-total-view). A calculation of the social cost of carbon cannot correctly ignore population ethics.
 
-## 3. Life lost
+## Life lost
 
 All these difficulties imply that the social cost of carbon is far from an accurate measure of the well-being that can be gained by reducing emissions. Most of the difficulties point in the same direction, so that estimates of the social cost are probably serious underestimates. Many factors are left out of them. On the other hand, economists have been working to overcome some of the difficulties. Recent estimates have been improving and getting bigger. A notable recent estimate from Resources For the Future puts the social cost of carbon at $185 per tonne of carbon dioxide.[^9]
 
@@ -115,7 +115,7 @@ Assuming a plausible scenario for the future development of climate change, I ge
 
 If we accept the $185 figure for the social cost of carbon, you will cause over $100,000 worth of harm altogether. These are not small numbers. Some moral philosophers suggest that we do only a tiny amount of harm through climate change by our individual actions, or even no harm at all.[^13] That is not so. Our harms are indeed only a tiny fraction of the total harm of climate change, but this total is so huge that even a tiny fraction is big. None of us would want to shorten lives by three months, or harm people to the extent of $100,000.
 
-## 4. Utilitarianism and private morality
+## Utilitarianism and private morality
 
 Now we have done what we can to evaluate the consequences of emissions, we can turn to their causes and to what we should do about them. I start with what we as individuals should do, and then come to governments.
 
@@ -136,7 +136,7 @@ I conclude that reducing carbon emissions is very beneficial but much less benef
 
 You might choose to reduce your emissions for a different reason. They harm other people, and it is a widely recognized moral principle that we should not harm others. This is a reason to reduce your emissions to zero, which you could achieve by means of offsetting. But it is not a utilitarian reason. Utilitarianism does not object to your harming other people so long as there is a greater benefit to be gained by doing so.
 
-## 5. Utilitarianism and public morality
+## Utilitarianism and public morality
 
 Now I turn to what governments should do. The costs and benefits of reducing emissions are the same for a government as for an individual. I have said that utilitarianism does not require an individual to reduce her emissions (if she spends her resources to help people in more effective ways). Why should the conclusion be any different for a government?
 
@@ -184,15 +184,13 @@ Nevertheless, utilitarianism might approve this process. Even though world emiss
 - Weitzman, Martin L., ‘On modeling and interpreting the economics of catastrophic climate change’, _Review of Economics and Statistics_, 91 (2009), pp. 1–19.
 
 [^1]: Many of these points and others are set out in more detail in Marc Fleurbaey _et al_, ‘The social cost of carbon’.
-[^2]:
-  This claim is not uncontroversial, particularly because it seems plausible that we should be risk-averse about well-being. But it is supported by the axioms of expected utility theory, combined with other arguments set out in my _Weighing Goods_, chapter 10.
+[^2]: This claim is not uncontroversial, particularly because it seems plausible that we should be risk-averse about well-being. But it is supported by the axioms of expected utility theory, combined with other arguments set out in my _Weighing Goods_, chapter 10.
 [^3]: Weitzman, ‘On modeling’.
 [^4]: IPCC, _Climate Change 2014_, Summary for Policymakers, p. 5.
 [^5]: See Carleton _et al_ ‘Valuing the global mortality consequences’.
 [^6]: Rennert _et al_, ‘ Comprehensive evidence’ p. 690.
 [^7]: For example, Rennert _et al_, ‘Comprehensive evidence’.
-[^8]:
-  This practice was recommended in the early report of the IPCC, Working Group 3, _Climate Change 1995_, pp. 195–8, and it continues today for instance in Rennert _et al_, ‘Comprehensive evidence’, online content: Methods.
+[^8]: This practice was recommended in the early report of the IPCC, Working Group 3, _Climate Change 1995_, pp. 195–8, and it continues today for instance in Rennert _et al_, ‘Comprehensive evidence’, online content: Methods.
 [^9]: Rennert _et al_, ‘Comprehensive evidence’.
 [^10]: Rennert _et al_, ‘Comprehensive evidence’, p. 690.
 [^11]: Carleton _et al_, ‘Valuing the global mortality consequences’.
