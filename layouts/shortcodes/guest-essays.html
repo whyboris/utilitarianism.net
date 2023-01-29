@@ -13,7 +13,7 @@
             <div
               class="image-container"
             >
-              <img loading="lazy" src="{{ replace .Params.image ".jpg" "-small.jpg" }}">
+              <img loading="lazy" alt="{{ .Params.title }}" src="{{ replace .Params.image ".jpg" "-small.jpg" }}">
             </div>
             <h2>{{ .Title }}</h2>
 
