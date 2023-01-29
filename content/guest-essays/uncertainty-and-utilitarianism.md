@@ -1,14 +1,14 @@
 ---
 title: "Uncertainty and Utilitarianism"
 book: "Uncertainty and Utilitarianism"
-year: "2022"
-date: 2022-08-08T10:10:55-04:00
+year: "2023"
+date: 2023-01-01T10:10:55-04:00
 author: "Krister Bykvist"
 draft: false
 layout: "book"
 menu: "guest"
 weight: 8
-image: "/img/essays/criminal-law.jpg"
+image: "/img/essays/_______________________.jpg"
 imageCaption: "Uncertainty and Utilitarianism"
 summary: "summary"
 ---
@@ -23,7 +23,7 @@ summary: "summary"
 2. How much should we spend on [helping strangers in need](/utilitarianism-and-practical-ethics#cosmopolitanism)?
 3. How much should we [care about future generations](/utilitarianism-and-practical-ethics#longtermism)?
 
-Few could honestly say that they are fully certain about the answers to these pressing moral questions, and this holds for utilitarians and non-utilitarians alike. We feel less than fully certain about the answers partly due to uncertainty about _empirical_ facts. We are uncertain about whether shrimps can feel pain, whether we can really help strangers far away, or whether we can make sure people in the far future have good lives. 
+Few could honestly say that they are fully certain about the answers to these pressing moral questions, and this holds for utilitarians and non-utilitarians alike. We feel less than fully certain about the answers partly due to uncertainty about _empirical_ facts. We are uncertain about whether shrimps can feel pain, whether we can really help strangers far away, or whether we can make sure people in the far future have good lives.
 
 But sometimes the uncertainty is fundamentally _moral_.[^1] Even if we knew all the relevant empirical facts, we could still waver about whether it is right to kill an animal for a small benefit to a human, whether we have strong duties to help strangers in need, and whether future people matter as much as current ones. Fundamental moral uncertainty can also be more general, as when we are uncertain about whether a certain moral theory is correct. Many first-year students express deep uncertainty about which moral theory is correct after taking an introductory course in normative ethics, where all the standard theories are exposed with ‘warts and all’.
 
