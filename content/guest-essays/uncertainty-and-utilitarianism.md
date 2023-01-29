@@ -135,7 +135,7 @@ It is still true, of course, that the approach to moral uncertainty sketched her
 
 **[Krister Bykvist](https://www.iffs.se/en/research/researchers/krister-bykvist/)** is a Professor of Practical Philosophy at the Department of Philosophy, Stockholm University and the Institute for Futures Studies. Before that, he was a Tutorial Fellow at Jesus College, Oxford, and a CUF Lecturer in Philosophy at Oxford University (2001-2013). His research concerns questions about our responsibility to future generations, the foundations of consequentialism, moral and evaluative uncertainty, and the relationship between preferences, value, and welfare.
 
-{{< how-to-cite authors="Bykvist, K. (2022)" >}}
+{{< how-to-cite authors="Bykvist, K." >}}
 
 {{< two-button >}}
 
