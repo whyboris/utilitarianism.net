@@ -5,7 +5,7 @@ year: "1919 - 2002"
 date: 2022-08-08T10:10:59-04:00
 draft: false
 menu: ["thinker"]
-weight: 7
+weight: 8
 layout: "book"
 image: "/img/thinkers/Richard-M-Hare.jpg"
 gradientTop: "#0f0c29"

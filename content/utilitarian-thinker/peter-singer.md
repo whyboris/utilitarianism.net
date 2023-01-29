@@ -5,7 +5,7 @@ year: "1946"
 date: 2022-08-08T10:10:59-04:00
 draft: false
 menu: "thinker"
-weight: 8
+weight: 9
 layout: "book"
 image: "/img/thinkers/Peter-Singer.jpg"
 gradientTop: "#95524a"

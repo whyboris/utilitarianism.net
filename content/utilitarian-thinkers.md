@@ -53,6 +53,19 @@ Jeremy Bentham was a British philosopher and social reformer, who is widely rega
 
 {{% /thinker-wrapper %}}
 
+{{% thinker-wrapper link="william-thompson" %}}
+
+{{< thinker
+     link="/utilitarian-thinker/william-thompson"
+     image="/img/thinkers/William-Thompson.jpg"
+     text="William Thompson" >}}
+
+{{< thinker-name name="William Thompson" year="(1775 – 1833)" >}}
+
+William Thompson was a philosopher, political economist, and social reformer working during the early nineteenth century. He and his sometimes co-author Anna Doyle Wheeler made significant, though under-appreciated, contributions to the utilitarian, socialist, and feminist philosophical traditions.
+
+{{% /thinker-wrapper %}}
+
 {{% thinker-wrapper link="john-stuart-mill" %}}
 
 {{< thinker
