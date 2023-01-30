@@ -180,7 +180,7 @@ Nevertheless, utilitarianism might approve this process. Even though world emiss
 - Intergovernmental Panel on Climate Change, Working Group 3, _Climate Change 1995: Economic and Social Dimensions of Climate Change_, Cambridge University Press, 1996.
 - Intergovernmental Panel on Climate Change, Working Group 3, _Climate Change 2014: Mitigation of Climate Change_, Summary for Policymakers.
 - Rennert, Kevin, _et al_, ‘Comprehensive evidence implies a higher social cost of CO<sub>2</sub>’, _Nature_, 610 (2022), pp. 687–92.
-- Sinnott-Armstrong, Walter, ‘It’s not _my _fault: global warming and individual moral obligations’, in _Perspectives on Climate Change_, Volume 5, edited by Walter Sinnott-Armstrong and R. B. Howarth, Elsevier, 2005, pp. 293–315.
+- Sinnott-Armstrong, Walter, ‘It’s not _my_ fault: global warming and individual moral obligations’, in _Perspectives on Climate Change_, Volume 5, edited by Walter Sinnott-Armstrong and R. B. Howarth, Elsevier, 2005, pp. 293–315.
 - United Nations, _Framework Agreement on Climate Change_, 1992.
 - United Nations, _Paris Agreement_, 2015.
 - Weitzman, Martin L., ‘On modeling and interpreting the economics of catastrophic climate change’, _Review of Economics and Statistics_, 91 (2009), pp. 1–19.
