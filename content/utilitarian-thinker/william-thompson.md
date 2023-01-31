@@ -2,7 +2,7 @@
 title: "William Thompson"
 book: "William Thompson"
 year: "1775–1833"
-date: 2023-01-01T10:10:59-04:00
+date: 2023-01-29
 draft: false
 menu: "thinker"
 weight: 4

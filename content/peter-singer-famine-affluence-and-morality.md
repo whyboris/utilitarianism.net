@@ -2,8 +2,7 @@
 title: "Study Guide: Peter Singer's 'Famine, Affluence, and Morality'"
 book: "Study Guide: Peter Singer's 'Famine, Affluence, and Morality'"
 menuTitle: "Famine, Affluence, and Morality"
-date: 2022-08-08T10:10:59-04:00
-updated: 2022, Sept 6th - from Google Doc
+date: 2023-01-29
 draft: false
 menu: "guide"
 weight: 1

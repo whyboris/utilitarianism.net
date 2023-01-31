@@ -2,7 +2,7 @@
 title: "Harriet Taylor Mill"
 book: "Harriet Taylor Mill"
 year: "1807 - 1858"
-date: 2022-08-08T10:10:59-04:00
+date: 2023-01-29
 draft: false
 menu: ["thinker"]
 weight: 6

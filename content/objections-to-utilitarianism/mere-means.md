@@ -1,7 +1,6 @@
 ---
 title: "The Mere Means Objection"
-date: 2022-08-08T10:08:55-04:00
-updated: 2023, Jan 8th - in sync with website
+date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]

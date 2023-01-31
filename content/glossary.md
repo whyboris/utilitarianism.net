@@ -1,7 +1,6 @@
 ---
 title: "Glossary"
-date: 2023-01-01T10:10:59-04:00
-updated: 2023, Jan 8th - in sync with website
+date: 2023-01-29
 draft: false
 weight: 1
 image: "/img/Utilitarianism-Website-Logo.png"

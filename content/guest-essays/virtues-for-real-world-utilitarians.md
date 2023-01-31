@@ -2,7 +2,7 @@
 title: "Virtues for Real-World Utilitarians"
 book: "Virtues for Real-World Utilitarians"
 year: "2022"
-date: 2022-08-08T10:10:55-04:00
+date: 2023-01-29
 author: Stefan Schubert & Lucius Caviola
 draft: false
 menu: "guest"

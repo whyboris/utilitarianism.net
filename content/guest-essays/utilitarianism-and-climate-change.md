@@ -2,7 +2,7 @@
 title: "Utilitarianism and Climate Change"
 book: "Utilitarianism and Climate Change"
 year: "2023"
-date: 2023-01-01T10:10:55-04:00
+date: 2023-01-29
 author: "John Broome"
 draft: false
 layout: "book"

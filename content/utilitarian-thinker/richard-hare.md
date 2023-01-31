@@ -2,7 +2,7 @@
 title: "Richard M. Hare"
 book: "Richard M. Hare"
 year: "1919 - 2002"
-date: 2022-08-08T10:10:59-04:00
+date: 2023-01-29
 draft: false
 menu: ["thinker"]
 weight: 8

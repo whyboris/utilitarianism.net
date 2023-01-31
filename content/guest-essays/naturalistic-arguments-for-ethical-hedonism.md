@@ -2,7 +2,7 @@
 title: "Naturalistic Arguments for Ethical Hedonism"
 book: "Naturalistic Arguments for Ethical Hedonism"
 year: "2022"
-date: 2022-08-08T10:10:55-04:00
+date: 2023-01-29
 author: Neil Sinhababu
 draft: false
 menu: "guest"
