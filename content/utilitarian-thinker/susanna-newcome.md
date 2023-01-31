@@ -8,8 +8,8 @@ menu: ["thinker"]
 weight: 2
 layout: "book"
 image: "/img/thinkers/Susanna-Newcome.jpg"
-gradientTop: "#12c2e9"
-gradientBottom: "#f64f59"
+gradientTop: "#440f50"
+gradientBottom: "#b15b86"
 ---
 
 {{< thinker-image >}}

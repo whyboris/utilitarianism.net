@@ -8,8 +8,8 @@ menu: ["thinker"]
 weight: 3
 layout: "book"
 image: "/img/thinkers/Jeremy-Bentham.jpg"
-gradientTop: "#9796f0"
-gradientBottom: "#fbc7d4"
+gradientTop: "#514fe1"
+gradientBottom: "#6d59a5"
 ---
 
 {{< thinker-image >}}
