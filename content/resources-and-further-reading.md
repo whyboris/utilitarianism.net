@@ -3,7 +3,6 @@ title: "Resources and Further Reading"
 date: 2023-01-29
 draft: false
 menu: "main"
-image: "/img/Utilitarianism-Website-Logo.png"
 description: "Resources and further reading about utilitarianism."
 gradientTop: "#260380"
 gradientBottom: "#012147"

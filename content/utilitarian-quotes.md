@@ -4,7 +4,6 @@ date: 2023-01-29
 draft: false
 menu: "quotes"
 weight: 1
-image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 {{< TOC unordered="true">}}

@@ -4,7 +4,6 @@ date: 2023-01-29
 draft: false
 menu: "main"
 weight: 3
-image: "/img/Utilitarianism-Website-Logo.png"
 description: "This chapter explains reflective equilibrium as a moral methodology, and presents several arguments for utilitarianism (and similar consequentialist views) over competing approaches to ethics."
 gradientTop: "#012147"
 gradientBottom: "#084BC7"
