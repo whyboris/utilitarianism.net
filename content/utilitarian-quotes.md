@@ -1,7 +1,6 @@
 ---
 title: "Utilitarian Quotes"
 date: 2023-01-29
-updated: 2022, Sept 8th - in sync with Google Doc
 draft: false
 menu: "quotes"
 weight: 1

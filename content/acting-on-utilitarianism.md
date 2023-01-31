@@ -1,7 +1,6 @@
 ---
 title: "Acting on Utilitarianism "
 date: 2023-01-29
-updated: 2022, June 17th - by Richard
 draft: false
 menu: "acting"
 weight: 5
