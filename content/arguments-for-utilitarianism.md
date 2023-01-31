@@ -1,6 +1,6 @@
 ---
 title: "Arguments for Utilitarianism"
-date: 2023-01-01T10:10:57-04:00
+date: 2023-01-29
 updated: 2023, Jan 8th - in sync with website
 draft: false
 menu: "main"

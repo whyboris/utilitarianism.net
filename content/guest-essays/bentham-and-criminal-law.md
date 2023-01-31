@@ -2,7 +2,7 @@
 title: "Bentham and Criminal Law"
 book: "Bentham and Criminal Law"
 year: "2022"
-date: 2022-08-08T10:10:55-04:00
+date: 2023-01-29
 author: Steven Sverdlik
 draft: false
 layout: "book"

@@ -1,6 +1,6 @@
 ---
 title: "The Separateness of Persons Objection"
-date: 2022-08-08T10:08:54-04:00
+date: 2023-01-29
 updated: 2023, Jan 8th - in sync with website
 type: "page"
 draft: false

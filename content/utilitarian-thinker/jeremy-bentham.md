@@ -2,7 +2,7 @@
 title: "Jeremy Bentham"
 book: "Jeremy Bentham"
 year: "1748 - 1832"
-date: 2022-08-08T10:10:59-04:00
+date: 2023-01-29
 draft: false
 menu: ["thinker"]
 weight: 3

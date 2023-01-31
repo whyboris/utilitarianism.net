@@ -2,7 +2,7 @@
 title: "John Stuart Mill"
 book: "John Stuart Mill"
 year: "(1806 - 1873)"
-date: 2022-08-08T10:10:59-04:00
+date: 2023-01-29
 draft: false
 menu: ["thinker"]
 layout: "book"
