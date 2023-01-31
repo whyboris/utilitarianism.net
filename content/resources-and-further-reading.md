@@ -16,6 +16,8 @@ gradientBottom: "#012147"
 
 ## Chapter 1: Introduction to Utilitarianism
 
+Resources for [Introduction to Utilitarianism](/introduction-to-utilitarianism):
+
 ### Introduction
 
 - [Utilitarianism: Crash Course Philosophy #36](https://youtu.be/-a739VjqdSI)
@@ -35,6 +37,8 @@ gradientBottom: "#012147"
 - James Crimmins (2017). _[The Bloomsbury Encyclopedia of Utilitarianism](https://www.bloomsbury.com/uk/the-bloomsbury-encyclopedia-of-utilitarianism-9781350021693/)_. Bloomsbury.
 - Derek Parfit (2017). _[On What Matters](https://en.wikipedia.org/wiki/On_What_Matters)_. Oxford: Oxford University Press.
 - Yew-Kwang Ng (1990). [Welfarism and Utilitarianism: A Rehabilitation](https://www.ntu.edu.sg/home/ykng/Welfarianism&Utilitarianism.pdf). _Utilitas_. 2(2): 171–193.
+
+---
 
 ## Chapter 2: Elements and Types of Utilitarianism
 
@@ -108,7 +112,11 @@ Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 - Chappell, R.Y. (2012). [Fittingness: The Sole Normative Primitive](https://dx.doi.org/10.1111/j.1467-9213.2012.00075.x). _Philosophical Quarterly_. 62(249): 684–704.
 - Chappell, R.Y. Consequentialism: Core and Expansion, forthcoming in D. Copp, C. Rosati, and T. Rulli (eds.). _The Oxford Handbook of Normative Ethics_. Oxford University Press.
 
+---
+
 ## Chapter 3: Arguments for Utilitarianism
+
+Resources for [Arguments for Utilitarianism](/arguments-for-utilitarianism):
 
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. Continuum.
 - Robert Goodin (1995). _[Utilitarianism as a Public Philosophy](https://www.cambridge.org/core/books/utilitarianism-as-a-public-philosophy/DFAF4F0BDBA6B06F9BCB1DDC3D0A26A7)_. Cambridge University Press.
@@ -116,7 +124,11 @@ Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 - Peter Singer & Katarzyna de Lazari-Radek (2017). Chapter 2: Justifications, in _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford University Press.
 - J.J.C. Smart (1973). An outline of a system of utilitarian ethics, in J.J.C. Smart & Bernard Williams, _[Utilitarianism: For and Against](https://www.cambridge.org/core/books/abs/utilitarianism/an-outline-of-a-system-of-utilitarian-ethics/8DE8362FF43188D53C855A70C70223E2)_. Cambridge University Press.
 
+---
+
 ## Chapter 4: Theories of Well-Being
+
+Resources for [Theories of Well-Being](/theories-of-wellbeing):
 
 ### Introduction
 
@@ -151,9 +163,11 @@ Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 - Guy Fletcher (2013). [A Fresh Start for an Objective List Theory of Well-Being](https://doi.org/10.1017/S0953820812000453). _Utilitas_. 25(2): 206–220.
 - James Griffin (1986). _[Well-Being: Its Meaning, Measurement and Moral Importance](https://doi.org/10.1093/0198248431.001.0001)_. Oxford: Clarendon Press.
 
+---
+
 ## Chapter 5: Population Ethics
 
-Resources for [Population Ethics](/utilitarianism-and-practical-ethics):
+Resources for [Population Ethics](/population-ethics):
 
 ### Introduction to Population Ethics
 
@@ -216,6 +230,8 @@ Resources for [Population Ethics](/utilitarianism-and-practical-ethics):
 - Erik Carlson (1998). [Mere addition and two trilemmas of population ethics](https://doi.org/10.1017/S0266267100003862). _Economics and Philosophy_. 14(2): 283–306.
 - Yew-Kwang Ng (1989). [What should we do about future generations? Impossibility of Parfit's Theory X](https://doi.org/10.1017/S0266267100002406). _Economics and Philosophy_. 5(2): 235–253.
 
+---
+
 ## Chapter 6: Utilitarianism and Practical Ethics
 
 Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics):
@@ -248,7 +264,11 @@ Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practica
 - Nick Beckstead (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM)_. PhD Dissertation, Rutgers University.
 - Nick Bostrom (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://drive.google.com/open?id=0B4kMPIEI5Mb8WTJGckNSNG5seWs). _Utilitas_. 15(3): 308–314.
 
+---
+
 ## Chapter 7: Near-Utilitarian Alternatives
+
+Resources for [Near-Utilitarian Alternatives](/near-utilitarian-alternatives):
 
 ### Beyond Welfarism
 
@@ -280,7 +300,11 @@ Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practica
 - David Ross (1930). _The Right and the Good_. Clarendon Press.
 - Elizabeth Ashford (2003) [The Demandingness of Scanlon's Contractualism](https://doi.org/10.1086/342853). _Ethics_ 113(2): 273–302.
 
+---
+
 ## Chapter 8: Objections to Utilitarianism and Responses
+
+Resources for [Objections to Utilitarianism and Responses](/objections-to-utilitarianism):
 
 ### General
 
@@ -311,7 +335,11 @@ Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practica
 - Derek Parfit (1997). [Equality and Priority](https://www.philosophy.rutgers.edu/joomlatools-files/docman-files/3ParfitEqualityorPriority2000.pdf). _Ratio_. 10(3): 202–221.
 - Larry Temkin (1993). [Inequality](https://global.oup.com/academic/product/inequality-9780195111491). New York: Oxford University Press.
 
+---
+
 ## Acting on Utilitarianism
+
+Resources for [Acting on Utilitarianism](/acting-on-utilitarianism)
 
 ### General
 

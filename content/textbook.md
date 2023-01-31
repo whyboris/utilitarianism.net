@@ -1,8 +1,8 @@
 ---
 title: "An Introduction to Utilitarianism"
 book: "An Introduction to Utilitarianism"
-year: "2022"
-author: "MacAskill, W., Meissner, D., and Chappell, R.Y."
+year: " "
+author: "Richard Yetter Chappell, Darius Meissner, and William MacAskill"
 date: 2022-08-08T10:10:59-04:00
 image: "/img/Utilitarianism-Website-Logo.png"
 ---

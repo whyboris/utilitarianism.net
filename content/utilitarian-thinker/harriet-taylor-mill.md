@@ -8,8 +8,8 @@ menu: ["thinker"]
 weight: 6
 layout: "book"
 image: "/img/thinkers/Harriet-Taylor-Mill.jpg"
-gradientTop: "#5614B0"
-gradientBottom: "#DBD65C"
+gradientTop: "#295270"
+gradientBottom: "#524175"
 ---
 
 {{< thinker-image >}}
