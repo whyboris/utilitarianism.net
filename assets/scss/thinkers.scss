@@ -14,10 +14,10 @@
     }
 
     .image img {
-      box-shadow: 0 0 0 rgba(0, 0, 0, 0.3);
       border-radius: 5px;
-      transition-property: box-shadow transform;
+      box-shadow: 0 0 0 rgba(0, 0, 0, 0.3);
       transition-duration: 250ms;
+      transition-property: box-shadow transform;
     }
 
     &:hover {
@@ -25,15 +25,12 @@
         color: $light-blue;
       }
 
-      .image {
-        filter: none;
-
-        img {
-          transform: translateY(-5px);
-          transition-property: box-shadow transform;
-          transition-duration: 250ms;
-          box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
-        }
+      .image img {
+        box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
+        filter: saturate(100%);
+        transform: translateY(-5px);
+        transition-duration: 250ms;
+        transition-property: box-shadow transform;
       }
     }
   }
@@ -43,10 +40,10 @@
   }
 
   .image {
-    filter: saturate(0%);
     width: 150px;
 
     img {
+      filter: saturate(0%);
       width: 100%;
     }
   }
