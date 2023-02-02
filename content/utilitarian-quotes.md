@@ -74,6 +74,17 @@ _→ [Article on Jeremy Bentham’s life and ideas](/utilitarian-thinker/jeremy-
 
 - The community is a fictitious _body_, composed of the individual persons who are considered as constituting as it were its _members_. The interest of the community then is, what is it?—the sum of the interests of the several members who compose it.[^23]
 
+## William Thompson Quotes
+
+_→ [Article on William Thompson’s life and ideas](/utilitarian-thinker/william-thompson)_
+
+- I conceive, then, that in order to make the noble discoveries of political economy… useful to social science… it is necessary always to keep in view the complicated nature of man… Without constant reference to it, the regulating principle of utility is sacrificed and… the indefinite increase of accumulations of wealth… become worthless objects consigning to the wretchedness of unrequited toil three-fourths or nine-tenths of the human race, that the remaining smaller portion may pine in indolence midst enjoyed profusion.
+
+- The direct operation of wealth is chiefly to afford the means of more extensive pleasures of the senses: it is only indirectly that it operates to increase our moral and intellectual pleasures; and when unequally distributed, and in very large masses, it tends, as will be proved, to eradicate almost entirely these higher moral and intellectual pleasures.
+
+- The only and the simple remedy for the evils arising from these almost universal institutions of the domestic slavery of one half the human race, is utterly to eradicate them. Give men and women equal civil and political rights.
+
+
 ## John Stuart Mill Quotes
 
 _→ [Article on John Stuart Mill’s life and ideas](/utilitarian-thinker/john-stuart-mill)_
