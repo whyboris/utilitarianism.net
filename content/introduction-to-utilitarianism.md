@@ -34,13 +34,13 @@ The core idea of utilitarianism is that we ought to act to improve the well-bein
 
 A more precise definition of utilitarianism is as follows:
 
-> Utilitarianism is the view that one morally ought to promote just the sum total of well-being.[^3]
+> Utilitarianism is the view that one ought always to promote the sum total of well-being.[^3]
 
 Sometimes philosophers talk about “welfare” or “utility” rather than “well-being”, but these words are typically used to mean the same thing.[^4] Utilitarianism is most commonly applied to evaluate the rightness of actions, but the theory can also evaluate other things, like rules, policies, motives, virtues, and social institutions. It is perhaps unfortunate that the clinical-sounding term “utilitarianism” caught on as a name, especially since in common speech the word “utilitarian” is easily confused with joyless functionality or even outright selfishness.
 
 All ethical theories belonging to the utilitarian family share four defining elements: (i) consequentialism, (ii) welfarism, (iii) impartiality, and (iv) aggregationism.
 
-- **Consequentialism** is the view that one morally ought to promote just good outcomes.
+- **Consequentialism** is the view that one ought always to promote good outcomes.
 
 - **Welfarism** is the view that only the _welfare_ (also called _well-being_) of individuals determines the value of an outcome.
 
@@ -64,7 +64,7 @@ Second, classical utilitarianism accepts the [total view of population ethics](/
 
 Classical utilitarianism can be defined as follows:
 
-> **Classical utilitarianism is the view that one morally ought to promote just the sum total of happiness over suffering.**
+> **Classical utilitarianism is the view that one ought always to promote the sum total of happiness over suffering.**
 
 ## Utilitarianism and Practical Ethics
 
