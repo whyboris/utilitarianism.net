@@ -27,7 +27,7 @@ Utilitarianism is not a single viewpoint, but a family of related ethical theori
 
 An accurate and comprehensive definition of utilitarianism will include the four elements. We can thus define utilitarianism as follows:
 
-> **Utilitarianism is the view that one morally ought to promote just the sum total of well-being.**[^1]
+> **Utilitarianism is the view that one ought always to promote the sum total of well-being.**[^1]
 
 Sometimes philosophers talk about “welfare” or “utility” rather than “well-being”, but they typically mean the same thing.
 
@@ -37,7 +37,7 @@ Sometimes philosophers talk about “welfare” or “utility” rather than “
 
 Utilitarianism accepts _[consequentialism](https://plato.stanford.edu/entries/consequentialism/)_, which is defined as follows:
 
-> **Consequentialism is the view that one morally ought to promote just good outcomes.**
+> **Consequentialism is the view that one ought always to promote good outcomes.**
 
 On this view, bringing about good outcomes is all that ultimately matters, from a moral perspective. Thus, to evaluate whether to perform an action, we should look at its overall consequences, rather than any of its other features (such as the _type_ of action that it is). For instance, when breaking a promise has bad consequences—as it usually does—consequentialists oppose it. However, breaking a promise is not considered wrong in itself. In exceptional cases, breaking a promise could be the morally best action available, such as when it is necessary to save a life. The ends in this case justify the means.
 
@@ -95,7 +95,7 @@ Above we have explained the four elements accepted by all utilitarian theories: 
 
 The oldest and most prominent utilitarian theory is classical utilitarianism, which can be defined as follows:
 
-> **Classical utilitarianism is the view that one morally ought to promote just the sum total of happiness over suffering.**
+> **Classical utilitarianism is the view that one ought always to promote the sum total of happiness over suffering.**
 
 Classical utilitarianism can be distinguished from the wider utilitarian family of views because it accepts two additional elements: first, _[hedonism](/theories-of-wellbeing#hedonism)_, the view that well-being consists only of conscious experiences; and second, the _[total view](/population-ethics#the-total-view)_ of population ethics, on which one outcome is better than another if and only if it contains a greater sum total of well-being, where well-being can be increased either by making existing people better off or by creating new people with good lives.
 
@@ -198,7 +198,7 @@ Multi-level utilitarianism takes utilitarianism to be the criterion of moral rig
 
 Insofar as you share the fundamental utilitarian concern with promoting well-being, and you simply worry that deliberate pursuit of this goal would prove counterproductive, this should lead you to accept multi-level utilitarianism rather than any kind of rule utilitarianism.
 
-### Global Utilitarianism Versus Hybrid Utilitarianism
+### Global Utilitarianism and Hybrid Utilitarianism
 
 Most discussions of utilitarianism revolve around act utilitarianism and its criterion of right action. But it is important to appreciate that utilitarians can just as well consider the tendency of other things—like motives, rules, character traits, policies and social institutions—to promote well-being. Since utilitarianism is fundamentally concerned with promoting well-being, we should not merely want to perform those _actions_ that promote well-being. We should also want the motives, rules, traits, policies, institutions, and so on, that promote well-being.
 
@@ -210,13 +210,13 @@ Global utilitarianism assesses the moral nature of, for example, a particular ch
 
 All utilitarians should agree with this much. But there is a further question regarding whether this direct utilitarian evaluation is _exhaustive_ of moral assessment, or whether there is a role for other (albeit less important) kinds of moral evaluation to be made in addition. For example, must utilitarians understand _virtue_ directly as a matter of character traits that tend to promote well-being,[^29] or could they appeal to a looser but more intuitive connection (such as representing a positive orientation towards the good)?[^30]
 
-A challenge for pure global utilitarianism is that it fails to capture all of the moral evaluations that we intuitively want to be able to make. For example, imagine a world in which moral disapproval was reliably counterproductive: if you blamed someone for doing X, that would just make them stubbornly do X even more in future. Since we only want people to do more good acts, would it follow that only good acts, and not bad ones, were blame-_worthy_?
+A challenge for _pure_ global utilitarianism is that it fails to capture all of the moral evaluations that we intuitively want to be able to make. For example, imagine a world in which moral disapproval was reliably counterproductive: if you blamed someone for doing X, that would just make them stubbornly do X even more in future. Since we only want people to do more good acts, would it follow that only good acts, and not bad ones, were blame-_worthy_?
 
-Here it is important to distinguish two claims. One is the direct utilitarian assessment that it would be good to blame people for doing good acts, and not for doing bad ones, since that would yield the best results (in the imagined scenario). But a second—distinct—claim is that only bad acts are truly blame-_worthy_ in the sense of intrinsically _meriting_ moral disapproval.[^31] Importantly, these two claims are compatible. We may hold _both_ that gratuitous torture (for example) warrants moral disapproval, _and_ that it would be a bad idea to express such disapproval (if doing so would just make things worse).
+Here it is important to distinguish two claims. One is the direct utilitarian assessment that it would be good to blame people for doing good acts, and not for doing bad ones, since that would yield the best results (in the imagined scenario). But a second—distinct—claim is that only bad acts are truly blame-_worthy_ in the sense of intrinsically _meriting_ moral disapproval.[^31] Importantly, these two claims are compatible. We may hold _both_ that gratuitous torture (for example) warrants moral disapproval, _and_ that it would be a bad idea to express such disapproval if doing so would just make things worse.
 
 This argument may lead one to endorse a form of _hybrid utilitarianism_, which we may define as follows:
 
-> **Hybrid utilitarianism is the view that, while one morally ought to promote just overall well-being, the moral quality of an aim or intention can depend on factors other than whether it promotes overall well-being.**
+> **Hybrid utilitarianism is the view that, while one ought always to promote overall well-being, the moral quality of an aim or intention can depend on factors other than whether it promotes overall well-being.**
 
 In particular, hybrid utilitarians may understand virtue and praise-worthiness as concerning whether the target individual _intends_ good results, in contrast to global utilitarian evaluation of whether the target’s intentions _produce_ good results. When the two come into conflict, we should prefer to achieve good results than to merely intend them—so in this sense the hybrid utilitarian agrees with much that the global utilitarian wants to say. Hybridists just hold that there is more to say in addition.[^32] For example, if someone is unwittingly anti-reliable at achieving their goals (that is, they reliably achieve the _opposite_ of what they intend, without realizing it), it would clearly be _unfortunate_ were they to sincerely aim at promoting the general good, and we should stop them from having this aim if we can. But their good intentions may be genuinely _virtuous_ and admirable nonetheless.
 
