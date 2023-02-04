@@ -177,6 +177,8 @@ Good luck! And remember to cite your sources.
 - Singer, P. (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. (Download a free ebook or audiobook of the 10th anniversary edition at [www.thelifeyoucansave.org](www.thelifeyoucansave.org).)
 - Miller, R. (2004). [Beneficence, Duty and Distance](https://dx.doi.org/10.1111/j.1088-4963.2004.00018.x). _Philosophy and Public Affairs_, 32(4): 357–383.
 - Timmerman, T. (2015). [Sometimes there is nothing wrong with letting a child drown](https://dx.doi.org/10.1093/analys/anv015). _Analysis_, 75(2): 204–212.
+- Pummer, T. (2023). _[The Rules of Rescue: Cost, Distance, and Effective Altruism](http://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780190884147.pdf)_. Oxford University Press.
+- Unger, P. (1996). _Living High and Letting Die: Our Illusion of Innocence_. Oxford University Press.
 - Sterri, A.B. & Moen, O.M. (2021). [The ethics of emergencies](https://dx.doi.org/10.1007/s11098-020-01566-0). _Philosophical Studies,_ 178 (8): 2621–2634.
 - Kamm, F.M. (1999). Famine Ethics: The Problem of Distance in Morality and Singer’s Ethical Theory, in _Singer and His Critics_, ed. Dale Jamieson, Oxford: Blackwell: 174–203.
 - Slote, M. (2007). Famine, Affluence, and Virtue, in _Working Virtue: Virtue Ethics and Contemporary Moral Problems_, ed. Rebecca L. Walker and Philip J. Ivanhoe, Oxford: Clarendon Press: 279–296.
