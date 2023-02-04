@@ -4,7 +4,6 @@ date: 2023-01-29
 draft: false
 menu: "main"
 weight: 6
-image: "/img/Utilitarianism-Website-Logo.png"
 description: "Utilitarianism has important implications for how we should think about leading an ethical life. Despite giving no intrinsic weight to deontic constraints, it supports many commonsense prohibitions and virtues in practice. Its main practical difference instead lies in its emphasis on positively doing good, in more expansive and efficient ways than people typically prioritize."
 gradientTop: "#089FD1"
 gradientBottom: "#305D9C"

@@ -6,7 +6,6 @@ draft: false
 menu: ["objections"]
 weight: 1
 page: 1
-image: "/img/Utilitarianism-Website-Logo.png"
 description: "Many find it objectionable that utilitarianism seemingly licenses outrageous rights violations in certain hypothetical scenarios, killing innocent people for the greater good. This article explores how utilitarians might best respond."
 gradientTop: "#1F1E70"
 gradientBottom: "#371E87"

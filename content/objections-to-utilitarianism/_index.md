@@ -5,7 +5,6 @@ draft: false
 menu: ["objections", "main"]
 weight: 8
 page: 0
-image: "/img/Utilitarianism-Website-Logo.png"
 description: "This article explains four general strategies for responding to objections to utilitarianism, before introducing the most influential specific objections to the theory."
 gradientTop: "#1F2A70"
 gradientBottom: "#1F1E70"

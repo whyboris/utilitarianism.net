@@ -4,7 +4,6 @@ date: 2023-01-29
 draft: false
 menu: "main"
 weight: 1
-image: "/img/Utilitarianism-Website-Logo.png"
 description: "This chapter introduces utilitarianism, and its major costs and benefits as a moral theory."
 gradientTop: "#0c3b5b"
 gradientBottom: "#236d9f"

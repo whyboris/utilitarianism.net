@@ -4,7 +4,6 @@ date: 2023-01-29
 draft: false
 menu: "acting"
 weight: 5
-image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 > _“Create all the happiness you are able to create; remove all the misery you are able to remove. Every day will allow you, will invite you to add something to the pleasure of others, or to diminish something of their pains.”_ \

@@ -3,7 +3,6 @@ title: "Glossary"
 date: 2023-01-29
 draft: false
 weight: 1
-image: "/img/Utilitarianism-Website-Logo.png"
 ---
 
 This page provides an overview with brief descriptions of key utilitarian terms and relevant links.

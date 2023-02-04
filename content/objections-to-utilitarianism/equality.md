@@ -6,7 +6,6 @@ draft: false
 menu: ["objections"]
 weight: 3
 page: 3
-image: "/img/Utilitarianism-Website-Logo.png"
 description: "Utilitarianism is concerned with the overall well-being of individuals in the population, but many object that justice requires an additional concern for how this well-being is distributed across individuals. This article examines this objection, and how utilitarians might best respond."
 gradientTop: "#571B9E"
 gradientBottom: "#430A4A"

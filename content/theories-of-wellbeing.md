@@ -4,7 +4,6 @@ date: 2023-01-29
 draft: false
 menu: "main"
 weight: 4
-image: "/img/Utilitarianism-Website-Logo.png"
 description: "Explores the three major theories of well-being, or what makes a life good for the individual living it: hedonism, desire theory, and objective list theory."
 gradientTop: "#084BC7"
 gradientBottom: "#1B7CCC"
