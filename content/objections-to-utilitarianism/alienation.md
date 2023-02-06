@@ -4,8 +4,8 @@ date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 6
-page: 6
+weight: 5
+page: 5
 description: "Abstract moral theories threaten to alienate us from much that we hold dear. This article explores two possible defenses of utilitarianism against this charge. One recommends adopting motivations other than explicitly utilitarian ones. The second argues that suitably concrete concerns can be subsumed within broader utilitarian motivations."
 gradientTop: "#822FA8"
 gradientBottom: "#531694"
