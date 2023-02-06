@@ -7,8 +7,8 @@ menu: ["objections"]
 weight: 2
 page: 2
 description: "Critics often allege that utilitarianism objectionably instrumentalizes people—treating us as mere means to the greater good, rather than properly valuing individuals as ends in themselves. In this article, we assess whether this is a fair objection."
-gradientTop: "#430A4A"
-gradientBottom: "#5F3091"
+gradientTop: "#371E87"
+gradientBottom: "#571B9E"
 ---
 
 {{< TOC >}}
