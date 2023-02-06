@@ -33,6 +33,8 @@ build: clean search pdf production zip serve
   node build.js production
   hugo
   node build.js reset
+  # Note: we remove `public/images` because it contains an Ananke theme image
+  rm -rf public/images
   echo ""
   echo "   🚀  Production build finished"
   echo ""

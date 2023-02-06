@@ -53,6 +53,7 @@ You can get in touch with us at contact[at]utilitarianism.net
 {{< endorsement
      link="https://en.wikipedia.org/wiki/Katarzyna_de_Lazari-Radek"
      image="/img/about/Katarzyna-de-Lazari-Radek.jpg"
+     credit="Bartosz Kałużny"
      text="Katarzyna de Lazari-Radek" >}}
 
 “Gaining knowledge has never been as easy as in the era of widespread internet access. Utilitarianism.net is the result of the work and commitment of many great philosophers from around the world. It is a project that helps you to understand one of the most important and interesting ethical theories in an accessible yet not oversimplified way.”
@@ -79,6 +80,7 @@ You can get in touch with us at contact[at]utilitarianism.net
 {{< endorsement
      link="https://petersinger.info/"
      image="/img/about/Peter-Singer-photo-credit-Alletta-Vaandering.jpg"
+     credit="Alletta Vaandering"
      text="Peter Singer" >}}
 
 “Utilitarianism.net is the place to go for clear, full and fair accounts of what utilitarianism is, the arguments for it, the main objections to it, special issues like population ethics, and what living as a utilitarian involves. You will also discover thinkers you never knew about, like the early utilitarian Susanna Newcome. I recommend it to all my students interested in normative ethics.”

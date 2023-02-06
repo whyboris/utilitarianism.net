@@ -1,5 +1,5 @@
 ---
-title: "Acting on Utilitarianism "
+title: "Acting on Utilitarianism"
 date: 2023-01-29
 draft: false
 menu: "acting"

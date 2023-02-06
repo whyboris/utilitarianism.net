@@ -160,6 +160,7 @@ Nevertheless, utilitarianism might approve this process. Even though world emiss
 
 {{< essay-author
      image="/img/authors/John-Broome.jpg"
+     credit="Keiko Ikeuchi"
      text="John Broome" >}}
 
 [John Broome](https://users.ox.ac.uk/~sfop0060/) is Emeritus White’s Professor of Moral Philosophy at the University of Oxford, and an Honorary Professor of the Australian National University. At one time he was Professor of Economics at the University of Bristol. He was a Lead Author of the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. His books include _[Weighing Goods: Equality, Uncertainty and Time](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119451266)_ (1991), _[Counting the Cost of Global Warming](https://users.ox.ac.uk/%7Esfop0060/pdf/Counting%20the%20Cost%20of%20Global%20Warming.pdf)_ (1992), _[Weighing Lives](https://academic.oup.com/book/41659)_ (2004), _[Climate Matters: Ethics in a Warming World](https://wwnorton.com/books/climate-matters/)_ (2012), and _[Rationality Through Reasoning](https://www.wiley.com/en-gb/Rationality+Through+Reasoning-p-9781405117104)_ (2013).

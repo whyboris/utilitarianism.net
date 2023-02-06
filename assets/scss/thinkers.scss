@@ -1,12 +1,12 @@
 .all-thinkers-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
 
   .thinker-container {
     border-radius: 5px;
     display: inline-block;
-    padding: 15px;
+    padding: 10px;
 
     .name {
       color: black;
@@ -66,6 +66,11 @@
 
   img {
     border-radius: 5px;
+  }
+
+  .image-credit {
+    font-size: 12px;
+    transform: translateY(-10px);
   }
 }
 
