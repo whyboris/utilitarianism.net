@@ -12,4 +12,7 @@
     alt="{{ .Get "text" }}"
     title="{{ .Get "text" }}"
   />
+  {{ if .Get "credit" }}
+    <div class="image-credit">Credit: {{ .Get "credit" }}</div>
+  {{ end }}
 </div>
