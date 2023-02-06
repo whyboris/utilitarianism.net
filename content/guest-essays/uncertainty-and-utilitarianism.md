@@ -139,8 +139,6 @@ It is still true, of course, that the approach to moral uncertainty sketched her
 
 {{< two-button >}}
 
-{{< guest-essays true >}}
-
 ## Resources and Further Reading
 
 - Bykvist, Krister (2022). Evaluative uncertainty and population ethics. In G. Arrhenius, K. Bykvist, T. Campbell, & E. Finneron-Burns (Eds.), _Handbook on Population Ethics_. Oxford University Press.
@@ -157,6 +155,8 @@ It is still true, of course, that the approach to moral uncertainty sketched her
 - Weatherson, Brian (2014). [Running risks morally](https://doi.org/10.1007/s11098-013-0227-2). _Philosophical Studies_, 167(1): 141–163.
 - Zimmerman, Michael J. (2014). _Ignorance and moral obligation_. Oxford University Press.
 - Zimmerman, Michael J. (2008). _Living with uncertainty: The moral significance of ignorance_. Cambridge University Press.
+
+{{< guest-essays true >}}
 
 [^1]:
      For book-length treatments of fundamental moral uncertainty, see Lockhart (2000) and MacAskill et al (2020).

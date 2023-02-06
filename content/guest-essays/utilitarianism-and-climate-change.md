@@ -168,8 +168,6 @@ Nevertheless, utilitarianism might approve this process. Even though world emiss
 
 {{< two-button >}}
 
-{{< guest-essays true >}}
-
 ## References
 
 - Barry, Christian, and Garrett Cullity, ‘Offsetting and risk imposition’, _Ethics_, 132 (2022), pp. 352–81.
@@ -184,6 +182,8 @@ Nevertheless, utilitarianism might approve this process. Even though world emiss
 - United Nations, _Framework Agreement on Climate Change_, 1992.
 - United Nations, _Paris Agreement_, 2015.
 - Weitzman, Martin L., ‘On modeling and interpreting the economics of catastrophic climate change’, _Review of Economics and Statistics_, 91 (2009), pp. 1–19.
+
+{{< guest-essays true >}}
 
 [^1]: Many of these points and others are set out in more detail in Marc Fleurbaey _et al_, ‘The social cost of carbon’.
 [^2]: This claim is not uncontroversial, particularly because it seems plausible that we should be risk-averse about well-being. But it is supported by the axioms of expected utility theory, combined with other arguments set out in my _Weighing Goods_, chapter 10.

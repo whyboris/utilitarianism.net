@@ -161,8 +161,6 @@ This article disputes a common view of research ethics as being fundamentally an
 
 {{< two-button >}}
 
-{{< guest-essays true >}}
-
 ## References
 
 - Buchanan Allen E., and Dan W. Brock. 1990. _Deciding for Others; The Ethics of Surrogate Decision Making_. Cambridge: Cambridge University Press.
@@ -208,6 +206,8 @@ This article disputes a common view of research ethics as being fundamentally an
 - Walen, Alec. 2020. "Using, Risking, and Consent: Why Risking Harm to Bystanders is Morally Different from Risking Harm to Research Subjects." _Bioethics_.
 - Wertheimer, Alan. 2014. "(Why) should we require consent to participation in research?" _Journal of Law and the Biosciences_, 1(2): 137–182. doi: 10.1093/jlb/lsu008.
 - Whitney, S. N., and C. E. Schneider. 2011. "Viewpoint: a method to estimate the cost in lives of ethics board review of biomedical research." _Journal of Internal Medicine_, 269(4): 396–402. doi: 10.1111/j.1365-2796.2011.02351_2.x.
+
+{{< guest-essays true >}}
 
 [^1]: For excellent comments, I am grateful to Richard Chappell, Dan Hausman, and Darius Meissner.
 [^2]: Jonas (1969, 237); Rothman (1987); see also Donagan (1977, 325).

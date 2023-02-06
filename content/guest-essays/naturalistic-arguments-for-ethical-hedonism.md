@@ -200,8 +200,6 @@ Empirical observation reveals objective and universal moral value existing withi
 
 {{< two-button >}}
 
-{{< guest-essays true >}}
-
 ## Further Reading
 
 - Railton, Peter (1989). Naturalism and prescriptivity. _Social Philosophy and Policy_, 7(1): 151–174.
@@ -211,6 +209,8 @@ Empirical observation reveals objective and universal moral value existing withi
 - Sinhababu, Neil (forthcoming). Pleasure is goodness; morality is universal. _Ethical Theory and Moral Practice_.
 
 - Sinhababu, Neil (forthcoming). The epistemic argument for hedonism. In Chakraborty (ed.), _Human Minds and Cultures_. Routledge.
+
+{{< guest-essays true >}}
 
 [^1]: Bentham, Jeremy (1780). _An Introduction to the Principles of Morals and Legislation_. Dover Publications. Rawlette, Sharon (2016). _The Feeling of Value_. CreateSpace Independent Publishing Platform, California.
 [^2]: Sinhababu, Neil (forthcoming). The epistemic argument for hedonism. In Chakraborty (ed.), _Human Minds and Cultures_. Routledge. Sinhababu, Neil (draft). The reliable route from nonmoral evidence to moral conclusions.

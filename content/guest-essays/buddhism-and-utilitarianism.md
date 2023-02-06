@@ -147,8 +147,6 @@ I believe that Buddhism and utilitarianism are both committed to in-principle su
 
 {{< two-button >}}
 
-{{< guest-essays true >}}
-
 ## References
 
 - Baker, Calvin. 2022. “Buddhism and Effective Altruism.” In _Effective Altruism: Synergies, Tension, Dialogue_, ed. Dominic Roser, Stefan Riedener and Markus Huppenbauer, 17–45. Baden-Baden: Nomos.
@@ -228,6 +226,8 @@ I believe that Buddhism and utilitarianism are both committed to in-principle su
 - Westerhoff, Jan. 2017. “Buddhism without Reincarnation? Examining the Prospects of a ‘Naturalized’ Buddhism.” In _A Mirror is for Reflection: Understanding Buddhist Ethics_, ed. Jake H. Davis, 146–65. New York: Oxford University Press.
 
 - Wilkinson, Hayden. 2021. “Infinite Aggregation: Expanded Edition.” _Philosophical Studies_, 178: 1917–1949.
+
+{{< guest-essays true >}}
 
 [^1]: I am grateful to Richard Yetter Chappell, Jonathan Gold, and Darius Meissner for helpful comments on earlier drafts of this article.
 [^2]: Though, it is important not to conflate contemporary Theravāda Buddhism with Early Buddhism as it was practiced during the life of the historical Buddha (ca. 6th/5th centuries BCE) and the centuries afterwards.

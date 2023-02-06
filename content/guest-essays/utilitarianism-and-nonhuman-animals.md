@@ -125,8 +125,6 @@ We are only at the start of asking such questions, but the answers will be impor
 
 {{< two-button >}}
 
-{{< guest-essays true >}}
-
 ## Resources and Further Reading
 
 - Driver, Julia (2012). _Consequentialism_. Routledge.
@@ -135,6 +133,7 @@ We are only at the start of asking such questions, but the answers will be impor
 - Singer, Peter (1975/2009). _Animal Liberation: updated edition_. HarperCollins Publishers.
 - Woollard, Fiona (2021). [‘Utilitarianism for animals: deontology for people’ and the doing/allowing distinction](https://doi.org/10.1007/s11098-021-01745-7). _Philosophical Studies_.
 
+{{< guest-essays true >}}
 
 [^1]: Bentham, J. (1789).[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.)., p. 143
 [^2]: Singer, P. (2002).[Preface, Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>). New York: HarperCollins Publishers., p. 13
