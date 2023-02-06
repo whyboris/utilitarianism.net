@@ -6,7 +6,7 @@ draft: false
 menu: ["objections"]
 weight: 7
 page: 7
-description: "It is usually thought that certain relationships, like parenthood or guardianship, give rise to special obligations to protect those who fall under our care. If utilitarianism denied this, for example by recommending that parents neglect their own children in order to save a larger number of strangers, that might seem to count seriously against the theory. This article explores how utilitarians might best respond."
+description: "Relationships like parenthood or guardianship seemingly give rise to special obligations to protect those who fall under our care (where these obligations are more stringent than our general duties of beneficence towards strangers). This article explores the extent to which a fundamentally impartial theory like utilitarianism can accommodate these intuitions and normative practices."
 gradientTop: "#531694"
 gradientBottom: "#260380"
 ---
