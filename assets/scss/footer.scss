@@ -35,9 +35,11 @@
     border: 0;
 
     ol {
-      transform: translate(-16px, -16px);
+      margin-block-start: 0;
+      margin-block-end: 0;
+
       ul {
-        transform: translate(-16px, 0);
+        padding-inline-start: 16px;
       }
     }
 
@@ -47,7 +49,7 @@
     }
 
     .small-left-padding {
-      padding-inline-start: 20px;
+      padding-inline-start: 10px;
     }
 
     .large-gap {
