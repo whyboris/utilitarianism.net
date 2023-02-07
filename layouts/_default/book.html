@@ -7,8 +7,8 @@
                                              {{ .Params.gradientBottom }} 100%);"
   >
     <h1 class="title" data-pagefind-meta="title">{{ .Params.book }}</h1>
-    <span class="author">{{ .Params.author }}</span>
-    <span class="year">{{ .Params.year }}</span>
+    {{ if .Params.author }}<span class="author">{{ .Params.author }}</span>{{ end }}
+    {{ if .Params.year }}<span class="year">{{ .Params.year }}</span>{{ end }}
   </div>
 
   <div class="article-body">

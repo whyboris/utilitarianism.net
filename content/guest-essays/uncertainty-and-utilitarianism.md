@@ -1,7 +1,6 @@
 ---
 title: "Uncertainty and Utilitarianism"
 book: "Uncertainty and Utilitarianism"
-year: "2023"
 date: 2023-01-29
 author: "Krister Bykvist"
 draft: false

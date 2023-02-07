@@ -1,7 +1,6 @@
 ---
 title: "Analytic Hedonism and Observable Moral Facts"
 book: "Analytic Hedonism and Observable Moral Facts: A Précis of The Feeling of Value"
-year: "2022"
 date: 2023-01-29
 author: Sharon Hewitt Rawlette
 draft: false

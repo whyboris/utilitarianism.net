@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to Utilitarianism"
 book: "An Introduction to Utilitarianism"
-year: " "
+year: " " # hack so `single.html` displays properly
 author: "Richard Yetter Chappell, Darius Meissner, and William MacAskill"
 date: 2023-01-29
 ---
