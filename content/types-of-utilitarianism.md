@@ -233,7 +233,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 
 {{< next-page-textbook title="Arguments for Utilitarianism" url="/arguments-for-utilitarianism" >}}
 
-{{< how-to-cite >}}
+{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
 
 {{< button >}}
 

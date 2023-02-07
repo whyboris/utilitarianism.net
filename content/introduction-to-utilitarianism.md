@@ -168,7 +168,7 @@ The next chapter discusses the four elements of utilitarian theories in greater 
 
 ---
 
-{{< how-to-cite >}}
+{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
 
 {{< button >}}
 
