@@ -66,30 +66,30 @@
     -moz-transition: max-height 0.3s;
     -o-transition: max-height 0.3s;
     transition: max-height 0.3s;
-  }
 
-  nav ul {
-    margin: 0;
-    padding-bottom: 10px;
-    padding: 0;
-  }
+    ul {
+      margin: 0;
+      padding-bottom: 10px;
+      padding: 0;
 
-  nav li {
-    display: block;
-    padding-left: 40px;
-  }
+      li:last-child {
+        padding-bottom: 12px;
+      }
+    }
 
-  ul li:last-child {
-    padding-bottom: 12px;
-  }
+    li {
+      display: block;
+      padding-left: 42px;
+    }
 
-  nav a {
-    padding: 10px;
-    // width: 100%;
-    display: inline-block;
+    a {
+      padding: 10px;
+      // width: 100%;
+      display: inline-block;
 
-    span {
-      font-size: 10px;
+      span {
+        font-size: 10px;
+      }
     }
   }
 
@@ -99,6 +99,38 @@
 
   #nav:checked ~ nav {
     max-height: 200vh; /* This can be anything bigger than your nav height. The transition duration works with this */
+  }
+
+  // Section for nested links inside mobile navigation
+  details {
+    border: 0;
+
+    summary {
+      padding: 10px;
+      font-weight: initial;
+
+      .icon {
+        height: 16px;
+        margin-left: 8px;
+        margin-top: 3px;
+        min-height: 16px;
+        min-width: 16px;
+        width: 16px;
+      }
+    }
+
+    li {
+      padding-left: 20px;
+    }
+
+    li:last-child {
+      padding-bottom: 0 !important;
+    }
+  }
+
+  details[open] summary {
+    color: initial;
+    background-color: initial;
   }
 
   @media only screen and (min-width: $breakpoint-tablet) {
