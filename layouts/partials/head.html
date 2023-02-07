@@ -5,7 +5,6 @@
   {{ block "title" . }}
     {{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}
   {{ end }}
-
 </title>
 
 <meta name="viewport" content="width=device-width,minimum-scale=1" />
@@ -15,19 +14,10 @@
   content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"
 />
 
-{{ if .Params.Keywords }}
-  <meta
-    name="keywords"
-    content="{{ if .Params.Keywords }}
-      {{ delimit .Params.Keywords ", " }}
-    {{ end }}"
-  />
-{{ else }}
-  <meta
-    name="keywords"
-    content="utilitarianism, unilitarian, consequentialism"
-  />
-{{ end }}
+<meta
+  name="keywords"
+  content="utilitarianism, unilitarian, consequentialism, utility"
+/>
 
 {{ hugo.Generator }}
 
@@ -37,15 +27,12 @@
   <meta name="robots" content="noindex, nofollow" />
 {{ end }}
 
-{{ partial "site-style.html" . }}
-
-{{ partial "site-scripts.html" . }}
-
 {{ block "favicon" . }}
   {{ partialCached "site-favicon.html" . }}
 {{ end }}
 
-{{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/gohugoio/hugo/tree/master/tpl/tplimpl/embedded/templates */}}
+{{/* NOTE: These Hugo Internal Templates can be found here:
+           https://github.com/gohugoio/hugo/tree/master/tpl/tplimpl/embedded/templates */}}
 {{- template "_internal/opengraph.html" . -}}
 {{- template "_internal/schema.html" . -}}
 {{- template "_internal/twitter_cards.html" . -}}

@@ -1,22 +1,5 @@
-{{/* REMOVE ALL THEME STYLES FROM THE `ANANKE` THEME */}}
+{{/* This file is here to remove all theme styles from the `Ananke` theme */}}
 
 {{ $main_style := dict }}
-
-{{ $assets_to_concat := slice }}
-
-{{ with $assets_to_concat }}
-
-  {{ $style := . | resources.Concat "ananke/css/main.css" }}
-
-  {{ $options := dict "enableSourceMap" true "precision" 6 }}
-  {{ $style = $style | resources.ToCSS $options | minify }}
-
-  {{ if eq (getenv "HUGO_ENV") "production" }}
-    {{ $style = $style | fingerprint }}
-  {{ end }}
-
-  {{ $main_style = $style }}
-
-{{ end }}
 
 {{ return $main_style }}
