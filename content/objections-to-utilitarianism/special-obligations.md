@@ -4,11 +4,11 @@ date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 7
-page: 7
-description: "It is usually thought that certain relationships, like parenthood or guardianship, give rise to special obligations to protect those who fall under our care. If utilitarianism denied this, for example by recommending that parents neglect their own children in order to save a larger number of strangers, that might seem to count seriously against the theory. This article explores how utilitarians might best respond."
-gradientTop: "#531694"
-gradientBottom: "#260380"
+weight: 6
+page: 6
+description: "Relationships like parenthood or guardianship seemingly give rise to special obligations to protect those who fall under our care (where these obligations are more stringent than our general duties of beneficence towards strangers). This article explores the extent to which impartial utilitarianism can accommodate intuitions and normative practices of partiality."
+gradientTop: "#822FA8"
+gradientBottom: "#531694"
 ---
 
 {{< TOC >}}
@@ -59,13 +59,13 @@ We have seen that utilitarianism supports many forms of partiality in practice, 
 
 Against those who insist upon partiality at a fundamental theoretical level, utilitarians may respond that their intuitions are ill-founded, and that their resulting view is troublingly unprincipled (and even self-defeating). If we start to think of (fundamental) impartiality as the moral default, and partiality as something that stands in need of special justification, then utilitarianism may look to be on much firmer footing.
 
-{{< next-page-objection hide-next="true" end-objection="true" >}}
+{{< next-page-objection >}}
 
 {{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 
 {{< button >}}
 
-### Resources and Further Reading
+## Resources and Further Reading
 
 - Goodin, R. (1988). [What Is So Special about Our Fellow Countrymen?](https://doi.org/10.1086/292998) _Ethics_, 98(4): 663–686.
 - Jackson, F. (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.

@@ -4,11 +4,11 @@ date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 3
-page: 3
+weight: 7
+page: 7
 description: "Utilitarianism is concerned with the overall well-being of individuals in the population, but many object that justice requires an additional concern for how this well-being is distributed across individuals. This article examines this objection, and how utilitarians might best respond."
-gradientTop: "#571B9E"
-gradientBottom: "#430A4A"
+gradientTop: "#531694"
+gradientBottom: "#260380"
 ---
 
 {{< TOC >}}
@@ -67,7 +67,7 @@ This objection has been developed formally by the economist John Harsanyi, who p
 
 Finally, proponents of utilitarianism may once again “bite the bullet” and simply accept that utilitarianism sometimes conflicts with our intuitions about equality. These conflicts occur because the outcomes favored by utilitarianism are those with the highest possible levels of overall well-being, which do not always coincide with the most egalitarian outcomes. Utilitarians will insist that it's better for people overall to be better-off (even if these benefits are not distributed equally) than for them all to share equally in a lower level of well-being.
 
-{{< next-page-objection >}}
+{{< next-page-objection hide-next="true" end-objection="true" >}}
 
 {{< how-to-cite >}}
 

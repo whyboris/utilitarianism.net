@@ -4,11 +4,11 @@ date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 6
-page: 6
-description: "Utilitarianism's strict impartiality threatens to alienate us from much that we hold dear. This article explores how defenders of the view might best address such concerns. The sophisticated utilitarian strategy recommends adopting motivations other than explicitly utilitarian ones. The subsumption strategy instead argues that direct concern for particular goods or individuals can be subsumed within straightforwardly utilitarian motivations. By suitably combining the two, utilitarians may be able to offer a full response to the alienation objection."
-gradientTop: "#822FA8"
-gradientBottom: "#531694"
+weight: 5
+page: 5
+description: "Abstract moral theories threaten to alienate us from much that we hold dear. This article explores two possible defenses of utilitarianism against this charge. One recommends adopting motivations other than explicitly utilitarian ones. The second argues that suitably concrete concerns can be subsumed within broader utilitarian motivations."
+gradientTop: "#5F3091"
+gradientBottom: "#822FA8"
 ---
 
 {{< TOC >}}
@@ -63,7 +63,7 @@ It would be deeply alienating for a moral theory to invalidate the overwhelming 
 
 {{< button >}}
 
-### Resources and Further Reading
+## Resources and Further Reading
 
 - Chappell, R.Y. (2021). [The Right Wrong-Makers](https://philpapers.org/rec/CHATRW-3). _Philosophy and Phenomenological Research_, 103(2): 426–440.
 - Maguire, B. & Baker, C. (2020). [The Alienation Objection to Consequentialism](https://philpapers.org/rec/MAGTAO-6), in D. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press.

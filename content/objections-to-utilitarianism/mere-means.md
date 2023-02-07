@@ -4,11 +4,11 @@ date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 4
-page: 4
+weight: 2
+page: 2
 description: "Critics often allege that utilitarianism objectionably instrumentalizes people—treating us as mere means to the greater good, rather than properly valuing individuals as ends in themselves. In this article, we assess whether this is a fair objection."
-gradientTop: "#430A4A"
-gradientBottom: "#5F3091"
+gradientTop: "#371E87"
+gradientBottom: "#571B9E"
 ---
 
 {{< TOC >}}
@@ -71,7 +71,7 @@ But there may be other, closely related, objections that people sometimes have i
 
 {{< button >}}
 
-Resources and Further Reading
+## Resources and Further Reading
 
 - Derek Parfit (2011). _On What Matters: Vol 1_. Oxford University Press. Chapter 9: Merely as a Means.
 - Samuel Kerstein (2019). [Treating Persons as Means](https://plato.stanford.edu/archives/sum2019/entries/persons-means/), _The Stanford Encyclopedia of Philosophy_ (Summer 2019 Edition), Edward N. Zalta (ed.).

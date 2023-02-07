@@ -1,7 +1,6 @@
 ---
 title: "Utilitarianism and Research Ethics"
 book: "Utilitarianism and Research Ethics"
-year: "2022"
 date: 2023-01-29
 author: Nir Eyal
 draft: false
