@@ -6,8 +6,10 @@
   border-radius: 5px;
 
   span {
-    font-weight: bold;
     color: $dark-blue;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
   }
 
   h2 {

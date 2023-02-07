@@ -44,10 +44,10 @@ Bentham also applied the principle of utility to the reform of political institu
 
 ## Prominent Quotes of Jeremy Bentham
 
-- “[T]he dictates of utility are just the dictates of the most extensive and enlightened—i.e.well-advised—benevolence”. ([An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf), 1789, p. 68)
-- “The principle of utility judges any action to be right by the tendency it appears to have to augment or diminish the happiness of the party whose interests are in question.” ([An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf), 1789)
+- “[T]he dictates of utility are just the dictates of the most extensive and enlightened—i.e.well-advised—benevolence”.[^7]
+- “The principle of utility judges any action to be right by the tendency it appears to have to augment or diminish the happiness of the party whose interests are in question.”[^8]
 - “Create all the happiness you are able to create: remove all the misery you are able to remove. Every day will allow you to add something to the pleasure of others, or to diminish something of their pains.” (Bentham’s advice to a young girl, 1830)
-- “The day may come when the non-human part of the animal creation will acquire the rights that never could have been withheld from them except by the hand of tyranny. The French have already discovered that the blackness of the skin is no reason why a human being should be abandoned without redress to the whims of a tormentor. Perhaps it will some day be recognised that the number of legs, the hairiness of the skin, or the possession of a tail, are equally insufficient reasons for abandoning to the same fate a creature that can feel? What else could be used to draw the line? Is it the faculty of reason or the possession of language? But a full-grown horse or dog is incomparably more rational and conversable than an infant of a day, or a week, or even a month old. Even if that were not so, what difference would that make? The question is not Can they reason? Or Can they talk? but Can they suffer.” ([An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf), 1789, p. 144)
+- “The day may come when the non-human part of the animal creation will acquire the rights that never could have been withheld from them except by the hand of tyranny. The French have already discovered that the blackness of the skin is no reason why a human being should be abandoned without redress to the whims of a tormentor. Perhaps it will some day be recognised that the number of legs, the hairiness of the skin, or the possession of a tail, are equally insufficient reasons for abandoning to the same fate a creature that can feel? What else could be used to draw the line? Is it the faculty of reason or the possession of language? But a full-grown horse or dog is incomparably more rational and conversable than an infant of a day, or a week, or even a month old. Even if that were not so, what difference would that make? The question is not Can they reason? Or Can they talk? but Can they suffer.”[^9]
 
 {{< all-thinkers >}}
 
@@ -62,3 +62,6 @@ Bentham also applied the principle of utility to the reform of political institu
 [^6]:
     Cf. Bentham, J. (1821). On the Liberty of the Press, and Public Discussion.
     and Crimmins, J. E. (2019). [Jeremy Bentham](https://plato.stanford.edu/entries/bentham/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
+[^7]: [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf), 1789, p. 68
+[^8]: [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf), 1789
+[^9]: [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf), 1789, p. 144

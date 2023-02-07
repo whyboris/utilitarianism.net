@@ -22,10 +22,11 @@
   }
 
   .footer-heading {
-    font-weight: bold;
-    font-size: 18px;
-    transform: translate(-10px, -10px);
     display: block;
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 14px;
+    transform: translate(-10px, 0px);
   }
 
   .temp-navigation-hack {

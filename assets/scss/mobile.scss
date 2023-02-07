@@ -14,6 +14,22 @@
       max-width: 100%;
       font-size: 22px;
     }
+
+    .author {
+      margin-top: 16px;
+      font-size: 16px;
+    }
+  }
+
+  .title-and-description {
+    h2 {
+      padding-top: 18px;
+      padding-bottom: 12px;
+    }
+
+    p {
+      padding-bottom: 12px;
+    }
   }
 
   .mobile-header {
