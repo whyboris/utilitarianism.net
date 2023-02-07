@@ -1,10 +1,11 @@
 <div class="book">
-  <a href="{{ .Get "link" }}">
-    <div class="book-overlay"></div>
-    <img
-      src="{{ .Get "image" }}"
-      alt="{{ .Get "text" }}"
-      title="{{ .Get "text" }}"
-    />
-  </a>
+  <!-- class `book-overlay` adds a gradient making the image look like a hardcover book -->
+  <div class="book-overlay"></div>
+  <!-- class `clickable` makes the whole div clickable -->
+  <a href="{{ .Get "link" }}"><span class="clickable"></span></a>
+  <img
+    src="{{ .Get "image" }}"
+    alt="{{ .Get "text" }}"
+    title="{{ .Get "text" }}"
+  />
 </div>

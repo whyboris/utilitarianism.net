@@ -134,10 +134,9 @@ h1 {
 }
 
 .books {
-  display: grid;
-  grid-template-columns: 260px 260px 260px;
-  // grid-template-rows: 80px auto 80px;
   column-gap: 30px;
+  display: flex;
+  flex-wrap: wrap;
   row-gap: 30px;
 
   .book {
@@ -146,6 +145,19 @@ h1 {
     overflow: hidden;
     position: relative;
     width: 260px;
+
+    img {
+      display: block;
+    }
+
+    .clickable {
+      height:100%;
+      left: 0;
+      position:absolute; 
+      top:0;
+      width:100%;
+      z-index: 1;
+    }
 
     .book-overlay {
       background: linear-gradient(90deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.3) 1%, rgba(255,255,255,.4) 2%, rgba(255, 255, 255, 0.5) 4%, rgba(0,0,0,.3) 6%, rgba(255,255,255,.4) 10%, rgba(255,255,255,0) 100%);
