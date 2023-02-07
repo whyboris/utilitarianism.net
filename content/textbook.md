@@ -6,7 +6,7 @@ author: "Richard Yetter Chappell, Darius Meissner, and William MacAskill"
 date: 2023-01-29
 ---
 
-Below is an online textbook that aims to provide a concise, accessible, and engaging introduction to modern utilitarianism, targeted at a university undergraduate level.
+This is an online textbook aiming to provide a concise, accessible, and engaging introduction to modern utilitarianism, targeted at the undergraduate level.
 
 For a high-school level introduction, see [Utilitarianism: Simply Explained](/utilitarianism-for-high-school-students/).
 
