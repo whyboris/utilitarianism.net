@@ -108,6 +108,15 @@
     summary {
       padding: 10px;
       font-weight: initial;
+
+      .icon {
+        height: 16px;
+        margin-left: 8px;
+        margin-top: 3px;
+        min-height: 16px;
+        min-width: 16px;
+        width: 16px;
+      }
     }
 
     li {
