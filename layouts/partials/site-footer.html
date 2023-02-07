@@ -3,7 +3,7 @@
     <div class="temp-navigation-hack">
       <span class="footer-heading">Core Articles</span>
 
-      <ol>
+      <ol class="small-left-padding">
         {{ range first 8 .Site.Menus.main.Sort.ByWeight }}
           <li>
             <a href="{{ .URL }}">{{ .Title }}</a>
@@ -37,12 +37,19 @@
       <a href="/utilitarian-thinkers">Utilitarian Thinkers</a>
       <a href="/glossary">Utilitarian Glossary</a>
       <a href="/books">Utilitarian Books</a>
+      <a href="/about">About Us</a>
+
+      <span class="footer-heading large-gap">Study Guides</span>
+
+      <a href="/peter-singer-famine-affluence-and-morality"
+        >Singer’s ‘Famine, Affluence, and Morality’</a
+      >
+
       <a href="/utilitarianism-for-high-school-students"
         >Utilitarianism: Simply Explained</a
       >
-      <a href="/about">About Us</a>
 
-      <span class="footer-heading">Guest Essays</span>
+      <span class="footer-heading large-gap">Guest Essays</span>
 
       {{ range first 10 .Site.Menus.guest.Sort.ByWeight }}
         <a href="{{ .URL }}">
@@ -52,11 +59,6 @@
         </a>
       {{ end }}
 
-      <span class="footer-heading">Study Guides</span>
-
-      <a href="/peter-singer-famine-affluence-and-morality"
-        >Singer’s ‘Famine, Affluence, and Morality’</a
-      >
     </div>
   </div>
 

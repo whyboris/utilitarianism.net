@@ -22,10 +22,12 @@
   }
 
   .footer-heading {
+    color: $search-highlight-blue;
     display: block;
     font-size: 18px;
     font-weight: bold;
     padding-top: 14px;
+    pointer-events: none;
     transform: translate(-10px, 0px);
   }
 
@@ -33,15 +35,25 @@
     border: 0;
 
     ol {
-      transform: translate(-16px, -16px);
+      margin-block-start: 0;
+      margin-block-end: 0;
+
       ul {
-        transform: translate(-16px, 0);
+        padding-inline-start: 16px;
       }
     }
 
     a {
       margin-left: 6px;
       color: white;
+    }
+
+    .small-left-padding {
+      padding-inline-start: 10px;
+    }
+
+    .large-gap {
+      margin-top: 36px;
     }
   }
 }

@@ -65,7 +65,15 @@
       display: block;
 
       .footer-heading {
-        transform: translate(4px, -4px);
+        transform: translate(0, 0);
+      }
+
+      .small-left-padding {
+        padding-inline-start: 20px;
+      }
+
+      .large-gap {
+        margin-top: 16px;
       }
     }
   }
