@@ -1,7 +1,6 @@
 ---
 title: "Utilitarianism and Nonhuman Animals"
 book: "Utilitarianism and Nonhuman Animals"
-year: "2022"
 date: 2023-01-29
 author: Jeff Sebo
 draft: false
