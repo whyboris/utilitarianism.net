@@ -47,11 +47,11 @@ Mill’s own thought departed from Bentham’s in his conception of happiness. B
 
 ## Prominent Quotes of John Stuart Mill
 
-- “I regard utility as the ultimate appeal on all ethical questions; but it must be utility in the largest sense, grounded on the permanent interests of man as a progressive being.” ([On Liberty](/books/on-liberty-john-stuart-mill/1), 1859)
-- “The happiness which forms the utilitarian standard of what is right in conduct, is not the agent's own happiness, but that of all concerned. As between his own happiness and that of others, utilitarianism requires him to be as strictly impartial as a disinterested and benevolent spectator.” ([Utilitarianism](/books/utilitarianism-john-stuart-mill/2), 1863)
-- “The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others. His own good, either physical or moral, is not a sufficient warrant.” ([On Liberty](/books/on-liberty-john-stuart-mill/1), 1859)
-- “It is better to be a human dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied. And if the fool, or the pig, is of a different opinion, it is because they only know their own side of the question. The other party to the comparison knows both sides.” ([Utilitarianism](/books/utilitarianism-john-stuart-mill/2), 1863)
-- “What, in unenlightened societies, colour, race, religion, or in the case of a conquered country, nationality, are to some men, sex is to all women; a peremptory exclusion from almost all honourable occupations, but either such as cannot be fulfilled by others, or such as those others do not think worthy of their acceptance.” ([The Subjection of Women](/books/the-subjection-of-women-john-stuart-mill/4), 1869)
+- “I regard utility as the ultimate appeal on all ethical questions; but it must be utility in the largest sense, grounded on the permanent interests of man as a progressive being.”[^7]
+- “The happiness which forms the utilitarian standard of what is right in conduct, is not the agent's own happiness, but that of all concerned. As between his own happiness and that of others, utilitarianism requires him to be as strictly impartial as a disinterested and benevolent spectator.”[^8]
+- “The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others. His own good, either physical or moral, is not a sufficient warrant.”[^9]
+- “It is better to be a human dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied. And if the fool, or the pig, is of a different opinion, it is because they only know their own side of the question. The other party to the comparison knows both sides.”[^10]
+- “What, in unenlightened societies, colour, race, religion, or in the case of a conquered country, nationality, are to some men, sex is to all women; a peremptory exclusion from almost all honourable occupations, but either such as cannot be fulfilled by others, or such as those others do not think worthy of their acceptance.”[^11]
 
 {{< all-thinkers >}}
 
@@ -61,3 +61,8 @@ Mill’s own thought departed from Bentham’s in his conception of happiness. B
 [^4]: The UK Parliament, [The 1866 Women's Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
 [^5]: Cf. Reeves, R. (2007). _John Stuart Mill: Victorian Firebrand_. London: Atlantic Books.
 [^6]: Cf. Mill, J. S (1859). _[On Liberty](/books/on-liberty-john-stuart-mill/1)_.
+[^7]: [On Liberty](/books/on-liberty-john-stuart-mill/1), 1859
+[^8]: [Utilitarianism](/books/utilitarianism-john-stuart-mill/2), 1863
+[^9]: [On Liberty](/books/on-liberty-john-stuart-mill/1), 1859
+[^10]: [Utilitarianism](/books/utilitarianism-john-stuart-mill/2), 1863
+[^11]: [The Subjection of Women](/books/the-subjection-of-women-john-stuart-mill/4), 1869

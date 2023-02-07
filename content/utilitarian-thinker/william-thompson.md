@@ -92,11 +92,9 @@ Pankhurst, R. (1991). _William Thompson: Pioneer Socialist_. Pluto Press: Chicag
 
 ## Prominent William Thompson Quotes
 
-“I conceive, then, that in order to make the noble discoveries of political economy…useful to social science…it is necessary always to keep in view the complicated nature of man…Without constant reference to it, the regulating principle of utility is sacrificed and…the indefinite increase of accumulations of wealth…become worthless objects consigning to the wretchedness of unrequited toil three-fourths or nine-tenths of the human race, that the remaining smaller portion may pine in indolence midst enjoyed profusion.” (Inquiry)
-
-“The direct operation of wealth is chiefly to afford the means of more extensive pleasures of the senses: it is only indirectly that it operates to increase our moral and intellectual pleasures; and when unequally distributed, and in very large masses, it tends, as will be proved, to eradicate almost entirely these higher moral and intellectual pleasures.” (Inquiry)
-
-“The only and the simple remedy for the evils arising from these almost universal institutions of the domestic slavery of one half the human race, is utterly to eradicate them. Give men and women equal civil and political rights.” (Inquiry)
+- “I conceive, then, that in order to make the noble discoveries of political economy…useful to social science…it is necessary always to keep in view the complicated nature of man…Without constant reference to it, the regulating principle of utility is sacrificed and…the indefinite increase of accumulations of wealth…become worthless objects consigning to the wretchedness of unrequited toil three-fourths or nine-tenths of the human race, that the remaining smaller portion may pine in indolence midst enjoyed profusion.”[^7]
+- “The direct operation of wealth is chiefly to afford the means of more extensive pleasures of the senses: it is only indirectly that it operates to increase our moral and intellectual pleasures; and when unequally distributed, and in very large masses, it tends, as will be proved, to eradicate almost entirely these higher moral and intellectual pleasures.”[^8]
+- “The only and the simple remedy for the evils arising from these almost universal institutions of the domestic slavery of one half the human race, is utterly to eradicate them. Give men and women equal civil and political rights.”[^9]
 
 {{< essay-author
      image="/img/authors/James-Goodrich.jpg"
@@ -123,3 +121,7 @@ Pankhurst, R. (1991). _William Thompson: Pioneer Socialist_. Pluto Press: Chicag
 
 [^6]:
      What are we to make of Thompson’s influence on Marx? Given Marx’s citations of Thompson and use of Thompson’s phrase “surplus value” to explain a remarkably similar phenomenon, it’s hard to deny that Thompson had some influence on Marx. However, Menger’s accusation of plagiarism is unconvincing. First, the lack of citation in _Capital_ should not impress contemporary readers. Citation practices at the time weren’t the same as they are now. Thompson could be accused of plagiarism for insufficient citations of Bentham, James Mills, and others by our contemporary standards. Second, the three volumes of _Capital_ go well beyond Marx’s theory of exploitation, exploring a multitude of issues Thompson never discusses. Similarly, many of the concerns raised by Thompson in _Inquiry_ are not addressed in _Capital_. Third, Thompson’s critique of the system of individual competition is thoroughly moral, rooted in his conception of social science as integrating utilitarianism with political economy. He did desire to make his critique more scientific than others, but he had no ambition to rid it of moral content. Marx’s theory of exploitation, however, was at least intended to lack moral content. And, fourth, there’s Thompson’s utilitarian reasoning itself. _Inquiry_ is unmistakably shot-through with utilitarian reasoning. And, as previously mentioned, at the time of writing _Capital_, Marx had little sympathy for the utilitarian tradition, starting instead from his complex and original synthesis of Hegelian and materialist philosophy. That Marx was influenced to some degree by Thompson, as well as many others, seems undeniable; that this impugns Marx’s work in any way is specious.
+
+[^7]: _Inquiry_
+[^8]: _Inquiry_
+[^9]: _Inquiry_

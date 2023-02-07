@@ -45,7 +45,7 @@ In separate articles, we discuss the following critiques of utilitarianism:
 
 {{< next-page-objection hide-other="true" >}}
 
-{{< how-to-cite >}}
+{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y. (2022)." >}}
 
 {{< button >}}
 

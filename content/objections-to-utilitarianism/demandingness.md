@@ -67,7 +67,7 @@ Finally, proponents of utilitarianism may simply “bite the bullet” and accep
 
 {{< next-page-objection >}}
 
-{{< how-to-cite >}}
+{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
 
 {{< button >}}
 

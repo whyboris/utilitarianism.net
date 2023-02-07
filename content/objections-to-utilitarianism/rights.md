@@ -65,7 +65,7 @@ Of course, it's important to stress that real life comes with no such stipulatio
 
 {{< next-page-objection >}}
 
-{{< how-to-cite >}}
+{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
 
 {{< button >}}
 
