@@ -22,10 +22,12 @@
   }
 
   .footer-heading {
+    color: $search-highlight-blue;
     display: block;
     font-size: 18px;
     font-weight: bold;
     padding-top: 14px;
+    pointer-events: none;
     transform: translate(-10px, 0px);
   }
 
@@ -42,6 +44,14 @@
     a {
       margin-left: 6px;
       color: white;
+    }
+
+    .small-left-padding {
+      padding-inline-start: 20px;
+    }
+
+    .large-gap {
+      margin-top: 36px;
     }
   }
 }
