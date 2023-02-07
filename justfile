@@ -31,7 +31,7 @@ build: clean search pdf production zip serve
 
 @production:
   node build.js production
-  hugo
+  hugo --minify
   node build.js reset
   # Note: we remove `public/images` because it contains an Ananke theme image
   rm -rf public/images
