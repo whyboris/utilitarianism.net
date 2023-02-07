@@ -1,0 +1,7 @@
+User-agent: *
+{{ if .Site.Params.production }}
+Allow: /
+Sitemap: {{.Site.BaseURL}}/sitemap.xml
+{{ else }}
+Disallow: /
+{{ end }}
