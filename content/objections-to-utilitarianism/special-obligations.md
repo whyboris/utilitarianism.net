@@ -65,7 +65,7 @@ Against those who insist upon partiality at a fundamental theoretical level, uti
 
 {{< button >}}
 
-### Resources and Further Reading
+## Resources and Further Reading
 
 - Goodin, R. (1988). [What Is So Special about Our Fellow Countrymen?](https://doi.org/10.1086/292998) _Ethics_, 98(4): 663–686.
 - Jackson, F. (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.

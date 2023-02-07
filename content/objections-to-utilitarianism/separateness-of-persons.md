@@ -105,7 +105,7 @@ We have seen that the “separateness of persons” objection to utilitarianism 
 
 {{< button >}}
 
-### Resources and Further Reading
+## Resources and Further Reading
 
 - Brink, D. (2020). [Consequentialism, the Separateness of Persons, and Aggregation](https://www.doi.org/10.1093/oxfordhb/9780190905323.013.14). In Douglas W. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press.
 - Chappell, R.Y. (2021). _[Parfit’s Ethics](https://philpapers.org/rec/CHAPE-5)_, section 3.2. Cambridge University Press. (Note that Chappell is a co-author of this website.)
