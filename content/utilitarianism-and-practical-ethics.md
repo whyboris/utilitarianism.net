@@ -173,7 +173,7 @@ The next chapter discusses important rival theories that may overlap significant
 [^10]:
     Singer, P. (2002). _[Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>)_. New York: HarperCollins Publishers., p. 9
     Indeed, there is psychological evidence suggesting that speciesism goes hand in hand with other discriminatory attitudes like racism, sexim and homophobia: Cf.
-    Caviola, L; Everett, J. A. C. & Faber, N. S. (2017). [The Moral Standing of Animals: Towards a Psychology of Speciesism](http://www.jimaceverett.com/wp-content/uploads/2017/12/Caviola-Everett-and-Faber-2018-Speciesism-JPSP-Pre-Print.pdf). \_Journal of Personality and Social Psychology_. 116(6): 1011–1029.
+    Caviola, L; Everett, J. A. C. & Faber, N. S. (2017). [The Moral Standing of Animals: Towards a Psychology of Speciesism](http://www.jimaceverett.com/wp-content/uploads/2017/12/Caviola-Everett-and-Faber-2018-Speciesism-JPSP-Pre-Print.pdf). _Journal of Personality and Social Psychology_. 116(6): 1011–1029.
 
 [^11]: For instance, see the [Cambridge Declaration on Consciousness](https://en.wikipedia.org/wiki/Animal_consciousness#Cambridge_Declaration_on_Consciousness) from Low, P. et al. (2012)
 [^12]: Ray, G. (2017). [How Many Wild Animals Are There?](https://was-research.org/writing-by-others/many-wild-animals/). _Wild Animal Suffering Research_.
