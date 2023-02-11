@@ -9,12 +9,10 @@
     {{ block "all-head" . }}{{ partial "head.html" . }}{{ end }}
 
     {{ block "head-extra" . }}{{ partial "head-extra.html" . }}{{ end }}
-
   </head>
 
   <body>
     {{ block "header" . }}{{ partial "page-header.html" . }}{{ end }}
-
 
     <script>
       window.addEventListener("DOMContentLoaded", (event) => {
@@ -27,7 +25,6 @@
     </main>
 
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
-
 
     <div
       class="scroll-to-top"
