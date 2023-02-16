@@ -150,7 +150,7 @@ This sample illustrates how helpful the penal code manuscripts are in understand
      image="/img/authors/Steve-Sverdlik.jpg"
      text="Steve Sverdlik" >}}
 
-**Steve Sverdlik** taught philosophy at Southern Methodist University in Dallas. He writes about the philosophy of criminal law and its history. His Bentham’s Introduction to the Principles of Morals and Legislation: A Guide (Oxford University Press) will appear in 2023.
+**Steve Sverdlik** taught philosophy at Southern Methodist University in Dallas. He writes about the philosophy of criminal law and its history. His _[Bentham’s Introduction to the Principles of Morals and Legislation: A Guide](https://global.oup.com/academic/product/benthams-an-introduction-to-the-principles-of-morals-and-legislation-9780190089900)_ (Oxford University Press) will appear in 2023.
 
 ---
 
@@ -160,7 +160,7 @@ This sample illustrates how helpful the penal code manuscripts are in understand
 
 {{< guest-essays true >}}
 
-[^1]: I give more detail in my forthcoming book: _Bentham’s Introduction to the Principles of Morals and Legislation: A Guide_ (Oxford University Press).
+[^1]: I give more detail in my forthcoming book: _[Bentham’s Introduction to the Principles of Morals and Legislation: A Guide](https://global.oup.com/academic/product/benthams-an-introduction-to-the-principles-of-morals-and-legislation-9780190089900)_ (Oxford University Press).
 [^2]: An excellent study of hedonism is Fred Feldman, _Pleasure and the Good Life_, Oxford: Oxford University Press, 2004.
 [^3]: _The Rationale of Punishment_. In _The Works of Jeremy Bentham_. Edited by John Bowring. Edinburgh: William Tait, 1838-43. Vol. 1, p. 398.
 [^4]: Mark Kleiman, _When Brute Force Fails_, Princeton: Princeton University Press, 2009. P. 30.
