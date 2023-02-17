@@ -25,7 +25,7 @@ First time:
 
 - install [Node](https://nodejs.org/en/)
 - install [just](https://github.com/casey/just)
-- run `npm install`
+- run `npm install`[^1]
 
 Any time after:
 
@@ -50,14 +50,18 @@ See [instructions/README.md](instructions/README.md) for more useful information
 A huge **thank you** to the numerous creators and contributors that make building new things possible, easier, _and_ a pleasure.
 
 **Thank you** to the libraries without which our website would not be possible or would be less than it is now:
+
 - [hugo](https://github.com/gohugoio/hugo) for building the website HTML
 - [pagefind](https://pagefind.app) for generating the search index
 - [website2pdf](https://github.com/jgazeau/website2pdf) for generating PDFs
 
 **Thank you** to supporting libraries that make the process of building better:
+
 - [just](https://github.com/casey/just) for handle building scripts
 - [fdir](https://github.com/thecodrr/fdir) for the fastest way to crawl a directory
 - [bestzip](https://github.com/nfriedly/node-bestzip) for zipping the finished files into one
 - [serve](https://github.com/vercel/serve) for previewing the final build
 
 This is not a complete list, there are too many others to list 🙇‍♂️
+
+[^1]: If you see a Pagefind [Error: tar xvf exited with 128](https://github.com/CloudCannon/pagefind/issues/66#issuecomment-1237313541) try using _Powershell_
