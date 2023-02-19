@@ -11,7 +11,6 @@ If you're new to coding, see the [detailed instructions](instructions/README.md#
 First time:
 
 - Install [Hugo](https://gohugo.io/getting-started/installing/) (current version is `0.109.0` _extended edition_)
-- Run `git submodule update --init` to download the themes submodule
 
 Any time after:
 
@@ -50,11 +49,14 @@ See [instructions/README.md](instructions/README.md) for more useful information
 A huge **thank you** to the numerous creators and contributors that make building new things possible, easier, _and_ a pleasure.
 
 **Thank you** to the libraries without which our website would not be possible or would be less than it is now:
+
 - [hugo](https://github.com/gohugoio/hugo) for building the website HTML
 - [pagefind](https://pagefind.app) for generating the search index
 - [website2pdf](https://github.com/jgazeau/website2pdf) for generating PDFs
 
 **Thank you** to supporting libraries that make the process of building better:
+
+- [theme/ananke](https://github.com/theNewDynamic/gohugo-theme-ananke) for helping set up this Hugo project
 - [just](https://github.com/casey/just) for handle building scripts
 - [fdir](https://github.com/thecodrr/fdir) for the fastest way to crawl a directory
 - [bestzip](https://github.com/nfriedly/node-bestzip) for zipping the finished files into one

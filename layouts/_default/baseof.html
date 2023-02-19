@@ -1,10 +1,5 @@
 <!DOCTYPE html>
-<html
-  lang="{{ site.LanguageCode | default "en" }}"
-  {{- with partialCached "func/GetLanguageDirection" "GetLanguageDirection" }}
-    dir="{{ . }}"
-  {{- end }}
->
+<html lang="en">
   <head>
     {{ block "all-head" . }}{{ partial "head.html" . }}{{ end }}
 
