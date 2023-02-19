@@ -24,7 +24,7 @@ First time:
 
 - install [Node](https://nodejs.org/en/)
 - install [just](https://github.com/casey/just)
-- run `npm install`
+- run `npm install`[^1]
 
 Any time after:
 
@@ -63,3 +63,5 @@ A huge **thank you** to the numerous creators and contributors that make buildin
 - [serve](https://github.com/vercel/serve) for previewing the final build
 
 This is not a complete list, there are too many others to list 🙇‍♂️
+
+[^1]: If you see a Pagefind [Error: tar xvf exited with 128](https://github.com/CloudCannon/pagefind/issues/66#issuecomment-1237313541) try using _Powershell_

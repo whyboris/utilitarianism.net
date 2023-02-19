@@ -68,7 +68,7 @@ _Only once:_
 
 1. Install [Node](https://nodejs.org/en/)
 2. enter the project folder with your terminal
-3. run `npm install`
+3. run `npm install`[^1]
 
 _Every time after:_
 
@@ -142,3 +142,5 @@ When you run the `npm run build` script, under the hood we'll use `just` to exec
 See `justfile` for details; notice it uses `build.js` to do some of its bidding.
 
 Once the build is finished, you'll get a link in your terminal (to `http://localhost:3000`) which will be a local preview of the finished website. Please spot-check it to make sure it functions as expected (for example: search works & PDFs exist).
+
+[^1]: If you see an error while Pagefind is being installed, something like [Error: tar xvf exited with 128](https://github.com/CloudCannon/pagefind/issues/66#issuecomment-1237313541) try using _Powershell_ when running `npm install`
