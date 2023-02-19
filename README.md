@@ -11,7 +11,6 @@ If you're new to coding, see the [detailed instructions](instructions/README.md#
 First time:
 
 - Install [Hugo](https://gohugo.io/getting-started/installing/) (current version is `0.109.0` _extended edition_)
-- Run `git submodule update --init` to download the themes submodule
 
 Any time after:
 
@@ -57,6 +56,7 @@ A huge **thank you** to the numerous creators and contributors that make buildin
 
 **Thank you** to supporting libraries that make the process of building better:
 
+- [theme/ananke](https://github.com/theNewDynamic/gohugo-theme-ananke) for helping set up this Hugo project
 - [just](https://github.com/casey/just) for handle building scripts
 - [fdir](https://github.com/thecodrr/fdir) for the fastest way to crawl a directory
 - [bestzip](https://github.com/nfriedly/node-bestzip) for zipping the finished files into one

@@ -149,6 +149,13 @@ h1 {
     font-size: 1vw; // hack to make the box-shadow stay proportional on screen resize
     box-shadow: 0.3em 1em 1.5em rgba(0, 0, 0, 0.3);
 
+    transition-property: transform;
+    transition-duration: 500ms;
+
+    &:hover {
+      transform: scale(1.05)
+    }
+
     img {
       display: block;
     }

@@ -49,7 +49,6 @@ _Please read:_ **Terminal** is a tool you use to make your computer execute comm
       - you can also use the _tab_ key on your keyboard to auto-complete a folder name
    - _clone_ this repository by running `git clone https://github.com/whyboris/utilitarianism.net.git`
    - enter the folder: `cd utilitarianism.net`
-   - install submodules: `git submodule update --init`
 
 ### Developing
 
