@@ -2,7 +2,6 @@ baseURL = "https://utilitarianism.net/"
 googleAnalytics = "G-91NYS1B7E1"
 title = "Utilitarianism"
 languageCode = "en-us"
-theme = ["ananke"]
 disableKinds = ["taxonomy", "taxonomyTerm"]
 enableRobotsTXT = true
 [markup]
