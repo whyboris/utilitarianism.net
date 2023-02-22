@@ -62,7 +62,12 @@
     padding-top: 20px;
 
     .footer-navigation {
-      display: block;
+      flex-direction: column;
+
+      .temp-navigation-hack {
+        margin-left: auto;
+        margin-right: auto;
+      }
 
       .footer-heading {
         transform: translate(0, 0);
