@@ -3,6 +3,8 @@ run:
 
 build: clean search pdf production zip serve
 
+nopdf: clean search production zip serve
+
 @clean:
   rm -rf public
   echo ""
