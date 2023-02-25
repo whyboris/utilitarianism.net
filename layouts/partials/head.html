@@ -27,6 +27,8 @@
   <meta name="robots" content="noindex, nofollow" />
 {{ end }}
 
+<link rel="canonical" href="{{ .Permalink }}" />
+
 {{ block "favicon" . }}
   {{ partialCached "site-favicon.html" . }}
 {{ end }}
