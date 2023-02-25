@@ -173,12 +173,12 @@ The resulting view, while theoretically complex, seems less susceptible to sever
 
 All of the theories discussed above—the total view, the average view, variable value theories, and critical level and range theories—are _impersonal theories_.[^43]
 
-|                                    **Impersonal theories**                                     | **Value function (value of a particular state of the world)** |
-| :--------------------------------------------------------------------------------------------: | :-----------------------------------------------------------: |
-|                                           Total view                                           |                          **N \* Q**                           |
-|                                          Average view                                          |                             **Q**                             |
-|                                     Variable value theory                                      |                         **f(N) \* Q**                         |
-| Critical level theory<span style="text-align: initial; font-family: Merriweather">[^44]</span> |                       **N \* (Q - α)**                        |
+|   **Impersonal theories**    | **Value function (value of a particular state of the world)** |
+| :--------------------------: | :-----------------------------------------------------------: |
+|          Total view          |                          **N \* Q**                           |
+|         Average view         |                             **Q**                             |
+|    Variable value theory     |                         **f(N) \* Q**                         |
+|  Critical level theory[^44]  |                       **N \* (Q - α)**                        |
 
 > **N** = number of persons; **Q** = average well-being level; **α** = critical level; **f()** = strictly increasing and strictly concave function with a horizontal asymptote
 
