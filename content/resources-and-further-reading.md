@@ -19,8 +19,9 @@ Resources for [Introduction to Utilitarianism](/introduction-to-utilitarianism):
 ### Introduction
 
 - [Utilitarianism: Crash Course Philosophy #36](https://youtu.be/-a739VjqdSI)
-- Peter Singer & Katarzyna de Lazari-Radek (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford: Oxford University Press.
+- Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford: Oxford University Press.
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. London: Continuum.
+- Kwame Anthony Appiah. [What is Utiiltarianism?](https://www.youtube.com/watch?v=wd_peZ-zNwo), Royal Institute of Philosophy _15-Minute Masterclass_.
 
 ### The Classics
 
