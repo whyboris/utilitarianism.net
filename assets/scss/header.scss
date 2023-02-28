@@ -6,6 +6,7 @@
   justify-content: space-between;
   max-width: 850px;
   margin: 0 auto;
+  height: 72px;
 
   .nudge-down {
     transform: translate(0, 10px);
@@ -16,11 +17,12 @@
   }
 
   .logo {
-    width: 200px;
     margin: 20px;
+    width: 200px;
 
     img {
       max-width: 100%;
+      width: 200px;
     }
   }
 

@@ -10,6 +10,7 @@
     position: absolute;
     width: 100%;
     z-index: 20;
+    height: 60px;
   }
 
   &::after {
@@ -46,8 +47,8 @@
 
   .logo {
     float: left;
-    width: 200px;
     margin: 14px;
+    width: 200px;
 
     a {
       padding: 0;
