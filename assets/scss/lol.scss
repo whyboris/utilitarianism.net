@@ -2,7 +2,7 @@
 
 $breakpoint-tablet: 850px;
 
-// @import "font"; <-- disabled on purpose, we now load it in <head>
+@import "font";
 @import "colors";
 @import "header";
 @import "homepage";
