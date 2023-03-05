@@ -24,6 +24,7 @@
     "fdir": "6.0.1",
     "kill-port": "2.0.1",
     "pagefind": "0.11.0",
+    "pdf-merger-js": "4.2.1",
     "prettier": "2.8.4",
     "prettier-plugin-go-template": "0.0.13",
     "serve": "14.2.0",
