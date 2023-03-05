@@ -227,7 +227,7 @@ The next chapter discusses the four elements of utilitarian theories in greater 
     For instance, Bentham commented on the issue of animal protection: “_the question is not, Can they reason? nor, Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being? The time will come when humanity will extend its mantle over everything which breathes. We have begun by attending to the condition of slaves; we shall finish by softening that of all the animals which assist our labors or supply our wants._”
     Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.)., pp. 143-144
 
-[^16]: Cf. Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.).; and Campos Boralevi, L. (2012).[Bentham and the Oppressed](https://books.google.com/books?id=BccgAAAAQBAJ&pg=PA37). Berlin: De Gruyter.
+[^16]: Cf. Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.).; and Campos Boralevi, L. (2012). [Bentham and the Oppressed](https://books.google.com/books?id=BccgAAAAQBAJ&pg=PA37). Berlin: De Gruyter.
 [^17]: The UK Parliament, [The 1866 Women's Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
 [^18]:
     Mill attributes many of the ideas in _The Subjection of Women_ to his wife, Harriet Taylor Mill. See
