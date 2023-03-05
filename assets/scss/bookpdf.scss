@@ -1,0 +1,60 @@
+.article-body {
+  font-size: 14px;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: initial;
+  margin-top: 36px;
+}
+
+h3 {
+  font-size: 16px;
+  font-weight: initial;
+  margin-top: 32px;
+}
+
+.book-header {
+  background: none !important;
+
+  h1 {
+    color: black;
+  }
+}
+
+a {
+  color: black !important;
+  text-decoration: none;
+}
+
+hr,
+.callout,
+.citation,
+.objections-buttons-container,
+.table-of-contents {
+  display: none;
+}
+
+.footnote-backref {
+  display: none;
+}
+
+sup {
+  vertical-align: baseline;
+  position: relative;
+  top: -6px;
+}
+
+#resources-and-further-reading {
+  page-break-before: always;
+}
+
+.footnotes {
+  &::before {
+    content: "Footnotes";
+    font-size: 16px;
+  }
+
+  page-break-before: always;
+  font-size: 12px;
+}
