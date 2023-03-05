@@ -27,9 +27,11 @@ if (!flag) {
   const allFalse = setAllFalse(tomlString);
   const flagEnabled = allFalse.replace(flag + " = false", flag + " = true");
   writeTomlString(flagEnabled);
+} else if (flag === "bookpdf") {
+  enableBookPDFSCSS();
 } else {
   console.log(
-    "ERROR - you can only pass in 'search', 'pdf', 'pdfreset', 'production', 'reset', or 'zip'"
+    "ERROR - you can only pass in 'search', 'pdf', 'bookpdf', 'pdfreset', 'production', 'reset', or 'zip'"
   );
 }
 
@@ -56,11 +58,25 @@ function enablePDFSCSS() {
   }
 }
 
+function enableBookPDFSCSS() {
+  const scssFileString = fs.readFileSync(CSS_PATH, "utf-8");
+  const pdfEnabled = scssFileString.replace(
+    "\n// @import 'bookpdf';",
+    "\n@import 'bookpdf';"
+  );
+  if (scssFileString !== pdfEnabled) {
+    fs.writeFileSync(CSS_PATH, pdfEnabled, "utf-8");
+  }
+}
+
 function disablePDFSCSS() {
   const scssFileString = fs.readFileSync(CSS_PATH, "utf-8");
   const pdfDisabled = scssFileString.replace(
     "\n@import 'pdf';",
     "\n// @import 'pdf';"
+  ).replace(
+    "\n@import 'bookpdf';",
+    "\n// @import 'bookpdf';"
   );
   if (scssFileString !== pdfDisabled) {
     fs.writeFileSync(CSS_PATH, pdfDisabled, "utf-8");
