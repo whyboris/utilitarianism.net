@@ -55,6 +55,7 @@ nopdf: clean search production zip serve
 
 @book:
   node build.js pdf
+  node build.js bookpdf
   hugo serve & sleep 2
   npm run book-pdf
   node build.js pdfreset
