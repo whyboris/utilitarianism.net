@@ -1,29 +1,25 @@
+{{ $objections := first 7 .Site.Menus.objections.Sort.ByWeight }}
+
 <footer class="site-footer" role="contentinfo">
   <div class="footer-navigation">
     <div class="temp-navigation-hack">
       <span class="footer-heading">Core Articles</span>
 
       <ol class="small-left-padding">
-        {{ range first 8 .Site.Menus.main.Sort.ByWeight }}
+        {{ range $index, $element := .Site.Menus.main.Sort.ByWeight }}
           <li>
             <a href="{{ .URL }}">{{ .Title }}</a>
-          </li>
-        {{ end }}
 
-        {{/* After "Objections" article list all the Objection articles */}}
-        <ul>
-          {{ with .Site.Menus.objections.Sort.ByWeight }}
-            {{ range first 7 . }}
-              <li>
-                <a href="{{ .URL }}">{{ .Title }}</a>
-              </li>
+            {{ if eq $index 7 }}
+              <ul>
+                {{ range $objections }}
+                  <li>
+                    <a href="{{ .URL }}">{{ .Title }}</a>
+                  </li>
+                {{ end }}
+              </ul>
             {{ end }}
-          {{ end }}
-        </ul>
 
-        {{ range last 1 .Site.Menus.main.Sort.ByWeight }}
-          <li>
-            <a href="{{ .URL }}">{{ .Title }}</a>
           </li>
         {{ end }}
       </ol>
