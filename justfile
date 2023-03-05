@@ -52,3 +52,14 @@ nopdf: clean search production zip serve
   echo "   🔎  Preview the final website:"
   echo ""
   npm run public
+
+@book:
+  node build.js pdf
+  hugo serve & sleep 2
+  npm run book-pdf
+  node build.js pdfreset
+  node build.js reset
+  npm run kill-hugo
+  echo ""
+  echo "   🚀  Book PDF generation finished"
+  echo ""
