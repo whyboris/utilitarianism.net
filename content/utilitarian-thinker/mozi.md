@@ -36,7 +36,7 @@ The Mohists are also the first to introduce a sophisticated version of conceptua
 
 ## Resources on Mò Dí’s Life and Work
 
-- Fraser, C. (2015).[Mohism](https://plato.stanford.edu/entries/sidgwick/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
+- Fraser, C. (2015). [Mohism](https://plato.stanford.edu/entries/sidgwick/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
 - Fraser, C. (2016). _The Philosophy of the Mòzǐ_: _The First Consequentialists._ New York: Columbia University Press.
 - Loy, H. C. [Mozi](https://www.iep.utm.edu/mozi/). _The Internet Encyclopedia of Philosophy_.
 
