@@ -46,13 +46,15 @@ sup {
   top: -6px;
 }
 
-#resources-and-further-reading {
-  page-break-before: always;
+#resources-and-further-reading,
+#resources-and-further-reading ~ ul,
+#resources-and-further-reading ~ h3 {
+  display: none;
 }
 
 .footnotes {
   &::before {
-    content: "Footnotes";
+    content: "Notes";
     font-size: 16px;
   }
 
