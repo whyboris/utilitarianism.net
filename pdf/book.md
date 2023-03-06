@@ -1,5 +1,9 @@
 # Book PDF generation
 
+To build a print version PDF of the book, run `just book` in your terminal!
+
+## Details
+
 To grab the list of chapters in their proper order, open the `/textbook` URL and run this in the console:
 
 ```js
