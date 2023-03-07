@@ -195,7 +195,7 @@ The next chapter discusses important rival theories that may overlap significant
 [^9]: Cf. MacAskill, W. (2015). _[Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Penguin Random House. Chapter 1. Note that Professor William MacAskill, coauthor of this website, is the author of _Doing Good Better_.
 [^10]:
     Singer, P. (2002). _[Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>)_. New York: HarperCollins Publishers., p. 9
-    Indeed, there is psychological evidence suggesting that speciesism goes hand in hand with other discriminatory attitudes like racism, sexim and homophobia: Cf.
+    Indeed, there is psychological evidence suggesting that speciesism goes hand in hand with other discriminatory attitudes like racism, sexism, and homophobia: Cf.
     Caviola, L; Everett, J. A. C. & Faber, N. S. (2017). [The Moral Standing of Animals: Towards a Psychology of Speciesism](http://www.jimaceverett.com/wp-content/uploads/2017/12/Caviola-Everett-and-Faber-2018-Speciesism-JPSP-Pre-Print.pdf). _Journal of Personality and Social Psychology_. 116(6): 1011–1029.
 
 [^11]: For instance, see the [Cambridge Declaration on Consciousness](https://en.wikipedia.org/wiki/Animal_consciousness#Cambridge_Declaration_on_Consciousness) from Low, P. et al. (2012)
