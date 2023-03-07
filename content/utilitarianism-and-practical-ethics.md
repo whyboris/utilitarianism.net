@@ -109,7 +109,23 @@ We discuss the implications of longtermism for ethical action in the article [Ac
 
 ## Respecting Commonsense Moral Norms
 
-In [Chapter 2: Elements and Types of Utilitarianism](/types-of-utilitarianism), we discuss the crucial distinction between the utilitarian criterion of rightness and the utilitarian decision procedure. Even though, in idealized thought experiments, utilitarianism would claim that one must violate commonsense moral prohibitions against lying or killing, in practice these situations are extremely rare. Also, these commonsense moral prohibitions have often evolved to help ensure smooth functioning of society; violating them often involves many subtle harms, such as erosion of trust. A good utilitarian would therefore generally do better in practice by acting in accordance with commonsense moral virtues like integrity, trustworthiness, law-abidingness, and fairness and not trying to assess each action on utilitarian terms case by case. They should still try to do the most good they can, but only while respecting these commonsense moral rules and virtues.
+Sometimes people mistake utilitarianism as claiming that _one ought always to explicitly calculate the expected value of each possible action, and do whatever act scores highest._ Utilitarianism does _not_ in fact recommend adopting this “naïve utilitarian” decision procedure.[^21]
+
+Instead, as a [multi-level theory](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism), utilitarianism specifies moral goals—criteria for objectively judging the moral merits of an action, given all the relevant factual details[^22]—but leaves open the question of what kind of _decision procedure_ we should try to follow in practice. After all, it's an open empirical question how best to actually achieve the specified moral goals.
+
+Utilitarianism implies that we should use whatever decision procedure would best help us to promote overall well-being (in expectation). While we cannot be certain what decision procedure satisfies this criterion, we can offer some educated guesses. As psychologists Stefan Schubert and Lucius Caviola argue in [Virtues for Real-World Utilitarians](/guest-essays/virtues-for-real-world-utilitarians), we may best promote overall well-being by combining (i) commonsense virtues and constraints with (ii) ambitiously pursuing robustly good [actions that effectively help others](/acting-on-utilitarianism).
+
+It is widely recognized that humans are not reliable at calculating utilities,[^23] especially when they conflict with generally-reliable rules and heuristics (such as those prohibiting harm to others). As a result, we cannot take rule-violating expected value calculations at face value. Even if you've calculated that it would somehow serve the greater good to murder your rival, you should be very skeptical that this is true. After all, if you don't really believe that it would overall be best for others (similarly situated) to do likewise, then you must believe that most calculations favoring murder have actually gone awry. So, if you've no special (symmetry-breaking) evidence establishing that you, in particular, are the rare exception to this rule, then you must conclude that your own murderous calculations have most likely gone awry.[^24] Thus, absent special evidence, you should conclude that your rule-breaking actually has lower expected value, despite your initial calculation to the contrary.
+
+We can be most confident that our actions have positive expected value when we instead seek to help others in ways that are supported by good evidence and minimize downside risk.[^25] Over the long run, we should expect honest, cooperative altruism to do more good than ruthless scheming for the “greater good”, because (i) historically, ruthless schemers often do more harm than good, (ii) people rightly don't trust ruthless schemers, and (iii) in a complex world, it's difficult to get much done without others' trust and cooperation. If that's right, then honest cooperative altruism systematically has _higher expected value_ than ruthless scheming, and should be preferred by utilitarians.
+
+In summary, utilitarianism does _not_ tell us to constantly calculate utilities and blindly follow whatever our calculations recommend. That would be predictably counter-productive, which is contrary to the pragmatic spirit of the theory. Instead, utilitarianism recommends decision-procedures based on their expected value. When we are uncertain, we should be guided by whatever decision procedure can most reasonably (in light of everything we know about human biases and cognitive limitations) be expected to yield better outcomes. This means following _heuristics_ or generally-reliable rules of thumb.
+
+As a very rough first pass, a plausible utilitarian decision-procedure might direct us to:[^26]
+
+1. Pursue any “low-hanging fruit” for [effectively helping others](/acting-on-utilitarianism) while avoiding harm,
+2. Inculcate [virtues for real-world utilitarians](/guest-essays/virtues-for-real-world-utilitarians) (including respect for commonsense moral norms), and
+3. In a calm moment, reflect on how we could better prioritize and allocate our moral efforts, including by seeking out expert cost-benefit analyses and other evidence to better inform our overall judgments of expected value.[^27]
 
 ## Conclusion
 
@@ -125,7 +141,7 @@ The next chapter discusses important rival theories that may overlap significant
 
 {{< next-page-textbook title="Near-Utilitarian Alternatives" url="/near-utilitarian-alternatives" >}}
 
-{{< how-to-cite authors="MacAskill, W. and Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 
@@ -161,6 +177,13 @@ The next chapter discusses important rival theories that may overlap significant
 - Nick Beckstead (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM)_. PhD Dissertation, Rutgers University.
 - Nick Bostrom (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://drive.google.com/open?id=0B4kMPIEI5Mb8WTJGckNSNG5seWs). _Utilitas_. 15(3): 308–314.
 
+### Respecting Commonsense Moral Norms
+
+- Allan Gibbard (1984). [Utilitarianism and Human Rights](https://doi.org/10.1017/s0265052500003897). _Social Philosophy and Policy_, 1(2): 92–102.
+- R.M. Hare (1981). _[Moral Thinking](https://philpapers.org/rec/HARMTI)_. Oxford University Press.
+- J.L. Mackie (1985). Rights, Utility, and Universalization. In R.G. Frey (ed.) _Utility and Rights_. Basil Blackwell.
+- Philip Pettit & Geoffrey Brennan (1986). [Restrictive Consequentialism](https://doi.org/10.1080/00048408612342631). _Australasian Journal of Philosophy_, 64(4): 438–455.
+
 [^1]: Sidgwick, H. (1981). _The Methods of Ethics_. Hackett Publishing. Book IV, p. 414
 [^2]: For a discussion of demandingness in the context of global poverty alleviation, see Singer, P. (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. New York: Penguin Random House LLC.
 [^3]: GiveWell (2019). [Your dollar goes further overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
@@ -193,3 +216,22 @@ The next chapter discusses important rival theories that may overlap significant
 [^18]: For a detailed discussion of existential risks and the moral importance of the long-run future of humanity, see Ord, T. (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
 [^19]: For a classic paper on the importance of reducing existential risk, see Bostrom, N. (2013).[ Existential Risk Prevention as Global Priority](http://www.existential-risk.org/concept.pdf). _Global Policy_. **4** (1): 15–3.
 [^20]: Note that Professor William MacAskill, coauthor of this website, is also a coauthor of this paper.
+[^21]: As [chapter 2 explains](https://www.utilitarianism.net/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism): "[T]o our knowledge no one has ever defended single-level utilitarianism [i.e., using the utilitarian criterion as a universal decision procedure], including the classical utilitarians. Deliberately calculating the expected consequences of our actions is error-prone and risks falling into decision paralysis."
+
+[^22]:
+     Such details might simply be stipulated in a hypothetical example. In real life cases, our uncertainty about relevant factual details should generally carry over to make us similarly uncertain about our moral verdicts and evaluations.
+
+[^23]:
+     See, e.g., Mackie (1985). Rights, Utility, and Universalization. In R.G. Frey (ed.) _Utility and Rights_. Basil Blackwell.
+
+[^24]:
+     In particular, you can't take at face value your inclination to think that there are special reasons in your case, if you believe that most people in subjectively similar situations are mistaken in taking themselves to have such special reasons. Symmetry-breaking evidence is evidence that _distinctively_ establishes your reliability in comparison to others with similar (but, in their case, misguided) beliefs. Note that such symmetry-breaking evidence is very hard to come by!
+
+[^25]:
+     That's not to say that we should strictly optimize for _confidence_ in positive expected value: Something that's _certainly barely-good_ in expectation may be less worth pursuing than something that is _almost _certainly high EV even if there's a slight risk that you've overlooked something that would mean the action is actually mildly negative in expectation. Such uncertainty could still result in higher "all things considered" expected value, in principle. The point is just that grounds for doubting a positive verdict from our initial EV calculations should rationally lead us to assign lower (and in some cases, even _negative_) expected value to that option, all things considered. And in practice, it seems that we should often have strong priors that rights-violating actions are net-negative, which a rough and broadly unreliable calculation should not suffice to overturn.
+
+[^26]:
+     These claims are not, strictly speaking, built into utilitarianism as a fundamental moral theory. Rather, we are speculating about the further question of _what decision-procedure has the highest expected value in typical circumstances_. (Note that, in principle, the answer may differ for different individuals in different circumstances. Nothing in utilitarianism requires uniformity, if that would not be for the best.)
+
+[^27]:
+     This might (but need not) include performing some “back of the envelope” calculations of expected value. Even then, to truly maximize expected value, these naive calculations must be tempered by constraints against ruthless scheming, given our prior judgment that the latter is most likely counterproductive. That is, if we calculate a slightly higher explicit “expected value” for one act than another, but the former involves egregious norm-breaking, we should probably conclude that the latter (safer) option is _actually_ better in expectation.
