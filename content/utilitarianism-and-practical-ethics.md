@@ -141,7 +141,7 @@ The next chapter discusses important rival theories that may overlap significant
 
 {{< next-page-textbook title="Near-Utilitarian Alternatives" url="/near-utilitarian-alternatives" >}}
 
-{{< how-to-cite >}}
+{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
 
 {{< button >}}
 
