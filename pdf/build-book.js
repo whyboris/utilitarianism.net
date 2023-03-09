@@ -25,6 +25,8 @@ var merger = new PDFMerger();
   await merger.add(public_pdf + "The_Alienation_Objection_utilitarianism_net.pdf");
   await merger.add(public_pdf + "The_Special_Obligations_Objection_utilitarianism_net.pdf");
   await merger.add(public_pdf + "The_Equality_Objection_utilitarianism_net.pdf");
+  await merger.add(public_pdf + "The_Cluelessness_Objection_utilitarianism_net.pdf");
+  await merger.add(public_pdf + "The_Abusability_Objection_utilitarianism_net.pdf");
   await merger.add(public_pdf + "Resources_and_Further_Reading_utilitarianism_net.pdf");
 
   await merger.save('An Introduction to Utilitarianism - Richard Yetter Chappell, Darius Meissner, and William MacAskill.pdf');
