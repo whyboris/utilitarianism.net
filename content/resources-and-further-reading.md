@@ -4,7 +4,7 @@ date: 2023-01-29
 draft: false
 menu: "main"
 description: "Resources and further reading about utilitarianism."
-gradientTop: "#260380"
+gradientTop: "#57579d"
 gradientBottom: "#012147"
 ---
 

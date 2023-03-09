@@ -1,5 +1,5 @@
 <div class="objections">
-  {{ range $index, $lol := first 7 .Site.Menus.objections.Sort.ByWeight }}
+  {{ range $index, $lol := first 9 .Site.Menus.objections.Sort.ByWeight }}
     <a href="{{ .URL }}">
       {{ with .Page }}
         {{ .Scratch.Set "chapter" (add $index 1) }}

@@ -67,7 +67,7 @@ This objection has been developed formally by the economist John Harsanyi, who p
 
 Finally, proponents of utilitarianism may once again “bite the bullet” and simply accept that utilitarianism sometimes conflicts with our intuitions about equality. These conflicts occur because the outcomes favored by utilitarianism are those with the highest possible levels of overall well-being, which do not always coincide with the most egalitarian outcomes. Utilitarians will insist that it's better for people overall to be better-off (even if these benefits are not distributed equally) than for them all to share equally in a lower level of well-being.
 
-{{< next-page-objection hide-next="true" end-objection="true" >}}
+{{< next-page-objection >}}
 
 {{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
 
