@@ -83,7 +83,7 @@ For example, suppose you must pull a magic lever either to the left or the right
 
 So premise 3 appears mistaken.[^17] It's always possible that agents may be unable to know how to achieve their moral goals. In such a case, the true moral theory may fail to be action-guiding. But that does not undermine its truth. There's no principled reason to prefer an alternative theory that offers extra "guidance" without actually helping you to achieve the right moral goals.
 
-All plausible theories should agree that overall consequences are _among_ the considerations that matter (even if they diverge from consequentialism in claiming that other factors matter in addition). Moderate deontologists, for example, posit extra deontic constraints but allow that they may be overridden when the stakes are sufficiently high. This suggests that the cluelessness objection should be addressed to all moral theorists, not just consequentialists. These theorists may similarly reply that cluelessness is (at most) a practical difficulty, and not an objection to the _truth_ of a moral theory.
+All plausible theories should agree that overall consequences are _among_ the considerations that matter (even if they diverge from consequentialism in claiming that other factors matter in addition). Moderate deontologists, for example, posit extra deontic constraints but allow that they may be overridden when the stakes are sufficiently high. This suggests that the cluelessness objection should be addressed to all moral theorists, not just consequentialists. These theorists may similarly reply that cluelessness is (at most) a practical difficulty, and not an objection to the _truth_ of a moral theory.[^18]
 
 ## Conclusion
 
@@ -101,6 +101,7 @@ There is reason to doubt whether concerns about cluelessness really present an _
 * Greaves, Hilary (2016). [Cluelessness](https://doi.org/10.1093/arisoc/aow018). _Proceedings of the Aristotelian Society_, 116(3): 311–339.
 * Lenman, James (2000). [Consequentialism and Cluelessness](https://doi.org/10.1111/j.1088-4963.2000.00342.x). _Philosophy and Public Affairs_, 29(4): 342–370.
 * Mogensen, Andreas (2021). [Maximal Cluelessness](https://doi.org/10.1093/pq/pqaa021). _The Philosophical Quarterly_, 71: 141–162.
+* Mogensen, Andreas & MacAskill, William (2021). [The Paralysis Argument](http://hdl.handle.net/2027/spo.3521354.0021.015). _Philosophers' Imprint_ 21 (15): 1–17.
 * Thorstad, David and Mogensen, Andreas (2020). [Heuristics for clueless agents: how to get away with ignoring what matters most in ordinary decision-making](https://globalprioritiesinstitute.org/david-thorstad-and-andreas-mogensen-heuristics-for-clueless-agents-how-to-get-away-with-ignoring-what-matters-most-in-ordinary-decision-making/). _GPI Working Paper_ 2-2020.
 
 [^1]:
@@ -161,3 +162,5 @@ There is reason to doubt whether concerns about cluelessness really present an _
 
 [^17]:
      Unless interpreted in such a way as to no longer demand guidance where none is possible. While it's surely fine to have fact-relative reasons that outstrip our epistemic grasp, a more compelling version of the premise might just claim that evidence-relative reasons must be within our epistemic grasp. But then it risks collapsing into mere tautology: by definition, the "evidence-relative reasons" posited by any theory—including consequentialism—will be epistemically accessible (assuming that "evidence" and "epistemic access" go together). The question instead becomes what (if any) evidence-relative reasons the theory implies that we have.
+
+[^18]: Though there's some reason to think that the practical difficulties may be even worse for non-consequentialists. See Mogensen, Andreas & MacAskill, William (2021). [The Paralysis Argument](http://hdl.handle.net/2027/spo.3521354.0021.015). _Philosophers' Imprint_ 21 (15): 1–17.
