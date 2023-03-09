@@ -17,6 +17,8 @@ gradientBottom: "#5F3091"
 
 {{< TOC >}}
 
+## The Demandingness Objection
+
 Many critics argue that utilitarianism is too _[demanding](/utilitarianism-and-practical-ethics#demandingness)_, because it requires us to always act such as to bring about the best outcome. The theory leaves no room for actions that are permissible yet do not bring about the best consequences. Philosophers label such actions that are morally good but not required as _[supererogatory](https://plato.stanford.edu/entries/supererogation/)_; maximizing utilitarianism (like maximizing consequentialism more broadly) denies that any action can be supererogatory. As a result, some critics claim that utilitarianism is a morality only for saints.[^1]
 
 Very few people, including utilitarian philosophers, live their life in perfect accordance with utilitarianism. For instance, consider that the money a person spends on dining out could pay for several bednets, each protecting two children in a low-income country from malaria for about two years.[^2] From a utilitarian perspective, the benefit to the person from dining out is much smaller than the benefit to the children from not having malaria, so it would seem the person has acted wrongly in choosing to have a meal out. Analogous reasoning applies to how we use our time: the hours someone spends on social media should apparently be spent volunteering for a charity, or working harder at one’s job to earn more money to donate.

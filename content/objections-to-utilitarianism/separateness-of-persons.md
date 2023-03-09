@@ -13,6 +13,8 @@ gradientBottom: "#430A4A"
 
 {{< TOC >}}
 
+## Introduction
+
 It is widely agreed that self-interest (or prudence) calls for aggregating harms and benefits across different moments _within_ one’s life, so as to maximize one’s overall well-being. For example, visiting the dentist is prudent despite the immediate unpleasantness because it helps to avert greater harm to one’s future self. Aggregative consequentialist theories like utilitarianism go one step further: they aggregate harms and benefits _between_ different people’s lives in order to maximize overall societal well-being. It can be worth imposing harms on some individuals, utilitarians claim, if that prevents greater harms to others. This leads some critics to claim that utilitarianism neglects the moral significance of the boundaries between individuals.
 
 This _separateness of persons_ objection was stated most famously by John Rawls:

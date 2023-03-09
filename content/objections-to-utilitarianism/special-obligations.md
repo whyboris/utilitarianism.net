@@ -13,6 +13,8 @@ gradientBottom: "#531694"
 
 {{< TOC >}}
 
+## The Special Obligations Objection
+
 [Impartiality](/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests) is clearly important within institutional contexts, where we want judges, policy-makers, and other civic actors to make fair and unbiased decisions. But a striking feature of utilitarianism is that it does not restrict impartiality to just those special contexts. It holds that, fundamentally, all individuals are _always_ deserving of receiving full and equal consideration. This starkly conflicts with much of our ordinary decision-making, as in everyday life we would not usually think twice about prioritizing our friends and loved ones over total strangers. Indeed, many would think it outright _wrong_ for a parent to fail to prioritize the needs of their own children. It is usually thought that certain relationships, like parenthood or guardianship, give rise to _special obligations_ to protect those who fall under our care. If utilitarianism denied this, for example by recommending that parents neglect their own children in order to save a larger number of strangers, that could seem to count seriously against the theory. In this article, we explore this _special obligations objection_ against utilitarianism.
 
 ## Accommodating the Intuition
