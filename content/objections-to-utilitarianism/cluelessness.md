@@ -19,13 +19,15 @@ Utilitarianism directs us to promote overall well-being. But we cannot be certai
 
 James Lenman’s [Consequentialism and Cluelessness](https://doi.org/10.1111/j.1088-4963.2000.00342.x) presents an influential _epistemic objection_ against [consequentialism](/types-of-utilitarianism#consequentialism) (and hence, by extension, utilitarianism). We may reconstruct the argument roughly as follows:
 
-P1. We have no idea what the long-term effects of any of our actions will be.
-
-P2. But the long-term effects determine what we ought, according to consequentialism, to do. So, if consequentialism is true, we have no idea what we really ought to do—our reasons for action[^1] lie beyond our epistemic grasp.
-
-P3. But an adequate ethical theory must be action-guiding—it cannot posit reasons beyond our epistemic grasp. So:
-
-C. Consequentialism is not an adequate ethical theory.
+> P1. We have no idea what the long-term effects of any of our actions will be.
+>
+> P2. But the long-term effects determine what we ought, according to consequentialism, to do. So, if consequentialism is true, we have no idea what we really ought to do—our reasons for action[^1] lie beyond our epistemic grasp.
+>
+> P3. But an adequate ethical theory must be action-guiding—it cannot posit reasons beyond our epistemic grasp.
+>
+> Therefore,
+>
+> C. Consequentialism is not an adequate ethical theory.
 
 Let us examine each of the three premises in turn.
 
