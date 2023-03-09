@@ -120,6 +120,7 @@ There is reason to doubt whether concerns about cluelessness really present an _
 
 [^6]:
      He offers four objections in all. The fourth presupposes the second, and so is addressed by our response to that. The third objects that we need to distinguish two very different reasons for judging an act to lack expected value: (i) we might _know_ that it makes no difference, or (ii) we might be _clueless_ about whether it is incredibly good or incredibly bad. Given that these two epistemic states are so different, Lenman reasons, it makes no sense to treat them the same way.
+
     It's true that this is a significant difference. But it's a mistake to assume that anything morally significant must change how we assess _acts_, when often _attitudes_ are better suited to reflect such significance. We should feel vastly more angst and ambivalence—and strongly wish that more information was available—in a high-stakes “total uncertainty” case than in a “known zero” case. That seems sufficient to capture the difference.
 
 [^7]:
@@ -132,7 +133,9 @@ There is reason to doubt whether concerns about cluelessness really present an _
      For an exploration of whether the world is overpopulated or underpopulated, see Ord, T. (2014). [Overpopulation or Underpopulation?](http://amirrorclear.net/files/overpopulation-or-underpopulation.pdf), in Goldin, I. _[Is the World Full?](http://doi.org/10.1093/acprof:oso/9780199677771.001.0001)_. Oxford: Oxford University Press.
 
 [^10]:
-     For a related defense of the “procedural rationality” of relying on heuristics in the face of cluelessness, see Thorstad, David and Mogensen, Andreas (2020), [Heuristics for clueless agents: how to get away with ignoring what matters most in ordinary decision-making](https://globalprioritiesinstitute.org/david-thorstad-and-andreas-mogensen-heuristics-for-clueless-agents-how-to-get-away-with-ignoring-what-matters-most-in-ordinary-decision-making/). _GPI Working Paper 2, 2020_. Whether it's worth evaluating overpopulation concerns more deeply will depend on factors such as: (i) how many resources are at stake—more investigation is plausibly warranted for a grant-maker directing billions of dollars than for an individual donating a few hundred dollars; and (ii) how tractable the uncertainty seems, or what the expected value-of-information is of further investigation. For a small donor with little chance of swiftly resolving their uncertainty, it will often be most reasonable to entirely ignore complex cluelessness.
+     For a related defense of the “procedural rationality” of relying on heuristics in the face of cluelessness, see Thorstad, David and Mogensen, Andreas (2020), [Heuristics for clueless agents: how to get away with ignoring what matters most in ordinary decision-making](https://globalprioritiesinstitute.org/david-thorstad-and-andreas-mogensen-heuristics-for-clueless-agents-how-to-get-away-with-ignoring-what-matters-most-in-ordinary-decision-making/). _GPI Working Paper 2, 2020_.
+
+     Whether it's worth evaluating overpopulation concerns more deeply will depend on factors such as: (i) how many resources are at stake—more investigation is plausibly warranted for a grant-maker directing billions of dollars than for an individual donating a few hundred dollars; and (ii) how tractable the uncertainty seems, or what the expected value-of-information is of further investigation. For a small donor with little chance of swiftly resolving their uncertainty, it will often be most reasonable to entirely ignore complex cluelessness.
 
 [^11]:
      Lenman (2000), p. 356.
@@ -151,7 +154,9 @@ There is reason to doubt whether concerns about cluelessness really present an _
 
 [^16]:
      Strikingly, even Lenman (2000), p. 364, grants that “the invisible consequences of action very plausibly matter too,” but he adds that “there is no clear reason to suppose this mattering to be a matter of moral significance any more than the consequences, visible or otherwise, of earthquakes or meteor impacts (although they may certainly matter enormously) need be matters of, in particular, moral concern. There is nothing particularly implausible here. It is simply to say, for example, that the crimes of Hitler, although they were a terrible thing, are not something we can sensibly raise in discussion of the moral failings or excellences of [someone who saved the life of Hitler’s distant ancestor].”
+
     This is a strange use of “moral significance”. Moral agents clearly ought to care about earthquakes, meteor strikes, and future genocidal dictators. (At a minimum, we ought to prefer that there be fewer of such things, as part of our beneficent concern for others generally.) An agent who was truly _indifferent_ to these things would not be a virtuous agent: their indifference reveals a callous disregard for future people. So it could certainly constitute a “moral failing” to fail to care about such harmful events.
+    
     On the other hand, if Lenman really just means to say that _which unforeseeable consequences actually occur_ shouldn’t affect our assessment of a person’s “moral failings or excellences”, then this seems a truism that in no way threatens consequentialism. It’s a familiar point that many forms of agential assessment (e.g. rationality, virtue, etc.) are “internalist”—supervening on the intrinsic properties of the agent, and not what happens in the external world, beyond their control. [Hybrid utilitarians](/types-of-utilitarianism#global-utilitarianism-versus-hybrid-utilitarianism) comfortably combine such internalism about agential assessments with a utilitarian account of our reasons for action.
 
 [^17]:
