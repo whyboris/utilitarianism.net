@@ -44,15 +44,15 @@ Critics of hedonism dispute the first claim by pointing to instances of putative
 
 ### The “Evil Pleasures” Objection
 
-Critics often reject the hedonist claim that all happiness is good and all suffering bad. Consider a sadist who takes pleasure in another’s suffering. Hedonists can allow that sadism is typically _overall_ harmful, as the sadist’s pleasure is unlikely to outweigh the suffering of their victim. This justifies disapproving of sadism in practice, especially with a [multi-level utilitarian view](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism). Under that view, we might assume that finding the rare exceptions to this rule would have little practical value, whereas the risk of mistakenly permitting harmful sadism means that we would be better off establishing a general prohibition on sadistic acts.
+Critics often reject the hedonist claim that all happiness is good and all suffering bad. Consider a sadist who takes pleasure in harming others without their consent. Hedonists can allow that nonconsensual sadism is typically _overall_ harmful, as the sadist’s pleasure is unlikely to outweigh the suffering of their victim. This clearly justifies disapproving of nonconsensual sadism in practice, especially with a [multi-level utilitarian view](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism). Under that view, we might assume that finding the rare exceptions to this rule would have little practical value, whereas the risk of [mistakenly permitting harmful actions](/objections-to-utilitarianism/abusability/) means that we would be better off establishing a general prohibition on harming others without their consent.
 
 Still, on a purely theoretical level, we may ask: what if there were _many_ sadists, collectively rejoicing in the suffering of a single tortured soul? If their aggregate pleasure outweighs the suffering of the one, then hedonistic utilitarianism implies that this is a good outcome, and the sadists act rightly in torturing their victim. But that seems wrong.
 
 At this point, it is worth distinguishing a couple of subtly different claims that one might object to: (i) the sadists benefit from their sadistic pleasure, and (ii) the benefits to the sadists count as _moral goods_, or something that we should want to promote (all else equal).
 
-To reject (i) means rejecting hedonism about well-being. But if sadistic pleasure does not benefit the sadist, then this implies that someone who wants to make the sadist worse off could not do that by means of blocking their sadistic pleasure. And that seems mistaken.
+To reject (i) means rejecting hedonism about well-being. But if sadistic pleasure does not benefit the sadist, then this implies that someone who wants to make the sadist worse off (for whatever reason) could not achieve that by means of blocking their sadistic pleasure. And that seems mistaken.
 
-Alternatively, one might retain hedonism about well-being while respecting our anti-sadist intuitions by instead rejecting (ii), and denying that _benefiting sadists at the cost to their victims_ is reasonable or good. This would involve rejecting utilitarianism, strictly speaking, though a [closely related consequentialist view](/near-utilitarian-alternatives#desert-adjusted-views) which merely gives equal weight to all _innocent_ interests (while discounting illicit interests) remains available, and overlaps with utilitarianism in the vast majority of cases.
+Alternatively, one might retain hedonism about well-being while respecting our intuitive opposition to "evil pleasures" by instead rejecting (ii), and denying that _benefiting sadists at the expense of their victims_ is reasonable or good. This would involve rejecting utilitarianism, strictly speaking, though a [closely related consequentialist view](/near-utilitarian-alternatives#desert-adjusted-views) which merely gives equal weight to all _innocent_ interests (while discounting illicit interests) remains available, and overlaps with utilitarianism in the vast majority of cases.
 
 Hedonistic utilitarians might seek to preserve both (i) and (ii) by offering an alternative explanation of our intuitions. For example, we may judge the sadists’ _characters_ to be bad insofar as they enjoy hurting others, and so they seem likely to act wrongly in many other circumstances.[^8]
 
@@ -88,15 +88,15 @@ According to desire theories, what makes your life go well for you is simply to 
 
 Importantly, our preferences can be satisfied without our realizing it, so long as things in reality are as we prefer them to be. For example, many parents would prefer to:
 
-&emsp;(i) Falsely believe their child has died, even if the child is actually alive and happy,</li>
+&emsp;(i) Falsely believe their child has died, even if the child is actually alive and happy,
 
 rather than to:
 
-&emsp;(ii) Falsely believe their child is alive and happy, even if the child is actually dead.</li>
+&emsp;(ii) Falsely believe their child is alive and happy, even if the child is actually dead.
 
 A parent who strongly desires a happy life for their child may be happier in scenario (ii), where they (falsely) believe this desire to be satisfied. But their desire is actually satisfied in (i), and that is what really benefits them, according to standard desire theories.[^18]
 
-As a result, desire theories can easily account for our reluctance to plug into the experience machine.[^19] The latter offers happiness based on false beliefs. But if we care about anything outside of our own heads (as most of us seem to), then the experience machine will leave those desires unfulfilled. A “real” life may contain less happiness, but more desire-fulfilment, and hence more well-being according to desire theories.
+As a result, desire theories can easily account for our reluctance to plug into the experience machine.[^19] The latter offers happiness based on false beliefs. But if we care about anything outside of our own heads (as most of us seem to), then the experience machine will leave those desires unfulfilled. A “real” life may contain less happiness, but more desire-fulfillment, and hence more well-being according to desire theories.
 
 Desire theories may be either _restricted_ or _unrestricted_ in scope. Unrestricted theories count _all_ of your desires, without exception. On such a view, if you desire that our galaxy contains an even number of stars, then you are better off if this is true, and worse off if it is false. Restricted desire theories instead claim that only desires in some restricted class—perhaps those that are in some sense _about your own life_[^20]—affect your well-being. Under a restricted theory, something can seem good _to_ you without being good _for_ you, and this kind of desire would not be seen as meaningfully affecting your well-being.
 
@@ -140,11 +140,11 @@ A related (but importantly different) argument might start from the idea that th
 
 Perhaps the most powerful objection to objective list theories instead challenges it on its putative point of strength: its ability to accommodate our intuitive judgments about what makes one’s life go well. For if we imagine a subjectively miserable life, it is hard to believe that it could be a really good life for the person living it, no matter how highly they might score on all the _other_ putative objective values (besides happiness). Someone who feels deeply alienated from the putative “goods” in their life would not seem to benefit from the goods in question.[^37] A committed hermit, for example, might deny that having friends to interrupt his solitude would do him any good at all. So this casts doubt on the simple objective list theory that takes the items on the list to constitute welfare goods regardless of whether we want them or they make us happy.
 
-This concern might move us towards a _hybrid_ view, according to which well-being consists in _subjective appreciation of the objective candidate welfare goods_. So unwanted friendships no longer count as a "benefit" to the hermit, but if he came to truly appreciate other people then this would be better for him than getting equal enjoyment from merely counting blades of grass. In this way, the alienation objection can be addressed while (i) rejecting the experience machine and (ii) maintaining the core objectivist idea that some ways of life are better for us than others, even if they would result in equal desire satisfaction and happiness.
+This concern might move us towards a _hybrid_ view, according to which well-being consists in _subjective appreciation of the objective candidate welfare goods_.[^38] So unwanted friendships no longer count as a "benefit" to the hermit, but if he came to truly appreciate other people then this would be better for him than getting equal enjoyment from merely counting blades of grass. In this way, the alienation objection can be addressed while (i) rejecting the experience machine and (ii) maintaining the core objectivist idea that some ways of life are better for us than others, even if they would result in equal desire satisfaction and happiness.
 
 ## Practical Implications of Theories of Well-Being
 
-Hedonism, desire theories, and objective list theories of well-being all largely overlap in practice. This is because we tend to desire things that are (typically regarded as) objectively worthwhile, and we tend to be happier when we achieve what we desire. We may also tend to reshape our desires based on our experiences of what feels good. As a result, defenders of any given theory of well-being might seek to debunk their competitors by suggesting that competing values (be they pleasure, desire-fulfilment, or objective goods) are of merely _instrumental_ value, tending to produce, or otherwise go along with, what _really_ matters.
+Hedonism, desire theories, and objective list theories of well-being all largely overlap in practice. This is because we tend to desire things that are (typically regarded as) objectively worthwhile, and we tend to be happier when we achieve what we desire. We may also tend to reshape our desires based on our experiences of what feels good. As a result, defenders of any given theory of well-being might seek to debunk their competitors by suggesting that competing values (be they pleasure, desire-fulfillment, or objective goods) are of merely _instrumental_ value, tending to produce, or otherwise go along with, what _really_ matters.
 
 ![Theories of well-being illustration - Hedonism, Desire Theories, Objective List Theories](/img/theories-of-wellbeing.png)
 
@@ -178,6 +178,8 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 
 - Roger Crisp (2017). [Well-Being](https://plato.stanford.edu/entries/well-being/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Shelly Kagan (1992). [The Limits of Well-being](https://doi.org/10.1017/S0265052500001461). Social Philosophy & Policy. 9(2): 169–189.
+- Eden Lin (2022). [Well‐being, part 1: The concept of well‐being](https://doi.org/10.1111/phc3.12812). _Philosophy Compass_. 17(2).
+- Eden Lin (2022). [Well‐being, part 2: Theories of well‐being](https://doi.org/10.1111/phc3.12813). _Philosophy Compass_. 17(2).
 - Derek Parfit (1984). Appendix I: What Makes Someone’s Life Go Best, _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Clarendon Press.
 
 ### Welfarism
@@ -190,7 +192,7 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 - Andrew Moore (2019). [Hedonism](https://plato.stanford.edu/entries/hedonism/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Ole Martin Moen (2016). [An Argument for Hedonism](https://doi.org/10.1007/s10790-015-9506-9). _The Journal of Value Inquiry_. 50: 267–281 (2016).
 - Ivar Labukt (2012). [Hedonic Tone and the Heterogeneity of Pleasure](https://doi.org/10.1017/S0953820812000052). _Utilitas_. 24(2): 172–199.
-- Roger Crisp (2006). [Hedonism Reconsidered](https://doi.org/10.2307/40041013). _Philosophy and Phenomenological Research_. _73_(3): 619–645.
+- Roger Crisp (2006). [Hedonism Reconsidered](https://doi.org/10.2307/40041013). _Philosophy and Phenomenological Research_. 73(3): 619–645.
 - Fred Feldman (2004). _[Pleasure and the Good Life: Concerning the Nature Varieties and Plausibility of Hedonism](https://doi.org/10.1093/019926516X.001.0001)_. Oxford: Oxford University Press.
 
 ### Desire Theories
@@ -203,9 +205,9 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 
 ### Objective List Theories
 
-- Eden Lin (2014). [Pluralism about Well-Being](https://doi.org/10.1111/phpe.12038). _Philosophical Perspectives_. 28(1): 127–154.
 - Guy Fletcher (2013). [A Fresh Start for an Objective List Theory of Well-Being](https://doi.org/10.1017/S0953820812000453). _Utilitas_. 25(2): 206–220.
 - James Griffin (1986). _[Well-Being: Its Meaning, Measurement and Moral Importance](https://doi.org/10.1093/0198248431.001.0001)_. Oxford: Clarendon Press.
+- Eden Lin (2014). [Pluralism about Well-Being](https://doi.org/10.1111/phpe.12038). _Philosophical Perspectives_. 28(1): 127–154.
 
 [^1]: _Théorie des peines et des récompenses_ (1811); translation by Richard Smith, _The Rationale of Reward_, J. & H. L. Hunt, London, 1825, book 3, chapter 1.
 [^2]: For a more detailed overview of theories of well-being, see Crisp, R. (2017). [Well-Being](https://plato.stanford.edu/entries/well-being/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.). [Section 4: Theories of Well-being](https://plato.stanford.edu/entries/well-being/#TheWelBei).
@@ -218,9 +220,9 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 [^6]: This view is known as _[ethical egoism](https://plato.stanford.edu/entries/egoism/)_.
 [^7]: Cf. Sinhababu, N. (ms). [The Epistemic Argument for Hedonism](https://philpapers.org/rec/SINTEA-3).
 [^8]:
-    To control for this, imagine a society of utilitarian sadists who are strictly morally constrained in their sadism: they would never allow harm to another unless it caused greater net benefits to others (including themselves). We might even imagine that they are willing to suffer the torture themselves if enough others would benefit from this.\* When the sadists are stipulated to be morally conscientious in this way, it may be easier to accept that their sadistic pleasure counts as a good in itself.
+    To control for this, imagine a society of utilitarian sadists who are strictly morally constrained in their sadism: they would never allow harm to another unless it caused greater net benefits to others (including themselves). We might even imagine that they are willing to suffer the torture themselves if enough others would benefit from this. (Perhaps they draw lots to decide on a victim, in a sadistic analogue of John Harris’ _Survival Lottery_.)\* When the sadists are stipulated to be morally conscientious in this way, it may be easier to accept that their sadistic pleasure counts as a good in itself.
 
-    \* Perhaps they draw lots to decide on a victim, in a sadistic analogue of John Harris’ _Survival Lottery_. J. Harris (1975). The Survival Lottery. _Philosophy_ 50: 81–87.
+    \* J. Harris (1975). The Survival Lottery. _Philosophy_ 50: 81–87.
 
 [^9]: Unless we value the simplicity of hedonistic utilitarianism more highly than the accommodation of such intuitions.
 [^10]: This description was adapted from Nozick, R. (1974). _[Anarchy, State, and Utopia](https://archive.org/details/anarchystateutop00nozi/page/42)_. New York: Basic Books., p. 42.
@@ -234,6 +236,8 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 [^14]: Weijers, D. (2014). [Nozick’s experience machine is dead, long live the experience machine!](https://doi.org/10.1080/09515089.2012.757889) Philosophical Psychology. 27(4): 513–535. Puzzlingly, many respondents reported that they would favor plugging in to the experience machine when choosing for another person, even when they would not choose this for themselves.
 [^15]: Among others, this suggestion has been made by (1) Kolber, A. (1994). [Mental Statism and the Experience Machine](https://ssrn.com/abstract=1322059). _Bard Journal of Social Sciences_. 3: 10–17; (2) Greene, J. D. (2001). A Psychological Perspective on Nozick’s Experience Machine and Parfit’s Repugnant Conclusion. _Presentation at the Society for Philosophy and Psychology Annual Meeting_. Cincinnati, OH; and (3) de Brigard, F. (2010). [If you like it, does it matter if it's real?](https://doi.org/10.1080/09515080903532290). _Philosophical Psychology_. 23(1): 43–57.
 [^16]: Adapted from Crisp, R. (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). _Philosophy and Phenomenological Research._ 73(3): 635–6.
+The advantages of third-personal judgments about the relative values of lives inside and outside of the experience machine, in order to better avoid objections, is also stressed by Lin, Eden (2016). [How to Use the Experience Machine](https://doi.org/10.1017/S0953820815000424). _Utilitas_ 28 (3):314-332.
+
 [^17]: Crisp, R. (2017). Well-Being. _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.). [Section 4.1 Hedonism](https://plato.stanford.edu/entries/well-being/#TheWelBei). See also Crisp, R. (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). _Philosophy and Phenomenological Research._ 73(3): 637.
 [^18]: They probably also desire their own happiness, of course, which is better served in scenario (ii). But the fact that they nonetheless prefer the prospect of (i) over (ii) suggests that (i) is the outcome that better fulfills their desires _overall_.
 [^19]: By contrast, the “evil pleasures” objection to hedonism would seem to apply with equal force against desire theories, as these theories also imply that sadistic pleasure can benefit you (if you desire it).
@@ -252,7 +256,11 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 [^29]: It merely “may” because much depends on the details. It is entirely possible that becoming a well-satisfied teacher would also better serve _other_ desires that one has (in both outcomes), in which case even the necessitarian could reach the conclusion that this change would be in one’s overall best interests, despite giving no intrinsic weight to the contingent desire to be a teacher (and giving full weight to the past, and hence non-contingent, desire to be a firefighter). But there will be at least some cases in which impeding the change counterintuitively wins out because of the discounting.
 [^30]:
     Exemplary objective list theorists include (1) Finnis, J. (1980). _Natural Law and Natural Rights_. Oxford: Clarendon Press; (2) Griffin, J. (1986). _Well-Being: Its Meaning, Measurement and Moral Importance_. Oxford: Clarendon Press; (3) Fletcher, G. (2013). [A Fresh Start for an Objective List Theory of Well-Being](https://doi.org/10.1017/S0953820812000453). _Utilitas_. 25(2): 206–220; and (4) Lin, E. (2014). [Pluralism about Well-Being](https://doi.org/10.1111/phpe.12038). _Philosophical Perspectives_. 28(1): 127–154.
-    For an overview and discussion of value pluralism, including objective list theories, see Mason, E. (2018). [Value Pluralism](https://plato.stanford.edu/entries/value-pluralism/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+
+    For an overview and discussion of value pluralism, including objective list theories, see:
+    Mason, Elinor (2018). [Value Pluralism](https://plato.stanford.edu/entries/value-pluralism/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+    Lin, Eden (2016). [Monism and Pluralism](https://philpapers.org/rec/LINMAP-4). In Guy Fletcher (ed.), _The Routledge Handbook of Philosophy of Well-Being_. Routledge, pp. 331–41.
+
 
 [^31]: Though there would not seem any value in memorizing the phonebook or other trivial data, so this is best restricted to _significant_ knowledge, or knowledge of _important_ truths.
 [^32]: Recall our contrast of person A (with the excellent life) and person B who experiences a passive “replay” of A’s life, with an extra jolt of pleasure at the end. Although B’s life contains more pleasure, A’s life will contain more overall value if we also count loving relationships, achievement, etc., as basic welfare goods. While B’s life contains all the same experiences _as of_ loving relationships, achievement, etc., as A’s did, it is a passive “replay”, involving no actual choices or interactions. Therefore, B’s life includes none of A’s actual achievements or relationships.
@@ -263,3 +271,4 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 [^37]:
     As Peter Railton writes: “what is intrinsically valuable for a person must have a connection with what he would find in some degree compelling or attractive, as least if he were rational and aware. It would be an intolerably alienated conception of someone’s good to imagine that it might fail in any such way to engage him.” (p.47)
     Railton, P. (2003). “Facts and Values”, in _[Facts, Values and Norms](https://www.cambridge.org/core/books/facts-values-and-norms/5B8C2C2969882F8ECCAF5AEE765D3868)_. Cambridge University Press.
+[^38]: Perhaps the best-known such hybrid view is found in Kagan, Shelly (2009). [Well-Being as Enjoying the Good](https://doi.org/10.1111/j.1520-8583.2009.00170.x). _Philosophical Perspectives_ 23 (1):253-272.
