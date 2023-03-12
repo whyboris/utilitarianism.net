@@ -13,7 +13,7 @@
     "build": "just build",
     "search": "pagefind --source public",
     "pdf":      "cd pdf && website2pdf --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer --safe-title --output-dir ./temp && npm run move-pdf",
-    "book-pdf": "cd pdf && website2pdf --marginTop 40px --marginBottom 40px --marginLeft 30px --marginRight 30px --display-header-footer false --safe-title --output-dir ./temp && npm run move-pdf && npm run merge-pdf",
+    "book-pdf": "cd pdf && website2pdf --marginTop 40px --marginBottom 40px --marginLeft 30px --marginRight 30px --display-header-footer false --safe-title --format a5 --output-dir ./temp && npm run move-pdf && npm run merge-pdf",
     "merge-pdf": "cd pdf && node build-book.js",
     "move-pdf": "cd pdf && node move-pdf.js",
     "kill-hugo": "kill-port 1313",
@@ -25,11 +25,11 @@
     "bestzip": "2.2.1",
     "fdir": "6.0.1",
     "kill-port": "2.0.1",
-    "pagefind": "0.11.0",
+    "pagefind": "0.12.0",
     "pdf-merger-js": "4.2.1",
     "prettier": "2.8.4",
     "prettier-plugin-go-template": "0.0.13",
     "serve": "14.2.0",
-    "website2pdf": "0.0.11"
+    "website2pdf": "0.0.12"
   }
 }
