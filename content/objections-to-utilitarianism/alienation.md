@@ -57,6 +57,8 @@ So the practical problem is resolvable. And there is no theoretical problem or o
 
 It would be deeply alienating for a moral theory to invalidate the overwhelming majority of our ordinary motivations, including moral motivations that stem from direct concern for particular individuals. Utilitarians may seek to avoid this fate via sophisticated utilitarianism or the subsumption strategy. Each approach has its limitations. But by suitably combining the two—insisting upon the subsumption of genuine intrinsic goods, together with a sophisticated approach to merely instrumental goods—utilitarians may be able to offer a full response to the alienation objection.
 
+(Note that this article exclusively addresses the concern that utilitarianism might seem to _invalidate_ our ordinary motivations. For the distinct worry that it too easily _overrides_ our personal projects and interests, see the [Demandingness Objection](/objections-to-utilitarianism/demandingness/).)
+
 {{< next-page-objection >}}
 
 {{< how-to-cite authors="Chappell, R.Y." >}}
