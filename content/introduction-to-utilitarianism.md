@@ -9,13 +9,13 @@ gradientTop: "#0c3b5b"
 gradientBottom: "#236d9f"
 ---
 
-> _"The utilitarian doctrine is, that happiness is desirable, and the only thing desirable, as an end; all other things being only desirable as means to that end."_
+> _"The task of the benevolent is surely to diligently seek to promote the benefit of the world and eliminate harm to the world and to take this as a model throughout the world. Does it benefit people? Then do it. Does it not benefit people? Then stop."_
 >
-> \- [John Stuart Mill](/utilitarian-thinker/john-stuart-mill)[^1]
+> \- [Mòzǐ](/utilitarian-thinker/mozi/)[^1]
 
 {{< TOC >}}
 
-Utilitarianism was developed to answer the question of what we morally ought to do, and why. Its core idea is that we ought to act to improve the well-being of everyone by as much as possible. Compared to other ethical theories, it is unusually demanding and may tell us to make substantial changes to how we lead our lives. Perhaps more so than any other ethical theory, it has produced a fierce philosophical debate between its proponents and its critics.
+Utilitarianism was developed to answer the question of what we morally ought to do, and why. Its core idea is that we ought to act to improve the well-being of everyone by as much as possible. Compared to other ethical theories, it is less deferential to ordinary thought and may tell us to make substantial changes to how we lead our lives. Perhaps more so than any other ethical theory, it has produced a fierce philosophical debate between its proponents and its critics.
 
 ## Why Do We Need Moral Theories?
 
@@ -29,13 +29,11 @@ One of the most prominent and influential attempts to create such a theory is _u
 
 ## What Is Utilitarianism?
 
-The core idea of utilitarianism is that we ought to act to improve the well-being of everyone by as much as possible.
-
-A more precise definition of utilitarianism is as follows:
+The core idea of utilitarianism is that we ought to act to improve the well-being of everyone by as much as possible:
 
 > Utilitarianism is the view that one ought always to promote the sum total of well-being.[^3]
 
-Sometimes philosophers talk about “welfare” or “utility” rather than “well-being”, but these words are typically used to mean the same thing.[^4] Utilitarianism is most commonly applied to evaluate the rightness of actions, but the theory can also evaluate other things, like rules, policies, motives, virtues, and social institutions. It is perhaps unfortunate that the clinical-sounding term “utilitarianism” caught on as a name, especially since in common speech the word “utilitarian” is easily confused with joyless functionality or even outright selfishness.
+Sometimes philosophers talk about “welfare” or “utility” rather than “well-being”, but these words are typically used to mean the same thing.[^4] Utilitarianism is most commonly applied to evaluate the rightness of actions, but the theory can also [evaluate other things](/types-of-utilitarianism/#global-utilitarianism-and-hybrid-utilitarianism), like rules, policies, motives, virtues, and social institutions. It is perhaps unfortunate that the clinical-sounding term “utilitarianism” caught on as a name, especially since in common speech the word “utilitarian” is easily confused with joyless functionality or even outright selfishness.
 
 All ethical theories belonging to the utilitarian family share four defining elements: (i) consequentialism, (ii) welfarism, (iii) impartiality, and (iv) aggregationism.
 
@@ -55,7 +53,7 @@ We cover the four elements of utilitarianism and its variants in greater depth i
 
 The early utilitarians—[Jeremy Bentham](/utilitarian-thinker/jeremy-bentham), [John Stuart Mill](/utilitarian-thinker/john-stuart-mill), and [Henry Sidgwick](/utilitarian-thinker/henry-sidgwick)—were _classical utilitarians_. Classical utilitarianism is distinct from other utilitarian theories in that it accepts these two additional elements: First, it accepts [hedonism as a theory of well-being](/theories-of-wellbeing#hedonism).
 
-- **Hedonism** is the view that well-being consists in, and only in, the balance of positive over negative conscious experiences. For readability, we will call positive conscious experiences _happiness_ and negative conscious experiences _suffering_.
+- **Hedonism** is the view that well-being consists in, and only in, the balance of positive over negative conscious experiences. (For readability, we will call positive conscious experiences _happiness_ and negative conscious experiences _suffering_.)
 
 Second, classical utilitarianism accepts the [total view of population ethics](/population-ethics#the-total-view).
 
@@ -197,7 +195,7 @@ The next chapter discusses the four elements of utilitarian theories in greater 
 - Derek Parfit (2011/17). _[On What Matters](https://en.wikipedia.org/wiki/On_What_Matters)_. Oxford: Oxford University Press.
 - Yew-Kwang Ng (1990). [Welfarism and Utilitarianism: A Rehabilitation](https://www.ntu.edu.sg/home/ykng/Welfarianism&Utilitarianism.pdf). _Utilitas_. 2(2): 171–193.
 
-[^1]: Mill, J. S. (1863). _[Utilitarianism](https://www.earlymoderntexts.com/assets/pdfs/mill1863.pdf)_. Kitchener: Batoche Books., p. 35
+[^1]: _Mòzǐ_ 32: 1, C. Fraser transl.
 [^2]: For more details, see Williams, E. G. (2015). [The Possibility of an Ongoing Moral Catastrophe](https://link.springer.com/article/10.1007/s10677-015-9567-7). _Ethical Theory and Moral Practice_, _18_(5), 971–982. doi: 10.1007/s10677-015-9567-7
 [^3]: This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are utilitarian theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](/population-ethics).
 [^4]: However, when economists use the term “[utility](https://en.wikipedia.org/wiki/Utility)” they typically refer, instead, to the numerical representation of an individual’s preferences.
