@@ -11,7 +11,7 @@ gradientBottom: "#1F1E70"
 ---
 
 > _"Bernard Williams... concluded a lengthy attack on utilitarianism by remarking: ‘The day cannot be too far off in which we hear no more of it.’ It is now more than forty years since Williams made that comment, but we continue to hear plenty about utilitarianism."_ \
-> \- [Peter Singer](/utilitarian-thinker/peter-singer) & Katarzyna de Lazari-Radek [^1]
+> \- Katarzyna de Lazari-Radek & [Peter Singer](/utilitarian-thinker/peter-singer)[^1]
 
 {{< TOC >}}
 
@@ -47,7 +47,7 @@ There are further ideas that utilitarians may appeal to in developing the above 
   - that it would be good to _inculcate practical norms_ against actions of that type;
   - that a person willing to perform such an action would likely have _bad character_, and be likely to cause greater harms on other occasions;
   - that the action is _reckless_, or plausibly wrong _in expectation_, even if it happens to turn out for the best.[^3]  
-- Critics sometimes allege that utilitarians don’t value obviously good things like rights, freedom, virtue, equality, and the natural environment. But while these things may be obviously good, it is less obvious that they are all _non-instrumentally_ good. And utilitarians can certainly value them instrumentally. Moreover, utilitarians who accept an [objective list theory of well-being](/theories-of-wellbeing/#objective-list-theories) may even be able to give non-instrumental consideration to goods (like freedom and [aesthetic appreciation](/near-utilitarian-alternatives/#aesthetic-value)) that could plausibly be counted as welfare goods.
+- Critics sometimes allege that utilitarians don’t value obviously good things like rights, freedom, virtue, equality, and the natural environment. But while these things may be obviously good, it is less obvious that they are all _non-instrumentally_ good. And utilitarians can certainly value them instrumentally. Moreover, utilitarians who accept an [objective list theory of well-being](/theories-of-wellbeing/#objective-list-theories) may even be able to give non-instrumental consideration to goods (like freedom and [beauty](/near-utilitarian-alternatives/#aesthetic-value)) that could plausibly be counted as welfare goods when part of a person's life.
 - Rival moral theories may be undermined by appeal to the [veil of ignorance](/arguments-for-utilitarianism#the-golden-rule-the-veil-of-ignorance-and-the-ideal-observer), and the related idea of _[ex ante Pareto](/objections-to-utilitarianism/equality/#attacking-the-alternatives)_—or what it would be in _everyone_'s best interests to agree to in advance (before learning about their particular position in life). Our intuitive reluctance to stick with the overall best policy can then start to seem [biased](/arguments-for-utilitarianism/#status-quo-bias).
 - Deontology faces a dilemma between Absolutist and Moderate varieties. The former—prohibiting rule violations no matter how great the cost to overall well-being—seems implausibly extreme, but the latter risks arbitrariness due to lacking a clear account of where to draw the line. By contrast, utilitarianism offers a clear and principled account of when constraints can reasonably be violated—namely, just when doing so would best serve overall well-being.
 - [Different versions](/types-of-utilitarianism/) of utilitarianism may be more or less vulnerable to different objections. For example, a version of the view that combines [scalar](/types-of-utilitarianism/#reconstructing-rightness-maximizing-satisficing-and-scalar-utilitarianism), [expectational](/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism), and [hybrid](/types-of-utilitarianism/#global-utilitarianism-and-hybrid-utilitarianism) elements may be better equipped to mitigate concerns about demandingness, cluelessness, and praiseworthy motivations.
@@ -55,7 +55,7 @@ There are further ideas that utilitarians may appeal to in developing the above 
 
 We employ each of these arguments, where appropriate, to respond to the specific objections listed below. (Students are encouraged, when reading an objection, to anticipate how to apply the utilitarian’s toolkit to address the objection at hand.)
 
-## Specific Objections Against Utilitarianism
+## Specific Objections to Utilitarianism
 
 In separate articles, we discuss the following critiques of utilitarianism:
 
