@@ -102,7 +102,7 @@ Still, at the end of the day there's no guarantee that true beliefs will be soci
      Most famously, Bernard Williams wrote that “utilitarianism's fate is to usher itself from the scene.” (1973, p.134). The idea of "esoteric morality" is found in [Henry Sidgwick](/utilitarian-thinker/henry-sidgwick/)'s (1874) _[The Methods of Ethics](https://www.earlymoderntexts.com/authors/sidgwick)_, and was subsequently criticized (for its elitist vibes) as "government house utilitarianism". But only implausibly absolutist views can strictly rule out the possibility that esotericism may sometimes be justified. For broader discussion, see de Lazari-Radek & Singer (2010) [Secrecy in Consequentialism: A defence of esoteric morality](https://doi.org/10.1111/j.1467-9329.2009.00449.x). _Ratio_, 23(1): 34–58.
 
 [^7]:
-     For a famous historical example, see [John Stuart Mill](https://www.utilitarianism.net/utilitarian-thinker/john-stuart-mill/)'s (1859) _[On Liberty](/books/on-liberty-john-stuart-mill/1/)_, which argues for the utilitarian importance of respecting others' freedom.
+     For a famous historical example, see [John Stuart Mill](/utilitarian-thinker/john-stuart-mill/)'s (1859) _[On Liberty](/books/on-liberty-john-stuart-mill/1/)_, which argues for the utilitarian importance of respecting others' freedom.
 
 [^8]:
      [Moral uncertainty](/guest-essays/uncertainty-and-utilitarianism/#implications-for-some-traditional-objections-to-utilitarianism) is also relevant here, as one needn't have _most_ confidence in deontological views in order for them to still exert an additional tempering effect.
