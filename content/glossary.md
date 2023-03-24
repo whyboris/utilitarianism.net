@@ -263,6 +263,16 @@ See the article [The Equality Objection](/objections-to-utilitarianism/equality)
 </details>
 
 <details>
+<summary>Ex ante Pareto<span class="icon"></span></summary>
+
+A _Pareto_ improvement is better for some people, and worse for none. _Ex ante_ evaluation considers prospects in advance of their occurring, given the available information, in contrast to an _ex post_ or retrospective verdict on the actual result. Putting these two concepts together, the _Ex Ante Pareto_ Principle holds that, in a choice between two gambles, if everyone would rationally prefer gamble A to gamble B, then gamble A is better than gamble B.
+
+A powerful objection to non-utilitarian views is that they are committed to violating this Ex Ante Pareto Principle in some possible situations, such as when choosing policies from behind a Veil of Ignorance.
+
+See: Harsanyi, J. C. (1955). [Cardinal welfare, individualistic ethics, and interpersonal comparisons of utility](https://www.jstor.org/stable/1827128). _The Journal of Political Economy_, pp. 309–321.
+</details>
+
+<details>
 <summary>Existential risk reduction<span class="icon"></span></summary>
 
 _→ Main article:_ [_Existential risk reduction_](/acting-on-utilitarianism#existential-risk-reduction)
@@ -809,7 +819,7 @@ _External links:_ [Well-being](https://plato.stanford.edu/entries/well-being/), 
 
 </details>
 
-{{< how-to-cite >}}
+{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
 
 [^1]: This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are utilitarian theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](/population-ethics).
 [^2]: For a discussion of global consequentialism, see (i) Pettit, P. & Smith, M. (2000). [Global Consequentialism](https://philarchive.org/archive/PETGC), in Brad Hooker, Elinor Mason & Dale Miller (eds.), _Morality, Rules and Consequences: A Critical Reader_. Edinburgh University Press; and (ii) Ord, T. (2009). [Beyond Action: Applying Consequentialism to Decision Making and Motivation](https://drive.google.com/open?id=0B4kMPIEI5Mb8S201Wl85NTN1UHc). DPhil Thesis, University of Oxford.
@@ -818,8 +828,8 @@ _External links:_ [Well-being](https://plato.stanford.edu/entries/well-being/), 
     Harsanyi formalized his argument for utilitarianism in Harsanyi, J. (1978). [Bayesian Decision Theory and Utilitarian Ethics](http://www.jstor.org/stable/1816692). _The American Economic Review,_ _68_(2), 223–228.
     For discussion about his proof, see Greaves, H. (2017). [A Reconsideration of the Harsanyi–Sen–Weymark Debate on Utilitarianism](https://www.cambridge.org/core/journals/utilitas/article/reconsideration-of-the-harsanyisenweymark-debate-on-utilitarianism/45B191ED9B7BE4ACF598B49A74DCDF0E). _Utilitas,_ _29_(2), 175–213.
 
-[^5]: Bostrom, N. (2003. [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://www.nickbostrom.com/astronomical/waste.pdf). _Utilitas_. 15(3), 308–314.
-[^6]: Bostrom, N. (2003. [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://www.nickbostrom.com/astronomical/waste.pdf). _Utilitas_. 15(3), 308–314.
+[^5]: Bostrom, N. (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://www.nickbostrom.com/astronomical/waste.pdf). _Utilitas_. 15(3), 308–314.
+[^6]: Bostrom, N. (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://www.nickbostrom.com/astronomical/waste.pdf). _Utilitas_. 15(3), 308–314.
 [^7]: Greaves, H. (2017). [Population axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
 [^8]: Parfit, D. (1984). 143. Why We Ought to Reject the Average Principle, in _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press.
 [^9]: Arrhenius, G., Ryberg, J. & Tännsjö, T. (2017). [The Repugnant Conclusion](https://plato.stanford.edu/archives/spr2017/entries/repugnant-conclusion/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
