@@ -127,7 +127,7 @@ We have seen that the “separateness of persons” objection to utilitarianism 
 
 [^3]: Brink, D. (2020). [Consequentialism, the Separateness of Persons, and Aggregation](https://www.doi.org/10.1093/oxfordhb/9780190905323.013.14). In Douglas W. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press.
 [^4]: Nozick, R. (1974). _Anarchy, State, and Utopia_, p.33.
-[^5]: Though an interestingly different line of response would be to appeal to a [Veil of Ignorance](/arguments-for-utilitarianism#the-golden-rule-the-veil-of-ignorance-and-the-ideal-observer) argument. While the individual who gets harmed is not compensated for it _in the moment_, each individual should be willing _in advance_ (i.e., from behind the veil of ignorance) to agree to utilitarian tradeoffs since this is the best way for them to maximize their own well-being, in expectation.
+[^5]: Though an interestingly different line of response would be to appeal to a [Veil of Ignorance](/arguments-for-utilitarianism#the-veil-of-ignorance) argument. While the individual who gets harmed is not compensated for it _in the moment_, each individual should be willing _in advance_ (i.e., from behind the veil of ignorance) to agree to utilitarian tradeoffs since this is the best way for them to maximize their own well-being, in expectation.
 [^6]: de Lazari-Radek, K. and Singer, P. (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford University Press. Chapter 4: Objections, p. 82.
 [^7]:
     Brink notes that Rawls’ own egalitarian view often requires uncompensated sacrifices from the wealthy.

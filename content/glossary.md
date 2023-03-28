@@ -44,7 +44,7 @@ Utilitarian moral reasoning has a strong track record of contributing to humanit
 <details>
 <summary>Arguments in favor of utilitarianism: the veil of ignorance<span class="icon"></span></summary>
 
-_→ Main article:_ [_Arguments for utilitarianism: The Golden Rule, the Veil of Ignorance, and the Ideal Observer_](/arguments-for-utilitarianism#the-golden-rule-the-veil-of-ignorance-and-the-ideal-observer)
+_→ Main article:_ [_Arguments for utilitarianism: The Golden Rule, the Veil of Ignorance, and the Ideal Observer_](/arguments-for-utilitarianism#the-veil-of-ignorance)
 
 Imagine you had to decide how to structure society from behind a [veil of ignorance](https://plato.stanford.edu/entries/original-position/). Behind this veil of ignorance, you know all the facts about each person’s circumstances in society—what their income is, how happy they are, how they are affected by social policies, and their preferences and likes. However, what you do not know is which of these people you are. You only know that you have an _equal chance_ of being any of these people. Imagine, now, that you are trying to act in a rational and self-interested way—you are just trying to do whatever is best for yourself. How would you structure society?
 
