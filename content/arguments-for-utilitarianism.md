@@ -40,21 +40,41 @@ Could anything else be _more_ important? Such a suggestion can seem puzzling. Co
 
 Such reasoning may justify viewing utilitarianism as the default starting point for moral theorizing. If someone wants to claim that there is some other moral consideration that can override _overall well-being_ (trumping the importance of saving lives, reducing suffering, and promoting flourishing), they face the challenge of explaining _how_ that could possibly be so. Many common moral rules (like those that prohibit theft, lying, or breaking promises), while not explicitly utilitarian in content, nonetheless have a clear utilitarian rationale. If they did not generally promote well-being—but instead actively harmed people—it is hard to see what reason we would have to still want people to follow them. To follow _harmful_ moral rules would seem like a kind of “rule worship”, and not truly ethical at all.[^6]
 
-Similar judgments apply to hypothetical cases in which you somehow know for sure that a typically reliable rule is, in this particular instance, counterproductive. In the extreme case, we all recognize that you ought to lie or break a promise if lives are on the line. In practice, of course, the best way to achieve good results over the long run is to [respect commonsense moral rules and virtues](/utilitarianism-and-practical-ethics#respecting-commonsense-moral-norms) while seeking opportunities to help others. (It is important not to mistake the hypothetical verdicts utilitarianism offers in stylized thought experiments with [the practical guidance it offers in real life](/acting-on-utilitarianism).) The key point is that utilitarianism offers a seemingly unbeatable answer to the question of _what fundamentally matters_: protecting and promoting the interests of all sentient beings to make the world as good as it can be.
+Similar judgments apply to hypothetical cases in which you somehow know for sure that a typically reliable rule is, in this particular instance, counterproductive. In the extreme case, we all recognize that you ought to lie or break a promise if lives are on the line. In practice, of course, the best way to achieve good results over the long run is to [respect commonsense moral rules and virtues](/utilitarianism-and-practical-ethics#respecting-commonsense-moral-norms) while seeking opportunities to help others. (It is important not to mistake the hypothetical verdicts utilitarianism offers in stylized thought experiments with [the practical guidance it offers in real life](/acting-on-utilitarianism).) The key point is just that utilitarianism offers a seemingly unbeatable answer to the question of _what fundamentally matters_: protecting and promoting the interests of all sentient beings to make the world as good as it can be.
 
-### The Golden Rule, the Veil of Ignorance, and the Ideal Observer
+### The Veil of Ignorance
 
-Humans are masters of self-deception and motivated reasoning. If something benefits us personally, it is all too easy to convince ourselves that it must be okay. To correct for such self-serving biases, it can be helpful to consider [moral heuristics](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism) like the Golden Rule: “_do unto others as you would have them do unto you_."
+Humans are masters of self-deception and motivated reasoning. If something benefits us personally, it is all too easy to convince ourselves that it must be okay. We are also more easily swayed by the interests of more salient or sympathetic individuals. To correct for such biases, it can be helpful to force impartiality by imagining that you are looking down on the world from behind a “veil of ignorance”. This veil reveals the facts about each person’s circumstances in society, and the effects that each choice would have on each person, while hiding from you the knowledge of _which of these individuals you are_.[^7] To more fairly determine _what ideally ought to be done_, we may ask what everyone would have most personal reason to prefer from behind this veil of ignorance. If you view yourself as equally likely to end up being anyone in the world, it would seem prudent to maximize overall well-being, just as utilitarianism prescribes.[^8]
 
-Many ethical traditions endorse some form of the Golden Rule. Of course, it needs to be interpreted sensibly: we would not want a masochist to go around whipping people who are not so into that as he is. The idea underlying the Golden Rule is arguably the _equal consideration of interests_: that we “give equal weight in our moral deliberations to the like interests of all those affected by our actions,”[^7] just as we would want others to do with our interests.
+It’s an interesting question how much weight we should give to the verdicts that would be chosen, on self-interested grounds, from behind the veil. The veil thought experiment serves to highlight how utilitarianism gives equal weight to everyone’s interests, in unbiased fashion. That is, utilitarianism is just what we get when we are _beneficent to all_: extending to everyone the kind of careful concern that prudent people have for their _own_ interests.[^9] But it may seem question-begging to those who [reject welfarism](/near-utilitarian-alternatives/#beyond-welfarism), and so deny that _interests_ are all that matter. For example, the veil thought experiment clearly doesn’t speak to the question of whether non-sentient life, or natural beauty, has intrinsic value. It is restricted to that sub-domain of morality that concerns _what we owe to each other_, where this includes just those individuals over whom our veil-induced uncertainty about our identity extends: presently existing sentient beings, perhaps.[^10] Accordingly, any verdicts reached on the basis of the veil of ignorance will still need to be weighed against what we might owe to others (such as future generations, or non-welfarist values).
 
-One vivid way to do this is to imagine yourself in the position of _each_ affected person, one after the other, living each of their lives (with _their_ tastes and preferences) in sequence. If you were, in effect, _everybody_, what would it be rational for you to choose? [R. M. Hare](/utilitarian-thinker/richard-hare) argued that the answer was _preference utilitarianism_: to best satisfy everyone’s overall preferences, counting everyone equally.
+Still, in many contexts other factors will not be relevant, and the question of what we morally ought to do will reduce to the question of how we should treat each other. Many of the deepest disagreements between utilitarians and their critics concern precisely this question. And the veil of ignorance seems relevant here. The fact that some action is what _everyone affected would personally prefer_ from behind the veil of ignorance seems to undermine critics’ claims that any individual has been _mistreated_ by, or has grounds to complain about, that action.
 
-Of course, if you accept a different [theory of well-being](/theories-of-wellbeing),[^8] then you might think it worth overriding misguided or irrational preferences for the sake of greater happiness or other forms of flourishing. But it remains the case that some form of utilitarianism seems likely to follow from such a procedure of putting yourself into every person’s shoes.
+### Harsanyi’s Aggregation Theorem
 
-Similar results may be obtained by instead imagining that you are looking down on the world from behind a “veil of ignorance” that reveals the facts about each person’s circumstances in society, while hiding from you the knowledge of _which of these individuals you are_.[^9] Imagine you were trying to decide on the best structure for society from behind this veil of ignorance. If you view yourself as equally likely to end up being anyone in the world, it would seem prudent to maximize overall well-being, just as utilitarianism prescribes.[^10]
+John Harsanyi’s aggregation theorem provides a bridge to utilitarianism from evaluating prospects by their expectation for both general value (that is, moral value) and personal value (that is, well-being).[^H1] Given our epistemic limitations, we are typically uncertain what the final outcome of our options would be. So, rather than final outcomes, we are [choosing between prospects](/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism) that merely give each possible final outcome a certain probability of happening. We can evaluate such prospects both with respect to general value (whether one prospect is at least as good as another prospect) and with respect to personal value (whether one prospect is at least as good as another prospect _for a person_).
 
-Finally, impartiality might be secured by simply asking what a suitably disinterested but benevolent observer would want. For example, whether or not one believes that any God exists, one might consider the hypothetical question of what an ideal (all knowing and all loving) observer _would_ want—as it is plausible that the answer to this question would also settle what we _ought_ to do. But then, it seems hard to deny that a benevolent impartial observer would simply want whatever would be best overall, that is counting everyone’s interests equally. And that in turn means that it is hard to deny utilitarianism.
+We assume that these evaluations of prospects satisfy the expected-utility axioms:[^H2]
+
+- **Completeness:** Prospect _X_ is at least as good as prospect _Y_ or _Y_ is at least as good as _X_.
+
+- **Transitivity:** If prospect _X_ is at least as good as prospect _Y_ and _Y_ is at least as good as prospect _Z_, then _X_ is at least as good as _Z_.
+
+- **Independence:** If prospect _X_ is better than _Y_, then it is not the case that the prospect of a probability _p_ of _Y_ otherwise _Z_ is better than the prospect of a probability _p_ of _X_ otherwise _Z_.
+
+- **Continuity:** If prospect _X_ is better than prospect _Y_ and _Y_ is better than prospect _Z_, then there are some probabilities _p_ and _q_ between 0 and 1 such that the prospect of a probability _p_ of _X_ otherwise _Z_ is better than _Y_ and _Y_ is better than the prospect of a probability _q_ of _X_ otherwise _Z_.
+
+In addition to being intuitively compelling, these assumptions can be defended with money-pump arguments.[^H3]
+
+If an evaluation of prospects satisfies these axioms, then it follows (by Von Neumann and Morgenstern’s utility theorem) that the evaluation can be represented by a utility function.[^H4] That is, there is a way of assigning utility numbers to each possible final outcome such that a prospect _X_ is at least as good as a prospect _Y_ if and only if the expected utility from _X_ is at least as great as the expected utility from _Y_.
+
+The final assumption we need connects general value with personal value:[^H5]
+
+> _The Principle of Personal Good_: If prospect _X_ is better than prospect _Y_ for someone and at least as good as _Y_ for everyone, then _X_ is better than _Y_.
+
+Now, we can state the aggregation theorem. It says that, if the Principle of Personal Good is true and both general and personal evaluations of prospects satisfy the expected-utility axioms, then general value can be represented by a utility function that is the sum of utility functions representing each person’s personal value. That is, we find that there are utility functions representing each person’s personal value such that, for any prospects _X_ and _Y_, it holds that _X_ is at least as good as _Y_ if and only if the sum of each person’s utility from _X_ is at least as great as the sum of each person’s utility from _Y_.
+
+This is a plausible candidate for the most important result in all of ethics. We may, however, legitimately wonder if we have derived utilitarianism. There are many utility functions that can be used to represent a person’s personal value from prospects. If a utility function representing your personal value is transformed by multiplying all utilities with a positive constant (or by adding a constant), the result will be another utility function representing your personal value from prospects. So the aggregation theorem does not tell us how much different people’s personal value count relative to each other. In other words, the theorem does not provide a way to make interpersonal comparisons of well-being. Still, we have shown that the overall structure of the moral value of a prospect can be represented as the sum of utilities representing each person’s well-being from the prospect.[^H6]
 
 ### Expanding the Moral Circle
 
@@ -100,11 +120,11 @@ Scheffler’s challenge remains that such a proposal makes moral norms puzzlingl
 
 We earlier suggested that impartial observers should want and hope for the best outcome. Non-consequentialists claim that nonetheless it is sometimes wrong to bring about the best outcome. Putting the two claims together yields the striking result that you should sometimes hope that others act wrongly (even when they are fully informed).
 
-Suppose it would be wrong for some stranger—call him Jack—to kill one innocent person to prevent five other (morally comparable) killings. Non-consequentialists may claim that Jack has a special responsibility to ensure that _he_ does not kill anyone, even if this results in more killings by others. But _you_ are not Jack. From your perspective as an impartial observer, Jack's killing one innocent person is no more or less intrinsically bad than any of the five other killings that would thereby be prevented. You have most reason to hope that there is only one killing rather than five. So you have reason to hope that Jack acts "wrongly" (killing one to save five). But that seems odd.
+Suppose it would be wrong for some stranger—call him Jack—to kill one innocent person to prevent five other (morally comparable) killings. Non-consequentialists may claim that Jack has a special responsibility to ensure that _he_ does not kill anyone, even if this results in more killings by others. But _you_ are not Jack. From your perspective as an impartial observer, Jack’s killing one innocent person is no more or less intrinsically bad than any of the five other killings that would thereby be prevented. You have most reason to hope that there is only one killing rather than five. So you have reason to hope that Jack acts "wrongly" (killing one to save five). But that seems odd.
 
-More than merely being odd, this might even be taken to undermine the claim that deontic constraints _matter_, or are genuinely _important_ to abide by. After all, to be important just is to be worth caring about. For example, we should care if others are harmed, which validates the claim that others' interests are morally important. But if we should not care more about Jack's abiding by the moral constraint against killing than we should about his saving five lives, that would seem to suggest that the constraint against killing is _not_ in fact more morally important than saving five lives.
+More than merely being odd, this might even be taken to undermine the claim that deontic constraints _matter_, or are genuinely _important_ to abide by. After all, to be important just is to be worth caring about. For example, we should care if others are harmed, which validates the claim that others’ interests are morally important. But if we should not care more about Jack’s abiding by the moral constraint against killing than we should about his saving five lives, that would seem to suggest that the constraint against killing is _not_ in fact more morally important than saving five lives.
 
-Finally, since our moral obligations ought to track what is genuinely morally important, if deontic constraints are not in fact important then we cannot be obligated to abide by them.[^20] We cannot be obliged to prioritize deontic constraints over others' lives, if we ought to care more about others' lives than about deontic constraints. So deontic constraints must not accurately describe our obligations after all. Jack really ought to do whatever would do the most good overall, and so should we.
+Finally, since our moral obligations ought to track what is genuinely morally important, if deontic constraints are not in fact important then we cannot be obligated to abide by them.[^20] We cannot be obliged to prioritize deontic constraints over others’ lives, if we ought to care more about others’ lives than about deontic constraints. So deontic constraints must not accurately describe our obligations after all. Jack really ought to do whatever would do the most good overall, and so should we.
 
 #### Skepticism About the Doing vs. Allowing Distinction
 
@@ -120,7 +140,7 @@ Such conservatism might stem from the Just World fallacy: the mistake of assumin
 
 It can similarly be argued that there is no real distinction between imposing harms and withholding benefits. The only difference between the two cases concerns what we understand to be the status quo, which lacks moral significance. Suppose scenario A is better for someone than B. Then to shift from A to B would be a “harm”, while to prevent a shift from B to A would be to “withhold a benefit”. But this is merely a descriptive difference. If we deny that the historically given starting point provides a morally privileged baseline, then we must say that the cost in either case is the same, namely the difference in well-being between A and B. In principle, it should not matter where we start from.[^27]
 
-Now suppose that scenario B is vastly better for someone else than A is: perhaps it will save their life, at the cost of the first person's arm. Nobody would think it okay to kill a person just to save another's arm (that is, to shift from B to A). So if we are to avoid status quo bias, we must similarly judge that it would be wrong to _oppose_ the shift from A to B—that is, we should not object to saving someone’s life at the cost of another’s arm.[^28] We should not care especially about preserving the privilege of whoever stood to benefit by default; such conservatism is not truly fair or just. Instead, our goal should be to bring about whatever outcome would be best _overall_, counting everyone equally, just as utilitarianism prescribes.
+Now suppose that scenario B is vastly better for someone else than A is: perhaps it will save their life, at the cost of the first person’s arm. Nobody would think it okay to kill a person just to save another’s arm (that is, to shift from B to A). So if we are to avoid status quo bias, we must similarly judge that it would be wrong to _oppose_ the shift from A to B—that is, we should not object to saving someone’s life at the cost of another’s arm.[^28] We should not care especially about preserving the privilege of whoever stood to benefit by default; such conservatism is not truly fair or just. Instead, our goal should be to bring about whatever outcome would be best _overall_, counting everyone equally, just as utilitarianism prescribes.
 
 #### Evolutionary Debunking Arguments
 
@@ -154,13 +174,20 @@ The next chapter discusses theories of well-being, or what counts as being good 
 
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. Continuum.
 - Robert Goodin (1995). _[Utilitarianism as a Public Philosophy](https://www.cambridge.org/core/books/utilitarianism-as-a-public-philosophy/DFAF4F0BDBA6B06F9BCB1DDC3D0A26A7)_. Cambridge University Press.
-- Caspar Hare (2016). [Should We Wish Well to All?](http://dx.doi.org/10.1215/00318108-3624764) _Philosophical Review_, 125(4): 451–472.
-- Peter Singer & Katarzyna de Lazari-Radek (2017). Chapter 2: Justifications, in _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford University Press.
+- Caspar Hare (2016). [Should We Wish Well to All?](http://dx.doi.org/10.1215/00318108-3624764), _Philosophical Review_ 125(4): 451–472.
+- Katarzyna de Lazari-Radek & Peter Singer (2017). Chapter 2: Justifications, in _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford University Press.
 - J.J.C. Smart (1973). An outline of a system of utilitarian ethics, in J.J.C. Smart & Bernard Williams, _[Utilitarianism: For and Against](https://www.cambridge.org/core/books/abs/utilitarianism/an-outline-of-a-system-of-utilitarian-ethics/8DE8362FF43188D53C855A70C70223E2)_. Cambridge University Press.
+- John Broome (1987). Utilitarianism and Expected Utility, _The Journal of Philosophy_ 84 (8): 405–422.
+- John Broome (1991). _Weighing Goods: Equality, Uncertainty and Time_. Blackwell.
+- Johan E. Gustafsson (2022). _Money-Pump Arguments_. Cambridge University Press.
+- John C. Harsanyi (1955). Cardinal Welfare, Individualistic Ethics, and Interpersonal Comparisons of Utility, _The Journal of Political Economy_ 63 (4): 309–321.
+- John C. Harsanyi (1977). _Rational Behavior and Bargaining Equilibrium in Games and Social Situations_, Cambridge University Press.
+- Niels Erik Jensen (1967). An Introduction to Bernoullian Utility Theory: I. Utility Functions, _Swedish Journal of Economics_ 69 (3): 163–183.
+- John von Neumann and Oskar Morgenstern (1944). _Theory of Games and Economic Behavior_. Princeton University Press.
 
 [^1]: Daniels, N. (2020). [Reflective Equilibrium](https://plato.stanford.edu/archives/sum2020/entries/reflective-equilibrium/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 [^2]: That is not to say that either answer is in fact equally good or correct, but just that you should expect it to be difficult to _persuade_ those who respond to the conflicts in a different way than you do.
-[^3]: Of course, there may be exceptional circumstances in which stealing is overall beneficial and hence justified, for instance when stealing a loaf of bread is required to save a starving person's life.
+[^3]: Of course, there may be exceptional circumstances in which stealing is overall beneficial and hence justified, for instance when stealing a loaf of bread is required to save a starving person’s life.
 [^4]: Here it is important to consider the indirect costs of reducing social trust, in addition to the obvious direct costs to the victim.
 [^5]:
     Compare our defense of additive aggregationism in [another chapter](/types-of-utilitarianism#additive-aggregationism), showing how, in practice, almost everyone endorses allowing sufficiently many small benefits to outweigh great costs to a few: “For example, allowing cars to drive fast on roads increases the number of people who die in accidents. Placing exceedingly low speed limits would save lives at the cost of inconveniencing many drivers. Most people demonstrate an implicit commitment to aggregationism when they judge it worse to impose these many inconveniences for the sake of saving a few lives.”
@@ -168,29 +195,44 @@ The next chapter discusses theories of well-being, or what counts as being good 
     See also Goodin, R. (1995). _Utilitarianism as a Public Philosophy_. Cambridge University Press.
 
 [^6]: Smart, J.J.C. (1956). Extreme and restricted utilitarianism. _The Philosophical Quarterly_, 6(25): 344–354.
-[^7]: Singer, P. (2011). Chapter 2: Equality and Its Implications, in _[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics)_ (3rd ed.). Cambridge University Press.
-[^8]: Preference utilitarianism accepts a [desire theory](/theories-of-wellbeing#desire-theories) of well-being.
-[^9]:
+[^7]: 
     The “veil of ignorance” thought experiment was originally developed by Vickrey and Harsanyi, though nowadays it is more often associated with John Rawls, who coined the term and tweaked the thought experiment to arrive at different conclusions. Specifically, Rawls appealed to a version in which you are additionally ignorant of the relative probabilities of ending up in various positions, in order to block the utilitarian implications and argue instead for a “maximin” position that gives lexical priority to raising the well-being of the worst-off.
+
     Vickrey, W. (1945). Measuring Marginal Utility by Reactions to Risk. _Econometrica_, 13(4): 329.
     Harsanyi, J.C. (1953). Cardinal Utility in Welfare Economics and in the Theory of Risk-taking. _Journal of Political Economy_, 61(5): 434–435.
     Rawls, J. (1971). _A Theory of Justice_. Belknap Press.
 
-[^10]:
+[^8]:
     Harsanyi formalized his argument for utilitarianism in Harsanyi, J. (1978). [Bayesian Decision Theory and Utilitarian Ethics](http://www.jstor.org/stable/1816692). _The American Economic Review_, 68(2): 223–228.
     For discussion about his proof, see Greaves, H. (2017). [A Reconsideration of the Harsanyi–Sen–Weymark Debate on Utilitarianism](https://www.cambridge.org/core/journals/utilitas/article/reconsideration-of-the-harsanyisenweymark-debate-on-utilitarianism/45B191ED9B7BE4ACF598B49A74DCDF0E). _Utilitas_, 29(2): 175–213.
+
+[^9]: Caspar Hare (2016). [Should We Wish Well to All?](http://dx.doi.org/10.1215/00318108-3624764) _Philosophical Review_, 125(4): 451–472.
+[^10]: It’s notoriously unclear how to apply the veil of ignorance to "different number" cases in [population ethics](/population-ethics/), for example.
+
+[^H1]: Harsanyi (1955, pp. 312–314; 1977, pp. 64–68). The presentation here follows the reinterpretation in Broome (1987, pp. 410–411; 1991, pp. 202–209).
+
+[^H2]: von Neumann and Morgenstern (1944, pp. 26–27), and Jensen (1967, p. 173).
+
+[^H3]: Gustafsson (2022).
+
+[^H4]: von Neumann and Morgenstern (1944, pp. 26–27), and Jensen (1967, p. 173).
+
+[^H5]: Broome (1987, p. 410; 1991, p. 165). This is also known as the _[Ex Ante Pareto](/glossary#ex-ante-pareto)_ principle.
+
+[^H6]: This section was written by Johan E. Gustafsson, summarizing his forthcoming guest essay on Formal Arguments for Utilitarianism (co-authored with Kacper Kowalczyk), to appear at <www.utilitarianism.net/guest-essays/>.
 
 [^11]: Singer, P. (2011). _[The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle)_. Princeton University Press.
 [^12]: Cf. Williams, E. G. (2015). [The Possibility of an Ongoing Moral Catastrophe](https://link.springer.com/article/10.1007/s10677-015-9567-7). _Ethical Theory and Moral Practice_, 18(5): 971–982.
 [^13]: That is, fully informed moral agents who successfully do what they objectively ought to do. It would of course be no surprise if a misinformed or misguided moral agent made things worse.
 [^14]:
-    Philippa Foot famously characterized the “spellbinding force” of utilitarianism (and consequentialism more broadly) as stemming from “the rather simple thought that it can never be right to prefer a worse state of affairs to a better”., p. 198
-    Foot, P. (1985). [Utilitarianism and the Virtues](https://dx.doi.org/10.1093/mind/XCIV.374.196). _Mind_, 94(374): 196–209.
+    Philippa Foot famously characterized the “spellbinding force” of utilitarianism (and consequentialism more broadly) as stemming from “the rather simple thought that it can never be right to prefer a worse state of affairs to a better”.
+
+    Foot, P. (1985). [Utilitarianism and the Virtues](https://dx.doi.org/10.1093/mind/XCIV.374.196). _Mind_, 94 (374): 196–209, p. 198.
 
 [^15]: The following arguments should also apply against virtue ethics approaches, if they yield non-consequentialist verdicts about what _acts_ should be done.
 [^16]: Absolutist deontologists hold such judgments to apply _no matter the consequences_. Moderate deontologists instead take the identified actions to be _presumptively_ wrong, and not _easily_ outweighed, but allow that this may be outweighed if a _sufficient_ amount of value was on the line. So, for example, a moderate deontologist might allow that it is permissible to lie in order to save someone’s life, or to kill one innocent person in order to save a million.
 [^17]:
-    Samuel Scheffler noted that “either way, someone loses: some inviolable person is violated. Why isn't it at least permissible to prevent the violation of five people by violating one?”
+    Samuel Scheffler noted that “either way, someone loses: some inviolable person is violated. Why isn’t it at least permissible to prevent the violation of five people by violating one?”
     Scheffler, S. (1984). The Rejection of Consequentialism., p. 88
 
 [^18]: Scheffler, S. (1985). [Agent-Centred Restrictions, Rationality, and the Virtues](https://dx.doi.org/10.1093/mind/XCIV.375.409). _Mind_, 94(375): 409–19.
