@@ -175,7 +175,7 @@ The next chapter discusses theories of well-being, or what counts as being good 
     See also Goodin, R. (1995). _Utilitarianism as a Public Philosophy_. Cambridge University Press.
 
 [^6]: Smart, J.J.C. (1956). Extreme and restricted utilitarianism. _The Philosophical Quarterly_, 6(25): 344–354.
-[^7]: 
+[^7]:
     The “veil of ignorance” thought experiment was originally developed by Vickrey and Harsanyi, though nowadays it is more often associated with John Rawls, who coined the term and tweaked the thought experiment to arrive at different conclusions. Specifically, Rawls appealed to a version in which you are additionally ignorant of the relative probabilities of ending up in various positions, in order to block the utilitarian implications and argue instead for a “maximin” position that gives lexical priority to raising the well-being of the worst-off.
 
     Vickrey, W. (1945). Measuring Marginal Utility by Reactions to Risk. _Econometrica_, 13(4): 329.
