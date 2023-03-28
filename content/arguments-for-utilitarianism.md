@@ -203,11 +203,6 @@ The next chapter discusses theories of well-being, or what counts as being good 
 
 [^11]: Singer, P. (2011). _[The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle)_. Princeton University Press.
 [^12]: Cf. Williams, E. G. (2015). [The Possibility of an Ongoing Moral Catastrophe](https://link.springer.com/article/10.1007/s10677-015-9567-7). _Ethical Theory and Moral Practice_, 18(5): 971–982.
-[^13]: That is, fully informed moral agents who successfully do what they objectively ought to do. It would of course be no surprise if a misinformed or misguided moral agent made things worse.
-[^14]:
-    Philippa Foot famously characterized the “spellbinding force” of utilitarianism (and consequentialism more broadly) as stemming from “the rather simple thought that it can never be right to prefer a worse state of affairs to a better”.
-
-    Foot, P. (1985). [Utilitarianism and the Virtues](https://dx.doi.org/10.1093/mind/XCIV.374.196). _Mind_, 94 (374): 196–209, p. 198.
 
 [^15]: The following arguments should also apply against virtue ethics approaches, if they yield non-consequentialist verdicts about what _acts_ should be done.
 [^16]: Absolutist deontologists hold such judgments to apply _no matter the consequences_. Moderate deontologists instead take the identified actions to be _presumptively_ wrong, and not _easily_ outweighed, but allow that this may be outweighed if a _sufficient_ amount of value was on the line. So, for example, a moderate deontologist might allow that it is permissible to lie in order to save someone’s life, or to kill one innocent person in order to save a million.
