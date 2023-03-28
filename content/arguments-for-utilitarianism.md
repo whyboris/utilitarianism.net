@@ -146,7 +146,7 @@ The next chapter discusses theories of well-being, or what counts as being good 
 
 {{< next-page-textbook title="Theories of Well-Being" url="/theories-of-wellbeing" >}}
 
-{{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
+{{< how-to-cite authors="Chappell, R.Y., Meissner, D., and Gustafsson, J." >}}
 
 {{< button >}}
 
