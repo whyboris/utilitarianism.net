@@ -82,33 +82,13 @@ When we look back on past moral atrocities—like slavery or denying women equal
 
 While this conclusion is not yet all the way to full-blown utilitarianism, since it is compatible with, for example, holding that there are side-constraints limiting one’s pursuit of the good, it is likely sufficient to secure agreement with the most important [practical implications of utilitarianism](/acting-on-utilitarianism) (stemming from [cosmopolitanism](/utilitarianism-and-practical-ethics#cosmopolitanism), [anti-speciesism](/utilitarianism-and-practical-ethics#speciesism), and [longtermism](/utilitarianism-and-practical-ethics#longtermism)).
 
-## Arguments for Consequentialism
+## The Poverty of the Alternatives
 
-Utilitarianism is the paradigmatic form of consequentialism. So one way to support utilitarianism (alongside other consequentialist views) is to argue in favor of consequentialism more broadly, and against the non-consequentialist alternatives. The remainder of this chapter explores such arguments.
-
-### Agency as a Force for Good
-
-If some form of consequentialism is true, then we can expect (successful)[^13] moral agents to have positive instrumental value: their presence in a situation will tend to make things go better. On non-consequentialist views, by contrast, there is no such connection between doing the right thing and making things better. Sometimes agents might even be obliged to make things _worse_ (because the better _outcome_ is only obtainable through making a morally worse _choice_, such as wrongly killing an innocent person). Insofar as we are inclined to think that moral agents should be a force for good in the world, that gives us reason to favor consequentialist views.
-
-It can be difficult to resist the general consequentialist principle that more desirable outcomes are more worth bringing about. Put simply: if you have a choice between bringing about a better outcome or a worse one, surely it would be morally better to choose the better outcome?[^14]
-
-This argument rests on a conception of action as _teleological_ or goal-directed in nature. The purpose of action, on this view, is to _bring about_ desired outcomes. Of course, we are not always so deliberate. One may spontaneously sing a song without intending to bring about any _further_ effect. But it remains plausible that this is a good idea only if the outcome which includes one’s singing is better (perhaps because it is more joyful) than the available alternatives. After all, if remaining silent would somehow save another’s life, that would surely change things. So it is hard to deny that actions are justified to the extent that they bring about things that we ought to want—that is, good outcomes.
-
-On this view, if it would be good for something to happen, then it would be good, all else equal, to _choose_ this outcome—to _make_ it happen. Consider a “lifeboat” scenario where five people are drowning in one direction, and one person is drowning in the opposite direction, with not enough time to save everyone. We all agree it would be better if more lives are saved—for instance, if a lifeboat, floating in the water, were to drift towards the five rather than the one. If we now add a captain to direct the lifeboat, some non-consequentialists would instead insist that fairness requires the captain to flip a coin to decide which group to save. But that violates the principle that better outcomes are more worth choosing.
-
-It would seem strange to think that giving a fully informed and morally ideal agent control over a situation could make the outcome worse than if they had not been there at all. But that can sometimes happen on non-consequentialist accounts, which sometimes require agents to choose (or needlessly risk) worse outcomes.
-
-To see this, suppose that (i) the lifeboat would naturally drift towards the five, if no-one was steering it, and yet (ii) because the captain is steering the boat, fairness requires him to flip a coin to decide which group to save. If both claims were true, then it would be a bad thing for the world to have the captain steering the lifeboat, even when he is fully informed and morally ideal. For that would needlessly risk the worse outcome (depending on the flip of the coin). We would be better off just letting the lifeboat drift naturally towards the five, ensuring the best outcome. But if that is better, then it seems that a morally ideal agent ought to prefer that, too. This casts doubt on the non-consequentialist claim (ii), above, that fairness requires the captain to flip a coin and risk a worse outcome. Morally ideal agents should bring about the outcome that they ought to prefer—namely, the outcome that is overall best.
-
-Non-consequentialist views imply that it could be “wrong” to make the world a better place, and “right” to make it worse. But that seems odd. Worse, it implies that it could be _undesirable_ to have more moral agents making correct decisions. Only consequentialist views, such as utilitarianism, ensure that it is always morally right to bring about better outcomes, and hence that correct moral decision-making is a force for good in the world.
-
-### The Poverty of the Alternatives
-
-We have seen that there is a strong presumptive case in favor of utilitarianism. If no competing view can be shown to be superior, then utilitarianism has a strong claim to be the “default” moral theory that we should fall back on. It turns out that one of the strongest considerations in favor of utilitarianism (and related consequentialist views) is the deficiencies of the alternatives. Deontological (or rule-based) theories, in particular, seem to rest on questionable foundations.[^15]
+We have seen that there is a strong presumptive case in favor of utilitarianism. If no competing view can be shown to be superior, then utilitarianism has a strong claim to be the “default” moral theory. In fact, one of the strongest considerations in favor of utilitarianism (and related consequentialist views) is the deficiencies of the alternatives. Deontological (or rule-based) theories, in particular, seem to rest on questionable foundations.[^15]
 
 Deontological theories are explicitly _non-consequentialist_: instead of morally assessing actions by evaluating their consequences, these theories tend to take certain types of action (such as killing an innocent person) to be _intrinsically_ wrong.[^16] There are reasons to be dubious of this approach to ethics, however.
 
-#### The Paradox of Deontology
+### The Paradox of Deontology
 
 Deontologists hold that there is a _constraint_ against killing: that it is wrong to kill an innocent person even if this would save five _other_ innocent people from being killed. This verdict can seem puzzling on its face.[^17] After all, given how terrible killing is, should we not want there to be _less_ of it? As Scheffler (1985) argued, rational choice in general tends to be goal-directed, a conception which fits poorly with deontic constraints.[^18] A deontologist might claim that their goal is simply to avoid violating moral constraints _themselves_, which they can best achieve by not killing anyone, even if that results in more individuals being killed. While this explanation can render deontological verdicts coherent, it does so at the cost of making them seem awfully narcissistic, as though the deontologist’s central concern was just to maintain their own moral purity or “clean hands”.
 
@@ -116,7 +96,7 @@ Deontologists might push back against this characterization by instead insisting
 
 Scheffler’s challenge remains that such a proposal makes moral norms puzzlingly divergent from other kinds of practical norms. If morality sometimes calls for respecting value rather than promoting it, why is the same not true of prudence? (Given that pain is bad for you, for example, it would not seem prudent to refuse a painful operation now if the refusal commits you to five comparably painful operations in future.) Deontologists may offer various answers to this question, but insofar as we are inclined to think, pre-theoretically, that ethics ought to be continuous with other forms of rational choice, that gives us some reason to prefer consequentialist accounts.
 
-#### The Hope Objection
+### The Hope Objection
 
 We earlier suggested that impartial observers should want and hope for the best outcome. Non-consequentialists claim that nonetheless it is sometimes wrong to bring about the best outcome. Putting the two claims together yields the striking result that you should sometimes hope that others act wrongly (even when they are fully informed).
 
@@ -126,13 +106,13 @@ More than merely being odd, this might even be taken to undermine the claim that
 
 Finally, since our moral obligations ought to track what is genuinely morally important, if deontic constraints are not in fact important then we cannot be obligated to abide by them.[^20] We cannot be obliged to prioritize deontic constraints over others’ lives, if we ought to care more about others’ lives than about deontic constraints. So deontic constraints must not accurately describe our obligations after all. Jack really ought to do whatever would do the most good overall, and so should we.
 
-#### Skepticism About the Doing vs. Allowing Distinction
+### Skepticism About the Distinction Between Doing and Allowing
 
 You might wonder: if respect for others requires not harming them (even to help others more), why does it not equally require not _allowing_ them to be harmed? Deontological moral theories place great weight on distinctions such as those between [doing and allowing harm](/utilitarianism-and-practical-ethics#is-there-a-difference-between-doing-and-allowing-harm), or killing and letting die, or intended versus merely foreseen harms. But _why_ should these be treated so differently? If a victim ends up equally dead either way, whether they were killed or “merely” allowed to die would not seem to make much difference to them—surely what matters to them is just their death.
 
 Indeed, it is far from clear that there _is_ any robust distinction between “doing” and “allowing”. Sometimes you might “do” something by remaining perfectly still.[^21] Also, when a doctor unplugs a terminal patient from life support machines, this is typically thought of as “letting die”; but if a mafioso, worried about an informant’s potentially incriminating testimony, snuck in to the hospital and unplugged the informant’s life support, we are more likely to judge it to constitute “killing”.[^22] Bennett (1998) argues at length that there is no satisfactory, fully general distinction between doing and allowing—at least, none that would vindicate the moral significance that deontologists want to attribute to such a distinction.[^23] If Bennett is right, then that might force us towards some form of consequentialism (such as utilitarianism) instead.
 
-#### Status Quo Bias
+### Status Quo Bias
 
 Opposition to utilitarian trade-offs—that is, benefiting some at a lesser cost to others—amounts to a kind of status quo bias, prioritizing the _preservation of privilege_ over promoting well-being more generally.
 
@@ -142,7 +122,7 @@ It can similarly be argued that there is no real distinction between imposing ha
 
 Now suppose that scenario B is vastly better for someone else than A is: perhaps it will save their life, at the cost of the first person’s arm. Nobody would think it okay to kill a person just to save another’s arm (that is, to shift from B to A). So if we are to avoid status quo bias, we must similarly judge that it would be wrong to _oppose_ the shift from A to B—that is, we should not object to saving someone’s life at the cost of another’s arm.[^28] We should not care especially about preserving the privilege of whoever stood to benefit by default; such conservatism is not truly fair or just. Instead, our goal should be to bring about whatever outcome would be best _overall_, counting everyone equally, just as utilitarianism prescribes.
 
-#### Evolutionary Debunking Arguments
+### Evolutionary Debunking Arguments
 
 Against these powerful theoretical objections, the main consideration that deontological theories have going for them is closer conformity with our intuitions about particular cases. But if these intuitions cannot be supported by independently plausible principles, that may undermine their force—or suggest that we should interpret these intuitions as good rules of thumb for practical guidance, rather than as indicating what _fundamentally_ matters.
 
