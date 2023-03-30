@@ -67,12 +67,12 @@ It would be deeply alienating for a moral theory to invalidate the overwhelming 
 
 ## Resources and Further Reading
 
-- Chappell, R.Y. (2021). [The Right Wrong-Makers](https://philpapers.org/rec/CHATRW-3). _Philosophy and Phenomenological Research_, 103(2): 426–440.
-- Maguire, B. & Baker, C. (2020). [The Alienation Objection to Consequentialism](https://philpapers.org/rec/MAGTAO-6), in D. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press.
-- Pettit, P. & Brennan, G. (1986). [Restrictive Consequentialism](https://philpapers.org/rec/PETRC). _Australasian Journal of Philosophy_, 64(4): 438–455.
-- Railton, P. (1984). [Alienation, Consequentialism, and the Demands of Morality](https://philpapers.org/rec/RAIACA). _Philosophy and Public Affairs_, 13(2): 134–171.
-- Stocker, M. (1976). [The Schizophrenia of Modern Ethical Theories](https://dx.doi.org/10.2307/2025782). _Journal of Philosophy_, 73: 453–466.
-- Williams, B. (1981). Persons, Character and Morality. In _Moral Luck: Philosophical Papers, 1973–1980_, Cambridge University Press.
+- Richard Y. Chappell, (2021). [The Right Wrong-Makers](https://philpapers.org/rec/CHATRW-3). _Philosophy and Phenomenological Research_, 103(2): 426–440.
+- Barry Maguire & Calvin Baker (2020). [The Alienation Objection to Consequentialism](https://philpapers.org/rec/MAGTAO-6), in D. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press.
+- Philip Pettit & Geoffrey Brennan (1986). [Restrictive Consequentialism](https://philpapers.org/rec/PETRC). _Australasian Journal of Philosophy_, 64(4): 438–455.
+- Peter Railton (1984). [Alienation, Consequentialism, and the Demands of Morality](https://philpapers.org/rec/RAIACA). _Philosophy and Public Affairs_, 13(2): 134–171.
+- Michael Stocker (1976). [The Schizophrenia of Modern Ethical Theories](https://dx.doi.org/10.2307/2025782). _Journal of Philosophy_, 73: 453–466.
+- Bernard Williams (1981). Persons, Character and Morality. In _Moral Luck: Philosophical Papers, 1973–1980_, Cambridge University Press.
 
 [^1]: This example is adapted from Stocker, M. (1976). [The Schizophrenia of Modern Ethical Theories](https://dx.doi.org/10.2307/2025782). _Journal of Philosophy_, 73: 453–466, p. 462. Of course, if you wanted to cheer up your friend, you would refrain from voicing such a callous thought aloud. But it seems bad enough to even be _thinking_ that way.
 [^2]: Williams, B. (1981). Persons, Character and Morality. In _Moral Luck: Philosophical Papers, 1973–1980_, Cambridge University Press.

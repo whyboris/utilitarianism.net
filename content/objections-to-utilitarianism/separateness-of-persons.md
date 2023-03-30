@@ -109,16 +109,16 @@ We have seen that the “separateness of persons” objection to utilitarianism 
 
 ## Resources and Further Reading
 
-- Brink, D. (2020). [Consequentialism, the Separateness of Persons, and Aggregation](https://www.doi.org/10.1093/oxfordhb/9780190905323.013.14). In Douglas W. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press.
-- Chappell, R.Y. (2021). _[Parfit’s Ethics](https://philpapers.org/rec/CHAPE-5)_, section 3.2. Cambridge University Press. (Note that Chappell is a co-author of this website.)
-- Chappell, R.Y. (2015). [Value Receptacles](https://dx.doi.org/10.1111/nous.12023). _Noûs_, 49(2): 322–332.
-- Cohen, G.A. (2011). [Rescuing Conservatism: A Defense of Existing Value](https://doi.org/10.1093/acprof:oso/9780199753673.003.0009). In R. Jay Wallace, Rahul Kumar, and Samuel Freeman (eds.), _Reasons and Recognition: Essays on the Philosophy of T.M. Scanlon_. Oxford University Press.
-- Dickert, S., Västfjäll, D., Kleber, J., & Slovic, P. (2015). [Scope insensitivity: The limits of intuitive valuation of human lives in public policy](http://dx.doi.org/10.1016/j.jarmac.2014.09.002). _Journal of Applied Research in Memory and Cognition_, 4(3): 248–255.
-- Nozick, R. (1974). _Anarchy, State, and Utopia._ Basic Books.
-- Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio,_ 16(4): 368–390
-- Paul, E.F., Miller, F., and Paul, J. (eds.) (2010). _[Utilitarianism: The Aggregation Question](https://www.cambridge.org/us/academic/subjects/philosophy/ethics/utilitarianism-aggregation-question-volume-26-part-1?format=PB&isbn=9780521756327)_. Cambridge University Press.
-- Rawls, J. (1971). _A Theory of Justice_. Belknap Press.
-- Scanlon, T.M. (1998). _What We Owe to Each Other_. Belknap Press.
+- David Brink (2020). [Consequentialism, the Separateness of Persons, and Aggregation](https://www.doi.org/10.1093/oxfordhb/9780190905323.013.14). In Douglas W. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press.
+- Richard Y. Chappell (2021). _[Parfit’s Ethics](https://philpapers.org/rec/CHAPE-5)_, section 3.2. Cambridge University Press.
+- Richard Y. Chappell (2015). [Value Receptacles](https://dx.doi.org/10.1111/nous.12023). _Noûs_, 49(2): 322–332.
+- G.A. Cohen (2011). [Rescuing Conservatism: A Defense of Existing Value](https://doi.org/10.1093/acprof:oso/9780199753673.003.0009). In R. Jay Wallace, Rahul Kumar, and Samuel Freeman (eds.), _Reasons and Recognition: Essays on the Philosophy of T.M. Scanlon_. Oxford University Press.
+- Stephan Dickert, Daniel Västfjäll, Janet Kleber, and Paul Slovic (2015). [Scope insensitivity: The limits of intuitive valuation of human lives in public policy](http://dx.doi.org/10.1016/j.jarmac.2014.09.002). _Journal of Applied Research in Memory and Cognition_, 4(3): 248–255.
+- Robert Nozick (1974). _Anarchy, State, and Utopia._ Basic Books.
+- Derek Parfit (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio,_ 16(4): 368–390
+- Ellen Frankel Paul, Fred D. Miller, Jr., and Jeffrey Paul (eds.) (2010). _[Utilitarianism: The Aggregation Question](https://www.cambridge.org/us/academic/subjects/philosophy/ethics/utilitarianism-aggregation-question-volume-26-part-1?format=PB&isbn=9780521756327)_. Cambridge University Press.
+- John Rawls (1971). _A Theory of Justice_. Belknap Press.
+- T.M. Scanlon (1998). _What We Owe to Each Other_. Belknap Press.
 
 [^1]: Rawls, J. (1971). _A Theory of Justice_, p.27.
 [^2]:

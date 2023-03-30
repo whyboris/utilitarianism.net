@@ -76,11 +76,11 @@ Finally, proponents of utilitarianism may simply “bite the bullet” and accep
 ## Resources and Further Reading
 
 - Brian Berkey (2016). [The Demandingness of Morality: Toward a Reflective Equilibrium](https://doi.org/10.1007/s11098-016-0648-9). _Philosophical Studies_. 173(11): 3015–3035.
-- Peter Singer (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243.
-- Peter Singer & Katarzyna de Lazari-Radek (2014). _[The Point of View of the Universe: Sidgwick and Contemporary Ethics](https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199603695.001.0001/acprof-9780199603695)_. Oxford: Oxford University Press., pp. 317–336.
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. London: Continuum. Chapter 7: Is Utilitarianism too Demanding?
-- David Sobel (2007). [The Impotence of the Demandingness Objection](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/impotence-of-the-demandingness-objection.pdf?c=phimp;idno=3521354.0007.008;format=pdf). _Philosophers' Imprint_. 7(8): 1–17.
 - Shelly Kagan (1984). [Does Consequentialism Demand Too Much? Recent work on the Limits of Obligation](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/7/724/files/2016/01/Does-Consequentialism-Demand-Too-Much-14mwbda.pdf). _Philosophy & Public Affairs_. 13(3): 239–254.
+- Katarzyna de Lazari-Radek & Peter Singer (2014). _[The Point of View of the Universe: Sidgwick and Contemporary Ethics](https://global.oup.com/academic/product/the-point-of-view-of-the-universe-9780199603695)_. Oxford: Oxford University Press., pp. 317–336.
+- Peter Singer (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243.
+- David Sobel (2007). [The Impotence of the Demandingness Objection](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/impotence-of-the-demandingness-objection.pdf?c=phimp;idno=3521354.0007.008;format=pdf). _Philosophers' Imprint_. 7(8): 1–17.
 - Susan Wolf (1982). [Moral Saints](https://www.jstor.org/stable/2026228?seq=1). _The Journal of Philosophy_. 79(8): 419–434.
 
 [^1]: Cf. Wolf, S. (1982). [Moral Saints](https://www.jstor.org/stable/2026228). _The Journal of Philosophy_. _79_(8): 419–439.

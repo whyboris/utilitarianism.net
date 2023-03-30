@@ -158,12 +158,11 @@ To do the most good they can, utilitarians often donate money to effective chari
 ### General
 
 - Peter Singer (2011). _[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics)_, 3rd edition. Cambridge: Cambridge University Press.
-- Peter Singer & Katarzyna de Lazari-Radek (2017). Chapter 6: Utilitarianism in Action, _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford: Oxford University Press.
+- Katarzyna de Lazari-Radek & Peter Singer (2017). Chapter 6: Utilitarianism in Action, _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford: Oxford University Press.
 
 ### Effective Altruism
 
 - William MacAskill (2019). [Effective Altruism](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7205d104c7bf5cc8f1dca/1539776611190/Effective+Altruism+-+Introduction.pdf). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.).[^40]
-
 - William MacAskill (2015). _[Doing Good Better: Effective Altruism and How You Can Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Penguin Random House.
 - William MacAskill (2018). [What Are the Most Important Moral Problems of Our Time?](https://www.ted.com/talks/will_macaskill_what_are_the_most_important_moral_problems_of_our_time) _TED_.
 - Peter Singer (2013). [The Why and How of Effective Altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en). _TED_.
@@ -182,12 +181,12 @@ To do the most good they can, utilitarians often donate money to effective chari
 ### Global Health and Development
 
 - Peter Singer (2019). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_, updated 10th anniversary edition. New York: Penguin Random House. (The book is available for free download)
-- Toby Ord (2019).[ The Moral Imperative toward Cost-Effectiveness in Global Health](https://www.givingwhatwecan.org/research/the-moral-imperative-towards-cost-effectiveness/), in Greaves, H. (ed.) _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
+- Toby Ord (2019).[The Moral Imperative toward Cost-Effectiveness in Global Health](https://www.givingwhatwecan.org/research/the-moral-imperative-towards-cost-effectiveness/), in Greaves, H. (ed.) _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
 - Peter Unger (1996). _[Living High and Letting Die: Our Illusion of Innocence](https://doi.org/10.1093/0195108590.001.0001)_. Oxford: Oxford University Press.
 
 ### Farm Animal Welfare
 
-- Tyler John and Jeff Sebo. [Consequentialism and Nonhuman Animals](https://web.archive.org/web/20210212130214/https://jeffsebodotnet.files.wordpress.com/2019/06/consequentialism-and-nonhuman-animals-penultimate.pdf). In _The Oxford Handbook of Consequentialism_, Douglas W. Portmore (ed.). Oxford: Oxford University Press.
+- Tyler John and Jeff Sebo (2020). [Consequentialism and Nonhuman Animals](https://web.archive.org/web/20210212130214/https://jeffsebodotnet.files.wordpress.com/2019/06/consequentialism-and-nonhuman-animals-penultimate.pdf). In _The Oxford Handbook of Consequentialism_, Douglas W. Portmore (ed.). Oxford: Oxford University Press.
 - Lewis Bollard (2021). [Lewis Bollard on big wins against factory farming and how they happened](https://80000hours.org/podcast/episodes/lewis-bollard-big-wins-against-factory-farming/). _80,000 Hours Podcast with Rob Wiblin_.
 - Jess Whittlestone (2017). [Animal Welfare](https://www.effectivealtruism.org/articles/cause-profile-animal-welfare/). _Effective Altruism_.
 
@@ -225,7 +224,7 @@ To do the most good they can, utilitarians often donate money to effective chari
 [^15]: GiveWell (2019). [Your Dollar Goes Further Overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
 [^16]: GiveWell (2021). [Our Top Charities](https://www.givewell.org/charities/top-charities).
 [^17]: Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.)., pp. 143-144
-[^18]: As explained in the chapter[ Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#speciesism), giving equal moral consideration to all animals does not necessarily imply that we should treat them all equally.
+[^18]: As explained in the chapter [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#speciesism), giving equal moral consideration to all animals does not necessarily imply that we should treat them all equally.
 [^19]: Sanders, B. (2018). [Global Animal Slaughter Statistics And Charts](https://faunalytics.org/global-animal-slaughter-statistics-and-charts/). _Faunalytics_.
 [^20]: Witwicki, K. (2019). [Global Farmed & Factory Farmed Animals Estimates](https://www.sentienceinstitute.org/global-animal-farming-estimates). _Sentience Institute_.
 [^21]: Šimčikas, S. (2019). [Corporate campaigns affect 9 to 120 years of chicken life per dollar spent](https://forum.effectivealtruism.org/posts/L5EZjjXKdNgcm253H/corporate-campaigns-affect-9-to-120-years-of-chicken-life). _Effective Altruism Forum_.

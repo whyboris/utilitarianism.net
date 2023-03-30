@@ -73,8 +73,8 @@ But there may be other, closely related, objections that people sometimes have i
 
 ## Resources and Further Reading
 
-- Derek Parfit (2011). _On What Matters: Vol 1_. Oxford University Press. Chapter 9: Merely as a Means.
 - Samuel Kerstein (2019). [Treating Persons as Means](https://plato.stanford.edu/archives/sum2019/entries/persons-means/), _The Stanford Encyclopedia of Philosophy_ (Summer 2019 Edition), Edward N. Zalta (ed.).
+- Derek Parfit (2011). _On What Matters: Vol 1_. Oxford University Press. Chapter 9: Merely as a Means.
 
 [^1]: Strictly speaking, this objection applies to all (aggregative) consequentialist theories. The responses we offer on behalf of utilitarianism in this article would equally apply in defense of other consequentialist theories.
 [^2]: Kant, Immanuel (1785). _[Groundwork of the Metaphysics of Morals](https://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf)_, translated by Jonathan Bennett.

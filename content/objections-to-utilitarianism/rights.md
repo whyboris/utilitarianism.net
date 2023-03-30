@@ -71,11 +71,12 @@ Of course, it's important to stress that real life comes with no such stipulatio
 
 ## Resources and Further Reading
 
-- Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford: Oxford University Press. Chapter 4: Objections, Section “Does utilitarianism tell us to act immorally?”.
+- Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford: Oxford University Press. Chapter 4: Objections, Section “Does utilitarianism tell us to act immorally?”.
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. London: Continuum. Chapter 8: Is Utilitarianism too Permissive?
 - Shelly Kagan (1998). _[Normative Ethics](https://books.google.de/books/about/Normative_Ethics.html?id=iO8TAAAAYAAJ&redir_esc=y)_. Boulder, CO: Westview Press. Chapter 3.
 - Shelly Kagan (1989). _[The Limits of Morality](https://oxford.universitypressscholarship.com/view/10.1093/0198239165.001.0001/acprof-9780198239161)_. New York: Oxford University Press.
 - Eduardo Rivera-López (2012). [The Moral Murderer. A (more) effective counterexample to consequentialism](https://doi.org/10.1111/j.1467-9329.2012.00544.x). _Ratio_, 25(3): 307–325.
+- Judith Jarvis Thomson (1976). [Killing, Letting Die, and the Trolley Problem](https://doi.org/10.5840/monist197659224). _The Monist_. 59 (2): 204–17
 
 [^1]: Adapted from Thomson, J. (1976). [Killing, Letting Die, and the Trolley Problem](https://doi.org/10.5840/monist197659224). _The Monist_. 59 (2): 204–17, p. 206.
 [^2]:

@@ -172,20 +172,20 @@ Good luck! And remember to cite your sources.
 
 ## Resources and Further Reading
 
-- Singer, P. (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243.
-- Singer, P. (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. (Download a free ebook or audiobook of the 10th anniversary edition at [www.thelifeyoucansave.org](www.thelifeyoucansave.org).)
-- Miller, R. (2004). [Beneficence, Duty and Distance](https://dx.doi.org/10.1111/j.1088-4963.2004.00018.x). _Philosophy and Public Affairs_, 32(4): 357–383.
-- Timmerman, T. (2015). [Sometimes there is nothing wrong with letting a child drown](https://dx.doi.org/10.1093/analys/anv015). _Analysis_, 75(2): 204–212.
-- Pummer, T. (2023). _[The Rules of Rescue: Cost, Distance, and Effective Altruism](http://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780190884147.pdf)_. Oxford University Press.
-- Unger, P. (1996). _Living High and Letting Die: Our Illusion of Innocence_. Oxford University Press.
-- Sterri, A.B. & Moen, O.M. (2021). [The ethics of emergencies](https://dx.doi.org/10.1007/s11098-020-01566-0). _Philosophical Studies,_ 178 (8): 2621–2634.
-- Kamm, F.M. (1999). Famine Ethics: The Problem of Distance in Morality and Singer’s Ethical Theory, in _Singer and His Critics_, ed. Dale Jamieson, Oxford: Blackwell: 174–203.
-- Slote, M. (2007). Famine, Affluence, and Virtue, in _Working Virtue: Virtue Ethics and Contemporary Moral Problems_, ed. Rebecca L. Walker and Philip J. Ivanhoe, Oxford: Clarendon Press: 279–296.
-- Chappell, R.Y. & Yetter-Chappell, H. (2016). [Virtue and Salience](https://doi.org/10.1080/00048402.2015.1115530). _Australasian Journal of Philosophy_, 94(3): 449–463. (Note that Chappell is a co-author of this website.)
-- MacAskill, W. (2019). [Aid Scepticism and Effective Altruism](http://www.jpe.ox.ac.uk/papers/aid-scepticism-and-effective-altruism/). _Journal of Practical Ethics_, 7(1): 49–60. (Note that MacAskill is a co-author of this website.)
-- Forcehimes, A.T. & Semrau, L. (2019). Beneficence: Does Agglomeration Matter? _Journal of Applied Philosophy_ 36 (1): 17-33.
-- Sin, W. (2010). Trivial Sacrifices, Great Demands. _Journal of Moral Philosophy_ 7 (1): 3-15.
-- Thomson, J.A. (2021). Relief from Rescue. _Philosophical Studies_ 179 (4): 1221-1239.
+- Peter Singer (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243.
+- Peter Singer (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. (Download a free ebook or audiobook of the 10th anniversary edition at [www.thelifeyoucansave.org](www.thelifeyoucansave.org).)
+- Richard Y. Chappell & Helen Yetter-Chappell (2016). [Virtue and Salience](https://doi.org/10.1080/00048402.2015.1115530). _Australasian Journal of Philosophy_, 94(3): 449–463.
+- Andrew T. Forcehimes & Luke Semrau (2019). [Beneficence: Does Agglomeration Matter?](https://doi.org/10.1111/japp.12276) _Journal of Applied Philosophy_ 36 (1): 17-33.
+- Frances Kamm (1999). Famine Ethics: The Problem of Distance in Morality and Singer’s Ethical Theory, in _Singer and His Critics_, ed. Dale Jamieson, Oxford: Blackwell: 174–203.
+- William MacAskill (2019). [Aid Scepticism and Effective Altruism](http://www.jpe.ox.ac.uk/papers/aid-scepticism-and-effective-altruism/). _Journal of Practical Ethics_, 7(1): 49–60.
+- Richard Miller (2004). [Beneficence, Duty and Distance](https://dx.doi.org/10.1111/j.1088-4963.2004.00018.x). _Philosophy and Public Affairs_, 32(4): 357–383.
+- Theron Pummer (2023). _[The Rules of Rescue: Cost, Distance, and Effective Altruism](http://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780190884147.pdf)_. Oxford University Press.
+- William Sin (2010). [Trivial Sacrifices, Great Demands](https://doi.org/10.1163/174046809X12551571293172). _Journal of Moral Philosophy_ 7 (1): 3-15.
+- Michael Slote (2007). Famine, Affluence, and Virtue, in _Working Virtue: Virtue Ethics and Contemporary Moral Problems_, ed. Rebecca L. Walker and Philip J. Ivanhoe, Oxford: Clarendon Press: 279–296.
+- Aksel Braanen Sterri & Ole Martin Moen (2021). [The ethics of emergencies](https://dx.doi.org/10.1007/s11098-020-01566-0). _Philosophical Studies,_ 178 (8): 2621–2634.
+- Jordan Arthur Thomson (2021). [Relief from Rescue](https://doi.org/10.1007/s11098-021-01705-1). _Philosophical Studies_ 179 (4): 1221-1239.
+- Travis Timmerman (2015). [Sometimes there is nothing wrong with letting a child drown](https://dx.doi.org/10.1093/analys/anv015). _Analysis_, 75(2): 204–212.
+- Peter Unger (1996). _Living High and Letting Die: Our Illusion of Innocence_. Oxford University Press.
 
 [^1]: Singer, P. (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_ 1 (3): 229-243.
 [^2]: See also Unger, P. (1996). _Living High and Letting Die: Our Illusion of Innocence_. Oxford University Press.

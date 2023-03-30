@@ -150,6 +150,7 @@ The next chapter discusses important rival theories that may overlap significant
 ### Is There a Difference Between Doing and Allowing Harm?
 
 - Fiona Woollard & Frances Howard-Snyder (2016). [Doing vs. Allowing Harm](https://plato.stanford.edu/entries/doing-allowing/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Jonathan Bennett (1995). _The Act Itself_. Oxford University Press.
 
 ### The Expanding Moral Circle
 
@@ -167,15 +168,16 @@ The next chapter discusses important rival theories that may overlap significant
 
 - [Non-Human Animals: Crash Course Philosophy #42](https://youtu.be/y3-BX-jN_Ac)
 - Peter Singer (1975). _[Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>)_. New York: HarperCollins.
-- Jeff McMahan (2002). [Animals](https://drive.google.com/open?id=0B4kMPIEI5Mb8YzJPSXVRMy04YkU). In R. G. Frey and Christopher Wellman (eds.), _The Blackwell Companion to Applied Ethics_. Oxford: Blackwell., pp. 525–536.
+- Jeff McMahan (2002). Animals. In R. G. Frey and Christopher Wellman (eds.), _The Blackwell Companion to Applied Ethics_. Oxford: Blackwell, pp. 525–536.
 - Jeff Sebo (2019). [A Utilitarian Case for Animal Rights](https://www.youtube.com/watch?v=vELWCTgA9oA). _Effective Altruism Global_.
 
 ### Longtermism: Expanding the Moral Circle Across Time
 
 - Toby Ord (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
 - Hilary Greaves & William MacAskill (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_.
-- Nick Beckstead (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM)_. PhD Dissertation, Rutgers University.
-- Nick Bostrom (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://drive.google.com/open?id=0B4kMPIEI5Mb8WTJGckNSNG5seWs). _Utilitas_. 15(3): 308–314.
+- Nick Beckstead (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/file/d/0B8P94pg6WYCIc0lXSUVYS1BnMkE/view?resourcekey=0-nk6wM1QIPl0qWVh2z9FG4Q)_. PhD Dissertation, Rutgers University.
+- Nick Bostrom (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://nickbostrom.com/astronomical/waste.pdf). _Utilitas_. 15(3): 308–314.
+- William MacAskill (2022). _[What We Owe the Future](https://whatweowethefuture.com/)_. Basic Books.
 
 ### Respecting Commonsense Moral Norms
 
@@ -211,10 +213,10 @@ The next chapter discusses important rival theories that may overlap significant
     Eskander, P. (2019). [Animals in the wild often suffer a great deal. What, if anything, should we do about that?](https://80000hours.org/podcast/episodes/persis-eskander-wild-animal-welfare/). _80,000 Hours Podcast with Rob Wiblin_.
 
 [^15]: Adams, F. C. (2008). Long-Term Astrophysical Processes. In Bostrom, N. and Cirkovic, M. (eds.) [​Global Catastrophic Risks](https://global.oup.com/academic/product/global-catastrophic-risks-9780199606504?cc=de&lang=en&).​ Oxford: Oxford University Press.
-[^16]: For a discussion of this idea and its underlying assumptions, see Beckstead, N. (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM)_. PhD Dissertation, Rutgers University.
+[^16]: For a discussion of this idea and its underlying assumptions, see Beckstead, N. (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/file/d/0B8P94pg6WYCIc0lXSUVYS1BnMkE/view?resourcekey=0-nk6wM1QIPl0qWVh2z9FG4Q)_. PhD Dissertation, Rutgers University.
 [^17]: Cf. Greaves, H. & MacAskill, W. (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_. Section 4.1. Note that Professor William MacAskill, coauthor of this website, is also a coauthor of this paper.
 [^18]: For a detailed discussion of existential risks and the moral importance of the long-run future of humanity, see Ord, T. (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
-[^19]: For a classic paper on the importance of reducing existential risk, see Bostrom, N. (2013). [Existential Risk Prevention as Global Priority](http://www.existential-risk.org/concept.pdf). _Global Policy_. **4** (1): 15–3.
+[^19]: For a classic paper on the importance of reducing existential risk, see Bostrom, N. (2013). [Existential Risk Prevention as Global Priority](http://www.existential-risk.org/concept.pdf). _Global Policy_. 4 (1): 15–3.
 [^20]: Note that Professor William MacAskill, coauthor of this website, is also a coauthor of this paper.
 [^21]: As [chapter 2 explains](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism): "[T]o our knowledge no one has ever defended single-level utilitarianism [i.e., using the utilitarian criterion as a universal decision procedure], including the classical utilitarians. Deliberately calculating the expected consequences of our actions is error-prone and risks falling into decision paralysis."
 
@@ -222,7 +224,7 @@ The next chapter discusses important rival theories that may overlap significant
      Such details might simply be stipulated in a hypothetical example. In real life cases, our uncertainty about relevant factual details should generally carry over to make us similarly uncertain about our moral verdicts and evaluations.
 
 [^23]:
-     See, e.g., Mackie (1985). Rights, Utility, and Universalization. In R.G. Frey (ed.) _Utility and Rights_. Basil Blackwell.
+     See, e.g., J.L. Mackie (1985). Rights, Utility, and Universalization. In R.G. Frey (ed.) _Utility and Rights_. Basil Blackwell.
 
 [^24]:
      In particular, you can't take at face value your inclination to think that there are special reasons in your case, if you believe that most people in subjectively similar situations are mistaken in taking themselves to have such special reasons. Symmetry-breaking evidence is evidence that _distinctively_ establishes your reliability in comparison to others with similar (but, in their case, misguided) beliefs. Note that such symmetry-breaking evidence is very hard to come by!

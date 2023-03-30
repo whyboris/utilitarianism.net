@@ -97,21 +97,21 @@ There is reason to doubt whether concerns about cluelessness really present an _
 
 ## Resources and Further Reading
 
-* Burch-Brown, Joanna (2014). [Clues for Consequentialists](https://doi.org/10.1017/S0953820813000289). _Utilitas_, 26(1): 105–119.
-* Greaves, Hilary (2016). [Cluelessness](https://doi.org/10.1093/arisoc/aow018). _Proceedings of the Aristotelian Society_, 116(3): 311–339.
-* Lenman, James (2000). [Consequentialism and Cluelessness](https://doi.org/10.1111/j.1088-4963.2000.00342.x). _Philosophy and Public Affairs_, 29(4): 342–370.
-* Mogensen, Andreas (2021). [Maximal Cluelessness](https://doi.org/10.1093/pq/pqaa021). _The Philosophical Quarterly_, 71: 141–162.
-* Mogensen, Andreas & MacAskill, William (2021). [The Paralysis Argument](http://hdl.handle.net/2027/spo.3521354.0021.015). _Philosophers' Imprint_ 21 (15): 1–17.
-* Thorstad, David and Mogensen, Andreas (2020). [Heuristics for clueless agents: how to get away with ignoring what matters most in ordinary decision-making](https://globalprioritiesinstitute.org/david-thorstad-and-andreas-mogensen-heuristics-for-clueless-agents-how-to-get-away-with-ignoring-what-matters-most-in-ordinary-decision-making/). _GPI Working Paper_ 2-2020.
+- Joanna Burch-Brown (2014). [Clues for Consequentialists](https://doi.org/10.1017/S0953820813000289). _Utilitas_, 26(1): 105–119.
+- Hilary Greaves (2016). [Cluelessness](https://doi.org/10.1093/arisoc/aow018). _Proceedings of the Aristotelian Society_, 116(3): 311–339.
+- James Lenman (2000). [Consequentialism and Cluelessness](https://doi.org/10.1111/j.1088-4963.2000.00342.x). _Philosophy and Public Affairs_, 29(4): 342–370.
+- Andreas Mogensen (2021). [Maximal Cluelessness](https://doi.org/10.1093/pq/pqaa021). _The Philosophical Quarterly_, 71: 141–162.
+- Andreas Mogensen & William MacAskill (2021). [The Paralysis Argument](http://hdl.handle.net/2027/spo.3521354.0021.015). _Philosophers' Imprint_ 21 (15): 1–17.
+- David Thorstad, and Andreas Mogensen (2020). [Heuristics for clueless agents: how to get away with ignoring what matters most in ordinary decision-making](https://globalprioritiesinstitute.org/david-thorstad-and-andreas-mogensen-heuristics-for-clueless-agents-how-to-get-away-with-ignoring-what-matters-most-in-ordinary-decision-making/). _GPI Working Paper_ 2-2020.
 
 [^1]:
      That is, the considerations that count in favor of acting one way rather than another.
 
 [^2]:
-     Adapted from Lenman (2000), p. 344.
+     Adapted from James Lenman (2000). [Consequentialism and Cluelessness](https://doi.org/10.1111/j.1088-4963.2000.00342.x). _Philosophy and Public Affairs_, 29(4): 342–370, p. 344.
 
 [^3]:
-     Greaves (2016), p. 314.
+     Hilary Greaves (2016). [Cluelessness](https://doi.org/10.1093/arisoc/aow018). _Proceedings of the Aristotelian Society_, 116(3): 311–339, p. 314.
 
 [^4]:
      Lenman (2000), p. 363.
@@ -125,16 +125,16 @@ There is reason to doubt whether concerns about cluelessness really present an _
     It's true that this is a significant difference. But it's a mistake to assume that anything morally significant must change how we assess _acts_, when often _attitudes_ are better suited to reflect such significance. We should feel vastly more angst and ambivalence—and strongly wish that more information was available—in a high-stakes “total uncertainty” case than in a “known zero” case. That seems sufficient to capture the difference.
 
 [^7]:
-     Greaves, Hilary (2016). [Cluelessness](https://doi.org/10.1093/arisoc/aow018). _Proceedings of the Aristotelian Society_, 116(3): 311–339, section IV.
+     Greaves (2016), section IV.
 
 [^8]:
-     Greaves (2016), section V. See also Mogensen, Andreas (2020). [Maximal Cluelessness](https://doi.org/10.1093/pq/pqaa021). _The Philosophical Quarterly_, 71: 141–162.
+     Greaves (2016), section V. See also Andreas Mogensen (2020). [Maximal Cluelessness](https://doi.org/10.1093/pq/pqaa021). _The Philosophical Quarterly_, 71: 141–162.
 
 [^9]:
-     For an exploration of whether the world is overpopulated or underpopulated, see Ord, T. (2014). [Overpopulation or Underpopulation?](http://amirrorclear.net/files/overpopulation-or-underpopulation.pdf), in Goldin, I. _[Is the World Full?](http://doi.org/10.1093/acprof:oso/9780199677771.001.0001)_. Oxford: Oxford University Press.
+     For an exploration of whether the world is overpopulated or underpopulated, see Ord, T. (2014). [Overpopulation or Underpopulation?](http://amirrorclear.net/files/overpopulation-or-underpopulation.pdf), in Ian Goldin (ed.), _[Is the World Full?](http://doi.org/10.1093/acprof:oso/9780199677771.001.0001)_. Oxford: Oxford University Press.
 
 [^10]:
-     For a related defense of the “procedural rationality” of relying on heuristics in the face of cluelessness, see Thorstad, David and Mogensen, Andreas (2020), [Heuristics for clueless agents: how to get away with ignoring what matters most in ordinary decision-making](https://globalprioritiesinstitute.org/david-thorstad-and-andreas-mogensen-heuristics-for-clueless-agents-how-to-get-away-with-ignoring-what-matters-most-in-ordinary-decision-making/). _GPI Working Paper 2, 2020_.
+     For a related defense of the “procedural rationality” of relying on heuristics in the face of cluelessness, see David Thorstad, and Andreas Mogensen (2020), [Heuristics for clueless agents: how to get away with ignoring what matters most in ordinary decision-making](https://globalprioritiesinstitute.org/david-thorstad-and-andreas-mogensen-heuristics-for-clueless-agents-how-to-get-away-with-ignoring-what-matters-most-in-ordinary-decision-making/). _GPI Working Paper 2, 2020_.
 
      Whether it's worth evaluating overpopulation concerns more deeply will depend on factors such as: (i) how many resources are at stake—more investigation is plausibly warranted for a grant-maker directing billions of dollars than for an individual donating a few hundred dollars; and (ii) how tractable the uncertainty seems, or what the expected value-of-information is of further investigation. For a small donor with little chance of swiftly resolving their uncertainty, it will often be most reasonable to entirely ignore complex cluelessness.
 
@@ -163,4 +163,4 @@ There is reason to doubt whether concerns about cluelessness really present an _
 [^17]:
      Unless interpreted in such a way as to no longer demand guidance where none is possible. While it's surely fine to have fact-relative reasons that outstrip our epistemic grasp, a more compelling version of the premise might just claim that evidence-relative reasons must be within our epistemic grasp. But then it risks collapsing into mere tautology: by definition, the "evidence-relative reasons" posited by any theory—including consequentialism—will be epistemically accessible (assuming that "evidence" and "epistemic access" go together). The question instead becomes what (if any) evidence-relative reasons the theory implies that we have.
 
-[^18]: Though there's some reason to think that the practical difficulties may be even worse for non-consequentialists. See Mogensen, Andreas & MacAskill, William (2021). [The Paralysis Argument](http://hdl.handle.net/2027/spo.3521354.0021.015). _Philosophers' Imprint_ 21 (15): 1–17.
+[^18]: Though there's some reason to think that the practical difficulties may be even worse for non-consequentialists. See Andreas Mogensen & William MacAskill (2021). [The Paralysis Argument](http://hdl.handle.net/2027/spo.3521354.0021.015). _Philosophers' Imprint_ 21 (15): 1–17.

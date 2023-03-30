@@ -75,13 +75,13 @@ Still, at the end of the day there's no guarantee that true beliefs will be soci
 
 ## Resources and Further Reading
 
-* Gibbard, Allan (1984). [Utilitarianism and Human Rights](https://doi.org/10.1017/s0265052500003897). _Social Philosophy and Policy_, 1(2): 92–102.
-* Hare, R.M. (1981). _[Moral Thinking](https://philpapers.org/rec/HARMTI)_. Oxford University Press.
-* de Lazari-Radek, Katarzyna & Singer, Peter (2010). [Secrecy in Consequentialism: A defence of esoteric morality](https://doi.org/10.1111/j.1467-9329.2009.00449.x). _Ratio_, 23(1): 34–58.
-* Mackie, J.L. (1985). Rights, Utility, and Universalization. In R.G. Frey (ed.) _Utility and Rights_. Basil Blackwell.
-* Parfit, Derek (1984). _Reasons and Persons_, Part One: Self-Defeating Theories. Clarendon Press.
-* Pettit, Philip & Brennan, Geoffrey (1986). [Restrictive Consequentialism](https://doi.org/10.1080/00048408612342631). _Australasian Journal of Philosophy_, 64(4): 438–455.
-* Williams, Bernard (1973). A Critique of Utilitarianism. In J.J.C Smart & Bernard Williams, _Utilitarianism: For and Against_. Cambridge University Press.
+- Allan Gibbard (1984). [Utilitarianism and Human Rights](https://doi.org/10.1017/s0265052500003897). _Social Philosophy and Policy_, 1(2): 92–102.
+- R.M. Hare (1981). _[Moral Thinking](https://philpapers.org/rec/HARMTI)_. Oxford University Press.
+- Katarzyna de Lazari-Radek & Peter Singer (2010). [Secrecy in Consequentialism: A defence of esoteric morality](https://doi.org/10.1111/j.1467-9329.2009.00449.x). _Ratio_, 23(1): 34–58.
+- J.L. Mackie (1985). Rights, Utility, and Universalization. In R.G. Frey (ed.) _Utility and Rights_. Basil Blackwell.
+- Derek Parfit (1984). _Reasons and Persons_, Part One: Self-Defeating Theories. Clarendon Press.
+- Philip Pettit & Geoffrey Brennan (1986). [Restrictive Consequentialism](https://doi.org/10.1080/00048408612342631). _Australasian Journal of Philosophy_, 64(4): 438–455.
+- Bernard Williams (1973). A Critique of Utilitarianism. In J.J.C Smart & Bernard Williams, _Utilitarianism: For and Against_. Cambridge University Press.
 
 [^1]:
      It's also notable that superheroes are depicted as putting so little effort into [cause prioritization](/acting-on-utilitarianism/#cause-prioritization), often fighting local crime when they could (more helpfully, but far less dramatically) use their powers in more scalable ways to do good on a global scale—as [this SMBC comic](https://www.smbc-comics.com/comic/2011-07-13) satirically illustrates.
