@@ -265,7 +265,9 @@ See the article [The Equality Objection](/objections-to-utilitarianism/equality)
 <details>
 <summary>Ex ante Pareto<span class="icon"></span></summary>
 
-A _Pareto_ improvement is better for some people, and worse for none. _Ex ante_ evaluation considers prospects in advance of their occurring, given the available information, in contrast to an _ex post_ or retrospective verdict on the actual result. Putting these two concepts together, the _Ex Ante Pareto_ Principle holds that, in a choice between two gambles, if everyone would rationally prefer gamble A to gamble B, then gamble A is better than gamble B.
+_→ Main article:_ [_Harsanyi's Aggregation Theorem_](/arguments-for-utilitarianism/#harsanyis-aggregation-theorem)
+
+A _Pareto_ improvement is better for some people, and worse for none. _Ex ante_ evaluation considers prospects in advance of their occurring, given the available information, in contrast to an _ex post_ or retrospective verdict on the actual result. Putting these two concepts together, the _Ex Ante Pareto_ Principle holds that, in a choice between two prospects, one is morally preferable to another if it offers a better prospect for some individuals and is worse for none.
 
 A powerful objection to non-utilitarian views is that they are committed to violating this Ex Ante Pareto Principle in some possible situations, such as when choosing policies from behind a Veil of Ignorance.
 
