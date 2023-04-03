@@ -52,7 +52,7 @@ Still, in many contexts other factors will not be relevant, and the question of 
 
 ### Ex Ante Pareto
 
-A _Pareto_ improvement is better for some people, and worse for none. _Ex ante_ approaches evaluate uncertain prospects by aggregating each individual’s [expected well-being](/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism) (in contrast to evaluations based on expected _ex post_ effects, e.g. that one person will be killed and five saved). Putting these two concepts together, we may formulate the following principle:
+A _Pareto_ improvement is better for some people, and worse for none. _Ex ante_ approaches evaluate uncertain prospects by aggregating each individual’s [expected well-being](/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism) (in contrast to moral evaluations based on expected _ex post_ effects on individuals, e.g. that one person will be killed and five saved). Putting these two concepts together, we may formulate the following principle:
 
 > **Ex Ante Pareto:** in a choice between two prospects, one is morally preferable to another if it offers a better prospect for some individuals and a worse prospect for none.
 
