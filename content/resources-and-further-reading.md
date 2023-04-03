@@ -117,18 +117,15 @@ Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 
 Resources for [Arguments for Utilitarianism](/arguments-for-utilitarianism):
 
+- John Broome (1987). [Utilitarianism and Expected Utility](https://doi.org/10.2307/2026999), _The Journal of Philosophy_ 84 (8): 405–422.
+- John Broome (1991). _Weighing Goods: Equality, Uncertainty and Time_. Blackwell.
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. Continuum.
 - Robert Goodin (1995). _[Utilitarianism as a Public Philosophy](https://www.cambridge.org/core/books/utilitarianism-as-a-public-philosophy/DFAF4F0BDBA6B06F9BCB1DDC3D0A26A7)_. Cambridge University Press.
 - Caspar Hare (2016). [Should We Wish Well to All?](http://dx.doi.org/10.1215/00318108-3624764), _Philosophical Review_ 125(4): 451–472.
-- Katarzyna de Lazari-Radek & Peter Singer (2017). Chapter 2: Justifications, in _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford University Press.
+- John C. Harsanyi (1955). [Cardinal Welfare, Individualistic Ethics, and Interpersonal Comparisons of Utility](https://www.jstor.org/stable/1827128), _The Journal of Political Economy_ 63 (4): 309–321.
+- John C. Harsanyi (1977). _Rational Behavior and Bargaining Equilibrium in Games and Social Situations_. Cambridge University Press.
+- Katarzyna de Lazari-Radek & Peter Singer (2017). Chapter 2: Justifications, in _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford University Press.
 - J.J.C. Smart (1973). An outline of a system of utilitarian ethics, in J.J.C. Smart & Bernard Williams, _[Utilitarianism: For and Against](https://www.cambridge.org/core/books/abs/utilitarianism/an-outline-of-a-system-of-utilitarian-ethics/8DE8362FF43188D53C855A70C70223E2)_. Cambridge University Press.
-- John Broome (1987). Utilitarianism and Expected Utility, _The Journal of Philosophy_ 84 (8): 405–422.
-- John Broome (1991). _Weighing Goods: Equality, Uncertainty and Time_. Blackwell.
-- Johan E. Gustafsson (2022). _Money-Pump Arguments_. Cambridge University Press.
-- John C. Harsanyi (1955). Cardinal Welfare, Individualistic Ethics, and Interpersonal Comparisons of Utility, _The Journal of Political Economy_ 63 (4): 309–321.
-- John C. Harsanyi (1977). _Rational Behavior and Bargaining Equilibrium in Games and Social Situations_, Cambridge University Press.
-- Niels Erik Jensen (1967). An Introduction to Bernoullian Utility Theory: I. Utility Functions, _Swedish Journal of Economics_ 69 (3): 163–183.
-- John von Neumann and Oskar Morgenstern (1944). _Theory of Games and Economic Behavior_. Princeton University Press.
 
 ---
 

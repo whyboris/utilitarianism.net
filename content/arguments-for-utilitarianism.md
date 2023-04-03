@@ -145,7 +145,7 @@ The next chapter discusses theories of well-being, or what counts as being good 
 - Caspar Hare (2016). [Should We Wish Well to All?](http://dx.doi.org/10.1215/00318108-3624764), _Philosophical Review_ 125(4): 451–472.
 - John C. Harsanyi (1955). [Cardinal Welfare, Individualistic Ethics, and Interpersonal Comparisons of Utility](https://www.jstor.org/stable/1827128), _The Journal of Political Economy_ 63 (4): 309–321.
 - John C. Harsanyi (1977). _Rational Behavior and Bargaining Equilibrium in Games and Social Situations_. Cambridge University Press.
-- Katarzyna de Lazari-Radek & Peter Singer (2017). Chapter 2: Justifications, in _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford University Press.
+- Katarzyna de Lazari-Radek & Peter Singer (2017). Chapter 2: Justifications, in _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford University Press.
 - J.J.C. Smart (1973). An outline of a system of utilitarian ethics, in J.J.C. Smart & Bernard Williams, _[Utilitarianism: For and Against](https://www.cambridge.org/core/books/abs/utilitarianism/an-outline-of-a-system-of-utilitarian-ethics/8DE8362FF43188D53C855A70C70223E2)_. Cambridge University Press.
 
 [^1]: Daniels, N. (2020). [Reflective Equilibrium](https://plato.stanford.edu/archives/sum2020/entries/reflective-equilibrium/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
