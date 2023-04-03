@@ -34,7 +34,7 @@ Sometimes philosophers talk about “welfare” or “utility” rather than “
 
 ### Consequentialism
 
-Utilitarianism is a form of _[consequentialism](https://plato.stanford.edu/entries/consequentialism/)_, which we may define as follows:
+Utilitarianism is a form of _[consequentialism](https://plato.stanford.edu/entries/consequentialism/)_, which we define as follows:
 
 > **Consequentialism is the view that one ought always to promote good outcomes.**
 
@@ -102,7 +102,7 @@ Classical utilitarianism can be distinguished from the wider utilitarian family 
 
 _→ Main article: [Theories of Well-Being](/theories-of-wellbeing)_
 
-Classical utilitarianism accepts _hedonism_ as a theory of well-being, which is defined as follows:
+Classical utilitarianism accepts _hedonism_ as a theory of well-being, which we define as follows:
 
 > **Hedonism is the view that well-being consists in, and only in, the balance of positive over negative conscious experiences.**
 
