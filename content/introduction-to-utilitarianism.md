@@ -45,9 +45,9 @@ We can define utilitarianism in simple terms:
 
 > **Utilitarianism is the view that one ought always to promote overall well-being.**
 
-The core idea here is that the most important evaluation of any action (or rule, policy, character trait, etc) is in terms of how much it increases or decreases the well-being of everyone, with no-one's well-being counting for more or less than anyone else's.
+The core idea is that we should want all lives to go as well as possible,[^7a] with no-one’s well-being counting for more or less than anyone else’s.
 
-Sometimes philosophers talk about “welfare” or “utility” rather than “well-being”, but these words are typically used to mean the same thing.[^8] (Others sometimes use “well-being” and “happiness” interchangeably, though we’ll take “happiness” to be a narrower concept than “well-being”.)[^9] Utilitarianism is most commonly applied to evaluate the rightness of actions, but the theory can also evaluate other things, like rules, policies, motives, virtues, and social institutions. It is perhaps unfortunate that the clinical-sounding term “utilitarianism” caught on as a name, especially since in common speech the word “utilitarian” is easily confused with joyless functionality or even outright selfishness.
+Sometimes philosophers talk about “welfare” or “utility” rather than “well-being”, but these words are typically used to mean the same thing.[^8] (Others sometimes use “well-being” and “happiness” interchangeably, though we’ll take “happiness” to be a narrower concept.)[^9] Utilitarianism is most commonly applied to evaluate the rightness of actions, but the theory can also evaluate other things, like rules, policies, motives, virtues, and social institutions. It is perhaps unfortunate that the clinical-sounding term “utilitarianism” caught on as a name, especially since in common speech the word “utilitarian” is easily confused with joyless functionality or even outright selfishness.
 
 All ethical theories in the utilitarian family share four defining elements: consequentialism, welfarism, impartiality, and aggregationism, which we’ll define as follows:
 
@@ -64,7 +64,7 @@ We cover the four elements of utilitarianism, and further theoretical distinctio
 
 [Chapter 3](/arguments-for-utilitarianism/) explains reflective equilibrium as a moral methodology, and presents several arguments for utilitarianism (and similar consequentialist views) over competing approaches to ethics. This includes discussion of the veil of ignorance, the expanding moral circle, and the argument that utilitarianism offers an especially compelling account of _what fundamentally matters_. This chapter also explains the paradox of deontology, evolutionary debunking arguments, and other objections to non-consequentialist ethics.
 
-Specific [theories of well-being](/theories-of-wellbeing/) and of [population ethics](/population-ethics/) are explored in Chapters 4 and 5, respectively. While utilitarianism is often associated with _hedonism_ about well-being and the _total view_ of population ethics (a combination known as _classical utilitarianism_), there are other options that are also worth considering. It's especially worth bearing in mind that objections to hedonism or to the total view may yet leave other forms of utilitarianism untouched.
+Specific [theories of well-being](/theories-of-wellbeing/) and of [population ethics](/population-ethics/) are explored in Chapters 4 and 5, respectively. While utilitarianism is often associated with _hedonism_ about well-being and the _total view_ of population ethics (a combination known as _classical utilitarianism_), there are other options that are also worth considering. It’s especially worth bearing in mind that objections to hedonism or to the total view may yet leave other forms of utilitarianism untouched.
 
 [Chapter 6](/utilitarianism-and-practical-ethics/) and our supplemental article [Acting on Utilitarianism](/acting-on-utilitarianism/) explore the practical applications of utilitarianism, and its implications for how we should live our lives. We argue that, in practice, a utilitarian should try to do as much good as possible whilst still abiding by commonsense moral virtues like integrity, trustworthiness, and law-abidingness, in order to advance social cooperation and mitigate the downside risk of miscalculation.
 
@@ -76,7 +76,7 @@ Prominent [objections to utilitarianism](/objections-to-utilitarianism/) are add
 
 What matters most for utilitarianism is improving the well-being of all individuals, regardless of their gender, race, species, or their geographical or temporal location.
 
-All utilitarian theories share four key elements: consequentialism, welfarism, impartiality, and aggregationism. Classical utilitarianism includes two further elements: hedonism and totalism. Hedonism is the view that one's well-being is determined by the balance of one's positive and negative conscious experiences. The total view holds that the value of adding an additional person to an outcome is equal to the value of that person’s lifetime well-being.
+All utilitarian theories share four key elements: consequentialism, welfarism, impartiality, and aggregationism. Classical utilitarianism includes two further elements: hedonism and totalism. Hedonism is the view that one’s well-being is determined by the balance of one’s positive and negative conscious experiences. The total view holds that the value of adding an additional person to an outcome is equal to the value of that person’s lifetime well-being.
 
 Utilitarian ethics has an intellectual tradition spanning centuries, during which it has prompted many heated debates. Critics of utilitarianism accuse the theory of disregarding rights and being overly demanding, among other objections. Advocates counter that the theory has attractive theoretical virtues and offers a compelling account of what fundamentally matters. If difficult tradeoffs were instead settled behind a veil of ignorance to minimize risk of bias, it would be rational for everyone involved to endorse utilitarian recommendations. Close examination of these competing arguments is required to come to an informed view of this controversial theory.
 
@@ -128,7 +128,7 @@ The next chapter discusses the four elements of utilitarian theories in greater 
      Cf. Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.); and Campos Boralevi, L. (2012).[_Bentham and the Oppressed_](https://books.google.com/books?id=BccgAAAAQBAJ&pg=PA37). Berlin: De Gruyter.
 
 [^4]:
-     The UK Parliament, [The 1866 Women's Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
+     The UK Parliament, [The 1866 Women’s Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
 
 [^5]:
      Mill attributes many of the ideas in _The Subjection of Women_ to his wife, Harriet Taylor Mill. See Mill, J. S. (1873). _[Autobiography](http://www.earlymoderntexts.com/assets/pdfs/mill1873e.pdf)_. Bennett, J. (ed.), p. 166.
@@ -140,6 +140,8 @@ The next chapter discusses the four elements of utilitarian theories in greater 
      On extreme poverty see: Singer, P. (2009). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_. Bainbridge Island, WA: Penguin Random House LLC.
 
      On factory farming see: Singer, P. (1975). _[Animal Liberation: A New Ethics for Our Treatment of Animals](https://en.wikipedia.org/wiki/Animal_Liberation_(book))_. New York: HarperCollins.
+
+[^7a]: This is most clear-cut in a fixed-population setting, where one’s actions do not affect the number or identity of people. For more complex cases, see the discussion of [population ethics](/population-ethics/) in Chapter 5.
 
 [^8]:
      However, when economists use the term “[utility](https://en.wikipedia.org/wiki/Utility)” they typically refer, instead, to the numerical representation of an individual’s preferences.
