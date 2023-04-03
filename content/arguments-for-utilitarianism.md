@@ -50,33 +50,17 @@ It’s an interesting question how much weight we should give to the verdicts th
 
 Still, in many contexts other factors will not be relevant, and the question of what we morally ought to do will reduce to the question of how we should treat each other. Many of the deepest disagreements between utilitarians and their critics concern precisely this question. And the veil of ignorance seems relevant here. The fact that some action is what _everyone affected would personally prefer_ from behind the veil of ignorance seems to undermine critics’ claims that any individual has been _mistreated_ by, or has grounds to complain about, that action.
 
-### Harsanyi’s Aggregation Theorem
+### Ex Ante Pareto
 
-John Harsanyi’s aggregation theorem provides a bridge to utilitarianism from evaluating prospects by their expectation for both general value (that is, moral value) and personal value (that is, well-being).[^H1] Given our epistemic limitations, we are typically uncertain what the final outcome of our options would be. So, rather than final outcomes, we are [choosing between prospects](/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism) that merely give each possible final outcome a certain probability of happening. We can evaluate such prospects both with respect to general value (whether one prospect is at least as good as another prospect) and with respect to personal value (whether one prospect is at least as good as another prospect _for a person_).
+A _Pareto_ improvement is better for some people, and worse for none. _Ex ante_ evaluation considers uncertain prospects in light of the available information, in contrast to an _ex post_ or retrospective verdict on the actual result. Putting these two concepts together yields the following principle:
 
-We assume that these evaluations of prospects satisfy the expected-utility axioms:[^H2]
+> **Ex Ante Pareto:** in a choice between two prospects, one is morally preferable to another if it offers a better prospect for some individuals and is worse for none.
 
-- **Completeness:** Prospect _X_ is at least as good as prospect _Y_ or _Y_ is at least as good as _X_.
+This bridge between personal value (or well-being) and moral assessment is developed with greater technical precision in economist John Harsanyi's aggregation theorem.[^H1] But the underlying idea, that _reasonable beneficence_ requires us to _wish well to all_, and prefer prospects that are in _everyone's_ ex ante interests, has also been defended and developed in more intuitive terms by philosophers.[^H2]
 
-- **Transitivity:** If prospect _X_ is at least as good as prospect _Y_ and _Y_ is at least as good as prospect _Z_, then _X_ is at least as good as _Z_.
+A powerful objection to non-utilitarian views is that they are committed to violating this Ex Ante Pareto Principle in some possible situations, such as when choosing policies from behind a Veil of Ignorance. These rival views imply, absurdly, that prospect _Y_ could be morally preferable to prospect _X_, even when _Y_ is worse (in prospect) for everyone affected.
 
-- **Independence:** If prospect _X_ is better than _Y_, then it is not the case that the prospect of a probability _p_ of _Y_ otherwise _Z_ is better than the prospect of a probability _p_ of _X_ otherwise _Z_.
-
-- **Continuity:** If prospect _X_ is better than prospect _Y_ and _Y_ is better than prospect _Z_, then there are some probabilities _p_ and _q_ between 0 and 1 such that the prospect of a probability _p_ of _X_ otherwise _Z_ is better than _Y_ and _Y_ is better than the prospect of a probability _q_ of _X_ otherwise _Z_.
-
-In addition to being intuitively compelling, these assumptions can be defended with money-pump arguments.[^H3]
-
-If an evaluation of prospects satisfies these axioms, then it follows (by Von Neumann and Morgenstern’s utility theorem) that the evaluation can be represented by a utility function.[^H4] That is, there is a way of assigning utility numbers to each possible final outcome such that a prospect _X_ is at least as good as a prospect _Y_ if and only if the expected utility from _X_ is at least as great as the expected utility from _Y_.
-
-The final assumption we need connects general value with personal value:[^H5]
-
-> _The Principle of Personal Good_: If prospect _X_ is better than prospect _Y_ for someone and at least as good as _Y_ for everyone, then _X_ is better than _Y_.
-
-Now, we can state the aggregation theorem. It says that, if the Principle of Personal Good is true and both general and personal evaluations of prospects satisfy the expected-utility axioms, then general value can be represented by a utility function that is the sum of utility functions representing each person’s personal value. That is, we find that there are utility functions representing each person’s personal value such that, for any prospects _X_ and _Y_, it holds that _X_ is at least as good as _Y_ if and only if the sum of each person’s utility from _X_ is at least as great as the sum of each person’s utility from _Y_.
-
-This is a plausible candidate for the most important result in all of ethics. We may, however, legitimately wonder if we have derived utilitarianism. There are many utility functions that can be used to represent a person’s personal value from prospects. If a utility function representing your personal value is transformed by multiplying all utilities with a positive constant (or by adding a constant), the result will be another utility function representing your personal value from prospects. So the aggregation theorem does not tell us how much different people’s personal value count relative to each other. In other words, the theorem does not provide a way to make interpersonal comparisons of well-being. Still, we have shown that the overall structure of the moral value of a prospect can be represented as the sum of utilities representing each person’s well-being from the prospect.[^H6]
-
-Note that talk of “moral value” in this context is not merely to say that one prospect has more _total well-being_ (in expectation) than another, but that it is _morally preferable_. To violate the Principle of Personal Good, on this understanding, is to hold that prospect _Y_ could be morally preferable to prospect _X_, even when _Y_ is worse (in prospect) for some individuals and better for none. Caspar Hare illustrates the point with a Trolley case in which all six victims are stuffed inside suitcases: one is atop a footbridge, five are on the tracks below, and a train will hit and kill the five unless you topple the one on the footbridge (in which case the train will instead kill this one and then stop before reaching the others).[^H7] As the suitcases have recently been shuffled, nobody knows which position they are in. So, from _each_ person’s perspective, their prospects are best if you topple the one suitcase off the footbridge, increasing their chances of survival from 1/6 to 5/6. Given that this is in everyone’s _[ex ante](/glossary#ex-ante-pareto)_ interests, it’s deeply puzzling to think that it would be morally preferable to override this _unanimous_ preference, shared by _everyone_ involved, and instead let the five die; yet that is the implication of most non-utilitarian views.
+Caspar Hare illustrates the point with a Trolley case in which all six possible victims are stuffed inside suitcases: one is atop a footbridge, five are on the tracks below, and a train will hit and kill the five unless you topple the one on the footbridge (in which case the train will instead kill this one and then stop before reaching the others).[^H3] As the suitcases have recently been shuffled, nobody knows which position they are in. So, from _each_ person’s perspective, their prospects are best if you topple the one suitcase off the footbridge, increasing their chances of survival from 1/6 to 5/6. Given that this is in everyone’s _ex ante_ interests, it’s deeply puzzling to think that it would be morally preferable to override this unanimous preference, shared by _everyone_ involved, and instead let the five die; yet that is the implication of most non-utilitarian views.[^H4]
 
 ### Expanding the Moral Circle
 
@@ -148,24 +132,21 @@ The next chapter discusses theories of well-being, or what counts as being good 
 
 {{< next-page-textbook title="Theories of Well-Being" url="/theories-of-wellbeing" >}}
 
-{{< how-to-cite authors="Chappell, R.Y., Meissner, D., and Gustafsson, J." >}}
+{{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 
 {{< button >}}
 
 ## Resources and Further Reading
 
+- John Broome (1987). [Utilitarianism and Expected Utility](https://doi.org/10.2307/2026999), _The Journal of Philosophy_ 84 (8): 405–422.
+- John Broome (1991). _Weighing Goods: Equality, Uncertainty and Time_. Blackwell.
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. Continuum.
 - Robert Goodin (1995). _[Utilitarianism as a Public Philosophy](https://www.cambridge.org/core/books/utilitarianism-as-a-public-philosophy/DFAF4F0BDBA6B06F9BCB1DDC3D0A26A7)_. Cambridge University Press.
 - Caspar Hare (2016). [Should We Wish Well to All?](http://dx.doi.org/10.1215/00318108-3624764), _Philosophical Review_ 125(4): 451–472.
+- John C. Harsanyi (1955). [Cardinal Welfare, Individualistic Ethics, and Interpersonal Comparisons of Utility](https://www.jstor.org/stable/1827128), _The Journal of Political Economy_ 63 (4): 309–321.
+- John C. Harsanyi (1977). _Rational Behavior and Bargaining Equilibrium in Games and Social Situations_. Cambridge University Press.
 - Katarzyna de Lazari-Radek & Peter Singer (2017). Chapter 2: Justifications, in _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford University Press.
 - J.J.C. Smart (1973). An outline of a system of utilitarian ethics, in J.J.C. Smart & Bernard Williams, _[Utilitarianism: For and Against](https://www.cambridge.org/core/books/abs/utilitarianism/an-outline-of-a-system-of-utilitarian-ethics/8DE8362FF43188D53C855A70C70223E2)_. Cambridge University Press.
-- John Broome (1987). Utilitarianism and Expected Utility, _The Journal of Philosophy_ 84 (8): 405–422.
-- John Broome (1991). _Weighing Goods: Equality, Uncertainty and Time_. Blackwell.
-- Johan E. Gustafsson (2022). _Money-Pump Arguments_. Cambridge University Press.
-- John C. Harsanyi (1955). Cardinal Welfare, Individualistic Ethics, and Interpersonal Comparisons of Utility, _The Journal of Political Economy_ 63 (4): 309–321.
-- John C. Harsanyi (1977). _Rational Behavior and Bargaining Equilibrium in Games and Social Situations_, Cambridge University Press.
-- Niels Erik Jensen (1967). An Introduction to Bernoullian Utility Theory: I. Utility Functions, _Swedish Journal of Economics_ 69 (3): 163–183.
-- John von Neumann and Oskar Morgenstern (1944). _Theory of Games and Economic Behavior_. Princeton University Press.
 
 [^1]: Daniels, N. (2020). [Reflective Equilibrium](https://plato.stanford.edu/archives/sum2020/entries/reflective-equilibrium/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 [^2]: That is not to say that either answer is in fact equally good or correct, but just that you should expect it to be difficult to _persuade_ those who respond to the conflicts in a different way than you do.
@@ -191,19 +172,13 @@ The next chapter discusses theories of well-being, or what counts as being good 
 [^9]: Caspar Hare (2016). [Should We Wish Well to All?](http://dx.doi.org/10.1215/00318108-3624764) _Philosophical Review_, 125(4): 451–472.
 [^10]: It’s notoriously unclear how to apply the veil of ignorance to "different number" cases in [population ethics](/population-ethics/), for example.
 
-[^H1]: Harsanyi (1955, pp. 312–314; 1977, pp. 64–68). The presentation here follows the reinterpretation in Broome (1987, pp. 410–411; 1991, pp. 202–209).
+[^H1]: Harsanyi (1955, pp. 312–314; 1977, pp. 64–68), as reinterpreted by John Broome (1987, pp. 410–411; 1991, pp. 165, 202–209). For further explanation, keep an eye out for our forthcoming guest essay on Formal Arguments for Utilitarianism, by Johan E. Gustafsson & Kacper Kowalczyk, to appear at <www.utilitarianism.net/guest-essays/>.
 
-[^H2]: von Neumann and Morgenstern (1944, pp. 26–27), and Jensen (1967, p. 173).
+[^H2]: For example: Hare, C. (2016). [Should We Wish Well to All?](http://dx.doi.org/10.1215/00318108-3624764) _Philosophical Review_, 125(4): 451–472.
 
-[^H3]: Gustafsson (2022).
+[^H3]: Hare, C. (2016). [Should We Wish Well to All?](http://dx.doi.org/10.1215/00318108-3624764) _Philosophical Review_, 125(4): 451–472, pp. 454–455.
 
-[^H4]: von Neumann and Morgenstern (1944, pp. 26–27), and Jensen (1967, p. 173).
-
-[^H5]: Broome (1987, p. 410; 1991, p. 165). This is closely related to the _[Ex Ante Pareto](/glossary#ex-ante-pareto)_ principle, according to which we morally ought to prefer (and choose) prospects that are better for some and worse for none.
-
-[^H6]: This section (up to this point) was written by Johan E. Gustafsson, summarizing his forthcoming guest essay on Formal Arguments for Utilitarianism (co-authored with Kacper Kowalczyk), to appear at <www.utilitarianism.net/guest-essays/>.
-
-[^H7]: Caspar Hare (2016). [Should We Wish Well to All?](http://dx.doi.org/10.1215/00318108-3624764) _Philosophical Review_, 125(4): 451–472, pp. 454–455.
+[^H4]: Hare (2016) discusses some philosophers’ grounds for skepticism about the moral significance of _ex ante justifiability to all_, and supports the principle with further arguments from _presumed consent_, _dirty hands_, and _composition_.
 
 [^11]: Singer, P. (2011). _[The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle)_. Princeton University Press.
 [^12]: Cf. Williams, E. G. (2015). [The Possibility of an Ongoing Moral Catastrophe](https://link.springer.com/article/10.1007/s10677-015-9567-7). _Ethical Theory and Moral Practice_, 18(5): 971–982.
@@ -212,20 +187,21 @@ The next chapter discusses theories of well-being, or what counts as being good 
 [^16]: Absolutist deontologists hold such judgments to apply _no matter the consequences_. Moderate deontologists instead take the identified actions to be _presumptively_ wrong, and not _easily_ outweighed, but allow that this may be outweighed if a _sufficient_ amount of value was on the line. So, for example, a moderate deontologist might allow that it is permissible to lie in order to save someone’s life, or to kill one innocent person in order to save a million.
 [^17]:
     Samuel Scheffler noted that “either way, someone loses: some inviolable person is violated. Why isn’t it at least permissible to prevent the violation of five people by violating one?”
-    Scheffler, S. (1984). The Rejection of Consequentialism., p. 88
+
+    Scheffler, S. (1984). The Rejection of Consequentialism, p. 88.
 
 [^18]: Scheffler, S. (1985). [Agent-Centred Restrictions, Rationality, and the Virtues](https://dx.doi.org/10.1093/mind/XCIV.375.409). _Mind_, 94(375): 409–19.
-[^19]: See, e.g., Chappell, T. (2011). [Intuition, System, and the “Paradox” of Deontology](https://doi.org/10.1017/CBO9780511973789.013). In Jost, L. & Wuerth, J. (eds.), _Perfecting Virtue: New Essays on Kantian Ethics and Virtue Ethics_. Cambridge University Press., pp. 271–88.
+[^19]: See, e.g., Chappell, T. (2011). [Intuition, System, and the “Paradox” of Deontology](https://doi.org/10.1017/CBO9780511973789.013). In Jost, L. & Wuerth, J. (eds.), _Perfecting Virtue: New Essays on Kantian Ethics and Virtue Ethics_. Cambridge University Press, pp. 271–88.
 [^20]: It is open to the deontologist to insist that it should be more important _to Jack_, even if not to anyone else. But this violates the appealing idea that the moral point of view is impartial, yielding verdicts that reasonable observers (and not just the agent themselves) could agree upon.
 [^21]:
     For example, you might gaslight your spouse by remaining hidden in camouflage, when they could have sworn that you were just in the room with them. Or, as Foot (1978, 26) suggests, “An actor who fails to turn up for a performance will generally spoil it rather than allow it to be spoiled”.
     Foot, P. (1978). The Problem of Abortion and the Doctrine of the Double Effect. In _Virtues and Vices and Other Essays_. University of California Press.
 
-[^22]: Beauchamp, T. (2020). Justifying Physician-Assisted Deaths. In LaFollette, H. (ed.), _Ethics in Practice: An Anthology_ (5th ed.)., pp. 78–85.
+[^22]: Beauchamp, T. (2020). Justifying Physician-Assisted Deaths. In LaFollette, H. (ed.), _Ethics in Practice: An Anthology_ (5th ed.), pp. 78–85.
 [^23]: Bennett, J. (1998). _[The Act Itself](https://oxford.universitypressscholarship.com/view/10.1093/019823791X.001.0001/acprof-9780198237914)_. Oxford University Press.
 [^24]:
     In a similar vein, Derek Parfit wrote that “Some of us ask how much of our wealth we rich people ought to give to these poorest people. But that question wrongly assumes that our wealth is ours to give. This wealth is legally ours. But these poorest people have much stronger moral claims to some of this wealth. We ought to transfer to these people (...) at least ten per cent of what we earn”.
-    Parfit, D. (2017). _On What Matters, Volume Three_. Oxford University Press., pp. 436–37
+    Parfit, D. (2017). _On What Matters, Volume Three_. Oxford University Press, pp. 436–37
 
 [^25]:
     On the topic of sacrifice, John Stuart Mill wrote that “The utilitarian morality does recognise in human beings the power of sacrificing their own greatest good for the good of others. It only refuses to admit that the sacrifice is itself a good. A sacrifice which does not increase, or tend to increase, the sum total of happiness, it considers as wasted.”
@@ -233,7 +209,8 @@ The next chapter discusses theories of well-being, or what counts as being good 
 
 [^26]:
     However, this does not mean that utilitarianism will strive for perfect equality in material outcomes or even well-being. Joshua Greene notes that “a world in which everyone gets the same outcome no matter what they do is an idle world in which people have little incentive to do anything. Thus, the way to maximize happiness is not to decree that everyone gets to be equally happy, but to encourage people to behave in ways that maximize happiness. When we measure our moral success, we count everyone’s happiness equally, but achieving success almost certainly involves inequality of both material wealth and happiness. Such inequality is not ideal, but it’s justified on the grounds that, without it, things would be worse overall.
-    Greene, J. (2013). [Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes). The Penguin Press., p. 163; see also: [The Equality Objection to Utilitarianism](/objections-to-utilitarianism/equality).
+
+    Greene, J. (2013). [Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes). Penguin Press, p. 163. See also: [The Equality Objection to Utilitarianism](/objections-to-utilitarianism/equality).
 
 [^27]: In practice, the psychological phenomenon of _loss aversion_ means that someone may feel _more upset_ by what they perceive as a “loss” rather than a mere “failure to benefit”. Such negative feelings may further reduce their well-being, turning the judgment that “loss is worse” into something of a self-fulfilling prophecy. But this depends on contingent psychological phenomena generating _extra_ harms; it is not that the loss is _in itself_ worse.
 [^28]: Bostrom, N. & Ord, T. (2006). [The Reversal Test: Eliminating Status Quo Bias in Applied Ethics](https://dx.doi.org/10.1086/505233). _Ethics_, 116(4): 656–679.
