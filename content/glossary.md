@@ -267,7 +267,7 @@ See the article [The Equality Objection](/objections-to-utilitarianism/equality)
 
 _→ Main article:_ [_Ex Ante Pareto_](/arguments-for-utilitarianism/#ex-ante-pareto)
 
-A _Pareto_ improvement is better for some people, and worse for none. _Ex ante_ evaluation considers prospects in advance of their occurring, given the available information, in contrast to an _ex post_ or retrospective verdict on the actual result. Putting these two concepts together, the _Ex Ante Pareto_ Principle holds that, in a choice between two prospects, one is morally preferable to another if it offers a better prospect for some individuals and is worse for none.
+A _Pareto_ improvement is better for some people, and worse for none. _Ex ante_ approaches evaluate uncertain prospects by aggregating each individual’s [expected well-being](/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism) (in contrast to evaluations based on expected _ex post_ effects, e.g. that one person will be killed and five saved). Putting these two concepts together, the _Ex Ante Pareto_ Principle holds that, in a choice between two prospects, one is morally preferable to another if it offers a better prospect for some individuals and is worse for none.
 
 A powerful objection to non-utilitarian views is that they are committed to violating this Ex Ante Pareto Principle in some possible situations, such as when choosing policies from behind a Veil of Ignorance.
 
