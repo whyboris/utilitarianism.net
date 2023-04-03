@@ -53,13 +53,13 @@ We think that, put in these terms, it is no longer intuitively obvious that the 
 
 The third line of response is to _attack the available alternatives_ to utilitarianism to show that they have even more counterintuitive implications. For example, [egalitarianism](/near-utilitarian-alternatives#egalitarianism-and-distributive-justice) is subject to the _Leveling Down Objection_ that it countenances harming the well-off (without benefiting anyone) since that has the effect of increasing equality.[^3] If you don't think that there's anything good about such _leveling down_ then your judgment supports the utilitarian view that equality is only valuable instrumentally: valuable when and because it serves to promote overall well-being.[^4]
 
-We can also show that the alternatives to the utilitarian distribution of well-being violate a principle called _ex ante Pareto_: that, in a choice between two gambles, if everyone would rationally prefer gamble A to gamble B, then gamble A is better than gamble B.
+We can also show that the alternatives to the utilitarian distribution of well-being violate a principle called _[ex ante Pareto](/arguments-for-utilitarianism/#ex-ante-pareto)_: that, in a choice between two gambles, if everyone would rationally prefer gamble A to gamble B, then gamble A is better than gamble B.
 
 To see this, suppose that you can choose between one of two options for distributions of well-being, Safe Bet and Risky Gamble: In Safe Bet both Abel and Beth are guaranteed 45 well-being. In Risky Gamble a fair coin is tossed. If it lands heads, Abel receives 80 well-being and Beth receives 20 well-being. If it lands tails, Beth receives 80 well-being and Abel receives 20 well-being.
 
 ![Utilitarianism and equality - objections to utilitarianism](/img/equality3.jpg "Utilitarianism and equality - objections to utilitarianism")
 
-We can stipulate that both Abel and Beth would rationally prefer Risky Gamble over Safe Bet. They do so because their expected well-being in Risky Gamble is 50 (=(80+20)\*50%), which is higher than the expected well-being in Safe Bet of 45.[^5] So, if we follow ex ante Pareto then we should prefer Risky Gamble to Safe Bet. However, Risky Gamble results in an unequal outcome. Those who preferred Equality to Inequality must therefore also prefer Safe Bet to Risky Gamble. They must do so even though doing so is against the best interests of all parties concerned.
+We can stipulate that both Abel and Beth would rationally prefer Risky Gamble over Safe Bet. They do so because their expected well-being in Risky Gamble is 50 (=(80+20) x 50%), which is higher than the expected well-being in Safe Bet of 45.[^5] So, if we follow ex ante Pareto then we should prefer Risky Gamble to Safe Bet. However, Risky Gamble results in an unequal outcome. Those who preferred Equality to Inequality must therefore also prefer Safe Bet to Risky Gamble. They must do so even though doing so is against the best interests of all parties concerned.
 
 This objection has been developed formally by the economist John Harsanyi, who proved it in his utilitarian aggregation theorem.[^6]
 
