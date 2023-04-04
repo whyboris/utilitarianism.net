@@ -30,7 +30,7 @@ var merger = new PDFMerger();
   await merger.add(public_pdf + "The_Equality_Objection_utilitarianism_net.pdf");
   await merger.add(public_pdf + "The_Cluelessness_Objection_utilitarianism_net.pdf");
   await merger.add(public_pdf + "The_Abusability_Objection_utilitarianism_net.pdf");
-  await merger.add(public_pdf + "Study_Guide_Peter Singer_s_Famine_Affluence_and_Morality_utilitarianism_net.pdf");
+  await merger.add(public_pdf + "Study_Guide_Peter_Singer_s_Famine_Affluence_and_Morality_utilitarianism_net.pdf");
   await merger.add(public_pdf + "Resources_and_Further_Reading_utilitarianism_net.pdf");
 
   await merger.save('An Introduction to Utilitarianism.pdf');
