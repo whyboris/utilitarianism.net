@@ -267,9 +267,11 @@ See the article [The Equality Objection](/objections-to-utilitarianism/equality)
 
 _→ Main article:_ [_Ex Ante Pareto_](/arguments-for-utilitarianism/#ex-ante-pareto)
 
-A _Pareto_ improvement is better for some people, and worse for none. _Ex ante_ approaches evaluate uncertain prospects by aggregating each individual’s [expected well-being](/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism) (in contrast to evaluations based on expected _ex post_ effects, e.g. that one person will be killed and five saved). Putting these two concepts together, the _Ex Ante Pareto_ Principle holds that, in a choice between two prospects, one is morally preferable to another if it offers a better prospect for some individuals and is worse for none.
+A _Pareto_ improvement is better for some people, and worse for none. When the future is uncertain, we can assess an individual’s _ax ante_ interests by reference to their [_expected_ well-being](/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism) (in contrast to their objective interests, which might only be knowable _ex post_, or after the fact). Putting these two concepts together, the _Ex Ante Pareto_ principle holds that, in a choice between two prospects, one is morally preferable to another if it offers a better prospect for some individuals and a worse prospect for none.
 
-A powerful objection to non-utilitarian views is that they are committed to violating this Ex Ante Pareto Principle in some possible situations, such as when choosing policies from behind a Veil of Ignorance.
+(Interestingly, theories may combine _ex post_ welfare evaluations with a broader "expectational" element. For example, _ex post_ [prioritarianism](/near-utilitarian-alternatives/#prioritarianism) assigns extra social value to avoiding bad outcomes (rather than bad _prospects_) for the worst off individuals, but can still assess prospects by their _expected social value_.)
+
+A powerful objection to many non-utilitarian views is that they are committed to violating this Ex Ante Pareto principle in some possible situations, such as when choosing policies from behind a Veil of Ignorance.
 
 See: Harsanyi, J. C. (1955). [Cardinal welfare, individualistic ethics, and interpersonal comparisons of utility](https://www.jstor.org/stable/1827128). _The Journal of Political Economy_, pp. 309–321.
 </details>
