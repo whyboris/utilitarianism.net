@@ -47,7 +47,7 @@ There are further ideas that utilitarians may appeal to in developing the above 
 
   - that it would be good to _inculcate practical norms_ against actions of that type;
   - that a person willing to perform such an action would likely have _bad character_, and be likely to cause greater harms on other occasions;
-  - that the action is _reckless_, or plausibly wrong _in expectation_, even if it happens to turn out for the best.[^3] 
+  - that the action is _reckless_, or plausibly wrong _in expectation_, even if it happens to turn out for the best.[^3]
 
 - _Gobble up competing values_. Critics sometimes allege that utilitarians don’t value obviously good things like rights, freedom, virtue, equality, and the natural environment. But while these things may be obviously good, it is less obvious that they are all _non-instrumentally_ good. And utilitarians can certainly value them instrumentally. Moreover, utilitarians who accept an [objective list theory of well-being](/theories-of-wellbeing/#objective-list-theories) may even be able to give non-instrumental consideration to goods (like freedom and [beauty](/near-utilitarian-alternatives/#aesthetic-value)) that could plausibly be counted as welfare goods when part of a person’s life.
 
@@ -63,9 +63,34 @@ Despite the silly labels, these are serious philosophical moves. We employ each,
 
 ## Specific Objections to Utilitarianism
 
-In separate articles, we discuss the following critiques of utilitarianism:
+We next discuss the following critiques of utilitarianism:
 
-{{< textbook-objections >}}
+1. The Rights Objection
+ Many find it objectionable that utilitarianism seemingly licenses outrageous rights violations in certain hypothetical scenarios, killing innocent people for the greater good. This article explores how utilitarians might best respond.
+
+2. The Mere Means Objection
+ Critics often allege that utilitarianism objectionably instrumentalizes people—treating us as mere means to the greater good, rather than properly valuing individuals as ends in themselves. In this article, we assess whether this is a fair objection.
+
+3. The Separateness of Persons Objection
+ The idea that utilitarianism neglects the 'separateness of persons' has proven to be a widely influential objection. But it is one that is difficult to pin down. This article explores three candidate interpretations of the objection, and how utilitarians can respond to each.
+
+4. The Demandingness Objection
+ In directing us to choose the impartially best outcome, even at significant cost to ourselves, utilitarianism can seem an incredibly demanding theory. This page explores whether this feature of utilitarianism is objectionable, and if so, how defenders of the view might best respond.
+
+5. The Alienation Objection
+ Abstract moral theories threaten to alienate us from much that we hold dear. This article explores two possible defenses of utilitarianism against this charge. One recommends adopting motivations other than explicitly utilitarian ones. The second argues that suitably concrete concerns can be subsumed within broader utilitarian motivations.
+
+6. The Special Obligations Objection
+ Relationships like parenthood or guardianship seemingly give rise to special obligations to protect those who fall under our care (where these obligations are more stringent than our general duties of beneficence towards strangers). This article explores the extent to which impartial utilitarianism can accommodate intuitions and normative practices of partiality.
+
+7. The Equality Objection
+ Utilitarianism is concerned with the overall well-being of individuals in the population, but many object that justice requires an additional concern for how this well-being is distributed across individuals. This article examines this objection, and how utilitarians might best respond.
+
+8. The Cluelessness Objection
+ Is utilitarianism undermined by our inability to predict the long-term consequences of our actions? This article explores whether utilitarians can still be guided by near-term expected value even when this is small in comparison to the potential value or disvalue of the unknown long-term consequences.
+
+9. The Abusability Objection
+ Some argue that utilitarianism is self-effacing, or recommends against its own acceptance, due to the risk that mistaken appeals to the 'greater good' may actually result in horrifically harmful actions being done. This article explores how best to guard against such risks, and questions whether it is an objection to a theory if it turns out to be self-effacing in this way.
 
 {{< next-page-objection hide-other="true" >}}
 
