@@ -1,5 +1,5 @@
 ---
-title: "Near-Utilitarian Alternatives"
+title: "8. Near-Utilitarian Alternatives"
 date: 2023-01-29
 draft: false
 menu: "main"

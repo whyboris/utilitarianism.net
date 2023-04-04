@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Utilitarianism"
+title: "1. Introduction to Utilitarianism"
 date: 2023-01-29
 draft: false
 menu: "main"
@@ -66,11 +66,11 @@ We cover the four elements of utilitarianism, and further theoretical distinctio
 
 Specific [theories of well-being](/theories-of-wellbeing/) and of [population ethics](/population-ethics/) are explored in Chapters 4 and 5, respectively. While utilitarianism is often associated with _hedonism_ about well-being and the _total view_ of population ethics (a combination known as _classical utilitarianism_), there are other options that are also worth considering. It’s especially worth bearing in mind that objections to hedonism or to the total view may yet leave other forms of utilitarianism untouched.
 
-[Chapter 6](/utilitarianism-and-practical-ethics/) and our supplemental article [Acting on Utilitarianism](/acting-on-utilitarianism/) explore the practical applications of utilitarianism, and its implications for how we should live our lives. We argue that, in practice, a utilitarian should try to do as much good as possible whilst still abiding by commonsense moral virtues like integrity, trustworthiness, and law-abidingness, in order to advance social cooperation and mitigate the downside risk of miscalculation.
+[Chapters 6](/utilitarianism-and-practical-ethics/) and [7](/acting-on-utilitarianism/) explore the practical applications of utilitarianism, and its implications for how we should live our lives. We argue that, in practice, a utilitarian should try to do as much good as possible whilst still abiding by commonsense moral virtues like integrity, trustworthiness, and law-abidingness, in order to advance social cooperation and mitigate the downside risk of miscalculation.
 
-[Chapter 7](/near-utilitarian-alternatives/) examines how robust these practical recommendations are to various departures from strict utilitarian theory. While some alternative theories may yield radically divergent practical implications, we argue that a wide range of reasonable views ultimately converge on the core practical recommendation of utilitarian ethics—namely, to use a significant fraction of your time and/or money to do help others, and to try to do so as effectively as possible, without violating common-sense moral constraints.
+[Chapter 8](/near-utilitarian-alternatives/) examines how robust these practical recommendations are to various departures from strict utilitarian theory. While some alternative theories may yield radically divergent practical implications, we argue that a wide range of reasonable views ultimately converge on the core practical recommendation of utilitarian ethics—namely, to use a significant fraction of your time and/or money to do help others, and to try to do so as effectively as possible, without violating common-sense moral constraints.
 
-Prominent [objections to utilitarianism](/objections-to-utilitarianism/) are addressed in chapter 8. We introduce a "[toolkit](/objections-to-utilitarianism/#the-utilitarians-toolkit)" of general maneuvers available to utilitarians to address a wide range of objections, and then show how this toolkit can be used to address concerns about rights, demandingness, cluelessness, and more.
+Prominent [objections to utilitarianism](/objections-to-utilitarianism/) are addressed in chapter 9. We introduce a "[toolkit](/objections-to-utilitarianism/#the-utilitarians-toolkit)" of general maneuvers available to utilitarians to address a wide range of objections, and then show how this toolkit can be used to address concerns about rights, demandingness, cluelessness, and more.
 
 ## Conclusion
 

@@ -1,5 +1,5 @@
 ---
-title: "Arguments for Utilitarianism"
+title: "3. Arguments for Utilitarianism"
 date: 2023-01-29
 draft: false
 menu: "main"

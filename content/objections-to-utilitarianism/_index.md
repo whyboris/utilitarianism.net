@@ -1,5 +1,5 @@
 ---
-title: "Objections to Utilitarianism and Responses"
+title: "9. Objections to Utilitarianism and Responses"
 date: 2023-01-29
 draft: false
 menu: ["objections", "main"]

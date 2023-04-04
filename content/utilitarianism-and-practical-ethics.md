@@ -1,5 +1,5 @@
 ---
-title: "Utilitarianism and Practical Ethics"
+title: "6. Utilitarianism and Practical Ethics"
 date: 2023-01-29
 draft: false
 menu: "main"
@@ -136,10 +136,6 @@ The theory rejects an intrinsic moral difference between doing and allowing harm
 By the lights of utilitarianism, we should choose carefully which moral problems to work on and by what means, based on where we can do the most good. We should extend our moral concern to all sentient beings, meaning every individual capable of experiencing happiness or suffering. Utilitarianism urges us to consider the well-being of all individuals regardless of what species they belong to, what country they live in, and at what point in time they exist.
 
 Though utilitarians should try to use their lives to do the most good they can, in practice, they should do so while respecting commonsense moral virtues like honesty, integrity, fairness, and law-abidingness. There are reasons we do not see utilitarians robbing banks to donate the proceeds: these commonsense moral prohibitions help society to function smoothly, and any naive calculation that violating such a prohibition would promote the greater good is almost always mistaken.
-
-The next chapter discusses important rival theories that may overlap significantly with utilitarianism in practice.
-
-{{< next-page-textbook title="Near-Utilitarian Alternatives" url="/near-utilitarian-alternatives" >}}
 
 {{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
 

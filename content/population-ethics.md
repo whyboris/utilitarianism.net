@@ -1,5 +1,5 @@
 ---
-title: "Population Ethics"
+title: "5. Population Ethics"
 date: 2023-01-29
 draft: false
 menu: "main"

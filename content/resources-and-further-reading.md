@@ -282,7 +282,53 @@ Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practica
 
 ---
 
-## Chapter 7: Near-Utilitarian Alternatives
+## Chapter 7: Acting on Utilitarianism
+
+Resources for [Acting on Utilitarianism](/acting-on-utilitarianism)
+
+### General
+
+- Peter Singer (2011). _[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics)_, 3rd edition. Cambridge: Cambridge University Press.
+- Katarzyna de Lazari-Radek & Peter Singer (2017). Chapter 6: Utilitarianism in Action, _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford: Oxford University Press.
+
+### Effective Altruism
+
+- William MacAskill (2019). [Effective Altruism](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7205d104c7bf5cc8f1dca/1539776611190/Effective+Altruism+-+Introduction.pdf). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.).
+- William MacAskill (2015). _[Doing Good Better: Effective Altruism and How You Can Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Penguin Random House.
+- William MacAskill (2018). [What Are the Most Important Moral Problems of Our Time?](https://www.ted.com/talks/will_macaskill_what_are_the_most_important_moral_problems_of_our_time) _TED_.
+- Peter Singer (2013). [The Why and How of Effective Altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en). _TED_.
+- Websites and organizations relevant to effective altruism:
+  - [Effectivealtruism.org](https://www.effectivealtruism.org/): Website providing online resources about effective altruism.
+  - [GiveWell](https://www.givewell.org/): Charity evaluator aiming to find outstanding giving opportunities.
+  - [80,000 Hours](https://80000hours.org/): Research non-profit aiming to help talented individuals maximize the social impact of their careers.
+  - [Giving What We Can](https://www.givingwhatwecan.org/): Community of people having pledged to give 10% of their lifetime earnings to effective charities.
+  - [Charity Entrepreneurship](https://www.charityentrepreneurship.com/): Charity incubator helping start multiple high-impact charities annually.
+- Podcasts on effective altruism & utilitarianism:
+  - [Effective Altruism: An Introduction](https://80000hours.org/podcast/effective-altruism-an-introduction/). _80,000 Hours Podcast_.
+  - William MacAskill (2020). [Doing Good](https://samharris.org/podcasts/228-doing-good/). _Making Sense Podcast with Sam Harris_.
+  - Peter Singer (2016). [What is Moral Progress?](https://samharris.org/podcasts/what-is-moral-progress/). _Making Sense Podcast with Sam Harris_.
+  - Gus Docker. [Utilitarian Podcast](https://podcasts.apple.com/us/podcast/utilitarian/id1529734932).
+
+### Global Health and Development
+
+- Peter Singer (2019). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_, updated 10th anniversary edition. New York: Penguin Random House. (The book is available for free download)
+- Toby Ord (2019).[The Moral Imperative toward Cost-Effectiveness in Global Health](https://www.givingwhatwecan.org/research/the-moral-imperative-towards-cost-effectiveness/), in Greaves, H. (ed.) _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
+- Peter Unger (1996). _[Living High and Letting Die: Our Illusion of Innocence](https://doi.org/10.1093/0195108590.001.0001)_. Oxford: Oxford University Press.
+
+### Farm Animal Welfare
+
+- Tyler John and Jeff Sebo (2020). [Consequentialism and Nonhuman Animals](https://web.archive.org/web/20210212130214/https://jeffsebodotnet.files.wordpress.com/2019/06/consequentialism-and-nonhuman-animals-penultimate.pdf). In _The Oxford Handbook of Consequentialism_, Douglas W. Portmore (ed.). Oxford: Oxford University Press.
+- Lewis Bollard (2021). [Lewis Bollard on big wins against factory farming and how they happened](https://80000hours.org/podcast/episodes/lewis-bollard-big-wins-against-factory-farming/). _80,000 Hours Podcast with Rob Wiblin_.
+- Jess Whittlestone (2017). [Animal Welfare](https://www.effectivealtruism.org/articles/cause-profile-animal-welfare/). _Effective Altruism_.
+
+### Existential Risks
+
+- Toby Ord (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
+- Nick Bostrom (2013). [Existential Risk Prevention as Global Priority](https://www.existential-risk.org/concept.html). _Global Policy_. 4(1): 15–31.
+
+---
+
+## Chapter 8: Near-Utilitarian Alternatives
 
 Resources for [Near-Utilitarian Alternatives](/near-utilitarian-alternatives):
 
@@ -318,7 +364,7 @@ Resources for [Near-Utilitarian Alternatives](/near-utilitarian-alternatives):
 
 ---
 
-## Chapter 8: Objections to Utilitarianism and Responses
+## Chapter 9: Objections to Utilitarianism and Responses
 
 Resources for [Objections to Utilitarianism and Responses](/objections-to-utilitarianism):
 
@@ -407,52 +453,6 @@ Resources for [Objections to Utilitarianism and Responses](/objections-to-utilit
 - Derek Parfit (1984). _Reasons and Persons_, Part One: Self-Defeating Theories. Clarendon Press.
 - Philip Pettit & Geoffrey Brennan (1986). [Restrictive Consequentialism](https://doi.org/10.1080/00048408612342631). _Australasian Journal of Philosophy_, 64(4): 438–455.
 - Bernard Williams (1973). A Critique of Utilitarianism. In J.J.C Smart & Bernard Williams, _Utilitarianism: For and Against_. Cambridge University Press.
-
----
-
-## Acting on Utilitarianism
-
-Resources for [Acting on Utilitarianism](/acting-on-utilitarianism)
-
-### General
-
-- Peter Singer (2011). _[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics)_, 3rd edition. Cambridge: Cambridge University Press.
-- Katarzyna de Lazari-Radek & Peter Singer (2017). Chapter 6: Utilitarianism in Action, _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford: Oxford University Press.
-
-### Effective Altruism
-
-- William MacAskill (2019). [Effective Altruism](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7205d104c7bf5cc8f1dca/1539776611190/Effective+Altruism+-+Introduction.pdf). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.).
-- William MacAskill (2015). _[Doing Good Better: Effective Altruism and How You Can Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Penguin Random House.
-- William MacAskill (2018). [What Are the Most Important Moral Problems of Our Time?](https://www.ted.com/talks/will_macaskill_what_are_the_most_important_moral_problems_of_our_time) _TED_.
-- Peter Singer (2013). [The Why and How of Effective Altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en). _TED_.
-- Websites and organizations relevant to effective altruism:
-  - [Effectivealtruism.org](https://www.effectivealtruism.org/): Website providing online resources about effective altruism.
-  - [GiveWell](https://www.givewell.org/): Charity evaluator aiming to find outstanding giving opportunities.
-  - [80,000 Hours](https://80000hours.org/): Research non-profit aiming to help talented individuals maximize the social impact of their careers.
-  - [Giving What We Can](https://www.givingwhatwecan.org/): Community of people having pledged to give 10% of their lifetime earnings to effective charities.
-  - [Charity Entrepreneurship](https://www.charityentrepreneurship.com/): Charity incubator helping start multiple high-impact charities annually.
-- Podcasts on effective altruism & utilitarianism:
-  - [Effective Altruism: An Introduction](https://80000hours.org/podcast/effective-altruism-an-introduction/). _80,000 Hours Podcast_.
-  - William MacAskill (2020). [Doing Good](https://samharris.org/podcasts/228-doing-good/). _Making Sense Podcast with Sam Harris_.
-  - Peter Singer (2016). [What is Moral Progress?](https://samharris.org/podcasts/what-is-moral-progress/). _Making Sense Podcast with Sam Harris_.
-  - Gus Docker. [Utilitarian Podcast](https://podcasts.apple.com/us/podcast/utilitarian/id1529734932).
-
-### Global Health and Development
-
-- Peter Singer (2019). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_, updated 10th anniversary edition. New York: Penguin Random House. (The book is available for free download)
-- Toby Ord (2019).[The Moral Imperative toward Cost-Effectiveness in Global Health](https://www.givingwhatwecan.org/research/the-moral-imperative-towards-cost-effectiveness/), in Greaves, H. (ed.) _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
-- Peter Unger (1996). _[Living High and Letting Die: Our Illusion of Innocence](https://doi.org/10.1093/0195108590.001.0001)_. Oxford: Oxford University Press.
-
-### Farm Animal Welfare
-
-- Tyler John and Jeff Sebo (2020). [Consequentialism and Nonhuman Animals](https://web.archive.org/web/20210212130214/https://jeffsebodotnet.files.wordpress.com/2019/06/consequentialism-and-nonhuman-animals-penultimate.pdf). In _The Oxford Handbook of Consequentialism_, Douglas W. Portmore (ed.). Oxford: Oxford University Press.
-- Lewis Bollard (2021). [Lewis Bollard on big wins against factory farming and how they happened](https://80000hours.org/podcast/episodes/lewis-bollard-big-wins-against-factory-farming/). _80,000 Hours Podcast with Rob Wiblin_.
-- Jess Whittlestone (2017). [Animal Welfare](https://www.effectivealtruism.org/articles/cause-profile-animal-welfare/). _Effective Altruism_.
-
-### Existential Risks
-
-- Toby Ord (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
-- Nick Bostrom (2013). [Existential Risk Prevention as Global Priority](https://www.existential-risk.org/concept.html). _Global Policy_. 4(1): 15–31.
 
 ---
 
