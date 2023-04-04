@@ -100,19 +100,15 @@ Classical utilitarianism can be distinguished from the wider utilitarian family 
 
 ### Theories of Well-Being: Hedonism
 
-_→ Main article: [Theories of Well-Being](/theories-of-wellbeing)_
-
 Classical utilitarianism accepts _hedonism_ as a theory of well-being, which we define as follows:
 
 > **Hedonism is the view that well-being consists in, and only in, the balance of positive over negative conscious experiences.**
 
 Ethical hedonists believe that the only things good in themselves are the experiences of positive conscious states, such as enjoyment and pleasure; and the only things bad in themselves are the experiences of negative conscious states, such as misery and pain. _Happiness_ and _suffering_ are commonly used by philosophers as shorthand for the terms _positive conscious experience_ and _negative conscious experience_ respectively.
 
-We discuss the arguments for and against hedonism—and its two major rivals, _desire theories_ and _objective list theories_—in the chapter [Theories of Well-Being](/theories-of-wellbeing).
+We discuss the arguments for and against hedonism—and its two major rivals, _desire theories_ and _objective list theories_—in Chapter 4: [Theories of Well-Being](/theories-of-wellbeing).
 
 ### Population Ethics: The Total View
-
-_→ Main article: [Population Ethics](/population-ethics)_
 
 Classical utilitarianism accepts a population ethical theory known as the _total view_, which holds that:
 
@@ -122,7 +118,7 @@ The total view implies that we can improve the world in two ways: either we can 
 
 The total view’s foremost practical implication is [giving great importance](/utilitarianism-and-practical-ethics#longtermism) to ensuring the long-term flourishing of civilization. Since the total well-being enjoyed by all future people is potentially enormous, according to the total view, the [mitigation of existential risks](/acting-on-utilitarianism#existential-risk-reduction)—which threaten to destroy this immense future value—is one of the principal moral issues facing humanity.
 
-Alternatives to the total view in population ethics include the _average view_, _variable value theories_, _critical level (and range) theories,_ and _person-affecting views_. We explain and discuss these theories in the chapter on [Population Ethics](/population-ethics).
+Alternatives to the total view in population ethics include the _average view_, _variable value theories_, _critical level (and range) theories,_ and _person-affecting views_. We explain and discuss these theories in Chapter 5: [Population Ethics](/population-ethics).
 
 ## Further Distinctions Among Utilitarian Theories
 

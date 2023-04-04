@@ -17,7 +17,7 @@ Utilitarians agree that if the number of people that were ever to exist is held 
 
 Population ethics is not just an academic exercise. It is relevant to many important practical questions, such as how many children we ought to have, if any; how much we should invest in climate change mitigation; and how much we should worry about near-term risks of human extinction.
 
-This article will survey five major approaches to population ethics:
+This chapter will survey five major approaches to population ethics:
 
 1. The _total view_ that evaluates populations according to the total amount of well-being that they contain.
 2. The _average view_ that instead focuses on the _average_ well-being level in the population.
@@ -326,8 +326,8 @@ The next chapter discusses the most important implications of utilitarianism for
 - Yew-Kwang Ng (1989). [What should we do about future generations? Impossibility of Parfit's Theory X](https://doi.org/10.1017/S0266267100002406). _Economics and Philosophy_. 5(2): 235–253.
 
 [^1]: When we talk about populations, we mean total populations: not just how many people are alive at a specific time, but consideration of all people across all time.
-[^2]: Other writers, following Parfit (1984), sometimes speak of a “wide person-affecting view” which allows for (non-instrumental) reasons to add happy lives. For ease of expression, in this article we use “person-affecting” in the more distinctive _narrow_ sense which rejects this idea.
-[^3]: Throughout this article, we use the terms “quality of life”, “welfare”, and “well-being” interchangeably. These terms are used to describe how well or poorly someone’s entire life goes, not just how well-off someone is at a specific moment in time. Moreover, concepts such as “units of well-being” and “well-being levels” are simplifications used for illustrative purposes, and they do not imply that we can in practice precisely measure well-being.
+[^2]: Other writers, following Parfit (1984), sometimes speak of a “wide person-affecting view” which allows for (non-instrumental) reasons to add happy lives. For ease of expression, in this chapter we use “person-affecting” in the more distinctive _narrow_ sense which rejects this idea.
+[^3]: Throughout this chapter, we use the terms “quality of life”, “welfare”, and “well-being” interchangeably. These terms are used to describe how well or poorly someone’s entire life goes, not just how well-off someone is at a specific moment in time. Moreover, concepts such as “units of well-being” and “well-being levels” are simplifications used for illustrative purposes, and they do not imply that we can in practice precisely measure well-being.
 [^4]: An alternative method is to add up the well-being levels of all individuals.
 [^5]: The notion of a positive life, which is critical for the total view, only makes sense relative to a zero point on the well-being scale. This zero point is the threshold above which life becomes “worth living”. A “neutral life”, at well-being level 0, is neither “worth living” nor “not worth living”. This may be either a life with no value or disvalue, or a life with exactly as much value as disvalue. For discussion of the subtleties surrounding the concept of a life “worth living”, see Broome, J. (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press., pp. 66–68.
 [^6]: Stronger still: on the total view, it would be intrinsically _better_ to create a new person at welfare level 100 than to improve an existing person's well-being from level 1 to 100.

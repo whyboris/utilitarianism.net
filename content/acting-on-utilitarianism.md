@@ -13,13 +13,13 @@ weight: 5
 
 ## Introduction
 
-So far we have looked at utilitarianism from a theoretical viewpoint. But what does utilitarianism actually mean in practice? What concrete actions does it say we should take? This article explains what it means to live an ethical life from the perspective of utilitarianism.
+So far we have looked at utilitarianism from a theoretical viewpoint. But what does utilitarianism actually mean in practice? What concrete actions does it say we should take? This chapter explains what it means to live an ethical life from the perspective of utilitarianism.
 
 There are many problems in the world today, some of which are extremely large in scale. According to utilitarianism, each person has an obligation to work on these problems and to try to improve the world by as much as possible, giving equal weight to the well-being of everyone. Unfortunately, our resources are scarce, so as individuals and even as a global society we cannot solve all the world’s problems at once. This means we must make decisions about how to prioritize the resources we have. Since not all ways of helping others are equally effective, utilitarianism implies that we should carefully choose which problems to work on and by what means.
 
 To do the most good they can, in practice, many utilitarians donate a significant portion of their income to address the world’s most pressing problems, devote their careers to doing good, and aspire to high degrees of cooperativeness, personal integrity, and honesty.
 
-Throughout this article, we use expressions like “doing good” and “having an impact” as shorthand for increasing the well-being of others, in particular by promoting their happiness and preventing their suffering.
+Throughout this chapter, we use expressions like “doing good” and “having an impact” as shorthand for increasing the well-being of others, in particular by promoting their happiness and preventing their suffering.
 
 ## Opportunities to Help Others
 
@@ -51,7 +51,7 @@ Despite these differences, utilitarians are usually enthusiastic about effective
 
 In addition, joining a community of people with shared aims like effective altruism can be one of the best ways for its members to increase their impact. Such a community allows a group of people to give each other mutual support, and to coordinate more effectively and thus achieve more than they could as individuals.
 
-Members of the effective altruism movement often decompose the problem of how to do the most good into two parts: First, which problem (“cause”) should I focus on? Second, which means should I take to address those problems? We will discuss these two questions in the remainder of this article.
+Members of the effective altruism movement often decompose the problem of how to do the most good into two parts: First, which problem (“cause”) should I focus on? Second, which means should I take to address those problems? We will discuss these two questions in the remainder of this chapter.
 
 ## Cause Prioritization
 

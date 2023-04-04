@@ -15,7 +15,7 @@ gradientBottom: "#571B9E"
 
 ## The Mere Means Objection
 
-Critics often allege that utilitarianism objectionably _instrumentalizes_ people—treating us as “mere means” to the greater good, rather than properly valuing individuals as “ends in themselves”.[^1] In this article, we assess whether this is a fair objection.
+Critics often allege that utilitarianism objectionably _instrumentalizes_ people—treating us as “mere means” to the greater good, rather than properly valuing individuals as “ends in themselves”.[^1] In the following discussion, we assess whether this is a fair objection.
 
 There is something very appealing about the Kantian _Formula of Humanity_, that one should “[a]ct in such a way as to treat humanity, whether in your own person or in that of anyone else, always as an end and never merely as a means.”[^2] If utilitarianism were truly incompatible with the plain meaning of this formula, then that would constitute a serious objection to the theory. For it would then be shown to be incompatible with the basic point that people have intrinsic value as ends in ourselves.
 
@@ -76,7 +76,7 @@ But there may be other, closely related, objections that people sometimes have i
 - Samuel Kerstein (2019). [Treating Persons as Means](https://plato.stanford.edu/archives/sum2019/entries/persons-means/), _The Stanford Encyclopedia of Philosophy_ (Summer 2019 Edition), Edward N. Zalta (ed.).
 - Derek Parfit (2011). _On What Matters: Vol 1_. Oxford University Press. Chapter 9: Merely as a Means.
 
-[^1]: Strictly speaking, this objection applies to all (aggregative) consequentialist theories. The responses we offer on behalf of utilitarianism in this article would equally apply in defense of other consequentialist theories.
+[^1]: Strictly speaking, this objection applies to all (aggregative) consequentialist theories. The responses we offer on behalf of utilitarianism in this discussion would equally apply in defense of other consequentialist theories.
 [^2]: Kant, Immanuel (1785). _[Groundwork of the Metaphysics of Morals](https://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf)_, translated by Jonathan Bennett.
 [^3]: Specifically, they would be willing to sacrifice goods that added up to an equal or lesser loss of well-being value, in order to relieve this burden.
 [^4]: Cf. Parfit, D. (2011). _On What Matters: Vol 1_. Oxford University Press. Chapter 9: Merely as a Means.

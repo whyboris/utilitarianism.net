@@ -17,7 +17,7 @@ gradientBottom: "#305D9C"
 
 Utilitarianism has important implications for how we should think about leading an ethical life. In this chapter, we focus on five of its theoretical implications. First, unlike many other ethical theories, utilitarianism does not regard actions and omissions as morally different. Second, it is unusually demanding: it requires us to sacrifice more than many other ethical theories do. Third, it implies that we should be cause-impartial: that we should apply our altruistic efforts to wherever we can have the most positive impact on others. Fourth, it urges us to consider the well-being of individuals regardless of what country they live in, what species they belong to, and at what point in time they exist. Fifth, despite differing radically from commonsense morality as an approach to ethics, utilitarianism generally does endorse commonsense moral prohibitions.
 
-We discuss how utilitarians should act in practice in the article [Acting on Utilitarianism](/acting-on-utilitarianism). In brief, most utilitarians should [donate a significant portion of their income](/acting-on-utilitarianism#charitable-giving) to address the world’s most pressing problems, [devote their careers to doing good](/acting-on-utilitarianism#career-choice), and aspire to high degrees of cooperativeness, personal integrity, and honesty.
+We discuss how utilitarians should act in practice in the next chapter: [Acting on Utilitarianism](/acting-on-utilitarianism). In brief, most utilitarians should [donate a significant portion of their income](/acting-on-utilitarianism#charitable-giving) to address the world’s most pressing problems, [devote their careers to doing good](/acting-on-utilitarianism#career-choice), and aspire to high degrees of cooperativeness, personal integrity, and honesty.
 
 ## Is There a Difference Between Doing and Allowing Harm?
 
@@ -73,8 +73,6 @@ According to utilitarianism, geographical distance and national membership are n
 
 Of course, the geographical distance between oneself and one’s beneficiary may matter instrumentally—it is often easier to help people close by than people far away. However, in an increasingly globalized world it has become much easier to benefit even those who live on the other side of the world. And because of extreme global economic inequalities, an additional unit of resources benefits people in the least-developed countries much more than people in affluent countries like the United States or the United Kingdom—potentially 100 to 1,000 times more.[^9]
 
-We discuss the implications of cosmopolitanism for ethical action in the article [Acting on Utilitarianism](/acting-on-utilitarianism#global-health-and-development).
-
 ### Anti-Speciesism: Expanding the Moral Circle Across Species
 
 Utilitarianism cares not only about the well-being of humans, but also about the well-being of non-human animals. Consequently, utilitarianism rejects _[speciesism](https://www.animal-ethics.org/ethics-animals-section/speciesism/)_: the practice of giving individuals less moral consideration than others or treating them worse based on their species membership. To give individuals moral consideration is simply to consider how one’s behavior will affect them, whether by action or omission. As [Peter Singer](/utilitarian-thinker/peter-singer) describes it:
@@ -91,8 +89,6 @@ Speciesism underlies the current exploitation of billions of non-human animals b
 
 However, not all animal suffering is caused by humans. There are many more wild animals living in nature than there are domesticated animals.[^12] In contrast to the widespread romanticized view of nature, wild animals generally live short lives in harsh environments, and they experience suffering from many sources including predation, disease, parasites, exposure to extreme heat or cold, hunger, thirst, and malnutrition. Against this background, it would be wrong to consider only the well-being of domesticated animals which humans actively harm, while ignoring the well-being of wild animals which humans merely allow to be harmed.[^13] As noted earlier, for the utilitarian, the distinction between doing and allowing harm is irrelevant. Therefore, from the utilitarian viewpoint, we should care equally about the welfare of domestic and wild animals. That said, we currently know little about how to systematically improve the lives of wild animals. By contrast, reducing society’s consumption of factory-farmed meat, or improving conditions on factory farms, would yield clear and enormous benefits for animals.[^14]
 
-We discuss the implications of rejecting speciesism for ethical action in the article [Acting on Utilitarianism](/acting-on-utilitarianism#farm-animal-welfare).
-
 ### Longtermism: Expanding the Moral Circle Across Time
 
 From the utilitarian perspective, people on the other side of the planet matter no less than people closer to us geographically. In the same way, utilitarianism regards the well-being of future generations as no less important simply because they are far away in time than the well-being of those alive today.
@@ -104,8 +100,6 @@ There could be astronomically more people in the future than in the present gene
 > **Strong longtermism is the view that the most important determinant of the value of our actions today is how those actions affect the very long-run future.**
 
 Strong longtermism is implied by most plausible forms of utilitarianism[^17] if we assume that some of our actions can meaningfully affect the long-term future and that we can estimate which effects are positive and which negative. For example, there are risks to the continued survival of the human race, including from nuclear war, extreme climate change, man-made pathogens, and artificial general intelligence.[^18] If we believe that the continued survival of the human race is positive in value, then reducing the risk of human extinction is a way of positively influencing the very long-run future.[^19] A discussion of longtermism would go beyond the scope of this chapter, but to learn more, we recommend reading this [academic paper](https://globalprioritiesinstitute.org/wp-content/uploads/2019/Greaves_MacAskill_The_Case_for_Strong_Longtermism.pdf).[^20]
-
-We discuss the implications of longtermism for ethical action in the article [Acting on Utilitarianism](/acting-on-utilitarianism#existential-risk-reduction).
 
 ## Respecting Commonsense Moral Norms
 

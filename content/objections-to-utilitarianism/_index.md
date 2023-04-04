@@ -5,7 +5,7 @@ draft: false
 menu: ["objections", "main"]
 weight: 100
 page: 0
-description: "This article explains four general strategies for responding to objections to utilitarianism, before introducing the most influential specific objections to the theory."
+description: "This chapter explains four general strategies for responding to objections to utilitarianism, before introducing the most influential specific objections to the theory."
 gradientTop: "#1F2A70"
 gradientBottom: "#1F1E70"
 ---
@@ -21,7 +21,7 @@ In the following, we explain and address the most influential objections to util
 
 ## General Ways of Responding to Objections to Utilitarianism
 
-Many objections rest on the idea that utilitarianism has counterintuitive implications. We can see these implications by considering concrete examples or _thought experiments_. For instance, in our article on the [rights objection](/objections-to-utilitarianism/rights), we consider the Transplant case:
+Many objections rest on the idea that utilitarianism has counterintuitive implications. We can see these implications by considering concrete examples or _thought experiments_. For instance, in our section on the [rights objection](/objections-to-utilitarianism/rights), we consider the Transplant case:
 
 > **Transplant:** Imagine a hypothetical scenario in which there are five patients, each of whom will soon die unless they receive an appropriate transplanted organ⁠—a heart, two kidneys, a liver, and lungs. A healthy patient, Chuck, comes into the hospital for a routine check-up and the doctor finds that Chuck is a perfect match as a donor for all five patients. Should the doctor kill Chuck and use his organs to save the five others?
 
@@ -66,31 +66,31 @@ Despite the silly labels, these are serious philosophical moves. We employ each,
 We next discuss the following critiques of utilitarianism:
 
 1. The Rights Objection
- Many find it objectionable that utilitarianism seemingly licenses outrageous rights violations in certain hypothetical scenarios, killing innocent people for the greater good. This article explores how utilitarians might best respond.
+ Many find it objectionable that utilitarianism seemingly licenses outrageous rights violations in certain hypothetical scenarios, killing innocent people for the greater good. This section explores how utilitarians might best respond.
 
 2. The Mere Means Objection
- Critics often allege that utilitarianism objectionably instrumentalizes people—treating us as mere means to the greater good, rather than properly valuing individuals as ends in themselves. In this article, we assess whether this is a fair objection.
+ Critics often allege that utilitarianism objectionably instrumentalizes people—treating us as mere means to the greater good, rather than properly valuing individuals as ends in themselves. In this section, we assess whether this is a fair objection.
 
 3. The Separateness of Persons Objection
- The idea that utilitarianism neglects the 'separateness of persons' has proven to be a widely influential objection. But it is one that is difficult to pin down. This article explores three candidate interpretations of the objection, and how utilitarians can respond to each.
+ The idea that utilitarianism neglects the 'separateness of persons' has proven to be a widely influential objection. But it is one that is difficult to pin down. This section explores three candidate interpretations of the objection, and how utilitarians can respond to each.
 
 4. The Demandingness Objection
  In directing us to choose the impartially best outcome, even at significant cost to ourselves, utilitarianism can seem an incredibly demanding theory. This page explores whether this feature of utilitarianism is objectionable, and if so, how defenders of the view might best respond.
 
 5. The Alienation Objection
- Abstract moral theories threaten to alienate us from much that we hold dear. This article explores two possible defenses of utilitarianism against this charge. One recommends adopting motivations other than explicitly utilitarian ones. The second argues that suitably concrete concerns can be subsumed within broader utilitarian motivations.
+ Abstract moral theories threaten to alienate us from much that we hold dear. This section explores two possible defenses of utilitarianism against this charge. One recommends adopting motivations other than explicitly utilitarian ones. The second argues that suitably concrete concerns can be subsumed within broader utilitarian motivations.
 
 6. The Special Obligations Objection
- Relationships like parenthood or guardianship seemingly give rise to special obligations to protect those who fall under our care (where these obligations are more stringent than our general duties of beneficence towards strangers). This article explores the extent to which impartial utilitarianism can accommodate intuitions and normative practices of partiality.
+ Relationships like parenthood or guardianship seemingly give rise to special obligations to protect those who fall under our care (where these obligations are more stringent than our general duties of beneficence towards strangers). This section explores the extent to which impartial utilitarianism can accommodate intuitions and normative practices of partiality.
 
 7. The Equality Objection
- Utilitarianism is concerned with the overall well-being of individuals in the population, but many object that justice requires an additional concern for how this well-being is distributed across individuals. This article examines this objection, and how utilitarians might best respond.
+ Utilitarianism is concerned with the overall well-being of individuals in the population, but many object that justice requires an additional concern for how this well-being is distributed across individuals. This section examines this objection, and how utilitarians might best respond.
 
 8. The Cluelessness Objection
- Is utilitarianism undermined by our inability to predict the long-term consequences of our actions? This article explores whether utilitarians can still be guided by near-term expected value even when this is small in comparison to the potential value or disvalue of the unknown long-term consequences.
+ Is utilitarianism undermined by our inability to predict the long-term consequences of our actions? This section explores whether utilitarians can still be guided by near-term expected value even when this is small in comparison to the potential value or disvalue of the unknown long-term consequences.
 
 9. The Abusability Objection
- Some argue that utilitarianism is self-effacing, or recommends against its own acceptance, due to the risk that mistaken appeals to the 'greater good' may actually result in horrifically harmful actions being done. This article explores how best to guard against such risks, and questions whether it is an objection to a theory if it turns out to be self-effacing in this way.
+ Some argue that utilitarianism is self-effacing, or recommends against its own acceptance, due to the risk that mistaken appeals to the 'greater good' may actually result in horrifically harmful actions being done. This section explores how best to guard against such risks, and questions whether it is an objection to a theory if it turns out to be self-effacing in this way.
 
 {{< next-page-objection hide-other="true" >}}
 
@@ -106,7 +106,7 @@ We next discuss the following critiques of utilitarianism:
 [^1]: de Lazari-Radek, K. & Singer, P. (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford: Oxford University Press. Preface.
 [^2]: For a discussion of evolutionary debunking arguments, see Hanson, R. (2002). [Why Health Is Not Special: Errors In Evolved Bioethics Intuitions](http://mason.gmu.edu/~rhanson/bioerr.pdf). _Social Philosophy & Policy_. 19(2): 153–79. See also the discussion in our chapter on the [Arguments for Utilitarianism](/arguments-for-utilitarianism#evolutionary-debunking-arguments).
 [^2a]: Public health experts recommend maintaining social distance of 6 feet or more from silly hypothetical cases at all times, lest they [infect](/objections-to-utilitarianism/abusability/) your understanding of [what utilitarianism actually calls for in practice](/acting-on-utilitarianism/). If closer contact is required, protect yourself and others by first reading up on [the utilitarian case for respecting commonsense norms](/utilitarianism-and-practical-ethics/#respecting-commonsense-moral-norms), explained in Chapter 6.
-[^3]: As further explained in our article on the [rights objection](/objections-to-utilitarianism/rights), standard “counterexamples” to utilitarianism invite us to imagine that a typically-disastrous class of action (such as killing an innocent person) just so happens, in this special case, to produce the best outcome. But the agent in the imagined case generally has no good basis for discounting the typical risk of disaster. So it would be unacceptably risky for them to perform the typically-disastrous act. We maximize expected value by avoiding such risks. For all practical purposes, utilitarianism recommends that we should refrain from rights-violating behaviors. This constitutes a generalizable defense of utilitarianism against a wide range of alleged counterexamples.
+[^3]: As further explained in our section on the [rights objection](/objections-to-utilitarianism/rights), standard “counterexamples” to utilitarianism invite us to imagine that a typically-disastrous class of action (such as killing an innocent person) just so happens, in this special case, to produce the best outcome. But the agent in the imagined case generally has no good basis for discounting the typical risk of disaster. So it would be unacceptably risky for them to perform the typically-disastrous act. We maximize expected value by avoiding such risks. For all practical purposes, utilitarianism recommends that we should refrain from rights-violating behaviors. This constitutes a generalizable defense of utilitarianism against a wide range of alleged counterexamples.
 [^3a]: Hare, C. (2016). [Should We Wish Well to All?](http://dx.doi.org/10.1215/00318108-3624764) _Philosophical Review_, 125(4): 451–472, pp. 454–455. See also the discussion in our chapter on the [Arguments for Utilitarianism](/arguments-for-utilitarianism/#ex-ante-pareto).
 [^4]: By contrast, utilitarianism offers a clear and principled account of (e.g.) when constraints can reasonably be violated—namely, just when doing so would truly best serve overall well-being. Similarly for when it is worth damaging the natural environment, how to weigh small harms to many against grave harms to a few, and so on. That’s not to say that it will always be easy to _tell_ what utilitarianism recommends in real-life situations, since it can be difficult to predict future outcomes. But it is at least clear _in principle_ how different considerations weigh against each other, whereas other theories often do not offer even this much clarity.
 [^5]: Of course, that’s not to suggest that the same particular actions are called for. Adopting a "war-like" stance outside of war might be expected to prove counterproductive. The point is just that the stakes are high enough that we shouldn’t necessarily expect truly moral advice, in our circumstances, to be _comfortable_.
