@@ -1,5 +1,6 @@
 ---
 title: "Preface"
+layout: book
 ---
 
 Utilitarianism is taught in introductory ethics classes around the world. But textbook presentations of utilitarianism often misconstrue the theory, failing to present either the strongest arguments in favor of it or its most sophisticated defenses against objections. They also fail to present the distinctive practical contributions of utilitarianism: they fail to show what a life lived in accordance with utilitarian ideals would really look like.
