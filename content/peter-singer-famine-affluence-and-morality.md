@@ -1,15 +1,5 @@
 ---
 title: "Study Guide: Peter Singer's 'Famine, Affluence, and Morality'"
-book: "Study Guide: Peter Singer's 'Famine, Affluence, and Morality'"
-menuTitle: "Famine, Affluence, and Morality"
-date: 2023-01-29
-draft: false
-menu: "guide"
-weight: 1
-type: _default
-layout: book
-gradientTop: "#0c3b5b"
-gradientBottom: "#295573"
 ---
 
 {{< TOC >}}

@@ -1,17 +1,17 @@
 .article-body {
-  font-size: 22px;
+  font-size: 18px;
 }
 
 h2 {
-  font-size: 16px;
+  font-size: 22px;
   font-weight: initial;
-  margin-top: 32px;
+  margin-top: 36px;
 }
 
 h3 {
-  font-size: 14px;
+  font-size: 20px;
   font-weight: initial;
-  margin-top: 28px;
+  margin-top: 32px;
 }
 
 .book-header {
@@ -55,8 +55,8 @@ sup {
 .footnotes {
   &::before {
     content: "Notes";
-    font-size: 12px;
+    font-size: 16px;
   }
 
-  font-size: 10px;
+  font-size: 14px;
 }
