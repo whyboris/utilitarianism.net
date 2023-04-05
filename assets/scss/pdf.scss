@@ -39,3 +39,64 @@ a {
 .footnote-backref {
   transform: translate(0, 0);
 }
+.article-body {
+  font-size: 12px;
+}
+
+h2 {
+  font-size: 16px;
+  font-weight: initial;
+  margin-top: 32px;
+}
+
+h3 {
+  font-size: 14px;
+  font-weight: initial;
+  margin-top: 28px;
+}
+
+.book-header {
+  background: none !important;
+
+  h1 {
+    color: black;
+  }
+}
+
+a {
+  color: black !important;
+  text-decoration: none;
+}
+
+hr,
+.callout,
+.citation,
+.objections-buttons-container,
+.textbook-chapters-descriptions,
+.table-of-contents {
+  display: none;
+}
+
+.footnote-backref {
+  display: none;
+}
+
+sup {
+  vertical-align: baseline;
+  position: relative;
+  top: -6px;
+}
+
+#resources-and-further-reading,
+#resources-and-further-reading ~ ul,
+#resources-and-further-reading ~ h3 {
+  display: none;
+}
+
+.footnotes {
+  &::before {
+    content: "Notes";
+    font-size: 14px;
+  }
+  font-size: 10px;
+}

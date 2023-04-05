@@ -13,7 +13,7 @@
     "build": "just build",
     "search": "pagefind --source public",
     "pdf":      "cd pdf && website2pdf --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer --safe-title --output-dir ./temp && npm run move-pdf",
-    "book-pdf": "cd pdf && website2pdf --marginTop 60px --marginBottom 60px --marginLeft 80px --marginRight 80px --display-header-footer false --safe-title --format a5 --output-dir ./temp && npm run move-pdf && npm run merge-pdf",
+    "book-pdf": "cd pdf && website2pdf --marginTop 50px --marginBottom 50px --marginLeft 50px --marginRight 50px --display-header-footer false --safe-title --format a5 --output-dir ./temp && npm run move-pdf && npm run merge-pdf",
     "merge-pdf": "cd pdf && node build-book.js",
     "move-pdf": "cd pdf && node move-pdf.js",
     "kill-hugo": "kill-port 1313",
