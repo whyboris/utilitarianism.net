@@ -323,17 +323,19 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 [^9]: The notion of a positive life, which is critical for the total view, only makes sense relative to a zero point on the well-being scale. This zero point is the threshold above which life becomes “worth living”. A “neutral life”, at well-being level 0, is neither “worth living” nor “not worth living”. This may be either a life with no value or disvalue, or a life with exactly as much value as disvalue. For discussion of the subtleties surrounding the concept of a life “worth living”, see Broome, J. (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press, pp. 66–68.
 [^10]:
     But note that it does not straightforwardly match what Bentham and Mill meant by utilitarianism. For example, Bentham said that actions should be evaluated “according to the tendency” by which they increase or decrease well-being. Similarly, Mill argued that “actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness”.
+
     Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.), p. 7.
+
     Mill, J. S. (1863). _[Utilitarianism](https://www.earlymoderntexts.com/assets/pdfs/mill1863.pdf)_. Bennett, J. (ed.), p. 5.
 
 [^11]: Blame can be thought of as either an attitude (of moral disapproval) or an action (expressing such disapproval). Blaming actions are, for utilitarians, like any other action in that they should only be performed if they serve to promote well-being. Excessive blame would likely have bad consequences, because it discourages people from even trying. Instead, we should usually praise people who take steps in the right direction. On the moral assessment of attitudes, see the discussion of global vs hybrid utilitarianism below.
 [^12]:
     Railton, P. (1988). [How Thinking about Character and Utilitarianism Might Lead to Rethinking the Character of Utilitarianism](https://dx.doi.org/10.1111/j.1475-4975.1988.tb00135.x). _Midwest Studies in Philosophy_ 13 (1): 398-416, p.407.
+
     Norcross, A. (2020). _[Morality by Degrees: Reasons Without Demands](https://philpapers.org/rec/NORMBD)_. Oxford University Press.
 
 [^13]:
-    For a discussion of this view, see Slote, M. & Pettit, P. (1984). [Satisficing Consequentialism](https://www.princeton.edu/~ppettit/papers/1984/Satisficing%20Consequentialism.pdf).
-    _Proceedings of the Aristotelian Society_, Supplementary Volumes. 58: 139–163 & 165–176.
+    For a discussion of this view, see Slote, M. & Pettit, P. (1984). [Satisficing Consequentialism](https://www.princeton.edu/~ppettit/papers/1984/Satisficing%20Consequentialism.pdf). _Proceedings of the Aristotelian Society_, Supplementary Volumes. 58: 139–163 & 165–176.
 
 [^14]: In particular, traditional satisficing accounts struggle to offer a non-arbitrary specification of the threshold for doing “enough” good, and are vulnerable to the objection that they permit the gratuitous prevention of goodness above this threshold. Both objections are addressed in detail in Chappell, R.Y. (2019). [Willpower Satisficing](https://dx.doi.org/10.1111/nous.12213). _Noûs_ 53(2): 251–265. Note that Chappell is a co-author of this website.
 [^15]: See, e.g., Chappell, R.Y. (2020). [Deontic Pluralism and the Right Amount of Good](https://philpapers.org/rec/CHADPA-8). In Douglas W. Portmore (ed.), _The Oxford Handbook of Consequentialism_. Oxford University Press. pp. 498–512. Note that Chappell is a co-author of this website.
