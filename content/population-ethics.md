@@ -399,7 +399,7 @@ The next chapter discusses the most important implications of utilitarianism for
 
 [^31]: Parfit, D. (1984). Chapter 18: The Absurd Conclusion, in _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press.
 [^32]: Consider a good world with one billion happy people and a single miserable person. Imagine we repeatedly increase the numbers of happy and miserable people by the same factor—ten billion happy people and ten miserable people; one hundred billion happy people and one hundred miserable people, etc. For a sufficiently large population, every time we increase its size in this way, the world gets worse (according to these asymmetric theories) until we eventually reach an overall bad world.
-[^33]: For one such attempt, see section 7.2.2 of Chappell, R.Y. (2021). _[Parfit's Ethics](https://philpapers.org/rec/CHAPE-5)_. Cambridge: Cambridge University Press. Note that the book's author, Professor Richard Yetter Chappell, is a coauthor of this website.
+[^33]: For one such attempt, see section 7.2.2 of Chappell, R.Y. (2021). _[Parfit's Ethics](https://philpapers.org/rec/CHAPE-5)_. Cambridge: Cambridge University Press.
 [^34]: The critical level is generally assumed to be non-negative, that is either positive or zero. A negative critical level would implausibly attribute positive value to (some) negative lives.
 [^35]: Cf. Broome, J. (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press., p. 213–214.
 [^36]:
@@ -439,7 +439,7 @@ The next chapter discusses the most important implications of utilitarianism for
     Heyd, D. (1988). [Procreation and Value: Can Ethics Deal With Futurity Problems?](https://doi.org/10.1007/BF02380074). _Philosophia_, 18: 151–170.
 
 [^50]: Cf. Parfit's “wretched child” case. Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press., p. 391
-[^51]: Though one of the coauthors of this website (Richard Yetter Chappell) has argued elsewhere that “it is thought to be ‘intuitive’ primarily because it has been implicitly confused with other, more plausible theses.” See Chappell, R.Y. (2017). [Rethinking the Asymmetry](https://doi.org/10.1080/00455091.2016.1250203). _Canadian Journal of Philosophy_ 47 (2):167-177.
+[^51]: Though one of the coauthors of this chapter has argued elsewhere that “it is thought to be ‘intuitive’ primarily because it has been implicitly confused with other, more plausible theses.” See Chappell, R.Y. (2017). [Rethinking the Asymmetry](https://doi.org/10.1080/00455091.2016.1250203). _Canadian Journal of Philosophy_ 47 (2):167-177.
 [^52]: McMahan, J. (2009). [Asymmetries in the Morality of Causing People to Exist](https://doi.org/10.1007/978-1-4020-5697-0_3). In David Wasserman and Melinda Roberts (eds.), _Harming Future Persons_. Springer.
 [^53]: Case description adapted from Beckstead, N. (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM)_. PhD Dissertation, Rutgers University.
 [^54]: A major challenge for such a view would be to explain how to render this value blur compatible with the asymmetry, so that miserable lives are appropriately recognized as bad (not merely meh).

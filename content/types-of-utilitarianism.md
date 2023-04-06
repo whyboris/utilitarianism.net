@@ -337,15 +337,15 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 [^13]:
     For a discussion of this view, see Slote, M. & Pettit, P. (1984). [Satisficing Consequentialism](https://www.princeton.edu/~ppettit/papers/1984/Satisficing%20Consequentialism.pdf). _Proceedings of the Aristotelian Society_, Supplementary Volumes. 58: 139–163 & 165–176.
 
-[^14]: In particular, traditional satisficing accounts struggle to offer a non-arbitrary specification of the threshold for doing “enough” good, and are vulnerable to the objection that they permit the gratuitous prevention of goodness above this threshold. Both objections are addressed in detail in Chappell, R.Y. (2019). [Willpower Satisficing](https://dx.doi.org/10.1111/nous.12213). _Noûs_ 53(2): 251–265. Note that Chappell is a co-author of this website.
-[^15]: See, e.g., Chappell, R.Y. (2020). [Deontic Pluralism and the Right Amount of Good](https://philpapers.org/rec/CHADPA-8). In Douglas W. Portmore (ed.), _The Oxford Handbook of Consequentialism_. Oxford University Press. pp. 498–512. Note that Chappell is a co-author of this website.
+[^14]: In particular, traditional satisficing accounts struggle to offer a non-arbitrary specification of the threshold for doing “enough” good, and are vulnerable to the objection that they permit the gratuitous prevention of goodness above this threshold. Both objections are addressed in detail in Chappell, R.Y. (2019). [Willpower Satisficing](https://dx.doi.org/10.1111/nous.12213). _Noûs_ 53(2): 251–265.
+[^15]: See, e.g., Chappell, R.Y. (2020). [Deontic Pluralism and the Right Amount of Good](https://philpapers.org/rec/CHADPA-8). In Douglas W. Portmore (ed.), _The Oxford Handbook of Consequentialism_. Oxford University Press. pp. 498–512.
 [^16]: Norcross, A. (2020). _[Morality by Degrees: Reasons Without Demands](https://philpapers.org/rec/NORMBD)_. Oxford University Press.
 [^17]:
     Sinhababu (2018) advances a form of scalar consequentialism that takes right and wrong to themselves be matters of degree, but the boundary point between the two is determined by conversational context rather than anything morally fundamental (or indeed genuinely significant in any way). As a result, this seems to be a merely verbal variant on the definition that we use here.
 
     Sinhababu, N. (2018). [Scalar Consequentialism the Right Way](https://link.springer.com/article/10.1007%2Fs11098-017-0998-y). _Philosophical Studies_. 175: 3131–3144.
 
-[^18]: Chappell, R.Y. (2020). [Deontic Pluralism and the Right Amount of Good](https://philpapers.org/rec/CHADPA-8). In Douglas W. Portmore (ed.), _The Oxford Handbook of Consequentialism_. Oxford University Press. pp. 498-512. Note that Chappell is a co-author of this website.
+[^18]: Chappell, R.Y. (2020). [Deontic Pluralism and the Right Amount of Good](https://philpapers.org/rec/CHADPA-8). In Douglas W. Portmore (ed.), _The Oxford Handbook of Consequentialism_. Oxford University Press. pp. 498-512.
 [^19]: Jackson, F. (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.
 [^20]: In line with the above explanation of welfarism, utilitarians of any type understand “value” in terms of well-being.
 [^21]:
@@ -379,9 +379,9 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 
     (i) McElwee, B. (2020). [The Ambitions of Consequentialism](https://doi.org/10.26556/jesp.v17i2.528). _Journal of Ethics and Social Philosophy_. 17(2); and
 
-    (ii) Chappell, R. Y. (2012). [Fittingness: The Sole Normative Primitive](https://dx.doi.org/10.1111/j.1467-9213.2012.00075.x). _Philosophical Quarterly_. 62(249): 684–704. The latter argues that Global Consequentialism is best understood as a merely verbal variant of Act Consequentialism. Note that Chappell is a co-author of this website.
+    (ii) Chappell, R. Y. (2012). [Fittingness: The Sole Normative Primitive](https://dx.doi.org/10.1111/j.1467-9213.2012.00075.x). _Philosophical Quarterly_. 62(249): 684–704. The latter argues that Global Consequentialism is best understood as a merely verbal variant of Act Consequentialism.
 
 [^26]: Driver, J. (2001). Chapter Four: A Consequentialist Theory of Virtue. _[Uneasy Virtue](https://doi.org/10.1017/CBO9780511498770)_. Cambridge University Press, 63–83.
 [^27]: Hurka, T. (2001). _[Virtue, Vice, and Value](https://oxford.universitypressscholarship.com/view/10.1093/0195137167.001.0001/acprof-9780195137163)_. Oxford University Press.
 [^28]: This mirrors Parfit's distinction between 'state-given' vs 'object-given' reasons. See Parfit, D. (2011) _On What Matters_, vol 1. Oxford University Press, p. 50.
-[^29]: For further defense of this view, see Chappell, R.Y. Consequentialism: Core and Expansion, forthcoming in D. Copp, C. Rosati, and T. Rulli (eds.) _The Oxford Handbook of Normative Ethics_. Note that Chappell is a co-author of this website.
+[^29]: For further defense of this view, see Chappell, R.Y. Consequentialism: Core and Expansion, forthcoming in D. Copp, C. Rosati, and T. Rulli (eds.) _The Oxford Handbook of Normative Ethics_.

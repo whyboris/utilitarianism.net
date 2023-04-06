@@ -194,7 +194,7 @@ The next chapter discusses important rival theories that may overlap significant
 [^6]: Ord, T. (2013). [The Moral Imperative Towards Cost-Effectiveness in Global Health](https://pdfs.semanticscholar.org/1016/bb6788716e7b489c08853ce64f0063870a4b.pdf). _Center for Global Development_.
 [^7]: Cf. Singer, P. (1981). _[The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle)_. Princeton: Princeton University Press.
 [^8]: Singer, P. (2011). _[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics)_. Cambridge: Cambridge University Press., p. 50
-[^9]: Cf. MacAskill, W. (2015). _[Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Penguin Random House. Chapter 1. Note that Professor William MacAskill, coauthor of this website, is the author of _Doing Good Better_.
+[^9]: Cf. MacAskill, W. (2015). _[Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Penguin Random House. Chapter 1.
 [^10]:
     Singer, P. (2002). _[Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>)_. New York: HarperCollins Publishers., p. 9
     Indeed, there is psychological evidence suggesting that speciesism goes hand in hand with other discriminatory attitudes like racism, sexism, and homophobia: Cf.
@@ -214,7 +214,7 @@ The next chapter discusses important rival theories that may overlap significant
 
 [^15]: Adams, F. C. (2008). Long-Term Astrophysical Processes. In Bostrom, N. and Cirkovic, M. (eds.) [​Global Catastrophic Risks](https://global.oup.com/academic/product/global-catastrophic-risks-9780199606504?cc=de&lang=en&).​ Oxford: Oxford University Press.
 [^16]: For a discussion of this idea and its underlying assumptions, see Beckstead, N. (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/file/d/0B8P94pg6WYCIc0lXSUVYS1BnMkE/view?resourcekey=0-nk6wM1QIPl0qWVh2z9FG4Q)_. PhD Dissertation, Rutgers University.
-[^17]: Cf. Greaves, H. & MacAskill, W. (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_. Section 4.1. Note that Professor William MacAskill, coauthor of this website, is also a coauthor of this paper.
+[^17]: Cf. Greaves, H. & MacAskill, W. (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_. Section 4.1.
 [^18]: For a detailed discussion of existential risks and the moral importance of the long-run future of humanity, see Ord, T. (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
 [^19]: For a classic paper on the importance of reducing existential risk, see Bostrom, N. (2013). [Existential Risk Prevention as Global Priority](http://www.existential-risk.org/concept.pdf). _Global Policy_. 4 (1): 15–3.
 [^20]: Note that Professor William MacAskill, coauthor of this website, is also a coauthor of this paper.

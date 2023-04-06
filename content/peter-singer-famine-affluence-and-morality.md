@@ -226,7 +226,7 @@ Good luck! And remember to cite your sources.
     Though for a competing view, which takes normal empathetic responses to determine what is right, see Slote, M. (2007). Famine, Affluence, and Virtue, in _Working Virtue: Virtue Ethics and Contemporary_
     _Moral Problems_, ed. Rebecca L. Walker and Philip J. Ivanhoe, Oxford: Clarendon Press: 279–296.
 
-[^15]: Chappell, R.Y. & Yetter-Chappell, H. (2016). [Virtue and Salience](https://doi.org/10.1080/00048402.2015.1115530). _Australasian Journal of Philosophy_, 94(3): 449–463, p.453. Note that Chappell is a co-author of this website.
+[^15]: Chappell, R.Y. & Yetter-Chappell, H. (2016). [Virtue and Salience](https://doi.org/10.1080/00048402.2015.1115530). _Australasian Journal of Philosophy_, 94(3): 449–463, p.453.
 [^16]: Timmerman, T. (2015). [Sometimes there is nothing wrong with letting a child drown](https://dx.doi.org/10.1093/analys/anv015). _Analysis_, 75(2): 204–212.
 [^17]: Notably, Singer's stricter _comparable sacrifice principle_ might require those sacrifices, if none of the personal losses were _comparable_ in significance to the extra lives saved. Singer himself endorses the utilitarian thought that we ought (in principle) to give to the point of _marginal utility_, where the cost to us of giving any more would equal or outweigh the gain to others. But non-utilitarians might, of course, take a different view of what counts as being of comparable moral significance. And the weaker rescue principle (P4) that our main text focuses on is certainly less demanding.
 [^18]:
