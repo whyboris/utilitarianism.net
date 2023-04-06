@@ -607,7 +607,7 @@ _External links:_
 
 Sassi, F. (2006) [Calculating QALYs, comparing QALY and DALY calculations](https://doi.org/10.1093/heapol/czl018). _Health Policy Plan_, 21(5): 402–8.  
 Singer, P., McKie, J., Kuhse, H., & Richardson, J. (1995). [Double jeopardy and the use of QALYs in health care allocation](http://dx.doi.org/10.1136/jme.21.3.144). _Journal of Medical Ethics_, 21(3): 144–150.  
-Chappell, R.Y. (2016). [Against ‘Saving Lives’: Equal Concern and Differential Impact](https://dx.doi.org/10.1111/bioe.12171). _Bioethics_, 30(3): 159–164. (Note that Chappell is a co-author of this website)
+Chappell, R.Y. (2016). [Against ‘Saving Lives’: Equal Concern and Differential Impact](https://dx.doi.org/10.1111/bioe.12171). _Bioethics_, 30(3): 159–164.
 
 </details>
 
@@ -658,7 +658,7 @@ The main alternatives to satisficing utilitarianism are _scalar utilitarianism_,
 _External links:_
 
 - Bradley, B. (2006). [Against Satisficing Consequentialism](https://doi.org/10.1017/S0953820806001877). _Utilitas_, 18(2): 97–108.
-- Chappell, R.Y. (2019). [Willpower Satisficing](https://dx.doi.org/10.1111/nous.12213). _Noûs_ 53 (2): 251–265. Note that Chappell is a co-author of this website.
+- Chappell, R.Y. (2019). [Willpower Satisficing](https://dx.doi.org/10.1111/nous.12213). _Noûs_ 53 (2): 251–265.
 - Slote, M. & Pettit, P. (1984). [Satisficing Consequentialism](https://www.princeton.edu/~ppettit/papers/1984/Satisficing%20Consequentialism.pdf). _Proceedings of the Aristotelian Society_, Supplementary Volumes. 58: 139–163 & 165–176.
 
 </details>
@@ -782,7 +782,7 @@ The utility monster is a thought experiment devised by Robert Nozick to criticiz
 
 For a utilitarian critique, see:
 
-Chappell, R.Y. (2021). [Negative Utility Monsters](https://dx.doi.org/10.1017/s0953820821000169). _Utilitas_ 33 (4): 417-421. (Note that Chappell is a co-author of this website.)
+Chappell, R.Y. (2021). [Negative Utility Monsters](https://dx.doi.org/10.1017/s0953820821000169). _Utilitas_ 33 (4): 417-421.
 
 </details>
 
@@ -839,7 +839,7 @@ _External links:_ [Well-being](https://plato.stanford.edu/entries/well-being/), 
 [^9]: Arrhenius, G., Ryberg, J. & Tännsjö, T. (2017). [The Repugnant Conclusion](https://plato.stanford.edu/archives/spr2017/entries/repugnant-conclusion/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
 [^10]: Note that Professor William MacAskill, coauthor of this website, is a cofounder of [80,000 Hours](https://80000hours.org/).
 [^11]: Ord, T. (2019). _[The Moral Imperative Towards Cost-Effectiveness in Global Health](https://www.givingwhatwecan.org/research/the-moral-imperative-towards-cost-effectiveness/)_, In Effective Altruism: Philosophical Issues. Oxford: Oxford University Press.
-[^12]: Cf. MacAskill, W. (2014). [Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/). New York: Random House. Chapter 1. Note that Professor William MacAskill, coauthor of this website, is the author of _Doing Good Better_.
+[^12]: Cf. MacAskill, W. (2014). [Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/). New York: Random House. Chapter 1.
 [^13]: GiveWell (2019). [Your Dollar Goes Further Overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
 [^14]: GiveWell (2019). [Your dollar goes further overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
 [^15]: GiveWell (2019). [Against Malaria Foundation](https://www.givewell.org/charities/amf).
@@ -855,7 +855,7 @@ _External links:_ [Well-being](https://plato.stanford.edu/entries/well-being/), 
 [^25]: Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennet, J. (ed.)., p. 23
 [^26]: Smart, J. J. C. (1956). [Extreme and Restricted Utilitarianism](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Smart_1956Utilitarianism.pdf). _The Philosophical Quarterly_. 6(25)., p. 347.
 [^27]: Bostrom, N. (2011). [Infinite Ethics](https://www.nickbostrom.com/ethics/infinite.html). _Analysis and Metaphysics_. 10: 9–59.
-[^28]: Cf. Greaves, H. & MacAskill, W. (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_. Section 4.1. Note that Professor William MacAskill, coauthor of this website, is also a coauthor of this paper.
+[^28]: Cf. Greaves, H. & MacAskill, W. (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_. Section 4.1.
 [^29]: More precisely: the more that an act would promote the sum total of well-being, the more moral reason one has to perform that act.
 [^30]: For a discussion of this view, see Slote, M. & Pettit, P. (1984). [Satisficing Consequentialism](https://www.princeton.edu/~ppettit/papers/1984/Satisficing%20Consequentialism.pdf). _Proceedings of the Aristotelian Society_, Supplementary Volumes. 58: 139–163 & 165–176.
 [^31]: Smart, R. N. (1958). [Negative Utilitarianism](https://doi.org/10.1093/mind/LXVII.268.542). _Mind_. 67(268): 542–43.
