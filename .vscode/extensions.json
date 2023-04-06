@@ -1,5 +1,6 @@
 {
   "recommendations": [
+    "bierner.markdown-footnotes",
     "DavidAnson.vscode-markdownlint",
     "emmanuelbeziat.vscode-great-icons",
     "esbenp.prettier-vscode"
