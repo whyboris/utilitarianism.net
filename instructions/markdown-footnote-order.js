@@ -10,7 +10,7 @@ const re = /(\[\^[^\]]*])/g;
 // and then captures `]` ending the match group
 // A resulting array example: ['[^1]', '[^2]', '[^3]']
 
-const FILE_TO_FIX = "../content/introduction-to-utilitarianism.md";
+const FILE_TO_FIX = "../content/types-of-utilitarianism.md";
 
 
 fs.readFile(FILE_TO_FIX, "utf8", (err, data) => {
@@ -28,28 +28,41 @@ fs.readFile(FILE_TO_FIX, "utf8", (err, data) => {
   } else {
 
     const renameMap = new Map();
+    const renameMap2 = new Map();
 
-    let counter = groups.length / 2;
+    let counter = 1;
 
-    groups.reverse().forEach((el) => {
-      if (counter > 0) {
-        renameMap.set(el, "[^" + counter + "]");
-        counter--;
+    groups.forEach((el) => {
+      if (counter <= groups.length / 2) {
+        const tempRandom = getRandom()
+        renameMap.set(el, tempRandom);
+        renameMap2.set(tempRandom, "[^" + counter + "]")
+        counter++;
       }
     });
 
     // console.log(renameMap);
-
-    let before = data;
+    // console.log(renameMap2);
 
     renameMap.forEach((value, key, map) => {
-      before = before.replaceAll(key, value);      
+      data = data.replaceAll(key, value);      
     });
 
-    writeFile(FILE_TO_FIX, before);
+    renameMap2.forEach((value, key, map) => {
+      data = data.replaceAll(key, value);
+    });
+
+    // console.log(data)
+    writeFile(FILE_TO_FIX, data);
   }
 
 })
+
+crypto = require("crypto");
+
+function getRandom() {
+  return crypto.randomBytes(10).toString('hex');
+}
 
 function writeFile(path, fileString) {
   fs.writeFile(path, fileString, (err) => {
