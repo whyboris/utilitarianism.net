@@ -1,17 +1,20 @@
-// This is a hacky script to reorder foonotes chronologically
-// Meaning "[^0], [^1], [^1b], [^7], [^4]" will become:
-//         "[^1], [^2], [^3], [^4], [^5]"
+// This is a script to reorder foonotes chronologically
+// Meaning "[^0], [^5], [^2], [^2b], [^any-thing]"
+// becomes "[^1], [^2], [^3], [^4], [^5]"
+//
+// WARNING: it will not handle duplicate footnote numbers
+
+const FILE_TO_FIX = "../content/types-of-utilitarianism.md";
+
+// ------------ no need to edit anything below ------------
 
 const fs = require("fs");
 
 const re = /(\[\^[^\]]*])/g;
-// regex generates a list (group) of matches of `[^` 
+// This regex generates a list (group) of matches of `[^` 
 // followed by any number of characters that are NOT `]` 
 // and then captures `]` ending the match group
 // A resulting array example: ['[^1]', '[^2]', '[^3]']
-
-const FILE_TO_FIX = "../content/types-of-utilitarianism.md";
-
 
 fs.readFile(FILE_TO_FIX, "utf8", (err, data) => {
   if (err) {
