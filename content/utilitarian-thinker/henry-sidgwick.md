@@ -48,7 +48,7 @@ Sidgwick was also a committed social reformer. His primary interest was the expa
 
 [^1]: Schultz, B. (2019). [Henry Sidgwick](https://plato.stanford.edu/entries/sidgwick/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
 [^2]: Sidgwick, H. (1981). _Methods of Ethics_. 7th edn., Hackett Publishing Co.
-[^3]: Smart, J. J. C. (1956). [Extreme and Restricted Utilitarianism](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Smart_1956Utilitarianism.pdf). _The Philosophical Quarterly_. 6(25): 344–354., p. 347.
+[^3]: Smart, J. J. C. (1956). [Extreme and Restricted Utilitarianism](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Smart_1956Utilitarianism.pdf). _The Philosophical Quarterly_. 6(25): 344–354, p. 347.
 [^4]: Schultz, B. (2019). [Henry Sidgwick](https://plato.stanford.edu/entries/sidgwick/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
 [^5]: [The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf), 1884, p. 186
 [^6]: [The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf), 1884, p. 201

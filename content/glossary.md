@@ -457,7 +457,7 @@ An implication of strong longtermism is to take [existential risk reduction](/ac
 _External links:_
 
 - Greaves, H. & MacAskill, W. (2019). [The case for strong longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute Working Paper_, 7.
-- Beckstead, N. (2013). [_On the Overwhelming Importance of Shaping the Far-Future_](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM). Ph.D. Dissertation, Rutgers University.
+- Beckstead, N. (2013). [_On the Overwhelming Importance of Shaping the Far-Future_](https://drive.google.com/file/d/0B8P94pg6WYCIc0lXSUVYS1BnMkE/view?resourcekey=0-nk6wM1QIPl0qWVh2z9FG4Q). Ph.D. Dissertation, Rutgers University.
 
 </details>
 
@@ -706,7 +706,7 @@ The main alternative to single-level utilitarianism is _multi-level utilitariani
 _External links:_
 
 - Hare, R.M. (1981). Chapters 1–3, [_Moral Thinking: Its Methods, Levels, and Point_](https://oxford.universitypressscholarship.com/view/10.1093/0198246609.001.0001/acprof-9780198246602). Oxford: Oxford University Press.
-- Roger Crisp (1997). [_Routledge Philosophy Guidebook to Mill on Utilitarianism_](https://philpapers.org/rec/CRIRPG-2). Routledge., pp. 105–112.
+- Roger Crisp (1997). [_Routledge Philosophy Guidebook to Mill on Utilitarianism_](https://philpapers.org/rec/CRIRPG-2). Routledge, pp. 105–112.
 
 </details>
 
@@ -845,27 +845,27 @@ _External links:_ [Well-being](https://plato.stanford.edu/entries/well-being/), 
 [^15]: GiveWell (2019). [Against Malaria Foundation](https://www.givewell.org/charities/amf).
 [^16]: Alexander, L. & Moore, M. (2020). [Deontological Ethics](https://plato.stanford.edu/archives/win2020/entries/ethics-deontological/). The Stanford Encyclopedia of Philosophy. Zalta, E. N. (ed.).
 [^17]: For a detailed philosophical discussion of effective altruism, see the 16 articles included in Greaves, H. & Pummer, T. (2019). [Effective Altruism: Philosophical Issues](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198841364.001.0001/oso-9780198841364). Oxford: Oxford University Press.
-[^18]: Ord, T. (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing., p. 37
+[^18]: Ord, T. (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing, p. 37
 [^19]: Cf. Singer, P. (1981). _[The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle)_. Princeton: Princeton University Press.
 [^20]: Utilitarians of any type understand “value” in terms of well-being.
 [^21]: GiveWell (2019). [Your dollar goes further overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
 [^22]: For instance, Peter Singer’s book [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/) (the updated 10-year anniversary edition is available for free download) makes the case for the ethical importance of improving global health and international development.
 [^23]: For a discussion of global consequentialism, see (i) Pettit, P. & Smith, M. (2000). [Global Consequentialism](https://philarchive.org/archive/PETGC), in Brad Hooker, Elinor Mason & Dale Miller (eds.), _Morality, Rules and Consequences: A Critical Reader_. Edinburgh University Press; and (ii) Ord, T. (2009). [Beyond Action: Applying Consequentialism to Decision Making and Motivation](https://drive.google.com/open?id=0B4kMPIEI5Mb8S201Wl85NTN1UHc). DPhil Thesis, University of Oxford.
 [^24]: Bentham, J. (1789). Chapter IV: Value of a Lot of Pleasure or Pain, How to be Measured, In _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_.
-[^25]: Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennet, J. (ed.)., p. 23
-[^26]: Smart, J. J. C. (1956). [Extreme and Restricted Utilitarianism](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Smart_1956Utilitarianism.pdf). _The Philosophical Quarterly_. 6(25)., p. 347.
+[^25]: Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.), p. 23
+[^26]: Smart, J. J. C. (1956). [Extreme and Restricted Utilitarianism](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Smart_1956Utilitarianism.pdf). _The Philosophical Quarterly_. 6(25), p. 347.
 [^27]: Bostrom, N. (2011). [Infinite Ethics](https://www.nickbostrom.com/ethics/infinite.html). _Analysis and Metaphysics_. 10: 9–59.
 [^28]: Cf. Greaves, H. & MacAskill, W. (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_. Section 4.1.
 [^29]: More precisely: the more that an act would promote the sum total of well-being, the more moral reason one has to perform that act.
 [^30]: For a discussion of this view, see Slote, M. & Pettit, P. (1984). [Satisficing Consequentialism](https://www.princeton.edu/~ppettit/papers/1984/Satisficing%20Consequentialism.pdf). _Proceedings of the Aristotelian Society_, Supplementary Volumes. 58: 139–163 & 165–176.
 [^31]: Smart, R. N. (1958). [Negative Utilitarianism](https://doi.org/10.1093/mind/LXVII.268.542). _Mind_. 67(268): 542–43.
-[^32]: Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennet, J. (ed.)., p. 7
+[^32]: Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.), p. 7.
 [^33]: More precisely: the more that an act would promote the sum total of well-being, the more moral reason one has to perform that act.
 [^34]: Norcross, A. (2020). _Morality by Degrees: Reasons Without Demands_. Oxford University Press.
 [^35]:
-    Jeremy Bentham rejected single-level utilitarianism, writing that “it is not to be expected that this process [of calculating expected consequences] should be strictly pursued previously to every moral judgment.” Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennet, J. (ed.)., p. 23
+    Jeremy Bentham rejected single-level utilitarianism, writing that “it is not to be expected that this process [of calculating expected consequences] should be strictly pursued previously to every moral judgment.” Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.), p. 23.
 
-    Henry Sidgwick concurs, writing that “the end that gives the criterion of rightness needn’t always be the end that we consciously aim at; and if experience shows that general happiness will be better achieved if men frequently act from motives other than pure universal philanthropy, those other motives are preferable on utilitarian principles”. Sidgwick, H. (1874). [The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf). Bennet, J. (ed.)., p. 201
+    Henry Sidgwick concurs, writing that “the end that gives the criterion of rightness needn’t always be the end that we consciously aim at; and if experience shows that general happiness will be better achieved if men frequently act from motives other than pure universal philanthropy, those other motives are preferable on utilitarian principles”. Sidgwick, H. (1874). [The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf). Bennett, J. (ed.), p. 201.
 
 [^36]: Whether or not we should have the child, however, depends also on whether this improves the total well-being more than improving the lives of existing people would, and on issues regarding resource constraints and overpopulation.
 [^37]: This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are utilitarian theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](/population-ethics).

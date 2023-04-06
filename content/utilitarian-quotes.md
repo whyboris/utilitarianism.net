@@ -393,41 +393,41 @@ _→ [Article on Peter Singer’s life and ideas](/utilitarian-thinker/peter-sin
 [^75]: Singer, P. (1981). Chapter 4: Reason, _The Expanding Circle: Ethics, Evolution, and Moral Progress_. Princeton University Press. p. 120
 [^76]: Singer, P. (3rd ed.; 2011). _[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics)_. Cambridge: Cambridge University Press. p. 50
 [^77]: Singer, P. (3rd. ed.; 2002). _[Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>)_. HarperCollins. p. 9
-[^78]: Singer, P. & de Lazari-Radek, K. (2014). _The Point of View of the Universe: Sidgwick and Contemporary Ethics._ Oxford: Oxford University Press., p. 343
-[^79]: Singer, P. & de Lazari-Radek, K. (2014). _The Point of View of the Universe: Sidgwick and Contemporary Ethics._ Oxford: Oxford University Press., p. 342
-[^80]: Singer, P. (3rd ed.; 2011). _[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics)_. Cambridge: Cambridge University Press., p. 20
-[^81]: Singer, P. & de Lazari-Radek, K. (2014). _The Point of View of the Universe: Sidgwick and Contemporary Ethics._ Oxford: Oxford University Press., p. 349
-[^82]: Singer, P. & de Lazari-Radek, K. (2014). _The Point of View of the Universe: Sidgwick and Contemporary Ethics._ Oxford: Oxford University Press., p. 349
-[^83]: Singer, P. & de Lazari-Radek, K. (2014). _The Point of View of the Universe: Sidgwick and Contemporary Ethics._ Oxford: Oxford University Press., p. 376-377
+[^78]: Singer, P. & de Lazari-Radek, K. (2014). _The Point of View of the Universe: Sidgwick and Contemporary Ethics._ Oxford: Oxford University Press, p. 343
+[^79]: Singer, P. & de Lazari-Radek, K. (2014). _The Point of View of the Universe: Sidgwick and Contemporary Ethics._ Oxford: Oxford University Press, p. 342
+[^80]: Singer, P. (3rd ed.; 2011). _[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics)_. Cambridge: Cambridge University Press, p. 20
+[^81]: Singer, P. & de Lazari-Radek, K. (2014). _The Point of View of the Universe: Sidgwick and Contemporary Ethics._ Oxford: Oxford University Press, p. 349
+[^82]: Singer, P. & de Lazari-Radek, K. (2014). _The Point of View of the Universe: Sidgwick and Contemporary Ethics._ Oxford: Oxford University Press, p. 349
+[^83]: Singer, P. & de Lazari-Radek, K. (2014). _The Point of View of the Universe: Sidgwick and Contemporary Ethics._ Oxford: Oxford University Press, p. 376-377
 [^84]: Singer, P. (1972). [Famine, Affluence, and Morality](https://personal.lse.ac.uk/robert49/teaching/mm/articles/Singer_1972Famine.pdf). _Philosophy and Public Affairs_. 1(3): 229–243.
-[^85]: Singer, P. (2015). Preface, _[The Most Good You Can Do: How Effective Altruism Is Changing Ideas About Living Ethically](https://en.wikipedia.org/wiki/The_Most_Good_You_Can_Do)_. Yale: Yale University Press., p. 176
-[^86]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 106-7
-[^87]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 170
-[^88]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 156
-[^89]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 154
-[^90]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 155
-[^91]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 160
-[^92]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 160-61
-[^93]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 163
-[^94]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 166
-[^95]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 166-67
-[^96]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 170
-[^97]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 167
-[^98]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 168
-[^99]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 169
-[^100]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 275
-[^101]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 207
-[^102]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 241
-[^103]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 256
-[^104]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 258
-[^105]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press., p. 284
+[^85]: Singer, P. (2015). Preface, _[The Most Good You Can Do: How Effective Altruism Is Changing Ideas About Living Ethically](https://en.wikipedia.org/wiki/The_Most_Good_You_Can_Do)_. Yale: Yale University Press, p. 176
+[^86]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 106-7
+[^87]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 170
+[^88]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 156
+[^89]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 154
+[^90]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 155
+[^91]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 160
+[^92]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 160-61
+[^93]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 163
+[^94]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 166
+[^95]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 166-67
+[^96]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 170
+[^97]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 167
+[^98]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 168
+[^99]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 169
+[^100]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 275
+[^101]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 207
+[^102]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 241
+[^103]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 256
+[^104]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 258
+[^105]: Greene, J. (2013). _[Moral Tribes: Emotion, Reason, and the Gap Between Us and Them](https://www.joshua-greene.net/moral-tribes)_. New York: The Penguin Press, p. 284
 [^106]: _Training Anthology_ (_Śikṣā-samuccaya_), standard page 15
-[^107]: Darwin, C. (1871). _[The Descent of Man](https://charles-darwin.classic-literature.co.uk/the-descent-of-man/ebook-page-393.asp)_., p. 393
+[^107]: Darwin, C. (1871). _[The Descent of Man](https://charles-darwin.classic-literature.co.uk/the-descent-of-man/ebook-page-393.asp)_, p. 393
 [^108]: MacKaye, J. (1906). _[The Economy of Happiness](https://psycnet.apa.org/doi/10.1037/13663-000)_. Little, Brown and Co., p. 183-184
-[^109]: Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press., p. 454
+[^109]: Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press, p. 454
 [^110]: Norcross, A. (1990). [Consequentialism and the Future](https://spot.colorado.edu/~norcross/Unforefuture.pdf). _Analysis_. 50(4): 255.
-[^111]: Broome, J. (1992). _[Counting the Cost of Global Warming](https://philpapers.org/rec/BROCTC-12)_. White Horse Press., p. 121
+[^111]: Broome, J. (1992). _[Counting the Cost of Global Warming](https://philpapers.org/rec/BROCTC-12)_. White Horse Press, p. 121
 [^112]: Bostrom, N. (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://www.nickbostrom.com/astronomical/waste.pdf). _Utilitas_. 15(3): 308–314.
 [^113]: Haidt, J. (2012). Chapter 11: Religion Is a Team Sport, _[The Righteous Mind: Why Good People Are Divided by Politics and Religion](https://en.wikipedia.org/wiki/The_Righteous_Mind)_. Vintage.
-[^114]: Schulz, B. (2017). Introduction, [The Happiness Philosophers: The Lives and Works of the Great Utilitarians](https://www.goodreads.com/work/quotes/53504470). Princeton University Press., p. 3
+[^114]: Schulz, B. (2017). Introduction, [The Happiness Philosophers: The Lives and Works of the Great Utilitarians](https://www.goodreads.com/work/quotes/53504470). Princeton University Press, p. 3
 [^115]: Interview with Tännsjö, T. in Marshall, R. (2017). _[Ethics at 3:AM: Questions and Answers on How to Live Well](https://global.oup.com/academic/product/ethics-at-3am-9780190635725)_. Oxford University Press.

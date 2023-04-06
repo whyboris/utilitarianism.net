@@ -55,7 +55,7 @@ Mill’s own thought departed from Bentham’s in his conception of happiness. B
 
 {{< all-thinkers >}}
 
-[^1]: Cf. Crisp, R. (1997). _Routledge Philosophy Guidebook to Mill on Utilitarianism_. New York: Routledge., p. 2
+[^1]: Cf. Crisp, R. (1997). _Routledge Philosophy Guidebook to Mill on Utilitarianism_. New York: Routledge, p. 2
 [^2]: Mill, J.S. (1873). _[Autobiography](/books/autobiography-john-stuart-mill/1)_.
 [^3]: Mill dedicated _On Liberty_ to Harriet after her death, and wrote: “_Were I but capable of interpreting to the world one half the great thoughts and noble feelings which are buried in her grave, I should be the medium of a greater benefit to it, than is ever likely to arise from anything that I can write, unprompted and unassisted by her all but unrivalled wisdom._” Mill, J. S. (1859). _[On Liberty](/books/on-liberty-john-stuart-mill/1)_.
 [^4]: The UK Parliament, [The 1866 Women's Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).

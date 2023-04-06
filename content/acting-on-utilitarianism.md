@@ -216,36 +216,37 @@ To do the most good they can, utilitarians often donate money to effective chari
     Effective altruism “is compatible with egalitarianism, prioritarianism, and, because it does not claim that wellbeing is the only thing of value, with views on which non-welfarist goods are of value.”
     MacAskill, W. (2019). The Definition of Effective Altruism. In Greaves, H. & Pummer, T (ed.). _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
 
-[^11]: Parfit, D. (2017). _[On What Matters, Volume Three](https://en.wikipedia.org/wiki/On_What_Matters)_. Oxford: Oxford University Press., pp. 436-437
+[^11]: Parfit, D. (2017). _[On What Matters, Volume Three](https://en.wikipedia.org/wiki/On_What_Matters)_. Oxford: Oxford University Press, pp. 436-437
 [^12]: For instance, Peter Singer’s book [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/) (the updated 10-year anniversary edition is available for free download) makes the case for the ethical importance of improving global health and international development.
 [^13]: Roser, M.; Ritchie, H. & Dadonaite, B. (2019). [Child & Infant Mortality](https://ourworldindata.org/child-mortality). _Our World In Data_.
 [^14]: Roser, M.; Ritchie, H. & Dadonaite, B. (2019). [Child & Infant Mortality](https://ourworldindata.org/child-mortality). _Our World In Data_.
 [^15]: GiveWell (2019). [Your Dollar Goes Further Overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
 [^16]: GiveWell (2021). [Our Top Charities](https://www.givewell.org/charities/top-charities).
-[^17]: Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.)., pp. 143-144
+[^17]: Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.), pp. 143-144
 [^18]: As explained in the chapter [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#speciesism), giving equal moral consideration to all animals does not necessarily imply that we should treat them all equally.
 [^19]: Sanders, B. (2018). [Global Animal Slaughter Statistics And Charts](https://faunalytics.org/global-animal-slaughter-statistics-and-charts/). _Faunalytics_.
 [^20]: Witwicki, K. (2019). [Global Farmed & Factory Farmed Animals Estimates](https://www.sentienceinstitute.org/global-animal-farming-estimates). _Sentience Institute_.
 [^21]: Šimčikas, S. (2019). [Corporate campaigns affect 9 to 120 years of chicken life per dollar spent](https://forum.effectivealtruism.org/posts/L5EZjjXKdNgcm253H/corporate-campaigns-affect-9-to-120-years-of-chicken-life). _Effective Altruism Forum_.
 [^22]: Cf. Animal Charity Evaluators (2016). [Why Farmed Animals?](https://animalcharityevaluators.org/donation-advice/why-farmed-animals/)
-[^23]: Parfit, D. (1984). _Reasons and Persons_. Oxford: Oxford University Press., p. 454
+[^23]: Parfit, D. (1984). _Reasons and Persons_. Oxford: Oxford University Press, p. 454
 [^24]: For a discussion of longtermism and its underlying assumptions, see Greaves, H. & MacAskill, W. (2019). [The case for strong longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_.
-[^25]: Ord, T. (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing., p. 37
+[^25]: Ord, T. (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing, p. 37
 [^26]: Cf. Bostrom, N (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://www.cambridge.org/core/journals/utilitas/article/astronomical-waste-the-opportunity-cost-of-delayed-technological-development/2969D64410332BD099F36BAFC5B2ADE5). _Utilitas_. 15(3): 308–314.
-[^27]: Cf. Nick Beckstead (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM)_. PhD Dissertation, Rutgers University., Section 3: The Case for Shaping the Far Future.
+[^27]: Cf. Nick Beckstead (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/file/d/0B8P94pg6WYCIc0lXSUVYS1BnMkE/view?resourcekey=0-nk6wM1QIPl0qWVh2z9FG4Q)_. PhD Dissertation, Rutgers University. Section 3: The Case for Shaping the Far Future.
 [^28]: Roser, M. (2019). [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts). _Our World In Data_.
 [^29]: Cf. Bostrom, N. (2013). [Existential Risks as a Global Priority](https://www.existential-risk.org/concept.html). _Global Policy_. 4(1): 15–31.
 [^30]: Cf. MacAskill, W. (2014). _[Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Random House. Chapter 1.
 [^31]: Note that Professor William MacAskill, coauthor of this website, is a cofounder of Giving What We Can.
 [^32]: Caviola, L., Schubert, S., Teperman, E., Moss, D., Greenberg, S., & Faber, N. (2020). [Donors vastly underestimate differences in charities’ effectiveness.](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/122268/Caviola%20et%20al._2020_JDM.pdf) _Judgment and Decision Making_. 15(4): 509-516.
 [^33]:
-    GiveWell (2019). [Your Dollar Goes Further When You Fund the Right Program](https://www.givewell.org/giving101/Funding-the-Right-Program). and
-    Cf. Ord, T. (2011). [The Moral Imperative toward Cost-Effectiveness in Global Health](https://pdfs.semanticscholar.org/1016/bb6788716e7b489c08853ce64f0063870a4b.pdf). _Center for Global Development_.
+    GiveWell (2019). [Your Dollar Goes Further When You Fund the Right Program](https://www.givewell.org/giving101/Funding-the-Right-Program).
+
+    Ord, T. (2011). [The Moral Imperative toward Cost-Effectiveness in Global Health](https://pdfs.semanticscholar.org/1016/bb6788716e7b489c08853ce64f0063870a4b.pdf). _Center for Global Development_.
 
 [^34]: GiveWell (2019). [Your Dollar Goes Further Overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
 [^35]: Stevenson & Wolfers (2013). [Subjective Well-Being and Income: Is There Any Evidence of Satiation?](https://www.nber.org/papers/w18992). _American Economic Review, American Economic Association_. 103(3): 598-604.
 [^36]: Dunn, E.; Gilbert, D. & Wilson, T. (2011). [If money doesn't make you happy, then you probably aren't spending it right](https://psycnet.apa.org/record/2011-17293-002). _Journal of Consumer Psychology_. 21(2): 115-125.
-[^37]: For more detail, see MacAskill, W.; Mogensen, A. & Ord, T. (2018). [Giving Isn’t Demanding](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7196aec212dd54a839425/1539774891904/Giving+Isn%27t+Demanding.pdf). In Woodruff, P. (ed.) _The Ethics of Giving: Philosophers' Perspectives on Philanthropy_. Oxford: Oxford University Press., pp. 178-203.
+[^37]: For more detail, see MacAskill, W.; Mogensen, A. & Ord, T. (2018). [Giving Isn’t Demanding](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7196aec212dd54a839425/1539774891904/Giving+Isn%27t+Demanding.pdf). In Woodruff, P. (ed.) _The Ethics of Giving: Philosophers' Perspectives on Philanthropy_. Oxford: Oxford University Press, pp. 178-203.
 [^38]: Note that Professor William MacAskill, coauthor of this website, is a cofounder of 80,000 Hours.
 [^39]: Cf. Todd, B. (2017). [We reviewed over 60 studies about what makes for a dream job. Here’s what we found](https://80000hours.org/career-guide/job-satisfaction/). _80,000 Hours_.
 [^40]: Note that Professor William MacAskill, coauthor of this website, is the author of several of the listed resources on effective altruism. Moreover, he is a cofounder of both 80,000 Hours and Giving What We Can.

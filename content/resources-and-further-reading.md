@@ -45,9 +45,9 @@ Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 
 ### Consequentialism
 
-- Walter Sinnott-Armstrong (2015). [Consequentialism](https://plato.stanford.edu/entries/consequentialism/). _Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Julia Driver (2011). _[Consequentialism, New Problems of Philosophy](https://www.routledge.com/Consequentialism/Driver/p/book/9780415772587)_. José Luis Bermúdez (ed.). Abingdon: Routledge.
 - Samuel Scheffler (1994). _[The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions](https://www.oxfordscholarship.com/view/10.1093/0198235119.001.0001/acprof-9780198235118)_. Oxford: Clarendon Press.
+- Walter Sinnott-Armstrong (2015). [Consequentialism](https://plato.stanford.edu/entries/consequentialism/). _Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 
 ### Welfarism & Theories of Well-Being
 
@@ -57,59 +57,60 @@ Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 
 ### Impartiality
 
-- Troy Jollimore (2018). [Impartiality](https://plato.stanford.edu/entries/impartiality/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Robert Goodin (1988). [What is so special about our fellow countrymen?](https://dx.doi.org/10.1086/292998) _Ethics_, 98 (4): 663-686.
+- Troy Jollimore (2018). [Impartiality](https://plato.stanford.edu/entries/impartiality/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 
 ### Aggregationism
 
+- John Broome (1991). _[Weighing Goods: Equality, Uncertainty, and Time](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119451266)_. London: Wiley-Blackwell. Chapters 4 and 10.
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. London: Continuum. Chapter 5: Utilitarian Aggregation.
 - Alastair Norcross (1997). [Comparing Harms: Headaches and Human Lives](https://spot.colorado.edu/~norcross/Comparingharms.pdf). _Philosophy & Public Affairs_. 26(2): 135–167.
-- John Broome (1991). _[Weighing Goods: Equality, Uncertainty, and Time](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119451266)_. London: Wiley-Blackwell. Chapters 4 and 10.
 
 ### Hedonism
 
-- Andrew Moore (2019). [Hedonism](https://plato.stanford.edu/archives/win2019/entries/hedonism/), _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
-- Ole Martin Moen (2016). [An Argument for Hedonism](https://link.springer.com/article/10.1007/s10790-015-9506-9). _The Journal of Value Inquiry_. 50: 267–281.
 - Roger Crisp (2006). [Hedonism Reconsidered](https://doi.org/10.2307/40041013). _Philosophy and Phenomenological Research_. 73(3): 619–645.
 - Fred Feldman (2004). _[Pleasure and the Good Life: Concerning the Nature, Varieties and Plausibility of Hedonism](https://doi.org/10.1093/019926516X.001.0001)_. Oxford University Press.
 - Shelly Kagan (1992).[The Limits of Well-being](https://doi.org/10.1017/S0265052500001461). Social Philosophy & Policy. 9(2): 169–189.
+- Ole Martin Moen (2016). [An Argument for Hedonism](https://link.springer.com/article/10.1007/s10790-015-9506-9). _The Journal of Value Inquiry_. 50: 267–281.
+- Andrew Moore (2019). [Hedonism](https://plato.stanford.edu/archives/win2019/entries/hedonism/), _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 
 ### Population Ethics
 
-- Johan E. Gustafsson (2022). [Our Intuitive Grasp of the Repugnant Conclusion](http://johanegustafsson.net/papers/our-intuitive-grasp-of-the-repugnant-conclusion.pdf). In Gustaf Arrhenius, Krister Bykvist, Tim Campbell, and Elizabeth Finneron-Burns (eds.), _The Oxford Handbook of Population Ethics_. Oxford University Press.
-- Hilary Greaves (2017). [Population Axiology](https://onlinelibrary.wiley.com/doi/abs/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
 - Gustaf Arrhenius, Jesper Ryberg, & Torbjörn Tännsjö (2017). [The Repugnant Conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
-- Michael Huemer (2008). [In Defence of Repugnance](https://www.jstor.org/stable/20532700). _Mind_. 117(468): 899-933.
 - Gustaf Arrhenius (2000). _[Future generations: A challenge for moral theory](http://www.diva-portal.org/smash/get/diva2:170236/FULLTEXT01.pdf)_. PhD Dissertation, Uppsala University.
+- Hilary Greaves (2017). [Population Axiology](https://onlinelibrary.wiley.com/doi/abs/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
+- Johan E. Gustafsson (2022). [Our Intuitive Grasp of the Repugnant Conclusion](http://johanegustafsson.net/papers/our-intuitive-grasp-of-the-repugnant-conclusion.pdf). In Gustaf Arrhenius, Krister Bykvist, Tim Campbell, and Elizabeth Finneron-Burns (eds.), _The Oxford Handbook of Population Ethics_. Oxford University Press.
+- Michael Huemer (2008). [In Defence of Repugnance](https://www.jstor.org/stable/20532700). _Mind_. 117(468): 899-933.
 - Derek Parfit (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Clarendon Press.
 
 ### Maximizing, Satisficing and Scalar Utilitarianism
 
-- Richard Y. Chappell (2020). [Deontic Pluralism and the Right Amount of Good](https://philpapers.org/rec/CHADPA-8). In Douglas W. Portmore (ed.), _The Oxford Handbook of Consequentialism_. Oxford University Press. pp. 498–512.
-- Neil Sinhababu (2018). [Scalar consequentialism the right way](https://philarchive.org/archive/SINSCT-3). _Philosophical Studies_. 175: 3131–3144.
-- Alastair Norcross (2020). _[Morality by Degrees: Reasons Without Demands](https://philpapers.org/rec/NORMBD)_. Oxford University Press.
-- Alastair Norcross (2006). [The Scalar Approach to Utilitarianism](https://onlinelibrary.wiley.com/doi/10.1002/9780470776483.ch15). In Henry West (ed.), _The Blackwell Guide to Mill's Utilitarianism_. Wiley-Blackwell., pp. 217–32.
 - Ben Bradley (2006). [Against Satisficing Consequentialism](https://www.cambridge.org/core/journals/utilitas/article/against-satisficing-consequentialism/247AFF8D4B350823C5CE2CCF346F5CD8). _Utilitas_. 18(2): 97–108.
+- Richard Y. Chappell (2020). [Deontic Pluralism and the Right Amount of Good](https://philpapers.org/rec/CHADPA-8). In Douglas W. Portmore (ed.), _The Oxford Handbook of Consequentialism_. Oxford University Press. pp. 498–512.
+- Richard Y. Chappell (2019). [Willpower Satisficing](https://dx.doi.org/10.1111/nous.12213). _Noûs_ 53(2): 251–265.
+- Alastair Norcross (2020). _[Morality by Degrees: Reasons Without Demands](https://philpapers.org/rec/NORMBD)_. Oxford University Press.
+- Alastair Norcross (2006). [The Scalar Approach to Utilitarianism](https://onlinelibrary.wiley.com/doi/10.1002/9780470776483.ch15). In Henry West (ed.), _The Blackwell Guide to Mill's Utilitarianism_. Wiley-Blackwell, pp. 217–32.
+- Neil Sinhababu (2018). [Scalar consequentialism the right way](https://philarchive.org/archive/SINSCT-3). _Philosophical Studies_. 175: 3131–3144.
 
 ### Expectational Utilitarianism Versus Objective Utilitarianism
 
-- Roger Crisp (1997). _[Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2)_. Routledge., pp. 99–101.
-- Frank Jackson (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.
+- Roger Crisp (1997). _[Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2)_. Routledge, pp. 99–101.
 - Peter A. Graham (2021). _[Subjective Versus Objective Moral Wrongness](https://doi.org/10.1017/9781108588249)_. Cambridge University Press.
+- Frank Jackson (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.
 
 ### Multi-level Utilitarianism Versus Single-level Utilitarianism
 
+- Roger Crisp (1997). _[Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2)_. Routledge, pp. 105–112.
 - Richard M. Hare (1981). _[Moral Thinking: Its Levels, Method, and Point](https://oxford.universitypressscholarship.com/view/10.1093/0198246609.001.0001/acprof-9780198246602)_. Oxford University Press.
 - Peter Railton (1984). [Alienation, consequentialism, and the demands of morality](https://www.jstor.org/stable/2265273). _Philosophy and Public Affairs_. 13(2): 134–171.
-- Roger Crisp (1997). _[Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2)_. Routledge., pp. 105–112.
 
-### Global Utilitarianism Versus Hybrid Utilitarianism
+### Global Utilitarianism and Hybrid Utilitarianism
 
-- Toby Ord (2009). _[Beyond Action: Applying Consequentialism to Decision Making and Motivation](http://files.tobyord.com/beyond-action.pdf)_. DPhil Thesis, University of Oxford.
-- Philip Pettit & Michael Smith (2000). [Global Consequentialism](http://www.princeton.edu/~msmith/mypapers/Pettit-Smith-Global-2000.pdf). In Hooker, B., Mason, E. & Miller, D. (eds.). _Morality, Rules and Consequences: A Critical Reader_. Edinburgh University Press.
 - Brian McElwee (2020). [The Ambitions of Consequentialism](https://doi.org/10.26556/jesp.v17i2.528). _Journal of Ethics and Social Philosophy_. 17(2).
 - Richard Y. Chappell (2012). [Fittingness: The Sole Normative Primitive](https://dx.doi.org/10.1111/j.1467-9213.2012.00075.x). _Philosophical Quarterly_. 62(249): 684–704.
 - Richard Y. Chappell. [Consequentialism: Core and Expansion](https://www.dropbox.com/s/2liyjg119f5mogv/Chappell-CoreConsequentialism.pdf?dl=0), forthcoming in D. Copp, C. Rosati, and T. Rulli (eds.). _The Oxford Handbook of Normative Ethics_. Oxford University Press.
+- Toby Ord (2009). _[Beyond Action: Applying Consequentialism to Decision Making and Motivation](http://files.tobyord.com/beyond-action.pdf)_. DPhil Thesis, University of Oxford.
+- Philip Pettit & Michael Smith (2000). [Global Consequentialism](http://www.princeton.edu/~msmith/mypapers/Pettit-Smith-Global-2000.pdf). In Hooker, B., Mason, E. & Miller, D. (eds.). _Morality, Rules and Consequences: A Critical Reader_. Edinburgh University Press.
 
 ---
 
@@ -359,7 +360,7 @@ Resources for [Objections to Utilitarianism and Responses](/objections-to-utilit
 - Brian Berkey (2016). [The Demandingness of Morality: Toward a Reflective Equilibrium](https://doi.org/10.1007/s11098-016-0648-9). _Philosophical Studies_. 173(11): 3015–3035.
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. London: Continuum. Chapter 7: Is Utilitarianism too Demanding?
 - Shelly Kagan (1984). [Does Consequentialism Demand Too Much? Recent work on the Limits of Obligation](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/7/724/files/2016/01/Does-Consequentialism-Demand-Too-Much-14mwbda.pdf). _Philosophy & Public Affairs_. 13(3): 239–254.
-- Katarzyna de Lazari-Radek & Peter Singer (2014). _[The Point of View of the Universe: Sidgwick and Contemporary Ethics](https://global.oup.com/academic/product/the-point-of-view-of-the-universe-9780199603695)_. Oxford: Oxford University Press., pp. 317–336.
+- Katarzyna de Lazari-Radek & Peter Singer (2014). _[The Point of View of the Universe: Sidgwick and Contemporary Ethics](https://global.oup.com/academic/product/the-point-of-view-of-the-universe-9780199603695)_. Oxford: Oxford University Press, pp. 317–336.
 - Peter Singer (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243.
 - David Sobel (2007). [The Impotence of the Demandingness Objection](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/impotence-of-the-demandingness-objection.pdf?c=phimp;idno=3521354.0007.008;format=pdf). _Philosophers' Imprint_. 7(8): 1–17.
 - Susan Wolf (1982). [Moral Saints](https://www.jstor.org/stable/2026228?seq=1). _The Journal of Philosophy_. 79(8): 419–434.
