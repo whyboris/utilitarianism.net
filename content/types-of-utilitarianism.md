@@ -58,7 +58,7 @@ Though act utilitarianism assesses only actions (rather than rules) in terms of 
 
 Consequentialists differ in what they take to be the _good_ to be promoted. Utilitarians endorse _[welfarism](https://plato.stanford.edu/entries/well-being/#Wel)_, which we define as follows:
 
-> **Welfarism is the view that the value of an outcome is wholly determined by the well-being of the individuals in that outcome.**[^3]
+> **Welfarism is the view that the value of an outcome is wholly determined by the well-being of the individuals in it.**[^3]
 
 Specifically, welfarism holds that positive well-being is the only intrinsic good, and negative well-being is the only intrinsic bad. Philosophers use the term “well-being” to describe everything that is _in itself_ good for someone, as opposed to things that are merely _instrumentally_ good. For example, money can buy many useful things and is thus instrumentally good for you, but having money does not _in itself_ constitute well-being.
 

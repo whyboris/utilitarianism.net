@@ -52,7 +52,7 @@ Sometimes philosophers talk about “welfare” or “utility” rather than “
 All ethical theories in the utilitarian family share four defining elements: consequentialism, welfarism, impartiality, and aggregationism, which we’ll define as follows:
 
 1. **Consequentialism:** one ought always to promote good outcomes.
-2. **Welfarism:** the value of an outcome is wholly determined by the well-being of the individuals in that outcome.
+2. **Welfarism:** the value of an outcome is wholly determined by the well-being of the individuals in it.
 3. **Impartiality:** a given quantity of well-being is equally valuable no matter _whose_ well-being it is.
 4. **Aggregationism**: the value of an outcome is given by the _sum_ value of the lives it contains.[^12]
 
