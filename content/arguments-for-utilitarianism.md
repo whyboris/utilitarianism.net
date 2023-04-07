@@ -52,15 +52,15 @@ Still, in many contexts other factors will not be relevant, and the question of 
 
 ### Ex Ante Pareto
 
-A _Pareto_ improvement is better for some people, and worse for none. When the future is uncertain, we can assess an individual’s _ax ante_ interests by reference to their [_expected_ well-being](/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism) (in contrast to their objective interests, which might only be knowable _ex post_, or after the fact).[^H0] Putting these two concepts together, we may formulate the following principle:
+A _Pareto_ improvement is better for some people, and worse for none. When outcomes are uncertain, we may instead assess the _prospect_ associated with an action—the range of possible outcomes, weighted by their probabilities. A prospect can be assessed as better for you when it offers you greater well-being [_in expectation_](/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism), or _ex ante_.[^H0] Putting these concepts together, we may formulate the following principle:
 
-> **Ex Ante Pareto:** in a choice between two prospects, one is morally preferable to another if it offers a better prospect for some individuals and a worse prospect for none.
+> **Ex ante Pareto:** in a choice between two prospects, one is morally preferable to another if it offers a better prospect for some individuals and a worse prospect for none.
 
 This bridge between personal value (or well-being) and moral assessment is further developed in economist John Harsanyi’s aggregation theorem.[^H1] But the underlying idea, that _reasonable beneficence_ requires us to _wish well to all_, and prefer prospects that are in _everyone’s_ ex ante interests, has also been defended and developed in more intuitive terms by philosophers.[^H2]
 
-A powerful objection to most non-utilitarian views is that they sometimes violate this Ex Ante Pareto principle, such as when choosing policies from behind a veil of ignorance. Many rival views imply, absurdly, that prospect _Y_ could be morally preferable to prospect _X_, even when _Y_ is worse (in prospect) for everyone affected.
+A powerful objection to most non-utilitarian views is that they sometimes violate ex ante Pareto, such as when choosing policies from behind a veil of ignorance. Many rival views imply, absurdly, that prospect _Y_ could be morally preferable to prospect _X_, even when _Y_ is worse in expectation for everyone involved.
 
-Caspar Hare illustrates the point with a Trolley case in which all six possible victims are stuffed inside suitcases: one is atop a footbridge, five are on the tracks below, and a train will hit and kill the five unless you topple the one on the footbridge (in which case the train will instead kill this one and then stop before reaching the others).[^H3] As the suitcases have recently been shuffled, nobody knows which position they are in. So, from _each_ person’s perspective, their prospects are best if you topple the one suitcase off the footbridge, increasing their chances of survival from 1/6 to 5/6. Given that this is in everyone’s _ex ante_ interests, it’s deeply puzzling to think that it would be morally preferable to override this unanimous preference, shared by _everyone_ involved, and instead let the five die; yet that is the implication of most non-utilitarian views.[^H4]
+Caspar Hare illustrates the point with a Trolley case in which all six possible victims are stuffed inside suitcases: one is atop a footbridge, five are on the tracks below, and a train will hit and kill the five unless you topple the one on the footbridge (in which case the train will instead kill this one and then stop before reaching the others).[^H3] As the suitcases have recently been shuffled, nobody knows which position they are in. So, from _each_ person’s perspective, their prospects are best if you topple the one suitcase off the footbridge, increasing their chances of survival from 1/6 to 5/6. Given that this is in everyone’s ex ante interests, it’s deeply puzzling to think that it would be morally preferable to override this unanimous preference, shared by _everyone_ involved, and instead let five of the six die; yet that is the implication of most non-utilitarian views.[^H4]
 
 ### Expanding the Moral Circle
 
@@ -167,12 +167,14 @@ The next chapter discusses theories of well-being, or what counts as being good 
 
 [^8]:
     Harsanyi formalized his argument for utilitarianism in Harsanyi, J. (1978). [Bayesian Decision Theory and Utilitarian Ethics](http://www.jstor.org/stable/1816692). _The American Economic Review_, 68(2): 223–228.
+
     For discussion about his proof, see Greaves, H. (2017). [A Reconsideration of the Harsanyi–Sen–Weymark Debate on Utilitarianism](https://www.cambridge.org/core/journals/utilitas/article/reconsideration-of-the-harsanyisenweymark-debate-on-utilitarianism/45B191ED9B7BE4ACF598B49A74DCDF0E). _Utilitas_, 29(2): 175–213.
 
 [^9]: Caspar Hare (2016). [Should We Wish Well to All?](http://dx.doi.org/10.1215/00318108-3624764) _Philosophical Review_, 125(4): 451–472.
+
 [^10]: It’s notoriously unclear how to apply the veil of ignorance to "different number" cases in [population ethics](/population-ethics/), for example.
 
-[^H0]: Interestingly, theories may combine _ex post_ welfare evaluations with a broader "expectational" element. For example, _ex post_ [prioritarianism](/near-utilitarian-alternatives/#prioritarianism) assigns extra social value to avoiding bad outcomes (rather than bad _prospects_) for the worst off individuals, but can still assess prospects by their _expected social value_.
+[^H0]: _Ex post_ interests, by contrast, concern the actual outcomes that result. Interestingly, theories may combine _ex post_ welfare evaluations with a broader "expectational" element. For example, _ex post_ [prioritarianism](/near-utilitarian-alternatives/#prioritarianism) assigns extra social value to avoiding bad _outcomes_ (rather than bad _prospects_) for the worst off individuals, but can still assess prospects by their _expected social value_.
 
 [^H1]: Harsanyi (1955, pp. 312–314; 1977, pp. 64–68), as reinterpreted by John Broome (1987, pp. 410–411; 1991, pp. 165, 202–209). For further explanation, keep an eye out for our forthcoming guest essay on Formal Arguments for Utilitarianism, by Johan E. Gustafsson & Kacper Kowalczyk, to appear at <www.utilitarianism.net/guest-essays/>.
 
@@ -197,17 +199,20 @@ The next chapter discusses theories of well-being, or what counts as being good 
 [^20]: It is open to the deontologist to insist that it should be more important _to Jack_, even if not to anyone else. But this violates the appealing idea that the moral point of view is impartial, yielding verdicts that reasonable observers (and not just the agent themselves) could agree upon.
 [^21]:
     For example, you might gaslight your spouse by remaining hidden in camouflage, when they could have sworn that you were just in the room with them. Or, as Foot (1978, 26) suggests, “An actor who fails to turn up for a performance will generally spoil it rather than allow it to be spoiled”.
+
     Foot, P. (1978). The Problem of Abortion and the Doctrine of the Double Effect. In _Virtues and Vices and Other Essays_. University of California Press.
 
 [^22]: Beauchamp, T. (2020). Justifying Physician-Assisted Deaths. In LaFollette, H. (ed.), _Ethics in Practice: An Anthology_ (5th ed.), pp. 78–85.
 [^23]: Bennett, J. (1998). _[The Act Itself](https://oxford.universitypressscholarship.com/view/10.1093/019823791X.001.0001/acprof-9780198237914)_. Oxford University Press.
 [^24]:
     In a similar vein, Derek Parfit wrote that “Some of us ask how much of our wealth we rich people ought to give to these poorest people. But that question wrongly assumes that our wealth is ours to give. This wealth is legally ours. But these poorest people have much stronger moral claims to some of this wealth. We ought to transfer to these people (...) at least ten per cent of what we earn”.
+
     Parfit, D. (2017). _On What Matters, Volume Three_. Oxford University Press, pp. 436–37
 
 [^25]:
     On the topic of sacrifice, John Stuart Mill wrote that “The utilitarian morality does recognise in human beings the power of sacrificing their own greatest good for the good of others. It only refuses to admit that the sacrifice is itself a good. A sacrifice which does not increase, or tend to increase, the sum total of happiness, it considers as wasted.”
-    Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](/books/utilitarianism-john-stuart-mill/2).
+
+    Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is](/books/utilitarianism-john-stuart-mill/2), _Utilitarianism_.
 
 [^26]:
     However, this does not mean that utilitarianism will strive for perfect equality in material outcomes or even well-being. Joshua Greene notes that “a world in which everyone gets the same outcome no matter what they do is an idle world in which people have little incentive to do anything. Thus, the way to maximize happiness is not to decree that everyone gets to be equally happy, but to encourage people to behave in ways that maximize happiness. When we measure our moral success, we count everyone’s happiness equally, but achieving success almost certainly involves inequality of both material wealth and happiness. Such inequality is not ideal, but it’s justified on the grounds that, without it, things would be worse overall.

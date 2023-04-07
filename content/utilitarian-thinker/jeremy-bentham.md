@@ -56,9 +56,9 @@ Bentham also applied the principle of utility to the reform of political institu
     and Crimmins, J. E. (2019). [Jeremy Bentham](https://plato.stanford.edu/entries/bentham/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
 
 [^2]: Bentham, J. (1843). [Anarchical Fallacies](http://fs2.american.edu/dfagel/www/Class%20Readings/Bentham/AnarchichalFallicies_excerpt.pdf).
-[^3]: Alfange, D. J. (1969). [Jeremy Bentham and the Codification of Law](https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=4605&context=clr). _Cornell Law Review_. 55(1): 58–77., p. 76
+[^3]: Alfange, D. J. (1969). [Jeremy Bentham and the Codification of Law](https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=4605&context=clr). _Cornell Law Review_. 55(1): 58–77, p. 76
 [^4]: Cf. Dabhoiwala, F. (2014). _[Of Sexual Irregularities by Jeremy Bentham – review](https://www.theguardian.com/books/2014/jun/26/sexual-irregularities-morality-jeremy-bentham-review#comments)_. The Guardian.
-[^5]: Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.)., pp. 143–144
+[^5]: Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.), pp. 143–144
 [^6]:
     Cf. Bentham, J. (1821). On the Liberty of the Press, and Public Discussion.
     and Crimmins, J. E. (2019). [Jeremy Bentham](https://plato.stanford.edu/entries/bentham/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).

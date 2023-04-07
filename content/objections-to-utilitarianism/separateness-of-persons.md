@@ -133,16 +133,20 @@ We have seen that the “separateness of persons” objection to utilitarianism 
     Brink notes that Rawls’ own egalitarian view often requires uncompensated sacrifices from the wealthy.
     Brink, D. (2020). [Consequentialism, the Separateness of Persons, and Aggregation](https://www.doi.org/10.1093/oxfordhb/9780190905323.013.14). In Douglas W. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press, p.387.
 
-[^8]: Singer, P. (2011). _Practical Ethics_, third edition. Cambridge University Press., p. 106
+[^8]: Singer, P. (2011). _Practical Ethics_, third edition. Cambridge University Press, p. 106
 [^9]: The following paragraphs draw directly from Chappell, R.Y. (2015). [Value Receptacles](https://dx.doi.org/10.1111/nous.12023). _Noûs_, 49(2): 322–332.
 [^10]: Cf. Cohen, G.A. (2011). [Rescuing Conservatism: A Defense of Existing Value](https://doi.org/10.1093/acprof:oso/9780199753673.003.0009). In R. Jay Wallace, Rahul Kumar, and Samuel Freeman (eds.), _Reasons and Recognition: Essays on the Philosophy of T.M. Scanlon_. Oxford University Press.
 [^11]: Chappell, R.Y. (2015). [Value Receptacles](https://dx.doi.org/10.1111/nous.12023). _Noûs_, 49(2): 322–332, p. 328.
 [^12]: “Value pluralism” is often used to refer to the idea of multiple distinct _types_ or kinds of values. But the relevant form of pluralism to secure non-fungibility is instead _token_ pluralism. Bob’s and Sally’s interests may both be values of the same _kind_ (namely, welfare value), but they are distinct individual (or “token”) values in the sense that it is fitting to have a _separate_ intrinsic desire for each. Contrast this with money, where distinct $20 bills are _not_ distinctly valuable: it would be strange to desire each bill separately, rather than just having a single overarching desire for “more money” that a $20 bill could equally well satisfy.
-[^13]: Nagel, T. (1977). Equality. Reprinted in (1979) _Mortal Questions_. Cambridge University Press., p. 123
+[^13]: Nagel, T. (1977). Equality. Reprinted in (1979) _Mortal Questions_. Cambridge University Press, p. 123
 [^14]: Scanlon, T.M. (1998). _What We Owe to Each Other_. Belknap Press.
 [^15]: This is a quote from Derek Parfit's concise summary of the thought experiment, on p. 375 of Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio_, 16(4): 368–390.
 [^16]: The following subsections draw directly from section 3.2 of Chappell, R.Y. (2021). _Parfit's Ethics_. Cambridge University Press.
-[^17]: Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio_, 16(4): 368–390. What if the watchers are somehow even worse-off? Then Parfit’s explanation fails, but he could comfortably suggest in this case that slightly improving the lot of billions of worse-off individuals really should be prioritized over offering great relief to a single individual who is already in a better state than these others.
+[^17]:
+    Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio_, 16(4): 368–390. 
+
+    What if the watchers are somehow even worse-off? Then Parfit’s explanation fails, but he could comfortably suggest in this case that slightly improving the lot of billions of worse-off individuals really should be prioritized over offering great relief to a single individual who is already in a better state than these others.
+
 [^18]: Dickert, S., Västfjäll, D., Kleber, J., & Slovic, P. (2015). [Scope insensitivity: The limits of intuitive valuation of human lives in public policy](http://dx.doi.org/10.1016/j.jarmac.2014.09.002). _Journal of Applied Research in Memory and Cognition_, 4(3): 248–255.
 [^19]: Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio_, 16(4): 368–390, p.385.
 [^20]: This text continues to draw directly from section 3.2 of Chappell, R.Y. (2021). _Parfit's Ethics_. Cambridge University Press.

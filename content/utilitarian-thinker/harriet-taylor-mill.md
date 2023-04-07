@@ -51,8 +51,8 @@ Taylor Mill is most famous, however, for her views on women’s rights, expresse
 [^1]: From an 1854 letter John Stuart Mill sent Taylor Mill.
 [^2]: Cf. [Harriet Taylor Mill](https://harriettaylormill.com/), Wordpress Blog. (Accessed: 1st January 2020).
 [^3]: Mill, J. S. (1873). _[Autobiography](/books/autobiography-john-stuart-mill/7)_. Chapter 7: 1840-1870.
-[^4]: Taylor Mill, H. (1851). [The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill). _Westminster Review_., p. 3
-[^5]: Taylor Mill, H. (1851). [The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill). _Westminster Review_., p. 3
+[^4]: Taylor Mill, H. (1851). [The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill). _Westminster Review_, p. 3
+[^5]: Taylor Mill, H. (1851). [The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill). _Westminster Review_, p. 3
 [^6]: [The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill), 1851
 [^7]: [The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill), 1851
 [^8]: [The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill), 1851

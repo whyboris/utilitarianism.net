@@ -189,6 +189,7 @@ Good luck! And remember to cite your sources.
     P3\*: We can work in an impactful job without significant uncompensated sacrifice.
 
     P4\*: If it is in our power to prevent something very bad from happening, without significant uncompensated sacrifice, we ought, morally, to do it.
+    
     Therefore,
 
     C\*: We ought, morally, to work in an impactful job rather than spend our time on a career that does not help others.
@@ -211,10 +212,9 @@ Good luck! And remember to cite your sources.
 [^10]: Singer, P. (1997). [The Drowning Child and the Expanding Circle](https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist). _New Internationalist_. ([archive](https://web.archive.org/web/20210614021936/https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist))
 [^11]: Of course, the relevant question is not the psychological one of what someone would be willing to choose, but the moral one of what choice is truly justifiable. But it is often by thinking through such a choice from the inside that we form our moral beliefs about which choices are morally permissible.
 [^12]: See also Chapter 3: Common Objections to Giving, in Singer, P. (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_.
-[^13]: Though for a competing view, see Kamm, F.M. (1999). Famine Ethics: The Problem of Distance in Morality and Singer’s Ethical Theory, in _Singer and His Critics_, ed. Dale Jamieson, Oxford: Blackwell: 174–203.
+[^13]: Though for a competing view, see Kamm, F.M. (1999). Famine Ethics: The Problem of Distance in Morality and Singer’s Ethical Theory, in _Singer and His Critics_, ed. Dale Jamieson. Oxford: Blackwell: 174–203.
 [^14]:
-    Though for a competing view, which takes normal empathetic responses to determine what is right, see Slote, M. (2007). Famine, Affluence, and Virtue, in _Working Virtue: Virtue Ethics and Contemporary_
-    _Moral Problems_, ed. Rebecca L. Walker and Philip J. Ivanhoe, Oxford: Clarendon Press: 279–296.
+    Though for a competing view, which takes normal empathetic responses to determine what is right, see Slote, M. (2007). Famine, Affluence, and Virtue, in _Working Virtue: Virtue Ethics and Contemporary Moral Problems_, ed. Rebecca L. Walker and Philip J. Ivanhoe, Oxford: Clarendon Press: 279–296.
 
 [^15]: Chappell, R.Y. & Yetter-Chappell, H. (2016). [Virtue and Salience](https://doi.org/10.1080/00048402.2015.1115530). _Australasian Journal of Philosophy_, 94(3): 449–463, p.453.
 [^16]: Timmerman, T. (2015). [Sometimes there is nothing wrong with letting a child drown](https://dx.doi.org/10.1093/analys/anv015). _Analysis_, 75(2): 204–212.

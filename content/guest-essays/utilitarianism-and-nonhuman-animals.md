@@ -134,7 +134,7 @@ We are only at the start of asking such questions, but the answers will be impor
 
 {{< guest-essays true >}}
 
-[^1]: Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.)., p. 143
-[^2]: Singer, P. (2002). [Preface, Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>). New York: HarperCollins Publishers., p. 13
+[^1]: Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.), p. 143.
+[^2]: Singer, P. (2002). [Preface, Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>). New York: HarperCollins Publishers, p. 13.
 [^3]: Bentham, J. (1843). [Anarchical Fallacies](http://fs2.american.edu/dfagel/www/Class%20Readings/Bentham/AnarchichalFallicies_excerpt.pdf).
 [^4]: Disclosure: At the time of writing, I serve on the board of directors at Animal Charity Evaluators.

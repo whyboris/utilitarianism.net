@@ -220,32 +220,44 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 [^6]: This view is known as _[ethical egoism](https://plato.stanford.edu/entries/egoism/)_.
 [^7]: Cf. Sinhababu, N. (ms). [The Epistemic Argument for Hedonism](https://philpapers.org/rec/SINTEA-3).
 [^8]:
-    To control for this, imagine a society of utilitarian sadists who are strictly morally constrained in their sadism: they would never allow harm to another unless it caused greater net benefits to others (including themselves). We might even imagine that they are willing to suffer the torture themselves if enough others would benefit from this. (Perhaps they draw lots to decide on a victim, in a sadistic analogue of John Harris’ _Survival Lottery_.)\* When the sadists are stipulated to be morally conscientious in this way, it may be easier to accept that their sadistic pleasure counts as a good in itself.
+    To control for this, imagine a society of utilitarian sadists who are strictly morally constrained in their sadism: they would never allow harm to another unless it caused greater net benefits to others (including themselves). We might even imagine that they are willing to suffer the torture themselves if enough others would benefit from this. (Perhaps they draw lots to decide on a victim, in a sadistic analogue of John Harris’ _Survival Lottery_.) When the sadists are stipulated to be morally conscientious in this way, it may be easier to accept that their sadistic pleasure counts as a good in itself.
 
-    \* J. Harris (1975). The Survival Lottery. _Philosophy_ 50: 81–87.
+    Harris, J. (1975). [The Survival Lottery](https://doi.org/10.1017/S0031819100059118). _Philosophy_ 50: 81–87.
 
 [^9]: Unless we value the simplicity of hedonistic utilitarianism more highly than the accommodation of such intuitions.
-[^10]: This description was adapted from Nozick, R. (1974). _[Anarchy, State, and Utopia](https://archive.org/details/anarchystateutop00nozi/page/42)_. New York: Basic Books., p. 42.
+[^10]: This description was adapted from Nozick, R. (1974). _[Anarchy, State, and Utopia](https://archive.org/details/anarchystateutop00nozi/page/42)_. New York: Basic Books, p. 42.
 [^11]: Of course, one might agree with Nozick’s general point while regarding life in the experience machine as superior to at least _some_ (e.g. miserable) “real” lives, such that “plugging in” could be advisable in some circumstances.
-[^12]: Nozick, R. (1974). _[Anarchy, State, and Utopia](https://archive.org/details/anarchystateutop00nozi/page/42)_. New York: Basic Books., p. 43.
+[^12]: Nozick, R. (1974). _[Anarchy, State, and Utopia](https://archive.org/details/anarchystateutop00nozi/page/42)_. New York: Basic Books, p. 43.
 [^13]:
     Nozick further claimed that we want to live “in contact with reality”, but it is not clear that there would be any well-being loss to living and interacting with others in a shared virtual world such as that depicted in _[The Matrix](https://en.wikipedia.org/wiki/The_Matrix)_. A shared virtual world could, in contrast to the experience machine, fulfill many of our non-hedonic values and desires, such as having friends and loving relationships.
 
-    Nozick, R. (1974). _[Anarchy, State, and Utopia](https://archive.org/details/anarchystateutop00nozi/page/42)_. New York: Basic Books., p. 45.
+    Nozick, R. (1974). _[Anarchy, State, and Utopia](https://archive.org/details/anarchystateutop00nozi/page/42)_. New York: Basic Books, p. 45.
 
 [^14]: Weijers, D. (2014). [Nozick’s experience machine is dead, long live the experience machine!](https://doi.org/10.1080/09515089.2012.757889) Philosophical Psychology. 27(4): 513–535. Puzzlingly, many respondents reported that they would favor plugging in to the experience machine when choosing for another person, even when they would not choose this for themselves.
-[^15]: Among others, this suggestion has been made by (1) Kolber, A. (1994). [Mental Statism and the Experience Machine](https://ssrn.com/abstract=1322059). _Bard Journal of Social Sciences_. 3: 10–17; (2) Greene, J. D. (2001). A Psychological Perspective on Nozick’s Experience Machine and Parfit’s Repugnant Conclusion. _Presentation at the Society for Philosophy and Psychology Annual Meeting_. Cincinnati, OH; and (3) de Brigard, F. (2010). [If you like it, does it matter if it's real?](https://doi.org/10.1080/09515080903532290). _Philosophical Psychology_. 23(1): 43–57.
-[^16]: Adapted from Crisp, R. (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). _Philosophy and Phenomenological Research._ 73(3): 635–6.
-The advantages of third-personal judgments about the relative values of lives inside and outside of the experience machine, in order to better avoid objections, is also stressed by Lin, Eden (2016). [How to Use the Experience Machine](https://doi.org/10.1017/S0953820815000424). _Utilitas_ 28 (3):314-332.
+[^15]:
+    Among others, this suggestion has been made by:
+    - Kolber, A. (1994). [Mental Statism and the Experience Machine](https://ssrn.com/abstract=1322059). _Bard Journal of Social Sciences_. 3: 10–17.
+    - Greene, J. D. (2001). A Psychological Perspective on Nozick’s Experience Machine and Parfit’s Repugnant Conclusion. _Presentation at the Society for Philosophy and Psychology Annual Meeting_. Cincinnati, OH.
+    - de Brigard, F. (2010). [If you like it, does it matter if it's real?](https://doi.org/10.1080/09515080903532290). _Philosophical Psychology_. 23(1): 43–57.
+
+[^16]:
+    Adapted from Crisp, R. (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). _Philosophy and Phenomenological Research._ 73(3): 635–6.
+
+    The advantages of third-personal judgments about the relative values of lives inside and outside of the experience machine, in order to better avoid objections, is also stressed by Lin, Eden (2016). [How to Use the Experience Machine](https://doi.org/10.1017/S0953820815000424). _Utilitas_ 28 (3):314-332.
 
 [^17]: Crisp, R. (2017). Well-Being. _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.). [Section 4.1 Hedonism](https://plato.stanford.edu/entries/well-being/#TheWelBei). See also Crisp, R. (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). _Philosophy and Phenomenological Research._ 73(3): 637.
 [^18]: They probably also desire their own happiness, of course, which is better served in scenario (ii). But the fact that they nonetheless prefer the prospect of (i) over (ii) suggests that (i) is the outcome that better fulfills their desires _overall_.
 [^19]: By contrast, the “evil pleasures” objection to hedonism would seem to apply with equal force against desire theories, as these theories also imply that sadistic pleasure can benefit you (if you desire it).
 [^20]: This is Parfit’s suggestion in Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press. For an alternative restriction based on _genuine attraction_, see Heathwood, C. (2019). [Which Desires are Relevant to Well-Being?](https://doi.org/10.1111/nous.12232). _Noûs_. 53(3): 664–688.
 [^21]: As argued by [John Stuart Mill](/utilitarian-thinker/john-stuart-mill) in his 1859 book _[On Liberty](/books/on-liberty-john-stuart-mill/1)_.
-[^22]: Rawls, J. (1971). _A Theory of Justice_. Harvard University Press, p. 432. Some desire theorists might restrict their view to 'hot' desires, that present their objects as being in some way appealing to the subject, in contrast to mere compulsive motivations. But the counterexample can be adapted to cover the 'hot' desire view as follows: Further suppose that the agent suffers from severe memory loss, so they don’t even appreciate when this desire is satisfied. Still, it is what they want to happen, so much so that they would prefer to count grass (without realizing it) than to pause to take medicine that would restore their cognitive functioning and ability to enjoy themselves (without generating stronger new desires). Again, this preference seems pathological, and worth overriding for the subject's sake.
+[^22]:
+    Rawls, J. (1971). _A Theory of Justice_. Harvard University Press, p. 432.
+
+    Some desire theorists might restrict their view to 'hot' desires, that present their objects as being in some way appealing to the subject, in contrast to mere compulsive motivations. But the counterexample can be adapted to cover the 'hot' desire view as follows: Further suppose that the agent suffers from severe memory loss, so they don’t even appreciate when this desire is satisfied. Still, it is what they want to happen, so much so that they would prefer to count grass (without realizing it) than to pause to take medicine that would restore their cognitive functioning and ability to enjoy themselves (without generating stronger new desires). Again, this preference seems pathological, and worth overriding for the subject's sake.
+
 [^23]:
     Chris Heathwood additionally stresses the importance of looking at the agent’s overall (whole-life) desire satisfaction. Sometimes it will be worth thwarting one desire in order to better promote others. But we can build into the case that the person’s actual desires are maximally satisfied by leaving them to forgetfully count the grass.
+
     Heathwood, C. (2005). [The problem of defective desires](https://dx.doi.org/10.1080/00048400500338690). _Australasian Journal of Philosophy._ 83 (4): 487–504.
 
 [^24]: Adapted from Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press, p. 497. Parfit stipulates that the agent is guaranteed a lifetime supply of the drug, and that the drug in question poses no health risk or untoward side-effects besides the extreme addiction.
@@ -255,11 +267,15 @@ The advantages of third-personal judgments about the relative values of lives in
 [^28]: This theory is temporally relative because once the relevant choice is made, the once-contingent future choice may no longer be contingent on any remaining decisions, in which case it will no longer be discounted. If you actually become a satisfied drug addict, for example, the necessitarian may _now_ say that this outcome was for the best, even though _before_ the choice was made, they would have advised against it (on the basis of your prior desires). This generates an awkward temporal inconsistency, as our theorist seems committed to claims like, “It would now be bad for you to become a drug addict, but if you go ahead and do it, it will instead be good for you.”
 [^29]: It merely “may” because much depends on the details. It is entirely possible that becoming a well-satisfied teacher would also better serve _other_ desires that one has (in both outcomes), in which case even the necessitarian could reach the conclusion that this change would be in one’s overall best interests, despite giving no intrinsic weight to the contingent desire to be a teacher (and giving full weight to the past, and hence non-contingent, desire to be a firefighter). But there will be at least some cases in which impeding the change counterintuitively wins out because of the discounting.
 [^30]:
-    Exemplary objective list theorists include (1) Finnis, J. (1980). _Natural Law and Natural Rights_. Oxford: Clarendon Press; (2) Griffin, J. (1986). _Well-Being: Its Meaning, Measurement and Moral Importance_. Oxford: Clarendon Press; (3) Fletcher, G. (2013). [A Fresh Start for an Objective List Theory of Well-Being](https://doi.org/10.1017/S0953820812000453). _Utilitas_. 25(2): 206–220; and (4) Lin, E. (2014). [Pluralism about Well-Being](https://doi.org/10.1111/phpe.12038). _Philosophical Perspectives_. 28(1): 127–154.
+    Objective list theorists include:
+    - Finnis, J. (1980). _Natural Law and Natural Rights_. Oxford: Clarendon Press.
+    - Griffin, J. (1986). _Well-Being: Its Meaning, Measurement and Moral Importance_. Oxford: Clarendon Press.
+    - Fletcher, G. (2013). [A Fresh Start for an Objective List Theory of Well-Being](https://doi.org/10.1017/S0953820812000453). _Utilitas_. 25(2): 206–220.
+    - Lin, E. (2014). [Pluralism about Well-Being](https://doi.org/10.1111/phpe.12038). _Philosophical Perspectives_. 28(1): 127–154.
 
     For an overview and discussion of value pluralism, including objective list theories, see:
-    Mason, Elinor (2018). [Value Pluralism](https://plato.stanford.edu/entries/value-pluralism/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
-    Lin, Eden (2016). [Monism and Pluralism](https://philpapers.org/rec/LINMAP-4). In Guy Fletcher (ed.), _The Routledge Handbook of Philosophy of Well-Being_. Routledge, pp. 331–41.
+    - Mason, E. (2018). [Value Pluralism](https://plato.stanford.edu/entries/value-pluralism/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+    - Lin, E. (2016). [Monism and Pluralism](https://philpapers.org/rec/LINMAP-4). In Guy Fletcher (ed.), _The Routledge Handbook of Philosophy of Well-Being_. Routledge, pp. 331–41.
 
 [^31]: Though there would not seem any value in memorizing the phonebook or other trivial data, so this is best restricted to _significant_ knowledge, or knowledge of _important_ truths.
 [^32]: Recall our contrast of person A (with the excellent life) and person B who experiences a passive “replay” of A’s life, with an extra jolt of pleasure at the end. Although B’s life contains more pleasure, A’s life will contain more overall value if we also count loving relationships, achievement, etc., as basic welfare goods. While B’s life contains all the same experiences _as of_ loving relationships, achievement, etc., as A’s did, it is a passive “replay”, involving no actual choices or interactions. Therefore, B’s life includes none of A’s actual achievements or relationships.
@@ -268,6 +284,8 @@ The advantages of third-personal judgments about the relative values of lives in
 [^35]: Cf. Bedke, M. (2010). [Might All Normativity be Queer?](https://dx.doi.org/10.1080/00048400802636445). _Australasian Journal of Philosophy_. 88(1): 41–58.
 [^36]: It would indeed be less “mysterious” to deny the reality of value, and claim that subjective valuing is _all there is_ in the vicinity. But this would be a form of nihilism: that _S_ values _p_ is a purely descriptive fact about _S_’s psychology. There is nothing inherently value-laden about this, unless we further claim that subjective valuation is something that actually _matters_ in some way. And then we are back to attributing real value, in all its mysterious glory.
 [^37]:
-    As Peter Railton writes: “what is intrinsically valuable for a person must have a connection with what he would find in some degree compelling or attractive, as least if he were rational and aware. It would be an intolerably alienated conception of someone’s good to imagine that it might fail in any such way to engage him.” (p.47)
-    Railton, P. (2003). “Facts and Values”, in _[Facts, Values and Norms](https://www.cambridge.org/core/books/facts-values-and-norms/5B8C2C2969882F8ECCAF5AEE765D3868)_. Cambridge University Press.
+    As Peter Railton writes: “what is intrinsically valuable for a person must have a connection with what he would find in some degree compelling or attractive, as least if he were rational and aware. It would be an intolerably alienated conception of someone’s good to imagine that it might fail in any such way to engage him.”
+
+    Railton, P. (2003). “Facts and Values”, in _[Facts, Values and Norms](https://www.cambridge.org/core/books/facts-values-and-norms/5B8C2C2969882F8ECCAF5AEE765D3868)_. Cambridge University Press, p. 47.
+
 [^38]: Perhaps the best-known such hybrid view is found in Kagan, Shelly (2009). [Well-Being as Enjoying the Good](https://doi.org/10.1111/j.1520-8583.2009.00170.x). _Philosophical Perspectives_ 23 (1):253-272.
