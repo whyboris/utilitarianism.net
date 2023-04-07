@@ -337,7 +337,8 @@ The next chapter discusses the most important implications of utilitarianism for
 [^7]: For an exploration of whether the world is overpopulated or underpopulated, see Ord, T. (2014). [Overpopulation or Underpopulation?](http://amirrorclear.net/files/overpopulation-or-underpopulation.pdf), in Goldin, I. _[Is the World Full?](doi.org/10.1093/acprof:oso/9780199677771.001.0001)_. Oxford: Oxford University Press.
 [^8]:
     Reducing existential risk is a priority not just for the total view but for a wide variety of moral views. However, for the total view there is an especially large amount of value at stake with preserving the long-term flourishing of civilization.
-    Cf. Ord, T. (2020). Chapter 2: Existential Risk, in _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
+
+    Ord, T. (2020). Chapter 2: Existential Risk, in _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
 
 [^9]:
     While Parfit deserves credit for raising the philosophical debate around the repugnant conclusion, arguably Henry Sidgwick noticed it much earlier, writing that “the point up to which, on utilitarian principles, population ought to be encouraged to increase, is not that at which the average happiness is the greatest possible (...) but that at which the happiness reaches its maximum”.
@@ -424,9 +425,11 @@ The next chapter discusses the most important implications of utilitarianism for
 [^34]: The critical level is generally assumed to be non-negative, that is either positive or zero. A negative critical level would implausibly attribute positive value to (some) negative lives.
 [^35]: Cf. Broome, J. (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press, p. 213–214.
 [^36]:
-    - Blackorby, C., Bossert, W. and Donaldson, D. (1996). [Quasi-Orderings and Population Ethics](https://doi.org/10.1007/BF00183348). _Social Choice and Welfare_, 13 (2): 129–50.
-    - Rabinowicz, W. (2009). [Broome and the Intuition of Neutrality](https://dx.doi.org/10.1111/j.1533-6077.2009.00174.x). _Philosophical Issues_, 19 (1): 389–411.
-    - Gustafsson, J. (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
+    Blackorby, C., Bossert, W. and Donaldson, D. (1996). [Quasi-Orderings and Population Ethics](https://doi.org/10.1007/BF00183348). _Social Choice and Welfare_, 13 (2): 129–50.
+
+    Rabinowicz, W. (2009). [Broome and the Intuition of Neutrality](https://dx.doi.org/10.1111/j.1533-6077.2009.00174.x). _Philosophical Issues_, 19 (1): 389–411.
+
+    Gustafsson, J. (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
 
 [^37]: While philosophers do not typically use this colloquial term, it may be helpful to imagine someone who, when asked whether the world is improved by adding a barely-worth-living life, shrugs their shoulders and responds, “meh”.
 [^38]: Cf. Chang, R. (2002). [The possibility of parity](https://dx.doi.org/10.1086/339673). _Ethics_, 112 (4): 659–688.
@@ -452,10 +455,14 @@ The next chapter discusses the most important implications of utilitarianism for
 [^46]: Narveson, J. (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1), 62–86, p. 80
 [^47]:
     For instance, see:
-    - Narveson, J. (1967). [Utilitarianism and New Generations](https://www.jstor.org/stable/2252027). _Mind_. 76(301): 62–72.
-    - Narveson, J. (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1), 62–86.
-    - Roberts, M.A. (2002). [A New Way of Doing the Best That We Can: Person-based Consequentialism and the Equality Problem](https://doi.org/10.1086/324321). _Ethics_, 112(2): 315–350.
-    - Roberts, M.A. (2004). [Person-Based Consequentialism and the Procreation Obligation](https://doi.org/10.1007/978-1-4020-2473-3_7), in J. Ryberg and T. Tännsjö (eds.) _The Repugnant Conclusion_. Library Of Ethics And Applied Philosophy. 15, 99–128.
+
+    Narveson, J. (1967). [Utilitarianism and New Generations](https://www.jstor.org/stable/2252027). _Mind_. 76(301): 62–72.
+
+    Narveson, J. (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1), 62–86.
+    
+    Roberts, M.A. (2002). [A New Way of Doing the Best That We Can: Person-based Consequentialism and the Equality Problem](https://doi.org/10.1086/324321). _Ethics_, 112(2): 315–350.
+    
+    Roberts, M.A. (2004). [Person-Based Consequentialism and the Procreation Obligation](https://doi.org/10.1007/978-1-4020-2473-3_7), in J. Ryberg and T. Tännsjö (eds.) _The Repugnant Conclusion_. Library Of Ethics And Applied Philosophy. 15, 99–128.
 
 [^48]: At least, it cannot be better or worse in terms of well-being.
 [^49]:
@@ -486,5 +493,7 @@ The next chapter discusses the most important implications of utilitarianism for
     Greaves, H. & Ord, T. (2017). [Moral Uncertainty About Population Axiology](https://doi.org/10.26556/jesp.v12i2.223). _Journal of Ethics and Social Philosophy_. 12(2).
 
     See also:
-    - MacAskill, W., Bykvist, K., & Ord, T. (2020). Chapter 8, Practical Ethics Given Moral Uncertainty, in _[Moral Uncertainty](https://www.moraluncertainty.com/)_. Oxford: Oxford University Press.
-    - Ord, T. (2020). Appendix B: Population Ethics and Existential Risk, in _[The Precipice: Existential Risks and the Future of Humanity](https://theprecipice.com/)_. Hachette Books: New York.
+    
+    MacAskill, W., Bykvist, K., & Ord, T. (2020). Chapter 8, Practical Ethics Given Moral Uncertainty, in _[Moral Uncertainty](https://www.moraluncertainty.com/)_. Oxford: Oxford University Press.
+    
+    Ord, T. (2020). Appendix B: Population Ethics and Existential Risk, in _[The Precipice: Existential Risks and the Future of Humanity](https://theprecipice.com/)_. Hachette Books: New York.

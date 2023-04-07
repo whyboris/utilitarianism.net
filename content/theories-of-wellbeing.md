@@ -236,9 +236,12 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 [^14]: Weijers, D. (2014). [Nozick’s experience machine is dead, long live the experience machine!](https://doi.org/10.1080/09515089.2012.757889) Philosophical Psychology. 27(4): 513–535. Puzzlingly, many respondents reported that they would favor plugging in to the experience machine when choosing for another person, even when they would not choose this for themselves.
 [^15]:
     Among others, this suggestion has been made by:
-    - Kolber, A. (1994). [Mental Statism and the Experience Machine](https://ssrn.com/abstract=1322059). _Bard Journal of Social Sciences_. 3: 10–17.
-    - Greene, J. D. (2001). A Psychological Perspective on Nozick’s Experience Machine and Parfit’s Repugnant Conclusion. _Presentation at the Society for Philosophy and Psychology Annual Meeting_. Cincinnati, OH.
-    - de Brigard, F. (2010). [If you like it, does it matter if it's real?](https://doi.org/10.1080/09515080903532290). _Philosophical Psychology_. 23(1): 43–57.
+
+    Kolber, A. (1994). [Mental Statism and the Experience Machine](https://ssrn.com/abstract=1322059). _Bard Journal of Social Sciences_. 3: 10–17.
+
+    Greene, J. D. (2001). A Psychological Perspective on Nozick’s Experience Machine and Parfit’s Repugnant Conclusion. _Presentation at the Society for Philosophy and Psychology Annual Meeting_. Cincinnati, OH.
+    
+    de Brigard, F. (2010). [If you like it, does it matter if it's real?](https://doi.org/10.1080/09515080903532290). _Philosophical Psychology_. 23(1): 43–57.
 
 [^16]:
     Adapted from Crisp, R. (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). _Philosophy and Phenomenological Research._ 73(3): 635–6.
@@ -268,14 +271,14 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 [^29]: It merely “may” because much depends on the details. It is entirely possible that becoming a well-satisfied teacher would also better serve _other_ desires that one has (in both outcomes), in which case even the necessitarian could reach the conclusion that this change would be in one’s overall best interests, despite giving no intrinsic weight to the contingent desire to be a teacher (and giving full weight to the past, and hence non-contingent, desire to be a firefighter). But there will be at least some cases in which impeding the change counterintuitively wins out because of the discounting.
 [^30]:
     Objective list theorists include:
-    - Finnis, J. (1980). _Natural Law and Natural Rights_. Oxford: Clarendon Press.
-    - Griffin, J. (1986). _Well-Being: Its Meaning, Measurement and Moral Importance_. Oxford: Clarendon Press.
-    - Fletcher, G. (2013). [A Fresh Start for an Objective List Theory of Well-Being](https://doi.org/10.1017/S0953820812000453). _Utilitas_. 25(2): 206–220.
-    - Lin, E. (2014). [Pluralism about Well-Being](https://doi.org/10.1111/phpe.12038). _Philosophical Perspectives_. 28(1): 127–154.
+    Finnis, J. (1980). _Natural Law and Natural Rights_. Oxford: Clarendon Press.
+    Griffin, J. (1986). _Well-Being: Its Meaning, Measurement and Moral Importance_. Oxford: Clarendon Press.
+    Fletcher, G. (2013). [A Fresh Start for an Objective List Theory of Well-Being](https://doi.org/10.1017/S0953820812000453). _Utilitas_. 25(2): 206–220.
+    Lin, E. (2014). [Pluralism about Well-Being](https://doi.org/10.1111/phpe.12038). _Philosophical Perspectives_. 28(1): 127–154.
 
     For an overview and discussion of value pluralism, including objective list theories, see:
-    - Mason, E. (2018). [Value Pluralism](https://plato.stanford.edu/entries/value-pluralism/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
-    - Lin, E. (2016). [Monism and Pluralism](https://philpapers.org/rec/LINMAP-4). In Guy Fletcher (ed.), _The Routledge Handbook of Philosophy of Well-Being_. Routledge, pp. 331–41.
+    Mason, E. (2018). [Value Pluralism](https://plato.stanford.edu/entries/value-pluralism/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+    Lin, E. (2016). [Monism and Pluralism](https://philpapers.org/rec/LINMAP-4). In Guy Fletcher (ed.), _The Routledge Handbook of Philosophy of Well-Being_. Routledge, pp. 331–41.
 
 [^31]: Though there would not seem any value in memorizing the phonebook or other trivial data, so this is best restricted to _significant_ knowledge, or knowledge of _important_ truths.
 [^32]: Recall our contrast of person A (with the excellent life) and person B who experiences a passive “replay” of A’s life, with an extra jolt of pleasure at the end. Although B’s life contains more pleasure, A’s life will contain more overall value if we also count loving relationships, achievement, etc., as basic welfare goods. While B’s life contains all the same experiences _as of_ loving relationships, achievement, etc., as A’s did, it is a passive “replay”, involving no actual choices or interactions. Therefore, B’s life includes none of A’s actual achievements or relationships.
