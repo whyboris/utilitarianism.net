@@ -63,7 +63,7 @@ Since some moral problems may be far more important than others, choosing what c
 
 > _"One thing that greatly matters is the failure of we rich people to prevent, as we so easily could, much of the suffering and many of the early deaths of the poorest people in the world."_ <br> \- Derek Parfit[^11]
 
-As explained in the chapter [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#cosmopolitanism), utilitarians endorse cosmopolitanism, according to which the geographical distance between an actor and someone they can help is not morally relevant in itself. Cosmopolitanism implies that we should look for effective interventions to help others, regardless of their nationality, where they live, or where they come from.
+As explained in the [previous chapter](/utilitarianism-and-practical-ethics#cosmopolitanism), utilitarians endorse cosmopolitanism, according to which the geographical distance between an actor and someone they can help is not morally relevant in itself. Cosmopolitanism implies that we should look for effective interventions to help others, regardless of their nationality, where they live, or where they come from.
 
 On this basis, global health and development may be considered a particularly high priority cause for utilitarians.[^12] Efforts in this area have a great track record of improving lives, making this cause appear especially tractable. For most of human history, it was the norm that around two out of every five children died before their fifth birthday, largely due to preventable causes. With improved sanitation and access to medical care, we have since made tremendous progress against child mortality, with global rates dropping to only 4.5% in 2015.[^13]
 
@@ -79,7 +79,7 @@ Other evidence-backed and cost-effective ways to help the very poor include givi
 
 Improving the welfare of farmed animals should be a high moral priority for utilitarians. The argument for this conclusion is simple: First, animals matter morally; second, humans cause a huge amount of unnecessary suffering to animals in factory farms; third, there are easy ways to reduce the number of farmed animals and the severity of their suffering. We will go over these premises one by one.
 
-First, as explained in the chapter [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#speciesism), utilitarians reject speciesism: discrimination against those who do not belong to a certain species. By the lights of utilitarianism, we should give equal moral consideration to the well-being of all individuals, regardless of what species they belong to.[^18]
+First, as explained in the [previous chapter](/utilitarianism-and-practical-ethics#speciesism), utilitarians reject speciesism: discrimination against those who do not belong to a certain species. By the lights of utilitarianism, we should give equal moral consideration to the well-being of all individuals, regardless of what species they belong to.[^18]
 
 Second, we find ourselves in a historically unprecedented situation, where every year humans kill around 70 billion land animals for food.[^19] The vast majority of these spend their lives in factory farms in horrendous conditions,[^20] crammed together with little space, without natural light or stimuli, and at constant risk of developing ailments such as weakened or broken bones, infections and organ failure. Most have their lives ended prematurely when they are slaughtered for food. These suffering animals are probably among the worst-off creatures on this planet.
 
@@ -95,7 +95,7 @@ In the US, only a few tens of millions of philanthropic dollars are donated ever
 
 > _"Classical Utilitarians (...) would claim, as Sidgwick did, that the destruction of mankind would be by far the greatest of all conceivable crimes. The badness of this crime would lie in the vast reduction of the possible sum of happiness."_ \- Derek Parfit[^23]
 
-The chapter [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#longtermism) introduced _strong longtermism_, according to which the most important determinant of the value of our actions today is how those actions affect the very long-run future. Strong longtermism follows from utilitarianism⁠—and a wide range of other moral viewpoints⁠—if we assume that some of our actions can meaningfully affect the long-run future and that we can estimate which effects are positive and which negative.[^24]
+The [previous chapter](/utilitarianism-and-practical-ethics#longtermism) introduced _strong longtermism_, according to which the most important determinant of the value of our actions today is how those actions affect the very long-run future. Strong longtermism follows from utilitarianism⁠—and a wide range of other moral viewpoints⁠—if we assume that some of our actions can meaningfully affect the long-run future and that we can estimate which effects are positive and which negative.[^24]
 
 By the lights of longtermism, the most important moral problems are the ones where we have the greatest leverage to positively affect future generations. In particular, we should be highly concerned with _existential risks_—such as all-out nuclear war, or extreme climate change, or an engineered global pandemic—which are defined as follows:
 
@@ -115,7 +115,7 @@ For a detailed discussion of existential risks and the moral importance of the l
 
 How can we best address the most important causes? In general, there are three courses of actions that are most impactful. First, we can donate money to charity. Second, we can work in a career that helps others. Last but not least, we can encourage other people to also engage in these actions.
 
-As pointed out in the chapter [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#respecting-commonsense-moral-norms), while utilitarians accept an obligation to try to do the most good they can, in practice they should almost always avoid violating commonsense moral prohibitions such as those against lying or killing. A good utilitarian would therefore generally do better by acting in accordance with commonsense moral virtues like integrity, trustworthiness, law-abidingness, and fairness and [not trying to assess each action on utilitarian terms](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism) case by case.
+As pointed out in the [previous chapter](/utilitarianism-and-practical-ethics#respecting-commonsense-moral-norms), while utilitarians accept an obligation to try to do the most good they can, in practice they should almost always avoid violating commonsense moral prohibitions such as those against lying or killing. A good utilitarian would therefore generally do better by acting in accordance with commonsense moral virtues like integrity, trustworthiness, law-abidingness, and fairness and [not trying to assess each action on utilitarian terms](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism) case by case.
 
 ### Charitable Giving
 
@@ -223,7 +223,7 @@ To do the most good they can, utilitarians often donate money to effective chari
 [^15]: GiveWell (2019). [Your Dollar Goes Further Overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
 [^16]: GiveWell (2021). [Our Top Charities](https://www.givewell.org/charities/top-charities).
 [^17]: Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.), pp. 143-144
-[^18]: As explained in the chapter [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#speciesism), giving equal moral consideration to all animals does not necessarily imply that we should treat them all equally.
+[^18]: As explained in the [previous chapter](/utilitarianism-and-practical-ethics#speciesism), giving equal moral consideration to all animals does not necessarily imply that we should treat them all equally.
 [^19]: Sanders, B. (2018). [Global Animal Slaughter Statistics And Charts](https://faunalytics.org/global-animal-slaughter-statistics-and-charts/). _Faunalytics_.
 [^20]: Witwicki, K. (2019). [Global Farmed & Factory Farmed Animals Estimates](https://www.sentienceinstitute.org/global-animal-farming-estimates). _Sentience Institute_.
 [^21]: Šimčikas, S. (2019). [Corporate campaigns affect 9 to 120 years of chicken life per dollar spent](https://forum.effectivealtruism.org/posts/L5EZjjXKdNgcm253H/corporate-campaigns-affect-9-to-120-years-of-chicken-life). _Effective Altruism Forum_.
