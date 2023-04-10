@@ -35,7 +35,7 @@ In addition, it is often justified for utilitarians to spend money or time to ac
 
 However, even if we accept that spending resources on ourselves can be of great instrumental importance for us to be able to benefit others, most of us must admit that we could be doing more. Utilitarianism remains a demanding ethical theory in practice, even when we account for the psychology of ourselves and others.
 
-A more robust accommodation may be secured by rejecting the ordinary notion of moral “requirement”. As [explained in an chapter 2](/types-of-utilitarianism#reconstructing-rightness-maximizing-satisficing-and-scalar-utilitarianism):
+A more robust accommodation may be secured by rejecting the ordinary notion of moral “requirement”. As [explained in chapter 2](/types-of-utilitarianism#reconstructing-rightness-maximizing-satisficing-and-scalar-utilitarianism):
 
 > Utilitarians agree that you _ideally_ ought to choose whatever action would best promote overall well-being. That's what you have the _most_ moral reason to do. But they do not recommend _blaming_ you every time you fall short of this ideal. As a result, many utilitarians consider it misleading to take their claims about what _ideally ought_ to be done as providing an account of moral “rightness” or “obligation” in the ordinary sense.
 

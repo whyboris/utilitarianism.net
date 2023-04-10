@@ -147,7 +147,7 @@ The next chapter discusses several of the most important objections to utilitari
 
 - Simon Keller (2013). _Partiality_. Princeton University Press.
 - Derek Parfit (1984). Part Two: Rationality and Time, _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Clarendon Press.
-- Andreas Mogensen (2019). [The only ethical argument for positive 𝛿?](https://globalprioritiesinstitute.org/andreas-mogensen-the-only-ethical-argument-for-positive-delta-2/). forthcoming in _Philosophical Studies_.
+- Andreas Mogensen (2022). [The only ethical argument for positive 𝛿?](https://globalprioritiesinstitute.org/andreas-mogensen-the-only-ethical-argument-for-positive-delta-2/). _Philosophical Studies_ 179: 2731–2750.
 - Troy Jollimore (2018). [Impartiality](https://plato.stanford.edu/entries/impartiality/)_. The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Robert Goodin (1988). [What is so special about our fellow countrymen?](https://dx.doi.org/10.1086/292998) _Ethics_ 98(4): 663–686.
 

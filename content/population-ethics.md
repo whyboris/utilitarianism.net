@@ -206,7 +206,7 @@ While many find this principle intuitive,[^51] it is notoriously difficult to pr
 
 The simplest such view holds that positive lives make _no difference in value_ to the outcome. But this falsely implies that creating lives with low positive welfare is just as good as creating an equal number of lives at a high welfare level. For example, consider the choice between creating either of two worlds inhabited by different sets of future people. In world A<sub>1</sub>, everyone has a wonderful life. In world A<sub>2</sub>, all people have lives that are much worse than in A<sub>1</sub> yet still positive.
 
-![Person affecting views and the assymetry](/img/population-ethics-7.png "Person affecting views and the assymetry")
+![Person affecting views and the asymmetry](/img/population-ethics-7.png "Person affecting views and the asymmetry")
 
 Clearly, we should prefer world A<sub>1</sub> over A<sub>2</sub>. However, the simplest version of the procreative asymmetry implies that both worlds are equally good—because they are not good at all.
 
@@ -214,7 +214,7 @@ In cases involving comparisons to empty worlds, the simple procreative asymmetry
 
 > **In world A, all but a few people have excellent lives. But some people suffer from an extremely rare disease that makes life not worth living. In world B, no people exist.**
 
-![Person affecting views and the assymetry](/img/population-ethics-8.png "Person affecting views and the assymetry")
+![Person affecting views and the asymmetry](/img/population-ethics-8.png "Person affecting views and the asymmetry")
 
 Most people would prefer world A over an empty world B. But the simple procreative asymmetry would seem, perversely, to favor the empty world B since it counts the many good lives in world A for nothing while the few bad lives dominate the decision. On this view, there are no worthwhile trade-offs between good and bad lives. It would be better, supposedly, to have no lives at all.
 
@@ -341,7 +341,7 @@ The next chapter discusses the most important implications of utilitarianism for
     Ord, T. (2020). Chapter 2: Existential Risk, in _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
 
 [^9]:
-    While Parfit deserves credit for raising the philosophical debate around the repugnant conclusion, arguably Henry Sidgwick noticed it much earlier, writing that “the point up to which, on utilitarian principles, population ought to be encouraged to increase, is not that at which the average happiness is the greatest possible (...) but that at which the happiness reaches its maximum”.
+    While Parfit deserves credit for raising the philosophical debate around the repugnant conclusion, arguably Henry Sidgwick noticed it much earlier, writing that “the point up to which, on utilitarian principles, population ought to be encouraged to increase, is not that at which the average happiness is the greatest possible... but that at which the happiness reaches its maximum”.
 
     Sidgwick, H. (1907). _[The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf)_, 7th edition. London: Macmillan, p. 418.
 

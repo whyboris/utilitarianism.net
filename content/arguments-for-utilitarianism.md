@@ -210,7 +210,7 @@ The next chapter discusses theories of well-being, or what counts as being good 
 [^22]: Beauchamp, T. (2020). Justifying Physician-Assisted Deaths. In LaFollette, H. (ed.), _Ethics in Practice: An Anthology_ (5th ed.), pp. 78–85.
 [^23]: Bennett, J. (1998). _[The Act Itself](https://oxford.universitypressscholarship.com/view/10.1093/019823791X.001.0001/acprof-9780198237914)_. Oxford University Press.
 [^24]:
-    In a similar vein, Derek Parfit wrote that “Some of us ask how much of our wealth we rich people ought to give to these poorest people. But that question wrongly assumes that our wealth is ours to give. This wealth is legally ours. But these poorest people have much stronger moral claims to some of this wealth. We ought to transfer to these people (...) at least ten per cent of what we earn”.
+    In a similar vein, Derek Parfit wrote that “Some of us ask how much of our wealth we rich people ought to give to these poorest people. But that question wrongly assumes that our wealth is ours to give. This wealth is legally ours. But these poorest people have much stronger moral claims to some of this wealth. We ought to transfer to these people... at least ten per cent of what we earn”.
 
     Parfit, D. (2017). _On What Matters, Volume Three_. Oxford University Press, pp. 436–37.
 

@@ -15,7 +15,7 @@ gradientBottom: "#236d9f"
 
 {{< TOC >}}
 
-What, morally, ought we to do? Utilitarianism gives an answer: we ought always to promote overall well-being. Compared to other ethical theories, utilitarianism is less deferential to ordinary thought and may tell us to make substantial changes to how we lead our lives. Perhaps more so than any other ethical theory, it has produced a fierce philosophical debate between its proponents and its critics.
+What, morally, ought we to do? Utilitarianism gives an answer: we ought always to promote overall well-being. Compared to other ethical theories, utilitarianism is less deferential to ordinary thought and may tell us to make substantial changes to how we lead our lives. Perhaps more so than any other ethical theory, it has produced a fierce philosophical debate between its [proponents](/arguments-for-utilitarianism/) and its [critics](/objections-to-utilitarianism/).
 
 ## Why Do We Need Moral Theories?
 
@@ -144,7 +144,7 @@ The next chapter discusses the four elements of utilitarian theories in greater 
 [^9]: This is most clear-cut in a fixed-population setting, where one’s actions do not affect the number or identity of people. For more complex cases, see the discussion of [population ethics](/population-ethics/) in Chapter 5.
 
 [^10]:
-     However, when economists use the term “[utility](https://en.wikipedia.org/wiki/Utility)” they typically refer, instead, to the numerical representation of an individual’s preferences.
+     However, when economists use the term “[utility](https://en.wikipedia.org/wiki/Utility)” they typically refer, instead, to the numerical representation of an [individual’s preferences](/theories-of-wellbeing/#desire-theories).
 
 [^11]:
      We use 'happiness' to refer to pleasant conscious experiences. [Chapter 4: Theories of Well-Being](/theories-of-wellbeing/) explores whether well-being may involve more than this.

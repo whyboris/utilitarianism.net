@@ -76,7 +76,7 @@ What does the minimal “do no harm” view of morality imply about the right wa
 
 If applied consistently, Singer’s principle has radical implications in the real world. He writes:
 
-> We are all in that situation of the person passing the shallow pond: we can all save lives of people, both children and adults, who would otherwise die, and we can do so at a very small cost to us: the cost of a new…shirt or a night out at a restaurant or concert, can mean the difference between life and death to more than one person somewhere in the world.[^10]
+> We are all in that situation of the person passing the shallow pond: we can all save lives of people, both children and adults, who would otherwise die, and we can do so at a very small cost to us: the cost of a new… shirt or a night out at a restaurant or concert, can mean the difference between life and death to more than one person somewhere in the world.[^10]
 
 If you accept that saving the drowning child is morally required, even at the cost of ruining your expensive suit, then morality may equally require you to donate an equivalent amount of money to save a child’s life via other means. And you _can_ save a child's life, just by donating a few thousand dollars to [GiveWell's top charities](https://www.givewell.org/charities/top-charities). (Or you can save a _[quality-adjusted life year](/glossary#qaly)_ by donating $100 or so.) If you would not think it okay to let a child drown when you have the ability to prevent it, moral consistency requires that you likewise refuse to let children die unnecessarily from poverty or preventable disease.
 

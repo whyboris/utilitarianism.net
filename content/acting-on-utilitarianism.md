@@ -75,7 +75,7 @@ Other evidence-backed and cost-effective ways to help the very poor include givi
 
 ### Farm Animal Welfare
 
-> _"The question is not, Can they reason? nor, Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being? (...) The time will come when humanity will extend its mantle over everything which breathes."_ <br> \- [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^17]
+> _"The question is not, Can they reason? nor, Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being? ... The time will come when humanity will extend its mantle over everything which breathes."_ <br> \- [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^17]
 
 Improving the welfare of farmed animals should be a high moral priority for utilitarians. The argument for this conclusion is simple: First, animals matter morally; second, humans cause a huge amount of unnecessary suffering to animals in factory farms; third, there are easy ways to reduce the number of farmed animals and the severity of their suffering. We will go over these premises one by one.
 
@@ -87,13 +87,13 @@ Third, we can significantly improve the lives of farmed animals for just pennies
 
 Yet despite the size of the problem, farm animal welfare is highly neglected.
 
-![Animal statistics](/img/Animal-Statistics.jpg "Animals tatistics")
+![Animal statistics](/img/Animal-Statistics.jpg "Animal statistics")
 
 In the US, only a few tens of millions of philanthropic dollars are donated every year to organizations that focus on improving the lives of farmed animals. The amount spent is tiny compared to other animal causes: there are 3,000 times more animals in factory farms than there are stray pets, but efforts to tackle factory farming get one-fiftieth of the funding spent to help stray animals.[^22]
 
 ### Existential Risk Reduction
 
-> _"Classical Utilitarians (...) would claim, as Sidgwick did, that the destruction of mankind would be by far the greatest of all conceivable crimes. The badness of this crime would lie in the vast reduction of the possible sum of happiness."_ \- Derek Parfit[^23]
+> _"Classical Utilitarians... would claim, as Sidgwick did, that the destruction of mankind would be by far the greatest of all conceivable crimes. The badness of this crime would lie in the vast reduction of the possible sum of happiness."_ \- Derek Parfit[^23]
 
 The chapter [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#longtermism) introduced _strong longtermism_, according to which the most important determinant of the value of our actions today is how those actions affect the very long-run future. Strong longtermism follows from utilitarianism⁠—and a wide range of other moral viewpoints⁠—if we assume that some of our actions can meaningfully affect the long-run future and that we can estimate which effects are positive and which negative.[^24]
 

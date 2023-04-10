@@ -97,7 +97,7 @@ The Anglican Utilitarian movement mentioned above was largely centered around th
 ## Prominent Susanna Newcome Quotes
 
 - “Happiness is a term for collected pleasure, or a sum total of pleasure.”[^6]
-- “A good being…is, one who wills and promotes the happiness of all mankind, as much as is in his power.”[^7]
+- “A good being… is, one who wills and promotes the happiness of all mankind, as much as is in his power.”[^7]
 - “God wills that man always will happiness, and promote it as far as he is able.”[^8]
 - “[A person] may say, he fed, he cloath’d, but when that which should feed and cloath, is to be parted with by himself, in that thing desired to be pardon’d; but God not only wills, but in all actings with sensible beings promotes their happiness: consequently man must, if he would be acceptable to God, promote happiness whenever he has the opportunity.”[^9]
 - “[An individual should] remember, when he makes the Creatures labour, to do it with mercy; to lay no grievous burden on them, and what is not proportion’d to their strength; to use them with no unnecessary severity; but to be as compassionate towards them, as is consistent with them being serviceable to him. And further, when he takes away their lives, he is to remember to do it in that manner which is least painful to them.”[^10]
