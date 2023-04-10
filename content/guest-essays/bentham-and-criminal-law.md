@@ -126,7 +126,7 @@ However, the main evidence we have are the voluminous manuscripts of the penal c
 
 To illustrate how informative these transcriptions are, I’ll discuss one interesting section in the manuscripts. It’s connected to a famous passage in IPML, which occurs in a footnote in the last chapter.[^17] Here Bentham states that many animals can feel pain (and presumably pleasure). He then applies the hedonistic theory of value to these experiences of animals. The pleasures and pains of animals, he says, [ought to be counted in utilitarian calculations](/guest-essays/utilitarianism-and-nonhuman-animals), even if they are not rational creatures—a point he doesn’t fully concede.
 
-> …suppose the case were otherwise [and animals are not rational], what would it avail? the question is not, Can they _reason_? nor, Can they _talk_? but, Can they _suffer_?[^18]
+> [S]uppose the case were otherwise [and animals are not rational], what would it avail? the question is not, Can they _reason_? nor, Can they _talk_? but, Can they _suffer_?[^18]
 
 Peter Singer drew attention to this passage, and rightly described it as “forward-looking”, meaning that it was far ahead of its time.[^19] Bentham’s focus in IPML was criminal law, and in this respect he was definitely ahead of his time. The note refers the reader to a section in the penal code on ‘cruelty to animals’, so we know that Bentham wanted to make such acts into offenses. The first modern law penalizing cruelty to certain animals was enacted in 1822 in England. Almost all countries eventually enacted such laws.
 

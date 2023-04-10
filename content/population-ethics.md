@@ -341,7 +341,7 @@ The next chapter discusses the most important implications of utilitarianism for
     Ord, T. (2020). Chapter 2: Existential Risk, in _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
 
 [^9]:
-    While Parfit deserves credit for raising the philosophical debate around the repugnant conclusion, arguably Henry Sidgwick noticed it much earlier, writing that “the point up to which, on utilitarian principles, population ought to be encouraged to increase, is not that at which the average happiness is the greatest possible (...) but that at which the happiness reaches its maximum”.
+    While Parfit deserves credit for raising the philosophical debate around the repugnant conclusion, arguably Henry Sidgwick noticed it much earlier, writing that “the point up to which, on utilitarian principles, population ought to be encouraged to increase, is not that at which the average happiness is the greatest possible... but that at which the happiness reaches its maximum”.
 
     Sidgwick, H. (1907). _[The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf)_, 7th edition. London: Macmillan, p. 418.
 

@@ -75,7 +75,7 @@ Other evidence-backed and cost-effective ways to help the very poor include givi
 
 ### Farm Animal Welfare
 
-> _"The question is not, Can they reason? nor, Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being? (...) The time will come when humanity will extend its mantle over everything which breathes."_ <br> \- [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^17]
+> _"The question is not, Can they reason? nor, Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being? ... The time will come when humanity will extend its mantle over everything which breathes."_ <br> \- [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^17]
 
 Improving the welfare of farmed animals should be a high moral priority for utilitarians. The argument for this conclusion is simple: First, animals matter morally; second, humans cause a huge amount of unnecessary suffering to animals in factory farms; third, there are easy ways to reduce the number of farmed animals and the severity of their suffering. We will go over these premises one by one.
 
@@ -93,7 +93,7 @@ In the US, only a few tens of millions of philanthropic dollars are donated ever
 
 ### Existential Risk Reduction
 
-> _"Classical Utilitarians (...) would claim, as Sidgwick did, that the destruction of mankind would be by far the greatest of all conceivable crimes. The badness of this crime would lie in the vast reduction of the possible sum of happiness."_ \- Derek Parfit[^23]
+> _"Classical Utilitarians... would claim, as Sidgwick did, that the destruction of mankind would be by far the greatest of all conceivable crimes. The badness of this crime would lie in the vast reduction of the possible sum of happiness."_ \- Derek Parfit[^23]
 
 The [previous chapter](/utilitarianism-and-practical-ethics#longtermism) introduced _strong longtermism_, according to which the most important determinant of the value of our actions today is how those actions affect the very long-run future. Strong longtermism follows from utilitarianism⁠—and a wide range of other moral viewpoints⁠—if we assume that some of our actions can meaningfully affect the long-run future and that we can estimate which effects are positive and which negative.[^24]
 
