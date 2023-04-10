@@ -5,7 +5,7 @@ draft: false
 menu: ["objections", "main"]
 weight: 100
 page: 0
-description: "This article explains four general strategies for responding to objections to utilitarianism, before introducing the most influential specific objections to the theory."
+description: "This chapter presents a toolkit of general strategies for responding to objections to utilitarianism, before introducing the most influential specific objections to the theory."
 gradientTop: "#1F2A70"
 gradientBottom: "#1F1E70"
 ---
@@ -17,7 +17,7 @@ gradientBottom: "#1F1E70"
 
 Utilitarianism is a very controversial moral theory. Critics have raised many objections against it, and its defenders have responded with attempts to defuse these objections.
 
-In the following, we explain and address the most influential objections to utilitarianism.
+While our presentation focuses on utilitarianism, it is worth noting that many of the objections below could also be taken to challenge [other forms of consequentialism](/near-utilitarian-alternatives) (just as many of the [arguments for utilitarianism](/arguments-for-utilitarianism/) also apply to these related views). This chapter explores objections to utilitarianism and closely related views in contrast to non-consequentialist approaches to ethics.
 
 ## General Ways of Responding to Objections to Utilitarianism
 
