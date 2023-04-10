@@ -173,7 +173,7 @@ The view that treats utilitarianism as both a criterion of rightness and a decis
 
 > **Multi-level utilitarianism is the view that individuals should usually follow tried-and-tested rules of thumb, or _heuristics_, rather than trying to calculate which action will produce the most well-being.**
 
-According to multi-level utilitarianism we should, under most circumstances, follow a set of simple moral heuristics—do not lie, steal, kill etc.—expecting that this will lead to the best outcomes overall. Often, we should use the commonsense moral norms and laws of our society as rules of thumb to guide our actions. Following these norms and laws usually leads to good outcomes, because they are based on society’s experience of what promotes overall well-being. The fact that honesty, integrity, keeping promises, and sticking to the law generally have good consequences explains why in practice [utilitarians value such things highly](/utilitarianism-and-practical-ethics/#respecting-commonsense-moral-norms), and use them to guide their everyday actions.[^22]
+According to multi-level utilitarianism we should, under most circumstances, follow a set of simple moral heuristics—do not lie, steal, kill etc.—expecting that this will lead to the best outcomes overall. Often, we should use the commonsense moral norms and laws of our society as rules of thumb to guide our actions. Following these norms and laws usually leads to good outcomes, because they are based on society’s experience of what promotes overall well-being. The fact that honesty, integrity, keeping promises, and sticking to the law generally have good consequences explains why in practice [utilitarians value such things highly](/utilitarianism-and-practical-ethics/#respecting-commonsense-moral-norms), and use them to guide their everyday actions, as further discussed in chapter 6.[^22]
 
 In contrast, to our knowledge no one has ever defended single-level utilitarianism, including the classical utilitarians.[^23] Deliberately calculating the expected consequences of our actions is error-prone and risks falling into decision paralysis.
 
@@ -304,7 +304,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 [^2]:
     For instance, Hooker writes: “The viability of this defense of rule-consequentialism against the incoherence objection may depend in part on what the argument for rule-consequentialism is supposed to be. The defense seems less viable if the argument for rule-consequentialism starts from a commitment to consequentialist assessment. For starting with such a commitment seems very close to starting from an overriding commitment to maximize the expected good. The defence against the incoherence objection seems far more secure, however, if the argument for rule-consequentialism is that this theory does better than any other moral theory at specifying an impartial justification for intuitively plausible moral rules.”
 
-    Hooker, B. (2016). [Rule Consequentialism](https://plato.stanford.edu/archives/win2016/entries/consequentialism-rule/), In Zalta, E. N. (ed.). _The Stanford Encyclopedia of Philosophy_.
+    Hooker, B. (2016). Rule Consequentialism. <https://plato.stanford.edu/archives/win2016/entries/consequentialism-rule/>. _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
 
 [^3]: Assigning further value to (for instance, more equal) distributions of well-being goes beyond welfarism, by treating something other than well-being itself as intrinsically valuable.
 [^4]: Sidgwick, H. (1874). _[The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf)_. Bennett, J. (ed.), p. 186.
@@ -368,7 +368,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 
     Sidgwick, H. (1874). _[The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf)_. Bennett, J. (ed.), p. 201.
 
-[^24]: Sinnott-Armstrong, W. (2019). [Consequentialism](https://plato.stanford.edu/archives/sum2019/entries/consequentialism/), _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
+[^24]: Sinnott-Armstrong, W. (2019). Consequentialism <https://plato.stanford.edu/archives/sum2019/entries/consequentialism/>. _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
 [^25]:
     Advocates of global consequentialism have framed it as marking a departure from traditional act consequentialism, but there has been subsequent dispute over this claim. For advocacy of global consequentialism as a distinct view, see:
 

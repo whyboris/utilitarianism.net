@@ -35,7 +35,7 @@ In addition, it is often justified for utilitarians to spend money or time to ac
 
 However, even if we accept that spending resources on ourselves can be of great instrumental importance for us to be able to benefit others, most of us must admit that we could be doing more. Utilitarianism remains a demanding ethical theory in practice, even when we account for the psychology of ourselves and others.
 
-A more robust accommodation may be secured by rejecting the ordinary notion of moral “requirement”. As [explained in an chapter 2](/types-of-utilitarianism#reconstructing-rightness-maximizing-satisficing-and-scalar-utilitarianism):
+A more robust accommodation may be secured by rejecting the ordinary notion of moral “requirement”. As [explained in chapter 2](/types-of-utilitarianism#reconstructing-rightness-maximizing-satisficing-and-scalar-utilitarianism):
 
 > Utilitarians agree that you _ideally_ ought to choose whatever action would best promote overall well-being. That's what you have the _most_ moral reason to do. But they do not recommend _blaming_ you every time you fall short of this ideal. As a result, many utilitarians consider it misleading to take their claims about what _ideally ought_ to be done as providing an account of moral “rightness” or “obligation” in the ordinary sense.
 
@@ -84,7 +84,7 @@ Finally, proponents of utilitarianism may simply “bite the bullet” and accep
 - Susan Wolf (1982). [Moral Saints](https://www.jstor.org/stable/2026228?seq=1). _The Journal of Philosophy_. 79(8): 419–434.
 
 [^1]: Cf. Wolf, S. (1982). [Moral Saints](https://www.jstor.org/stable/2026228). _The Journal of Philosophy_. _79_(8): 419–439.
-[^2]: GiveWell (2019). [Against Malaria Foundation](https://www.givewell.org/charities/amf).
+[^2]: GiveWell (2019). [Against Malaria Foundation](https://www.givewell.org/charities/amf), <https://www.givewell.org/charities/amf>.
 [^3]: Sobel, D. (2007). [The impotence of the demandingness objection](http://hdl.handle.net/2027/spo.3521354.0007.008)._Philosophers' Imprint_, 7: 1–17, p.3.
 [^4]:
     Sobel continues: “What must the Objection’s understanding of the demands of a moral theory be such that that would make sense? There is an obvious answer that has appealed even to prominent critics of the Objection — that the costs of what a moral theory requires are more demanding than the costs of what a moral theory permits to befall the unaided, size of cost held constant. The moral significance of the distinction between costs a moral theory requires and costs it permits must already be in place before the Objection gets a grip. But this is for the decisive break with Consequentialism to have already happened before we feel the pull of the Demandingness intuitions.”

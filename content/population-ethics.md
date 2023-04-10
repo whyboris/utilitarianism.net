@@ -107,7 +107,7 @@ However, the average view has very little support among moral philosophers since
 
 First, consider a world inhabited by a single person enduring excruciating suffering. The average view entails that we could improve this world by creating a million new people whose lives were also filled with excruciating suffering if the suffering of the new people was ever-so-slightly less bad than the suffering of the original person.[^26]
 
-Second, the average view entails the _sadistic conclusion_:[^27]
+Second, the average view entails the (misleadingly named) _sadistic conclusion_:[^27]
 
 > **It can sometimes be better to create lives with negative well-being than to create lives with positive well-being from the same starting point, all else equal.**
 
@@ -206,7 +206,7 @@ While many find this principle intuitive,[^51] it is notoriously difficult to pr
 
 The simplest such view holds that positive lives make _no difference in value_ to the outcome. But this falsely implies that creating lives with low positive welfare is just as good as creating an equal number of lives at a high welfare level. For example, consider the choice between creating either of two worlds inhabited by different sets of future people. In world A<sub>1</sub>, everyone has a wonderful life. In world A<sub>2</sub>, all people have lives that are much worse than in A<sub>1</sub> yet still positive.
 
-![Person affecting views and the assymetry](/img/population-ethics-7.png "Person affecting views and the assymetry")
+![Person affecting views and the asymmetry](/img/population-ethics-7.png "Person affecting views and the asymmetry")
 
 Clearly, we should prefer world A<sub>1</sub> over A<sub>2</sub>. However, the simplest version of the procreative asymmetry implies that both worlds are equally good—because they are not good at all.
 
@@ -214,7 +214,7 @@ In cases involving comparisons to empty worlds, the simple procreative asymmetry
 
 > **In world A, all but a few people have excellent lives. But some people suffer from an extremely rare disease that makes life not worth living. In world B, no people exist.**
 
-![Person affecting views and the assymetry](/img/population-ethics-8.png "Person affecting views and the assymetry")
+![Person affecting views and the asymmetry](/img/population-ethics-8.png "Person affecting views and the asymmetry")
 
 Most people would prefer world A over an empty world B. But the simple procreative asymmetry would seem, perversely, to favor the empty world B since it counts the many good lives in world A for nothing while the few bad lives dominate the decision. On this view, there are no worthwhile trade-offs between good and bad lives. It would be better, supposedly, to have no lives at all.
 
@@ -478,6 +478,7 @@ The next chapter discusses the most important implications of utilitarianism for
 [^55]: Ord, T. (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing. See especially note 25 of the Appendices.
 [^56]:
     In addition to existential risk reduction, another promising strategy to improve the long-term future is “moral circle expansion”: increasing the moral concern for members of some outlying groups to include, ideally, all sentient beings.
+
     Anthis, J. & Paez, E. (2021). [Moral circle expansion: A promising strategy to impact the far future](https://doi.org/10.1016/j.futures.2021.102756). _Futures_, 130.
 
 [^57]: This assumption is plausible: with continued technological, social, and moral progress, the average quality of life in the future will likely increase further, as it has for hundreds of years. Only an implausibly high critical level—on which even the value of the average life in the present generation is negative—may render invalid the conclusion that existential risk reduction should be a priority.
@@ -485,7 +486,8 @@ The next chapter discusses the most important implications of utilitarianism for
 [^59]: If what counts as a “large” population is much greater than the current population, this further increases the importance assigned by variable values theories to avoiding existential risks since they approximate the total view for small populations.
 [^60]:
     For instance, Althaus & Gloor (2018) argue that reducing risks of astronomical future suffering should be an ethical priority.
-    Althaus, D. & Gloor, L. (2018). [Reducing Risks of Astronomical Suffering: a Neglected Priority](https://longtermrisk.org/reducing-risks-of-astronomical-suffering-a-neglected-priority/). _Center on Long-Term Risk_.
+
+    Althaus, D. & Gloor, L. (2018). Reducing Risks of Astronomical Suffering: a Neglected Priority. <https://longtermrisk.org/reducing-risks-of-astronomical-suffering-a-neglected-priority/>. _Center on Long-Term Risk_.
 
 [^61]:
     Hilary Greaves and Toby Ord argue that (given a plausible approach for dealing with moral uncertainty), as the expected number of future lives grows, this “systematically pushes one toward choosing the option preferred by the Total View and critical-level views, even if one’s credence in those theories is low”.

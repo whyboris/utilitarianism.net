@@ -77,7 +77,7 @@ But there may be other, closely related, objections that people sometimes have i
 - Derek Parfit (2011). _On What Matters: Vol 1_. Oxford University Press. Chapter 9: Merely as a Means.
 
 [^1]: Strictly speaking, this objection applies to all (aggregative) consequentialist theories. The responses we offer on behalf of utilitarianism in this discussion would equally apply in defense of other consequentialist theories.
-[^2]: Kant, Immanuel (1785). _[Groundwork of the Metaphysics of Morals](https://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf)_, translated by Jonathan Bennett.
+[^2]: Kant, Immanuel (1785). _[Groundwork of the Metaphysics of Morals](https://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf)_, translated by Jonathan Bennett. <https://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf>
 [^3]: Specifically, they would be willing to sacrifice goods that added up to an equal or lesser loss of well-being value, in order to relieve this burden.
 [^4]: Cf. Parfit, D. (2011). _On What Matters: Vol 1_. Oxford University Press. Chapter 9: Merely as a Means.
 [^5]: Kamm, F. (1998). [Is it right to save the greater number?](https://oxford.universitypressscholarship.com/view/10.1093/0195119118.001.0001/acprof-9780195119114-chapter-7#) in _Morality, Mortality Volume I: Death and Whom to Save From It._ Oxford University Press, p. 148.

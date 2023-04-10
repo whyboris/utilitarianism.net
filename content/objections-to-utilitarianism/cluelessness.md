@@ -17,7 +17,7 @@ Utilitarianism directs us to promote overall well-being. But we cannot be certai
 
 ## The Epistemic Objection to Consequentialism
 
-James Lenman’s [Consequentialism and Cluelessness](https://doi.org/10.1111/j.1088-4963.2000.00342.x) presents an influential _epistemic objection_ against [consequentialism](/types-of-utilitarianism#consequentialism) (and hence, by extension, utilitarianism). We may reconstruct the argument roughly as follows:
+James Lenman’s [Consequentialism and Cluelessness](https://doi.org/10.1111/j.1088-4963.2000.00342.x) presents an influential _epistemic objection_ against [consequentialism](/types-of-utilitarianism#consequentialism) (and hence, by extension, utilitarianism).[^0] We may reconstruct the argument roughly as follows:
 
 > P1. We have no idea what the long-term effects of any of our actions will be.
 >
@@ -87,7 +87,7 @@ All plausible theories should agree that overall consequences are _among_ the co
 
 ## Conclusion
 
-There is reason to doubt whether concerns about cluelessness really present an _objection_ to utilitarianism at all. Cluelessness may just be a sad implication of the circumstances in which we find ourselves. But considerations of expected value, mediated via plausible heuristics, may continue to guide us nonetheless. We might reasonably take near-term expected value at face value, even if we've no idea about the long-term consequences of the acts in question. Moreover, even if long-term cluelessness swamps near-term expected value, there may still be some options—like working to reduce existential risk—that have appreciably positive long-run expected value. So utilitarianism need not leave us entirely clueless about [how to act](/acting-on-utilitarianism), after all.
+There is reason to doubt whether concerns about cluelessness really present an _objection_ to utilitarianism at all. Cluelessness may just be a sad implication of the circumstances in which we find ourselves. But considerations of expected value, mediated via plausible heuristics, may continue to guide us nonetheless. We might reasonably take near-term expected value at face value, even if we've no idea about the long-term consequences of the acts in question. Moreover, even if long-term cluelessness swamps near-term expected value, there may still be some options—like working to reduce existential risk—that have appreciably positive long-run expected value. So utilitarianism need not leave us entirely clueless about [how to act](/acting-on-utilitarianism), after all. (See chapter 7.)
 
 {{< next-page-objection >}}
 
@@ -103,6 +103,8 @@ There is reason to doubt whether concerns about cluelessness really present an _
 - Andreas Mogensen (2021). [Maximal Cluelessness](https://doi.org/10.1093/pq/pqaa021). _The Philosophical Quarterly_, 71: 141–162.
 - Andreas Mogensen & William MacAskill (2021). [The Paralysis Argument](http://hdl.handle.net/2027/spo.3521354.0021.015). _Philosophers' Imprint_ 21 (15): 1–17.
 - David Thorstad, and Andreas Mogensen (2020). [Heuristics for clueless agents: how to get away with ignoring what matters most in ordinary decision-making](https://globalprioritiesinstitute.org/david-thorstad-and-andreas-mogensen-heuristics-for-clueless-agents-how-to-get-away-with-ignoring-what-matters-most-in-ordinary-decision-making/). _GPI Working Paper_ 2-2020.
+
+[^0]: James Lenman (2000). [Consequentialism and Cluelessness](https://doi.org/10.1111/j.1088-4963.2000.00342.x). _Philosophy and Public Affairs_, 29(4): 342–370.
 
 [^1]:
      That is, the considerations that count in favor of acting one way rather than another.
@@ -122,7 +124,7 @@ There is reason to doubt whether concerns about cluelessness really present an _
 [^6]:
      He offers four objections in all. The fourth presupposes the second, and so is addressed by our response to that. The third objects that we need to distinguish two very different reasons for judging an act to lack expected value: (i) we might _know_ that it makes no difference, or (ii) we might be _clueless_ about whether it is incredibly good or incredibly bad. Given that these two epistemic states are so different, Lenman reasons, it makes no sense to treat them the same way.
 
-    It's true that this is a significant difference. But it's a mistake to assume that anything morally significant must change how we assess _acts_, when often _attitudes_ are better suited to reflect such significance. We should feel vastly more angst and ambivalence—and strongly wish that more information was available—in a high-stakes “total uncertainty” case than in a “known zero” case. That seems sufficient to capture the difference.
+     It's true that this is a significant difference. But it's a mistake to assume that anything morally significant must change how we assess _acts_, when often _attitudes_ are better suited to reflect such significance. We should feel vastly more angst and ambivalence—and strongly wish that more information was available—in a high-stakes “total uncertainty” case than in a “known zero” case. That seems sufficient to capture the difference.
 
 [^7]:
      Greaves (2016), section IV.

@@ -99,7 +99,7 @@ There could be astronomically more people in the future than in the present gene
 
 > **Strong longtermism is the view that the most important determinant of the value of our actions today is how those actions affect the very long-run future.**
 
-Strong longtermism is implied by most plausible forms of utilitarianism[^17] if we assume that some of our actions can meaningfully affect the long-term future and that we can estimate which effects are positive and which negative. For example, there are risks to the continued survival of the human race, including from nuclear war, extreme climate change, man-made pathogens, and artificial general intelligence.[^18] If we believe that the continued survival of the human race is positive in value, then reducing the risk of human extinction is a way of positively influencing the very long-run future.[^19] A discussion of longtermism would go beyond the scope of this chapter, but to learn more, we recommend reading this [academic paper](https://globalprioritiesinstitute.org/wp-content/uploads/2019/Greaves_MacAskill_The_Case_for_Strong_Longtermism.pdf).[^20]
+Strong longtermism is implied by most plausible forms of utilitarianism[^17] if we assume that some of our actions can meaningfully affect the long-term future and that we can estimate which effects are positive and which negative. For example, there are risks to the continued survival of the human race, including from nuclear war, extreme climate change, man-made pathogens, and artificial general intelligence.[^18] If we believe that the continued survival of the human race is positive in value, then reducing the risk of human extinction is a way of positively influencing the very long-run future.[^19] A discussion of longtermism would go beyond the scope of this chapter, but to learn more, we recommend reading The Case for Strong Longtermism.[^20]
 
 ## Respecting Commonsense Moral Norms
 
@@ -207,7 +207,7 @@ Though utilitarians should try to use their lives to do the most good they can, 
 [^17]: Cf. Greaves, H. & MacAskill, W. (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_. Section 4.1.
 [^18]: For a detailed discussion of existential risks and the moral importance of the long-run future of humanity, see Ord, T. (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
 [^19]: For a classic paper on the importance of reducing existential risk, see Bostrom, N. (2013). [Existential Risk Prevention as Global Priority](http://www.existential-risk.org/concept.pdf). _Global Policy_. 4 (1): 15–3.
-[^20]: Note that Professor William MacAskill, coauthor of this website, is also a coauthor of this paper.
+[^20]: Greaves, H. & MacAskill, W. (2019). The Case for Strong Longtermism <https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/>. _Global Priorities Institute_.
 [^21]: As [chapter 2 explains](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism): "[T]o our knowledge no one has ever defended single-level utilitarianism [i.e., using the utilitarian criterion as a universal decision procedure], including the classical utilitarians. Deliberately calculating the expected consequences of our actions is error-prone and risks falling into decision paralysis."
 
 [^22]:

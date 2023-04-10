@@ -198,7 +198,8 @@ Good luck! And remember to cite your sources.
 
 [^6]:
     Someone sufficiently desperate to escape the argument might try to reject the first premise by claiming that _overpopulation_ is such a problem that we should not seek to save lives after all (because lives saved add to overpopulation, thus increasing overall suffering). But there are a number of reasons why this is badly misguided.
-    First, this claim is a myth: empirically, saving lives in poor countries does not lead to overpopulation. See: Melinda Gates (2014). [Saving Lives Does Not Lead to Overpopulation](https://thebreakthrough.org/issues/conservation/saving-lives-does-not-lead-to-overpopulation). _The Breakthrough Institute_; Hans Rosling. [Will saving poor children lead to overpopulation?](https://www.gapminder.org/answers/will-saving-poor-children-lead-to-overpopulation/) _Gapminder Foundation_.
+
+    First, this claim is a myth: empirically, saving lives in poor countries does not lead to overpopulation. See: (i) Melinda Gates (2014). Saving Lives Does Not Lead to Overpopulation. <https://thebreakthrough.org/issues/conservation/saving-lives-does-not-lead-to-overpopulation>. _The Breakthrough Institute_; (ii) Hans Rosling. Will saving poor children lead to overpopulation? <https://www.gapminder.org/answers/will-saving-poor-children-lead-to-overpopulation/> _Gapminder Foundation_.
 
     Second, someone who really believed this claim would also need to advocate for shutting down hospitals, letting serial killers go free, etc. Few would be willing to consistently hold the view that there is no point to saving innocent lives. Letting people die unnecessarily seems an atrocious way to attempt to counteract overpopulation.
 
@@ -209,7 +210,7 @@ Good luck! And remember to cite your sources.
 [^7]: Though, as we'll see below, the drowning child scenario might help to illuminate the boundaries of morality's demands here.
 [^8]: Or, even more minimally, to simply _not violate anyone's rights_. Either way, philosophers call this a _negative_ duty—a duty to _not_ do a certain action—in contrast to _positive_ duties to _do_ a certain action.
 [^9]: Singer, P. (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243, p. 231.
-[^10]: Singer, P. (1997). [The Drowning Child and the Expanding Circle](https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist). _New Internationalist_. ([archive](https://web.archive.org/web/20210614021936/https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist))
+[^10]: Singer, P. (1997). The Drowning Child and the Expanding Circle. <https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist>. _New Internationalist_.
 [^11]: Of course, the relevant question is not the psychological one of what someone would be willing to choose, but the moral one of what choice is truly justifiable. But it is often by thinking through such a choice from the inside that we form our moral beliefs about which choices are morally permissible.
 [^12]: See also Chapter 3: Common Objections to Giving, in Singer, P. (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_.
 [^13]: Though for a competing view, see Kamm, F.M. (1999). Famine Ethics: The Problem of Distance in Morality and Singer’s Ethical Theory, in _Singer and His Critics_, ed. Dale Jamieson. Oxford: Blackwell: 174–203.

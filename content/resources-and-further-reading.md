@@ -14,24 +14,22 @@ gradientBottom: "#012147"
 
 ## Chapter 1: Introduction to Utilitarianism
 
-Resources for [Introduction to Utilitarianism](/introduction-to-utilitarianism):
-
 ### Introduction
 
-- [Utilitarianism: Crash Course Philosophy #36](https://youtu.be/-a739VjqdSI)
+- Utilitarianism: Crash Course Philosophy #36 <https://youtu.be/-a739VjqdSI>
 - Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford: Oxford University Press.
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. London: Continuum.
-- Kwame Anthony Appiah. [What is Utiiltarianism?](https://www.youtube.com/watch?v=wd_peZ-zNwo), Royal Institute of Philosophy _15-Minute Masterclass_.
+- Kwame Anthony Appiah. What is Utiiltarianism? <https://www.youtube.com/watch?v=wd_peZ-zNwo>, Royal Institute of Philosophy _15-Minute Masterclass_.
 
 ### The Classics
 
-- Jeremy Bentham (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf).
-- John Stuart Mill (1863). [Utilitarianism](/books/utilitarianism-john-stuart-mill/1).
-- Henry Sidgwick (1874). [The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf).
+- Jeremy Bentham (1789). An Introduction to the Principles of Morals and Legislation. <https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf>.
+- John Stuart Mill (1863). Utilitarianism. <https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/1>.
+- Henry Sidgwick (1874). The Methods of Ethics. <https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf>.
 
 ### Further Reading
 
-- Julia Driver (2014). [The History of Utilitarianism](https://plato.stanford.edu/entries/utilitarianism-history/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Julia Driver (2014). The History of Utilitarianism. <https://plato.stanford.edu/entries/utilitarianism-history/>. _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Bart Schultz (2017). _[The Happiness Philosophers: The Lives and Works of the Great Utilitarians](https://www.jstor.org/stable/j.ctt1vwmggk)_. Princeton: Princeton University Press.
 - James Crimmins (2017). _[The Bloomsbury Encyclopedia of Utilitarianism](https://www.bloomsbury.com/uk/the-bloomsbury-encyclopedia-of-utilitarianism-9781350021693/)_. Bloomsbury.
 - Derek Parfit (2017). _[On What Matters](https://en.wikipedia.org/wiki/On_What_Matters)_. Oxford: Oxford University Press.
@@ -41,24 +39,22 @@ Resources for [Introduction to Utilitarianism](/introduction-to-utilitarianism):
 
 ## Chapter 2: Elements and Types of Utilitarianism
 
-Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
-
 ### Consequentialism
 
 - Julia Driver (2011). _[Consequentialism, New Problems of Philosophy](https://www.routledge.com/Consequentialism/Driver/p/book/9780415772587)_. José Luis Bermúdez (ed.). Abingdon: Routledge.
 - Samuel Scheffler (1994). _[The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions](https://www.oxfordscholarship.com/view/10.1093/0198235119.001.0001/acprof-9780198235118)_. Oxford: Clarendon Press.
-- Walter Sinnott-Armstrong (2015). [Consequentialism](https://plato.stanford.edu/entries/consequentialism/). _Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Walter Sinnott-Armstrong (2015). Consequentialism <https://plato.stanford.edu/entries/consequentialism/>. _Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 
 ### Welfarism & Theories of Well-Being
 
-- Roger Crisp (2017). [Well-Being](https://plato.stanford.edu/entries/well-being/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Roger Crisp (2017). Well-Being <https://plato.stanford.edu/entries/well-being/>. _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Nils Holtug (2003). [Welfarism – The Very Idea](https://www.cambridge.org/core/journals/utilitas/article/welfarism-the-very-idea/A30F2C8C26CF4AA19D9984BBC8FC9DA3). _Utilitas_. 15(2): 151–174.
 - Shelly Kagan (1992). [The Limits of Well-being](https://doi.org/10.1017/S0265052500001461). Social Philosophy & Policy. 9(2): 169–189.
 
 ### Impartiality
 
 - Robert Goodin (1988). [What is so special about our fellow countrymen?](https://dx.doi.org/10.1086/292998) _Ethics_, 98 (4): 663-686.
-- Troy Jollimore (2018). [Impartiality](https://plato.stanford.edu/entries/impartiality/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Troy Jollimore (2018). Impartiality <https://plato.stanford.edu/entries/impartiality/>. _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 
 ### Aggregationism
 
@@ -72,7 +68,7 @@ Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 - Fred Feldman (2004). _[Pleasure and the Good Life: Concerning the Nature, Varieties and Plausibility of Hedonism](https://doi.org/10.1093/019926516X.001.0001)_. Oxford University Press.
 - Shelly Kagan (1992).[The Limits of Well-being](https://doi.org/10.1017/S0265052500001461). Social Philosophy & Policy. 9(2): 169–189.
 - Ole Martin Moen (2016). [An Argument for Hedonism](https://link.springer.com/article/10.1007/s10790-015-9506-9). _The Journal of Value Inquiry_. 50: 267–281.
-- Andrew Moore (2019). [Hedonism](https://plato.stanford.edu/archives/win2019/entries/hedonism/), _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Andrew Moore (2019). Hedonism. <https://plato.stanford.edu/archives/win2019/entries/hedonism/>. _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 
 ### Population Ethics
 
@@ -116,8 +112,6 @@ Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 
 ## Chapter 3: Arguments for Utilitarianism
 
-Resources for [Arguments for Utilitarianism](/arguments-for-utilitarianism):
-
 - John Broome (1987). [Utilitarianism and Expected Utility](https://doi.org/10.2307/2026999), _The Journal of Philosophy_ 84 (8): 405–422.
 - John Broome (1991). _Weighing Goods: Equality, Uncertainty and Time_. Blackwell.
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. Continuum.
@@ -132,11 +126,9 @@ Resources for [Arguments for Utilitarianism](/arguments-for-utilitarianism):
 
 ## Chapter 4: Theories of Well-Being
 
-Resources for [Theories of Well-Being](/theories-of-wellbeing):
-
 ### Introduction
 
-- Roger Crisp (2017). [Well-Being](https://plato.stanford.edu/entries/well-being/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Roger Crisp (2017). Well- <https://plato.stanford.edu/entries/well-being/>. _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Shelly Kagan (1992). [The Limits of Well-being](https://doi.org/10.1017/S0265052500001461). Social Philosophy & Policy. 9(2): 169–189.
 - Eden Lin (2022). [Well‐being, part 1: The concept of well‐being](https://doi.org/10.1111/phc3.12812). _Philosophy Compass_. 17(2).
 - Eden Lin (2022). [Well‐being, part 2: Theories of well‐being](https://doi.org/10.1111/phc3.12813). _Philosophy Compass_. 17(2).
@@ -149,7 +141,7 @@ Resources for [Theories of Well-Being](/theories-of-wellbeing):
 
 ### Hedonism
 
-- Andrew Moore (2019). [Hedonism](https://plato.stanford.edu/entries/hedonism/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Andrew Moore (2019). Hedonism. <https://plato.stanford.edu/entries/hedonism/>. _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Ole Martin Moen (2016). [An Argument for Hedonism](https://doi.org/10.1007/s10790-015-9506-9). _The Journal of Value Inquiry_. 50: 267–281 (2016).
 - Ivar Labukt (2012). [Hedonic Tone and the Heterogeneity of Pleasure](https://doi.org/10.1017/S0953820812000052). _Utilitas_. 24(2): 172–199.
 - Roger Crisp (2006). [Hedonism Reconsidered](https://doi.org/10.2307/40041013). _Philosophy and Phenomenological Research_. 73(3): 619–645.
@@ -173,8 +165,6 @@ Resources for [Theories of Well-Being](/theories-of-wellbeing):
 
 ## Chapter 5: Population Ethics
 
-Resources for [Population Ethics](/population-ethics):
-
 ### General Discussions of Population Ethics
 
 - Gustaf Arrhenius (2000). [Future Generations: A Challenge for Moral Theory](http://www.diva-portal.org/smash/get/diva2:170236/FULLTEXT01.pdf). PhD Dissertation, Uppsala University.
@@ -184,7 +174,7 @@ Resources for [Population Ethics](/population-ethics):
 
 ### The Total View and Repugnant Conclusion
 
-- Gustaf Arrhenius, Jesper Ryberg, & Torbjörn Tännsjö (2017). [The Repugnant Conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Gustaf Arrhenius, Jesper Ryberg, & Torbjörn Tännsjö (2017). The Repugnant Conclusion. <https://plato.stanford.edu/entries/repugnant-conclusion/>. _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Johan E. Gustafsson (2022). [Our Intuitive Grasp of the Repugnant Conclusion](http://johanegustafsson.net/papers/our-intuitive-grasp-of-the-repugnant-conclusion.pdf). In Gustaf Arrhenius, Krister Bykvist, Tim Campbell, and Elizabeth Finneron-Burns (eds.), _The Oxford Handbook of Population Ethics_. Oxford University Press.
 - Spears, D. & Budolfson, M. (2021). [Repugnant conclusions](https://doi.org/10.1007/s00355-021-01321-2). _Social Choice and Welfare_. 28.
 - Michael Huemer (2008). [In Defence of Repugnance](https://doi.org/10.1093/mind/fzn079). _Mind_. 117(468): 899–933.
@@ -240,11 +230,9 @@ Resources for [Population Ethics](/population-ethics):
 
 ## Chapter 6: Utilitarianism and Practical Ethics
 
-Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics):
-
 ### Is There a Difference Between Doing and Allowing Harm?
 
-- Fiona Woollard & Frances Howard-Snyder (2016). [Doing vs. Allowing Harm](https://plato.stanford.edu/entries/doing-allowing/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Fiona Woollard & Frances Howard-Snyder (2016). Doing vs. Allowing Harm. <https://plato.stanford.edu/entries/doing-allowing/>. _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Jonathan Bennett (1995). _The Act Itself_. Oxford University Press.
 
 ### The Expanding Moral Circle
@@ -254,23 +242,23 @@ Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practica
 
 ### Cosmopolitanism: Expanding the Moral Circle Across Geography
 
-- [Poverty & Our Response to It: Crash Course Philosophy #44](https://youtu.be/D5sknLy7Smo)
+- Poverty & Our Response to It: Crash Course Philosophy #44 <https://youtu.be/D5sknLy7Smo>.
 - Peter Singer (2009). [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/). New York: Penguin Random House. (the book is available for free download)
 - Peter Singer (1972). [Famine, Affluence, and Morality](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Singer_1972Famine.pdf). _Philosophy & Public Affairs_. 1(2): 229–243.
 - Samuel Scheffler (1999). [Conceptions of Cosmopolitanism](https://www.cambridge.org/core/journals/utilitas/article/conceptions-of-cosmopolitanism/28D86759086069E2A97FF730F13C274D). _Utilitas_. 11(3): 255–276.
 
 ### Anti-Speciesism: Expanding the Moral Circle Across Species
 
-- [Non-Human Animals: Crash Course Philosophy #42](https://youtu.be/y3-BX-jN_Ac)
+- Non-Human Animals: Crash Course Philosophy #42 <https://youtu.be/y3-BX-jN_Ac>.
 - Peter Singer (1975). _[Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>)_. New York: HarperCollins.
 - Jeff McMahan (2002). Animals. In R. G. Frey and Christopher Wellman (eds.), _The Blackwell Companion to Applied Ethics_. Oxford: Blackwell, pp. 525–536.
-- Jeff Sebo (2019). [A Utilitarian Case for Animal Rights](https://www.youtube.com/watch?v=vELWCTgA9oA). _Effective Altruism Global_.
+- Jeff Sebo (2019). A Utilitarian Case for Animal Rights <https://www.youtube.com/watch?v=vELWCTgA9oA>. _Effective Altruism Global_.
 
 ### Longtermism: Expanding the Moral Circle Across Time
 
 - Toby Ord (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
-- Hilary Greaves & William MacAskill (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_.
-- Nick Beckstead (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/file/d/0B8P94pg6WYCIc0lXSUVYS1BnMkE/view?resourcekey=0-nk6wM1QIPl0qWVh2z9FG4Q)_. PhD Dissertation, Rutgers University.
+- Hilary Greaves & William MacAskill (2019). The Case for Strong Longtermism. <https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/>. _Global Priorities Institute_.
+- Nick Beckstead (2013). _On the Overwhelming Importance of Shaping the Far-Future_. <https://drive.google.com/file/d/0B8P94pg6WYCIc0lXSUVYS1BnMkE/view?resourcekey=0-nk6wM1QIPl0qWVh2z9FG4Q>. PhD Dissertation, Rutgers University.
 - Nick Bostrom (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://nickbostrom.com/astronomical/waste.pdf). _Utilitas_. 15(3): 308–314.
 - William MacAskill (2022). _[What We Owe the Future](https://whatweowethefuture.com/)_. Basic Books.
 
@@ -285,8 +273,6 @@ Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practica
 
 ## Chapter 7: Acting on Utilitarianism
 
-Resources for [Acting on Utilitarianism](/acting-on-utilitarianism)
-
 ### General
 
 - Peter Singer (2011). _[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics)_, 3rd edition. Cambridge: Cambridge University Press.
@@ -296,31 +282,31 @@ Resources for [Acting on Utilitarianism](/acting-on-utilitarianism)
 
 - William MacAskill (2019). [Effective Altruism](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7205d104c7bf5cc8f1dca/1539776611190/Effective+Altruism+-+Introduction.pdf). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.).
 - William MacAskill (2015). _[Doing Good Better: Effective Altruism and How You Can Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Penguin Random House.
-- William MacAskill (2018). [What Are the Most Important Moral Problems of Our Time?](https://www.ted.com/talks/will_macaskill_what_are_the_most_important_moral_problems_of_our_time) _TED_.
-- Peter Singer (2013). [The Why and How of Effective Altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en). _TED_.
+- William MacAskill (2018). What Are the Most Important Moral Problems of Our Time? <https://www.ted.com/talks/will_macaskill_what_are_the_most_important_moral_problems_of_our_time>. _TED_.
+- Peter Singer (2013). The Why and How of Effective Altruism <https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism>. _TED_.
 - Websites and organizations relevant to effective altruism:
-  - [Effectivealtruism.org](https://www.effectivealtruism.org/): Website providing online resources about effective altruism.
-  - [GiveWell](https://www.givewell.org/): Charity evaluator aiming to find outstanding giving opportunities.
-  - [80,000 Hours](https://80000hours.org/): Research non-profit aiming to help talented individuals maximize the social impact of their careers.
-  - [Giving What We Can](https://www.givingwhatwecan.org/): Community of people having pledged to give 10% of their lifetime earnings to effective charities.
-  - [Charity Entrepreneurship](https://www.charityentrepreneurship.com/): Charity incubator helping start multiple high-impact charities annually.
+  - <EffectiveAltruism.org>: Website providing online resources about effective altruism.
+  - <GiveWell.org>: Charity evaluator aiming to find outstanding giving opportunities.
+  - 80,000 Hours <80000hours.org>: Research non-profit aiming to help talented individuals maximize the social impact of their careers.
+  - Giving What We Can <www.givingwhatwecan.org>: Community of people having pledged to give 10% of their lifetime earnings to effective charities.
+  - Charity Entrepreneurship <www.charityentrepreneurship.com>: Charity incubator helping start multiple high-impact charities annually.
 - Podcasts on effective altruism & utilitarianism:
-  - [Effective Altruism: An Introduction](https://80000hours.org/podcast/effective-altruism-an-introduction/). _80,000 Hours Podcast_.
-  - William MacAskill (2020). [Doing Good](https://samharris.org/podcasts/228-doing-good/). _Making Sense Podcast with Sam Harris_.
-  - Peter Singer (2016). [What is Moral Progress?](https://samharris.org/podcasts/what-is-moral-progress/). _Making Sense Podcast with Sam Harris_.
-  - Gus Docker. [Utilitarian Podcast](https://podcasts.apple.com/us/podcast/utilitarian/id1529734932).
+  - Effective Altruism: An Introduction <https://80000hours.org/podcast/effective-altruism-an-introduction/>. _80,000 Hours Podcast_.
+  - William MacAskill (2020). Doing Good <https://samharris.org/podcasts/228-doing-good/>. _Making Sense Podcast with Sam Harris_.
+  - Peter Singer (2016). What is Moral Progress? <https://samharris.org/podcasts/what-is-moral-progress/>. _Making Sense Podcast with Sam Harris_.
+  - Gus Docker. Utilitarian Podcast <https://podcasts.apple.com/us/podcast/utilitarian/id1529734932>.
 
 ### Global Health and Development
 
-- Peter Singer (2019). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_, updated 10th anniversary edition. New York: Penguin Random House. (The book is available for free download)
+- Peter Singer (2019). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_, updated 10th anniversary edition. New York: Penguin Random House. (The book is available for free download at <https://www.thelifeyoucansave.org/the-book/>.)
 - Toby Ord (2019).[The Moral Imperative toward Cost-Effectiveness in Global Health](https://www.givingwhatwecan.org/research/the-moral-imperative-towards-cost-effectiveness/), in Greaves, H. (ed.) _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
 - Peter Unger (1996). _[Living High and Letting Die: Our Illusion of Innocence](https://doi.org/10.1093/0195108590.001.0001)_. Oxford: Oxford University Press.
 
 ### Farm Animal Welfare
 
 - Tyler John and Jeff Sebo (2020). [Consequentialism and Nonhuman Animals](https://web.archive.org/web/20210212130214/https://jeffsebodotnet.files.wordpress.com/2019/06/consequentialism-and-nonhuman-animals-penultimate.pdf). In _The Oxford Handbook of Consequentialism_, Douglas W. Portmore (ed.). Oxford: Oxford University Press.
-- Lewis Bollard (2021). [Lewis Bollard on big wins against factory farming and how they happened](https://80000hours.org/podcast/episodes/lewis-bollard-big-wins-against-factory-farming/). _80,000 Hours Podcast with Rob Wiblin_.
-- Jess Whittlestone (2017). [Animal Welfare](https://www.effectivealtruism.org/articles/cause-profile-animal-welfare/). _Effective Altruism_.
+- Lewis Bollard (2021). Lewis Bollard on big wins against factory farming and how they happened. <https://80000hours.org/podcast/episodes/lewis-bollard-big-wins-against-factory-farming/>. _80,000 Hours Podcast with Rob Wiblin_.
+- Jess Whittlestone (2017). Animal Welfare. <https://www.effectivealtruism.org/articles/cause-profile-animal-welfare/>. _Effective Altruism_.
 
 ### Existential Risks
 
@@ -330,8 +316,6 @@ Resources for [Acting on Utilitarianism](/acting-on-utilitarianism)
 ---
 
 ## Chapter 8: Near-Utilitarian Alternatives
-
-Resources for [Near-Utilitarian Alternatives](/near-utilitarian-alternatives):
 
 ### Beyond Welfarism
 
@@ -353,8 +337,8 @@ Resources for [Near-Utilitarian Alternatives](/near-utilitarian-alternatives):
 
 - Simon Keller (2013). _Partiality_. Princeton University Press.
 - Derek Parfit (1984). Part Two: Rationality and Time, _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Clarendon Press.
-- Andreas Mogensen (2019). [The only ethical argument for positive 𝛿?](https://globalprioritiesinstitute.org/andreas-mogensen-the-only-ethical-argument-for-positive-delta-2/). forthcoming in _Philosophical Studies_.
-- Troy Jollimore (2018). [Impartiality](https://plato.stanford.edu/entries/impartiality/)_. The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Andreas Mogensen (2022). [The only ethical argument for positive 𝛿?](https://globalprioritiesinstitute.org/andreas-mogensen-the-only-ethical-argument-for-positive-delta-2/). _Philosophical Studies_, 179: 2731–2750.
+- Troy Jollimore (2018). Impartiality. <https://plato.stanford.edu/entries/impartiality/>. _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Robert Goodin (1988). [What is so special about our fellow countrymen?](https://dx.doi.org/10.1086/292998) _Ethics_ 98(4): 663–686.
 
 ### Beyond Consequentialism
@@ -366,8 +350,6 @@ Resources for [Near-Utilitarian Alternatives](/near-utilitarian-alternatives):
 ---
 
 ## Chapter 9: Objections to Utilitarianism and Responses
-
-Resources for [Objections to Utilitarianism and Responses](/objections-to-utilitarianism):
 
 ### General
 
@@ -385,7 +367,7 @@ Resources for [Objections to Utilitarianism and Responses](/objections-to-utilit
 
 ### The Mere Means Objection
 
-- Samuel Kerstein (2019). [Treating Persons as Means](https://plato.stanford.edu/archives/sum2019/entries/persons-means/), _The Stanford Encyclopedia of Philosophy_ (Summer 2019 Edition), Edward N. Zalta (ed.).
+- Samuel Kerstein (2019). Treating Persons as Means. <https://plato.stanford.edu/archives/sum2019/entries/persons-means/>, _The Stanford Encyclopedia of Philosophy_, Edward N. Zalta (ed.).
 - Derek Parfit (2011). _On What Matters: Vol 1_. Oxford University Press. Chapter 9: Merely as a Means.
 
 ### The Separateness of Persons Objection
@@ -462,7 +444,7 @@ Resources for [Objections to Utilitarianism and Responses](/objections-to-utilit
 Resources for [Study Guide: Peter Singer's 'Famine, Affluence, and Morality'](/peter-singer-famine-affluence-and-morality/)
 
 - Peter Singer (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243.
-- Peter Singer (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. (Download a free ebook or audiobook of the 10th anniversary edition at [www.thelifeyoucansave.org](www.thelifeyoucansave.org).)
+- Peter Singer (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. (Download a free ebook or audiobook of the 10th anniversary edition at <www.thelifeyoucansave.org>.)
 - Richard Y. Chappell & Helen Yetter-Chappell (2016). [Virtue and Salience](https://doi.org/10.1080/00048402.2015.1115530). _Australasian Journal of Philosophy_, 94(3): 449–463.
 - Andrew T. Forcehimes & Luke Semrau (2019). [Beneficence: Does Agglomeration Matter?](https://doi.org/10.1111/japp.12276) _Journal of Applied Philosophy_ 36 (1): 17-33.
 - Frances Kamm (1999). Famine Ethics: The Problem of Distance in Morality and Singer’s Ethical Theory, in _Singer and His Critics_, ed. Dale Jamieson, Oxford: Blackwell: 174–203.

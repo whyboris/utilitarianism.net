@@ -27,7 +27,7 @@ Wealth and income are distributed extremely unequally across the globe. Middle-c
 
 ![World income distribution](/img/World-Income-Distribution.png "World income distribution")
 
-> _Earning above 29,000 $ per year puts you in the richest 5% of the world population._ Cf. Giving What We Can (2019). [How Rich Am I?](https://howrichami.givingwhatwecan.org/?income=29000&countryCode=USA&household%5Badults%5D=1&household%5Bchildren%5D=0).
+> _Earning above 29,000 $ per year puts you in the richest 5% of the world population._ Cf. Giving What We Can (2019). How Rich Am I?, <https://howrichami.givingwhatwecan.org/?income=29000&countryCode=USA&household%5Badults%5D=1&household%5Bchildren%5D=0>.
 
 Wealth and income exhibit what economists call _diminishing marginal utility_.[^3] The idea is simple: How much an individual’s well-being is increased by receiving a higher income depends on their current income. While richer people report being more satisfied with their lives overall, the richer you become, the less well-being you get from additional money. A poor farmer in Kenya will benefit much more from receiving an additional dollar than does a middle-class member of a rich country.
 
@@ -87,7 +87,7 @@ Third, we can significantly improve the lives of farmed animals for just pennies
 
 Yet despite the size of the problem, farm animal welfare is highly neglected.
 
-![Animal statistics](/img/Animal-Statistics.jpg "Animals tatistics")
+![Animal statistics](/img/Animal-Statistics.jpg "Animal statistics")
 
 In the US, only a few tens of millions of philanthropic dollars are donated every year to organizations that focus on improving the lives of farmed animals. The amount spent is tiny compared to other animal causes: there are 3,000 times more animals in factory farms than there are stray pets, but efforts to tackle factory farming get one-fiftieth of the funding spent to help stray animals.[^22]
 
@@ -149,6 +149,8 @@ The areas currently among the top priorities for utilitarians predominantly bene
 
 To do the most good they can, utilitarians often donate money to effective charities, work on helping others with their career, and do outreach aimed at encouraging other people to do these things. We face many severe moral problems, which present opportunities to do an enormous amount of good. To benefit others as much as possible, utilitarians carefully prioritize among their options, focusing their efforts wherever they believe they can make the biggest positive contribution to overall well-being.
 
+The next chapter discusses important rival theories that may overlap significantly with utilitarianism in practice.
+
 {{< acting-buttons >}}
 
 {{< how-to-cite authors="MacAskill, W. and Meissner, D." >}}
@@ -197,56 +199,60 @@ To do the most good they can, utilitarians often donate money to effective chari
 
 [^1]: Bentham’s advice to a young girl in 1830. Bentham, J., ed. by Goldworth, A. (1983). _Deontology together with A Table of the Springs of Action and Article on Utilitarianism_. Oxford: Clarendon, p.xix.
 [^2]:
-    An estimated 734 million people lived in extreme poverty in 2015, meaning that they earned less than $1.90 per day (in 2011 prices). Thus, an annual income of $ 35,000 corresponds to 50 times the annual income of a person living just below the extreme poverty line.
-    The World Bank, PovcalNet. [Regional aggregation using 2011 PPP and $1.9/day poverty line](http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx).
+    An estimated 734 million people lived in extreme poverty in 2015, meaning that they earned less than $1.90 per day (in 2011 prices). Thus, an annual income of $35,000 corresponds to 50 times the annual income of a person living just below the extreme poverty line.
+
+    The World Bank, PovcalNet. Regional aggregation using 2011 PPP and $1.9/day poverty line. <http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx>.
 
 [^3]: Cf. Drupp et al. (2018). [Discounting Disentangled](http://www.lse.ac.uk/GranthamInstitute/wp-content/uploads/2015/06/Working-Paper-172-Drupp-et-al.pdf). _American Economic Journal: Economic Policy_, 10 (4): 109-34.
-[^4]: GiveWell (2019). [Your Donation Can Change Someone's Life](https://www.givewell.org/giving101/Changing-Someones-Life).
-[^5]: GiveWell (2018). [Mass Distribution of Long-Lasting Insecticide-Treated Nets (LLINs)](https://www.givewell.org/international/technical/programs/insecticide-treated-nets).
+[^4]: GiveWell (2019). Your Donation Can Change Someone's Life. <https://www.givewell.org/giving101/Changing-Someones-Life>.
+[^5]: GiveWell (2018). Mass Distribution of Long-Lasting Insecticide-Treated Nets (LLINs). <https://www.givewell.org/international/technical/programs/insecticide-treated-nets>.
 [^6]:
-    In 2013, Peter Singer gave a [TED talk on effective altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en).
+    In 2013, Peter Singer gave a TED talk on effective altruism: <https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism>.
+
     For a more detailed and recent introduction to effective altruism, see MacAskill, W. (2019). [Effective Altruism](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7205d104c7bf5cc8f1dca/1539776611190/Effective+Altruism+-+Introduction.pdf). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.).
 [^7]: For a detailed philosophical discussion of effective altruism, see the 16 articles included in Greaves, H. & Pummer, T. (2019). _[Effective Altruism: Philosophical Issues](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198841364.001.0001/oso-9780198841364)_. Oxford: Oxford University Press.
 [^8]:
     “It is true that effective altruism has some similarities with utilitarianism: it is maximising, it is primarily focused on improving wellbeing, many members of the community make significant sacrifices in order to do more good, and many members of the community self-describe as utilitarians.”
+
     MacAskill, W. (2019). The Definition of Effective Altruism. In Greaves, H. & Pummer, T (ed.). _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
 
 [^9]: See MacAskill, W. (2019). The Definition of Effective Altruism. In Greaves, H. & Pummer, T (ed.). _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
 [^10]:
     Effective altruism “is compatible with egalitarianism, prioritarianism, and, because it does not claim that wellbeing is the only thing of value, with views on which non-welfarist goods are of value.”
+
     MacAskill, W. (2019). The Definition of Effective Altruism. In Greaves, H. & Pummer, T (ed.). _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
 
 [^11]: Parfit, D. (2017). _[On What Matters, Volume Three](https://en.wikipedia.org/wiki/On_What_Matters)_. Oxford: Oxford University Press, pp. 436-437
-[^12]: For instance, Peter Singer’s book [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/) (the updated 10-year anniversary edition is available for free download) makes the case for the ethical importance of improving global health and international development.
-[^13]: Roser, M.; Ritchie, H. & Dadonaite, B. (2019). [Child & Infant Mortality](https://ourworldindata.org/child-mortality). _Our World In Data_.
-[^14]: Roser, M.; Ritchie, H. & Dadonaite, B. (2019). [Child & Infant Mortality](https://ourworldindata.org/child-mortality). _Our World In Data_.
-[^15]: GiveWell (2019). [Your Dollar Goes Further Overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
-[^16]: GiveWell (2021). [Our Top Charities](https://www.givewell.org/charities/top-charities).
+[^12]: For instance, Peter Singer’s book [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/) makes the case for the ethical importance of improving global health and international development. The updated 10-year anniversary edition is available for free download: <https://www.thelifeyoucansave.org/the-book/>
+[^13]: Roser, M.; Ritchie, H. & Dadonaite, B. (2019). Child & Infant Mortality <https://ourworldindata.org/child-mortality>. _Our World In Data_.
+[^14]: Roser, M.; Ritchie, H. & Dadonaite, B. (2019). Child & Infant Mortality <https://ourworldindata.org/child-mortality>. _Our World In Data_.
+[^15]: GiveWell (2019). Your Dollar Goes Further Overseas <https://www.givewell.org/giving101/Your-dollar-goes-further-overseas>.
+[^16]: GiveWell (2021). Our Top Charities. <https://www.givewell.org/charities/top-charities>.
 [^17]: Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.), pp. 143-144
 [^18]: As explained in the [previous chapter](/utilitarianism-and-practical-ethics#speciesism), giving equal moral consideration to all animals does not necessarily imply that we should treat them all equally.
-[^19]: Sanders, B. (2018). [Global Animal Slaughter Statistics And Charts](https://faunalytics.org/global-animal-slaughter-statistics-and-charts/). _Faunalytics_.
-[^20]: Witwicki, K. (2019). [Global Farmed & Factory Farmed Animals Estimates](https://www.sentienceinstitute.org/global-animal-farming-estimates). _Sentience Institute_.
-[^21]: Šimčikas, S. (2019). [Corporate campaigns affect 9 to 120 years of chicken life per dollar spent](https://forum.effectivealtruism.org/posts/L5EZjjXKdNgcm253H/corporate-campaigns-affect-9-to-120-years-of-chicken-life). _Effective Altruism Forum_.
-[^22]: Cf. Animal Charity Evaluators (2016). [Why Farmed Animals?](https://animalcharityevaluators.org/donation-advice/why-farmed-animals/)
+[^19]: Sanders, B. (2018). Global Animal Slaughter Statistics And Charts <https://faunalytics.org/global-animal-slaughter-statistics-and-charts/>. _Faunalytics_.
+[^20]: Witwicki, K. (2019). Global Farmed & Factory Farmed Animals Estimates. <https://www.sentienceinstitute.org/global-animal-farming-estimates>. _Sentience Institute_.
+[^21]: Šimčikas, S. (2019). Corporate campaigns affect 9 to 120 years of chicken life per dollar spent <https://forum.effectivealtruism.org/posts/L5EZjjXKdNgcm253H/corporate-campaigns-affect-9-to-120-years-of-chicken-life>. _Effective Altruism Forum_.
+[^22]: Cf. Animal Charity Evaluators (2016). Why Farmed Animals? <https://animalcharityevaluators.org/donation-advice/why-farmed-animals/>.
 [^23]: Parfit, D. (1984). _Reasons and Persons_. Oxford: Oxford University Press, p. 454
 [^24]: For a discussion of longtermism and its underlying assumptions, see Greaves, H. & MacAskill, W. (2019). [The case for strong longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_.
 [^25]: Ord, T. (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing, p. 37
 [^26]: Cf. Bostrom, N (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://www.cambridge.org/core/journals/utilitas/article/astronomical-waste-the-opportunity-cost-of-delayed-technological-development/2969D64410332BD099F36BAFC5B2ADE5). _Utilitas_. 15(3): 308–314.
 [^27]: Cf. Nick Beckstead (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/file/d/0B8P94pg6WYCIc0lXSUVYS1BnMkE/view?resourcekey=0-nk6wM1QIPl0qWVh2z9FG4Q)_. PhD Dissertation, Rutgers University. Section 3: The Case for Shaping the Far Future.
-[^28]: Roser, M. (2019). [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts). _Our World In Data_.
+[^28]: Roser, M. (2019). The short history of global living conditions and why it matters that we know it. <https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts>. _Our World In Data_.
 [^29]: Cf. Bostrom, N. (2013). [Existential Risks as a Global Priority](https://www.existential-risk.org/concept.html). _Global Policy_. 4(1): 15–31.
 [^30]: Cf. MacAskill, W. (2014). _[Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Random House. Chapter 1.
 [^31]: Note that Professor William MacAskill, coauthor of this website, is a cofounder of Giving What We Can.
 [^32]: Caviola, L., Schubert, S., Teperman, E., Moss, D., Greenberg, S., & Faber, N. (2020). [Donors vastly underestimate differences in charities’ effectiveness.](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/122268/Caviola%20et%20al._2020_JDM.pdf) _Judgment and Decision Making_. 15(4): 509-516.
 [^33]:
-    GiveWell (2019). [Your Dollar Goes Further When You Fund the Right Program](https://www.givewell.org/giving101/Funding-the-Right-Program).
+    GiveWell (2019). Your Dollar Goes Further When You Fund the Right Program. <https://www.givewell.org/giving101/Funding-the-Right-Program>.
 
     Ord, T. (2011). [The Moral Imperative toward Cost-Effectiveness in Global Health](https://pdfs.semanticscholar.org/1016/bb6788716e7b489c08853ce64f0063870a4b.pdf). _Center for Global Development_.
 
-[^34]: GiveWell (2019). [Your Dollar Goes Further Overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
+[^34]: GiveWell (2019). Your Dollar Goes Further Overseas. <https://www.givewell.org/giving101/Your-dollar-goes-further-overseas>.
 [^35]: Stevenson & Wolfers (2013). [Subjective Well-Being and Income: Is There Any Evidence of Satiation?](https://www.nber.org/papers/w18992). _American Economic Review, American Economic Association_. 103(3): 598-604.
 [^36]: Dunn, E.; Gilbert, D. & Wilson, T. (2011). [If money doesn't make you happy, then you probably aren't spending it right](https://psycnet.apa.org/record/2011-17293-002). _Journal of Consumer Psychology_. 21(2): 115-125.
 [^37]: For more detail, see MacAskill, W.; Mogensen, A. & Ord, T. (2018). [Giving Isn’t Demanding](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7196aec212dd54a839425/1539774891904/Giving+Isn%27t+Demanding.pdf). In Woodruff, P. (ed.) _The Ethics of Giving: Philosophers' Perspectives on Philanthropy_. Oxford: Oxford University Press, pp. 178-203.
 [^38]: Note that Professor William MacAskill, coauthor of this website, is a cofounder of 80,000 Hours.
-[^39]: Cf. Todd, B. (2017). [We reviewed over 60 studies about what makes for a dream job. Here’s what we found](https://80000hours.org/career-guide/job-satisfaction/). _80,000 Hours_.
+[^39]: Cf. Todd, B. (2017). We reviewed over 60 studies about what makes for a dream job. Here’s what we found. <https://80000hours.org/career-guide/job-satisfaction/>. _80,000 Hours_.
 [^40]: Note that Professor William MacAskill, coauthor of this website, is the author of several of the listed resources on effective altruism. Moreover, he is a cofounder of both 80,000 Hours and Giving What We Can.
