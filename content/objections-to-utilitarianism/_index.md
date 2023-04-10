@@ -65,31 +65,31 @@ Despite the silly labels, these are serious philosophical moves. We employ each,
 
 We next discuss the following critiques of utilitarianism:
 
-1. The Rights Objection
+1. **The Rights Objection:**
  Many find it objectionable that utilitarianism seemingly licenses outrageous rights violations in certain hypothetical scenarios, killing innocent people for the greater good. This section explores how utilitarians might best respond.
 
-2. The Mere Means Objection
+2. **The Mere Means Objection:**
  Critics often allege that utilitarianism objectionably instrumentalizes people—treating us as mere means to the greater good, rather than properly valuing individuals as ends in themselves. In this section, we assess whether this is a fair objection.
 
-3. The Separateness of Persons Objection
+3. **The Separateness of Persons Objection:**
  The idea that utilitarianism neglects the 'separateness of persons' has proven to be a widely influential objection. But it is one that is difficult to pin down. This section explores three candidate interpretations of the objection, and how utilitarians can respond to each.
 
-4. The Demandingness Objection
+4. **The Demandingness Objection:**
  In directing us to choose the impartially best outcome, even at significant cost to ourselves, utilitarianism can seem an incredibly demanding theory. This page explores whether this feature of utilitarianism is objectionable, and if so, how defenders of the view might best respond.
 
-5. The Alienation Objection
+5. **The Alienation Objection:**
  Abstract moral theories threaten to alienate us from much that we hold dear. This section explores two possible defenses of utilitarianism against this charge. One recommends adopting motivations other than explicitly utilitarian ones. The second argues that suitably concrete concerns can be subsumed within broader utilitarian motivations.
 
-6. The Special Obligations Objection
+6. **The Special Obligations Objection:**
  Relationships like parenthood or guardianship seemingly give rise to special obligations to protect those who fall under our care (where these obligations are more stringent than our general duties of beneficence towards strangers). This section explores the extent to which impartial utilitarianism can accommodate intuitions and normative practices of partiality.
 
-7. The Equality Objection
+7. **The Equality Objection:**
  Utilitarianism is concerned with the overall well-being of individuals in the population, but many object that justice requires an additional concern for how this well-being is distributed across individuals. This section examines this objection, and how utilitarians might best respond.
 
-8. The Cluelessness Objection
+8. **The Cluelessness Objection:**
  Is utilitarianism undermined by our inability to predict the long-term consequences of our actions? This section explores whether utilitarians can still be guided by near-term expected value even when this is small in comparison to the potential value or disvalue of the unknown long-term consequences.
 
-9. The Abusability Objection
+9. **The Abusability Objection:**
  Some argue that utilitarianism is self-effacing, or recommends against its own acceptance, due to the risk that mistaken appeals to the 'greater good' may actually result in horrifically harmful actions being done. This section explores how best to guard against such risks, and questions whether it is an objection to a theory if it turns out to be self-effacing in this way.
 
 {{< next-page-objection hide-other="true" >}}
