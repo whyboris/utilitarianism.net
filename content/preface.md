@@ -5,7 +5,7 @@ layout: book
 
 Utilitarianism is taught in introductory ethics classes around the world. But textbook presentations of utilitarianism often misconstrue the theory, failing to present either the strongest arguments in favor of it or its most sophisticated defenses against objections. They also fail to present the distinctive practical contributions of utilitarianism: showing what a life lived in accordance with utilitarian ideals would really look like.
 
-We wanted to help rectify this situation. So we've written this textbook aiming to present utilitarianism in a clear and broadly sympathetic light. Ethics remains controversial, of course, and we certainly don't expect all readers to agree that utilitarianism is ultimately correct. But we hope to convey a better sense of why one might reasonably find it appealing, and how it can address objections that you might otherwise have assumed were devastating.
+To help rectify this situation, we've written this textbook aiming to present utilitarianism in a clear and broadly sympathetic light. Ethics remains controversial, of course, and we certainly don't expect all readers to agree that utilitarianism is ultimately correct. But we hope to convey a better sense of why one might reasonably find it appealing, and how it can address objections that you might otherwise have assumed were devastating.
 
 We also discuss at length the real-life practical implications of utilitarian moral theory. Throughout the text, we emphasize the utilitarian case for striving to make the world a better place, as effectively as possible, while respecting commonsense norms against harming others.
 
