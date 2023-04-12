@@ -308,7 +308,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 
 [^3]: Assigning further value to (for instance, more equal) distributions of well-being goes beyond welfarism, by treating something other than well-being itself as intrinsically valuable.
 [^4]: Sidgwick, H. (1874). _[The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf)_. Bennett, J. (ed.), p. 186.
-[^5]: See [The Special Obligations Objection](/objections-to-utilitarianism/special-obligations/) for further discussion.
+[^5]: See [The Special Obligations Objection](/objections-to-utilitarianism/special-obligations/), in chapter 9, for further discussion.
 
 [^6]: In principle, other aggregation methods (like multiplication or something more complex) are conceivable. But we focus here on the additive form of aggregationism, since that is by far the most common view.
 [^7]: This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are aggregationist theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](/population-ethics) in Chapter 5.
