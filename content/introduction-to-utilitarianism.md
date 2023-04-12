@@ -60,7 +60,7 @@ All ethical theories in the utilitarian family share four defining elements: con
 
 ## Roadmap
 
-We cover the four elements of utilitarianism, and further theoretical distinctions, in greater depth in [Chapter 2: Elements and Types of Utilitarianism](/types-of-utilitarianism).
+We cover the four elements of utilitarianism in greater depth, along with further theoretical distinctions, in [Chapter 2: Elements and Types of Utilitarianism](/types-of-utilitarianism).
 
 [Chapter 3](/arguments-for-utilitarianism/) explains reflective equilibrium as a moral methodology, and presents several arguments for utilitarianism (and similar consequentialist views) over competing approaches to ethics. This includes discussion of the veil of ignorance, the expanding moral circle, and the argument that utilitarianism offers an especially compelling account of _what fundamentally matters_. This chapter also explains the paradox of deontology, evolutionary debunking arguments, and other objections to non-consequentialist ethics.
 
@@ -68,7 +68,7 @@ Specific [theories of well-being](/theories-of-wellbeing/) and of [population et
 
 [Chapter 6](/utilitarianism-and-practical-ethics/) and our supplemental article [Acting on Utilitarianism](/acting-on-utilitarianism/) explore the practical applications of utilitarianism, and its implications for how we should live our lives. We argue that, in practice, a utilitarian should try to do as much good as possible whilst still abiding by commonsense moral virtues like integrity, trustworthiness, and law-abidingness, in order to advance social cooperation and mitigate the downside risk of miscalculation.
 
-[Chapter 7](/near-utilitarian-alternatives/) examines how robust these practical recommendations are to various departures from strict utilitarian theory. While some alternative theories may yield radically divergent practical implications, we argue that a wide range of reasonable views ultimately converge on the core practical recommendation of utilitarian ethics—namely, to use a significant fraction of your time and/or money to do help others, and to try to do so as effectively as possible, without violating common-sense moral constraints.
+[Chapter 7](/near-utilitarian-alternatives/) examines how robust these practical recommendations are to various departures from strict utilitarian theory. While some alternative theories may yield radically divergent practical implications, we argue that a wide range of reasonable views ultimately converge on the core practical recommendation of utilitarian ethics—namely, to use a significant fraction of your time and/or money to do help others, and to try to do so as effectively as possible, without violating commonsense moral constraints.
 
 Prominent [objections to utilitarianism](/objections-to-utilitarianism/) are addressed in chapter 8. We introduce a "[toolkit](/objections-to-utilitarianism/#the-utilitarians-toolkit)" of general maneuvers available to utilitarians to address a wide range of objections, and then show how this toolkit can be used to address concerns about rights, demandingness, cluelessness, and more.
 
@@ -78,7 +78,7 @@ What matters most for utilitarianism is improving the well-being of all individu
 
 All utilitarian theories share four key elements: consequentialism, welfarism, impartiality, and aggregationism. Classical utilitarianism includes two further elements: hedonism and totalism. Hedonism is the view that one’s well-being is determined by the balance of one’s positive and negative conscious experiences. The total view holds that the value of adding an additional person to an outcome is equal to the value of that person’s lifetime well-being.
 
-Utilitarian ethics has an intellectual tradition spanning centuries, during which it has prompted many heated debates. Critics of utilitarianism accuse the theory of disregarding rights and being overly demanding, among other objections. Advocates counter that the theory has attractive theoretical virtues and offers a compelling account of what fundamentally matters. If difficult tradeoffs were instead settled behind a veil of ignorance to minimize risk of bias, it would be rational for everyone involved to endorse utilitarian recommendations. Close examination of these competing arguments is required to come to an informed view of this controversial theory.
+Utilitarian ethics has an intellectual tradition spanning centuries, during which it has prompted many heated debates. Critics of utilitarianism accuse the theory of disregarding rights and being overly demanding, among other objections. Advocates counter that the theory has attractive theoretical virtues and offers a compelling account of what fundamentally matters. If difficult tradeoffs were settled behind a veil of ignorance to minimize risk of bias, it would be rational for everyone involved to endorse utilitarian recommendations. Close examination of these competing arguments is required to come to an informed view of this controversial theory.
 
 The next chapter discusses the four elements of utilitarian theories in greater depth and introduces several variants of utilitarianism.
 
@@ -120,7 +120,7 @@ The next chapter discusses the four elements of utilitarian theories in greater 
      For more details, see Williams, E. G. (2015). [The Possibility of an Ongoing Moral Catastrophe](https://link.springer.com/article/10.1007/s10677-015-9567-7). _Ethical Theory and Moral Practice_, _18_(5), 971–982.
 
 [^3]:
-     For instance, Bentham commented on the issue of animal protection: “_the question is not, Can they reason? nor, Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being? The time will come when humanity will extend its mantle over everything which breathes. We have begun by attending to the condition of slaves; we shall finish by softening that of all the animals which assist our labors or supply our wants.”
+     For instance, Bentham commented on the issue of animal protection: “the question is not, Can they reason? nor, Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being? The time will come when humanity will extend its mantle over everything which breathes. We have begun by attending to the condition of slaves; we shall finish by softening that of all the animals which assist our labors or supply our wants.”
 
      Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.), pp. 143–144.
 
