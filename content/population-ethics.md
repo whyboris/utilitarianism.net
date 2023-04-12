@@ -145,7 +145,7 @@ The total value of an outcome, according to critical level theories, can be repr
 
 **Value<sub>critical level</sub> = N \* (Q - α)**
 
-By looking at this value function, we may observe that the total view of population ethics is simply a critical level theory with a critical level of zero (α = 0). All critical level theories, including the total view, agree that the value of adding an individual to the world depends only on that individual’s well-being level and—in contrast to the average view and variable value theories—not on the number of existing persons or their well-being levels.
+By looking at this value function, we may observe that the total view of population ethics is simply a critical level theory with a critical level of zero (α = 0). Critical level theories, including the total view, agree that the value of adding an individual to the world depends only on that individual’s well-being level and—in contrast to the average view and variable value theories—not on the number of existing persons or their well-being levels.
 
 Critical level theories avoid the repugnant conclusion if their critical level is greater than the well-being level that makes a life “barely worth living”. This follows from the definition of critical level theories since only adding people whose welfare exceeds the critical level can compensate for reductions in the average quality of life.
 
@@ -182,7 +182,7 @@ All of the theories discussed above—the total view, the average view, variable
 
 > **N** = number of persons; **Q** = average well-being level; **α** = critical level; **f()** = strictly increasing and strictly concave function with a horizontal asymptote
 
-Impersonal theories imply that creating an additional person with a (sufficiently) good life makes the world better, other things being equal.[^45] However, many people intuitively reject this implication. They would say that there are no moral reasons to bring into existence additional people—at least no reasons based on the well-being these people would enjoy if created. Jan Narveson put this idea in slogan form: “We are in favour of making people happy, but neutral about making happy people”.[^46] _Person-affecting views_ of population ethics attempt to capture this intuition of neutrality.[^47]
+Impersonal theories imply that creating an additional person with a (sufficiently) good life makes the world better, other things being equal.[^45] However, many people reject this implication. They would say that there are no moral reasons to bring into existence additional people—at least no reasons based on the well-being these people would enjoy if created. Jan Narveson put this idea in slogan form: “We are in favour of making people happy, but neutral about making happy people”.[^46] _Person-affecting views_ of population ethics attempt to capture this intuition of neutrality, and are especially common among non-consequentialists.[^47]
 
 To this end, standard person-affecting views accept the _person-affecting restriction_:
 
@@ -274,6 +274,7 @@ The next chapter discusses the most important implications of utilitarianism for
 ### The Total View and Repugnant Conclusion
 
 - Gustaf Arrhenius, Jesper Ryberg, & Torbjörn Tännsjö (2017). [The Repugnant Conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Gustaf Arrhenius (2003). The Very Repugnant Conclusion. In Krister Segerberg & Ryszard Sliwinski (eds.), _Logic, Law, Morality: Thirteen Essays in Practical Philosophy in Honour of Lennart Åqvist_. Uppsala, pp. 29–44.
 - Johan E. Gustafsson (2022). [Our Intuitive Grasp of the Repugnant Conclusion](http://johanegustafsson.net/papers/our-intuitive-grasp-of-the-repugnant-conclusion.pdf). In Gustaf Arrhenius, Krister Bykvist, Tim Campbell, and Elizabeth Finneron-Burns (eds.), _The Oxford Handbook of Population Ethics_. Oxford University Press.
 - Spears, D. & Budolfson, M. (2021). [Repugnant conclusions](https://doi.org/10.1007/s00355-021-01321-2). _Social Choice and Welfare_. 28.
 - Michael Huemer (2008). [In Defence of Repugnance](https://doi.org/10.1093/mind/fzn079). _Mind_. 117(468): 899–933.
@@ -351,6 +352,10 @@ The next chapter discusses the most important implications of utilitarianism for
     Parfit’s longer original formulation was as follows: “For any possible population of at least ten billion people, all with a very high quality of life, there must be some much larger imaginable population whose existence, if other things are equal, would be better even though its members have lives that are barely worth living.”
 
     Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press, p. 342.
+
+    The total view further implies the _very repugnant conclusion_, according to which enough lives barely worth living can outweigh any number of additional arbitrarily miserable lives.
+
+    Arrhenius, G. (2003). The Very Repugnant Conclusion. In Krister Segerberg & Ryszard Sliwinski (eds.), _Logic, Law, Morality: Thirteen Essays in Practical Philosophy in Honour of Lennart Åqvist_. Uppsala, pp. 29–44.
 
 [^11]: Geir Asheim et al. (2021). [What Should We Agree on about the Repugnant Conclusion?](https://doi.org/10.1017/S095382082100011X). _Utilitas_. 1–5.
 [^12]:
@@ -456,13 +461,15 @@ The next chapter discusses the most important implications of utilitarianism for
 [^47]:
     For instance, see:
 
+    Finneron-Burns, E. (2017). [What’s wrong with human extinction?](https://doi.org/10.1080/00455091.2016.1278150). _Canadian Journal of Philosophy_, 47(2-3): 327–343.
+
     Narveson, J. (1967). [Utilitarianism and New Generations](https://www.jstor.org/stable/2252027). _Mind_. 76(301): 62–72.
 
-    Narveson, J. (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1), 62–86.
+    Narveson, J. (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1): 62–86.
     
     Roberts, M.A. (2002). [A New Way of Doing the Best That We Can: Person-based Consequentialism and the Equality Problem](https://doi.org/10.1086/324321). _Ethics_, 112(2): 315–350.
     
-    Roberts, M.A. (2004). [Person-Based Consequentialism and the Procreation Obligation](https://doi.org/10.1007/978-1-4020-2473-3_7), in J. Ryberg and T. Tännsjö (eds.) _The Repugnant Conclusion_. Library Of Ethics And Applied Philosophy. 15, 99–128.
+    Roberts, M.A. (2004). [Person-Based Consequentialism and the Procreation Obligation](https://doi.org/10.1007/978-1-4020-2473-3_7), in J. Ryberg and T. Tännsjö (eds.) _The Repugnant Conclusion_. Library Of Ethics And Applied Philosophy. 15: 99–128.
 
 [^48]: At least, it cannot be better or worse in terms of well-being.
 [^49]:

@@ -185,6 +185,7 @@ Resources for [Population Ethics](/population-ethics):
 ### The Total View and Repugnant Conclusion
 
 - Gustaf Arrhenius, Jesper Ryberg, & Torbjörn Tännsjö (2017). [The Repugnant Conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Gustaf Arrhenius (2003). The Very Repugnant Conclusion. In Krister Segerberg & Ryszard Sliwinski (eds.), _Logic, Law, Morality: Thirteen Essays in Practical Philosophy in Honour of Lennart Åqvist_. Uppsala, pp. 29–44.
 - Johan E. Gustafsson (2022). [Our Intuitive Grasp of the Repugnant Conclusion](http://johanegustafsson.net/papers/our-intuitive-grasp-of-the-repugnant-conclusion.pdf). In Gustaf Arrhenius, Krister Bykvist, Tim Campbell, and Elizabeth Finneron-Burns (eds.), _The Oxford Handbook of Population Ethics_. Oxford University Press.
 - Spears, D. & Budolfson, M. (2021). [Repugnant conclusions](https://doi.org/10.1007/s00355-021-01321-2). _Social Choice and Welfare_. 28.
 - Michael Huemer (2008). [In Defence of Repugnance](https://doi.org/10.1093/mind/fzn079). _Mind_. 117(468): 899–933.
