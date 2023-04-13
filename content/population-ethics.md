@@ -83,7 +83,7 @@ Indeed, it turns out to be remarkably difficult to avoid the repugnant conclusio
 
 In world A, everyone’s well-being is very high. World A+ contains (i) one population group that is identical to the A population in terms of population size and average well-being, and (ii) a second group of the same size but with slightly lower well-being. Most people would agree that A+ is not worse than A (and may even be better) since, intuitively, merely adding people with lives worth living (without thereby harming anyone else) cannot make an outcome worse. Now consider world B with the same overall population size as A+. The average well-being in B is slightly higher than in A+ but lower than in A. When we compare worlds A+ and B, it seems that B must be better. Not only are the average _and_ total welfare in B higher than in A+, but well-being is also more equally distributed. Yet, if B is better than A+, and A+ is not worse than A, it follows that B must be better than A.[^18] Repeating this process—comparing world B with B+ and C etc.—leads to world Z with an enormous number of people with lives barely worth living. Following the above reasoning, world Z must be better than world A: the repugnant conclusion.
 
-Recent papers from Dean Spears and Mark Budolfson make a different case for the inescapability of (something like) the repugnant conclusion.[^19] The authors argue that _all_ plausible theories imply that it is sometimes better to add vast numbers of barely-positive lives to an existing population than to add a smaller number of extremely positive lives.[^20] From this result, they conclude that “the repugnant conclusion provides no methodological guidance for theory or policy-making, because it does not discriminate among candidate [theories]”.[^21] Others might try to resist this conclusion, however, by arguing that these new verdicts—involving adding to existing populations—are not as intuitively problematic as the original repugnant conclusion.
+Recent papers from Dean Spears and Mark Budolfson make a different case for the inescapability of an extended version of the repugnant conclusion.[^19] The authors argue that _all_ plausible theories imply that it is sometimes better to add vast numbers of barely-positive lives to an existing population than to add a smaller number of extremely positive lives.[^20] From this result, they conclude that “the repugnant conclusion provides no methodological guidance for theory or policy-making, because it does not discriminate among candidate [theories]”.[^21] Critics might respond that these new verdicts—involving adding to existing populations—are not as intuitively problematic as the original repugnant conclusion.
 
 #### Attacking the Alternatives
 
@@ -105,7 +105,7 @@ The average view avoids the repugnant conclusion because it entails that reducti
 
 However, the average view has very little support among moral philosophers since it suffers from severe problems.
 
-First, consider a world inhabited by a single person enduring excruciating suffering. The average view entails that we could improve this world by creating a million new people whose lives were also filled with excruciating suffering if the suffering of the new people was ever-so-slightly less bad than the suffering of the original person.[^26]
+First, consider a world inhabited by a single person enduring excruciating suffering. The average view entails that we could improve this world by creating a million new people whose lives were also filled with excruciating suffering, if the suffering of the new people was ever-so-slightly less bad than the suffering of the original person.[^26]
 
 Second, the average view entails the (misleadingly named) _sadistic conclusion_:[^27]
 
@@ -145,7 +145,7 @@ The total value of an outcome, according to critical level theories, can be repr
 
 **Value<sub>critical level</sub> = N \* (Q - α)**
 
-By looking at this value function, we may observe that the total view of population ethics is simply a critical level theory with a critical level of zero (α = 0). All critical level theories, including the total view, agree that the value of adding an individual to the world depends only on that individual’s well-being level and—in contrast to the average view and variable value theories—not on the number of existing persons or their well-being levels.
+By looking at this value function, we may observe that the total view of population ethics is simply a critical level theory with a critical level of zero (α = 0). Critical level theories, including the total view, agree that the value of adding an individual to the world depends only on that individual’s well-being level and—in contrast to the average view and variable value theories—not on the number of existing persons or their well-being levels.
 
 Critical level theories avoid the repugnant conclusion if their critical level is greater than the well-being level that makes a life “barely worth living”. This follows from the definition of critical level theories since only adding people whose welfare exceeds the critical level can compensate for reductions in the average quality of life.
 
@@ -182,7 +182,7 @@ All of the theories discussed above—the total view, the average view, variable
 
 > **N** = number of persons; **Q** = average well-being level; **α** = critical level; **f()** = strictly increasing and strictly concave function with a horizontal asymptote
 
-Impersonal theories imply that creating an additional person with a (sufficiently) good life makes the world better, other things being equal.[^45] However, many people intuitively reject this implication. They would say that there are no moral reasons to bring into existence additional people—at least no reasons based on the well-being these people would enjoy if created. Jan Narveson put this idea in slogan form: “We are in favour of making people happy, but neutral about making happy people”.[^46] _Person-affecting views_ of population ethics attempt to capture this intuition of neutrality.[^47]
+Impersonal theories imply that creating an additional person with a (sufficiently) good life makes the world better, other things being equal.[^45] However, some people reject this implication. They say that there are no moral reasons to bring into existence additional people—at least no reasons based on the well-being these people would enjoy if created. Jan Narveson put this idea in slogan form: “We are in favour of making people happy, but neutral about making happy people”.[^46] _Person-affecting views_ of population ethics attempt to capture this intuition of neutrality, and are especially common among non-consequentialists.[^47]
 
 To this end, standard person-affecting views accept the _person-affecting restriction_:
 
@@ -196,7 +196,7 @@ According to this principle, since the value of existence and non-existence are 
 
 To accommodate these intuitions, person-affecting theorists must allow that _intrinsically bad states_ (like undeserved suffering) can count as _non-comparative harms_. Even if, strictly speaking, we cannot compare existence to non-existence, we can certainly hold that a life of unrelenting suffering is _bad for you_. The person-affecting restriction can then be tweaked to specify that one outcome can be worse than another if _either_ it is worse for someone _or_ it is bad for someone (while the alternative is not).
 
-Generalizing this reasoning would lead us to similarly hold that intrinsically _good_ states (or positive welfare) can count as a non-comparative benefit of existence. But this result would rob the person-affecting view of its distinctiveness. It could easily end up coinciding with the total view, for example, and endorsing the repugnant conclusion on behalf of the multitudes in world Z who would each receive a tiny non-comparative benefit from getting to exist.
+Generalizing this reasoning would lead us to similarly hold that intrinsically _good_ states (or positive welfare) can count as a non-comparative benefit of existence.[^50a] But this result would rob the person-affecting view of its distinctiveness. It could easily end up coinciding with the total view, for example, and endorsing the repugnant conclusion on behalf of the multitudes in world Z who would each receive a tiny non-comparative benefit from getting to exist.
 
 Many person-affecting theorists wish to avoid this result and instead endorse the _procreative asymmetry_, according to which:
 
@@ -220,7 +220,7 @@ Most people would prefer world A over an empty world B. But the simple procreati
 
 To help address these problems, we may consider a more complex person-affecting view—one analogous to the critical range theory, discussed above, but with infinite value blur, yielding the result that _all_ (positive) lives are “meh”.[^54] On such a view, it is better to create a flourishing life than a mediocre one (so A<sub>1</sub> is indeed better than A<sub>2</sub>, at least if they contain the exact same number of people), but _either_ choice is merely on a par with creating neither.
 
-But this brings us to a deeper problem with the procreative asymmetry, which is that it has trouble accounting for the idea that _we should be positively glad that the world (with all its worthwhile lives) exists_. Granted, the immense incomparability introduced by all the putatively “meh” lives in A at least blocks the perverse conclusion that we must outright prefer the empty world B. Even so, holding the two worlds to be incomparable or “on a par” also seems wrong.
+But this brings us to a deeper problem with the procreative asymmetry, which is that it has trouble accounting for the idea that _we should be positively glad that the world (with all its worthwhile lives) exists_.[^54a] Granted, the immense incomparability introduced by all the putatively “meh” lives in A at least blocks the perverse conclusion that we must outright prefer the empty world B. Even so, holding the two worlds to be incomparable or “on a par” also seems wrong.
 
 We should recognize that A is better. But to do that, we must reject the strict procreative asymmetry and hold that there is an upper limit to the “critical range” of lives that are merely meh. And this is independently plausible. After all, when thinking about what makes some possible universe _good_, the most obvious answer is that it contains a predominance of awesome, flourishing lives. How could that _not_ be better than a barren rock? Any view that denies this verdict is arguably too nihilistic and divorced from humanistic values to be worth taking seriously.
 
@@ -230,7 +230,7 @@ We may also raise more theoretical objections to such a view. For instance, Ord 
 2. having cyclical orderings of value (saying that A is better than B, B is better than C, and C is better than A);
 3. saying that all outcomes that differ even slightly in how many people exist are incomparable.
 
-For all these reasons, utilitarians are largely united in rejecting person-affecting views, even as they continue to debate which impersonal theory provides the best way forward.
+For all these reasons, utilitarians are largely united in rejecting person-affecting views, even as they continue to debate which impersonal theory provides the best way forward.[^55a]
 
 ## Practical Implications of Population Ethical Theories
 
@@ -274,6 +274,7 @@ The next chapter discusses the most important implications of utilitarianism for
 ### The Total View and Repugnant Conclusion
 
 - Gustaf Arrhenius, Jesper Ryberg, & Torbjörn Tännsjö (2017). [The Repugnant Conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+- Gustaf Arrhenius (2003). The Very Repugnant Conclusion. In Krister Segerberg & Ryszard Sliwinski (eds.), _Logic, Law, Morality: Thirteen Essays in Practical Philosophy in Honour of Lennart Åqvist_. Uppsala, pp. 29–44.
 - Johan E. Gustafsson (2022). [Our Intuitive Grasp of the Repugnant Conclusion](http://johanegustafsson.net/papers/our-intuitive-grasp-of-the-repugnant-conclusion.pdf). In Gustaf Arrhenius, Krister Bykvist, Tim Campbell, and Elizabeth Finneron-Burns (eds.), _The Oxford Handbook of Population Ethics_. Oxford University Press.
 - Spears, D. & Budolfson, M. (2021). [Repugnant conclusions](https://doi.org/10.1007/s00355-021-01321-2). _Social Choice and Welfare_. 28.
 - Michael Huemer (2008). [In Defence of Repugnance](https://doi.org/10.1093/mind/fzn079). _Mind_. 117(468): 899–933.
@@ -351,6 +352,10 @@ The next chapter discusses the most important implications of utilitarianism for
     Parfit’s longer original formulation was as follows: “For any possible population of at least ten billion people, all with a very high quality of life, there must be some much larger imaginable population whose existence, if other things are equal, would be better even though its members have lives that are barely worth living.”
 
     Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press, p. 342.
+
+    The total view further implies the _very repugnant conclusion_, according to which enough lives barely worth living can outweigh any number of additional arbitrarily miserable lives.
+
+    Arrhenius, G. (2003). The Very Repugnant Conclusion. In Krister Segerberg & Ryszard Sliwinski (eds.), _Logic, Law, Morality: Thirteen Essays in Practical Philosophy in Honour of Lennart Åqvist_. Uppsala, pp. 29–44.
 
 [^11]: Geir Asheim et al. (2021). [What Should We Agree on about the Repugnant Conclusion?](https://doi.org/10.1017/S095382082100011X). _Utilitas_. 1–5.
 [^12]:
@@ -452,17 +457,23 @@ The next chapter discusses the most important implications of utilitarianism for
     Alternatively, we might think of the value of the world as itself indeterminate or corresponding to a numerical range, as given by all the possible critical level theories corresponding to the critical range, i.e.: everything from <strong>N \* (Q - α<sub>-</sub>) </strong>to <strong>N \* (Q - α<sub>+</sub>)</strong>. On this approach, the value of the repugnant world Z, for example, would be indeterminate across an immense range of values stemming from _extremely negative_ to _extremely positive_, because <strong>N</strong> is unimaginably huge whereas the sign of <strong>(Q - α)</strong> is indeterminate, given the range of candidate critical levels <strong>α</strong>.
 
 [^45]: On the total view, adding a person with positive well-being is always good, all else equal. The same is true for variable value theories, though for a large pre-existing population the marginal value of an additional life being added may be low. On the average view, adding a person is good, other things being equal, if the person’s well-being exceeds the existing average; similarly, it is good on critical level (and range) theories, if the person’s well-being exceeds the critical level (or range).
-[^46]: Narveson, J. (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1), 62–86, p. 80
+[^46]:
+    Narveson, J. (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1), 62–86, p. 80.
+
+    To put pressure on the slogan, consider the limited appeal of its negative-welfare analogue: “We are opposed to making people miserable, but neutral about making miserable people.” As this section goes on to discuss, the viability of person-affecting approaches to population ethics crucially depends upon validating a radical asymmetry between positive and negative lives.
+
 [^47]:
     For instance, see:
 
+    Finneron-Burns, E. (2017). [What’s wrong with human extinction?](https://doi.org/10.1080/00455091.2016.1278150). _Canadian Journal of Philosophy_, 47(2-3): 327–343.
+
     Narveson, J. (1967). [Utilitarianism and New Generations](https://www.jstor.org/stable/2252027). _Mind_. 76(301): 62–72.
 
-    Narveson, J. (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1), 62–86.
+    Narveson, J. (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1): 62–86.
     
     Roberts, M.A. (2002). [A New Way of Doing the Best That We Can: Person-based Consequentialism and the Equality Problem](https://doi.org/10.1086/324321). _Ethics_, 112(2): 315–350.
     
-    Roberts, M.A. (2004). [Person-Based Consequentialism and the Procreation Obligation](https://doi.org/10.1007/978-1-4020-2473-3_7), in J. Ryberg and T. Tännsjö (eds.) _The Repugnant Conclusion_. Library Of Ethics And Applied Philosophy. 15, 99–128.
+    Roberts, M.A. (2004). [Person-Based Consequentialism and the Procreation Obligation](https://doi.org/10.1007/978-1-4020-2473-3_7), in J. Ryberg and T. Tännsjö (eds.) _The Repugnant Conclusion_. Library Of Ethics And Applied Philosophy. 15: 99–128.
 
 [^48]: At least, it cannot be better or worse in terms of well-being.
 [^49]:
@@ -470,12 +481,24 @@ The next chapter discusses the most important implications of utilitarianism for
 
     Heyd, D. (1988). [Procreation and Value: Can Ethics Deal With Futurity Problems?](https://doi.org/10.1007/BF02380074). _Philosophia_, 18: 151–170.
 
-[^50]: Cf. Parfit's “wretched child” case. Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press, p. 391
-[^51]: Though one of the coauthors of this chapter has argued elsewhere that “it is thought to be ‘intuitive’ primarily because it has been implicitly confused with other, more plausible theses.” See Chappell, R.Y. (2017). [Rethinking the Asymmetry](https://doi.org/10.1080/00455091.2016.1250203). _Canadian Journal of Philosophy_ 47 (2):167-177.
+[^50]: Cf. Parfit's “wretched child” case. Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press, p. 391.
+[^50a]:
+    McMahan, Jeff (2013). [Causing People to Exist and Saving People’s Lives](https://doi.org/10.1007/s10892-012-9139-1). _The Journal of Ethics_, 17 (1-2): 5–35.
+
+    McMahan, J. (2009). [Asymmetries in the Morality of Causing People to Exist](https://doi.org/10.1007/978-1-4020-5697-0_3). In David Wasserman and Melinda Roberts (eds.), _Harming Future Persons_. Springer.
+[^51]: Though one of the coauthors of this chapter has argued elsewhere that “it is thought to be ‘intuitive’ primarily because it has been implicitly confused with other, more plausible theses.” See Chappell, R.Y. (2017). [Rethinking the Asymmetry](https://doi.org/10.1080/00455091.2016.1250203). _Canadian Journal of Philosophy_, 47 (2): 167–177.
 [^52]: McMahan, J. (2009). [Asymmetries in the Morality of Causing People to Exist](https://doi.org/10.1007/978-1-4020-5697-0_3). In David Wasserman and Melinda Roberts (eds.), _Harming Future Persons_. Springer.
 [^53]: Case description adapted from Beckstead, N. (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/file/d/0B8P94pg6WYCIc0lXSUVYS1BnMkE/view?resourcekey=0-nk6wM1QIPl0qWVh2z9FG4Q)_. PhD Dissertation, Rutgers University.
 [^54]: A major challenge for such a view would be to explain how to render this value blur compatible with the asymmetry, so that miserable lives are appropriately recognized as bad (not merely meh).
+[^54a]: At least on the assumption that good lives predominate over miserable ones. E.g., a person in world A should be glad that that world exists.
 [^55]: Ord, T. (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing. See especially note 25 of the Appendices.
+[^55a]:
+    Another possibility would be some form of _hybrid_ view combining an impersonal theory with additional person-affecting reasons to prioritize the interests of existing individuals. This would help to block “replaceability” worries—i.e., that impersonal views make it too easy to justify (killing and) replacing existing lives with “better” ones—without the extreme implications of pure person-affecting views.
+
+    For a fascinating discussion of some of the complexities of adjudicating tradeoffs between ordinary harms and benefits and the noncomparative good of bringing someone into (happy) existence, see:
+
+    McMahan, Jeff (2013). [Causing People to Exist and Saving People’s Lives](https://doi.org/10.1007/s10892-012-9139-1). _The Journal of Ethics_, 17 (1-2): 5–35.
+
 [^56]:
     In addition to existential risk reduction, another promising strategy to improve the long-term future is “moral circle expansion”: increasing the moral concern for members of some outlying groups to include, ideally, all sentient beings.
 

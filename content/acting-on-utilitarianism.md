@@ -31,7 +31,7 @@ Wealth and income are distributed extremely unequally across the globe. Middle-c
 
 Wealth and income exhibit what economists call _diminishing marginal utility_.[^3] The idea is simple: How much an individual’s well-being is increased by receiving a higher income depends on their current income. While richer people report being more satisfied with their lives overall, the richer you become, the less well-being you get from additional money. A poor farmer in Kenya will benefit much more from receiving an additional dollar than does a middle-class member of a rich country.
 
-The diminishing marginal utility of money implies that we can generally increase overall well-being by redistributing from the rich to the poor. The well-being we forego, as citizens of affluent countries, by donating $100 is small compared to the benefit this money will give to someone living in extreme poverty. Instead of buying new sneakers, your donation could give someone the equivalent of several years of healthy life.[^4]
+The diminishing marginal utility of money implies that we can generally increase overall well-being by redistributing from the rich to the poor. The well-being we forego, as citizens of affluent countries, by donating $100 is small compared to the benefit this money will give to someone living in extreme poverty. Instead of buying new sneakers, your donation could give someone the equivalent of a year or more of healthy life.[^4]
 
 Given the diminishing marginal utility of money, the scourge of extreme global inequality implies that we can do an astonishing amount of good by donating to the global poor or other disadvantaged groups. For just a few dollars—the price of a coffee—we could pay for an insecticide-treated bednet that would protect two children in a developing country from malaria for two years.[^5] And this money may go even further when spent on effective programs within other cause areas.
 
@@ -69,7 +69,7 @@ On this basis, global health and development may be considered a particularly hi
 
 ![Global child mortality](/img/Global-Child-Mortality.png "Global child mortality")
 
-However, this progress is no reason to rest on our laurels, since we still have much further to go: a child mortality rate of 4.5% still means that around 15,000 children die worldwide every day.[^14] Fortunately, we can help decrease this number even further. The best interventions in global health and development are incredibly cost-effective: [GiveWell](https://www.givewell.org/), a leading organization that conducts in-depth charity evaluations, estimates that top-rated charities can prevent the death of a child from malaria for just $2,300 by providing preventive drugs.[^15]
+However, this progress is no reason to rest on our laurels, since we still have much further to go: a child mortality rate of 4.5% still means that around 15,000 children die worldwide every day.[^14] Fortunately, we can help decrease this number even further. The best interventions in global health and development are incredibly cost-effective: [GiveWell](https://www.givewell.org/), a leading organization that conducts in-depth charity evaluations, estimates that top-rated charities can prevent the death of a child from malaria for under $5,000 by providing preventive drugs.[^15]
 
 Other evidence-backed and cost-effective ways to help the very poor include giving deworming treatments, distributing anti-malarial bed nets, offering vitamin A fortification, and simply transferring money.[^16] All of these interventions present amazing opportunities to improve the well-being of others at very low cost to ourselves.
 
@@ -101,7 +101,7 @@ By the lights of longtermism, the most important moral problems are the ones whe
 
 > **An existential risk is a risk that threatens the destruction of humanity’s long-term potential.**[^25]
 
-Besides the deaths of all 7.8 billion people on this planet, an existential catastrophe would also entail the loss of all of humanity’s future potential. In short, if an existential catastrophe occurred, the loss of value would be astronomical.[^26]
+Besides the deaths of all 8 billion people on this planet, an existential catastrophe would also entail the loss of all of humanity’s future potential. In short, if an existential catastrophe occurred, the loss of value would be astronomical.[^26]
 
 If we avoid existential catastrophe, human civilization could survive for around a billion years before the Earth is no longer habitable. And if someday we settled other planets, civilization could continue for billions or trillions more.[^27] We may also expect the quality of life to continue to improve. We have seen dramatic improvements in human welfare over the past few centuries, driven by technological development and moral progress. These trends have allowed more of us to lead longer, more fulfilling lives.[^28] Fortunately, we should expect that further scientific and medical breakthroughs will continue to improve lives in the future.
 
@@ -119,13 +119,13 @@ As pointed out in the [previous chapter](/utilitarianism-and-practical-ethics#re
 
 ### Charitable Giving
 
-In slogan form, the utilitarian recommendation for using your money to help others is to “give more and give better”. Giving more simply means increasing the proportion of your income you give to charity. Giving better means finding and donating to the organizations that make the best use of your donation.
+In slogan form, the utilitarian recommendation for using your money to help others is to “give more and give better”. Giving more is self-explanatory. Giving better means finding and donating to the organizations that make the best use of your donation.
 
-We have already seen that citizens of affluent countries are in the richest few percent of the world’s population. By making small sacrifices, those in the affluent world have the power to dramatically improve the lives of others. Due to the extreme inequalities in wealth and income, one can do a lot more good by giving money to those most in need than by spending it on oneself.[^30] Fortunately, an increasing number of affluent people recognize the unique position they are in, and they have decided to give more of their resources to benefit others. For instance, [Giving What We Can](https://www.givingwhatwecan.org/) is a growing community of people who have [pledged to give at least 10% of their income](https://www.givingwhatwecan.org/pledge/) for the rest of their lives to wherever they believe the money will do the most good.[^31] Over 5,500 people have taken the pledge, collectively pledging to donate above $2 billion over their lifetimes.
+We have already seen that citizens of affluent countries are in the richest few percent of the world’s population. By making small sacrifices, those in the affluent world have the power to dramatically improve the lives of others. Due to the extreme inequalities in wealth and income, one can do a lot more good by giving money to those most in need than by spending it on oneself.[^30] Fortunately, an increasing number of affluent people recognize the unique position they are in, and they have decided to give more of their resources to benefit others. For instance, [Giving What We Can](https://www.givingwhatwecan.org/) is a growing community of people who have [pledged to give at least 10% of their income](https://www.givingwhatwecan.org/pledge/) for the rest of their lives to wherever they believe the money will do the most good.[^31] Over 9,000 people have taken the pledge, collectively pledging to donate billions of dollars over their lifetimes.
 
 Just giving more achieves little good, however, if the money is not spent wisely. Some ways of making a difference do vastly more good than others. Most people think that the best charities differ from the average in their effectiveness by only about a factor of 1.5 or so.[^32] However, counterintuitively, the most cost-effective charities are tens or even hundreds of times more effective than typical charities.[^33] Because of these vast differences between charities, the decision of where to donate is of great consequence; doing the most good requires us to make this decision very carefully.
 
-To give better, one can follow the recommendations from organizations such as [GiveWell](https://www.givewell.org/), which conducts exceptionally in-depth charity evaluations. GiveWell’s best-guess estimate is that the most cost-effective charities working in global health can save a child’s life for about $3,000.[^34] By donating 10% of their income each year, an affluent person will save a child’s life every year—dozens of lives over their lifetime. And if that person focused on more important causes, it is plausible that they could do far more good again.
+To give better, one can follow the recommendations from organizations such as [GiveWell](https://www.givewell.org/), which conducts exceptionally in-depth charity evaluations. GiveWell’s best-guess estimate is that the most cost-effective charities working in global health can save a child’s life for under $5,000.[^34] By donating 10% of their income each year, an affluent person will save a child’s life every year—dozens of lives over their lifetime. And if that person focused on more important causes, it is plausible that they could do far more good again.
 
 Perhaps surprisingly, a significant personal commitment to helping others involves sacrificing far less than one might initially have thought. Studies suggest that although there is a positive correlation between income and happiness, it is not as strong as one might think. In the US, for example, a 10% reduction in income is associated with only a 1% drop on a scale measuring life satisfaction.[^35] Moreover, it is not at all clear that we should think of donating 10% as equivalent to a 10% loss of income. There is some (conflicting) evidence to suggest that spending money on others can often improve our well-being by as much as or more than spending it on ourselves.[^36] So, it is not even clear that donating 10% of one’s income would be a personal sacrifice at all.[^37]
 
@@ -143,9 +143,9 @@ Third, by utilitarian lights, an effective way of doing good is by inspiring oth
 
 ## Conclusion
 
-Utilitarians accept an obligation to make helping others a very significant part of their lives. Also, they believe that in helping others, they should try to use their resources to do the most good, impartially considered, that they can.
+Utilitarians are committed to making _helping others_ a very significant part of their lives. Also, they believe that in helping others, they should try to use their resources to do the most good, impartially considered, that they can.
 
-The areas currently among the top priorities for utilitarians predominantly benefit groups that cannot defend their own interests. This includes people in extreme poverty, non-human animals, and future individuals. We have looked at three causes in particular: improving the conditions of those in extreme poverty, reducing the suffering of factory farmed animals, and improving the welfare of future generations by reducing existential risks.
+The areas currently among the top priorities for utilitarians predominantly benefit groups that cannot defend their own interests. This includes people in extreme poverty, non-human animals, and future individuals. We have looked at three corresponding causes: improving the conditions of those in extreme poverty, reducing the suffering of factory farmed animals, and protecting future generations by reducing existential risks.
 
 To do the most good they can, utilitarians often donate money to effective charities, work on helping others with their career, and do outreach aimed at encouraging other people to do these things. We face many severe moral problems, which present opportunities to do an enormous amount of good. To benefit others as much as possible, utilitarians carefully prioritize among their options, focusing their efforts wherever they believe they can make the biggest positive contribution to overall well-being.
 
@@ -203,7 +203,7 @@ The next chapter discusses important rival theories that may overlap significant
 
     The World Bank, PovcalNet. Regional aggregation using 2011 PPP and $1.9/day poverty line. <http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx>.
 
-[^3]: Cf. Drupp et al. (2018). [Discounting Disentangled](http://www.lse.ac.uk/GranthamInstitute/wp-content/uploads/2015/06/Working-Paper-172-Drupp-et-al.pdf). _American Economic Journal: Economic Policy_, 10 (4): 109-34.
+[^3]: Cf. Drupp et al. (2018). [Discounting Disentangled](http://www.lse.ac.uk/GranthamInstitute/wp-content/uploads/2015/06/Working-Paper-172-Drupp-et-al.pdf). _American Economic Journal: Economic Policy_, 10 (4): 109–34.
 [^4]: GiveWell (2019). Your Donation Can Change Someone's Life. <https://www.givewell.org/giving101/Changing-Someones-Life>.
 [^5]: GiveWell (2018). Mass Distribution of Long-Lasting Insecticide-Treated Nets (LLINs). <https://www.givewell.org/international/technical/programs/insecticide-treated-nets>.
 [^6]:
@@ -222,37 +222,37 @@ The next chapter discusses important rival theories that may overlap significant
 
     MacAskill, W. (2019). The Definition of Effective Altruism. In Greaves, H. & Pummer, T (ed.). _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
 
-[^11]: Parfit, D. (2017). _[On What Matters, Volume Three](https://en.wikipedia.org/wiki/On_What_Matters)_. Oxford: Oxford University Press, pp. 436-437
+[^11]: Parfit, D. (2017). _[On What Matters, Volume Three](https://en.wikipedia.org/wiki/On_What_Matters)_. Oxford: Oxford University Press, pp. 436–437.
 [^12]: For instance, Peter Singer’s book [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/) makes the case for the ethical importance of improving global health and international development. The updated 10-year anniversary edition is available for free download: <https://www.thelifeyoucansave.org/the-book/>
 [^13]: Roser, M.; Ritchie, H. & Dadonaite, B. (2019). Child & Infant Mortality <https://ourworldindata.org/child-mortality>. _Our World In Data_.
 [^14]: Roser, M.; Ritchie, H. & Dadonaite, B. (2019). Child & Infant Mortality <https://ourworldindata.org/child-mortality>. _Our World In Data_.
 [^15]: GiveWell (2019). Your Dollar Goes Further Overseas <https://www.givewell.org/giving101/Your-dollar-goes-further-overseas>.
 [^16]: GiveWell (2021). Our Top Charities. <https://www.givewell.org/charities/top-charities>.
-[^17]: Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.), pp. 143-144
+[^17]: Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.), pp. 143–144.
 [^18]: As explained in the [previous chapter](/utilitarianism-and-practical-ethics#speciesism), giving equal moral consideration to all animals does not necessarily imply that we should treat them all equally.
 [^19]: Sanders, B. (2018). Global Animal Slaughter Statistics And Charts <https://faunalytics.org/global-animal-slaughter-statistics-and-charts/>. _Faunalytics_.
 [^20]: Witwicki, K. (2019). Global Farmed & Factory Farmed Animals Estimates. <https://www.sentienceinstitute.org/global-animal-farming-estimates>. _Sentience Institute_.
 [^21]: Šimčikas, S. (2019). Corporate campaigns affect 9 to 120 years of chicken life per dollar spent <https://forum.effectivealtruism.org/posts/L5EZjjXKdNgcm253H/corporate-campaigns-affect-9-to-120-years-of-chicken-life>. _Effective Altruism Forum_.
 [^22]: Cf. Animal Charity Evaluators (2016). Why Farmed Animals? <https://animalcharityevaluators.org/donation-advice/why-farmed-animals/>.
-[^23]: Parfit, D. (1984). _Reasons and Persons_. Oxford: Oxford University Press, p. 454
+[^23]: Parfit, D. (1984). _Reasons and Persons_. Oxford: Oxford University Press, p. 454.
 [^24]: For a discussion of longtermism and its underlying assumptions, see Greaves, H. & MacAskill, W. (2019). [The case for strong longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_.
-[^25]: Ord, T. (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing, p. 37
+[^25]: Ord, T. (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing, p. 37.
 [^26]: Cf. Bostrom, N (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://www.cambridge.org/core/journals/utilitas/article/astronomical-waste-the-opportunity-cost-of-delayed-technological-development/2969D64410332BD099F36BAFC5B2ADE5). _Utilitas_. 15(3): 308–314.
 [^27]: Cf. Nick Beckstead (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/file/d/0B8P94pg6WYCIc0lXSUVYS1BnMkE/view?resourcekey=0-nk6wM1QIPl0qWVh2z9FG4Q)_. PhD Dissertation, Rutgers University. Section 3: The Case for Shaping the Far Future.
 [^28]: Roser, M. (2019). The short history of global living conditions and why it matters that we know it. <https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts>. _Our World In Data_.
 [^29]: Cf. Bostrom, N. (2013). [Existential Risks as a Global Priority](https://www.existential-risk.org/concept.html). _Global Policy_. 4(1): 15–31.
 [^30]: Cf. MacAskill, W. (2014). _[Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Random House. Chapter 1.
 [^31]: Note that Professor William MacAskill, coauthor of this website, is a cofounder of Giving What We Can.
-[^32]: Caviola, L., Schubert, S., Teperman, E., Moss, D., Greenberg, S., & Faber, N. (2020). [Donors vastly underestimate differences in charities’ effectiveness.](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/122268/Caviola%20et%20al._2020_JDM.pdf) _Judgment and Decision Making_. 15(4): 509-516.
+[^32]: Caviola, L., Schubert, S., Teperman, E., Moss, D., Greenberg, S., & Faber, N. (2020). [Donors vastly underestimate differences in charities’ effectiveness.](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/122268/Caviola%20et%20al._2020_JDM.pdf) _Judgment and Decision Making_. 15(4): 509–516.
 [^33]:
     GiveWell (2019). Your Dollar Goes Further When You Fund the Right Program. <https://www.givewell.org/giving101/Funding-the-Right-Program>.
 
     Ord, T. (2011). [The Moral Imperative toward Cost-Effectiveness in Global Health](https://pdfs.semanticscholar.org/1016/bb6788716e7b489c08853ce64f0063870a4b.pdf). _Center for Global Development_.
 
 [^34]: GiveWell (2019). Your Dollar Goes Further Overseas. <https://www.givewell.org/giving101/Your-dollar-goes-further-overseas>.
-[^35]: Stevenson & Wolfers (2013). [Subjective Well-Being and Income: Is There Any Evidence of Satiation?](https://www.nber.org/papers/w18992). _American Economic Review, American Economic Association_. 103(3): 598-604.
-[^36]: Dunn, E.; Gilbert, D. & Wilson, T. (2011). [If money doesn't make you happy, then you probably aren't spending it right](https://psycnet.apa.org/record/2011-17293-002). _Journal of Consumer Psychology_. 21(2): 115-125.
-[^37]: For more detail, see MacAskill, W.; Mogensen, A. & Ord, T. (2018). [Giving Isn’t Demanding](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7196aec212dd54a839425/1539774891904/Giving+Isn%27t+Demanding.pdf). In Woodruff, P. (ed.) _The Ethics of Giving: Philosophers' Perspectives on Philanthropy_. Oxford: Oxford University Press, pp. 178-203.
+[^35]: Stevenson & Wolfers (2013). [Subjective Well-Being and Income: Is There Any Evidence of Satiation?](https://www.nber.org/papers/w18992). _American Economic Review, American Economic Association_. 103(3): 598–604.
+[^36]: Dunn, E.; Gilbert, D. & Wilson, T. (2011). [If money doesn't make you happy, then you probably aren't spending it right](https://psycnet.apa.org/record/2011-17293-002). _Journal of Consumer Psychology_. 21(2): 115–125.
+[^37]: For more detail, see MacAskill, W.; Mogensen, A. & Ord, T. (2018). [Giving Isn’t Demanding](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7196aec212dd54a839425/1539774891904/Giving+Isn%27t+Demanding.pdf). In Woodruff, P. (ed.) _The Ethics of Giving: Philosophers' Perspectives on Philanthropy_. Oxford: Oxford University Press, pp. 178–203.
 [^38]: Note that Professor William MacAskill, coauthor of this website, is a cofounder of 80,000 Hours.
 [^39]: Cf. Todd, B. (2017). We reviewed over 60 studies about what makes for a dream job. Here’s what we found. <https://80000hours.org/career-guide/job-satisfaction/>. _80,000 Hours_.
 [^40]: Note that Professor William MacAskill, coauthor of this website, is the author of several of the listed resources on effective altruism. Moreover, he is a cofounder of both 80,000 Hours and Giving What We Can.
