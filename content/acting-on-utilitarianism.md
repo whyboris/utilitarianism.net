@@ -27,7 +27,7 @@ Wealth and income are distributed extremely unequally across the globe. Middle-c
 
 ![World income distribution](/img/World-Income-Distribution.png "World income distribution")
 
-> _Earning above 29,000 $ per year puts you in the richest 5% of the world population._ Cf. Giving What We Can (2019). How Rich Am I?, <https://howrichami.givingwhatwecan.org/?income=29000&countryCode=USA&household%5Badults%5D=1&household%5Bchildren%5D=0>.
+> _Earning above 29,000 $ per year puts you in the richest 5% of the world population._[^2a]
 
 Wealth and income exhibit what economists call _diminishing marginal utility_.[^3] The idea is simple: How much an individual’s well-being is increased by receiving a higher income depends on their current income. While richer people report being more satisfied with their lives overall, the richer you become, the less well-being you get from additional money. A poor farmer in Kenya will benefit much more from receiving an additional dollar than does a middle-class member of a rich country.
 
@@ -203,6 +203,7 @@ The next chapter discusses important rival theories that may overlap significant
 
     The World Bank, PovcalNet. Regional aggregation using 2011 PPP and $1.9/day poverty line. <http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx>.
 
+[^2a]: Cf. Giving What We Can (2019). How Rich Am I?, <https://howrichami.givingwhatwecan.org/?income=29000&countryCode=USA&household%5Badults%5D=1&household%5Bchildren%5D=0>.
 [^3]: Cf. Drupp et al. (2018). [Discounting Disentangled](http://www.lse.ac.uk/GranthamInstitute/wp-content/uploads/2015/06/Working-Paper-172-Drupp-et-al.pdf). _American Economic Journal: Economic Policy_, 10 (4): 109–34.
 [^4]: GiveWell (2019). Your Donation Can Change Someone's Life. <https://www.givewell.org/giving101/Changing-Someones-Life>.
 [^5]: GiveWell (2018). Mass Distribution of Long-Lasting Insecticide-Treated Nets (LLINs). <https://www.givewell.org/international/technical/programs/insecticide-treated-nets>.
