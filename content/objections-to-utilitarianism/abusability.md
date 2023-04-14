@@ -41,7 +41,7 @@ Notably, whatever decision procedure utilitarianism _actually_ recommends can't 
 
 But a residual objection remains, for two reasons. First, sincerely _trying_ to follow a moral theory doesn't mean that you'll _succeed_ in doing as it recommends; inept agents, inspired by utilitarianism, could still do great harm. Second, not all agents are morally sincere. Some may intentionally do harm while invoking the "greater good" to rationalize their actions. Accordingly, critics may worry that widespread acceptance of utilitarian justifications would make it easier for bad actors to get away with committing atrocities.[^4]
 
-Neither of these residual objections speaks to the _truth_ of utilitarianism. Sometimes true claims can be misunderstood or misused in harmful ways. The question is what should be done about this risk.
+Neither of these residual objections speaks to the _truth_ of utilitarianism. Sometimes true claims can be misunderstood or misused in harmful ways.[^4a] The question is what should be done about this risk.
 
 One possibility would be to embrace some non-utilitarian moral theory as a "noble lie".[^5] Many philosophers have speculated that consequentialist ethics may be _self-effacing_, and direct us to believe some other theory instead.[^6] For example, one might speculate that people have a psychological tendency to underweight "merely" instrumental considerations, and so we would be better protected against atrocities if people generally believed human rights to have _non-instrumental_ moral significance. But in light of the [general instrumental value of truth-seeking](/guest-essays/virtues-for-real-world-utilitarians/#truth-seeking), it's worth first checking whether the risks can be mitigated without resorting to deception.
 
@@ -94,6 +94,8 @@ Still, at the end of the day there's no guarantee that true beliefs will be soci
 
 [^4]:
      Though again, it's interesting to consider how competing views fare against this objection. Many are so vague that they leave plenty of room for self-serving interpretations, and so would also seem easily exploitable by bad actors.
+
+[^4a]: As [John Stuart Mill](/utilitarian-thinker/john-stuart-mill/) writes in [chapter 2 of _Utilitarianism_](/books/utilitarianism-john-stuart-mill/2/), "There is no difficulty in proving any ethical standard whatever to work ill, if we suppose universal idiocy to be conjoined with it".
 
 [^5]:
      Or perhaps as a simplified "[lie-to-children](https://en.wikipedia.org/wiki/Lie-to-children)".
