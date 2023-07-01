@@ -103,7 +103,7 @@ In slogan form, the utilitarian recommendation for using your money to help othe
 
 Citizens of affluent countries are in the richest few percent of the world’s population. By making small sacrifices, those in the affluent world have the power to dramatically improve the lives of others. Due to the extreme inequalities in wealth and income, one can do a lot more good by giving money to those most in need than by spending it on oneself.[^12]
 
-To give better, one can follow the recommendations from organizations such as [GiveWell](https://www.givewell.org/), which conducts exceptionally in-depth charity evaluations. GiveWell’s best-guess estimate is that the most cost-effective charities working in global health can save a child’s life for about $3,000.[^13]
+To give better, one can follow the recommendations from organizations such as [GiveWell](https://www.givewell.org/), which conducts exceptionally in-depth charity evaluations. GiveWell’s best-guess estimate is that the most cost-effective charities working in global health can save a child’s life for about $5,000.[^13]
 
 </details>
 
