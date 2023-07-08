@@ -238,7 +238,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 ### Consequentialism
 
 - Julia Driver (2011). _[Consequentialism, New Problems of Philosophy](https://www.routledge.com/Consequentialism/Driver/p/book/9780415772587)_. José Luis Bermúdez (ed.). Abingdon: Routledge.
-- Samuel Scheffler (1994). _[The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions](https://www.oxfordscholarship.com/view/10.1093/0198235119.001.0001/acprof-9780198235118)_. Oxford: Clarendon Press.
+- Samuel Scheffler (1994). _[The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions](https://global.oup.com/academic/product/the-rejection-of-consequentialism-9780198235118)_. Oxford: Clarendon Press.
 - Walter Sinnott-Armstrong (2015). [Consequentialism](https://plato.stanford.edu/entries/consequentialism/). _Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 
 ### Welfarism & Theories of Well-Being
@@ -260,7 +260,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 
 ### Hedonism
 
-- Roger Crisp (2006). [Hedonism Reconsidered](https://doi.org/10.2307/40041013). _Philosophy and Phenomenological Research_. 73(3): 619–645.
+- Roger Crisp (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). _Philosophy and Phenomenological Research_. 73(3): 619–645.
 - Fred Feldman (2004). _[Pleasure and the Good Life: Concerning the Nature, Varieties and Plausibility of Hedonism](https://doi.org/10.1093/019926516X.001.0001)_. Oxford University Press.
 - Shelly Kagan (1992).[The Limits of Well-being](https://doi.org/10.1017/S0265052500001461). Social Philosophy & Policy. 9(2): 169–189.
 - Ole Martin Moen (2016). [An Argument for Hedonism](https://link.springer.com/article/10.1007/s10790-015-9506-9). _The Journal of Value Inquiry_. 50: 267–281.
@@ -293,7 +293,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 ### Multi-level Utilitarianism Versus Single-level Utilitarianism
 
 - Roger Crisp (1997). _[Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2)_. Routledge, pp. 105–112.
-- Richard M. Hare (1981). _[Moral Thinking: Its Levels, Method, and Point](https://oxford.universitypressscholarship.com/view/10.1093/0198246609.001.0001/acprof-9780198246602)_. Oxford University Press.
+- Richard M. Hare (1981). _[Moral Thinking: Its Levels, Method, and Point](https://doi.org/10.1093/0198246609.001.0001)_. Oxford University Press.
 - Peter Railton (1984). [Alienation, consequentialism, and the demands of morality](https://www.jstor.org/stable/2265273). _Philosophy and Public Affairs_. 13(2): 134–171.
 
 ### Global Utilitarianism and Hybrid Utilitarianism
@@ -364,7 +364,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
     For a discussion of the multi-level view in the context of Mill’s _Utilitarianism_, see Crisp, R. (1997). _[Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2)_. Abingdon: Routledge, pp. 105–112.
 
 [^22]:
-    Hare, R. M. (1981). [Moral Thinking: Its Levels, Method, and Point](https://oxford.universitypressscholarship.com/view/10.1093/0198246609.001.0001/acprof-9780198246602). Oxford: Oxford University Press.
+    Hare, R. M. (1981). [Moral Thinking: Its Levels, Method, and Point](https://doi.org/10.1093/0198246609.001.0001). Oxford: Oxford University Press.
 
     Railton, P. (1984). [Alienation, consequentialism, and the demands of morality](https://www.jstor.org/stable/2265273). _Philosophy and Public Affairs_. 13(2): 134–171.
 
@@ -383,7 +383,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 
     Pettit, P. & Smith, M. (2000). [Global Consequentialism](https://philarchive.org/archive/PETGC), in Brad Hooker, Elinor Mason & Dale Miller (eds.), _Morality, Rules and Consequences: A Critical Reader_. Edinburgh University Press.
 
-    Ord, T. (2009). [Beyond Action: Applying Consequentialism to Decision Making and Motivation](https://drive.google.com/open?id=0B4kMPIEI5Mb8S201Wl85NTN1UHc). DPhil Thesis, University of Oxford.
+    Ord, T. (2009). [Beyond Action: Applying Consequentialism to Decision Making and Motivation](http://files.tobyord.com/beyond-action.pdf). DPhil Thesis, University of Oxford.
 
     For criticism, see:
 
@@ -394,6 +394,6 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
     The latter argues that Global Consequentialism is best understood as a merely verbal variant of Act Consequentialism.
 
 [^26]: Driver, J. (2001). Chapter Four: A Consequentialist Theory of Virtue. _[Uneasy Virtue](https://doi.org/10.1017/CBO9780511498770)_. Cambridge University Press, 63–83.
-[^27]: Hurka, T. (2001). _[Virtue, Vice, and Value](https://oxford.universitypressscholarship.com/view/10.1093/0195137167.001.0001/acprof-9780195137163)_. Oxford University Press.
+[^27]: Hurka, T. (2001). _[Virtue, Vice, and Value](https://doi.org/10.1093/0195137167.001.0001)_. Oxford University Press.
 [^28]: This mirrors Parfit's distinction between 'state-given' vs 'object-given' reasons. See Parfit, D. (2011) _On What Matters_, vol 1. Oxford University Press, p. 50.
 [^29]: For further defense of this view, see Chappell, R.Y. Consequentialism: Core and Expansion, forthcoming in D. Copp, C. Rosati, and T. Rulli (eds.) _The Oxford Handbook of Normative Ethics_.

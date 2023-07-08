@@ -113,7 +113,7 @@ The next chapter discusses the four elements of utilitarian theories in greater 
 - Bart Schultz (2017). _[The Happiness Philosophers: The Lives and Works of the Great Utilitarians](https://www.jstor.org/stable/j.ctt1vwmggk)_. Princeton: Princeton University Press.
 - James Crimmins (2017). _[The Bloomsbury Encyclopedia of Utilitarianism](https://www.bloomsbury.com/uk/the-bloomsbury-encyclopedia-of-utilitarianism-9781350021693/)_. Bloomsbury.
 - Derek Parfit (2011/17). _[On What Matters](https://en.wikipedia.org/wiki/On_What_Matters)_. Oxford: Oxford University Press.
-- Yew-Kwang Ng (1990). [Welfarism and Utilitarianism: A Rehabilitation](https://www.ntu.edu.sg/home/ykng/Welfarianism&Utilitarianism.pdf). _Utilitas_. 2(2): 171–193.
+- Yew-Kwang Ng (1990). [Welfarism and Utilitarianism: A Rehabilitation](https://doi.org/10.1017/S0953820800000650). _Utilitas_. 2(2): 171–193.
 
 [^1]: _Mòzǐ_ 32: 1, C. Fraser transl.
 [^2]:

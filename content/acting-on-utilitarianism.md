@@ -197,9 +197,7 @@ To do the most good they can, utilitarians often donate money to effective chari
 
 [^1]: Bentham’s advice to a young girl in 1830. Bentham, J., ed. by Goldworth, A. (1983). _Deontology together with A Table of the Springs of Action and Article on Utilitarianism_. Oxford: Clarendon, p.xix.
 [^2]:
-    An estimated 734 million people lived in extreme poverty in 2015, meaning that they earned less than $1.90 per day (in 2011 prices). Thus, an annual income of $ 35,000 corresponds to 50 times the annual income of a person living just below the extreme poverty line.
-
-    The World Bank, PovcalNet. [Regional aggregation using 2011 PPP and $1.9/day poverty line](http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx).
+    [The World Bank](https://data.worldbank.org/) estimated that 734 million people lived in extreme poverty in 2015, meaning that they earned less than $1.90 per day (in 2011 prices). Thus, an annual income of $35,000 corresponds to 50 times the annual income of a person living just below the extreme poverty line.
 
 [^3]: Cf. Drupp et al. (2018). [Discounting Disentangled](http://www.lse.ac.uk/GranthamInstitute/wp-content/uploads/2015/06/Working-Paper-172-Drupp-et-al.pdf). _American Economic Journal: Economic Policy_, 10 (4): 109–34.
 [^4]: GiveWell (2019). [Your Donation Can Change Someone's Life](https://www.givewell.org/giving101/Changing-Someones-Life).
@@ -208,7 +206,7 @@ To do the most good they can, utilitarians often donate money to effective chari
     In 2013, Peter Singer gave a [TED talk on effective altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en).
 
     For a more detailed and recent introduction to effective altruism, see MacAskill, W. (2019). [Effective Altruism](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7205d104c7bf5cc8f1dca/1539776611190/Effective+Altruism+-+Introduction.pdf). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.).
-[^7]: For a detailed philosophical discussion of effective altruism, see the 16 articles included in Greaves, H. & Pummer, T. (2019). _[Effective Altruism: Philosophical Issues](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198841364.001.0001/oso-9780198841364)_. Oxford: Oxford University Press.
+[^7]: For a detailed philosophical discussion of effective altruism, see the 16 articles included in Greaves, H. & Pummer, T. (2019). _[Effective Altruism: Philosophical Issues](https://doi.org/10.1093/oso/9780198841364.001.0001)_. Oxford: Oxford University Press.
 [^8]:
     “It is true that effective altruism has some similarities with utilitarianism: it is maximising, it is primarily focused on improving wellbeing, many members of the community make significant sacrifices in order to do more good, and many members of the community self-describe as utilitarians.”
 

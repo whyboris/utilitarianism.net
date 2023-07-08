@@ -76,7 +76,7 @@ Still, at the end of the day there's no guarantee that true beliefs will be soci
 ## Resources and Further Reading
 
 - Allan Gibbard (1984). [Utilitarianism and Human Rights](https://doi.org/10.1017/s0265052500003897). _Social Philosophy and Policy_, 1(2): 92–102.
-- R.M. Hare (1981). _[Moral Thinking](https://philpapers.org/rec/HARMTI)_. Oxford University Press.
+- R.M. Hare (1981). _[Moral Thinking](https://doi.org/10.1093/0198246609.001.0001)_. Oxford University Press.
 - Katarzyna de Lazari-Radek & Peter Singer (2010). [Secrecy in Consequentialism: A defence of esoteric morality](https://doi.org/10.1111/j.1467-9329.2009.00449.x). _Ratio_, 23(1): 34–58.
 - J.L. Mackie (1985). Rights, Utility, and Universalization. In R.G. Frey (ed.) _Utility and Rights_. Basil Blackwell.
 - Derek Parfit (1984). _Reasons and Persons_, Part One: Self-Defeating Theories. Clarendon Press.

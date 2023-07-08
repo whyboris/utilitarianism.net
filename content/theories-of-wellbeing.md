@@ -192,7 +192,7 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 - Andrew Moore (2019). [Hedonism](https://plato.stanford.edu/entries/hedonism/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Ole Martin Moen (2016). [An Argument for Hedonism](https://doi.org/10.1007/s10790-015-9506-9). _The Journal of Value Inquiry_. 50: 267–281 (2016).
 - Ivar Labukt (2012). [Hedonic Tone and the Heterogeneity of Pleasure](https://doi.org/10.1017/S0953820812000052). _Utilitas_. 24(2): 172–199.
-- Roger Crisp (2006). [Hedonism Reconsidered](https://doi.org/10.2307/40041013). _Philosophy and Phenomenological Research_. 73(3): 619–645.
+- Roger Crisp (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). _Philosophy and Phenomenological Research_. 73(3): 619–645.
 - Fred Feldman (2004). _[Pleasure and the Good Life: Concerning the Nature Varieties and Plausibility of Hedonism](https://doi.org/10.1093/019926516X.001.0001)_. Oxford: Oxford University Press.
 
 ### Desire Theories
@@ -282,7 +282,7 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 
 [^31]: Though there would not seem any value in memorizing the phonebook or other trivial data, so this is best restricted to _significant_ knowledge, or knowledge of _important_ truths.
 [^32]: Recall our contrast of person A (with the excellent life) and person B who experiences a passive “replay” of A’s life, with an extra jolt of pleasure at the end. Although B’s life contains more pleasure, A’s life will contain more overall value if we also count loving relationships, achievement, etc., as basic welfare goods. While B’s life contains all the same experiences _as of_ loving relationships, achievement, etc., as A’s did, it is a passive “replay”, involving no actual choices or interactions. Therefore, B’s life includes none of A’s actual achievements or relationships.
-[^33]: For a state of the art exploration of the relations between theories of well-being and metaethical views, see Fletcher, G. (2021). _[Dear Prudence: The Nature and Normativity of Prudential Discourse](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198858263.001.0001/oso-9780198858263)_. Oxford University Press. Chapter 7: Prudential Normativity.
+[^33]: For a state of the art exploration of the relations between theories of well-being and metaethical views, see Fletcher, G. (2021). _[Dear Prudence: The Nature and Normativity of Prudential Discourse](https://doi.org/10.1093/oso/9780198858263.001.0001)_. Oxford University Press. Chapter 7: Prudential Normativity.
 [^34]: [Expressivists](https://www.rep.routledge.com/articles/thematic/expressivism/v-1) may give an anti-realist gloss on what “really mattering” amounts to. But then they can just as comfortably extend this gloss to the kind of first-order “objectivity” posited by objective list theories.
 [^35]: Cf. Bedke, M. (2010). [Might All Normativity be Queer?](https://dx.doi.org/10.1080/00048400802636445). _Australasian Journal of Philosophy_. 88(1): 41–58.
 [^36]: It would indeed be less “mysterious” to deny the reality of value, and claim that subjective valuing is _all there is_ in the vicinity. But this would be a form of nihilism: that _S_ values _p_ is a purely descriptive fact about _S_’s psychology. There is nothing inherently value-laden about this, unless we further claim that subjective valuation is something that actually _matters_ in some way. And then we are back to attributing real value, in all its mysterious glory.

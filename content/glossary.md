@@ -705,7 +705,7 @@ The main alternative to single-level utilitarianism is _multi-level utilitariani
 
 _External links:_
 
-- Hare, R.M. (1981). Chapters 1–3, [_Moral Thinking: Its Methods, Levels, and Point_](https://oxford.universitypressscholarship.com/view/10.1093/0198246609.001.0001/acprof-9780198246602). Oxford: Oxford University Press.
+- Hare, R.M. (1981). Chapters 1–3, [_Moral Thinking: Its Methods, Levels, and Point_](https://doi.org/10.1093/0198246609.001.0001). Oxford: Oxford University Press.
 - Roger Crisp (1997). [_Routledge Philosophy Guidebook to Mill on Utilitarianism_](https://philpapers.org/rec/CRIRPG-2). Routledge, pp. 105–112.
 
 </details>
@@ -844,7 +844,7 @@ _External links:_ [Well-being](https://plato.stanford.edu/entries/well-being/), 
 [^14]: GiveWell (2019). [Your dollar goes further overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
 [^15]: GiveWell (2019). [Against Malaria Foundation](https://www.givewell.org/charities/amf).
 [^16]: Alexander, L. & Moore, M. (2020). [Deontological Ethics](https://plato.stanford.edu/archives/win2020/entries/ethics-deontological/). The Stanford Encyclopedia of Philosophy. Zalta, E. N. (ed.).
-[^17]: For a detailed philosophical discussion of effective altruism, see the 16 articles included in Greaves, H. & Pummer, T. (2019). [Effective Altruism: Philosophical Issues](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198841364.001.0001/oso-9780198841364). Oxford: Oxford University Press.
+[^17]: For a detailed philosophical discussion of effective altruism, see the 16 articles included in Greaves, H. & Pummer, T. (2019). [Effective Altruism: Philosophical Issues](https://doi.org/10.1093/oso/9780198841364.001.0001). Oxford: Oxford University Press.
 [^18]: Ord, T. (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing, p. 37
 [^19]: Cf. Singer, P. (1981). _[The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle)_. Princeton: Princeton University Press.
 [^20]: Utilitarians of any type understand “value” in terms of well-being.

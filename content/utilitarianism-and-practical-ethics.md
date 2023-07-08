@@ -182,7 +182,7 @@ The next chapter discusses important rival theories that may overlap significant
 ### Respecting Commonsense Moral Norms
 
 - Allan Gibbard (1984). [Utilitarianism and Human Rights](https://doi.org/10.1017/s0265052500003897). _Social Philosophy and Policy_, 1(2): 92–102.
-- R.M. Hare (1981). _[Moral Thinking](https://philpapers.org/rec/HARMTI)_. Oxford University Press.
+- R.M. Hare (1981). _[Moral Thinking](https://doi.org/10.1093/0198246609.001.0001)_. Oxford University Press.
 - J.L. Mackie (1985). Rights, Utility, and Universalization. In R.G. Frey (ed.) _Utility and Rights_. Basil Blackwell.
 - Philip Pettit & Geoffrey Brennan (1986). [Restrictive Consequentialism](https://doi.org/10.1080/00048408612342631). _Australasian Journal of Philosophy_, 64(4): 438–455.
 
@@ -198,14 +198,14 @@ The next chapter discusses important rival theories that may overlap significant
 [^10]:
     Singer, P. (2002). _[Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>)_. New York: HarperCollins Publishers, p. 9
     Indeed, there is psychological evidence suggesting that speciesism goes hand in hand with other discriminatory attitudes like racism, sexism, and homophobia: Cf.
-    Caviola, L; Everett, J. A. C. & Faber, N. S. (2017). [The Moral Standing of Animals: Towards a Psychology of Speciesism](http://www.jimaceverett.com/wp-content/uploads/2017/12/Caviola-Everett-and-Faber-2018-Speciesism-JPSP-Pre-Print.pdf). _Journal of Personality and Social Psychology_. 116(6): 1011–1029.
+    Caviola, L; Everett, J. A. C. & Faber, N. S. (2017). [The Moral Standing of Animals: Towards a Psychology of Speciesism](https://doi.org/10.1037/pspp0000182). _Journal of Personality and Social Psychology_. 116(6): 1011–1029.
 
 [^11]: For instance, see the [Cambridge Declaration on Consciousness](https://en.wikipedia.org/wiki/Animal_consciousness#Cambridge_Declaration_on_Consciousness) from Low, P. et al. (2012)
-[^12]: Ray, G. (2017). [How Many Wild Animals Are There?](https://was-research.org/writing-by-others/many-wild-animals/). _Wild Animal Suffering Research_.
+[^12]: Tomasik, B. (2019). [How Many Wild Animals Are There?](https://reducing-suffering.org/how-many-wild-animals-are-there/).
 [^13]:
     There is an ongoing academic debate about the moral importance of wild animal welfare. For example, see the following:
-    Ng, Y. (1995). [Towards Welfare Biology: Evolutionary Economics of Animal Consciousness and Suffering](https://www.ntu.edu.sg/home/ykng/Towards%20Welfare%20Biology-1995.pdf). _Biology and Philosophy_. 10 (3): 255–285. [doi:10.1007/BF00852469](https://doi.org/10.1007%2FBF00852469)
-    McMahan, J. (2013). [The Moral Problem of Predation](http://jeffersonmcmahan.com/wp-content/uploads/2012/11/The-Moral-Problem-of-Predation.pdf). In Chignell, A; Cuneo, T. & Halteman, M. (eds.). _Philosophy Comes to Dinner: Arguments on the Ethics of Eating_. London: Routledge.
+    Ng, Y. (1995). [Towards Welfare Biology: Evolutionary Economics of Animal Consciousness and Suffering](https://doi.org/10.1007/BF00852469). _Biology and Philosophy_. 10 (3): 255–285.
+    McMahan, J. (2013). [The Moral Problem of Predation](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203154410-18/moral-problem-predation-jeff-mcmahan). In Chignell, A; Cuneo, T. & Halteman, M. (eds.). _Philosophy Comes to Dinner: Arguments on the Ethics of Eating_. London: Routledge.
     Moen, O. M. (2016). [The Ethics of Wild Animal Suffering](http://www.olemartinmoen.com/wp-content/uploads/TheEthicsofWildAnimalSuffering.pdf). _Etikk I Praksis - Nordic Journal of Applied Ethics_. **10**: 1–14.
 
 [^14]:

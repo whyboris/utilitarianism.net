@@ -35,7 +35,7 @@ Resources for [Introduction to Utilitarianism](/introduction-to-utilitarianism):
 - Bart Schultz (2017). _[The Happiness Philosophers: The Lives and Works of the Great Utilitarians](https://www.jstor.org/stable/j.ctt1vwmggk)_. Princeton: Princeton University Press.
 - James Crimmins (2017). _[The Bloomsbury Encyclopedia of Utilitarianism](https://www.bloomsbury.com/uk/the-bloomsbury-encyclopedia-of-utilitarianism-9781350021693/)_. Bloomsbury.
 - Derek Parfit (2017). _[On What Matters](https://en.wikipedia.org/wiki/On_What_Matters)_. Oxford: Oxford University Press.
-- Yew-Kwang Ng (1990). [Welfarism and Utilitarianism: A Rehabilitation](https://www.ntu.edu.sg/home/ykng/Welfarianism&Utilitarianism.pdf). _Utilitas_. 2(2): 171–193.
+- Yew-Kwang Ng (1990). [Welfarism and Utilitarianism: A Rehabilitation](https://doi.org/10.1017/S0953820800000650). _Utilitas_. 2(2): 171–193.
 
 ---
 
@@ -46,7 +46,7 @@ Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 ### Consequentialism
 
 - Julia Driver (2011). _[Consequentialism, New Problems of Philosophy](https://www.routledge.com/Consequentialism/Driver/p/book/9780415772587)_. José Luis Bermúdez (ed.). Abingdon: Routledge.
-- Samuel Scheffler (1994). _[The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions](https://www.oxfordscholarship.com/view/10.1093/0198235119.001.0001/acprof-9780198235118)_. Oxford: Clarendon Press.
+- Samuel Scheffler (1994). _[The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions](https://global.oup.com/academic/product/the-rejection-of-consequentialism-9780198235118)_. Oxford: Clarendon Press.
 - Walter Sinnott-Armstrong (2015). [Consequentialism](https://plato.stanford.edu/entries/consequentialism/). _Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 
 ### Welfarism & Theories of Well-Being
@@ -68,7 +68,7 @@ Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 
 ### Hedonism
 
-- Roger Crisp (2006). [Hedonism Reconsidered](https://doi.org/10.2307/40041013). _Philosophy and Phenomenological Research_. 73(3): 619–645.
+- Roger Crisp (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). _Philosophy and Phenomenological Research_. 73(3): 619–645.
 - Fred Feldman (2004). _[Pleasure and the Good Life: Concerning the Nature, Varieties and Plausibility of Hedonism](https://doi.org/10.1093/019926516X.001.0001)_. Oxford University Press.
 - Shelly Kagan (1992).[The Limits of Well-being](https://doi.org/10.1017/S0265052500001461). Social Philosophy & Policy. 9(2): 169–189.
 - Ole Martin Moen (2016). [An Argument for Hedonism](https://link.springer.com/article/10.1007/s10790-015-9506-9). _The Journal of Value Inquiry_. 50: 267–281.
@@ -101,7 +101,7 @@ Resources for [Elements and Types of Utilitarianism](/types-of-utilitarianism):
 ### Multi-level Utilitarianism Versus Single-level Utilitarianism
 
 - Roger Crisp (1997). _[Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2)_. Routledge, pp. 105–112.
-- Richard M. Hare (1981). _[Moral Thinking: Its Levels, Method, and Point](https://oxford.universitypressscholarship.com/view/10.1093/0198246609.001.0001/acprof-9780198246602)_. Oxford University Press.
+- Richard M. Hare (1981). _[Moral Thinking: Its Levels, Method, and Point](https://doi.org/10.1093/0198246609.001.0001)_. Oxford University Press.
 - Peter Railton (1984). [Alienation, consequentialism, and the demands of morality](https://www.jstor.org/stable/2265273). _Philosophy and Public Affairs_. 13(2): 134–171.
 
 ### Global Utilitarianism and Hybrid Utilitarianism
@@ -152,7 +152,7 @@ Resources for [Theories of Well-Being](/theories-of-wellbeing):
 - Andrew Moore (2019). [Hedonism](https://plato.stanford.edu/entries/hedonism/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 - Ole Martin Moen (2016). [An Argument for Hedonism](https://doi.org/10.1007/s10790-015-9506-9). _The Journal of Value Inquiry_. 50: 267–281 (2016).
 - Ivar Labukt (2012). [Hedonic Tone and the Heterogeneity of Pleasure](https://doi.org/10.1017/S0953820812000052). _Utilitas_. 24(2): 172–199.
-- Roger Crisp (2006). [Hedonism Reconsidered](https://doi.org/10.2307/40041013). _Philosophy and Phenomenological Research_. 73(3): 619–645.
+- Roger Crisp (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). _Philosophy and Phenomenological Research_. 73(3): 619–645.
 - Fred Feldman (2004). _[Pleasure and the Good Life: Concerning the Nature Varieties and Plausibility of Hedonism](https://doi.org/10.1093/019926516X.001.0001)_. Oxford: Oxford University Press.
 
 ### Desire Theories
@@ -278,7 +278,7 @@ Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practica
 ### Respecting Commonsense Moral Norms
 
 - Allan Gibbard (1984). [Utilitarianism and Human Rights](https://doi.org/10.1017/s0265052500003897). _Social Philosophy and Policy_, 1(2): 92–102.
-- R.M. Hare (1981). _[Moral Thinking](https://philpapers.org/rec/HARMTI)_. Oxford University Press.
+- R.M. Hare (1981). _[Moral Thinking](https://doi.org/10.1093/0198246609.001.0001)_. Oxford University Press.
 - J.L. Mackie (1985). Rights, Utility, and Universalization. In R.G. Frey (ed.) _Utility and Rights_. Basil Blackwell.
 - Philip Pettit & Geoffrey Brennan (1986). [Restrictive Consequentialism](https://doi.org/10.1080/00048408612342631). _Australasian Journal of Philosophy_, 64(4): 438–455.
 
@@ -334,7 +334,7 @@ Resources for [Objections to Utilitarianism and Responses](/objections-to-utilit
 - Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford: Oxford University Press. Chapter 4: Objections, Section “Does utilitarianism tell us to act immorally?”.
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. London: Continuum. Chapter 8: Is Utilitarianism too Permissive?
 - Shelly Kagan (1998). _[Normative Ethics](https://books.google.de/books/about/Normative_Ethics.html?id=iO8TAAAAYAAJ&redir_esc=y)_. Boulder, CO: Westview Press. Chapter 3.
-- Shelly Kagan (1989). _[The Limits of Morality](https://oxford.universitypressscholarship.com/view/10.1093/0198239165.001.0001/acprof-9780198239161)_. New York: Oxford University Press.
+- Shelly Kagan (1989). _[The Limits of Morality](https://doi.org/10.1093/0198239165.001.0001)_. New York: Oxford University Press.
 - Eduardo Rivera-López (2012). [The Moral Murderer. A (more) effective counterexample to consequentialism](https://doi.org/10.1111/j.1467-9329.2012.00544.x). _Ratio_, 25(3): 307–325.
 - Judith Jarvis Thomson (1976). [Killing, Letting Die, and the Trolley Problem](https://doi.org/10.5840/monist197659224). _The Monist_. 59 (2): 204–17
 - Scott Woodcock (2017). [When Will a Consequentialist Push You in Front of a Trolley?](https://doi.org/10.1080/00048402.2016.1212909) _Australasian Journal of Philosophy_. 95 (2): 299–316.
@@ -404,7 +404,7 @@ Resources for [Objections to Utilitarianism and Responses](/objections-to-utilit
 ### The Abusability Objection
 
 - Allan Gibbard (1984). [Utilitarianism and Human Rights](https://doi.org/10.1017/s0265052500003897). _Social Philosophy and Policy_, 1(2): 92–102.
-- R.M. Hare (1981). _[Moral Thinking](https://philpapers.org/rec/HARMTI)_. Oxford University Press.
+- R.M. Hare (1981). _[Moral Thinking](https://doi.org/10.1093/0198246609.001.0001)_. Oxford University Press.
 - Katarzyna de Lazari-Radek & Peter Singer (2010). [Secrecy in Consequentialism: A defence of esoteric morality](https://doi.org/10.1111/j.1467-9329.2009.00449.x). _Ratio_, 23(1): 34–58.
 - J.L. Mackie (1985). Rights, Utility, and Universalization. In R.G. Frey (ed.) _Utility and Rights_. Basil Blackwell.
 - Derek Parfit (1984). _Reasons and Persons_, Part One: Self-Defeating Theories. Clarendon Press.
