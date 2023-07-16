@@ -14,5 +14,38 @@
         alt="PDF download"
       />
     </a>
+
+  <audio id="player" preload="none" style="display: none">
+    <source src="/mp3/{{ $myVar4 }}.mp3" type="audio/mpeg" />
+  </audio>
+
+  <script>
+    let playing = false;
+    function togglePlayOrPause() {
+      if (playing) {
+        document.getElementById('player').pause();
+        document.getElementById('playbutton').classList.remove("pause");
+      } else {
+        document.getElementById('player').play();
+        document.getElementById('playbutton').classList.add("pause");
+      }
+      playing = !playing;
+    }
+  </script>
+
+  <div onclick="togglePlayOrPause()" class="mp3" title="Play audio recording of content">
+    <button id="playbutton"></button>
+  </div>
+
+  <a href="/mp3/{{ $myVar4 }}.mp3">
+    <img
+      src="/img/mp3.svg"
+      class="pdf-icon"
+      title="Download as MP3"
+      alt="MP3 download"
+    />
+  </a>
+
   {{ end }}
+
 </div>
