@@ -162,7 +162,7 @@ h1 {
     .clickable {
       height:100%;
       left: 0;
-      position:absolute; 
+      position:absolute;
       top:0;
       width:100%;
       z-index: 1;
@@ -401,6 +401,13 @@ hr {
   .pdf-icon {
     width: 30px;
     height: 30px;
+
+    transition-property: scale;
+    transition-duration: 125ms;
+
+    &:hover {
+      scale: 1.2;
+    }
   }
 }
 

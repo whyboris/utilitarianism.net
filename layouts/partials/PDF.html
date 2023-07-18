@@ -1,51 +1,51 @@
-<div class="pdf-download">
-  {{ with .Page }}
-    {{ $myVar := print .Params.title "_Utilitarianism_net" }}
-    {{ $myVar2 := replaceRE "( |,|_|-|—|:|'|\\.|  )" "_" $myVar }}
-    {{ $myVar3 := replace $myVar2 "__" "_" }}
-    {{ $myVar4 := replace $myVar3 "__" "_" }}
-
-
-    <a href="/pdf/{{ $myVar4 }}.pdf">
-      <img
-        src="/img/pdf.svg"
-        class="pdf-icon"
-        title="Download as PDF"
-        alt="PDF download"
-      />
-    </a>
-
-  <audio id="player" preload="none" style="display: none">
-    <source src="/mp3/{{ $myVar4 }}.mp3" type="audio/mpeg" />
-  </audio>
-
-  <script>
-    let playing = false;
-    function togglePlayOrPause() {
-      if (playing) {
-        document.getElementById('player').pause();
-        document.getElementById('playbutton').classList.remove("pause");
-      } else {
-        document.getElementById('player').play();
-        document.getElementById('playbutton').classList.add("pause");
-      }
-      playing = !playing;
+<script>
+  let playing = false;
+  let firstTime = true;
+  function togglePlayOrPause() {
+    if (firstTime) {
+      document.getElementById('player-container').classList.add("show-player");
+      firstTime = false;
     }
-  </script>
+    if (playing) {
+      document.getElementById('player').pause();
+    } else {
+      document.getElementById('player').play();
+    }
+    playing = !playing;
+  }
+</script>
+
+{{ with .Page }}
+  {{ $myVar := print .Params.title "_Utilitarianism_net" }}
+  {{ $myVar2 := replaceRE "( |,|_|-|—|:|'|\\.|  )" "_" $myVar }}
+  {{ $myVar3 := replace $myVar2 "__" "_" }}
+  {{ $myVar4 := replace $myVar3 "__" "_" }}
+
+<div id="player-container" class="audio-player">
+  <audio id="player" controls preload="none">
+    <source src="/mp3/temp.mp3" type="audio/mpeg" />
+  </audio>
+</div>
+
+<div class="pdf-download">
 
   <div onclick="togglePlayOrPause()" class="mp3" title="Play audio recording of content">
-    <button id="playbutton"></button>
+    <img
+      src="/img/audio.svg"
+      title="Play audio recording of content"
+      alt="Play audio"
+    />
   </div>
 
-  <a href="/mp3/{{ $myVar4 }}.mp3">
+  <a href="/pdf/{{ $myVar4 }}.pdf">
     <img
-      src="/img/mp3.svg"
+      src="/img/pdf.svg"
       class="pdf-icon"
-      title="Download as MP3"
-      alt="MP3 download"
+      title="Download as PDF"
+      alt="PDF download"
     />
   </a>
 
-  {{ end }}
-
 </div>
+
+{{ end }}

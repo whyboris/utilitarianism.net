@@ -1,46 +1,35 @@
 $play-icon-color: #0b3959;
 
+.audio-player {
+  display: none;
+
+  audio {
+    width: 100%;
+  }
+}
+
+.show-player {
+  display: initial;
+}
+
 .mp3 {
-  background: #e2e5e7;
   border-radius: 50%;
   cursor: pointer;
-  height: 20px;
   margin-bottom: 12px;
   overflow: hidden;
   padding: 5px;
   position: relative;
-  width: 20px;
+  height: 24px;
+  width: 24px;
 
-  // Thank you to https://css-tricks.com/making-pure-css-playpause-button/
-  button {
-    cursor: pointer;
-
-    background-color: transparent;
-    left: -18px;
-    top: -22px;
-    position: absolute;
-
-    scale: 0.2;
-    box-sizing: border-box;
-    height: 74px;
-
-    border-color: transparent transparent transparent $play-icon-color;
-    transition: 100ms all ease;
-    will-change: border-width;
-
-    // play state
-    border-style: solid;
-    border-width: 37px 0 37px 60px;
-
-    // paused state
-    &.pause {
-      transform: translateX(-10px);
-      border-style: double;
-      border-width: 0px 0 0px 60px;
-    }
+  img {
+    transition-property: scale;
+    transition-duration: 125ms;
   }
 
   &:hover {
-    background-color: #d0d2d3;
+    img {
+      scale: 1.2;
+    }
   }
 }
