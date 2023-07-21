@@ -1,17 +1,7 @@
 <script>
-  let playing = false;
-  let firstTime = true;
   function togglePlayOrPause() {
-    if (firstTime) {
-      document.getElementById('player-container').classList.add("show-player");
-      firstTime = false;
-    }
-    if (playing) {
-      document.getElementById('player').pause();
-    } else {
-      document.getElementById('player').play();
-    }
-    playing = !playing;
+    document.getElementById('player-container').classList.add("show-player");
+    document.getElementById('audio-icon').outerHTML = "";
   }
 </script>
 
@@ -22,20 +12,24 @@
   {{ $myVar4 := replace $myVar3 "__" "_" }}
 
 <div id="player-container" class="audio-player">
-  <audio id="player" controls preload="none">
-    <source src="/mp3/temp.mp3" type="audio/mpeg" />
-  </audio>
+
+  <type-3-player
+    mp3-url="https://dl.type3.audio/episode/83895ceb-af1f-4099-b517-31bdcbe19017.mp3"
+    subscribe-url--apple="https://podcasts.apple.com/us/podcast/introduction-to-utilitarianism/id1696998316"
+    subscribe-url--spotify="https://open.spotify.com/show/7efBJVNSuPMcj6LaMSfuDf"
+    subscribe-url--podcast-addict="https://podcastaddict.com/podcast/introduction-to-utilitarianism/4535260"
+    subscribe-url--rss="https://feeds.type3.audio/utilitarianism-net.rss"
+    primary-color="#0b3b5b"
+    accent-color="#0b3b5b"
+    t3a-logo="false"
+    background-color="#f5f5f5"
+    waveform-color="#cad5dc"
+  >
+  </type-3-player>
+
 </div>
 
 <div class="pdf-download">
-
-  <div onclick="togglePlayOrPause()" class="mp3" title="Play audio recording of content">
-    <img
-      src="/img/audio.svg"
-      title="Play audio recording of content"
-      alt="Play audio"
-    />
-  </div>
 
   <a href="/pdf/{{ $myVar4 }}.pdf">
     <img
@@ -45,6 +39,14 @@
       alt="PDF download"
     />
   </a>
+
+  <div id="audio-icon" onclick="togglePlayOrPause()" class="mp3" title="Play audio recording of content">
+    <img
+      src="/img/audio.svg"
+      title="Play audio recording of content"
+      alt="Play audio"
+    />
+  </div>
 
 </div>
 

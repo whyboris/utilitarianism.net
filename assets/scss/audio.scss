@@ -2,6 +2,7 @@ $play-icon-color: #0b3959;
 
 .audio-player {
   display: none;
+  margin-bottom: 10px;
 
   audio {
     width: 100%;
@@ -9,7 +10,7 @@ $play-icon-color: #0b3959;
 }
 
 .show-player {
-  display: initial;
+  display: block;
 }
 
 .mp3 {
