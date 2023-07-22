@@ -1,18 +1,52 @@
-<div class="pdf-download">
-  {{ with .Page }}
-    {{ $myVar := print .Params.title "_Utilitarianism_net" }}
-    {{ $myVar2 := replaceRE "( |,|_|-|—|:|'|\\.|  )" "_" $myVar }}
-    {{ $myVar3 := replace $myVar2 "__" "_" }}
-    {{ $myVar4 := replace $myVar3 "__" "_" }}
+<script>
+  function togglePlayOrPause() {
+    document.getElementById('player-container').classList.add("show-player");
+    document.getElementById('audio-icon').outerHTML = "";
+  }
+</script>
 
+{{ with .Page }}
+  {{ $myVar := print .Params.title "_Utilitarianism_net" }}
+  {{ $myVar2 := replaceRE "( |,|_|-|—|:|'|\\.|  )" "_" $myVar }}
+  {{ $myVar3 := replace $myVar2 "__" "_" }}
+  {{ $myVar4 := replace $myVar3 "__" "_" }}
 
-    <a href="/pdf/{{ $myVar4 }}.pdf">
-      <img
-        src="/img/pdf.svg"
-        class="pdf-icon"
-        title="Download as PDF"
-        alt="PDF download"
-      />
-    </a>
-  {{ end }}
+<div id="player-container" class="audio-player">
+
+  <type-3-player
+    subscribe-url--apple="https://podcasts.apple.com/us/podcast/introduction-to-utilitarianism/id1696998316"
+    subscribe-url--spotify="https://open.spotify.com/show/7efBJVNSuPMcj6LaMSfuDf"
+    subscribe-url--podcast-addict="https://podcastaddict.com/podcast/introduction-to-utilitarianism/4535260"
+    subscribe-url--rss="https://feeds.type3.audio/utilitarianism-net.rss"
+    primary-color="#0b3b5b"
+    accent-color="#0b3b5b"
+    t3a-logo="false"
+    background-color="#f5f5f5"
+    waveform-color="#cad5dc"
+  >
+  </type-3-player>
+
 </div>
+
+<div class="pdf-download">
+
+  <a href="/pdf/{{ $myVar4 }}.pdf">
+    <img
+      src="/img/pdf.svg"
+      class="pdf-icon"
+      title="Download as PDF"
+      alt="PDF download"
+    />
+  </a>
+
+  <div id="audio-icon" onclick="togglePlayOrPause()" class="mp3" title="Play audio recording of content">
+    <img
+      src="/img/audio.svg"
+      title="Play audio recording of content"
+      alt="Play audio"
+    />
+  </div>
+
+</div>
+
+{{ end }}
