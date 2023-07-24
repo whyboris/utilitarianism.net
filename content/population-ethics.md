@@ -141,7 +141,7 @@ According to critical level theories:
 
 Consequently, an outcome can be made worse not only by bringing into existence an individual with negative well-being, but also if their well-being is positive yet below the critical level.[^34]
 
-The total value of an outcome, according to critical level theories, can be represented by the following value function, with number of individuals N, average quality of live Q, and critical level α:
+The total value of an outcome, according to critical level theories, can be represented by the following value function, with number of individuals N, average quality of life Q, and critical level α:
 
 **Value<sub>critical level</sub> = N \* (Q - α)**
 
