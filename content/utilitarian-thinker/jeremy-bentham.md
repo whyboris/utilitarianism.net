@@ -39,7 +39,7 @@ Bentham also applied the principle of utility to the reform of political institu
 - [Who was Jeremy Bentham?](https://www.ucl.ac.uk/bentham-project/who-was-jeremy-bentham) The Bentham Project, University College London.
 - Crimmins, J. E. (2019). [Jeremy Bentham](https://plato.stanford.edu/entries/bentham/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
 - Sweet, W. [Jeremy Bentham](https://plato.stanford.edu/entries/bentham/). _The Internet Encyclopedia of Philosophy_.
-- Schofield, P. (2012). [Jeremy Bentham's Utilitarianism](https://philosophybites.com/2012/02/philip-schofield-on-jeremy-benthams-utilitarianism.html). _Philosophy Bites Podcast_.
+- Schofield, P. (2012). [Jeremy Bentham's Utilitarianism](https://nigelwarburton.typepad.com/philosophy_bites//2012/02/philip-schofield-on-jeremy-benthams-utilitarianism.html). _Philosophy Bites Podcast_.
 - Gustafsson, J. E. (2018). “Bentham’s Binary Form of Maximizing Utilitarianism”, _British Journal for the History of Philosophy,_ 26 (1): 87–109.
 
 ## Prominent Quotes of Jeremy Bentham

@@ -35,8 +35,8 @@ Sidgwick was also a committed social reformer. His primary interest was the expa
 ## Resources on Henry Sidgwick’s Life and Work
 
 - Schultz, B. (2019). [Henry Sidgwick](https://plato.stanford.edu/entries/sidgwick/). _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
-- Singer, P. & de Lazari-Radek, K. (2014). _[The Point of View of the Universe: Sidgwick and Contemporary Ethics](https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199603695.001.0001/acprof-9780199603695)_. Oxford: Oxford University Press.
-- Singer, P. (2011). [Henry Sidgwick's Ethics](https://philosophybites.com/2011/07/peter-singer-on-henry-sidgwicks-ethics.html). _Philosophy Bites Podcast_.
+- Singer, P. & de Lazari-Radek, K. (2014). _[The Point of View of the Universe: Sidgwick and Contemporary Ethics](https://doi.org/10.1093/acprof:oso/9780199603695.001.0001)_. Oxford: Oxford University Press.
+- Singer, P. (2011). [Henry Sidgwick's Ethics](https://nigelwarburton.typepad.com/philosophy_bites//2011/07/peter-singer-on-henry-sidgwicks-ethics.html). _Philosophy Bites Podcast_.
 
 ## Prominent Quotes of Henry Sidgwick
 

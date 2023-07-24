@@ -306,10 +306,10 @@ The next chapter discusses the most important implications of utilitarianism for
 - Gustaf Arrhenius (2009). [Can the Person Affecting Restriction Solve the Problems in Population Ethics?](https://doi.org/10.1007/978-1-4020-5697-0_14), in Roberts, M.A., Wasserman, D.T. (eds.) _Harming Future Persons_. International Library of Ethics, Law, and the New Medicine. 35. Springer, Dordrecht.
 - Daniel Cohen (2019). [An Actualist Explanation of the Procreation Asymmetry](https://doi.org/10.1017/S0953820819000293). _Utilitas_. 32(1): 70–89.
 - Johann Frick (2014). _['Making People Happy, Not Making Happy People': A Defense of the Asymmetry Intuition in Population Ethics](http://nrs.harvard.edu/urn-3:HUL.InstRepos:13064981)_. Doctoral dissertation, Harvard University.
-- Johann Frick (2020). [Conditional Reasons and the Procreation Asymmetry](https://scholar.princeton.edu/jfrick/publications/conditional-reasons-and-procreation-asymmetry). _Philosophical Perspectives_. 34(1): 53–87
+- Johann Frick (2020). [Conditional Reasons and the Procreation Asymmetry](https://doi.org/10.1111/phpe.12139). _Philosophical Perspectives_. 34(1): 53–87
 - Caspar Hare (2007). [Voices from Another World: Must We Respect the Interests of People Who Do Not, and Will Never, Exist?](https://doi.org/10.1086/512172). _Ethics_, 117(3): 498–523.
 - Jan Narveson (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1): 62–86.
-- Josh Parsons (2002). [Axiological Actualism](https://doi.org/10.1093/ajp/80.2.137). _Australasian Journal of Philosophy_. 80(2): 137–147.
+- Josh Parsons (2002). [Axiological Actualism](https://www.tandfonline.com/doi/abs/10.1093/ajp/80.2.137?journalCode=rajp20). _Australasian Journal of Philosophy_. 80(2): 137–147.
 - Melinda A. Roberts (2002). [A New Way of Doing the Best That We Can: Person-Based Consequentialism and the Equality Problem](https://doi.org/10.1086/324321). _Ethics_, 112(2): 315–350.
 
 ### Practical Implications of Population Ethics
@@ -384,7 +384,7 @@ The next chapter discusses the most important implications of utilitarianism for
 [^19]:
     Spears, D. & Budolfson, M. (2021). [Repugnant conclusions](https://doi.org/10.1007/s00355-021-01321-2). _Social Choice and Welfare_. 28.
 
-    Spears, D. & Budolfson, M. (2018). [Why the Repugnant Conclusion is Inescapable](https://scholar.princeton.edu/sites/default/files/cfi/files/budolfson_spears_2018_repugnant_cfi.pdf). _Princeton University Climate Futures Initiative working paper_.
+    Spears, D. & Budolfson, M. (2018). [Why the Repugnant Conclusion is Inescapable](https://budolfson.github.io/files/RC.pdf). _Princeton University Climate Futures Initiative working paper_.
 
 [^20]: To see how this applies to the _average view_, for example, just suppose that we have a base population that contains immense suffering. Adding a vast population of barely-positive lives may then do more to bring up the average than a moderate number of excellent lives would.
 [^21]: Spears, D. & Budolfson, M. (2021). [Repugnant conclusions](https://doi.org/10.1007/s00355-021-01321-2). _Social Choice and Welfare_. 28.
