@@ -3,6 +3,7 @@ title: "Glossary"
 date: 2023-01-29
 draft: false
 weight: 1
+hideaudio: true
 ---
 
 This page provides an overview with brief descriptions of key utilitarian terms and relevant links.
@@ -605,8 +606,8 @@ But _quantity_ of life is not the only thing that's relevant: we also care about
 
 _External links:_
 
-Sassi, F. (2006) [Calculating QALYs, comparing QALY and DALY calculations](https://doi.org/10.1093/heapol/czl018). _Health Policy Plan_, 21(5): 402–8.  
-Singer, P., McKie, J., Kuhse, H., & Richardson, J. (1995). [Double jeopardy and the use of QALYs in health care allocation](http://dx.doi.org/10.1136/jme.21.3.144). _Journal of Medical Ethics_, 21(3): 144–150.  
+Sassi, F. (2006) [Calculating QALYs, comparing QALY and DALY calculations](https://doi.org/10.1093/heapol/czl018). _Health Policy Plan_, 21(5): 402–8.
+Singer, P., McKie, J., Kuhse, H., & Richardson, J. (1995). [Double jeopardy and the use of QALYs in health care allocation](http://dx.doi.org/10.1136/jme.21.3.144). _Journal of Medical Ethics_, 21(3): 144–150.
 Chappell, R.Y. (2016). [Against ‘Saving Lives’: Equal Concern and Differential Impact](https://dx.doi.org/10.1111/bioe.12171). _Bioethics_, 30(3): 159–164.
 
 </details>

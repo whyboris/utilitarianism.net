@@ -39,6 +39,8 @@
     />
   </a>
 
+{{ if not .Params.hideaudio }}
+
   <div id="audio-icon" onclick="togglePlayOrPause()" class="mp3" title="Play audio recording of content">
     <img
       src="/img/audio.svg"
@@ -46,6 +48,8 @@
       alt="Play audio"
     />
   </div>
+
+{{ end }}
 
 </div>
 

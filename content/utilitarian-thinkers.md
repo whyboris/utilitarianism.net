@@ -4,6 +4,7 @@ date: 2023-01-29
 draft: false
 menu: "thinkers"
 weight: 1
+hideaudio: true
 ---
 
 Utilitarian ideas go back in part to the works of philosophers in ancient China, including Mozi, and ancient Greece, including Epicurus.[^1] Utilitarianism was further developed, refined and promoted in the late 18th and early 19th century by the classical utilitarians, Jeremy Bentham, John Stuart Mill, and Henry Sidgwick.
