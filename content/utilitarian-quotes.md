@@ -78,11 +78,11 @@ _→ [Article on Jeremy Bentham’s life and ideas](/utilitarian-thinker/jeremy-
 
 _→ [Article on William Thompson’s life and ideas](/utilitarian-thinker/william-thompson)_
 
-- I conceive, then, that in order to make the noble discoveries of political economy… useful to social science… it is necessary always to keep in view the complicated nature of man… Without constant reference to it, the regulating principle of utility is sacrificed and… the indefinite increase of accumulations of wealth… become worthless objects consigning to the wretchedness of unrequited toil three-fourths or nine-tenths of the human race, that the remaining smaller portion may pine in indolence midst enjoyed profusion.
+- I conceive, then, that in order to make the noble discoveries of political economy… useful to social science… it is necessary always to keep in view the complicated nature of man… Without constant reference to it, the regulating principle of utility is sacrificed and… the indefinite increase of accumulations of wealth… become worthless objects consigning to the wretchedness of unrequited toil three-fourths or nine-tenths of the human race, that the remaining smaller portion may pine in indolence midst enjoyed profusion.[^W1]
 
-- The direct operation of wealth is chiefly to afford the means of more extensive pleasures of the senses: it is only indirectly that it operates to increase our moral and intellectual pleasures; and when unequally distributed, and in very large masses, it tends, as will be proved, to eradicate almost entirely these higher moral and intellectual pleasures.
+- The direct operation of wealth is chiefly to afford the means of more extensive pleasures of the senses: it is only indirectly that it operates to increase our moral and intellectual pleasures; and when unequally distributed, and in very large masses, it tends, as will be proved, to eradicate almost entirely these higher moral and intellectual pleasures.[^W2]
 
-- The only and the simple remedy for the evils arising from these almost universal institutions of the domestic slavery of one half the human race, is utterly to eradicate them. Give men and women equal civil and political rights.
+- The only and the simple remedy for the evils arising from these almost universal institutions of the domestic slavery of one half the human race, is utterly to eradicate them. Give men and women equal civil and political rights.[^W3]
 
 
 ## John Stuart Mill Quotes
@@ -340,6 +340,9 @@ _→ [Article on Peter Singer’s life and ideas](/utilitarian-thinker/peter-sin
 [^21]: _Théorie des peines et des récompenses_ (1811); translation by Richard Smith, _The Rationale of Reward_, J. & H. L. Hunt, London, 1825, book 3, chapter 1.
 [^22]: Bentham, J. _Le Calcul des plaisirs et des peines_, 402.
 [^23]: Bentham, J. (1789). Chapter 1: The Principle of Utility, _[An Introduction to the Principles of Morals and Legislation](https://oll.libertyfund.org/title/bowring-the-works-of-jeremy-bentham-vol-1)_.
+[^W1]: Thompson, W. (1824). _[Inquiry](https://www.google.com/books/edition/An_Inquiry_Into_the_Principles_of_the_Di/QNcGAAAAQAAJ?hl=en&gbpv=1)_.
+[^W2]: Thompson, W. (1824). _[Inquiry](https://www.google.com/books/edition/An_Inquiry_Into_the_Principles_of_the_Di/QNcGAAAAQAAJ?hl=en&gbpv=1)_.
+[^W3]: Thompson, W. (1824). _[Inquiry](https://www.google.com/books/edition/An_Inquiry_Into_the_Principles_of_the_Di/QNcGAAAAQAAJ?hl=en&gbpv=1)_.
 [^24]: Mill, J. S. (1863). [Chapter 2: What Utilitarianism Is, Utilitarianism](/books/utilitarianism-john-stuart-mill/2).
 [^25]: Mill, J. S. (1859). [Chapter 1: Introductory, On Liberty](/books/on-liberty-john-stuart-mill/1).
 [^26]: Mill, J. S. (1863). [Chapter 4: Of What Sort Of Proof The Principle Of Utility Is Susceptible, Utilitarianism](/books/utilitarianism-john-stuart-mill/2).
