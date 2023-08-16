@@ -232,6 +232,6 @@ Good luck! And remember to cite your sources.
 [^18]:
     This interpretation brings Singer's rescue principle much closer to Miller's _Principle of Sympathy_, according to which: "One's underlying disposition to respond to neediness as such ought to be sufficiently demanding that giving which would express greater underlying concern would impose a significant risk of worsening one's life, if one fulfilled all further responsibilities; and it need not be any more demanding than this."
 
-    Miller, R. (2004). [Beneficence, Duty and Distance](https://dx.doi.org/10.1111/j.1088-4963.2004.00018.x)._ Philosophy and Public Affairs_, 32(4): 357–383, p.359.
+    Miller, R. (2004). [Beneficence, Duty and Distance](https://dx.doi.org/10.1111/j.1088-4963.2004.00018.x). _Philosophy and Public Affairs_, 32(4): 357–383, p.359.
 
 [^19]: Sterri, A.B. & Moen, O.M. (2021). [The ethics of emergencies](https://dx.doi.org/10.1007/s11098-020-01566-0). _Philosophical Studies,_ 178 (8): 2621–2634.
