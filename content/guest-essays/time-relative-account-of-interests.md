@@ -9,7 +9,7 @@ menu: "guest"
 weight: 10
 image: "/img/essays/time-relative.jpg"
 imageCaption: "The Time-Relative Account of Interests"
-summary: Jeff McMahan -- The Time-Relative Account of Interests.
+summary: "The utilitarian goal of promoting everyone's interests is complicated by the Parfitian view that one's self-interest across time is a matter of degree (based on psychological connectedness) rather than all-or-nothing identity. This essay introduces and explores the Time-Relative Account of Interests, which uniquely captures key intuitions about the relative misfortune of death at different stages of life."
 ---
 
 {{< guest-disclaimer >}}
