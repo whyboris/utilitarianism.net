@@ -7,7 +7,7 @@ draft: false
 layout: "book"
 menu: "guest"
 weight: 10
-image: "/img/essays/jeff-mcmahan.jpg"
+image: "/img/essays/time-relative.jpg"
 imageCaption: "The Time-Relative Account of Interests"
 summary: Jeff McMahan -- The Time-Relative Account of Interests.
 ---
