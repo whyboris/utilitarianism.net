@@ -16,7 +16,7 @@ summary: Jeff McMahan -- The Time-Relative Account of Interests.
 
 {{< TOC >}}
 
-## 1. Introduction: Utilitarianism and Interests
+## Introduction: Utilitarianism and Interests
 
 “Utilitarianism” does not refer to a single moral theory. The label can be appropriately applied to innumerable different theories. Act utilitarianism and rule utilitarianism are, for example, quite different theories. One common feature of most versions of utilitarianism is that they are [consequentialist](https://www.utilitarianism.net/types-of-utilitarianism/#consequentialism) theories—theories that hold that only the consequences of acts matter morally—which assume that [well-being](https://www.utilitarianism.net/theories-of-wellbeing/) is the sole good consequence and that ill-being is the sole bad consequence, or evil. This understanding can be subdivided into many variants. Most require some form of maximizing of well-being (total, average, minimum level, etc.). One important way in which the subdivisions are distinguished is by whether they evaluate the outcomes of acts in impersonal or in “individual-affecting” terms.[^1]
 
@@ -28,7 +28,7 @@ There are, however, different ways in which the effect of an act can be worse fo
 
 In what follows, I will be defending one way of understanding the notion of an interest. As we will see, I believe that it is through the acceptance of this understanding of an interest that moral theorists, including utilitarians, can best articulate and defend certain highly important moral truths.
 
-## 2. Egoistic Concern
+## Egoistic Concern
 
 The traditional view of prudence or self-interest is that one has reason to care about one’s future well-being in a special, egoistic way because the subject of that future well-being will be _oneself_. In other words, it is _identity_ that makes egoistic concern about the future rational. Identity is, to use the term favored by Derek Parfit, _what matters_.
 
@@ -54,7 +54,7 @@ This last claim forms the basis of an account of the nature of interests, accord
 
 The prudential unity relations normally weaken with the passage of time. That is, a person at _t<sub>1</sub>_ is normally less strongly psychologically connected and continuous with herself as she will be at a much later time, _t<sub>3</sub>_, than with herself as she will be at an earlier time, _t<sub>2</sub>_. Thus, her interest at _t<sub>1</sub>_ in having a benefit at _t<sub>2</sub>_ is normally stronger than her interest at _t<sub>1</sub>_ in having the same benefit at _t<sub>3</sub>_. We can refer to this understanding of interests as the “Time-Relative Account of Interests,” or TRAI.
 
-## 3. The Misfortune of Death
+## The Misfortune of Death
 
 This general account of the nature of interests offers what I think are the best explanations of various common-sense beliefs, such as beliefs about the misfortune of death at different stages of life. It provides, for example, the basis of what I have elsewhere referred to as the “Time-Relative Interest Account” of the misfortune of death (henceforth the TRIAD), which is one way of understanding what is now the most widely accepted view of the misfortune of death: the “Deprivation Account.”[^7] According to this view, death is a misfortune for a person because it deprives that person of good life the person would otherwise have had. On the most obvious way of understanding the Deprivation Account, the _extent_ to which death is a misfortune is proportional to the amount of good life of which a person is deprived by death. I have called this the “Life Comparative Account” (henceforth the LCA) because it compares the life a person has that ends in a certain death with the life the person would have had in the absence of that death and then measures the misfortune of death by the extent to which the shorter life is less good than the longer life would have been.[^8]
 
@@ -70,7 +70,7 @@ There is, however, a problem here. If the absence, or paucity, of prudential uni
 
 The obvious response to this objection is to note that, whereas abortion frustrates at most only a weak present interest in continuing to live and also prevents the fetus from ever having any other interests, a non-lethal prenatal injury may frustrate many strong interests that the person who develops from the fetus will have over the course of an entire life. If this is right, the TRAI can both help to explain the permissibility of abortion in many or most cases and also explain the general impermissibility of inflicting prenatal injury.
 
-## 4. The Divergent Lives Problem
+## The Divergent Lives Problem
 
 I once thought that this is the correct way to explain the presumptive wrongness of inflicting prenatal injury. While I still believe that this is the correct explanation in some cases, I now think it fails in many other cases. Suppose that a woman is advised, early in pregnancy, to take folic acid supplements to reduce the risk of her child’s developing spina bifida (a birth defect in which part of the spine protrudes through the baby’s back). She refuses and also indulges in daily saunas, which she knows increase the risk of spina bifida. Later she gives birth to a child with a serious case of spina bifida. Suppose that, if she had taken supplements and not taken saunas, the same child would have been born but without spina bifida.
 
@@ -90,7 +90,7 @@ But, while the LCAI thus offers an explanation of the wrongness of inflicting pr
 
 If the TRAI is the more plausible account, it is more difficult to explain the wrongness of inflicting prenatal injury, at least in cases in which the Divergent Lives Problem arises in a strong form. Because the fetus at the time of the injury would not be connected to any significant degree to itself in later life by the prudential unity relations, the infliction of prenatal injury is relevantly like causing a less well-off person to exist rather than causing or allowing a different, better-off person to come into existence. This parallels my earlier claim that having an abortion, and particularly an earlier abortion, is relevantly like preventing a person from coming into existence. If it is right that the wrongness of prenatal injury must, at least in many instances, be explained by much the same considerations that explain the wrongness of causing a less well-off rather than a better-off person to exist, this has important implications for [population ethics](https://www.utilitarianism.net/population-ethics/). For even when we come to understand the Divergent Lives Problem, we continue to believe that the infliction of prenatal injury is seriously wrong, and more seriously wrong the more severe the injury is (even though the more severe the injury is, the more extensive the Divergent Lives Problem is likely to be). If this belief is correct, and if inflicting a prenatal injury is relevantly like causing a less well-off person to exist, then to cause a less well-off person to exist rather than a different, better-off person must be more seriously wrong than common-sense morality has recognized.
 
-## 5. The No-Difference View
+## The No-Difference View
 
 One might argue that there is in fact a morally significant difference between inflicting prenatal injury and causing a less well-off rather than a better-off person to exist. The difference is that, whereas the infliction of prenatal injury is _worse for_ the injured individual to the extent that it causes that individual to have a less good life, causing a less well-off rather than a better-off person to exist is not worse either for the person who never exists or for the less well-off person who is caused to exist with a life worth living. It is not worse for the former because there cannot be anyone for whom never existing is worse than existing. And it is not worse for the latter because the alternative for that individual was never to exist. And the claim that existing is worse for a person than never existing implies that never existing would have been better for that person. But, again, there cannot be anyone for whom never existing is better than existing. Thus, if the reason not to cause a bad effect is stronger when that effect would be worse for someone than when it would not be worse for anyone, then the reason not to inflict prenatal injury is stronger than the reason not to cause a less well-off rather than a better-off person to exist, assuming that the reduction in well-being would be the same in each case.
 
@@ -120,7 +120,7 @@ The prenatal injury was, of course, worse for her in what we can call the “lif
 
 In summary, the comparison between failing to save an existing person and allowing a shorter-lived person to exist rather than causing a different, longer-lived person to exist shows that it can matter morally whether a bad effect is worse for someone. But a further comparison between failing to save an existing adult and the infliction of prenatal injury that results in a strong form of the Divergent Lives Problem compels us to refine that initial conclusion by accepting that what really matters is whether a bad effect is worse for someone in the interest-based sense, not whether it is worse for someone in the life-comparative sense. In short, the explanation of why it matters that a bad effect is worse for someone is that it matters whether interests are frustrated. The reason not to cause a bad effect that frustrates an interest is stronger than the reason not to cause an equivalent bad effect when doing so does not frustrate any interest.
 
-## 6. Interests and Reasons
+## Interests and Reasons
 
 This last claim presupposes that the TRAI is the correct account of interests. If the LCAI were true, causing an individual to have a less good life as a whole would always frustrate a strong interest, even in cases involving the strongest form of the Divergent Lives Problem. In that case, there would be no distinction between an act that is worse for an individual in the interest-based sense and one that is worse for a person in the life-comparative sense. I have, however, offered arguments to show that the TRAI and not the LCAI is the correct account of interests.
 
@@ -132,7 +132,7 @@ Strictly speaking, the reason not to inflict prenatal injury when the Divergent 
 
 Reasons of these latter two types necessarily take no account of interests. It is only narrow individual-affecting reasons that are concerned with interests. When interests are understood in the way the TRAI understands them, they explain why an act’s being worse or better for an individual has special moral significance, and thus explain why narrow individual-affecting reasons are, contrary to the No-Difference View, normally stronger than corresponding impersonal or wide individual-affecting reasons. It is thus the TRAI that explains the common-sense belief that narrow individual-affecting reasons are normally stronger than other types of reason, even when the same amounts of well-being are at stake.
 
-## 7. An Asymmetry Between Benefits and Harms
+## An Asymmetry Between Benefits and Harms
 
 I will conclude with one highly important qualification. This is that the moral significance of interests seems greater in the case of interests in having benefits than in the case of interests in avoiding intrinsic harms, such as suffering. In the choice between saving the 60-year-old and causing the longer-lived person to exist, what is at stake are benefits: the benefit to the 60-year-old of having 20 more years of good life and the greater existential benefit to the longer-lived person rather than the substantially lesser existential benefit to the shorter-lived person. In this choice, the reason to confer a benefit when that would be better for the beneficiary is stronger than the reason to provide an equivalent benefit that would not be better for the beneficiary.
 
