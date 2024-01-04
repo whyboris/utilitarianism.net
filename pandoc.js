@@ -18,6 +18,19 @@ const callback = function(err, result) {
   return result; // true
 };
 // -------------------------------
+// Uncomment for single file testing:
+const input = './test.md';
+const test = ['-f', 'markdown+raw_tex', '-t', 'docx', '-o'];
+const output = './out.docx';
+test.push(output);
+nodePandoc(input, test, callback);
+// -------------------------------
+// Note: for images to work, copy `/img` folder to root
+//       and replace `/img/` with `./img/` in markdown
+// -------------------------------
+// Note: for <sub> to render properly, replace:
+//       <sub>    --->    $_{
+//       </sub>   --->    }$
 
 // taken from `build-book.js`
 const chapters = [
@@ -50,6 +63,8 @@ const chapterMap = new Map(chapters);
 
 const args = ['-f', 'markdown', '-t', 'docx', '-o'];
 
+/*
+
 chapterMap.forEach((value, key) => {
   const input = './content/' + key;
   const output = './docx/' + value;
@@ -57,3 +72,5 @@ chapterMap.forEach((value, key) => {
   console.log(input, "->", value);
   nodePandoc(input, command, callback);
 });
+
+*/
