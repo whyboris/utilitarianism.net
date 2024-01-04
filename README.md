@@ -61,6 +61,7 @@ A huge **thank you** to the numerous creators and contributors that make buildin
 - [fdir](https://github.com/thecodrr/fdir) for the fastest way to crawl a directory
 - [bestzip](https://github.com/nfriedly/node-bestzip) for zipping the finished files into one
 - [serve](https://github.com/vercel/serve) for previewing the final build
+- [node-pandoc](https://github.com/eshinn/node-pandoc) for generating .docx files for the book publisher
 
 This is not a complete list, there are too many others to list 🙇‍♂️
 
