@@ -11,3 +11,8 @@ pdf/**/*.pdf
 dist
 
 **/.DS_store
+
+
+test.md
+out.docx
+output.log

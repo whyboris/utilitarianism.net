@@ -20,7 +20,7 @@ const callback = function(err, result) {
 // -------------------------------
 // Uncomment for single file testing:
 const input = './test.md';
-const test = ['-f', 'markdown+raw_tex', '-t', 'docx', '-o'];
+const test = ['-f', 'markdown+raw_tex', '--filter=hide-hugo.js', '--lua-filter=noexport-subtrees.lua', '-t', 'docx', '-o'];
 const output = './out.docx';
 test.push(output);
 nodePandoc(input, test, callback);
