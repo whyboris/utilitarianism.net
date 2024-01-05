@@ -1,3 +1,5 @@
+// Please read `book/README.md` to prepare for the script to work
+
 const nodePandoc = require('node-pandoc');
 
 // -------------------------------
@@ -18,21 +20,8 @@ const callback = function(err, result) {
   return result; // true
 };
 // -------------------------------
-// Uncomment for single file testing:
-const input = './test.md';
-const test = ['-f', 'markdown+raw_tex', '--filter=hide-hugo.js', '--lua-filter=noexport-subtrees.lua', '-t', 'docx', '-o'];
-const output = './out.docx';
-test.push(output);
-nodePandoc(input, test, callback);
-// -------------------------------
-// Note: for images to work, copy `/img` folder to root
-//       and replace `/img/` with `./img/` in markdown
-// -------------------------------
-// Note: for <sub> to render properly, replace:
-//       <sub>    --->    $_{
-//       </sub>   --->    }$
 
-// taken from `build-book.js`
+// taken from `build-book.js` and modifed to work
 const chapters = [
   ["preface.md",                                              "00_preface.docx"],
   // table of contents excluded from docx generation
@@ -61,16 +50,29 @@ const chapters = [
 
 const chapterMap = new Map(chapters);
 
-const args = ['-f', 'markdown', '-t', 'docx', '-o'];
+const args = ['-f', 'markdown+raw_tex',
+              '--filter=./book/hide-hugo.js',
+              '--lua-filter=./book/noexport-subtrees.lua',
+              '-t', 'docx', '-o'];
 
-/*
+// pretty print -- just for fun
+const addTabSpaces = (input) => {
+  const numOfTabs = Math.floor((input.length + 1) / 8);
+  return "\t".repeat(Math.max(8 - numOfTabs), 1);
+}
 
 chapterMap.forEach((value, key) => {
   const input = './content/' + key;
   const output = './docx/' + value;
   const command = args.concat(output)
-  console.log(input, "->", value);
+  console.log(input, addTabSpaces(input), "\t-->\t", value);
   nodePandoc(input, command, callback);
 });
 
-*/
+// -------------------------------
+// single file testing, for debug:
+// -------------------------------
+// const input = './test.md';
+// const output = './out.docx';
+// const test = args.concat(output);
+// nodePandoc(input, test, callback);
