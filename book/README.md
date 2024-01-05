@@ -10,11 +10,11 @@ The book publisher requested `.docx` files of each chapter. These are the instru
 
 - Install [Pandoc](https://pandoc.org/)
 - Copy the folder `img` from `static/img` to the root of the repository
-- String replace `<sub>` with `$_{` and `</sub>` with `}$`
-  - this uses _LaTeX_ formatting to generate the subscript (occurs in _Population Ethics_ chapter)
 
 ### Make these changes but do not commit them to the repository
 
+- String replace `<sub>` with `$_{` and `</sub>` with `}$`
+  - this uses _LaTeX_ formatting to generate the subscript (occurs in _Population Ethics_ chapter)
 - String replace `](/img/` with `](./img/` across the codebase
   - e.g. `![Total View](./img/population-ethics-1.png "Total View")`
 
