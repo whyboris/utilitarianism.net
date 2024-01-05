@@ -34,7 +34,7 @@ const chapters = [
   ["utilitarianism-and-practical-ethics.md",                  "06_utilitarianism-and-practical-ethics.docx"],
   ["acting-on-utilitarianism.md",                             "07_acting-on-utilitarianism.docx"],
   ["near-utilitarian-alternatives.md",                        "08_near-utilitarian-alternatives.docx"],
-  ["objections-to-utilitarianism/_index.md",                  "09_Objections_to_Utilitarianism_and_Responses_index.docx"],
+  ["objections-to-utilitarianism/_index.md",                  "09_objections-toutilitarianism-and-responses.docx"],
   ["objections-to-utilitarianism/rights.md",                  "10_rights.docx"],
   ["objections-to-utilitarianism/mere-means.md",              "12_mere-means.docx"],
   ["objections-to-utilitarianism/separateness-of-persons.md", "13_separateness-of-persons.docx"],
