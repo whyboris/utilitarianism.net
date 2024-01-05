@@ -98,7 +98,7 @@ We next discuss the following critiques of utilitarianism:
 
 {{< button >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 - Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford: Oxford University Press. Chapter 4: Objections.
 - J. J. C. Smart & Bernard Williams (1973). _Utilitarianism: For and Against_. Cambridge: Cambridge University Press.

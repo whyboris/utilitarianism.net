@@ -15,11 +15,14 @@ The book publisher requested `.docx` files of each chapter. These are the instru
 
 ### Make these changes but do not commit them to the repository
 
-- Add `{.noexport}` to every section to exclude from the book
-  - e.g. `## Resources and Further Reading {.noexport}`
 - String replace `](/img/` with `](./img/` across the codebase
   - e.g. `![Total View](./img/population-ethics-1.png "Total View")`
 
 ## Notes
 
-There are two _Pandoc_ scripts that handle
+There are two _Pandoc_ scripts that handle formatting:
+
+- Hide all sections that include `{.noexport}`
+  - Currently this is every _## Resources and Further Reading_ section
+- Hide any paragraph that starts with `{{<` -- _Hugo_ shortcode
+  - e.g. `{{< button >}}`

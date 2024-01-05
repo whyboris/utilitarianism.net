@@ -125,7 +125,7 @@ The next chapter discusses several of the most important objections to utilitari
 
 {{< button >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 ### Beyond Welfarism
 

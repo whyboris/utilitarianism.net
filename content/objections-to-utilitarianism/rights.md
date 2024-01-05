@@ -69,7 +69,7 @@ Of course, it's important to stress that real life comes with no such stipulatio
 
 {{< button >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 - Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford: Oxford University Press. Chapter 4: Objections, Section “Does utilitarianism tell us to act immorally?”.
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. London: Continuum. Chapter 8: Is Utilitarianism too Permissive?

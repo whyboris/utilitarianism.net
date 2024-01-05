@@ -67,7 +67,7 @@ Against those who insist upon partiality at a fundamental theoretical level, uti
 
 {{< button >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 - Jim A.C. Everett, Nadira S. Faber, Julian Savulescu, and Molly J. Crockett (2018). [The costs of being consequentialist: Social inference from instrumental harm and impartial beneficence](https://doi.org/10.1016/j.jesp.2018.07.004). _Journal of Experimental Social Psychology,_ 79: 200–216.
 - Robert Goodin (1988). [What Is So Special about Our Fellow Countrymen?](https://doi.org/10.1086/292998) _Ethics_, 98(4): 663–686.

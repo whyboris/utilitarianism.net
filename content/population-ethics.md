@@ -262,7 +262,7 @@ The next chapter discusses the most important implications of utilitarianism for
 
 {{< button >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 ### General Discussions of Population Ethics
 

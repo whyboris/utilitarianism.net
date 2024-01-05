@@ -155,7 +155,7 @@ The next chapter discusses important rival theories that may overlap significant
 
 {{< how-to-cite authors="MacAskill, W. and Meissner, D." >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 ### General
 

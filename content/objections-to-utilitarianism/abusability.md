@@ -73,7 +73,7 @@ Still, at the end of the day there's no guarantee that true beliefs will be soci
 
 {{< button >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 - Allan Gibbard (1984). [Utilitarianism and Human Rights](https://doi.org/10.1017/s0265052500003897). _Social Philosophy and Policy_, 1(2): 92–102.
 - R.M. Hare (1981). _[Moral Thinking](https://philpapers.org/rec/HARMTI)_. Oxford University Press.

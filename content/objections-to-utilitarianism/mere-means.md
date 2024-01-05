@@ -71,7 +71,7 @@ But there may be other, closely related, objections that people sometimes have i
 
 {{< button >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 - Samuel Kerstein (2019). [Treating Persons as Means](https://plato.stanford.edu/archives/sum2019/entries/persons-means/), _The Stanford Encyclopedia of Philosophy_ (Summer 2019 Edition), Edward N. Zalta (ed.).
 - Derek Parfit (2011). _On What Matters: Vol 1_. Oxford University Press. Chapter 9: Merely as a Means.

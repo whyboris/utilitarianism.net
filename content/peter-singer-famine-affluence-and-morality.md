@@ -160,7 +160,7 @@ Good luck! And remember to cite your sources.
 
 {{< two-button >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 - Peter Singer (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243.
 - Peter Singer (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. (Download a free ebook or audiobook of the 10th anniversary edition at [www.thelifeyoucansave.org](www.thelifeyoucansave.org).)
@@ -189,7 +189,7 @@ Good luck! And remember to cite your sources.
     P3\*: We can work in an impactful job without significant uncompensated sacrifice.
 
     P4\*: If it is in our power to prevent something very bad from happening, without significant uncompensated sacrifice, we ought, morally, to do it.
-    
+
     Therefore,
 
     C\*: We ought, morally, to work in an impactful job rather than spend our time on a career that does not help others.

@@ -73,7 +73,7 @@ Finally, proponents of utilitarianism may simply “bite the bullet” and accep
 
 {{< button >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 - Brian Berkey (2016). [The Demandingness of Morality: Toward a Reflective Equilibrium](https://doi.org/10.1007/s11098-016-0648-9). _Philosophical Studies_. 173(11): 3015–3035.
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. London: Continuum. Chapter 7: Is Utilitarianism too Demanding?

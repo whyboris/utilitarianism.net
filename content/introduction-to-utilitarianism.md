@@ -92,7 +92,7 @@ The next chapter discusses the four elements of utilitarian theories in greater 
 
 ---
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 ### Introduction
 
