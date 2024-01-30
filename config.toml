@@ -1,3 +1,4 @@
+defaultContentLanguage = "es"
 baseURL = "https://utilitarianism.net/"
 googleAnalytics = "G-91NYS1B7E1"
 title = "Utilitarianism"
@@ -11,12 +12,13 @@ enableRobotsTXT = true
     [markup.goldmark.renderer]
         unsafe = true
 [languages]
-  [languages.en]
-    title = "Utilitarianism.net"
-    weight = 1
-  # [languages.jp]
-  #   title = "i18n test"
-  #   weight = 2
+  # [languages.en]
+  #   title = "Utilitarianism.net"
+  #   weight = 1
+  [languages.es]
+    title = "Utilitarismo.net"
+    languageCode = "es-ES"
+    weight = 2
 [Params]
   images = ["img/social.png"]
   # WARNING - below 3 (pdf, search, production) should all be "false"
