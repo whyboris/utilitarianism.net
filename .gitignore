@@ -10,3 +10,5 @@ pdf/**/*.pdf
 dist
 
 **/.DS_store
+
+content/bib.json

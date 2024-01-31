@@ -13,6 +13,8 @@ gradientBottom: "#236d9f"
 >
 > — Mòzǐ[^1]
 
+{{< TOC >}}
+
 ¿Qué debemos hacer moralmente? El utilitarismo da una respuesta: siempre debemos promover el bienestar general. En comparación con otras teorías éticas, el utilitarismo es menos deferente con el pensamiento común y puede decirnos que hagamos cambios sustanciales en cómo conducimos nuestras vidas. Quizá más que ninguna otra teoría ética, ha dado lugar a un encendido debate filosófico entre sus [defensores](./argumentos-a-favor-del-utilitarismo.md) y sus [críticos](./objeciones-al-utilitarismo).
 
 ## ¿Por qué necesitamos teorías morales?
