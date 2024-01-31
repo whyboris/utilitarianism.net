@@ -7,7 +7,8 @@ This folder contains instructions for people new to coding, tips for cleaning ma
 - [First time coding](#first-time-coding)
 - [Importing from Google Docs](#importing-from-google-docs)
 - [Miscellaneous Notes](#miscellaneous-notes)
-- [Building](#building)
+- [How builds are generated](#how-builds-are-generated)
+- [Languages](#languages)
 
 ## First time coding
 
@@ -30,17 +31,17 @@ _Please read:_ **Terminal** is a tool you use to make your computer execute comm
          - _unlikely_, but if you see an error about "administrator" something, try running _Powershell_ as an _administrator_ (right-click the icon in the _Start_ menu and "Run as administrator")
 
 2. Install [Hugo](https://gohugo.io/getting-started/installing/)
-   - _Mac_: 
+   - _Mac_:
       - Install [brew](https://brew.sh/), then
       - `brew install hugo`
-   - _Windows_: 
+   - _Windows_:
       - Install [Scoop](https://scoop.sh/), then
       - `scoop install hugo-extended`
 3. Install [Just](https://github.com/casey/just)
    - _Mac_: `brew install just`
    - _Windows_: `scoop install just`
 4. Install [VSCode](https://code.visualstudio.com) _(step optional)_
-   - This is the nicest way to edit files 
+   - This is the nicest way to edit files
 5. _Last steps_ 🎉 all in your terminal:
    - _navigate_ to a folder where you would like your code to be located
       - this is done with the command `cd` followed by `..` to go up a directory or a folder name to enter it
@@ -119,7 +120,7 @@ After adding a document it will likely need some manual fixes:
     - other minor things
   - The main benefit of having this installed, is that in _VS Code_ you can right-click and _format_ all the `.html` files now.
 
-## Building
+## How builds are generated
 
 - **PDF** generation happens with [website2pdf](https://github.com/jgazeau/website2pdf).
   - For more details see the [PDF/README.md](../pdf/README.md) file.
@@ -142,5 +143,41 @@ When you run the `npm run build` script, under the hood we'll use `just` to exec
 See `justfile` for details; notice it uses `build.js` to do some of its bidding.
 
 Once the build is finished, you'll get a link in your terminal (to `http://localhost:3000`) which will be a local preview of the finished website. Please spot-check it to make sure it functions as expected (for example: search works & PDFs exist).
+
+## Languages
+
+This repository is set up to build the same website in many languages.
+
+To build in another language (than English), edit the `config.toml` file:
+
+- change the `defaultContentLanguage` to the two-letter abbreviation of the language you want to build (see `languages` section in the file)
+- change `disabled = true` to `disabled = false` and vice versa (for English and the language you want to build)
+
+Now run `npm run build` and you have your full website!
+
+### Bibliography
+
+This note is for posterity, in case we want to return to this functionality:
+
+We experimented with using a `.bib` file for automatic insertion of works cited (for example see [stable.bib](https://github.com/tlon-team/babel-refs/tree/main/bib)).
+
+We can use `pandoc` to convert `stable.bib` to `bib.json` with this command:
+
+```sh
+pandoc stable.bib -t csljson -o bib.json
+```
+
+Place the file in `/content` and refer to it from each page that needs citations: add this line to the _front matter_: `bibFile: content/bib.json`
+
+For more details, see [hugo-cite](https://github.com/loup-brun/hugo-cite)
+
+For simplicity of use, instead of installing the submodule, just copy over the files:
+
+- `layouts/shortcodes/cite.html`
+- `layouts/shortcodes/bibliography.html`
+- `layouts/partials/bibliography/apa-style.html`
+- `layouts/partials/bibliography/bibliography-list.html`
+
+You'll need to mess with CSS and the templates to get the output we want.
 
 [^1]: If you see an error while Pagefind is being installed, something like [Error: tar xvf exited with 128](https://github.com/CloudCannon/pagefind/issues/66#issuecomment-1237313541) try using _Powershell_ when running `npm install`
