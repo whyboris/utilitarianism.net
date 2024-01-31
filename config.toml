@@ -1,5 +1,5 @@
-defaultContentLanguage = "de"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 [markup]
   [markup.tableOfContents]
@@ -9,23 +9,29 @@ enableRobotsTXT = true
         unsafe = true
 [languages]
   [languages.en]
-    disabled = true
-    languageCode = "en-us"
+    disabled = false
+    languageCode = "en-US"
     title = "Utilitarianism.net"
     baseURL = "https://utilitarianism.net/"
-    googleAnalytics = "G-91NYS1B7E1"
+    [languages.en.services]
+      [languages.en.services.googleAnalytics]
+        ID = 'G-91NYS1B7E1'
   [languages.es]
     disabled = true
     languageCode = "es-ES"
     title = "Utilitarismo.net"
     baseURL = "https://utilitarianismo.net/"
-    googleAnalytics = "G-###"
+    [languages.es.services]
+      [languages.es.services.googleAnalytics]
+        ID = 'G-ADD-ID'
   [languages.de]
-    disabled = false
+    disabled = true
     languageCode = "de-DE"
     title = "Utilitarismus.net"
     baseURL = "https://utilitarianismus.net/"
-    googleAnalytics = "G-###"
+    [languages.de.services]
+      [languages.de.services.googleAnalytics]
+        ID = 'G-ADD-ID'
 [Params]
   images = ["img/social.png"]
   # WARNING - below 3 (pdf, search, production) should all be "false"
