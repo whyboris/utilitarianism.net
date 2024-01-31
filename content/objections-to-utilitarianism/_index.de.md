@@ -20,7 +20,7 @@ Der Utilitarismus ist eine sehr umstrittene Moraltheorie. Kritiker haben viele E
 
 Unsere Darstellung konzentriert sich zwar auf den Utilitarismus, aber es sei darauf hingewiesen, dass viele der nachstehenden Einwände auch gegen [andere Formen des Konsequentialismus](https://utilitarianism.net/near-utilitarian-alternatives) vorgebracht werden könnten (ebenso wie viele der [Argumente für den Utilitarismus](https://utilitarianism.net/arguments-for-utilitarianism/) auch für diese verwandten Ansichten gelten). In diesem Kapitel werden Einwände gegen den Utilitarismus und eng verwandte Ansichten — im Gegensatz zu nicht-konsequentialistischen Ansätzen in der Ethik — untersucht.
 
-## **Generelle Möglichkeiten, auf Einwände gegen den Utilitarismus zu reagieren**
+## Generelle Möglichkeiten, auf Einwände gegen den Utilitarismus zu reagieren
 
 Viele Einwände beruhen auf der Vorstellung, dass der Utilitarismus kontraintuitive Implikationen hat. Diese Implikationen können wir an konkreten Beispielen oder _Gedankenexperimenten_ veranschaulichen. In unserem Artikel über den [Rechte-Einwand](https://utilitarianism.net/objections-to-utilitarianism/rights) betrachten wir zum Beispiel den Fall der Transplantation:
 
@@ -38,7 +38,7 @@ Drittens können die Befürworter des Utilitarismus _die verfügbaren Alternativ
 
 Eine vierte Strategie besteht darin, „in den sauren Apfel zu beißen“, also die Intuition zu _tolerieren_. Dies bedeutet, dass man akzeptiert, dass der Utilitarismus kontraintuitive Implikationen hat, aber an der Theorie festhält, weil sie alles in allem immer noch plausibler ist als ihre Konkurrenten. Die Kosten für die Akzeptanz einer kontraintuitiven Implikation, so wird argumentiert, können durch die Kraft der [Argumente zugunsten des Utilitarismus](https://utilitarianism.net/arguments-for-utilitarianism) aufgewogen werden. Außerdem sind unsere Intuitionen oft widersprüchlich und ändern sich im Laufe der Zeit, so dass es unmöglich ist, konsistente und plausible Prinzipien zu finden, die alle Intuitionen widerspiegeln. Es erfordert also ein gutes Urteilsvermögen, um zu bestimmen, welche Intuitionen und theoretischen Verpflichtungen nicht verhandelbar sind und bei welchen wir bereit sein sollten, Kompromisse einzugehen. Mit diesem Abwägen zwischen Intuitionen und Theorie streben wir ein „[reflexives Gleichgewicht](https://utilitarianism.net/arguments-for-utilitarianism#introduction-moral-methodology-amp-reflective-equilibrium)“ an, durch das wir die plausibelste und kohärenteste Gesamtkombination von moralischen Urteilen und Prinzipien erreichen wollen.
 
-## **Das utilitaristische Instrumentarium**
+## Das utilitaristische Instrumentarium
 
 Es gibt weitere Ideen, auf die sich Utilitaristen bei der Anwendung der oben genannten allgemeinen Strategien berufen können.
 
@@ -62,11 +62,9 @@ Es gibt weitere Ideen, auf die sich Utilitaristen bei der Anwendung der oben gen
 
 Trotz der albernen Bezeichnungen handelt es sich um ernsthafte philosophische Ansätze. Wir verwenden sie, wo es angebracht ist, um auf die unten aufgeführten spezifischen Einwände zu reagieren. (Studierende werden ermutigt, beim Lesen eines Einwandes zu überlegen, wie sie das Instrumentarium des Utilitarismus anwenden können, um den betreffenden Einwand zu adressieren).
 
-## **Spezifische Einwände gegen Utilitarismus**
+## Spezifische Einwände gegen Utilitarismus
 
 In separaten Artikeln diskutieren wir die folgenden Kritikpunkte am Utilitarismus:
-
-### !!! THIS IS AUTO ADDED !!! MOVE THESE TO DESCRIPTIONS OF RELEVANT PAGES
 
 {{< textbook-objections >}}
 
@@ -76,60 +74,10 @@ In separaten Artikeln diskutieren wir die folgenden Kritikpunkte am Utilitarismu
 
 {{< button >}}
 
-### FIX BELOW STUFF
+## Ressourcen und weiterführende Lektüre
 
-1. **[Der Einwand bezüglich der Rechte von Personen](https://utilitarianism.net/objections-to-utilitarianism/rights/)**
-
-### Viele finden es verwerflich, dass der Utilitarismus in bestimmten hypothetischen Szenarien scheinbar ungeheuerliche Rechtsverletzungen zulässt, indem er unschuldige Menschen zum Wohle der Allgemeinheit tötet. In diesem Artikel wird untersucht, wie Utilitaristen am besten darauf reagieren können.
-
-2. **[Der „bloße Mittel“-Einwand](https://utilitarianism.net/objections-to-utilitarianism/mere-means/)**
-
-Kritiker werfen dem Utilitarismus oft vor, dass er Menschen in unzulässiger Weise instrumentalisiert und sie als bloßes Mittel zum Zweck des höheren Guts betrachtet, anstatt den Einzelnen als Selbstzweck zu betrachten. In diesem Artikel prüfen wir, ob dieser Einwand berechtigt ist.
-
-3. **[Der Einwand von der Getrenntheit von Personen](https://utilitarianism.net/objections-to-utilitarianism/separateness-of-persons/)**
-
-Der Gedanke, dass der Utilitarismus die „Getrenntheit von Personen“ vernachlässigt, hat sich als ein sehr einflussreicher Einwand erwiesen. Aber es ist ein Einwand, der schwer zu greifen ist. In diesem Artikel werden drei mögliche Interpretationen des Einwandes untersucht und wie der Utilitarismus auf jede reagieren kann.
-
-4. **[Der Einwand, Utilitarismus sei zu fordernd](https://utilitarianism.net/objections-to-utilitarianism/demandingness/)**
-
-Da der Utilitarismus uns anweist, das unparteilich beste Ergebnis zu wählen, selbst wenn es uns selbst viel kostet, kann er als eine unglaublich fordernde Theorie erscheinen. In diesem Artikel wird untersucht, ob diese Eigenschaft des Utilitarismus zu beanstanden ist, und, wenn ja, wie Verfechter des Utilitarismus am besten reagieren sollten.
-
-5. **[Der Einwand der Entfremdung](https://utilitarianism.net/objections-to-utilitarianism/alienation/)**
-
-Abstrakte Moraltheorien drohen uns von vielem zu entfremden, was uns teuer ist. In diesem Artikel werden zwei mögliche Verteidigungen des Utilitarismus gegen diesen Vorwurf untersucht. Die eine empfiehlt, andere als explizit utilitaristische Motivationen zu adoptieren. In der zweiten wird argumentiert, dass konkrete Anliegen unter umfassendere utilitaristische Motivationen subsumiert werden können.
-
-6. **[Der Einwand der besonderen Verpflichtungen](https://utilitarianism.net/objections-to-utilitarianism/special-obligations/)**
-
-Aus Beziehungen wie Elternschaft oder Vormundschaft ergeben sich scheinbar besondere Verpflichtungen zum Schutz derjenigen, die unserer Obhut unterstehen (wobei diese Verpflichtungen strenger sind als unsere allgemeinen Pflichten zur Wohltätigkeit gegenüber Fremden). In diesem Artikel wird untersucht, inwieweit der unparteiliche Utilitarismus Intuitionen und normativen Praktiken der Parteilichkeit Rechnung tragen kann.
-
-7. **[Der Gleichheits-Einwand](https://utilitarianism.net/objections-to-utilitarianism/equality/)**
-
-Der Utilitarismus befasst sich mit dem allgemeinen Wohlergehen der Individuen einer Population, aber viele wenden ein, dass Gerechtigkeit eine zusätzliche Sorge darum erfordert, wie dieses Wohlergehen auf Individuen verteilt ist. Dieser Artikel untersucht diesen Einwand und zeigt auf, wie Utilitaristen am besten darauf reagieren können.
-
-8. **[Der Einwand von der Ahnungslosigkeit](https://utilitarianism.net/objections-to-utilitarianism/cluelessness/)**
-
-Wird der Utilitarismus dadurch untergraben, dass wir die langfristigen Folgen unseres Handelns nicht vorhersagen können? In diesem Artikel wird untersucht, ob sich Utilitaristen immer noch vom kurzfristigen Erwartungswert leiten lassen können, auch wenn dieser im Vergleich zum potenziellen Wert oder Schaden der unbekannten langfristigen Folgen gering ist.
-
-9. **[Der Einwand von der Missbräuchlichkeit](https://utilitarianism.net/objections-to-utilitarianism/abusability/)**
-
-Manche argumentieren, der Utilitarismus sei selbstverleugnend: dass er sich gegen seine eigene Adoption ausspricht, da die Gefahr besteht, dass falsche Appelle an das „höhere Gut“ zu furchtbar schädlichen Handlungen führen. In diesem Artikel wird untersucht, wie man sich am besten vor solchen Risiken schützen kann. Es wird die Frage gestellt, ob es ein Einwand gegen eine Theorie ist, wenn sie sich auf diese Weise als selbstverleugnend erweist.
-
-[Nächstes Kapitel: Einwand bezüglich der Rechte von Personen](https://utilitarianism.net/objections-to-utilitarianism/rights/)
-
-## **Diese Seite zitieren**
-
-Chappell, R.Y., Meissner, D. und MacAskill, W. (2023). Einwände gegen den Utilitarismus und Antworten. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/objections-to-utilitarianism>, zuletzt aufgerufen am 10/16/2023.
-
-## **Möchtest du die Welt zu einem besseren Ort machen?**
-
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
-
-## **Ressourcen und weiterführende Lektüre**
-
-* Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford: Oxford University Press. Kapitel 4: Objections.
-* J. J. C. Smart & Bernard Williams (1973). _Utilitarianism: For and Against_. Cambridge: Cambridge University Press.
+- Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford: Oxford University Press. Kapitel 4: Objections.
+- J. J. C. Smart & Bernard Williams (1973). _Utilitarianism: For and Against_. Cambridge: Cambridge University Press.
 
 [^1]:
      de Lazari-Radek, K. & Singer, P. (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford: Oxford University Press. Vorwort.
