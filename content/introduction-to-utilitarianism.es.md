@@ -51,10 +51,10 @@ A veces, los filósofos hablan de "utilidad" en lugar de "bienestar", pero estas
 
 Todas las teorías éticas de la familia utilitarista comparten cuatro elementos definitorios: el consecuencialismo, el bienestarismo, la imparcialidad y el agregacionismo, que definiremos a continuación:
 
-1.  **Consecuencialismo:** uno debe siempre promover los buenos resultados.
-2.  **Bienestarismo:** el valor de un resultado está totalmente determinado por el bienestar de los individuos que lo integran.
-3.  **Imparcialidad:** una cantidad dada de bienestar es igualmente valiosa sin importar *de quién* sea el bienestar.
-4.  **Agregacionismo**: el valor de un resultado está determinado por la *suma* del valor de las vidas que contiene.[^12]
+1. **Consecuencialismo:** uno debe siempre promover los buenos resultados.
+2. **Bienestarismo:** el valor de un resultado está totalmente determinado por el bienestar de los individuos que lo integran.
+3. **Imparcialidad:** una cantidad dada de bienestar es igualmente valiosa sin importar *de quién* sea el bienestar.
+4. **Agregacionismo**: el valor de un resultado está determinado por la *suma* del valor de las vidas que contiene.[^12]
 
 [Los rivales del utilitarismo](./alternativas-cercanas-al-utilitarismo.md) son teorías que niegan uno o más de los cuatro elementos anteriores. Por ejemplo, podrían sostener que las acciones pueden ser intrínsecamente correctas o incorrectas independientemente de sus consecuencias, o que otras cosas además del bienestar pueden contribuir al valor de un resultado, o que la moral nos permite ser parciales con nuestros amigos y familiares, o que deberíamos hacer lo que más beneficie al miembro más desfavorecido de la sociedad.
 
