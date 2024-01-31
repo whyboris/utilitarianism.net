@@ -48,7 +48,7 @@ It is worth noting that if we can make comparisons of value differences between 
 
 ## Taking Moral Uncertainty Seriously
 
-If we take moral uncertainty seriously and accept that it has implications for utilitarian-friendly agents, we need to clarify what ‘reasonable choice’ means for a morally uncertain agent. It cannot mean the choice that utilitarianism favors, because then we are back to the hard-nosed view according to which ‘we ought to do what we ought to do’ under moral uncertainty. 
+If we take moral uncertainty seriously and accept that it has implications for utilitarian-friendly agents, we need to clarify what ‘reasonable choice’ means for a morally uncertain agent. It cannot mean the choice that utilitarianism favors, because then we are back to the hard-nosed view according to which ‘we ought to do what we ought to do’ under moral uncertainty.
 
 One option is to invoke rationality as understood in standard decision-theory. On this view, when we talk about what is reasonable to do under moral uncertainty we are talking about what would be rational to do given a morally conscientious agent’s preferences and beliefs. A morally conscientious agent will care about the values of her actions under different plausible moral hypotheses, and her preferences will line up with their possible assignments of value. To make this clear, suppose the conscientious agent can either go to the museum or to the spa. She considers two moral hypotheses, Mill’s qualitative hedonism and [quantitative hedonism](/theories-of-wellbeing#hedonism). The value assignments look like this:
 
@@ -92,7 +92,7 @@ Often decisions in such cases are justified by weighing the probabilities of the
 
 **Not speed**: (10 x 0.2) + (10 x 0.8) = 10
 
-In this case, Julia should not speed because it has a higher expected value than speeding. 
+In this case, Julia should not speed because it has a higher expected value than speeding.
 
 To maximize expected value in all situations is controversial. For example, assume that you have minuscule confidence (to the degree of 0.000000000000000000001, say) in some outlandish empirical view: that you cause an enormous disaster if you brush your teeth (perhaps [chaos theory](https://en.wikipedia.org/wiki/Chaos_theory) can support this possibility). Then not brushing your teeth may still be what maximizes expected value, even if you are much more confident that if you do brush your teeth nothing bad will happen and that some good will happen—your dental hygiene will be improved slightly. It is enough that the possible but extremely unlikely disaster is sufficiently bad.[^8]
 
@@ -138,10 +138,10 @@ It is still true, of course, that the approach to moral uncertainty sketched her
 
 {{< two-button >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 - Bykvist, Krister (2022). Evaluative uncertainty and population ethics. In G. Arrhenius, K. Bykvist, T. Campbell, & E. Finneron-Burns (Eds.), _Handbook on Population Ethics_. Oxford University Press.
-- Bykvist, Krister (2017). [Moral uncertainty](https://doi.org/10.1111/phc3.12408). _Philosophy Compass_. 
+- Bykvist, Krister (2017). [Moral uncertainty](https://doi.org/10.1111/phc3.12408). _Philosophy Compass_.
 - Bykvist, Krister (2014). Evaluative uncertainty and consequentialist environmental ethics. In L. Kahn, & A. Hiller (Eds.), _Environmental ethics and consequentialism_. Routledge.
 - Graham, Peter (2010). [In defence of objectivism about moral obligation](https://doi.org/10.1086/656328). _Ethics_, 121(1): 88–115.
 - Gustafsson, Johan & Torpman, Olle (2014). [In defence of my favourite theory](https://doi.org/10.1111/papq.12022). _Pacific Philosophical Quarterly_, 95(2): 159–174.

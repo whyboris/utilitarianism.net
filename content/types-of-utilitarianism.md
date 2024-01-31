@@ -229,7 +229,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 
 {{< button >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 ### Consequentialism
 

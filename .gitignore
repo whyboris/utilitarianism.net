@@ -1,3 +1,4 @@
+/docx/
 /public/
 /resources/
 .hugo_build.lock
@@ -10,3 +11,10 @@ pdf/**/*.pdf
 dist
 
 **/.DS_store
+
+# for generating DOCX files
+test.md
+out.docx
+output.log
+# copied from /static/img/
+/img/

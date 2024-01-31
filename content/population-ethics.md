@@ -262,7 +262,7 @@ The next chapter discusses the most important implications of utilitarianism for
 
 {{< button >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 ### General Discussions of Population Ethics
 
@@ -452,9 +452,9 @@ The next chapter discusses the most important implications of utilitarianism for
 
 [^43]: Here we use the term “impersonal” simply to contrast with the (narrow) person-affecting view. So even an impersonal theory (on our usage) can take the value of a state of affairs to be grounded in facts about what is good for particular people, e.g. if one holds that a happy existence can constitute a non-comparative benefit, parallel to how a miserable existence constitutes a non-comparative harm.
 [^44]:
-    The critical range theories we have discussed are more difficult to capture in a numerical formula. But if we put aside any lives that fall within the critical range, we might approximate the remaining overall value by separately summing the positive and negative welfare levels, to the extent that they exceed their respective ends of the critical range. So, using positive and negative subscripts to denote the respective numbers (N), averages (Q), and critical boundary points (α) for these two subpopulations, we can write the value function as: <strong>N<sub>+</sub> \* (Q<sub>+</sub> - α<sub>+</sub>) + N<sub>-</sub> \* (Q<sub>-</sub> - α<sub>-</sub>)</strong>.
+    The critical range theories we have discussed are more difficult to capture in a numerical formula. But if we put aside any lives that fall within the critical range, we might approximate the remaining overall value by separately summing the positive and negative welfare levels, to the extent that they exceed their respective ends of the critical range. So, using positive and negative subscripts to denote the respective numbers (N), averages (Q), and critical boundary points (α) for these two subpopulations, we can write the value function as: **N<sub>+</sub> \* (Q<sub>+</sub> - α<sub>+</sub>) + N<sub>-</sub> \* (Q<sub>-</sub> - α<sub>-</sub>)**.
 
-    Alternatively, we might think of the value of the world as itself indeterminate or corresponding to a numerical range, as given by all the possible critical level theories corresponding to the critical range, i.e.: everything from <strong>N \* (Q - α<sub>-</sub>) </strong>to <strong>N \* (Q - α<sub>+</sub>)</strong>. On this approach, the value of the repugnant world Z, for example, would be indeterminate across an immense range of values stemming from _extremely negative_ to _extremely positive_, because <strong>N</strong> is unimaginably huge whereas the sign of <strong>(Q - α)</strong> is indeterminate, given the range of candidate critical levels <strong>α</strong>.
+    Alternatively, we might think of the value of the world as itself indeterminate or corresponding to a numerical range, as given by all the possible critical level theories corresponding to the critical range, i.e.: everything from **N \* (Q - α<sub>-</sub>)** to **N \* (Q - α<sub>+</sub>)**. On this approach, the value of the repugnant world Z, for example, would be indeterminate across an immense range of values stemming from _extremely negative_ to _extremely positive_, because **N** is unimaginably huge whereas the sign of **(Q - α)** is indeterminate, given the range of candidate critical levels **α**.
 
 [^45]: On the total view, adding a person with positive well-being is always good, all else equal. The same is true for variable value theories, though for a large pre-existing population the marginal value of an additional life being added may be low. On the average view, adding a person is good, other things being equal, if the person’s well-being exceeds the existing average; similarly, it is good on critical level (and range) theories, if the person’s well-being exceeds the critical level (or range).
 [^46]:
@@ -470,9 +470,9 @@ The next chapter discusses the most important implications of utilitarianism for
     Narveson, J. (1967). [Utilitarianism and New Generations](https://www.jstor.org/stable/2252027). _Mind_. 76(301): 62–72.
 
     Narveson, J. (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1): 62–86.
-    
+
     Roberts, M.A. (2002). [A New Way of Doing the Best That We Can: Person-based Consequentialism and the Equality Problem](https://doi.org/10.1086/324321). _Ethics_, 112(2): 315–350.
-    
+
     Roberts, M.A. (2004). [Person-Based Consequentialism and the Procreation Obligation](https://doi.org/10.1007/978-1-4020-2473-3_7), in J. Ryberg and T. Tännsjö (eds.) _The Repugnant Conclusion_. Library Of Ethics And Applied Philosophy. 15: 99–128.
 
 [^48]: At least, it cannot be better or worse in terms of well-being.
@@ -518,7 +518,7 @@ The next chapter discusses the most important implications of utilitarianism for
     Greaves, H. & Ord, T. (2017). [Moral Uncertainty About Population Axiology](https://doi.org/10.26556/jesp.v12i2.223). _Journal of Ethics and Social Philosophy_. 12(2).
 
     See also:
-    
+
     MacAskill, W., Bykvist, K., & Ord, T. (2020). Chapter 8, Practical Ethics Given Moral Uncertainty, in _[Moral Uncertainty](https://www.moraluncertainty.com/)_. Oxford: Oxford University Press.
-    
+
     Ord, T. (2020). Appendix B: Population Ethics and Existential Risk, in _[The Precipice: Existential Risks and the Future of Humanity](https://theprecipice.com/)_. Hachette Books: New York.

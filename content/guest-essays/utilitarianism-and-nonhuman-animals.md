@@ -124,7 +124,7 @@ We are only at the start of asking such questions, but the answers will be impor
 
 {{< two-button >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 - Driver, Julia (2012). _Consequentialism_. Routledge.
 - John, Tyler and Jeff Sebo (2020). Consequentialism and Nonhuman Animals. _Oxford Handbook of Consequentialism_, ed. Doug Portmore. Oxford University Press.

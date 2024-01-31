@@ -177,7 +177,7 @@ _A longer version of this article can be found [here](https://psyarxiv.com/w52zm
 
 {{< two-button >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 - Bazerman, Max (2020). _[Better, not perfect: a realist’s guide to maximum sustainable goodness](https://www.amazon.co.uk/Better-Not-Perfect-Realists-Sustainable-ebook/dp/B082J39V98)_. Harper Business.
 - Bradley, Ben (2018). [Contemporary Consequentialist Theories of Virtue.](https://benbradleyweb.files.wordpress.com/2016/09/consequentialist-theories-of-virtue-final-web.pdf) In _The Oxford Handbook of Virtue_.

@@ -65,7 +65,7 @@ It would be deeply alienating for a moral theory to invalidate the overwhelming 
 
 {{< button >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 - Richard Y. Chappell, (2021). [The Right Wrong-Makers](https://philpapers.org/rec/CHATRW-3). _Philosophy and Phenomenological Research_, 103(2): 426–440.
 - Barry Maguire & Calvin Baker (2020). [The Alienation Objection to Consequentialism](https://philpapers.org/rec/MAGTAO-6), in D. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press.

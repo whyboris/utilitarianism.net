@@ -73,7 +73,7 @@ Finally, proponents of utilitarianism may once again “bite the bullet” and s
 
 {{< button >}}
 
-## Resources and Further Reading
+## Resources and Further Reading {.noexport}
 
 - Roger Crisp (2003). [Equality, Priority, and Compassion](https://www.jstor.org/stable/10.1086/373954?seq=1). _Ethics_, 113(4): 745–763.
 - Toby Ord (2015). [A New Counterexample to Prioritarianism](http://amirrorclear.net/files/a-new-counterexample-to-prioritarianism.pdf). _Utilitas_, 27(3): 298–302.
