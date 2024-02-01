@@ -5,7 +5,7 @@ draft: false
 menu: ["objections", "main"]
 weight: 100
 page: 0
-description: "GERMAN: This chapter presents a toolkit of general strategies for responding to objections to utilitarianism, before introducing the most influential specific objections to the theory."
+description: "In diesem Kapitel wird ein Instrumentarium allgemeiner Strategien vorgestellt, mit denen auf Einwände gegen den Utilitarismus reagiert werden kann, bevor die einflussreichsten spezifischen Einwände gegen die Theorie vorgestellt werden."
 gradientTop: "#1F2A70"
 gradientBottom: "#1F1E70"
 ---

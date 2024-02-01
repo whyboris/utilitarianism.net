@@ -4,7 +4,7 @@ date: 2023-01-29
 draft: false
 menu: "main"
 weight: 7
-description: "GERMAN: There are several ways to reject aspects of utilitarianism while remaining on board with the general thrust of the theory (at least in practice). This chapter explores a range of such near-utilitarian views, to demonstrate the robustness of utilitarianism's practical recommendations. Even if you think the theory is technically false, you may nonetheless have good grounds to largely agree with its practical verdicts."
+description: "Es gibt mehrere Möglichkeiten, Aspekte des Utilitarismus abzulehnen, aber dennoch (zumindest in der Praxis) die allgemeine Ausrichtung der Theorie beizubehalten. In diesem Kapitel wird das Spektrum solcher Utilitarismus-nahen Ansichten untersucht, um die Robustheit der praktischen Empfehlungen des Utilitarismus zu demonstrieren. Auch wer die Theorie für technisch falsch hält, kann dennoch gute Gründe haben, ihren praktischen Urteilen weitgehend zuzustimmen."
 gradientTop: "#305D9C"
 gradientBottom: "#1F2A70"
 ---

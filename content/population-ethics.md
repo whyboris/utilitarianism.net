@@ -470,9 +470,9 @@ The next chapter discusses the most important implications of utilitarianism for
     Narveson, J. (1967). [Utilitarianism and New Generations](https://www.jstor.org/stable/2252027). _Mind_. 76(301): 62–72.
 
     Narveson, J. (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1): 62–86.
-    
+
     Roberts, M.A. (2002). [A New Way of Doing the Best That We Can: Person-based Consequentialism and the Equality Problem](https://doi.org/10.1086/324321). _Ethics_, 112(2): 315–350.
-    
+
     Roberts, M.A. (2004). [Person-Based Consequentialism and the Procreation Obligation](https://doi.org/10.1007/978-1-4020-2473-3_7), in J. Ryberg and T. Tännsjö (eds.) _The Repugnant Conclusion_. Library Of Ethics And Applied Philosophy. 15: 99–128.
 
 [^48]: At least, it cannot be better or worse in terms of well-being.
@@ -518,7 +518,7 @@ The next chapter discusses the most important implications of utilitarianism for
     Greaves, H. & Ord, T. (2017). [Moral Uncertainty About Population Axiology](https://doi.org/10.26556/jesp.v12i2.223). _Journal of Ethics and Social Philosophy_. 12(2).
 
     See also:
-    
+
     MacAskill, W., Bykvist, K., & Ord, T. (2020). Chapter 8, Practical Ethics Given Moral Uncertainty, in _[Moral Uncertainty](https://www.moraluncertainty.com/)_. Oxford: Oxford University Press.
-    
+
     Ord, T. (2020). Appendix B: Population Ethics and Existential Risk, in _[The Precipice: Existential Risks and the Future of Humanity](https://theprecipice.com/)_. Hachette Books: New York.

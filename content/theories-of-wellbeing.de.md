@@ -4,7 +4,7 @@ date: 2023-01-29
 draft: false
 menu: "main"
 weight: 4
-description: "GERMAN: Explores the three major theories of well-being, or what makes a life good for the individual living it: hedonism, desire theory, and objective list theory."
+description: "Es werden die drei wichtigsten Theorien von Wohlergehen untersucht, das heißt Theorien darüber, was ein Leben für den Einzelnen gut macht: Hedonismus, Wunscherfüllungstheorie und Objektive-Listen-Theorie."
 gradientTop: "#084BC7"
 gradientBottom: "#1B7CCC"
 ---
