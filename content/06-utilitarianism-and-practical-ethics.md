@@ -1,5 +1,6 @@
 ---
 title: "Utilitarianism and Practical Ethics"
+slug: "utilitarianism-and-practical-ethics"
 date: 2023-01-29
 draft: false
 menu: "main"

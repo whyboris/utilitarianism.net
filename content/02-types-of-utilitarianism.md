@@ -1,5 +1,6 @@
 ---
 title: "Elements and Types of Utilitarianism"
+slug: "types-of-utilitarianism"
 date: 2023-01-29
 draft: false
 menu: "main"

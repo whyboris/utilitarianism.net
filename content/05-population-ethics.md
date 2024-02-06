@@ -1,5 +1,6 @@
 ---
 title: "Population Ethics"
+slug: "population-ethics"
 date: 2023-01-29
 draft: false
 menu: "main"

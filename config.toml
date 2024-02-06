@@ -13,6 +13,7 @@ enableRobotsTXT = true
     languageCode = "en-US"
     title = "Utilitarianism.net"
     baseURL = "https://utilitarianism.net/"
+    weight = 1
     [languages.en.services]
       [languages.en.services.googleAnalytics]
         ID = 'G-91NYS1B7E1'
@@ -21,6 +22,7 @@ enableRobotsTXT = true
     languageCode = "es-ES"
     title = "Utilitarismo.net"
     baseURL = "https://utilitarianismo.net/"
+    weight = 2
     [languages.es.services]
       [languages.es.services.googleAnalytics]
         ID = 'G-ADD-ID'
@@ -29,6 +31,7 @@ enableRobotsTXT = true
     languageCode = "de-DE"
     title = "Utilitarismus.net"
     baseURL = "https://utilitarianismus.net/"
+    weight = 3
     [languages.de.services]
       [languages.de.services.googleAnalytics]
         ID = 'G-ADD-ID'

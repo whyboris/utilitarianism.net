@@ -1,5 +1,6 @@
 ---
 title: "Resources and Further Reading"
+slug: "resources-and-further-reading"
 date: 2023-01-29
 draft: false
 menu: "main"
