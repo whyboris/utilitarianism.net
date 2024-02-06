@@ -1,6 +1,6 @@
 ---
 title: "An Introduction to Utilitarianism"
-slug: "textbook"
+slug: "libro-de-texto"
 book: "An Introduction to Utilitarianism"
 year: " " # hack so `single.html` displays properly
 author: "Richard Yetter Chappell, Darius Meissner, and William MacAskill"
