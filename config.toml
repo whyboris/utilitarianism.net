@@ -10,6 +10,7 @@ enableRobotsTXT = true
 [languages]
   [languages.en]
     disabled = false
+    contentDir = 'content/en'
     languageCode = "en-US"
     title = "Utilitarianism.net"
     baseURL = "https://utilitarianism.net/"
@@ -19,6 +20,7 @@ enableRobotsTXT = true
         ID = 'G-91NYS1B7E1'
   [languages.es]
     disabled = true
+    contentDir = 'content/es'
     languageCode = "es-ES"
     title = "Utilitarismo.net"
     baseURL = "https://utilitarianismo.net/"
@@ -28,6 +30,7 @@ enableRobotsTXT = true
         ID = 'G-ADD-ID'
   [languages.de]
     disabled = true
+    contentDir = 'content/de'
     languageCode = "de-DE"
     title = "Utilitarismus.net"
     baseURL = "https://utilitarianismus.net/"
