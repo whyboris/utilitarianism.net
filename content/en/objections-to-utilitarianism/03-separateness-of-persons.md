@@ -1,5 +1,6 @@
 ---
 title: "The Separateness of Persons Objection"
+slug: "separateness-of-persons"
 date: 2023-01-29
 type: "page"
 draft: false
@@ -143,7 +144,7 @@ We have seen that the “separateness of persons” objection to utilitarianism 
 [^15]: This is a quote from Derek Parfit's concise summary of the thought experiment, on p. 375 of Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio_, 16(4): 368–390.
 [^16]: The following subsections draw directly from section 3.2 of Chappell, R.Y. (2021). _Parfit's Ethics_. Cambridge University Press.
 [^17]:
-    Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio_, 16(4): 368–390. 
+    Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio_, 16(4): 368–390.
 
     What if the watchers are somehow even worse-off? Then Parfit’s explanation fails, but he could comfortably suggest in this case that slightly improving the lot of billions of worse-off individuals really should be prioritized over offering great relief to a single individual who is already in a better state than these others.
 

@@ -1,5 +1,6 @@
 ---
 title: "Der Einwand von der Getrenntheit von Personen"
+slug: "getrenntheit-von-personen"
 date: 2023-01-29
 type: "page"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Der „bloße Mittel“-Einwand"
+slug: "blose-mittel"
 date: 2023-01-29
 type: "page"
 draft: false

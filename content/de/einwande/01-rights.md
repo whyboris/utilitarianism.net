@@ -1,5 +1,6 @@
 ---
 title: "Der Einwand bezüglich der Rechte von Personen"
+slug: "rechte"
 date: 2023-01-29
 type: "page"
 draft: false

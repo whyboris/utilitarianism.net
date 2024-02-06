@@ -1,5 +1,6 @@
 ---
 title: "The Abusability Objection"
+slug: "abusability"
 date: 2023-03-08
 type: "page"
 draft: false

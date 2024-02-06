@@ -1,5 +1,6 @@
 ---
 title: "The Special Obligations Objection"
+slug: "special-obligations"
 date: 2023-01-29
 type: "page"
 draft: false

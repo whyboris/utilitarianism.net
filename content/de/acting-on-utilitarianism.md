@@ -1,5 +1,6 @@
 ---
 title: "Utilitarismus als Handlungsgrundlage"
+slug: "utilitarismus-als-handlungsgrundlage"
 date: 2023-01-29
 draft: false
 menu: "acting"

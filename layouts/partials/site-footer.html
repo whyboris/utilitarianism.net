@@ -48,12 +48,14 @@
 
       <span class="footer-heading large-gap">Guest Essays</span>
 
+      {{ if .Site.Menus.guest }}
       {{ range first 10 .Site.Menus.guest.Sort.ByWeight }}
         <a href="{{ .URL }}">
           {{ with .Page }}
             {{ .Title }}
           {{ end }}
         </a>
+      {{ end }}
       {{ end }}
 
     </div>

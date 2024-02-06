@@ -1,5 +1,6 @@
 ---
 title: "The Equality Objection"
+slug: "equality"
 date: 2023-01-29
 type: "page"
 draft: false

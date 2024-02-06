@@ -1,5 +1,6 @@
 ---
 title: "Der Einwand der besonderen Verpflichtungen"
+slug: "besonderen-verpflichtungen"
 date: 2023-01-29
 type: "page"
 draft: false

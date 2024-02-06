@@ -1,5 +1,6 @@
 ---
 title: "The Cluelessness Objection"
+slug: "cluelessness"
 date: 2023-03-08
 type: "page"
 draft: false
@@ -157,7 +158,7 @@ There is reason to doubt whether concerns about cluelessness really present an _
      Strikingly, even Lenman (2000), p. 364, grants that “the invisible consequences of action very plausibly matter too,” but he adds that “there is no clear reason to suppose this mattering to be a matter of moral significance any more than the consequences, visible or otherwise, of earthquakes or meteor impacts (although they may certainly matter enormously) need be matters of, in particular, moral concern. There is nothing particularly implausible here. It is simply to say, for example, that the crimes of Hitler, although they were a terrible thing, are not something we can sensibly raise in discussion of the moral failings or excellences of [someone who saved the life of Hitler’s distant ancestor].”
 
     This is a strange use of “moral significance”. Moral agents clearly ought to care about earthquakes, meteor strikes, and future genocidal dictators. (At a minimum, we ought to prefer that there be fewer of such things, as part of our beneficent concern for others generally.) An agent who was truly _indifferent_ to these things would not be a virtuous agent: their indifference reveals a callous disregard for future people. So it could certainly constitute a “moral failing” to fail to care about such harmful events.
-    
+
     On the other hand, if Lenman really just means to say that _which unforeseeable consequences actually occur_ shouldn’t affect our assessment of a person’s “moral failings or excellences”, then this seems a truism that in no way threatens consequentialism. It’s a familiar point that many forms of agential assessment (e.g. rationality, virtue, etc.) are “internalist”—supervening on the intrinsic properties of the agent, and not what happens in the external world, beyond their control. [Hybrid utilitarians](/types-of-utilitarianism#global-utilitarianism-versus-hybrid-utilitarianism) comfortably combine such internalism about agential assessments with a utilitarian account of our reasons for action.
 
 [^17]:
