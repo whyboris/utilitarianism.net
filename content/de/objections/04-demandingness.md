@@ -1,5 +1,6 @@
 ---
 title: "Der Einwand, Utilitarismus sei zu fordernd"
+slug: "sei-zu-fordernd"
 date: 2023-01-29
 type: "page"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "The Demandingness Objection"
+slug: "demandingness"
 date: 2023-01-29
 type: "page"
 draft: false

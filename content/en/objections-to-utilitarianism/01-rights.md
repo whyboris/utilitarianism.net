@@ -1,5 +1,6 @@
 ---
 title: "The Rights Objection"
+slug: "rights"
 date: 2023-01-29
 type: "page"
 draft: false

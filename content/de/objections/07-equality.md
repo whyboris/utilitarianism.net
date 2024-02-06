@@ -1,5 +1,6 @@
 ---
 title: "Der Gleichheits-Einwand"
+slug: "gleichheits"
 date: 2023-01-29
 type: "page"
 draft: false

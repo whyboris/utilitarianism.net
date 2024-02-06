@@ -1,5 +1,6 @@
 ---
 title: "The Mere Means Objection"
+slug: "mere-means"
 date: 2023-01-29
 type: "page"
 draft: false
