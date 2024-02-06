@@ -1,5 +1,6 @@
 ---
 title: "La objeción de la separación de las personas"
+slug: "separacion-de-las-personas"
 date: 2023-01-29
 type: "page"
 draft: false

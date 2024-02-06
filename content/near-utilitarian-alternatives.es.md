@@ -1,5 +1,6 @@
 ---
 title: "Alternativas cercanas al utilitarismo"
+slug: "alternativas-cercanas-al-utilitarismo"
 date: 2023-01-29
 draft: false
 menu: "main"

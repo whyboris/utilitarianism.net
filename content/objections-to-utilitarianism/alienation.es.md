@@ -1,5 +1,6 @@
 ---
 title: "La objeción de la alienación"
+slug: "alienacion"
 date: 2023-01-29
 type: "page"
 draft: false

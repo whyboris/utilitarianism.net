@@ -1,5 +1,6 @@
 ---
 title: "La objeción de la incertidumbre radical"
+slug: "incertidumbre-radical"
 date: 2023-03-08
 tipo: "page"
 draft: false

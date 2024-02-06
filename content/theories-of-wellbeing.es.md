@@ -1,5 +1,6 @@
 ---
 title: "Teorías del bienestar"
+slug: "teorias-del-bienestar"
 date: 2023-01-29
 draft: false
 menu: "main"

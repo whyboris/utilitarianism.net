@@ -1,5 +1,6 @@
 ---
 title: "La objeción de los meros medios"
+slug: "meros-medios"
 date: 2023-01-29
 type: "page"
 draft: false

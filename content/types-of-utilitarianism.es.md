@@ -1,5 +1,6 @@
 ---
 title: "Elementos y tipos de utilitarismo"
+slug: "elementos-y-tipos-de-utilitarismo"
 date: 2023-01-29
 draft: false
 menu: "main"

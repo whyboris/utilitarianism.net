@@ -1,5 +1,6 @@
 ---
 title: "Introducción al utilitarismo"
+slug: "introduccion-al-utilitarismo"
 date: 2023-01-29
 draft: false
 menu: "main"

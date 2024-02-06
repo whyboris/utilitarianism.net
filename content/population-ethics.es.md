@@ -1,5 +1,6 @@
 ---
 title: "Ética de la población"
+slug: "etica-de-la-poblacion"
 date: 2023-01-29
 draft: false
 menu: "main"

@@ -1,5 +1,6 @@
 ---
 title: "La objeción de la abusabilidad"
+slug: "abusabilidad"
 date: 2023-03-08
 type: "page"
 draft: false

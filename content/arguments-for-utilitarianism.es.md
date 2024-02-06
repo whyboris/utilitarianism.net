@@ -1,5 +1,6 @@
 ---
 title: "Argumentos a favor del utilitarismo"
+slug: "argumentos-a-favor-del-utilitarismo"
 date: 2023-01-29
 draft: false
 menu: "main"

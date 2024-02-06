@@ -1,5 +1,6 @@
 ---
 title: "La objeción de los derechos"
+slug: "derechos"
 date: 2023-01-29
 type: "page"
 draft: false

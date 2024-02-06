@@ -1,5 +1,6 @@
 ---
 title: "Actuar conforme al utilitarismo"
+slug: "actuar-conforme-al-utilitarismo"
 date: 2023-01-29
 draft: false
 menu: "acting"

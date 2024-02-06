@@ -1,5 +1,6 @@
 ---
 title: "La objeción de las obligaciones especiales"
+slug: "obligaciones-especiales"
 date: 2023-01-29
 type: "page"
 draft: false
