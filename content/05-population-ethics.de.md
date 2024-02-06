@@ -1,5 +1,6 @@
 ---
 title: "Populationsethik"
+slug: "populationsethik"
 date: 2023-01-29
 draft: false
 menu: "main"

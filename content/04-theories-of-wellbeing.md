@@ -1,5 +1,6 @@
 ---
 title: "Theories of Well-Being"
+slug: "theories-of-well-being"
 date: 2023-01-29
 draft: false
 menu: "main"
@@ -240,7 +241,7 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
     Kolber, A. (1994). [Mental Statism and the Experience Machine](https://ssrn.com/abstract=1322059). _Bard Journal of Social Sciences_. 3: 10–17.
 
     Greene, J. D. (2001). A Psychological Perspective on Nozick’s Experience Machine and Parfit’s Repugnant Conclusion. _Presentation at the Society for Philosophy and Psychology Annual Meeting_. Cincinnati, OH.
-    
+
     de Brigard, F. (2010). [If you like it, does it matter if it's real?](https://doi.org/10.1080/09515080903532290). _Philosophical Psychology_. 23(1): 43–57.
 
 [^16]:

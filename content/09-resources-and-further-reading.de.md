@@ -1,5 +1,6 @@
 ---
 title: "Ressourcen und weiterführende Lektüre"
+slug: "ressourcen-und-weiterfuhrende-lekture"
 date: 2023-01-29
 draft: false
 menu: "main"
