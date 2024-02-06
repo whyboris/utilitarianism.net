@@ -4,7 +4,7 @@ date: 2023-01-29
 draft: false
 menu: "main"
 weight: 3
-description: "GERMAN: This chapter explains reflective equilibrium as a moral methodology, and presents several arguments for utilitarianism over non-consequentialist approaches to ethics."
+description: "In diesem Kapitel wird das reflexive Gleichgewicht als moralische Methodik erläutert. Es werden mehrere Argumente für den Utilitarismus gegenüber nicht-konsequentialistischen Ansätzen in der Ethik angeführt."
 gradientTop: "#012147"
 gradientBottom: "#084BC7"
 ---

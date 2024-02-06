@@ -4,7 +4,7 @@ date: 2023-01-29
 draft: false
 menu: "main"
 weight: 1
-description: "GERMAN: This chapter introduces utilitarianism, and its major costs and benefits as a moral theory."
+description: "In diesem Kapitel werden der Utilitarismus und seine wesentlichen Vor- und Nachteile als Moraltheorie vorgestellt."
 gradientTop: "#0c3b5b"
 gradientBottom: "#236d9f"
 ---
