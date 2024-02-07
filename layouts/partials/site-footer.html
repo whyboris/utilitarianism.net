@@ -3,7 +3,7 @@
 <footer class="site-footer" role="contentinfo">
   <div class="footer-navigation">
     <div class="temp-navigation-hack">
-      <span class="footer-heading">Core Articles</span>
+      <span class="footer-heading">{{ i18n "menu.core-articles" }}</span>
 
       <ol class="small-left-padding">
         {{ range $index, $element := .Site.Menus.main.Sort.ByWeight }}
@@ -39,7 +39,7 @@
     <div class="temp-navigation-hack">
       <span class="footer-heading">Other Content</span>
 
-      <a href="/acting-on-utilitarianism">Acting on Utilitarianism</a>
+      <a href="/{{ i18n "link.acting" }}">{{ i18n "menu.acting" }}</a>
       <a href="/utilitarian-quotes">Utilitarian Quotes</a>
       <a href="/utilitarian-thinkers">Utilitarian Thinkers</a>
       <a href="/glossary">Utilitarian Glossary</a>
