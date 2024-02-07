@@ -150,8 +150,8 @@ This repository is set up to build the same website in many languages.
 
 To build in another language (than English), edit the `config.toml` file:
 
-- change the `defaultContentLanguage` to the two-letter abbreviation of the language you want to build (see `languages` section in the file)
-- change `disabled = true` to `disabled = false` and vice versa (for English and the language you want to build)
+- change the `defaultContentLanguage = "en"` to the two-letter abbreviation of the language you want to build (see `languages` section in the file)
+- disable all other languages: `disableLanguages = ["es", "de"]`
 
 Now run `npm run build` and you have your full website!
 

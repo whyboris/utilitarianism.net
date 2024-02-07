@@ -38,10 +38,10 @@ For more details see [instructions/README.md](instructions/README.md#building)
 
 ## Languages
 
-This website can be built in different languages, one language at a time. You must manually change `config.toml` to pick the language:
+This website can be built in different languages, one language at a time. You must manually change `config.toml` to pick the language and disable all others:
 
 - `defaultContentLanguage = "en"`
-- `disabled = false` <-> `disabled = true`
+- `disableLanguages = ["es", "de"]`
 
 ## Adding documents
 
