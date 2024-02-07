@@ -1,6 +1,6 @@
 <nav role="navigation" class="high-z-index">
   <div class="dropdown header-navigation-item nudge-down">
-    <a href="/textbook" class="large-hit-box"> Learn about Utilitarianism </a>
+    <a href="/{{ i18n "link.textbook" }}" class="large-hit-box">{{ i18n "menu.textbook" }}</a>
 
     {{ $currentPage := . }}
 
@@ -28,10 +28,13 @@
   </div>
 
   <div class="header-navigation-item nudge-down">
-    <a href="/acting-on-utilitarianism" class="large-hit-box"
-      >Acting on Utilitarianism</a
+    <a href="/{{ i18n "link.acting" }}" class="large-hit-box"
+      >{{ i18n "menu.acting" }}</a
     >
   </div>
+
+
+  {{ if .Site.Menus.guest }}
 
   <div class="dropdown header-navigation-item nudge-down">
     <a href="/guest-essays" class="large-hit-box"> Guest Essays </a>
@@ -61,4 +64,7 @@
 
     </div>
   </div>
+
+  {{ end }}
+
 </nav>
