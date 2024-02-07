@@ -136,13 +136,11 @@ Erfahre, wie du Utilitarismus in die Praxis umsetzt:
 
 ### Jenseits des Welfarismus
 
-
 * Richard Routley (1973). [Is there a need for a new, an environmental, ethic?](https://doi.org/10.5840/wcp151973136). _Proceedings of the XVth World Congress of Philosophy_, 1: 205–210.
 * Elizabeth Anderson (1999). [What is the Point of Equality?](https://doi.org/10.1086/233897) _Ethics_ 109 (2): 287–337.
 * Derek Parfit (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_, 10(3): 202–221.
 
 ### Prioritarismus
-
 
 * Derek Parfit (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_, 10(3): 202–221.
 * Johan E. Gustafsson (2021). _[Ex-Ante Prioritarianism Violates Sequential Ex‑Ante Pareto](https://doi.org/10.1017/S0953820821000303)_. _Utilitas,_ 1–11.
@@ -150,11 +148,9 @@ Erfahre, wie du Utilitarismus in die Praxis umsetzt:
 
 ### Vom Verdienen ausgehende Ansichten
 
-
 * Fred Feldman (1995). [Adjusting utility for justice: A consequentialist reply to the objection from justice](https://dx.doi.org/10.2307/2108439). _Philosophy and Phenomenological Research_, 55(3): 567–585.
 
 ### Egoismus und Parteilichkeit
-
 
 * Simon Keller (2013). _Partiality_. Princeton University Press.
 * Derek Parfit (1984). Teil Zwei: Rationality and Time, _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Clarendon Press.
@@ -167,9 +163,6 @@ Erfahre, wie du Utilitarismus in die Praxis umsetzt:
 * John Taurek (1977). [Should the numbers count?](https://www.jstor.org/stable/2264945). _Philosophy and Public Affairs_, 6(4): 293–316.
 * David Ross (1930). _The Right and the Good_. Clarendon Press.
 * Elizabeth Ashford (2003) [The Demandingness of Scanlon’s Contractualism](https://doi.org/10.1086/342853). _Ethics_ 113(2): 273–302.
-
-<!-- Footnotes themselves at the bottom. -->
-## Notes
 
 [^1]:
      Dies ist eine Abwandlung des berühmten Gedankenexperiments „Der letzte Mensch“ von Richard Routleys. Siehe Routley, R. (1973). [Is there a need for a new, an environmental, ethic?](https://doi.org/10.5840/wcp151973136) _Proceedings of the XVth World Congress of Philosophy_, 1: 205–210.

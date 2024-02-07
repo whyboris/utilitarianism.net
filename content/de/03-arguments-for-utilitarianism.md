@@ -12,7 +12,7 @@ gradientBottom: "#084BC7"
 
 {{< TOC >}}
 
-## **Einführung: Moralische Methodologie und reflexives Gleichgewicht**
+## Einführung: Moralische Methodologie und reflexives Gleichgewicht
 
 Man kann eine Moraltheorie nicht _beweisen_. Welches Argument man auch vorbringt, es ist immer möglich, dass andere die Prämissen des Arguments ablehnen — wenn sie bereit sind, die Implikationen dieser Ablehnung zu akzeptieren. Verschiedene Theorien bieten unterschiedliche Vorteile. In diesem Kapitel werden einige der wichtigsten Überlegungen dargelegt, die plausiblerweise für den Utilitarismus sprechen. Eine vollständige Betrachtung muss auch die Nachteile des Utilitarismus (oder die Vorteile seiner Konkurrenten) berücksichtigen, welche im Kapitel [Einwände gegen den Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism) behandelt werden. Erst dann lässt sich ein Gesamturteil darüber fällen, welche Moraltheorie insgesamt am besten oder am plausibelsten erscheint.
 
@@ -29,9 +29,9 @@ Es gibt keine neutrale, nicht zirkuläre Antwort auf die Frage, wie man solche K
 
 Obwohl wir uns in unserer Darstellung auf den Utilitarismus konzentrieren, ist es erwähnenswert, dass viele der nachstehenden Argumente auch zur Unterstützung [anderer Formen des welfaristischen Konsequentialismus](https://utilitarianism.net/near-utilitarian-alternatives) herangezogen werden könnten (ebenso wie viele der [Einwände gegen Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism) auch für diese verwandten Ansichten gelten). In diesem Kapitel werden Argumente für Utilitarismus und eng verwandte Ansichten gegenüber nicht-konsequentialistischen Ansätzen in der Ethik untersucht.
 
-## **Argumente für Utilitarismus**
+## Argumente für Utilitarismus
 
-### **Was grundsätzlich wichtig ist**
+### Was grundsätzlich wichtig ist
 
 Moraltheorien dienen dazu, festzustellen, _was grundsätzlich wichtig ist_. Utilitarismus bietet eine besonders überzeugende Antwort auf diese Frage.
 
@@ -43,7 +43,7 @@ Eine solche Argumentation könnte es rechtfertigen, Utilitarismus als Standardau
 
 Ähnliche Urteile gelten für hypothetische Fälle, in denen man irgendwie sicher weiß, dass eine normalerweise zuverlässige Regel in diesem speziellen Fall kontraproduktiv ist. In Extremfällen erkennen wir alle, dass man lügen oder ein Versprechen brechen sollte, wenn Leben auf dem Spiel stehen. In der Praxis ist es natürlich der beste Weg, langfristig gute Ergebnisse zu erzielen, wenn man sich an [vernünftige moralische Regeln und Tugenden hält](https://utilitarianism.net/utilitarianism-and-practical-ethics#respecting-commonsense-moral-norms) und gleichzeitig nach Möglichkeiten sucht, anderen zu helfen. (Es ist wichtig, die hypothetischen Urteile, die Utilitarismus in stilisierten Gedankenexperimenten anbietet, nicht mit [der praktischen Anleitung](https://utilitarianism.net/acting-on-utilitarianism) zu verwechseln, die er im wirklichen Leben bietet.) Der springende Punkt ist, dass Utilitarismus eine scheinbar unschlagbare Antwort auf die Frage gibt, _was grundsätzlich wichtig ist_: der Schutz und die Förderung der Interessen aller empfindungsfähigen Wesen, um die Welt so gut wie möglich zu machen.
 
-### **Der Schleier des Nichtwissens**
+### Der Schleier des Nichtwissens
 
 Der Mensch ist ein Meister der Selbsttäuschung und neigt dazu, seine Kognition von seinen Motiven beeinflussen zu lassen. Wenn etwas für uns persönlich von Vorteil ist, ist es allzu leicht, uns davon zu überzeugen, dass es in Ordnung sein muss. Wir lassen uns auch leichter von den Interessen auffallender oder sympathischer Individuen beeinflussen (zum Beispiel bevorzugen wir Welpen gegenüber Schweinen). Um solche Voreingenommenheiten zu korrigieren, kann es hilfreich sein, [Unparteilichkeit](https://utilitarianism.net/types-of-utilitarianism/#impartiality-and-the-equal-consideration-of-interests) zu erzwingen, indem man sich vorstellt, dass man hinter einem „[Schleier des Nichtwissens](https://plato.stanford.edu/entries/original-position/)“ auf die Welt herabblickt. Dieser Schleier enthüllt die Fakten über die Lebensumstände jedes Einzelnen in der Gesellschaft — sein Einkommen, sein Glücksniveau, seine Vorlieben usw. — und die Auswirkungen, die jede Wahl auf jede Person hätte, während er das Wissen darüber verbirgt, _welches dieser Individuen man selbst ist_.[^7] Um gerechter zu bestimmen, was _idealerweise getan werden sollte_, können wir fragen, was jeder hinter diesem Schleier des Nichtwissens aus persönlichen Gründen vorziehen würde. Wenn es gleich wahrscheinlich ist, schlussendlich in die Lage irgendeiner Person auf der Welt zu gelangen, scheint es vernünftig, das allgemeine Wohlergehen zu maximieren, genau wie es der Utilitarismus vorschreibt.[^8]
 
@@ -51,7 +51,7 @@ Es ist eine interessante Frage, wie viel Gewicht wir den Urteilen beimessen soll
 
 Dennoch werden diese anderen Faktoren in vielen Kontexten nicht relevant sein, und die Frage, was wir moralisch tun sollten, wird sich auf die Frage reduzieren, wie wir uns gegenseitig behandeln sollten. Viele der tiefgreifendsten Meinungsverschiedenheiten zwischen Utilitaristen und ihren Kritikern betreffen genau diese Frage. Und der Schleier der Unwissenheit scheint hier von Bedeutung zu sein. Die Tatsache, dass eine bestimmte Handlung das ist, was _jeder Betroffene_ hinter dem Schleier der Unwissenheit _persönlich bevorzugen würde_, scheint die Behauptung der Kritiker zu entkräften, dass irgendjemand durch diese Handlung _schlecht behandelt_ wurde oder Grund hat, sich darüber zu beschweren.
 
-### **Ex ante Pareto**
+### Ex ante Pareto
 
 Eine _Pareto_-Verbesserung ist für einige Menschen besser und für niemanden schlechter. Wenn Ergebnisse unsicher sind, können wir stattdessen die mit einer Handlung verbundenen _Aussichten_ bewerten — die Bandbreite der möglichen Ergebnisse, gewichtet nach ihren Wahrscheinlichkeiten. Eine Aussicht kann als besser für jemanden bewertet werden, wenn sie einem [in Erwartung](https://utilitarianism.net/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism) oder _ex ante_ ein größeres Wohlergehen bietet.[^11] Aus diesen Begriffen lässt sich der folgende Grundsatz ableiten:
 
@@ -63,19 +63,19 @@ Ein starker Einwand gegen die meisten nicht-utilitaristischen Ansichten ist, das
 
 Caspar Hare veranschaulicht dies mit einem Trolley-Problem, bei dem alle sechs möglichen Opfer in Koffern verstaut sind: Einer befindet sich auf einer Fußgängerbrücke, fünf sind auf den Gleisen darunter, und ein Zug wird alle fünf treffen und töten, es sei denn, man kippt den Koffer auf der Fußgängerbrücke um (in diesem Fall wird der Zug stattdessen diese eine Person töten und dann anhalten, bevor er die anderen erreicht).[^14] Da die Koffer erst kürzlich durcheinandergemischt wurden, weiß niemand, in welcher Position er sich befindet. Aus der Sicht _jedes_ Opfers sind seine Aussichten also am besten, wenn man den einen Koffer von der Fußgängerbrücke kippt, wodurch sich seine Überlebenschancen von 1/6 auf 5/6 erhöhen. In Anbetracht der Tatsache, dass dies ex ante im Interesse aller liegt, ist es sehr verwunderlich, dass es moralisch vorzuziehen wäre, diese einstimmige Präferenz, die von _allen_ Beteiligten geteilt wird, außer Kraft zu setzen und stattdessen fünf der sechs sterben zu lassen; dies ist jedoch eine Implikation der meisten nicht-utilitaristischen Ansichten.[^15]
 
-### **Erweiterung des moralischen Kreises**
+### Erweiterung des moralischen Kreises
 
 Wenn wir auf vergangene moralische Gräueltaten zurückblicken — wie die Sklaverei oder Frauen die Gleichberechtigung zu verweigern — erkennen wir, dass diese oft durch damals vorherrschende gesellschaftliche Normen gutgehießen wurden. Die Verursacher dieser Gräueltaten begingen einen schweren Fehler, als sie ihre Opfer aus dem „Kreis“ ihrer moralischen Betrachtungen ausschlossen.[^16] Das heißt, es war falsch, dass sie dem Leiden ihrer Opfer gegenüber gleichgültig waren (oder sich sogar daran erfreuten). Eine solche Ausgrenzung schien für die Menschen damals jedoch normal zu sein. Wir sollten uns also fragen, ob wir nicht auch blindlings einige Praktiken akzeptieren, die künftige Generationen als böse ansehen werden, die uns aber „normal“ erscheinen.[^17] Der beste Schutz davor, selbst einen solchen Fehler zu begehen, wäre, den Kreis unserer moralischen Betrachtung bewusst nach außen zu erweitern, um _alle_ fühlenden Wesen einzubeziehen — jeden, der leiden kann — und so zu erkennen, dass wir starke moralische Gründe haben, Leid zu verringern und Wohlergehen zu fördern, wo immer wir können, ganz gleich, _wer_ es ist, der es erfährt.
 
 Diese Schlussfolgerung reicht zwar noch nicht bis zum vollständigen Utilitarismus, da sie beispielsweise mit der Annahme vereinbar ist, dass es Nebenbedingungen gibt, die das Streben nach dem Guten einschränken, aber sie reicht wahrscheinlich aus, um eine Übereinstimmung mit den wichtigsten [praktischen Implikationen des Utilitarismus](https://utilitarianism.net/acting-on-utilitarianism) zu erzielen (die sich aus [Kosmopolitismus](https://utilitarianism.net/utilitarianism-and-practical-ethics#cosmopolitanism), [Antispeziesismus](https://utilitarianism.net/utilitarianism-and-practical-ethics#speciesism) und [Longtermism](https://utilitarianism.net/utilitarianism-and-practical-ethics#longtermism) ergeben).
 
-## **Die Unzulänglichkeiten der Alternativen**
+## Die Unzulänglichkeiten der Alternativen
 
 Wir haben gesehen, dass es ein starkes Argument zugunsten des Utilitarismus gibt. Sollte sich keine konkurrierende Sichtweise als überlegen erweisen, so hat der Utilitarismus einen starken Anspruch darauf, die „Standard“-Theorie in der Moralphilosophie zu sein. Tatsächlich ist eine der stärksten Erwägungen zugunsten des Utilitarismus (und verwandter konsequentialistischer Ansichten) die Unzulänglichkeit der Alternativen. Insbesondere die deontologischen (oder regelbasierten) Theorien scheinen auf fragwürdigen Grundlagen zu beruhen.[^18]
 
 Deontologische Theorien sind ausdrücklich _nicht-konsequentialistisch_: Anstatt Handlungen anhand ihrer Folgen moralisch zu bewerten, neigen diese Theorien dazu, bestimmte Arten von Handlungen (wie die Tötung einer unschuldigen Person) als _inhärent_ falsch anzusehen.[^19] Es gibt jedoch Gründe, an diesem ethischen Ansatz zu zweifeln.
 
-### **Das Paradoxon der Deontologie**
+### Das Paradoxon der Deontologie
 
 Deontologen vertreten die Auffassung, dass es ein _Verbot_ des Tötens gibt: Es ist falsch, eine unschuldige Person zu töten, auch wenn dadurch fünf _andere_ unschuldige Personen vor dem Tod bewahrt werden. Dieses Urteil kann auf den ersten Blick rätselhaft erscheinen.[^20] Sollten wir angesichts der Tatsache, dass das Töten so schrecklich ist, nicht wollen, dass es _weniger_ davon gibt? Rationale Entscheidungen sind in der Regel zielgerichtet — eine Auffassung, die sich schlecht mit deontischen Zwängen verträgt.[^21] Ein Deontologe könnte behaupten, dass sein Ziel einfach darin besteht, _selbst_ keine moralischen Zwänge zu verletzen, was er am besten dadurch erreichen kann, dass er niemanden tötet, selbst wenn dies dazu führt, dass mehr Individuen getötet werden. Diese Erklärung kann deontologische Urteile zwar kohärent machen, aber um den Preis, dass sie furchtbar narzisstisch erscheinen, als ob es dem Deontologen nur darum ginge, seine eigene moralische Reinheit oder „saubere Hände“ zu bewahren.
 
@@ -83,7 +83,7 @@ Deontologen könnten sich gegen diese Charakterisierung wehren, indem sie stattd
 
 Schefflers Herausforderung besteht darin, dass ein solcher Vorschlag moralische Normen auf rätselhafte Weise von anderen Arten praktischer Normen abweichen lässt. Wenn die Moral manchmal verlangt, Werte zu respektieren, statt sie zu fördern, warum gilt das dann nicht auch für die Klugheit? (In Anbetracht der Tatsache, dass Schmerzen schlecht für Menschen sind, wäre es zum Beispiel unklug, eine schmerzhafte Operation jetzt zu verweigern, wenn die Verweigerung dazu führt, dass man sich in Zukunft fünf vergleichbar schmerzhaften Operationen unterziehen muss). Deontologen mögen auf diese Frage verschiedene Antworten geben, aber insofern wir dazu neigen, von vornherein davon auszugehen, dass Ethik mit anderen Formen rationaler Entscheidungen in Einklang stehen sollte, gibt uns das einen Grund, konsequentialistische Darstellungen zu bevorzugen.
 
-### **Der Hoffnungs-Einwand**
+### Der Hoffnungs-Einwand
 
 Unparteiische Beobachter sollten das beste Ergebnis anstreben und erhoffen. Nicht-Konsequentialisten behaupten, dass es dennoch manchmal falsch ist, das beste Ergebnis herbeizuführen. Wenn man die beiden Behauptungen zusammennimmt, kommt man zu dem erstaunlichen Ergebnis, dass man manchmal hoffen sollte, dass andere falsch handeln.
 
@@ -93,13 +93,13 @@ Nicht nur ist es seltsam, sondern könnte sogar als Untergrabung der Behauptung 
 
 Da sich unsere moralischen Verpflichtungen an dem orientieren sollten, was wirklich moralisch wichtig ist, können wir nicht verpflichtet sein, uns an deontische Zwänge zu halten, wenn diese nicht tatsächlich wichtig sind.[^23] Wir können nicht verpflichtet sein, deontischen Zwängen Vorrang vor dem Leben anderer zu geben, wenn wir uns mehr um das Leben anderer kümmern sollten als um deontische Zwänge. Deontische Zwänge können demnach unsere Verpflichtungen nicht genau beschreiben. Jack sollte wirklich das tun, was insgesamt das meiste Gute bewirkt. Wir sollten das auch.
 
-### **Skepsis gegenüber der Unterscheidung zwischen Tun und Erlauben**
+### Skepsis gegenüber der Unterscheidung zwischen Tun und Erlauben
 
 Man könnte sich fragen: Wenn der Respekt vor anderen erfordert, dass man ihnen nicht schadet (selbst wenn man anderen mehr helfen will), warum erfordert er dann nicht auch, dass man nicht _zulässt_, dass sie geschädigt werden? Deontologische Moraltheorien legen großen Wert auf Unterscheidungen wie die zwischen [Schaden zufügen und Schaden zulassen](https://utilitarianism.net/utilitarianism-and-practical-ethics#is-there-a-difference-between-doing-and-allowing-harm), zwischen Töten und Sterbenlassen oder zwischen beabsichtigtem und lediglich vorhergesehenem Schaden. Aber _warum_ sollten diese so unterschiedlich behandelt werden? Wenn ein Opfer in beiden Fällen gleich tot ist, scheint es für ihn keinen großen Unterschied zu machen, ob er getötet wurde oder sein Sterben „lediglich“ zugelassen wurde — was für ihn zählt, ist sicherlich sein Tod.
 
 In der Tat ist es alles andere als klar, dass es eine belastbare Unterscheidung zwischen „tun“ und „erlauben“ _gibt_. Manchmal kann man etwas „tun“, indem man ganz ruhig bleibt.[^24] Auch wenn ein Arzt einen Patienten im Endstadium von den lebenserhaltenden Maschinen abtrennt, wird dies in der Regel als „sterben lassen“ betrachtet; wenn sich jedoch ein Mafioso aus Sorge um die möglicherweise belastende Aussage eines Informanten ins Krankenhaus schleicht und die lebenserhaltenden Geräte des Informanten abtrennt, ist es wahrscheinlicher, dass wir dies als „Tötung“ betrachten.[^25] Bennett (1998) argumentiert ausführlich, dass es keine befriedigende, völlig allgemeine Unterscheidung zwischen Tun und Lassen gibt — zumindest keine, die die moralische Bedeutung rechtfertigen würde, die Deontologen einer solchen Unterscheidung zuschreiben wollen.[^26] Wenn Bennett Recht hat, dann könnte uns das stattdessen zu einer Form des Konsequentialismus (wie dem Utilitarismus) zwingen.
 
-### **Status Quo-Voreingenommenheit**
+### Status Quo-Voreingenommenheit
 
 Die Ablehnung utilitaristischer Trade-Offs — das heißt die Begünstigung einiger zu geringeren Kosten für andere — läuft wohl auf eine Art Status-quo-Voreingenommenheit hinaus, die der _Erhaltung von Privilegien_ Vorrang vor der Förderung des Wohlergehens im Allgemeinen einräumt.
 
@@ -109,7 +109,7 @@ In ähnlicher Weise kann argumentiert werden, dass es keinen wirklichen Untersch
 
 Nehmen wir nun an, dass Szenario B für eine andere Person wesentlich besser ist als A: Vielleicht rettet sie ihr Leben, allerdings auf Kosten des Arms der ersten Person. Niemand würde es für in Ordnung halten, einen Menschen zu töten, nur um den Arm eines anderen zu retten (also um von B zu A zu wechseln). Wenn wir also eine Voreingenommenheit zugunsten des Status quo vermeiden wollen, müssen wir in ähnlicher Weise urteilen, dass es falsch wäre, sich der Verlagerung von A nach B zu _widersetzen_ — das heißt, wir sollten nichts dagegen haben, das Leben eines Menschen auf Kosten des Arms eines anderen zu retten.[^31] Wir sollten uns nicht besonders darum kümmern, das Privileg desjenigen zu bewahren, der von der Verlagerung profitieren würde; ein solcher Konservatismus ist nicht wahrhaft fair oder gerecht. Stattdessen sollte es unser Ziel sein, das beste _Gesamt_ergebnis zu erzielen, das alle gleichermaßen berücksichtigt, so wie es der Utilitarismus vorschreibt.
 
-### **Evolutionäre Entlarvungsargumente**
+### Evolutionäre Entlarvungsargumente
 
 Gegenüber diesen starken theoretischen Einwänden spricht für deontologische Theorien vor allem, dass sie mit unseren Intuitionen zu bestimmten Fällen besser übereinstimmen. Wenn diese Intuitionen jedoch nicht durch unabhängig plausible Prinzipien gestützt werden können, kann dies ihre Kraft untergraben — oder nahelegen, dass wir diese Intuitionen als gute Faustregeln zur praktischen Orientierung interpretieren sollten, anstatt sie als Hinweis darauf zu verstehen, worauf es _im Wesentlichen_ ankommt.
 
@@ -123,7 +123,7 @@ Entlarvende Argumente sind jedoch am ehesten in Fällen anwendbar, in denen wir 
 
 Daher ist es unwahrscheinlich, dass Entlarvungs-Einwände die Meinung einer Person ändern, die sich zu der angestrebten Ansicht hingezogen fühlt (oder sie als unabhängig gerechtfertigt und vertretbar betrachtet). Sie können jedoch dazu beitragen, die Zweifel derjenigen zu bestätigen, die bereits Grund zur Skepsis gegenüber den intrinsischen Vorzügen der Zielvorstellung hatten.
 
-## **Konklusion**
+## Konklusion
 
 Utilitarismus kann durch mehrere theoretische Argumente gestützt werden, wobei das stärkste vielleicht seine Fähigkeit ist, zu erfassen, _worauf es im Wesentlichen ankommt_. Seine Hauptkonkurrenten hingegen scheinen sich auf zweifelhafte Unterscheidungen — wie „tun“ vs. „erlauben“ — und eine eingebaute Voreingenommenheit zugunsten des Status quo zu stützen. Zumindest sieht es so aus, wenn man einem utilitaristischen Ansatz weitgehend zugeneigt ist. Angesichts der Flexibilität, die dem reflexiven Gleichgewicht innewohnt, ist es unwahrscheinlich, dass diese Argumente einen überzeugten Gegner dieser Sichtweise umstimmen. Wir hoffen, dass dieses Kapitel denjenigen Lesern, die den utilitaristischen Ansatz in der Ethik als zutiefst unsympathisch empfinden, zumindest helfen kann, besser zu verstehen, welchen Reiz _andere_ in dieser Sichtweise sehen.
 
@@ -133,17 +133,17 @@ Das nächste Kapitel befasst sich mit Theorien über Wohlergehen, das heißt mit
 
 [Nächstes Kapitel: Theorien über Wohlergehen](https://utilitarianism.net/theories-of-wellbeing)
 
-## **Diese Seite zitieren**
+## Diese Seite zitieren
 
 Chappell, R.Y. und Meissner, D. (2023). Argumente für Utilitarismus. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/arguments-for-utilitarianism>, zuletzt aufgerufen am 5/31/2023.
 
-## **Möchtest du die Welt zu einem besseren Ort machen?**
+## Möchtest du die Welt zu einem besseren Ort machen?
 
 Erfahre, wie du Utilitarismus in die Praxis umsetzt:
 
 [Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
 
-## **Ressourcen und weiterführende Lektüre**
+## Ressourcen und weiterführende Lektüre
 
 * John Broome (1987). [Utilitarianism and Expected Utility](https://doi.org/10.2307/2026999), _The Journal of Philosophy_ 84 (8): 405–422.
 * John Broome (1991). _Weighing Goods: Equality, Uncertainty and Time_. Blackwell.

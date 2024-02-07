@@ -22,7 +22,7 @@ Utilitarismus hat wichtige Implikationen dafür, wie wir über ein ethisches Leb
 
 Wie Utilitaristen in der Praxis handeln sollten, erörtern wir in dem Artikel [Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism). Kurz gesagt: Die meisten Utilitaristen sollten [einen erheblichen Teil ihres Einkommens spenden](https://utilitarianism.net/acting-on-utilitarianism#charitable-giving), um die drängendsten Probleme der Welt zu lösen, [ihre Karriere dem Ziel, Gutes zu tun](https://utilitarianism.net/acting-on-utilitarianism#career-choice), widmen und ein hohes Maß an Kooperationsbereitschaft, persönlicher Integrität und Ehrlichkeit anstreben.
 
-## **Gibt es einen Unterschied zwischen dem Zufügen und dem Zulassen von Schaden?**
+## Gibt es einen Unterschied zwischen dem Zufügen und dem Zulassen von Schaden?
 
 > _„Ein Mensch kann anderen nicht nur durch seine Handlungen, sondern auch durch seine Untätigkeit Schaden zufügen. In beiden Fällen ist er ihnen gegenüber gerechterweise für den Schaden verantwortlich.”_
 >
@@ -36,7 +36,7 @@ Konsequentialisten — einschließlich Utilitaristen — akzeptieren zwar, dass 
 
 Ob es einen intrinsischen moralischen Unterschied zwischen Zufügen und Zulassen von Schaden gibt oder nicht, ist von großer Bedeutung. Wie bereits erwähnt, steht die Doktrin vom Tun und Zulassen im Mittelpunkt vieler Meinungsverschiedenheiten zwischen Konsequentialisten und Nicht-Konsequentialisten. Außerdem ist sie für die Entscheidungsfindung in der Praxis relevant. Die Ethikrichtlinien vieler medizinischer Fachgesellschaften erlauben es Ärzten beispielsweise niemals, den Tod eines Patienten aktiv und absichtlich herbeizuführen. Es ist jedoch akzeptabel, wenn Ärzte eine Patientin unter bestimmten Umständen absichtlich sterben lassen, zum Beispiel wenn die Patientin große Schmerzen hat und ihr Leben beenden möchte. Diese Unterscheidung — zwischen einem Arzt, der einen unheilbar kranken Patienten sterben lässt, und einem Arzt, der einer Patientin, die ihr Leben beenden möchte, aktiv hilft — wird aus utilitaristischer Sicht als weniger relevant angesehen. Wenn wir Ärzten erlauben, einen unheilbar kranken Patienten (der sein Leiden beenden möchte) sterben zu lassen, würde ein Utilitarist argumentieren, dass es Ärzten auch erlaubt sein sollte, einer Patientin aktiv zu helfen, ihren Tod mit ihrer Zustimmung herbeizuführen.
 
-## **Eine fordernde Ethik**
+## Eine fordernde Ethik
 
 Utilitarismus ist eine sehr [fordernde](https://utilitarianism.net/objections-to-utilitarianism/demandingness) ethische Theorie: Utilitarismus besagt, dass man immer dann, wenn man anderen Menschen mehr helfen kann als sich selbst, altruistisch handeln sollte.[^2] Wenn man zum Beispiel sein Leben opfern könnte, um das Leben mehrerer anderer Menschen zu retten, dann sollte man das laut Utilitarismus unter sonst gleichen Umständen tun.
 
@@ -44,7 +44,7 @@ Auch wenn es nur selten vorkommt, dass es das Beste ist, sein eigenes Leben zu o
 
 Utilitarismus empfiehlt nicht nur sehr großzügiges Spenden, sondern behauptet auch, dass man sich für eine [Karriere entscheiden sollte, die anderen am meisten nützt](https://utilitarianism.net/acting-on-utilitarianism#career-choice). Das kann gemeinnützige Arbeit sein, die Durchführung wichtiger Forschungsarbeiten,der Einstieg in die Politik oder die Fürsprache für eine wichtige Sache.
 
-## **Unparteilichkeit hinsichtlich der Zwecke**
+## Unparteilichkeit hinsichtlich der Zwecke
 
 Die vorherrschende Meinung über altruistisches Handeln ist, dass es eine Frage der persönlichen Präferenz ist, wem wir wie helfen sollten. Nach dieser weit verbreiteten Ansicht kann man je nach persönlichen Neigungen entscheiden, ob man sich auf Bildung, Kunst, bedrohte Tierarten oder ein anderes Anliegen konzentriert.[^4]
 
@@ -58,7 +58,7 @@ Eine Utilitaristin würde sagen: nein. Aus utilitaristischer Sicht überwiegt di
 
 Wichtig ist: Wir wissen, dass einige Maßnahmen, um Individuen Gutes zu tun, viel mehr bewirken als andere. So sind beispielsweise im Bereich der globalen Gesundheit und Entwicklung einige Maßnahmen mehr als 100-mal so wirksam wie andere.[^6] Darüber hinaus glauben viele Forscher, dass der Unterschied in der erwarteten Wirkung zwischen verschiedenen _Zwecken_ ebenso groß ist wie die Unterschiede zwischen _Maßnahmen innerhalb eines bestimmten Zwecks_. Wenn dem so ist, ist die Konzentration auf die allerbesten Zwecke weitaus wirkungsvoller als die Konzentration auf durchschnittliche Zwecke.
 
-## **Der sich weitende moralische Kreis**
+## Der sich weitende moralische Kreis
 
 Eine entscheidende Frage bei der Entscheidung, welchem Anliegen wir unsere Bemühungen widmen sollten, ist die Frage, welche Individuen wir in unsere moralischen Überlegungen einbeziehen sollten.
 
@@ -112,7 +112,7 @@ Die meisten plausiblen Formen des Utilitarismus[^17] implizieren den starken Lon
 
 Wir erörtern die Auswirkungen des Longtermism auf ethisches Handeln in dem Artikel [Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism#existential-risk-reduction).
 
-## **Respektieren vernünftiger moralischer Normen **
+## Respektieren vernünftiger moralischer Normen
 
 Manchmal wird der Utilitarismus dahingehend missverstanden, dass _man immer explizit den Erwartungswert jeder möglichen Handlung berechnen und diejenige Handlung wählen sollte, die am höchsten bewertet wird._ Tatsächlich empfiehlt der Utilitarismus _nicht_, dieses „naiv-utilitaristische“ Entscheidungsverfahren anzuwenden.[^21]
 
@@ -132,7 +132,7 @@ Als sehr grobe erste Annäherung könnte uns ein plausibles utilitaristisches En
 2. vermittle [Tugenden für real existierende Utilitaristen](https://utilitarianism.net/guest-essays/virtues-for-real-world-utilitarians) (einschließlich des Respekts für vernünftige moralische Normen) und
 3. denke in einem ruhigen Moment darüber nach, wie wir unsere moralischen Anstrengungen besser priorisieren und zuordnen könnten, indem wir beispielsweise Kosten-Nutzen-Analysen von Experten und andere Evidenz einholen, um unser Gesamturteil über den Erwartungswert besser zu untermauern.[^27]
 
-## **Konklusion**
+## Konklusion
 
 Aus dem Utilitarismus ergeben sich wichtige Implikationen dafür, wie wir über ein ethisches Leben nachdenken sollten.
 
@@ -146,17 +146,17 @@ Im nächsten Kapitel werden wichtige konkurrierende Theorien, die sich in der Pr
 
 [Nächstes Kapitel: Utilitarismus-nahe Alternativen](https://utilitarianism.net/near-utilitarian-alternatives)
 
-## **Diese Seite zitieren**
+## Diese Seite zitieren
 
 MacAskill, W. , Meissner, D. und Chappell, R.Y. (2023). Utilitarismus und Praktische Ethik. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/utilitarianism-and-practical-ethics>, zuletzt aufgerufen am 7/19/2023.
 
-## **Möchtest du die Welt zu einem besseren Ort machen?**
+## Möchtest du die Welt zu einem besseren Ort machen?
 
 Erfahre, wie du Utilitarismus in die Praxis umsetzt:
 
 [Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
 
-## **Ressourcen und weiterführende Lektüre**
+## Ressourcen und weiterführende Lektüre
 
 ### Gibt es einen Unterschied zwischen dem Zufügen und dem Zulassen von Schaden?
 

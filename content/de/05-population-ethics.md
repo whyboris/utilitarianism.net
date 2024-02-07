@@ -14,7 +14,7 @@ gradientBottom: "#089FD1"
 
 {{< TOC >}}
 
-## **Einführung**
+## Einführung
 
 Utilitaristen sind sich darin einig, dass wir, wenn die Anzahl der Personen, die jemals existieren werden, konstant gehalten wird, die _Summe des Wohlergehens_ in dieser fixen Population fördern sollten.[^1] In Wirklichkeit ist die Population aber nicht fix. Wir haben die Möglichkeit, Kinder zu bekommen und so mehr Menschen ins Leben zu bringen. Wenn diese zusätzlichen Menschen ein gutes Leben haben, ist das ein Weg, die Welt zu verbessern? Diese Frage fällt in den Bereich der _Populationsethik_ — das Teilgebiet der Ethik, das sich mit moralischen Problemen befasst, die entstehen, wenn unser Handeln Einfluss darauf hat, wer und wie viele Menschen mit welcher Lebensqualität geboren werden.
 
@@ -28,7 +28,7 @@ Dieser Artikel gibt einen Überblick über fünf wichtige Ansätze im Feld der P
 4. _Kritisches-Level-_ (und _Kritische-Spanne-_)Theorien, die die Gesamtansicht dahingehend verändern, dass nur positives Wohlergehen oberhalb einer kritischen Schwelle (oder einer kritischen Spanne) gezählt wird.
 5. _Personenbezogene Ansichten_, die leugnen, dass wir einen (nicht-instrumentellen) Grund haben, der Welt glückliche Leben hinzuzufügen.[^2]
 
-## **Die Gesamtansicht**
+## Die Gesamtansicht
 
 Nach der _Gesamt_ansicht der Populationsethik gilt:
 
@@ -92,7 +92,7 @@ Neuere Arbeiten von Dean Spears und Mark Budolfson liefern ein anderes Argument 
 
 Abschließend sei darauf hingewiesen, dass kontraintuitive Implikationen keineswegs nur in der Gesamtansicht auftreten. Mehrere Unmöglichkeitstheoreme beweisen, dass es für jede populationsethische Theorie logisch unmöglich ist, jedes intuitiv wünschenswerte Prinzip und Axiom zu erfüllen.[^22] Ein solches Axiom besteht darin, die abstoßende Schlussfolgerung zu vermeiden. Einige Philosophen argumentieren jedoch, dass die Vermeidung der abstoßenden Schlussfolgerung die theoretischen Kosten der Aufgabe anderer Axiome oder Grundprinzipien nicht wert ist. Die Akzeptanz der abstoßenden Schlussfolgerung ist eine einfache Antwort auf die Unmöglichkeitstheoreme, da die Gesamtansicht mit allen anderen Axiomen dieser Theoreme übereinstimmt.[^23] Vor diesem Hintergrund akzeptiert und verteidigt eine wachsende Zahl von Ethikern die abstoßende Schlussfolgerung und die Gesamtansicht.[^24] Um diese vergleichende Behauptung zu bewerten, müssen wir die Vorzüge (und Nachteile) der konkurrierenden Ansichten berücksichtigen. Philosophen haben mehrere Alternativen zur Gesamtansicht vorgeschlagen, die versuchen, die abstoßende Schlussfolgerung (zumindest die ursprüngliche Version) zu vermeiden. Zu diesen Theorien gehören die _Durchschnittsansicht_, _Variabler-Wert-Theorien_, _Kritisches-Level- und Kritische-Spanne-Theorien_ sowie _personenbezogene Theorien_.
 
-## **Die Durchschnittsansicht**
+## Die Durchschnittsansicht
 
 Nach der Durchschnittsansicht der Populationsethik gilt:
 
@@ -118,7 +118,7 @@ Das Hinzufügen einer kleinen Anzahl von gequälten, unglücklichen Menschen zu 
 
 Drittens bevorzugt die Durchschnittsansicht beliebig kleine Populationen gegenüber sehr großen Populationen, solange das durchschnittliche Wohlergehen höher ist. Zum Beispiel würde eine Welt mit einem einzigen, extrem glücklichen Individuum einer Welt mit zehn Milliarden Menschen vorgezogen, die alle extrem glücklich sind, aber nur ein klein wenig weniger glücklich als diese eine Person.
 
-## **Variabler Wert-Theorien**
+## Variabler Wert-Theorien
 
 Um einen Kompromiss zwischen der Gesamtansicht und der Durchschnittsansicht zu finden, haben einige Philosophen _Variabler-Wert-Theorien_ vorgeschlagen. Nach diesen Theorien nimmt der Grenzwert der Schaffung zusätzlicher Menschen ab — je größer die bestehende Bevölkerung ist, desto geringer ist der Wert des Hinzufügens einer weiteren Person.
 
@@ -134,7 +134,7 @@ Auf den ersten Blick ist es ein attraktives Merkmal der Variabler-Wert-Theorien,
 
 Variabler-Wert-Theorien haben jedoch ihre eigenen Probleme. Erstens besteht bei der Annäherung an die Durchschnittsansicht bei großen Bevölkerungszahlen die Gefahr, dass sie für die gleichen Einwände anfällig werden. Um zu vermeiden, dass das Hinzufügen negativer (aber überdurchschnittlicher) Leben zur Welt gutgeheißen wird, müssen sich Variabler-Wert-Theoretiker auf eine Asymmetrie berufen, der zufolge nur der Wert positiver Leben abnimmt, nicht aber der Schaden negativer Leben. Wenn man einer Welt negative Leben hinzufügt, verschlechtert sich die Welt nach einer solchen Auffassung immer, auch wenn sich der Durchschnitt dadurch verbessert. Eine solche Asymmetrie führt jedoch zu einer Entsprechung dessen, was Parfit die _absurde Schlussfolgerung_ nennt:[^31] dass eine als gut angesehene Bevölkerung mit vielen glücklichen und wenigen unglücklichen Leben in eine als schlecht angesehene Bevölkerung umgewandelt werden kann, indem einfach die Zahl der positiven und negativen Leben proportional erhöht wird.[^32] Um diesem Einwand zu entgehen, müssen die Variabler-Wert-Theoretiker zulassen, dass zusätzliche gute Leben manchmal zusätzliche schlechte Leben kompensieren, ohne weitere unbeabsichtigte Folgen einzuführen, die ihre Sichtweise untergraben. Dies ist keine leichte Aufgabe.[^33]
 
-## **Kritisches-Level- und Kritische-Spanne-Theorien**
+## Kritisches-Level- und Kritische-Spanne-Theorien
 
 Nach den Kritisches-Level-Theorien gilt:
 
@@ -168,7 +168,7 @@ Die wichtigste Implikation dieser Kritische-Spanne-Theorie (mit moderater Wertun
 
 Die daraus resultierende Sichtweise ist zwar theoretisch komplex, scheint aber weniger anfällig für schwerwiegende Einwände zu sein als die anderen von uns untersuchten Sichtweisen. Insbesondere kann sie gleichzeitig sowohl die abstoßende als auch die sadistische Schlussfolgerung vermeiden. Es ist jedoch anzumerken, dass sie nicht der starken „Anti-abstoßende Schlussfolgerung“-Intuition gerecht wird, dass die idyllische Welt A unbedingt besser ist als die abstoßende Welt Z.[^42] Kritische-Spanne-Theorien betrachten die beiden Welten stattdessen als unvergleichbar, was auf die immense Wertunschärfe zurückzuführen ist, die durch all die so lala-Leben in Welt Z entsteht.
 
-## **Personenbezogene Ansichten und die Fortpflanzungsasymmetrie**
+## Personenbezogene Ansichten und die Fortpflanzungsasymmetrie
 
 Alle oben erörterten Theorien — die Gesamtansicht, die Durchschnittsansicht, die Variabler-Wert-Theorie und die Kritisches-Level- und Kritische-Spanne-Theorien — sind _nicht personenbezogene Theorien_.[^43]
 
@@ -228,7 +228,7 @@ Wir können auch eher theoretische Einwände gegen eine solche Sichtweise vorbri
 
 Aus all diesen Gründen sind sich Utilitaristen weitgehend einig in der Ablehnung personenbezogener Ansichten, auch wenn sie weiterhin darüber diskutieren, welche nicht-personenbezogene Theorie am vielversprechendsten ist.[^58]
 
-## **Praktische Implikationen populationsethischer Theorien**
+## Praktische Implikationen populationsethischer Theorien
 
 Populationsethik ist ein Bereich von großer Bedeutung für Entscheidungen in der realen Welt. Insbesondere die Frage, welche Populationsethik wir vertreten, beeinflusst die Bedeutung, die wir der Erhaltung und Verbesserung der langfristigen Zukunft der Menschheit beimessen sollten. Wenn die menschliche Zivilisation fortbesteht und sich vielleicht eines Tages bis zu den Sternen ausbreitet, könnte es in Zukunft eine unvorstellbar große Zahl von Personen mit guten Leben geben. Ihre Existenz und ihr Wohlergehen hängen zum Teil von den Entscheidungen ab, die wir heute treffen: insbesondere davon, wie viele Ressourcen wir, die jetzige Generation, in die [Vermeidung existenzieller Risiken](https://utilitarianism.net/acting-on-utilitarianism#existential-risk-reduction) investieren, die das weitere Überleben und das langfristige Gedeihen der Menschheit bedrohen.[^59]
 
@@ -240,7 +240,7 @@ Befürworter von gängigen personenbezogenen Ansichten (mit einer strikten Fortp
 
 Schließlich gibt es noch ein Argument der [moralischen Unsicherheit](https://forum.effectivealtruism.org/tag/moral-uncertainty): Angesichts des schwierigen Terrains der Populationsethik können wir uns keiner bestimmten Ansicht ganz sicher sein. Daher sollten wir herausfinden, inwieweit wir von jeder Theorie überzeugt sein sollten, und dann die Maßnahmen ergreifen, die den besten Kompromiss zwischen diesen Theorien darstellen. Wie wir gesehen haben, stimmen viele plausible Theorien darin überein, dass die Verbesserung der langfristigen Zukunft von großer moralischer Bedeutung ist. Solange man nicht extrem zuversichtlich in Bezug auf die gängigen personenbezogenen Ansichten ist, scheint es daher klug zu sein, dieser Schlussfolgerung Beachtung zu schenken und wichtige Schritte zur Sicherung unserer Zukunft zu unternehmen.[^64]
 
-## **Konklusion**
+## Konklusion
 
 Unser Handeln beeinflusst die Qualität, Quantität und Identität zukünftigen Lebens. Populationsethik befasst sich mit den heiklen moralischen Fragen, die sich aus solchen Auswirkungen auf künftige Generationen ergeben.
 
@@ -254,17 +254,17 @@ Im nächsten Kapitel werden die wichtigsten Implikationen des Utilitarismus für
 
 [Nächstes Kapitel: Utilitarismus und praktische Ethik](https://utilitarianism.net/utilitarianism-and-practical-ethics)
 
-## **Diese Seite zitieren**
+## Diese Seite zitieren
 
 Chappell, R.Y., Meissner, D. und MacAskill, W. (2023). Populationsethik. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/population-ethics>, zuletzt aufgerufen am 7/7/2023.
 
-## **Möchtest du die Welt zu einem besseren Ort machen?**
+## Möchtest du die Welt zu einem besseren Ort machen?
 
 Erfahre, wie du Utilitarismus in die Praxis umsetzt:
 
 [Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
 
-## **Ressourcen und weiterführende Lektüre**
+## Ressourcen und weiterführende Lektüre
 
 ### Allgemeine Abhandlungen zu Populationsethik
 

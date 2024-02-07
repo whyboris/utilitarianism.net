@@ -1,4 +1,5 @@
 defaultContentLanguage = "de"
+disableLanguages = ["es", "en"]
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 [markup]
@@ -9,7 +10,6 @@ enableRobotsTXT = true
         unsafe = true
 [languages]
   [languages.en]
-    disabled = true
     contentDir = 'content/en'
     languageCode = "en-US"
     title = "Utilitarianism.net"
@@ -19,7 +19,6 @@ enableRobotsTXT = true
       [languages.en.services.googleAnalytics]
         ID = 'G-91NYS1B7E1'
   [languages.es]
-    disabled = true
     contentDir = 'content/es'
     languageCode = "es-ES"
     title = "Utilitarismo.net"
@@ -29,7 +28,6 @@ enableRobotsTXT = true
       [languages.es.services.googleAnalytics]
         ID = 'G-ADD-ID'
   [languages.de]
-    disabled = false
     contentDir = 'content/de'
     languageCode = "de-DE"
     title = "Utilitarismus.net"
