@@ -16,7 +16,7 @@ gradientBottom: "#571B9E"
 
 {{< TOC >}}
 
-## **Der „bloße Mittel“-Einwand**
+## Der „bloße Mittel“-Einwand
 
 Kritiker werfen dem Utilitarismus oft vor, dass er Menschen auf unzulässige Weise _instrumentalisiert_ — er behandelt uns als „bloßes Mittel“ für ein höheres Gut, anstatt den Einzelnen angemessen als „Selbstzweck“ zu bewerten.[^1] In diesem Artikel prüfen wir, ob dieser Einwand berechtigt ist.
 
@@ -24,7 +24,7 @@ Die kantische _Menschheitszweckformel_ hat etwas sehr Anziehendes. Sie lautet: �
 
 Warum könnte man meinen, dass der Utilitarismus irgendjemanden nur als Mittel betrachtet? Drei Möglichkeiten scheinen es wert, untersucht zu werden. Die erste besteht darin, fälschlicherweise das entscheidende Wort „lediglich“ wegzulassen, was jedoch die Bedeutung der Menschheitszweckformel in einer Weise verändert, die ihre Plausibilität untergräbt. Die zweite hängt mit der utilitaristischen Präferenz für die Rettung von Leben zusammen, die ihrerseits instrumentell nützlicher sind, um indirekt anderen zu helfen. Und die dritte beinhaltet eine spezifisch kantische Interpretation dessen, was es heißt, jemanden als Selbstzweck zu behandeln. Doch wie wir sehen werden, berechtigt keiner dieser drei Ansätze zu der Schlussfolgerung, dass der Utilitarismus gegen die reine Bedeutung der Menschheitszweckformel verstößt oder jemanden buchstäblich als „bloßes Mittel“ behandelt.
 
-## **Als Mittel zum Zweck nutzen**
+## Als Mittel zum Zweck nutzen
 
 Der Utilitarismus lässt zu, Menschen als Mittel einzusetzen, um ein besseres Ergebnis zu erzielen. In stilisierten Gedankenexperimenten impliziert er zum Beispiel, dass [eine Person getötet werden sollte, um fünf zu retten](https://utilitarianism.net/objections-to-utilitarianism/rights). Allgemeiner ausgedrückt: Er erlaubt es, einigen Menschen Schaden zuzufügen, um den Gesamtnutzen für andere zu erhöhen. Aber viele Arten, andere zu instrumentalisieren, sind moralisch unbedenklich. Kantianer werden zustimmen: Wenn man einen Fremden nach dem Weg fragt, benutzt man ihn als Mittel, aber das ist nicht _verwerflich_. Jemanden nach dem Weg zu fragen, ist damit vereinbar, ihn immer noch als inhärent wertvoll oder als Selbstzweck zu betrachten. Ist das utilitaristische Opfern einer Person in einer Weise anders, die es mit einer solchen Betrachtung einer Person als inhärent wertvoll unvereinbar macht?
 
@@ -36,7 +36,7 @@ Nehmen wir zum Beispiel an, eine Gruppe von Freunden lost aus, wer von ihnen ein
 
 Im Gegensatz dazu _behandelt_ der Utilitarismus [nicht empfindungsfähige Dinge](https://utilitarianism.net/near-utilitarian-alternatives#beyond-welfarism), wie die Umwelt, als rein instrumentellen Wert. Der Umweltschutz ist immens wichtig, nicht um seiner selbst willen, sondern um der Menschen und anderer empfindungsfähiger Wesen willen. Es besteht ein großer Unterschied zwischen der Art und Weise, wie der Utilitarismus die Umwelt bewertet, und der Art und Weise, wie er den Menschen bewertet, was ein weiteres Indiz dafür ist, dass die Theorie den Menschen nicht nur instrumentell bewertet.
 
-## **Instrumentelle Bevorzugung**
+## Instrumentelle Bevorzugung
 
 Angenommen, man befindet sich in einer medizinischen Notsituation, hat aber nur genug Medikamente, um entweder einen Erwachsenen oder zwei Kinder zu retten. Zwei Kinder und eine erwachsene Apothekerin stehen kurz vor dem Tod, drei weitere Kinder sind schwer krank und würden sterben, bevor jemand anderes ihnen zu Hilfe kommen kann. Wenn man die Apothekerin rettet, kann sie rechtzeitig weitere Medikamente herstellen, um die verbleibenden drei schwerkranken Kinder zu retten (allerdings nicht rechtzeitig, um die beiden bereits am Rande des Todes stehenden Kinder zu retten). Wenn man diese beiden Kinder rettet, werden alle anderen sterben. Was sollte man tun?
 
@@ -56,13 +56,13 @@ Um diesen Punkt zu verdeutlichen, betrachten wir eine Variante des Falles, in de
 
 Es gibt jedoch viele Fälle, in denen eine instrumentelle Bevorzugung weniger angebracht erscheint. Wir wollen zum Beispiel nicht, dass Ärzte in der Notaufnahme über den sozialen Wert ihrer Patienten urteilen, bevor sie entscheiden, wen sie retten. Und dafür gibt es gute utilitaristische Gründe: Solche Urteile sind in der Regel unzuverlässig und durch alle möglichen Vorurteile in Bezug auf Privilegien und sozialen Status verzerrt, und ihre Institutionalisierung könnte eine schädliche stigmatisierende Botschaft aussenden, die die soziale Solidarität untergräbt. Es scheint unwahrscheinlich, dass die geringen instrumentellen Vorteile einer solchen Handlungsweise diese erheblichen Schäden aufwiegen würden. Daher können Utilitaristen die Standardregeln der medizinischen Ethik befürworten, die es medizinischen Dienstleistern verbieten, bei der Triage oder bei Entscheidungen über die Zuteilung von Medikamenten den Wert für die Allgemeinheit zu berücksichtigen. Dieser praktische Punkt unterscheidet sich jedoch stark von der Behauptung, dass die utilitaristische instrumentelle Bevorzugung andere grundsätzlich als bloße Mittel behandelt. Für diese stärkere Behauptung scheint es keine gute Grundlage zu geben.
 
-## **Kantische Interpretationen**
+## Kantische Interpretationen
 
 Kantianer und Utilitaristen sind sich uneinig darüber, wie man auf den Eigenwert jeder Person reagieren soll. Utilitaristen sind der Ansicht, dass die richtige Art und Weise, den Eigenwert aller Personen zu würdigen, darin besteht, ihre Interessen im utilitaristischen Kalkül gleichermaßen zu berücksichtigen. Kantianer vertreten eine andere Auffassung und berufen sich dabei in der Regel auf [Überlegungen zur möglichen oder tatsächlichen Zustimmung](https://plato.stanford.edu/entries/persons-means/#SuffCondForUsinOtheMereMean).[^8] Befürworter des „bloße Mittel“-Einwandes könnten weiter behaupten, dass Utilitaristen, wenn sie dem kantischen Standard für die Beachtung des Eigenwertes von Personen nicht folgen, Menschen überhaupt nicht als inhärent wertvoll betrachten. Aber das ist eine wenig wohlwollende Interpretation. Alle sind sich einig, dass Menschen Selbstzwecke sind; die Meinungsverschiedenheit besteht nur darin, was daraus moralisch folgt.
 
 Verschiedene Moraltheorien, wie der Utilitarismus und der Kantianismus, bieten unterschiedliche Darstellungen der moralisch richtigen Art und Weise, auf den Eigenwert von Personen zu reagieren. Wir versuchen hier nicht, diesen Streit zu schlichten. Von jemandem, der von den Argumenten des Kantianismus überzeugt ist, kann man sicherlich erwarten, dass er den Utilitarismus auf dieser Grundlage ablehnt. Aber es gibt keine _unabhängige_ Grundlage für die Ablehnung des Utilitarismus allein mit der Begründung, dass er die kantischen Standards für die Behandlung von Menschen als Selbstzweck verletzt. Wir könnten den Einwand genauso gut umdrehen und den Kantianern vorwerfen, dass sie die _utilitaristischen_ Maßstäbe dafür verletzen, wie man Menschen gleichermaßen als Selbstzweck bewertet. Beide Vorwürfe wären gleichermaßen zirkulär und liefern der Adressatin keinen unabhängigen Grund, an ihrer Ansicht zu zweifeln.
 
-## **Konklusion**
+## Konklusion
 
 Wir haben gesehen, dass die Behauptung, Utilitaristen würden Menschen als „bloße Mittel“ behandeln, unzutreffend ist. Alle plausiblen Moraltheorien erlauben es manchmal, Menschen als Mittel zu behandeln (und sie _gleichzeitig_ als Selbstzweck zu respektieren). Wenn der Utilitarismus eine solche Behandlung zulässt, behandelt er die betroffenen Personen nicht als _bloße_ Mittel, selbst in den extremsten Fällen eines „utilitaristischen Opfers“. Selbst diejenigen, die am Ende schlechter dastehen, waren nicht Gegenstand einer verfahrenstechnischen Ungerechtigkeit oder Missachtung: Ihre Interessen wurden vollständig und gleichberechtigt mit denen aller anderen berücksichtigt, wie es ihrem Eigenwert entspricht. Und auch wenn Kantianer und Utilitaristen sich nicht einig sind, wie man auf den Eigenwert von Personen _reagieren_ soll, so sind sich doch alle einig, dass einzelne Personen an sich wertvoll _sind_ und nicht nur Mittel für ein anderes Ziel.
 
@@ -72,17 +72,17 @@ Aber es gibt vielleicht noch andere, eng verwandte Einwände, die Menschen manch
 
 [Andere Einwände gegen Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism#specific-objections-against-utilitarianism)
 
-## **Diese Seite zitieren**
+## Diese Seite zitieren
 
 Chappell, R.Y. (2023). Der „bloße Mittel“-Einwand. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/objections-to-utilitarianism/mere-means>, zuletzt aufgerufen am 10/16/2023.
 
-## **Möchtest du die Welt zu einem besseren Ort machen?**
+## Möchtest du die Welt zu einem besseren Ort machen?
 
 Erfahre, wie du Utilitarismus in die Praxis umsetzt:
 
 [Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
 
-## **Ressourcen und weiterführende Lektüre**
+## Ressourcen und weiterführende Lektüre
 
 * Samuel Kerstein (2019). [Treating Persons as Means](https://plato.stanford.edu/archives/sum2019/entries/persons-means/), _The Stanford Encyclopedia of Philosophy_ (Sommer 2019-Edition), Edward N. Zalta (Hrsg.).
 * Derek Parfit (2011). _On What Matters: Vol 1_. Oxford University Press. Kapitel 9: Merely as a Means.

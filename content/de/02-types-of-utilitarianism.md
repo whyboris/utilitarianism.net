@@ -12,16 +12,13 @@ gradientBottom: "#012147"
 
 {{< TOC >}}
 
-## **Einführung**
+## Einführung
 
 Wie in [Kapitel 1: Einführung in den Utilitarismus](https://utilitarianism.net/introduction-to-utilitarianism) erläutert, besteht der Kerngedanke des Utilitarismus darin, dass wir das Wohlergehen eines jeden Menschen so weit wie möglich verbessern wollen sollten. Utilitaristische Theorien weisen vier gemeinsame Elemente auf: Konsequentialismus, Welfarismus, Unparteilichkeit und Aggregationismus. Der klassische Utilitarismus zeichnet sich durch das Akzeptieren zweier zusätzlicher Elemente aus: erstens des Hedonismus als [Theorie des Wohlergehens](https://utilitarianism.net/theories-of-wellbeing) und zweitens der Gesamtansicht in der [Populationsethik](https://utilitarianism.net/population-ethics). Es gibt mehrere weitere wichtige Unterschiede zwischen verschiedenen utilitaristischen Theorien: Wir können unterscheiden zwischen skalarem und maximierendem oder Satisfaktions-Utilitarismus, zwischen Erwartungs-Utilitarismus und objektivem Utilitarismus, zwischen mehrstufigem und einstufigem Utilitarismus und zwischen globalem und hybridem Utilitarismus.
 
-
-## **Die Definition von Utilitarismus**
+## Die Definition von Utilitarismus
 
 Utilitaristische Theorien haben vier definierende Elemente gemeinsam:
-
-
 
 1. Konsequentialismus
 2. Welfarismus
@@ -34,11 +31,9 @@ Utilitarismus ist die Ansicht, dass man stets das Gesamtwohl mehren sollte.
 
 Manchmal sprechen Philosophen von „Utilität“ oder „Nutzen“  anstelle von „Wohlergehen“, aber in der Regel meinen sie das Gleiche.
 
+## Die vier Elemente von Utilitarismus
 
-## **Die vier Elemente von Utilitarismus**
-
-
-### **Konsequentialismus**
+### Konsequentialismus
 
 Utilitarismus ist eine Art des [Konsequentialismus](https://plato.stanford.edu/entries/consequentialism/), den wir wie folgt definieren:
 
@@ -48,8 +43,7 @@ Laut dieser Sichtweise ist das Erreichen guter Ergebnisse das Einzige, das aus m
 
 Konkurrenten des Konsequentialismus vertreten alternative Darstellungen dessen, was man moralisch tun sollte, die von anderen Merkmalen als dem Wert des Ergebnisses abhängen. Nach der [Deontologie](https://plato.stanford.edu/entries/ethics-deontological/) beispielsweise geht es bei der Moral darum, ein System von Regeln zu befolgen, beispielsweise „Du sollst nicht lügen“ oder „Du sollst nicht stehlen“. Und nach der [Tugendethik](https://plato.stanford.edu/entries/ethics-virtue/) geht es bei der Moral im Wesentlichen darum, einen tugendhaften Charakter zu kultivieren. Ein großer Teil der Anziehungskraft von Konsequentialismus mag auf der Überzeugung beruhen, dass _die Welt zu verbessern_ [schlicht wichtiger ist](https://utilitarianism.net/arguments-for-utilitarianism#what-fundamentally-matters) als jedes dieser konkurrierenden moralischen Ziele.
 
-
-#### **Direkter und indirekter Konsequentialismus: Erläuterung der Unterschiede zwischen Handlungs- und Regelutilitarismus**
+#### Direkter und indirekter Konsequentialismus: Erläuterung der Unterschiede zwischen Handlungs- und Regelutilitarismus
 
 Wenn es darum geht, eine konsequentialistische Erklärung von Richtigkeit zu liefern, wird in der philosophischen Literatur häufig zwischen zwei Ansichten unterschieden, nämlich dem _direkten Konsequentialismus_ und dem _indirekten_ _Konsequentialismus_.
 
@@ -61,8 +55,7 @@ Nach unserer Definition des Konsequentialismus ist nur die direkte Sichtweise ei
 
 Obwohl Handlungsutilitarismus nur Handlungen (und nicht Regeln) im Hinblick auf ihre „Richtigkeit“ bewertet, erkennt er dennoch die Bedeutung einer starken Bindung an vertraute moralische Regeln an. Regeln wie „Du sollst nicht lügen“ und „Du sollst nicht töten“ werden als nützliche Richtlinien angesehen, die [wir in der Praxis fast immer befolgen sollten](https://utilitarianism.net/utilitarianism-and-practical-ethics/#respecting-commonsense-moral-norms) — gerade damit unsere Handlungen besser zu guten Ergebnissen führen und Schaden vermeiden. Zur weiteren Diskussion und Klärung siehe den Abschnitt über den „[mehrstufigen Utilitarismus](https://utilitarianism.net/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism)“ weiter unten.
 
-
-### **Welfarismus**
+### Welfarismus
 
 Konsequentialisten unterscheiden sich darin, was sie als das zu fördernde Gut ansehen. Utilitaristen befürworten den [Welfarismus](https://plato.stanford.edu/entries/well-being/#Wel), den wir wie folgt definieren:
 
@@ -74,8 +67,7 @@ Verschiedene [Theorien des Wohlergehens](https://utilitarianism.net/theories-of-
 
 Während jede plausible Ansicht anerkennt, dass das Wohlbefinden wichtig ist, lehnen einige Philosophen den Welfarismus ab, indem sie behaupten, dass andere Dinge zusätzlich wichtig sind. Egalitaristen sind beispielsweise der Ansicht, dass Ungleichheit an sich schlecht ist, auch wenn sie einigen nützt und niemandem schadet. Andere wiederum sind der Meinung, dass neben dem Wohlbefinden auch ökologische und ästhetische Werte berücksichtigt werden müssen. Welfaristen behaupten, dass diese anderen Dinge nur insofern von Bedeutung sind, als sie zu jemandes Wohlergehen beitragen.
 
-
-### **Unparteilichkeit und gleichberechtigte Berücksichtigung von Interessen**
+### Unparteilichkeit und gleichberechtigte Berücksichtigung von Interessen
 
 Utilitarismus ist einem Konzept der _Unparteilichkeit_ verpflichtet, das auf der _gleichberechtigten Berücksichtigung von Interessen_ beruht:
 
@@ -85,8 +77,7 @@ Wie der utilitaristische Philosoph [Henry Sidgwick](https://utilitarianism.net/u
 
 Nicht alle Philosophen sind der Meinung, dass Unparteilichkeit ein zentrales Merkmal von Moral ist. Sie sind vielleicht der Meinung, dass wir gegenüber einer bestimmten Gruppe, zum Beispiel unseren Freunden und unserer Familie, _[parteiisch](https://utilitarianism.net/near-utilitarian-alternatives#egoism-and-partialism)_ sein dürfen oder sogar müssen. Oder sie vertreten eine alternative Auffassung von „Unparteilichkeit“, die keine gleichberechtigte Berücksichtigung von Interessen verlangt. Der _[Prioritarismus](https://utilitarianism.net/near-utilitarian-alternatives#prioritarianism)_ gibt beispielsweise den Interessen der am schlechtesten Gestellten, wer auch immer sie sein mögen, zusätzliches Gewicht.
 
-
-### **Aggregationismus**
+### Aggregationismus
 
 Das letzte gemeinsame Element utilitaristischer Theorien ist der Aggregationismus, den wir wie folgt definieren:
 
@@ -98,8 +89,7 @@ Einige Philosophen lehnen jede Form von Aggregationismus ab. Sie glauben zum Bei
 
 In der Praxis scheinen viele Menschen und politische Entscheidungsträger diese Art von Trade-offs zu befürworten. Wenn man beispielsweise zulässt, dass Autos auf den Straßen zu schnell fahren, steigt die Zahl der Menschen, die bei Unfällen sterben. Die Einführung extrem niedriger Geschwindigkeitsbegrenzungen würde Menschenleben retten, allerdings um den Preis, dass sie vielen Fahrern Unannehmlichkeiten bereiten. Die meisten Menschen zeigen ein implizites Bekenntnis zum Aggregationsprinzip, indem sie es für schlimmer halten, diese vielen Unannehmlichkeiten zu verursachen, um ein paar Leben zu retten.
 
-
-## **Die zwei Elemente des klassischen Utilitarismus**
+## Die zwei Elemente des klassischen Utilitarismus
 
 Oben haben wir die vier Elemente erläutert, die von allen utilitaristischen Theorien akzeptiert werden: Konsequentialismus, Welfarismus, Unparteilichkeit und Aggregationismus. Dies ist zwar nützlich, um utilitaristische von nicht-utilitaristischen Moraltheorien zu unterscheiden, aber es gibt auch wichtige Unterscheidungen zwischen unterschiedlichen utilitaristischen Theorien. Je nachdem, wie eine utilitaristische Theorie formuliert ist, kann sie sehr unterschiedliche praktische Auswirkungen haben und mehr oder weniger überzeugend sein.
 
@@ -109,8 +99,7 @@ Klassischer Utilitarismus ist die Ansicht, dass man stets die Summe von Freude m
 
 Klassischer Utilitarismus unterscheidet sich von der breiteren Familie utilitaristischer Ansichten, weil er zwei zusätzliche Elemente akzeptiert: erstens den _[Hedonismus](https://utilitarianism.net/theories-of-wellbeing#hedonism)_: die Ansicht, dass das Wohlergehen nur aus bewussten Erfahrungen besteht, und zweitens die _[Gesamtansicht](https://utilitarianism.net/population-ethics#the-total-view)_ in der Populationsethik, nach der ein Ergebnis dann und nur dann besser ist als ein anderes, wenn es eine größere Gesamtsumme von Wohlergehen beinhaltet, wobei Wohlergehen entweder dadurch gesteigert werden kann, dass es existierenden Menschen besser geht oder dadurch, dass neue Menschen mit guten Leben geschaffen werden.
 
-
-### **Theorien über Wohlergehen: Hedonismus**
+### Theorien über Wohlergehen: Hedonismus
 
 → _Hauptartikel: [Theorien über Wohlergehen](https://utilitarianism.net/theories-of-wellbeing)_
 
@@ -122,8 +111,7 @@ Ethische Hedonisten glauben, dass das Einzige, das an sich gut ist, das Erfahren
 
 Wir erörtern die Argumente für und gegen den Hedonismus — und seine beiden Hauptkonkurrenten, _Wunscherfüllungstheorien_ und _Objektive-Listen-Theorien_ — im Kapitel [Theorien über Wohlergehen](https://utilitarianism.net/theories-of-wellbeing).
 
-
-### **Populationsethik: die Gesamtansicht**
+### Populationsethik: die Gesamtansicht
 
 → _Hauptartikel: [Populationsethik](https://utilitarianism.net/population-ethics)_
 
@@ -137,11 +125,9 @@ Die wichtigste praktische Implikation der Gesamtansicht besteht darin, dass der 
 
 Zu den Alternativen zur Gesamtansicht in der Populationsethik gehören die _Durchschnitts-Betrachtung_, _Theorien über variable Werte_, _Theorien über kritische Werte (und Spannen)_ und _personenbezogene Theorien_. Wir erläutern und diskutieren diese Theorien im Kapitel über [Populationsethik](https://utilitarianism.net/population-ethics).
 
-
-## **Weitere Unterscheidungen zwischen utilitaristischen Theorien**
+## Weitere Unterscheidungen zwischen utilitaristischen Theorien
 
 Nach dem Wählen bevorzugter Theorien über Wohlergehen und Populationsethik sollte man sich auch Gedanken über Folgendes machen:
-
 
 
 1. wie (oder ob) man einen Begriff von Richtigkeit konstruiert;
@@ -149,8 +135,7 @@ Nach dem Wählen bevorzugter Theorien über Wohlergehen und Populationsethik sol
 3. welche Rolle einfacher, aus dem Utilitarismus abgeleiteter Heuristiken in der Steuerung unseres alltäglichen Handelns zukommt; und
 4. welche Formen der moralischen Bewertung für Regeln, Motive, Charakter und andere Objekte des moralischen Interesses jenseits von Handlungen gelten.
 
-
-### **Richtigkeit rekonstruieren: maximierender, Satisfaktions- und skalarer Utilitarismus**
+### Richtigkeit rekonstruieren: maximierender, Satisfaktions- und skalarer Utilitarismus
 
 Utilitarismus wird meist in seiner Maximierungsform formuliert: Innerhalb einer beliebigen Menge von Optionen ist die Handlung, die das größte Wohlbefinden erzeugt, richtig, und alle anderen Handlungen sind falsch.
 
@@ -168,8 +153,7 @@ Nach dieser Auffassung gibt es keine grundlegende, scharfe Unterscheidung zwisch
 
 Philosophen haben den maximierenden Utilitarismus, den Satisfaktions-Utilitarismus und den skalaren Utilitarismus traditionell als konkurrierende Ansichten betrachtet. In jüngerer Zeit wurde jedoch vorgeschlagen, dass Utilitaristen alle drei Ansichten akzeptieren könnten, indem sie mehrere verschiedene Bedeutungen von ,sollen‘ oder ,richtig‘ konstruieren.[^19] Nach dieser pluralistischen Sichtweise (i) haben Maximierer Recht, wenn sie meinen, dass Sophie idealerweise alle 1.000 Menschen retten sollte; (ii) Satisfizierer könnten Recht haben, wenn sie meinen, dass die Rettung von 999 Menschen minimal akzeptabel ist, während die Rettung von niemandem inakzeptabel ist; und (iii) Skalar-Utilitaristen haben Recht, wenn sie meinen, dass es letztlich eine Frage des Grades ist und dass der Gewinn aus der Rettung von 999 Menschen anstelle von null Menschen den Gewinn aus der Rettung von 1.000 Menschen anstelle von 999 Menschen in den Schatten stellt.
 
-
-### **Erwartungs-Utilitarismus versus objektiver Utilitarismus**
+### Erwartungs-Utilitarismus versus objektiver Utilitarismus
 
 Angesichts unserer kognitiven und epistemischen Limitierungen können wir nicht alle Folgen unseres Handelns vorhersehen. Viele Philosophen haben die Auffassung vertreten, dass das, was wir tun sollten, davon abhängt, was wir zum Zeitpunkt der Handlung glauben (sollten). Das bekannteste Beispiel für solche Theorien ist der Erwartungs-Utilitarismus.[^20]
 
@@ -185,8 +169,7 @@ Die Handlung des Arztes hat — rein zufällig und gegen überwältigende Wahrsc
 
 Wenn es auf diese Weise einen Konflikt zwischen der _tatsächlich_ besten und der _erwartungsgemäß_ besten Handlung gibt, gibt es dann eine Tatsache, welche Handlung „wirklich“ richtig ist? Viele Philosophen sind der Ansicht, dass es sich um einen rein verbalen Streit handelt. Wir können von der tatsächlich besten Option als „objektiv richtig“ und von der erwartungsgemäß besten Option als „subjektiv richtig“ sprechen, und jedes dieser Konzepte könnte eine legitime theoretische Rolle spielen. Zum Beispiel sollten wir es _vorziehen_, dass das tatsächlich beste Ergebnis erzielt wird. Aber wir sollten auch erkennen, dass es angesichts unserer kognitiven Grenzen in der Praxis klug wäre, sich stattdessen von Überlegungen zum Erwartungswert leiten zu lassen.
 
-
-### **Mehrstufiger Utilitarismus versus einstufiger Utilitarismus**
+### Mehrstufiger Utilitarismus versus einstufiger Utilitarismus
 
 In der Fachliteratur zum Utilitarismus wird eine nützliche Unterscheidung zwischen einem _Kriterium der Richtigkeit_ und einem _Entscheidungsverfahren_ getroffen. Ein Kriterium der Richtigkeit sagt uns, was nötig ist, damit eine Handlung (oder eine Regel, Policy usw.) richtig oder falsch ist. Ein Entscheidungsverfahren ist etwas, das wir verwenden, wenn wir darüber nachdenken, was zu tun ist.[^22]
 
@@ -204,8 +187,7 @@ Manchmal behaupten Philosophen, mehrstufiger Utilitarismus sei inkohärent. Dies
 
 Ein gängiger Einwand gegen mehrstufigen Utilitarismus lautet, er sei _[selbstverleugnend](https://utilitarianism.net/objections-to-utilitarianism/abusability/#is-utilitarianism-self-effacing)_. Eine Theorie gilt als (teilweise) selbstverleugnend, wenn sie ihren Anhängern (manchmal) vorschreibt, einer anderen Theorie zu folgen. Mehrstufiger Utilitarismus verbietet oft die Anwendung des utilitaristischen Kriteriums bei der Entscheidungsfindung und empfiehlt stattdessen, nach nicht-utilitaristischen Heuristiken zu handeln. Es ist jedoch nicht widersprüchlich zu sagen, dass das Kriterium der moralischen Richtigkeit nicht mit dem von ihm empfohlenen Entscheidungsverfahren übereinstimmt. Diese Aussage bedeutet nicht, dass die Theorie versagt.
 
-
-### **Unterschiede zwischen mehrstufigem Utilitarismus und Regelutilitarismus**
+### Unterschiede zwischen mehrstufigem Utilitarismus und Regelutilitarismus
 
 Mehrstufiger Utilitarismus klingt ähnlich wie der oben erwähnte Regelutilitarismus. Man kann die beiden leicht verwechseln. Dennoch unterscheiden sich die beiden Theorien und es ist wichtig zu verstehen, wie sie sich unterscheiden.
 
@@ -213,8 +195,7 @@ Mehrstufiger Utilitarismus akzeptiert Utilitarismus als Kriterium für moralisch
 
 Insofern man das grundlegende utilitaristische Anliegen der Förderung von Wohlergehen teilt und lediglich befürchtet, dass das bewusste Verfolgen dieses Ziels sich als kontraproduktiv erweisen könnte, sollte dies einen dazu veranlassen, mehrstufigen Utilitarismus zu akzeptieren — und nicht irgendeine Form des Regelutilitarismus.
 
-
-### **Globaler Utilitarismus und hybrider Utilitarismus**
+### Globaler Utilitarismus und hybrider Utilitarismus
 
 Die meisten Diskussionen über Utilitarismus drehen sich um den Handlungsutilitarismus und sein Kriterium des richtigen Handelns. Es ist jedoch wichtig zu erkennen, dass Utilitaristen ebenso gut die Tendenz anderer Dinge — wie Motive, Regeln, Charaktereigenschaften, Policies und soziale Institutionen — zur Förderung von Wohlergehen berücksichtigen können. Da es im Utilitarismus im Wesentlichen um die Förderung von Wohlergehen geht, sollten wir nicht nur die Handlungen ausführen wollen, die Wohlergehen fördern. Wir sollten auch die Motive, Regeln, Charaktereigenschaften, Strategien, Institutionen und so weiter wollen, die Wohlergehen fördern.
 
@@ -238,8 +219,7 @@ Insbesondere können hybride Utilitaristen Tugend und die Frage, ob etwas lobens
 
 Puristen mögen einwenden, dass hybrider Utilitarismus nicht „wirklich“ eine Form des Utilitarismus ist. In der Tat handelt es sich um eine hybride Sichtweise, die utilitaristische Behauptungen (darüber, was wichtig ist und was getan werden sollte) verbindet mit über direkte utilitaristische Bewertung hinausgehenden Behauptungen über Tugend und darüber, was lobens- und tadelnswert ist. Solange diese weiteren Aussagen jedoch nicht mit den zentralen utilitaristischen Aussagen dazu, was wichtig ist und was getan werden sollte, in Konflikt geraten, scheint es keinen Grund zu geben, beide Arten von Aussagen nicht zu einer einheitlichen Sichtweise zu kombinieren. Dies könnte sich als Erleichterung für diejenigen erweisen, die sich ansonsten zum Utilitarismus hingezogen fühlen, die aber reine globale utilitaristische Behauptungen über Tugend und Schuldhaftigkeit intuitiv unplausibel oder unvollständig finden.
 
-
-## **Konklusion**
+## Konklusion
 
 Alle utilitaristischen ethischen Theorien weisen vier gemeinsame Merkmale auf: Sie sind konsequentialistisch, welfaristisch, unparteiisch und aggregationistisch. Infolgedessen messen sie der Mehrung des Gesamtwohls höchste moralische Bedeutung bei.
 
@@ -251,60 +231,43 @@ Im nächsten Kapitel werden Argumente für Utilitarismus und Konsequentialismus 
 
 [Nächstes Kapitel: Argumente für Utilitarismus](https://utilitarianism.net/arguments-for-utilitarianism)
 
-
-## **Diese Seite zitieren**
+## Diese Seite zitieren
 
 MacAskill, W., Meissner, D. und Chappell, R.Y. (2023). Elemente und Arten des Utilitarismus. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/types-of-utilitarianism>, zuletzt aufgerufen am 5/24/2023.
 
-
-## **Möchtest du die Welt zu einem besseren Ort machen?**
+## Möchtest du die Welt zu einem besseren Ort machen?
 
 Erfahre, wie du Utilitarismus in die Praxis umsetzt:
 
 [Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
 
-
-## **Ressourcen und weiterführende Lektüre**
-
+## Ressourcen und weiterführende Lektüre
 
 ### Konsequentialismus
-
 
 
 * Julia Driver (2011). _[Consequentialism, New Problems of Philosophy](https://www.routledge.com/Consequentialism/Driver/p/book/9780415772587)_. José Luis Bermúdez (Hrsg.). Abingdon: Routledge.
 * Samuel Scheffler (1994). _[The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions](https://www.oxfordscholarship.com/view/10.1093/0198235119.001.0001/acprof-9780198235118)_. Oxford: Clarendon Press.
 * Walter Sinnott-Armstrong (2015). [Consequentialism](https://plato.stanford.edu/entries/consequentialism/). _Stanford Encyclopedia of Philosophy_. Edward N. Zalta (Hrsg.).
 
-
 ### Welfarismus und Theorien über Wohlergehen
-
-
 
 * Roger Crisp (2017). [Well-Being](https://plato.stanford.edu/entries/well-being/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (Hrsg).
 * Nils Holtug (2003). [Welfarism – The Very Idea](https://www.cambridge.org/core/journals/utilitas/article/welfarism-the-very-idea/A30F2C8C26CF4AA19D9984BBC8FC9DA3). _Utilitas_. 15(2): 151–174.
 * Shelly Kagan (1992). [The Limits of Well-being](https://doi.org/10.1017/S0265052500001461). Social Philosophy & Policy. 9(2): 169–189.
 
-
 ### Unparteilichkeit
-
-
 
 * Robert Goodin (1988). [What is so special about our fellow countrymen?](https://dx.doi.org/10.1086/292998) _Ethics_, 98 (4): 663-686.
 * Troy Jollimore (2018). [Impartiality](https://plato.stanford.edu/entries/impartiality/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (Hrsg).
 
-
 ### Aggregationismus
-
-
 
 * John Broome (1991). _[Weighing Goods: Equality, Uncertainty, and Time](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119451266)_. London: Wiley-Blackwell. Kapitel 4 and 10.
 * Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. London: Continuum. Kapitel 5: Utilitarian Aggregation.
 * Alastair Norcross (1997). [Comparing Harms: Headaches and Human Lives](https://spot.colorado.edu/~norcross/Comparingharms.pdf). _Philosophy & Public Affairs_. 26(2): 135–167.
 
-
 ### Hedonismus
-
-
 
 * Roger Crisp (2006). [Hedonism Reconsidered](https://doi.org/10.2307/40041013). _Philosophy and Phenomenological Research_. 73(3): 619–645.
 * Fred Feldman (2004). _[Pleasure and the Good Life: Concerning the Nature, Varieties and Plausibility of Hedonism](https://doi.org/10.1093/019926516X.001.0001)_. Oxford University Press.
@@ -312,10 +275,7 @@ Erfahre, wie du Utilitarismus in die Praxis umsetzt:
 * Ole Martin Moen (2016). [An Argument for Hedonism](https://link.springer.com/article/10.1007/s10790-015-9506-9). _The Journal of Value Inquiry_. 50: 267–281.
 * Andrew Moore (2019). [Hedonism](https://plato.stanford.edu/archives/win2019/entries/hedonism/), _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (Hrsg).
 
-
 ### Populationsethik
-
-
 
 * Gustaf Arrhenius, Jesper Ryberg, & Torbjörn Tännsjö (2017). [The Repugnant Conclusion](https://plato.stanford.edu/entries/repugnant-conclusion/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (Hrsg).
 * Gustaf Arrhenius (2000). _[Future generations: A challenge for moral theory](http://www.diva-portal.org/smash/get/diva2:170236/FULLTEXT01.pdf)_. PhD Dissertation, Uppsala University.
@@ -324,10 +284,7 @@ Erfahre, wie du Utilitarismus in die Praxis umsetzt:
 * Michael Huemer (2008). [In Defence of Repugnance](https://www.jstor.org/stable/20532700). _Mind_. 117(468): 899-933.
 * Derek Parfit (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Clarendon Press.
 
-
 ### Maximierender, Satisfaktions- und skalarer Utilitarismus
-
-
 
 * Ben Bradley (2006). [Against Satisficing Consequentialism](https://www.cambridge.org/core/journals/utilitas/article/against-satisficing-consequentialism/247AFF8D4B350823C5CE2CCF346F5CD8). _Utilitas_. 18(2): 97–108.
 * Richard Y. Chappell (2020). [Deontic Pluralism and the Right Amount of Good](https://philpapers.org/rec/CHADPA-8). In Douglas W. Portmore (Hrsg.), _The Oxford Handbook of Consequentialism_. Oxford University Press. pp. 498–512.
@@ -336,37 +293,25 @@ Erfahre, wie du Utilitarismus in die Praxis umsetzt:
 * Alastair Norcross (2006). [The Scalar Approach to Utilitarianism](https://onlinelibrary.wiley.com/doi/10.1002/9780470776483.ch15). In Henry West (Hrsg.), _The Blackwell Guide to Mill’s Utilitarianism_. Wiley-Blackwell, pp. 217–32.
 * Neil Sinhababu (2018). [Scalar consequentialism the right way](https://philarchive.org/archive/SINSCT-3). _Philosophical Studies_. 175: 3131–3144.
 
-
 ### Erwartungs-Utilitarismus versus objektiver Utilitarismus
-
-
 
 * Roger Crisp (1997). _[Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2)_. Routledge, pp. 99–101.
 * Peter A. Graham (2021). _[Subjective Versus Objective Moral Wrongness](https://doi.org/10.1017/9781108588249)_. Cambridge University Press.
 * Frank Jackson (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.
 
-
 ### Mehrstufiger versus einstufiger Utilitarismus
-
-
 
 * Roger Crisp (1997). _[Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2)_. Routledge, pp. 105–112.
 * Richard M. Hare (1981). _[Moral Thinking: Its Levels, Method, and Point](https://oxford.universitypressscholarship.com/view/10.1093/0198246609.001.0001/acprof-9780198246602)_. Oxford University Press.
 * Peter Railton (1984). [Alienation, consequentialism, and the demands of morality](https://www.jstor.org/stable/2265273). _Philosophy and Public Affairs_. 13(2): 134–171.
 
-
 ### Globaler Utilitarismus versus hybrider Utilitarismus
-
-
 
 * Brian McElwee (2020). [The Ambitions of Consequentialism](https://doi.org/10.26556/jesp.v17i2.528). _Journal of Ethics and Social Philosophy_. 17(2).
 * Richard Y. Chappell (2012). [Fittingness: The Sole Normative Primitive](https://dx.doi.org/10.1111/j.1467-9213.2012.00075.x). _Philosophical Quarterly_. 62(249): 684–704.
 * Richard Y. Chappell. [Consequentialism: Core and Expansion](https://www.dropbox.com/s/2liyjg119f5mogv/Chappell-CoreConsequentialism.pdf?dl=0), kommend in D. Copp, C. Rosati und T. Rulli (Hrsg.). _The Oxford Handbook of Normative Ethics_. Oxford University Press.
 * Toby Ord (2009). _[Beyond Action: Applying Consequentialism to Decision Making and Motivation](http://files.tobyord.com/beyond-action.pdf)_. DPhil Thesis, University of Oxford.
 * Philip Pettit & Michael Smith (2000). [Global Consequentialism](http://www.princeton.edu/~msmith/mypapers/Pettit-Smith-Global-2000.pdf). In Hooker, B., Mason, E. & Miller, D. (Hrsg.). _Morality, Rules and Consequences: A Critical Reader_. Edinburgh University Press.
-
-<!-- Footnotes themselves at the bottom. -->
-## Notes
 
 [^1]:
      Einige andere Fälle, in denen Namen irreführend sein können: Kräutertee ist keine Teesorte; eine Plastikblume ist keine Blumenart und fliegende Lemuren sind weder Lemuren noch können sie fliegen.

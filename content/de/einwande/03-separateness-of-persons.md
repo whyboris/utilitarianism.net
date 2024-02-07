@@ -14,7 +14,7 @@ gradientBottom: "#430A4A"
 
 {{< TOC >}}
 
-## **Einführung**
+## Einführung
 
 Es besteht weitgehend Einigkeit darüber, dass es im Eigeninteresse liegt, Schaden und Nutzen zu verschiedenen Zeitpunkten _innerhalb_ eines Lebens zusammenzurechnen, um das eigene Gesamtwohlergehen zu maximieren. So ist zum Beispiel ein Besuch beim Zahnarzt trotz der unmittelbaren Unannehmlichkeiten umsichtig, weil er dazu beiträgt, größeren Schaden für das eigene zukünftige Ich abzuwenden. Aggregative konsequentialistische Theorien wie der Utilitarismus gehen noch einen Schritt weiter: Sie summieren Schaden und Nutzen im Leben _verschiedener_ Menschen, um gesamtgesellschaftlich das Wohlergehen zu maximieren. Aus der utilitaristischen Perspektive kann es sich lohnen, einigen Menschen Schaden zuzufügen, wenn dadurch größerer Schaden für andere verhindert wird. Dies veranlasst einige Kritiker zu der Behauptung, der Utilitarismus vernachlässige die moralische Bedeutung der Grenzen zwischen Individuen.
 
@@ -26,13 +26,13 @@ Obwohl dies ein prominenter Einwand ist, ist die Logik dahinter schwer zu durchs
 
 Bei einer weiter gefassten Auslegung können wir den Einwand so verstehen, dass die Achtung der Unterscheidung zwischen Personen es erfordert, interpersonale Abwägungen (also die _zwischen_ Leben) anders zu behandeln als intrapersonale Abwägungen (solche _innerhalb_ eines Lebens). Bei dieser Auslegung sind es die Implikationen des Utilitarismus und nicht die Argumente, die zu ihm geführt haben, die beanstandet werden. Was aber spricht dafür, intra- und interpersonelle Kompromisse unterschiedlich zu behandeln?[^2] Der Rest dieses Artikels untersucht drei mögliche Argumente, die auf (1) Kompensation, (2) Austauschbarkeit und (3) anti-aggregativen Intuitionen fußen.
 
-## **Kompensation**
+## Kompensation
 
 Die Standardinterpretation des Arguments von der Getrenntheit von Personen sieht die Krux in der Frage der _Kompensation_.[^3] Die Akteurin, die geschädigt wird, wird _entschädigt_, wenn sie später einen größeren Nutzen daraus zieht, während sie keine solche Kompensation erhält, wenn der Nutzen an jemand anderen geht. Nozick drückte es so aus: „Einen Menschen [zum Nutzen eines anderen] zu benutzen... respektiert und berücksichtigt nicht ausreichend die Tatsache, dass er eine separate Person ist, dass sein Leben das einzige ist, das er hat. _Er_ erhält kein überausgleichendes Gut durch sein Opfer“.[^4]
 
 Utilitaristen könnten entgegnen, dass wir anderen nicht nur aus Eigeninteresse helfen sollten.[^5] Wohlhabende profitieren vielleicht nicht persönlich davon, [mehr für Leben rettende Hilfsorganisationen zu spenden](https://utilitarianism.net/acting-on-utilitarianism#global-health-and-development), aber sie sollten es trotzdem tun, denn ihre persönlichen Interessen _sind nicht die einzigen, die zählen_. Jeder bedürftige Mensch ist ein Individuum, das gleichermaßen moralische Fürsorge und Respekt verdient und das eine Leben lebt, das _er_ hat. Wenn der Utilitarismus uns anweist, anderen zu helfen, leugnet er nicht, dass die anderen anders sind als wir. Er bestreitet lediglich die [egoistische](https://utilitarianism.net/near-utilitarian-alternatives#egoism-and-partialism) Annahme, dass ihre Andersartigkeit bedeutet, dass sie für uns nicht von Bedeutung sein sollten. Und in der Tat ist dies kaum ein Alleinstellungsmerkmal des Utilitarismus. Wie Katarzyna de Lazari-Radek und [Peter Singer](https://utilitarianism.net/utilitarian-thinker/peter-singer) schreiben: „Jeder, der die Besteuerung von Menschen mit hohem Einkommen und die Verwendung der Einnahmen für Leistungen an andere Bedürftige befürwortet, muss zustimmen, dass es manchmal vertretbar ist, einer Person Kosten aufzuerlegen, um einer anderen zu helfen.“[^6] Wenn wir den Egoismus ablehnen, sollten wir auch die Annahme zurückweisen, dass eine Kompensation unerlässlich ist, um etwas moralisch zu rechtfertigen.[^7]
 
-## **Austauschbarkeit**
+## Austauschbarkeit
 
 Eine tiefergehende Sorge besteht darin, dass der Utilitarismus den Anschein erwecken könnte, Individuen könnten ausgetauscht werden, ohne dass es etwas zu beklagen gibt. Peter Singer charakterisiert diese Sichtweise wie folgt: „Es ist, als ob empfindungsfähige Wesen Gefäße für etwas Wertvolles sind. Es macht nichts, wenn ein Gefäß kaputt geht, solange es ein anderes Gefäß gibt, in das sein Inhalt übertragen werden kann, ohne dass etwas verschüttet wird.“[^8]
 
@@ -50,7 +50,7 @@ Diese utilitaristische Antwort weist die Annahme zurück, dass die _Kommensurabi
 
 Dies wird vielleicht am deutlichsten, wenn man andere Formen des (vermeintlichen) Wertes betrachtet: Ein Kunstliebhaber könnte jedes einzelne Stück seiner Kunstsammlung wertschätzen und dennoch bereit sein, ein Feuer mit einem Gemälde zu ersticken, wenn dadurch fünf andere gerettet würden. Wenn er jedes Gemälde einzeln wertschätzt, wird er den Verlust des einzigartigen Gemäldes bedauern, das dadurch zerstört wird. Aber er kann das Opfer trotzdem für lohnend erachten. Nichts in seiner Haltung verrät eine unzulässige instrumentelle Einstellung zu seinen Kunstwerken. So wie dieser Kunstkonsequentialist die Getrenntheit der Gemälde respektiert, so respektiert der Utilitarist (oder Wohlergehens-Konsequentialist) die Getrenntheit von Personen.
 
-## **Anti-aggregative Intuitionen**
+## Anti-aggregative Intuitionen
 
 Kritiker könnten einräumen, dass der Utilitarismus tatsächlich einzelne Personen separat wertschätzt, aber eben _nicht auf die richtige Weise_. Aus dieser Sicht hat die utilitaristische [Aggregation](https://utilitarianism.net/types-of-utilitarianism#aggregationism) etwas intuitiv Problematisches. Anstatt die Interessen verschiedener Menschen zu summieren, könnten strikt anti-aggregative Ansichten für einen _Maximin_-Ansatz plädieren, der einfach versucht, die Position der am schlechtesten Gestellten zu verbessern. Nagel schreibt:
 
@@ -64,7 +64,7 @@ Jones hat im Senderaum eines Fernsehsenders einen Unfall erlitten. Um Jones eine
 
 Intuitiv gesehen spielt es keine Rolle, wie viele Menschen das Fußballspiel verfolgen. Es ist _einfach wichtiger_, Jones in dieser Zeit vor schweren Schmerzen zu bewahren.[^16]
 
-## **Die Intuition unterbringen**
+## Die Intuition unterbringen
 
 Warum ist es wichtiger, Jones zu retten? Eine Antwort wäre, dass wir verschiedene Interessen nicht zusammenfassen können, so dass nur derjenige individuelle moralische Anspruch erfüllt werden muss, der am stärksten ist, nämlich der von Jones. Doch Parfit schlägt eine alternative — [prioritäre](https://utilitarianism.net/near-utilitarian-alternatives#prioritarianism) — Erklärung vor: Vielleicht sollten wir Jones helfen, weil er viel schlechter dran ist und daher eine höhere moralische Priorität hat.[^17]
 
@@ -74,13 +74,13 @@ Parfit argumentiert, dass sein prioritärer Ansatz Scanlons anti-aggregativem An
 
 Anstatt sich also zu weigern, kleinere Vorteile zu aggregieren, schlägt Parfit vor, dass wir Schaden und Nutzen einfach so abwägen sollten, dass schlechter gestellte Personen Vorrang haben. Zwei verlockende Implikationen dieser Sichtweise sind folgende: (1) Wir sollten im Allgemeinen nicht zulassen, dass eine einzelne Person großen Schaden erleidet, wenn sie dadurch viel schlechter gestellt ist als andere mit konkurrierenden Interessen. (2) Wir sollten jedoch zulassen, dass (genügend) kleine Vorteile für schlechter gestellte Personen (in der Summe) einen einzigen großen Vorteil für eine besser gestellte Person überwiegen. Da wir für Behauptung (2) aggregieren müssen und wir Behauptung (1) gewährleisten können, ohne das Aggregieren ablehnen zu müssen, sieht es so aus, als wäre unseren Intuitionen insgesamt am besten gedient, wenn wir eine aggregative Moraltheorie akzeptieren.
 
-## **Die Intuition entkräften**
+## Die Intuition entkräften
 
 Unsere Intuition leidet unter einer mangelnden Sensibilität für das Ausmaß von Zuständen, was unsere Unfähigkeit widerspiegelt, große Zahlen wirklich zu erfassen.[^18] Unsere Intuition reagiert nicht sehr unterschiedlich darauf, ob die Zahl der konkurrierenden Interessen eine Million, eine Milliarde oder ein [Googolplex](https://de.wikipedia.org/wiki/Googol#Googolplex) ist. Der tatsächliche Wertunterschied zwischen diesen Zahlen ist jedoch immens. Daher sollten wir unseren Intuitionen nicht trauen, wenn sie diese sehr unterschiedlichen Zahlen als moralisch gleichwertig behandeln. Utilitaristen können daher anti-aggregative Intuitionen als besonders unzuverlässig zurückweisen.
 
 Sogar Prioritaristen müssen trotz der oben beschriebenen Argumente von Parfit letztlich der Utilitaristin folgen und eine ihre Intuition entkräftende Antwort akzeptieren. Bedenken wir: Kritiker könnten darauf bestehen, dass Parfits prioritäre Darstellung unserer anfänglichen Intuition über den Fall des Fernsehstudios nicht vollständig gerecht werden kann. Zugegeben, eine ausreichende Gewichtung seiner Priorität kann erklären, wie das Leiden von Jones die Freude von einer Million oder sogar einer Milliarde besser gestellter Fußballfans überwiegen kann. Aber solange die Gewichtung seiner Priorität endlich ist, wird es _eine_ (vielleicht astronomisch große) Anzahl kleinerer Freuden geben, die theoretisch das Leiden von Jones aufwiegen könnten. An diesem Punkt könnten die Befürworter des Aggregierens diese Implikation einfach akzeptieren und vorbringen, dass jegliches verbleibende intuitive Unbehagen mit dieser Schlussfolgerung am besten als Fehler zu erklären ist, der aus der Vernachlässigung des Ausmaßes resultiert.
 
-## **Kritik an den Alternativen**
+## Kritik an den Alternativen
 
 Im Gegensatz zum Utilitarismus könnte man versucht sein zu denken, dass einige Vorteile so _trivial_ sind, dass wir sie auf Null abrunden sollten, anstatt zuzulassen, dass eine große Anzahl von ihnen in der Summe etwas moralisch Bedeutsames ergibt. Doch Parfit beweist, dass diese Denkweise ein Fehler ist. Um zu sehen, warum, betrachten wir die folgende, plausibel erscheinende Behauptung:
 
@@ -98,7 +98,7 @@ Der zweite Grund, warum die Behauptung der Unabhängigkeit hier wichtig ist, bes
 
 Wenn man dies alles zusammen nimmt, können Befürworter des Aggregationsprinzips ihren Kritikern eine zweigleisige Antwort geben. Erstens können unsere anfänglichen Anti-Aggregations-Intuitionen weg erklärt werden. Zweitens zeigen weitere Überlegungen, dass anti-aggregative Prinzipien Implikationen haben, die wohl noch beanstandenswerter sind als die des Aggregationismus.
 
-## **Konklusion**
+## Konklusion
 
 Wir haben gesehen, dass der Einwand der „Getrenntheit von Personen“ gegen den Utilitarismus drei Formen annehmen kann, von denen keine entscheidend ist. Der Einwand der _Kompensation_ beruht auf unplausiblen egoistischen Annahmen. Der Einwand der _Austauschbarkeit_ beruht auf einem Missverständnis: Der Utilitarismus muss unterschiedliche Individuen nicht als austauschbar behandeln. Schließlich haben wir auch gesehen, dass es für Utilitaristen Möglichkeiten gibt, _anti-aggregative_ Intuitionen, wenn sie auch eine gewisse Kraft haben, zurückzuweisen und dass diese _anti-aggregativen_ Ansichten mit noch größeren Schwierigkeiten konfrontiert sind.
 
@@ -106,17 +106,17 @@ Wir haben gesehen, dass der Einwand der „Getrenntheit von Personen“ gegen de
 
 [Andere Einwände gegen Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism#specific-objections-against-utilitarianism)
 
-## **Diese Seite zitieren**
+## Diese Seite zitieren
 
 Chappell, R.Y. und Meissner, D.(2023). Der Einwand von der Getrenntheit von Personen. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/objections-to-utilitarianism/separateness-of-persons>, zuletzt aufgerufen am 10/17/2023.
 
-## **Möchtest du die Welt zu einem besseren Ort machen?**
+## Möchtest du die Welt zu einem besseren Ort machen?
 
 Erfahre, wie du Utilitarismus in die Praxis umsetzt:
 
 [Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
 
-## **Ressourcen und weiterführende Lektüre**
+## Ressourcen und weiterführende Lektüre
 
 * David Brink (2020). [Consequentialism, the Separateness of Persons, and Aggregation](https://www.doi.org/10.1093/oxfordhb/9780190905323.013.14). In Douglas W. Portmore (Hrsg.) _The Oxford Handbook of Consequentialism_. Oxford University Press.
 * Richard Y. Chappell (2021). _[Parfit’s Ethics](https://philpapers.org/rec/CHAPE-5)_, Abschnitt 3.2. Cambridge University Press.

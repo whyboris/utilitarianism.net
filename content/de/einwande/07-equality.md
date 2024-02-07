@@ -16,7 +16,7 @@ gradientBottom: "#260380"
 
 {{< TOC >}}
 
-## **Der Gleichheits-Einwand**
+## Der Gleichheits-Einwand
 
 Einige argumentieren, dass der Utilitarismus mit dem Ideal der Gleichheit in Konflikt steht. Nehmen wir zum Beispiel an, wir könnten zwischen zwei möglichen Verteilungen von Wohlergehen wählen: _Gleichheit_ und _Ungleichheit_: Bei _Gleichheit_ haben 1.000 Menschen ein Wohlergehen von 45, während bei _Ungleichheit_ 500 Menschen ein Wohlergehen von 80 und weitere 500 Menschen ein Wohlergehen von 20 haben.
 
@@ -28,7 +28,7 @@ Einige Philosophen widersprechen der utilitaristischen Sichtweise in Bezug auf d
 
 Befürworter des Utilitarismus können auf diesen [Einwand auf vier Arten reagieren](https://utilitarianism.net/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). Wir werden diese der Reihe nach durchgehen.
 
-## **Die Intuition unterbringen**
+## Die Intuition unterbringen
 
 Die erste Antwort auf diesen Einwand ist der Hinweis darauf, dass Utilitaristen anerkennen, dass Gleichheit ein äußerst wichtiges Leitkonzept für unsere tägliche Entscheidungsfindung ist. Der Unterschied besteht lediglich darin, dass Utilitaristen Gleichheit wegen ihres instrumentellen Nutzens schätzen und nicht, weil sie an sich wichtig ist.
 
@@ -36,7 +36,7 @@ Utilitaristen legen großen Wert auf Gleichheit, weil die meisten Güter einen _
 
 In der Praxis setzen viele Utilitaristen ihre Zeit und ihr Geld ein, um das Leben der weltweit am stärksten benachteiligten Gruppen zu verbessern, und versuchen so, eine gerechtere Welt für alle zu schaffen.
 
-## **Die Intuition entkräften**
+## Die Intuition entkräften
 
 Eine zweite Antwort auf den Einwand ist das Argument, dass wir, da Gleichheit instrumentell gut ist, vielleicht zu der Annahme verleitet werden, sie sei an und für sich gut. Eine Utilitaristin könnte argumentieren, dass diese moralischen Konzepte so wertvoll für die Gesellschaft sind, dass wir starke charakterliche Dispositionen und soziale Normen kultivieren sollten, um sie zu unterstützen, zu schützen und zu fördern. Daher kann unsere Intuition gegen bestimmte ungerechte Ergebnisse einfach daraus resultieren, dass wir uns eine allgemeine moralische Norm zugunsten der Gleichheit zu eigen gemacht haben. Während unsere Intuitionen zugunsten gerechter Ergebnisse im Allgemeinen das Wohlergehen steigern, versagen sie, wenn das beste erreichbare Ergebnis ein ungleiches, ungerechtes ist.
 
@@ -52,7 +52,7 @@ Wenn wir das ursprüngliche Beispiel in Geld ausdrücken und das ökonomische St
 
 Wir sind der Meinung, dass es, so präsentiert, nicht mehr intuitiv offensichtlich ist, dass die utilitaristische Entscheidung, _Ungleichheit_ gegenüber _Gleichheit_ zu bevorzugen, die falsche ist. Jeder würde zustimmen, dass ein gewisses Maß an Ungleichheit durch ein höheres Gesamtwohlergehen gerechtfertigt werden kann; wie genau dieser Zielkonflikt auszuloten ist, ist schwierig, und es ist nicht offensichtlich, dass der Utilitarismus die falsche Wahl trifft.
 
-## **Kritik an den Alternativen**
+## Kritik an den Alternativen
 
 Die dritte mögliche Antwort besteht darin, die _verfügbaren Alternativen_ zum Utilitarismus _zu kritisieren_, um zu zeigen, dass sie noch kontraintuitivere Implikationen haben. Zum Beispiel unterliegt der [Egalitarismus](https://utilitarianism.net/near-utilitarian-alternatives#egalitarianism-and-distributive-justice) einem Einwand von der _Gleichmacherei_ durch das Schlechterstellen mancher, der besagt, dass er es in Kauf nimmt, den Bessergestellten zu schaden (ohne irgendjemandem zu nützen), da dies einen positiven Effekt auf die Gleichheit hat.[^3] Wenn man nicht glaubt, dass eine solche Angleichung nach unten etwas Gutes hat, dann unterstützt das die utilitaristische Ansicht, dass Gleichheit nur instrumentell wertvoll ist: wertvoll, wenn und weil sie dazu dient, das Gesamtwohlergehen zu fördern.[^4]
 
@@ -66,7 +66,7 @@ Wir können davon ausgehen, dass sowohl Abel als auch Beth aus rationalen Gründ
 
 Dieser Einwand wurde von dem Wirtschaftswissenschaftler John Harsanyi formell entwickelt, der ihn in seinem utilitaristischen Aggregationstheorem bewies.[^6]
 
-## **Tolerieren der Intuition**
+## Tolerieren der Intuition
 
 Schließlich können Befürworter des Utilitarismus wieder einmal „in den sauren Apfel beißen“ und einfach akzeptieren, dass der Utilitarismus manchmal mit unseren Intuitionen über Gleichheit in Konflikt steht. Zu diesen Konflikten kommt es, weil die vom Utilitarismus bevorzugten Ergebnisse diejenigen mit dem größtmöglichen Gesamtwohlergehen sind, was nicht immer mit den egalitärsten Ergebnissen übereinstimmt. Utilitaristen werden darauf bestehen, dass es für Menschen insgesamt besser ist, wenn es ihnen besser geht (selbst wenn diese Vorteile nicht gleichmäßig verteilt sind), als wenn allen gleichmäßig ein geringeres Level an Wohlergehen vergönnt ist.
 
@@ -80,17 +80,17 @@ Schließlich können Befürworter des Utilitarismus wieder einmal „in den saur
 
 [Andere Einwände gegen Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism#specific-objections-against-utilitarianism)
 
-## **Diese Seite zitieren**
+## Diese Seite zitieren
 
 MacAskill, W., Meissner, D. und Chappell, R.Y. (2023). Der Gleichheits-Einwand. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/objections-to-utilitarianism/rights>, zuletzt aufgerufen am 10/25/2023.
 
-## **Möchtest du die Welt zu einem besseren Ort machen?**
+## Möchtest du die Welt zu einem besseren Ort machen?
 
 Erfahre, wie du Utilitarismus in die Praxis umsetzt:
 
 [Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
 
-## **Ressourcen und weiterführende Lektüre**
+## Ressourcen und weiterführende Lektüre
 
 * Roger Crisp (2003). [Equality, Priority, and Compassion](https://www.jstor.org/stable/10.1086/373954?seq=1). _Ethics_, 113(4): 745–763.
 * Toby Ord (2015). [A New Counterexample to Prioritarianism](http://amirrorclear.net/files/a-new-counterexample-to-prioritarianism.pdf). _Utilitas_, 27(3): 298–302.

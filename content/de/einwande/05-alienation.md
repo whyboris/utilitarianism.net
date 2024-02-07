@@ -76,17 +76,12 @@ Erfahre, wie du Utilitarismus in die Praxis umsetzt:
 
 ## Ressourcen und weiterführende Lektüre
 
-
-
 * Richard Y. Chappell, (2021). [The Right Wrong-Makers](https://philpapers.org/rec/CHATRW-3). _Philosophy and Phenomenological Research_, 103(2): 426–440.
 * Barry Maguire & Calvin Baker (2020). [The Alienation Objection to Consequentialism](https://philpapers.org/rec/MAGTAO-6), in D. Portmore (Hrsg.) _The Oxford Handbook of Consequentialism_. Oxford University Press.
 * Philip Pettit & Geoffrey Brennan (1986). [Restrictive Consequentialism](https://philpapers.org/rec/PETRC). _Australasian Journal of Philosophy_, 64(4): 438–455.
 * Peter Railton (1984). [Alienation, Consequentialism, and the Demands of Morality](https://philpapers.org/rec/RAIACA). _Philosophy and Public Affairs_, 13(2): 134–171.
 * Michael Stocker (1976). [The Schizophrenia of Modern Ethical Theories](https://dx.doi.org/10.2307/2025782). _Journal of Philosophy_, 73: 453–466.
 * Bernard Williams (1981). Persons, Character and Morality. In _Moral Luck: Philosophical Papers, 1973–1980_, Cambridge University Press.
-
-<!-- Footnotes themselves at the bottom. -->
-## Notes
 
 [^1]:
      Dieses Beispiel ist adaptiert von Stocker, M. (1976). [The Schizophrenia of Modern Ethical Theories](https://dx.doi.org/10.2307/2025782). _Journal of Philosophy_, 73: 453–466, p. 462. Wenn man seinen Freund aufmuntern will, würde man einen solchen gefühllosen Gedanken natürlich nicht laut aussprechen. Aber es scheint schon schlimm genug zu sein, auf diese Weise zu _denken_.

@@ -14,7 +14,7 @@ gradientBottom: "#371E87"
 
 {{< TOC >}}
 
-## **Einführung**
+## Einführung
 
 Dem gesunden Menschenverstand und vielen nicht-utilitaristischen Theorien zufolge gibt es bestimmte _moralische Zwänge_, gegen die man niemals verstoßen sollte. Diese Zwänge werden in moralischen Regeln wie „Lüge nicht!“ und „Töte nicht“ ausgedrückt. Diese Regeln sind intuitiv sehr einleuchtend. Dies stellt ein Problem für den Utilitarismus dar. Der Grund dafür ist, dass der Utilitarismus nicht nur vorgibt, was am besten ist — das, was das größte Gesamtwohlergehen mit sich bringt — sondern uns auch anweist, dies zu realisieren.
 
@@ -26,7 +26,7 @@ Auf den ersten Blick scheint es, dass der Utilitarismus die Frage mit „Ja, der
 
 Befürworter des Utilitarismus können [auf diesen Einwand auf vier Arten reagieren](https://utilitarianism.net/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). Wir werden sie der Reihe nach durchgehen.
 
-## **Der Intuition Rechnung tragen**
+## Der Intuition Rechnung tragen
 
 Eine erste utilitaristische Antwort auf das Gedankenexperiment könnte darin bestehen, _der Intuition Rechnung zu tragen_, dass Chuck nicht getötet werden sollte, indem man zeigt, dass der Utilitarismus nicht _wirklich_ impliziert, dass der Arzt ihn für seine Organe töten sollte. Kritiker des Utilitarismus gehen davon aus, dass die Tötung von Chuck durch den Arzt in der Transplantation bessere Konsequenzen nach sich ziehen würde. Diese Annahme kann jedoch angezweifelt werden. Wenn die Krankenhausbehörden und die Öffentlichkeit von diesem Vorfall erfahren würden, käme es zu einem großen Skandal. Die Menschen hätten Angst, zum Arzt zu gehen. Infolgedessen könnten noch mehr Menschen sterben oder schwerwiegende gesundheitliche Probleme erleiden, weil sie von ihren Ärzten nicht diagnostiziert oder behandelt werden. Da die Tötung von Chuck nicht eindeutig zum besten Ergebnis führt und sogar zu einem schrecklichen Ergebnis führen kann, impliziert der Utilitarismus nicht unbedingt, dass der Arzt ihn töten sollte.
 
@@ -34,13 +34,13 @@ Selbst wenn wir stipulieren, dass es sich bei dem Szenario um eine ungewöhnlich
 
 Dies ist eine verallgemeinerbare Verteidigung des Utilitarismus gegen eine breite Palette von vermeintlichen Gegenbeispielen. Solche „Gegenbeispiele“ laden uns ein, uns vorzustellen, dass eine typischerweise katastrophale Handlungsklasse (wie die Tötung eines Unschuldigen) in diesem speziellen Fall zufällig das beste Ergebnis liefert. Aber die Akteure in solchen Fällen haben im Allgemeinen keine gute Grundlage, um das typische Risiko einer Katastrophe zu ignorieren. Daher wäre es für sie ein inakzeptables Risiko, die typischerweise katastrophale Handlung vorzunehmen.[^3] Wir maximieren den Erwartungswert, indem wir derartige Risiken vermeiden.[^4] In der Praxis empfiehlt der Utilitarismus, dass wir von [rechtsverletzenden Verhaltensweisen absehen sollten](https://utilitarianism.net/utilitarianism-and-practical-ethics/#respecting-commonsense-moral-norms).
 
-## **Die Intuition entkräften**
+## Die Intuition entkräften
 
 Eine zweite Strategie für den Umgang mit dem Transplantationsfall besteht darin, die Intuition gegen das Töten von Chuck zu entkräften, indem man zeigt, dass die Intuition unzuverlässig ist. Eine Utilitaristin könnte argumentieren, dass es fast immer falsch ist, einen Mord zu begehen, und dass wir starke charakterliche Dispositionen und soziale Normen gegen Mord kultivieren sollten. Daher kann unsere Intuition gegen die Tötung von Chuck nur daraus resultieren, dass wir uns eine allgemeine moralische Norm gegen Mord zu eigen gemacht haben. Während diese Norm in den allermeisten Fällen richtig ist, kann sie in jenen Ausnahmefällen versagen, in denen die Tötung eines Menschen tatsächlich die besten Konsequenzen nach sich ziehen würde.
 
 Wir könnten uns auch Sorgen machen, dass diese Intuition [eine unzulässige Form der Status quo-Voreingenommenheit](https://utilitarianism.net/arguments-for-utilitarianism#status-quo-bias) widerspiegelt. So schrecklich es für Chuck auch ist, vorzeitig zu sterben, ist es — wenn man darüber nachdenkt — nicht ebenso schrecklich für _jeden_ der fünf potenziellen Begünstigten, vorzeitig zu sterben? Warum fällt es uns in dieser Situation so viel leichter, ihre Interessen zu ignorieren? Was könnte eine solche Vernachlässigung rechtfertigen? Es gibt praktische Gründe dafür, dass die Einführung von Rechten _gegen das Töten_ in der Regel mehr Nutzen bringt als das Recht _auf Rettung des eigenen Lebens_. Der von den Utilitaristen empfohlene „öffentliche Moralkodex“ kann dies widerspiegeln. Aber wenn wir einen konkreten Fall betrachten, gibt es keinen offensichtlichen Grund, warum das eine Recht prinzipiell wichtiger (geschweige denn fünfmal wichtiger) sein sollte als das andere. Wenn wir also den moralischen Ansprüchen der fünf, die sonst sterben würden, mehr Beachtung schenken, kann dies dazu führen, dass unsere ursprüngliche Intuition, wonach es das Wichtigste ist, Chuck nicht zu töten, geschwächt wird.
 
-## **Kritik an den Alternativen**
+## Kritik an den Alternativen
 
 Eine dritte Antwort auf den Transplantationsfall besteht im _Angriff der verfügbaren Alternativen_ zum Utilitarismus, um zu zeigen, dass sie sogar noch kontraintuitivere Implikationen haben.
 
@@ -58,7 +58,7 @@ Ein Einwand gegenüber der Gemäßigten ist, dass ihre Position _nicht kohärent
 
 Das Problem mit dem Absolutismus ist, dass diese Position sogar noch kontraintuitiver ist als der Utilitarismus. Wenn wir die Zahl der Leben, die wir durch die Tötung von Chuck retten könnten, weiter erhöhen — etwa von einer Million auf eine Milliarde und so weiter — wird die Behauptung, dies sei unzulässig, bald absurd. Diese Position erscheint noch absurder, wenn wir Fälle betrachten, die Unsicherheit involvieren. So scheint der Absolutist zu sagen, dass es unzulässig ist, den medizinischen Eingriff an Chuck vorzunehmen, auch wenn die Wahrscheinlichkeit, ihn zu töten, nur sehr gering ist und garantiert Millionen von Leben gerettet werden können.
 
-## **Tolerieren der Intuition**
+## Tolerieren der Intuition
 
 Eine letzte mögliche Antwort von Verfechtern des Utilitarismus ist „in den sauren Apfel zu beißen“ und an der Behauptung festzuhalten, dass wir — in dieser hypothetischen Situation — trotz der gegenteiligen Intuition Chuck töten sollten. Es ist bedauerlich, dass die einzige Möglichkeit, die fünf anderen Menschen zu retten, den Tod von Chuck beinhaltet. Dennoch kann es richtig sein, ihn zu töten, da dies den fünf anderen ermöglicht, weiterzuleben, bedeutungsvolle Erfahrungen zu machen und ihr Leben so zu genießen, wie Chuck sein eigenes genossen hätte. Chucks Tod ist zwar bedauerlich, aber nach dem Gedankenexperiment notwendig, um eine Welt zu schaffen, in der es so viel Wohlergehen wie möglich gibt.
 
@@ -68,17 +68,17 @@ Natürlich ist es wichtig zu betonen, dass es im wirklichen Leben keine Stipulat
 
 [Andere Einwände gegen Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism#specific-objections-against-utilitarianism)
 
-## **Diese Seite zitieren**
+## Diese Seite zitieren
 
 MacAskill, W., Meissner, D. und Chappell, R.Y. (2023). Der Einwand bezüglich der Rechte von Personen. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/objections-to-utilitarianism/rights>, zuletzt aufgerufen am 10/16/2023.
 
-## **Möchtest du die Welt zu einem besseren Ort machen?**
+## Möchtest du die Welt zu einem besseren Ort machen?
 
 Erfahre, wie du Utilitarismus in die Praxis umsetzt:
 
 [Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
 
-## **Ressourcen und weiterführende Lektüre**
+## Ressourcen und weiterführende Lektüre
 
 * Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford: Oxford University Press. Kapitel 4: Objections, Abschnitt „Does utilitarianism tell us to act immorally?“.
 * Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. London: Continuum. Kapitel 8: Is Utilitarianism too Permissive?

@@ -1,0 +1,10 @@
+[menu.acting]
+  other = "Actuar conforme al utilitarismo"
+[link.acting]
+  other = "actuar-conforme-al-utilitarismo"
+[menu.textbook]
+  other = "ES: Learn about Utilitarianism"
+[link.textbook]
+  other = "libro-de-texto"
+[menu.core-articles]
+  other = "ES: Core Articles"
