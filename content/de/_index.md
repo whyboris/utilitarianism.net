@@ -20,12 +20,12 @@ description: "Utilitarianism.net is an open access textbook with guest essays, s
 
 # Was ist Utilitarismus?
 
-_Utilitarismus_ ist nicht eine bestimmte Sichtweise, sondern eine Familie verwandter ethischer Theorien. Gemeinsam ist diesen Theorien ein Fokus auf das Bestreben, durch das Erhöhen des Wohlergehens aller empfindungsfähigen Wesen die besten Konsequenzen für die Welt herbeizuführen. Der Utilitarismus vertritt die Auffassung, dass wir das Wohlergehen aller Individuen unabhängig von Merkmalen wie Geschlecht, Ethnie, Nationalität oder sogar [Spezies](https://utilitarianism.net/guest-essays/utilitarianism-and-nonhuman-animals#the-moral-status-of-animals) gleichermaßen moralisch berücksichtigen sollten.[^1]
+_Utilitarismus_ ist nicht eine bestimmte Sichtweise, sondern eine Familie verwandter ethischer Theorien. Gemeinsam ist diesen Theorien ein Fokus auf das Bestreben, durch das Erhöhen des Wohlergehens aller empfindungsfähigen Wesen die besten Konsequenzen für die Welt herbeizuführen. Der Utilitarismus vertritt die Auffassung, dass wir das Wohlergehen aller Individuen unabhängig von Merkmalen wie Geschlecht, Ethnie, Nationalität oder sogar [Spezies](/guest-essays/utilitarianism-and-nonhuman-animals#the-moral-status-of-animals) gleichermaßen moralisch berücksichtigen sollten.[^1]
 
-Die ursprüngliche und einflussreichste Version des Utilitarismus ist der _klassische Utilitarismus_, der erstmals in den Schriften von [Jeremy Bentham](https://utilitarianism.net/utilitarian-thinker/jeremy-bentham) und [John Stuart Mill](https://utilitarianism.net/utilitarian-thinker/john-stuart-mill) formuliert wurde. Der klassische Utilitarismus geht davon aus, dass ein gutes Leben auf den subjektiven bewussten Erfahrungen von Individuen beruht. Ein gutes Leben ist voller positiver bewusster Erfahrungen wie Vergnügen, Glück und Zufriedenheit, während ein schlechtes Leben viele negative bewusste Erfahrungen wie Leiden und Schmerz enthält. Der klassische Utilitarismus besagt, dass wir so handeln sollten, dass die Welt die größte Summe an positiven minus negativen Erfahrungen enthält.
+Die ursprüngliche und einflussreichste Version des Utilitarismus ist der _klassische Utilitarismus_, der erstmals in den Schriften von [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham) und [John Stuart Mill](/utilitarian-thinker/john-stuart-mill) formuliert wurde. Der klassische Utilitarismus geht davon aus, dass ein gutes Leben auf den subjektiven bewussten Erfahrungen von Individuen beruht. Ein gutes Leben ist voller positiver bewusster Erfahrungen wie Vergnügen, Glück und Zufriedenheit, während ein schlechtes Leben viele negative bewusste Erfahrungen wie Leiden und Schmerz enthält. Der klassische Utilitarismus besagt, dass wir so handeln sollten, dass die Welt die größte Summe an positiven minus negativen Erfahrungen enthält.
 
 <center>
-{{< small-button url="introduction-to-utilitarianism" text="Mehr erfahren: Einführung in den Utilitarismus" >}}
+{{< small-button url="einfuhrung-in-den-utilitarismus" text="Mehr erfahren: Einführung in den Utilitarismus" >}}
 </center>
 
 </div>
@@ -60,12 +60,12 @@ Der Utilitarismus hat wichtige Implikationen dafür, wie wir über ein ethisches
 
 In der heutigen Welt gibt es viele dringende Probleme. Da unsere Ressourcen knapp sind, können wir leider nicht alle Probleme der Welt auf einmal lösen. Außerdem sind nicht alle Möglichkeiten, anderen zu helfen, gleich effektiv. Dem Utilitarismus zufolge sollten wir sorgfältig auswählen, welche Probleme wir mit welchen Mitteln angehen wollen, und zwar auf der Grundlage der Frage, wie wir die Leben aller Individuen am besten verbessern können. Dazu gehört, dass wir die Frage ernst nehmen, wie wir unsere Zeit und unser Geld am besten einsetzen können, um anderen zu helfen.
 
-Einige moralische Projekte erscheinen unter utilitaristischen Gesichtspunkten besonders dringlich, wie die [Bekämpfung extremer Armut](https://utilitarianism.net/acting-on-utilitarianism#global-health-and-development), [die Verringerung des Leidens von Tieren in der Massentierhaltung](https://utilitarianism.net/acting-on-utilitarianism#farm-animal-welfare) und insbesondere die [Sicherstellung einer möglichst guten langfristigen Zukunft](https://utilitarianism.net/acting-on-utilitarianism#existential-risk-reduction). Die Personen, die in der Zukunft leben werden, sind weitaus zahlreicher als die, die heute leben. Wir können möglicherweise Maßnahmen ergreifen, die ihr Wohlergehen beeinflussen. Daher ist es ein zentrales Anliegen von Utilitaristen, das Wohlergehen nicht nur der heutigen, sondern aller künftigen Generationen zu fördern.
+Einige moralische Projekte erscheinen unter utilitaristischen Gesichtspunkten besonders dringlich, wie die [Bekämpfung extremer Armut](/acting-on-utilitarianism#global-health-and-development), [die Verringerung des Leidens von Tieren in der Massentierhaltung](/acting-on-utilitarianism#farm-animal-welfare) und insbesondere die [Sicherstellung einer möglichst guten langfristigen Zukunft](/acting-on-utilitarianism#existential-risk-reduction). Die Personen, die in der Zukunft leben werden, sind weitaus zahlreicher als die, die heute leben. Wir können möglicherweise Maßnahmen ergreifen, die ihr Wohlergehen beeinflussen. Daher ist es ein zentrales Anliegen von Utilitaristen, das Wohlergehen nicht nur der heutigen, sondern aller künftigen Generationen zu fördern.
 
-Die Lösung dieser Probleme kann darin bestehen, dass man [großzügig an wirksame Hilfsorganisationen spendet](https://utilitarianism.net/acting-on-utilitarianism#charitable-giving), [seine berufliche Laufbahn danach auswählt, wie man anderen am besten helfen kann](https://utilitarianism.net/acting-on-utilitarianism#career-choice) und [indem man andere Menschen dazu ermutigt, das Gleiche zu tun](https://utilitarianism.net/acting-on-utilitarianism#outreach).
+Die Lösung dieser Probleme kann darin bestehen, dass man [großzügig an wirksame Hilfsorganisationen spendet](/acting-on-utilitarianism#charitable-giving), [seine berufliche Laufbahn danach auswählt, wie man anderen am besten helfen kann](/acting-on-utilitarianism#career-choice) und [indem man andere Menschen dazu ermutigt, das Gleiche zu tun](/acting-on-utilitarianism#outreach).
 
 <center>
-{{< small-button url="acting-on-utilitarianism" text="Mehr erfahren: Utilitarismus als Handlungsgrundlage" >}}
+{{< small-button url="utilitarismus-als-handlungsgrundlage" text="Mehr erfahren: Utilitarismus als Handlungsgrundlage" >}}
 </center>
 
 <br>
@@ -100,9 +100,9 @@ Die Lösung dieser Probleme kann darin bestehen, dass man [großzügig an wirksa
 
 Diese Website wurde von [Richard Yetter Chappell](http://yetterchappell.net/Richard/), [Darius Meissner](https://www.linkedin.com/in/darius-meissner/) und [William MacAskill](http://www.williammacaskill.com/) verfasst. Richard Yetter Chappell ist Associate Professor für Philosophie an der Universität von Miami und hat an der Universität Princeton promoviert. Darius Meissner hat einen Abschluss in Philosophie, Politik und Wirtschaft von der Universität Oxford und absolviert derzeit ein Graduiertenstudium an der Universität Georgetown. William ist Associate Professor für Philosophie und Senior Research Fellow am Global Priorities Institute an der Universität Oxford.
 
-Wir sind stolz darauf, dass wir [lobende Worte](https://utilitarianism.net/about#endorsements) von prominenten Wissenschaftlerinnen und Wissenschaftlern von unter anderem den Universitäten Harvard, Princeton und New York erhalten haben.
+Wir sind stolz darauf, dass wir [lobende Worte](/about#endorsements) von prominenten Wissenschaftlerinnen und Wissenschaftlern von unter anderem den Universitäten Harvard, Princeton und New York erhalten haben.
 
-[Hier](https://utilitarianism.net/about) ist mehr über uns zu lesen.
+[Hier](/about) ist mehr über uns zu lesen.
 
 </div>
 
