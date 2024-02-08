@@ -12,3 +12,7 @@
   other = "ES: This website was co-created by William MacAskill, Associate Professor of Philosophy at the University of Oxford"
 [site.url-readable]
   other = "Utilitarianismo.net"
+[menu.about]
+  other = "About Us"
+[link.about]
+  other = "about"

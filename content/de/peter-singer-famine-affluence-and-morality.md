@@ -1,5 +1,6 @@
 ---
 title: "Studienführer: Peter Singers „Hunger, Wohlstand und Moral“"
+slug: "peter-singer-hunger-wohlstand-und-moral"
 book: "Studienführer: Peter Singers „Hunger, Wohlstand und Moral“"
 menuTitle: "Famine, Affluence, and Morality"
 date: 2023-01-29
