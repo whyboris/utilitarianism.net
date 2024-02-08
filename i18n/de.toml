@@ -8,3 +8,7 @@
   other = "lehrbuch"
 [menu.core-articles]
   other = "DE: Core Articles"
+[site.footer]
+  other = "DE: This website was co-created by William MacAskill, Associate Professor of Philosophy at the University of Oxford"
+[site.url-readable]
+  other = "Utilitarianismus.net"
