@@ -1,5 +1,6 @@
 ---
 title: "Study Guide: Peter Singer's 'Famine, Affluence, and Morality'"
+slug: "peter-singer-famine-affluence-and-morality"
 book: "Study Guide: Peter Singer's 'Famine, Affluence, and Morality'"
 menuTitle: "Famine, Affluence, and Morality"
 date: 2023-01-29
@@ -199,7 +200,7 @@ Good luck! And remember to cite your sources.
     P3\*: We can work in an impactful job without significant uncompensated sacrifice.
 
     P4\*: If it is in our power to prevent something very bad from happening, without significant uncompensated sacrifice, we ought, morally, to do it.
-    
+
     Therefore,
 
     C\*: We ought, morally, to work in an impactful job rather than spend our time on a career that does not help others.

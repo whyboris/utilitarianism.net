@@ -24,6 +24,8 @@
         {{ end }}
       </ol>
 
+      {{ if not (eq .Site.Language.Lang "de") }}
+
       <span class="footer-heading large-gap">Study Guides</span>
 
       <a href="/peter-singer-famine-affluence-and-morality"
@@ -34,17 +36,28 @@
         >Utilitarianism: Simply Explained</a
       >
 
+      {{ end }}
+
     </div>
 
     <div class="temp-navigation-hack">
-      <span class="footer-heading">Other Content</span>
+      <span class="footer-heading">{{ i18n "menu.other-content" }}</span>
 
       <a href="/{{ i18n "link.acting" }}">{{ i18n "menu.acting" }}</a>
+
+      {{ if not (eq .Site.Language.Lang "de") }}
+
       <a href="/utilitarian-quotes">Utilitarian Quotes</a>
       <a href="/utilitarian-thinkers">Utilitarian Thinkers</a>
       <a href="/glossary">Utilitarian Glossary</a>
       <a href="/books">Utilitarian Books</a>
       <a href="/about">About Us</a>
+
+      {{ else }}
+
+      <a href="/peter-singer-hunger-wohlstand-und-moral">Studienführer: Peter Singers „Hunger, Wohlstand und Moral“</a>
+
+      {{ end }}
 
       {{ if .Site.Menus.guest }}
 
@@ -73,10 +86,9 @@
       />
     </div>
     <div class="disclaimer-text">
-      &copy; Utilitarianism.net
+      &copy; {{ i18n "site.url-readable" }}
       <br />
-      This website was co-created by William MacAskill, Associate Professor of
-      Philosophy at the University of Oxford
+      {{ i18n "site.footer" }}
     </div>
   </div>
 </footer>

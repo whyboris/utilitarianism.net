@@ -1,33 +1,12 @@
 <div class="site-navigation-header sub-header">
   <div class="header-navigation-item">
-    <a href="/about">About Us</a>
+    <a href="/{{ i18n "link.about" }}">{{ i18n "menu.about" }}</a>
   </div>
 
-  <div class="dropdown header-navigation-item">
-    <a href="/utilitarian-thinkers"> Utilitarian Thinkers </a>
+  {{ if not (eq .Site.Language.Lang "de") }}
 
-    {{ if false }}
-      <div class="table-of-contents dropdown-content">
-        {{ if .Site.Menus.thinker }}
-
-          <ul>
-            {{ range .Site.Menus.thinker }}
-
-              <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
-                <li>
-                  <div class="title">
-                    {{ .Name }}
-                  </div>
-                </li>
-              </a>
-            {{ end }}
-
-          </ul>
-        {{ end }}
-
-      </div>
-    {{ end }}
-
+  <div class="header-navigation-item">
+    <a href="/utilitarian-thinkers">Utilitarian Thinkers</a>
   </div>
 
   <div class="header-navigation-item">
@@ -38,38 +17,8 @@
     <a href="/glossary">Glossary</a>
   </div>
 
-  <div class="dropdown header-navigation-item">
+  <div class="header-navigation-item">
     <a href="/books">Books</a>
-
-    {{ if false }}
-      <!-- <div class="table-of-contents dropdown-content">
-        {{ if .Site.Menus.book }}
-
-          <ul>
-            {{ range .Site.Menus.book }}
-
-              <a class="" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
-                <li>
-                  {{ with .Page }}
-                    <div class="title">
-                      {{ .Params.book }}
-                    </div>
-
-                    <span class="author">
-                      {{ .Params.author }}
-                    </span>
-                    <span class="year"> ({{ .Params.year }}) </span>
-                  {{ end }}
-                </li>
-              </a>
-            {{ end }}
-
-          </ul>
-        {{ end }}
-
-      </div> -->
-    {{ end }}
-
   </div>
 
   <div class="dropdown header-navigation-item">
@@ -94,4 +43,13 @@
 
     </div>
   </div>
+
+  {{ else }}
+
+  <div class="header-navigation-item">
+    <a href="/peter-singer-hunger-wohlstand-und-moral">Studienführer: Peter Singers „Hunger, Wohlstand und Moral“</a>
+  </div>
+
+  {{ end }}
+
 </div>

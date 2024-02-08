@@ -9,12 +9,15 @@
     {{ end }}
   </ol>
 
-  <span>Other Content</span>
+  <span>{{ i18n "menu.other-content" }}</span>
 
   <ul>
     <li>
-      <a href="/acting-on-utilitarianism">Acting on Utilitarianism</a>
+      <a href="/{{ i18n "link.acting" }}">{{ i18n "menu.acting" }}</a>
     </li>
+
+    {{ if not (eq .Site.Language.Lang "de") }}
+
     <li>
       <a href="/guest-essays">Guest Essays</a>
     </li>
@@ -30,5 +33,14 @@
     <li>
       <a href="/books">Utilitarian Books</a>
     </li>
+
+    {{ else }}
+
+    <li>
+      <a href="/peter-singer-hunger-wohlstand-und-moral">Studienführer: Peter Singers „Hunger, Wohlstand und Moral“</a>
+    </li>
+
+    {{ end }}
+
   </ul>
 </div>
