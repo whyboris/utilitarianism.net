@@ -1,5 +1,6 @@
 ---
 title: "About Us"
+slug: "about"
 date: 2023-01-29
 draft: false
 weight: 1
