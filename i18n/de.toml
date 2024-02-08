@@ -7,12 +7,14 @@
 [link.textbook]
   other = "lehrbuch"
 [menu.core-articles]
-  other = "DE: Core Articles"
+  other = "Kernartikel"
 [site.footer]
-  other = "DE: This website was co-created by William MacAskill, Associate Professor of Philosophy at the University of Oxford"
+  other = "Diese Website wurde von William MacAskill, außerordentlicher Professor für Philosophie an der Universität Oxford, mitgestaltet"
 [site.url-readable]
   other = "Utilitarianismus.net"
 [menu.about]
   other = "Über Uns"
 [link.about]
   other = "uber-uns"
+[menu.other-content]
+  other = "Andere Inhalte"

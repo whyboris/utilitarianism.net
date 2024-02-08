@@ -16,3 +16,5 @@
   other = "About Us"
 [link.about]
   other = "about"
+[menu.other-content]
+  other = "ES: Other Content"

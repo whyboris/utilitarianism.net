@@ -45,7 +45,7 @@ Diese Webseite soll eine prägnante, verständliche und ansprechende Einführung
      author="Prof. Philip Pettit, Princeton / ANU" >}}
 
 <center>
-{{< small-button url="about#endorsements" text="Siehe akademische Befürwortungen" inverted=true >}}
+{{< small-button url="uber-uns#endorsements" text="Siehe akademische Befürwortungen" inverted=true >}}
 </center>
 
 </div>
@@ -93,9 +93,9 @@ Die Lösung dieser Probleme kann darin bestehen, dass man [großzügig an wirksa
 
 Diese Website wurde von [Richard Yetter Chappell](http://yetterchappell.net/Richard/), [Darius Meissner](https://www.linkedin.com/in/darius-meissner/) und [William MacAskill](http://www.williammacaskill.com/) verfasst. Richard Yetter Chappell ist Associate Professor für Philosophie an der Universität von Miami und hat an der Universität Princeton promoviert. Darius Meissner hat einen Abschluss in Philosophie, Politik und Wirtschaft von der Universität Oxford und absolviert derzeit ein Graduiertenstudium an der Universität Georgetown. William ist Associate Professor für Philosophie und Senior Research Fellow am Global Priorities Institute an der Universität Oxford.
 
-Wir sind stolz darauf, dass wir [lobende Worte](/about#endorsements) von prominenten Wissenschaftlerinnen und Wissenschaftlern von unter anderem den Universitäten Harvard, Princeton und New York erhalten haben.
+Wir sind stolz darauf, dass wir [lobende Worte](/uber-uns#endorsements) von prominenten Wissenschaftlerinnen und Wissenschaftlern von unter anderem den Universitäten Harvard, Princeton und New York erhalten haben.
 
-[Hier](/about) ist mehr über uns zu lesen.
+[Hier](/uber-uns) ist mehr über uns zu lesen.
 
 </div>
 
