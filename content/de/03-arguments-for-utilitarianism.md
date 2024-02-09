@@ -131,17 +131,15 @@ Wie überzeugend man die Argumente für den Utilitarismus auch finden mag, ein e
 
 Das nächste Kapitel befasst sich mit Theorien über Wohlergehen, das heißt mit der Frage, was für den Einzelnen als gut zählt.
 
-[Nächstes Kapitel: Theorien über Wohlergehen](https://utilitarianism.net/theories-of-wellbeing)
+{{< next-page-textbook >}}
 
-## Diese Seite zitieren
+---
 
-Chappell, R.Y. und Meissner, D. (2023). Argumente für Utilitarismus. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/arguments-for-utilitarianism>, zuletzt aufgerufen am 5/31/2023.
+{{< how-to-cite >}}
 
-## Möchtest du die Welt zu einem besseren Ort machen?
+{{< button >}}
 
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+---
 
 ## Ressourcen und weiterführende Lektüre
 

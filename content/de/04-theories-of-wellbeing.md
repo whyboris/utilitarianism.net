@@ -171,17 +171,15 @@ Die konkurrierenden Theorien von Wohlergehen stimmen in der Praxis größtenteil
 
 Das nächste Kapitel befasst sich mit _Populationsethik_ und damit mit der Frage, wie Ergebnisse zu bewerten sind, in denen unterschiedlich viele Menschen existieren.
 
-[Nächstes Kapitel: Populationsethik](https://utilitarianism.net/population-ethics)
+{{< next-page-textbook >}}
 
-## Diese Seite zitieren
+---
 
-Chappell, R.Y. und Meissner, D. (2023). Theorien über Wohlergehen. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_  &lt;https://www.utilitarianism.net/theories-of-wellbeing>, zuletzt aufgerufen am  6/10/2023.
+{{< how-to-cite >}}
 
-## Möchtest du die Welt zu einem besseren Ort machen?
+{{< button >}}
 
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+---
 
 ## Ressourcen und weiterführende Lektüre
 

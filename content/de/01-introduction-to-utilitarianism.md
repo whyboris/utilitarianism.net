@@ -83,7 +83,7 @@ Utilitaristische Ethik hat eine jahrhundertelange intellektuelle Tradition, in d
 
 Im nächsten Kapitel werden die vier Elemente utilitaristischer Theorien eingehender erörtert und verschiedene Varianten des Utilitarismus vorgestellt.
 
-{{< next-page-textbook title="Elements and Types of Utilitarianism" url="/types-of-utilitarianism" >}}
+{{< next-page-textbook >}}
 
 ---
 

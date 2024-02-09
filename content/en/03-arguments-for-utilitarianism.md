@@ -134,9 +134,13 @@ The next chapter discusses theories of well-being, or what counts as being good 
 
 {{< next-page-textbook >}}
 
+---
+
 {{< how-to-cite >}}
 
 {{< button >}}
+
+---
 
 ## Resources and Further Reading
 

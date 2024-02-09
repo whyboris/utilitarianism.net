@@ -170,9 +170,13 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 
 {{< next-page-textbook >}}
 
+---
+
 {{< how-to-cite >}}
 
 {{< button >}}
+
+---
 
 ## Resources and Further Reading
 

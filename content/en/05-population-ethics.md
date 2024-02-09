@@ -260,9 +260,13 @@ The next chapter discusses the most important implications of utilitarianism for
 
 {{< next-page-textbook >}}
 
+---
+
 {{< how-to-cite >}}
 
 {{< button >}}
+
+---
 
 ## Resources and Further Reading
 

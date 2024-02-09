@@ -120,17 +120,15 @@ Aber das ist ein ziemlich enges Spektrum von Ansichten. Im Gegensatz dazu ist es
 
 Im nächsten Kapitel werden einige der wichtigsten Einwände gegen den Utilitarismus und Antworten auf diese Einwände erörtert.
 
-[Nächstes Kapitel: Einwände gegen Utilitarismus und Antworten darauf](https://utilitarianism.net/objections-to-utilitarianism)
+{{< next-page-textbook objections="true" >}}
 
-## Diese Seite zitieren
+---
 
-Chappell, R.Y. und Meissner, D. (2023). Utilitarismus-nahe Alternativen. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/near-utilitarian-alternatives>, zuletzt aufgerufen am 7/24/2023.
+{{< how-to-cite >}}
 
-## Möchtest du die Welt zu einem besseren Ort machen?
+{{< button >}}
 
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+---
 
 ## Ressourcen und weiterführende Lektüre
 

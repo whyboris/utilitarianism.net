@@ -231,9 +231,13 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 
 {{< next-page-textbook >}}
 
+---
+
 {{< how-to-cite >}}
 
 {{< button >}}
+
+---
 
 ## Resources and Further Reading
 

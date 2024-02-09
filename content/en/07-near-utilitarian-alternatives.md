@@ -123,9 +123,13 @@ The next chapter discusses several of the most important objections to utilitari
 
 {{< next-page-textbook objections="true" >}}
 
+---
+
 {{< how-to-cite >}}
 
 {{< button >}}
+
+---
 
 ## Resources and Further Reading
 

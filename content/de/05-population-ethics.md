@@ -252,17 +252,15 @@ Die wichtigsten praktischen Implikationen der Populationsethik betreffen die Fra
 
 Im nächsten Kapitel werden die wichtigsten Implikationen des Utilitarismus für die Frage, wie wir über ein ethisches Leben nachdenken sollten, erörtert.
 
-[Nächstes Kapitel: Utilitarismus und praktische Ethik](https://utilitarianism.net/utilitarianism-and-practical-ethics)
+{{< next-page-textbook >}}
 
-## Diese Seite zitieren
+---
 
-Chappell, R.Y., Meissner, D. und MacAskill, W. (2023). Populationsethik. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/population-ethics>, zuletzt aufgerufen am 7/7/2023.
+{{< how-to-cite >}}
 
-## Möchtest du die Welt zu einem besseren Ort machen?
+{{< button >}}
 
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+---
 
 ## Ressourcen und weiterführende Lektüre
 

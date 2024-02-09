@@ -229,17 +229,15 @@ Es gibt eine Reihe weiterer Unterscheidungen zwischen utilitaristischen Theorien
 
 Im nächsten Kapitel werden Argumente für Utilitarismus und Konsequentialismus im weiteren Sinne erörtert.
 
-[Nächstes Kapitel: Argumente für Utilitarismus](https://utilitarianism.net/arguments-for-utilitarianism)
+{{< next-page-textbook >}}
 
-## Diese Seite zitieren
+---
 
-MacAskill, W., Meissner, D. und Chappell, R.Y. (2023). Elemente und Arten des Utilitarismus. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/types-of-utilitarianism>, zuletzt aufgerufen am 5/24/2023.
+{{< how-to-cite >}}
 
-## Möchtest du die Welt zu einem besseren Ort machen?
+{{< button >}}
 
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+---
 
 ## Ressourcen und weiterführende Lektüre
 

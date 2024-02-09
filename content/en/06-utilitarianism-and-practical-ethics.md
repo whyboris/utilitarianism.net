@@ -143,9 +143,13 @@ The next chapter discusses important rival theories that may overlap significant
 
 {{< next-page-textbook >}}
 
+---
+
 {{< how-to-cite >}}
 
 {{< button >}}
+
+---
 
 ## Resources and Further Reading
 

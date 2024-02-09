@@ -144,17 +144,15 @@ Obwohl Utilitaristen versuchen sollten, mit ihrem Leben so viel Gutes wie mögli
 
 Im nächsten Kapitel werden wichtige konkurrierende Theorien, die sich in der Praxis erheblich mit dem Utilitarismus überschneiden können, erörtert.
 
-[Nächstes Kapitel: Utilitarismus-nahe Alternativen](https://utilitarianism.net/near-utilitarian-alternatives)
+{{< next-page-textbook >}}
 
-## Diese Seite zitieren
+---
 
-MacAskill, W. , Meissner, D. und Chappell, R.Y. (2023). Utilitarismus und Praktische Ethik. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/utilitarianism-and-practical-ethics>, zuletzt aufgerufen am 7/19/2023.
+{{< how-to-cite >}}
 
-## Möchtest du die Welt zu einem besseren Ort machen?
+{{< button >}}
 
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+---
 
 ## Ressourcen und weiterführende Lektüre
 
