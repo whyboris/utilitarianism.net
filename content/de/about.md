@@ -9,28 +9,28 @@ hidepdf: true
 
 ## Unser Ziel
 
-Diese Website dient als Lehrbucheinführung in den Utilitarismus für Studenten. Es bietet eine prägnante, leicht zugängliche und ansprechende Einführung in den modernen Utilitarismus. Der Inhalt dieser Website soll für ein breites Publikum verständlich sein, wobei philosophischer Fachjargon nach Möglichkeit vermieden und bei Bedarf Definitionen bereitgestellt werden.
+Dieses Online-Lehrbuch bietet eine Einführung in den Utilitarismus für Studierende im Grundstudium. Es liefert eine prägnante, verständliche und ansprechende Einführung in den modernen Utilitarismus. Der Inhalt dieser Website soll für eine breite Leserschaft verständlich sein. Daher wird philosophischer Fachjargon soweit möglich vermieden und Definitionen werden wo nötig gegeben.
 
 ## Wer wir sind
 
-Diese Website wurde in Zusammenarbeit von [Richard Yetter Chappell](http://yetterchappell.net/Richard/), [Darius Meissner](https://www.linkedin.com/in/darius-meissner/) und [William MacAskill](http://www.williammacaskill.com/) verfasst.
+Diese Texte auf dieser Website wurden in Zusammenarbeit von [Richard Yetter Chappell](http://yetterchappell.net/Richard/), [Darius Meissner](https://www.linkedin.com/in/darius-meissner/) und [William MacAskill](http://www.williammacaskill.com/) geschrieben.
 
-- Richard ist außerordentlicher Professor für Philosophie an der University of Miami. Er ist der Autor von _[Parfits Ethik](https://doi.org/10.1017/9781108582377) _ und promovierte 2012 an der Princeton University. Richard schreibt außerdem _[Gute Gedanken](https://rychappell.substack.com/) _, einen Newsletter über Konsequentialismus in Theorie und Praxis , dem Sie folgen können, um Updates über utilitarism.net (und verwandte Themen) zu erhalten.
-- Darius hat einen Abschluss in Philosophie, Politik und Wirtschaft von der Universität Oxford und studiert derzeit an der Georgetown University.
-- William ist außerordentlicher Professor für Philosophie und Senior Research Fellow am [Institut für globale Prioritäten](https://globalprioritiesinstitute.org/) der Universität Oxford. Er ist der Autor von _[Gutes besser machen: Effektiver Altruismus und eine radikal neue Art, etwas zu bewirken](http://www.williammacaskill.com/book)_ und _[Was wir der Zukunft schulden](https://whatweowethefuture.com/)_.
+- Richard ist Associate Professor für Philosophie an der University of Miami. Er ist Autor von _[Parfits Ethik](https://doi.org/10.1017/9781108582377)_. 2012 erhielt er sein Doktorat an der Princeton University. Richard schreibt einen regelmäßigen Newsletter, _[Good Thoughts](https://rychappell.substack.com/)_, über Konsequentialismus in Theorie und Praxis. Leserinnen und Leser sind eingeladen, diesem zu folgen, um Updates zu utilitarianism.net (und verwandten Themen) zu erhalten.
+- Darius ist auf die Regulierung neuer Technologien spezialisiert und arbeitet in Washington, D.C. Er hat einen Master-Abschluss in Sicherheitsstudien von der Georgetown University und einen Bachelor-Abschluss in Philosophie, Politik und Wirtschaft von der University of Oxford.
+- William ist Associate Professor für Philosophie und Senior Research Fellow am [Global Priorities Institute](https://globalprioritiesinstitute.org/) an der University of Oxford. Er ist Autor der Bücher _[Doing Good Better](http://www.williammacaskill.com/book)_ (deutscher Titel: Gutes besser tun: Wie wir mit effektivem Altruismus die Welt verändern können) und _[What We Owe The Future](https://whatweowethefuture.com/)_.(deutscher Titel: [Was wir der Zukunft schulden](https://www.penguin.de/Buch/Was-wir-der-Zukunft-schulden/William-MacAskill/Siedler/e616596.rhd)).
 
-Vielen Dank an Boris Yakubchik – und zuvor James Aung – für die Gestaltung und Verwaltung der Website.
+Wir danken Boris Yakubchik — und seinem Vorgänger James Aung — für das Design und Management der Website.
 
-Diese Website hat von Bewertungen und Vorschlägen von zu vielen Personen profitiert, um sie alle auflisten zu können, aber wir sind ihnen allen dankbar. Besondere Erwähnung gebührt Bella Forristal, Tomi Francis, Georgiana Gilgallon, Lucy Hampton, Stefan Schubert und Pablo Stafforini für ihre vielen ausführlichen Kommentare.
+Diese Website hat von der kritischen Überprüfung und von den Vorschlägen zu vieler Menschen profitiert, als sie allesamt hier zu nennen. Besonders erwähnen möchten wir Bella Forristal, Tomi Francis, Georgiana Gilgallon, Lucy Hampton, Stefan Schubert und Pablo Stafforini für ihre vielen detaillierten Kommentare.
 
-Sie können mit uns unter contact[at]utilitarianism.net in Kontakt treten
+Kontakt mit uns kann über die folgende E-Mail-Adresse aufgenommen werden: contact[at]utilitarianism.net
 
 ## Vermerke
 
 {{< endorsement
      link="https://www.appiah.net/" image="/img/about/Kwame-Anthony-Appiah.jpg" text="Kwame Anthony Appiah" >}}
 
-„Ich werde meine Schüler auf jeden Fall auf diese sehr nützliche Ressource verweisen. Die Begeisterung für den Utilitarismus unter Moralphilosophen hat abgenommen, seit die moderne Version davon im 19. Jahrhundert dargelegt wurde; Aber die Bedeutung der utilitaristischen Tradition für die Bereitstellung ausgefeilter, gut entwickelter allgemeiner Theorien zum Nachdenken darüber, wie wir uns verhalten sollten, war schon immer klar. Diese Website bietet anschauliche Einführungen in die wichtigsten Beiträge und Herausforderungen des heutigen utilitaristischen Denkens.“
+„Ich werde meine Studierenden definitiv auf diese ausgesprochen nützliche Ressource verweisen. Seit die moderne Version des Utilitarismus im 19. Jahrhundert erarbeitet worden ist, war der Enthusiasmus für ihn unter Moralphilosophen mal größer, mal kleiner; die Wichtigkeit der utilitaristischen Tradition für die Bereitstellung ausgearbeiteter, allgemeiner Theorien darüber, was wir tun sollten, war dabei seit jeher klar. Diese Website bietet eine übersichtliche Einführung zu den wichtigen Beiträgen des Utilitarismus und den Herausforderungen, vor denen er heute steht.“
 
 {{< prof
      name="Kwame Anthony Appiah" link="https://www.appiah.net/" uni="New York University" >}}
@@ -38,7 +38,7 @@ Sie können mit uns unter contact[at]utilitarianism.net in Kontakt treten
 {{< endorsement
      link="https://www.joshua-greene.net/" image="/img/about/Joshue-Greene.jpg" text="Joshua Greene" >}}
 
-„Utilitarianism.net ist das Online-Gesicht des Utilitarismus und ein Portal in ein Reich weltverändernder Ideen. Das utilitaristische Denken hat den menschlichen Fortschritt über Jahrhunderte vorangebracht, und dennoch wird diese Philosophie weitgehend missverstanden. Utilitarianism.net ist nicht nur die einladendste und aufschlussreichste Ressource zum Thema Utilitarismus für Studenten. Seine aktualisierten historischen Einträge, strengen dialektischen Erklärungen und Anwendungen auf reale Probleme machen es auch für erfahrene Wissenschaftler zu einer fantastischen Ressource.“
+„Utilitarianism.net ist das Online-Gesicht des Utilitarismus und ein Portal zu einem Gefilde voller weltverändernder Ideen. Die utilitaristische Denkschule hat den menschlichen Fortschritt seit Jahrhunderten vorangetrieben. Dennoch wird diese Philosophie weithin missverstanden. Utilitarianism.net ist nicht nur die einladendste und aufschlussreichste Quelle zum Thema Utilitarismus für Studierende; seine aktualisierten historischen Einträge, rigorosen dialektischen Erklärungen und Anwendungen auf reale Probleme machen die Website auch für erfahrene Wissenschaftler zu einer fantastischen Ressource.“
 
 {{< prof
      name="Joshua Greene" link="https://www.joshua-greene.net/" uni="Harvard University" >}}
@@ -46,7 +46,7 @@ Sie können mit uns unter contact[at]utilitarianism.net in Kontakt treten
 {{< endorsement
      link="https://en.wikipedia.org/wiki/Katarzyna_de_Lazari-Radek" image="/img/about/Katarzyna-de-Lazari-Radek.jpg" credit="Bartosz Kałużny" text="Katarzyna de Lazari-Radek" >}}
 
-„Der Erwerb von Wissen war noch nie so einfach wie im Zeitalter des weit verbreiteten Internetzugangs. Utilitarism.net ist das Ergebnis der Arbeit und des Engagements vieler großer Philosophen aus der ganzen Welt. Es ist ein Projekt, das Ihnen hilft, eine der wichtigsten und interessantesten ethischen Theorien auf verständliche, aber nicht zu vereinfachte Weise zu verstehen.“
+„Noch nie war es so einfach, sich Wissen anzueignen wie in der Ära des weit verbreiteten Internetzugangs. Utilitarianism.net ist das Ergebnis der Arbeit und des Engagements vieler großer Philosophen aus aller Welt. Es ist ein Projekt, das hilft, eine der wichtigsten und interessantesten ethischen Theorien auf zugängliche, aber nicht vereinfachte Weise zu verstehen.“
 
 {{< prof
      name="Katarzyna de Lazari-Radek" link="https://en.wikipedia.org/wiki/Katarzyna_de_Lazari-Radek" uni="University of Łódź" >}}
@@ -54,7 +54,7 @@ Sie können mit uns unter contact[at]utilitarianism.net in Kontakt treten
 {{< endorsement
      link="https://www.princeton.edu/~ppettit/" image="/img/about/Philip-Pettit.jpg" text="Philip Pettit" >}}
 
-„Dies ist die perfekte Einführung in den Utilitarismus: umfassend, kritisch und zugänglich als Grundlage für Diskussionen im Klassenzimmer oder öffentliche Debatten.“
+„Dies ist die perfekte Einführung in den Utilitarismus: umfassend, kritisch und geeignet als Grundlage für Diskussionen im Seminarraum und für den öffentlichen Diskurs.“
 
 {{< prof
      name="Philip Pettit" link="https://www.princeton.edu/~ppettit/" uni="Princeton University / Australian National University" >}}
@@ -64,23 +64,23 @@ Sie können mit uns unter contact[at]utilitarianism.net in Kontakt treten
 {{< endorsement
      link="https://petersinger.info/" image="/img/about/Peter-Singer-photo-credit-Alletta-Vaandering.jpg" credit="Alletta Vaandering" text="Peter Singer" >}}
 
-„Utilitarianism.net ist die richtige Anlaufstelle für klare, vollständige und faire Darstellungen darüber, was Utilitarismus ist, die Argumente dafür, die wichtigsten Einwände dagegen, spezielle Themen wie Bevölkerungsethik und was das Leben als Utilitarismus beinhaltet.“ Sie werden auch Denker entdecken, von denen Sie noch nie etwas wussten, wie die frühe Utilitaristin Susanna Newcome. Ich empfehle es allen meinen Studierenden, die sich für normative Ethik interessieren.“
+„Utilitarianism.net ist die beste Anlaufstelle für klare, vollständige und faire Darstellungen dessen, was der Utilitarismus ist, die Argumente für ihn, die wichtigsten Einwände gegen ihn, spezielle Themen wie die Populationsethik und was es heißt, sein Leben als Utilitaristin zu führen. Als Leserinnen und Leser werden Sie auch Denker entdecken, die ihnen unbekannt waren, wie die frühe Utilitaristin Susanna Newcome. Ich empfehle utilitarianism.net all meinen an normativer Ethik interessierten Studierenden.“
 
 {{< prof
      name="Peter Singer" link="https://petersinger.info/" uni="Princeton University" >}}
 
 ---
 
-Diese Website wurde von [Queen's Lane Kaffeehaus](http://www.qlcoffeehouse.com/) in Oxford aus gestartet, wo [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham) den Utilitarismus zum ersten Mal entdeckte:
+Diese Website wurde vom [Queen’s Lane Coffee House](http://www.qlcoffeehouse.com/) in Oxford aus veröffentlicht, wo Jeremy Bentham erstmals den Utilitarismus entdeckte:
 
 ![Queen's Lane Kaffeehaus](/img/about/Queens-Lane-Coffee-House.jpg "Queen's Lane Coffee House")
 
 <div class="coffee-house">
 
-> „Dr. Priestley veröffentlichte seinen Essay on Government im Jahr 1768. Er führte dort als einzig vernünftigen und angemessenen Gegenstand der Regierung ‚**das größte Glück der größten Zahl.** ‘ ein ... Irgendwie, kurz nach seiner Veröffentlichung, eine Kopie Diese Broschüre gelangte in die kleine Umlaufbibliothek eines **kleines Kaffeehaus neben dem Queen’s College in Oxford.** Es war ein Eckhaus mit einer Vorderseite zur High Street und einer anderen zu einer schmalen Gasse hin, die auf dieser Seite am Queen's College entlangführt und verliert sich in einer Gasse, die aus einem der Tore des New College führt ...
+> „Dr. Priestley veröffentlichte seinen Essay on Government im Jahr 1768. Darin führte er als einzig vernünftiges und angemessenes Ziel der Regierung ,das größte Glück der größten Zahl‘ ein. ... Auf den ein oder anderen Weg fand ein Exemplar dieses Pamphlets kurz nach seiner Veröffentlichung seinen Weg in den Buchverleih eines kleinen Kaffeehauses, das zum Queen’s College in Oxford gehörte. Es war ein Eckhaus mit einer Front zur High Street und der anderen zu einer engen Gasse, die auf dieser Seite am Queen’s College vorbeiführt und sich in einer Gasse verliert, die von einem der Tore des New College ausgeht...
 >
-> Durch diese Broschüre und diesen darin enthaltenen Satz wurden meine Grundsätze zum Thema der öffentlichen und privaten Moral festgelegt. Aus dieser Broschüre und dieser Seite habe ich den Satz abgeleitet, dessen Wortlaut und Bedeutung in der zivilisierten Welt so weit verbreitet ist. Als ich es sah, schrie ich gleichsam in innerer Ekstase auf, wie Archimedes bei der Entdeckung des Grundprinzips der Hydrostatik: Heureka!“
+> Dieses Pamphlet und dieser Satz darin waren es, die meine Prinzipien zum Thema Moral, öffentlich und privat, bestimmt haben. Aus diesem Pamphlet und dieser Seite habe ich den Satz entnommen, dessen Worte und Bedeutung so weit über die zivilisierte Welt verbreitet worden sind. Bei seinem Anblick rief ich gleichsam in einer inneren Ekstase, wie Archimedes bei der Entdeckung des Grundprinzips der Hydrostatik, Heureka!“
 
-\- Bentham, J. (1834). Deontologie oder die Wissenschaft der Moral. _Der britische Kritiker, Quarterly Theological Review und Ecclesiastical Record_. 16(32): 279–280.
+\- Bentham, J. (1834). Deontology, or the Science of Morality. _The British Critic, Quarterly Theological Review, and Ecclesiastical Record_. 16(32): 279–280.
 
 </div>
