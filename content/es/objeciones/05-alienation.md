@@ -1,6 +1,7 @@
 ---
 title: "La objeción de la alienación"
 slug: "alienacion"
+authors: "Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
@@ -58,11 +59,11 @@ Así que el problema práctico se puede resolver. Y no hay ningún problema teó
 
 Sería profundamente alienante para una teoría moral invalidar la abrumadora mayoría de nuestras motivaciones ordinarias, incluidas las motivaciones morales que se derivan de la preocupación directa por individuos particulares. Los utilitaristas pueden intentar evitar este problema mediante el utilitarismo sofisticado o mediante la estrategia de la subsunción. Cada enfoque tiene sus limitaciones. Pero combinando adecuadamente ambos —insistiendo en la subsunción de los bienes intrínsecos genuinos junto con un enfoque sofisticado aplicado a los bienes meramente instrumentales— los utilitaristas pueden ofrecer una respuesta completa a la objeción de la alienación.
 
-(Nótese que este artículo aborda exclusivamente la preocupación de que el utilitarismo pueda parecer que _invalide_ nuestras motivaciones ordinarias. Para la preocupación distinta de que _anule_ con demasiada facilidad nuestros proyectos e intereses personales, véase la [objeción de la exigencia](./exigencia.md).
+(Nótese que este artículo aborda exclusivamente la preocupación de que el utilitarismo pueda parecer que _invalide_ nuestras motivaciones ordinarias. Para la preocupación distinta de que _anule_ con demasiada facilidad nuestros proyectos e intereses personales, véase la [objeción de la exigencia](./exigencia.md).)
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

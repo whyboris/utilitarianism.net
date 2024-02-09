@@ -3,7 +3,7 @@ title: "Einwände gegen den Utilitarismus und Antworten"
 date: 2023-01-29
 draft: false
 menu: ["objections", "main"]
-weight: 100
+weight: 300
 page: 0
 description: "In diesem Kapitel wird ein Instrumentarium allgemeiner Strategien vorgestellt, mit denen auf Einwände gegen den Utilitarismus reagiert werden kann, bevor die einflussreichsten spezifischen Einwände gegen die Theorie vorgestellt werden."
 gradientTop: "#1F2A70"

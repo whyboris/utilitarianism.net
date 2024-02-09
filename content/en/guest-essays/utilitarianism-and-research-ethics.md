@@ -3,6 +3,7 @@ title: "Utilitarianism and Research Ethics"
 book: "Utilitarianism and Research Ethics"
 date: 2023-01-29
 author: Nir Eyal
+authors: "Eyal, N."
 draft: false
 layout: "book"
 menu: "guest"
@@ -156,7 +157,7 @@ This article disputes a common view of research ethics as being fundamentally an
 
 ---
 
-{{< how-to-cite authors="Eyal, N." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}
 

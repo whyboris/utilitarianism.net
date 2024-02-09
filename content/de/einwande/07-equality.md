@@ -1,11 +1,12 @@
 ---
 title: "Der Gleichheits-Einwand"
 slug: "gleichheits"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 7
+weight: 207
 page: 7
 description: "Der Utilitarismus befasst sich mit dem allgemeinen Wohlergehen der Individuen einer Population, aber viele wenden ein, dass Gerechtigkeit eine zusätzliche Sorge darum erfordert, wie dieses Wohlergehen auf Individuen verteilt ist. Dieser Artikel untersucht diesen Einwand und zeigt auf, wie Utilitaristen am besten darauf reagieren können."
 gradientTop: "#531694"
@@ -72,7 +73,7 @@ Schließlich können Befürworter des Utilitarismus wieder einmal „in den saur
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

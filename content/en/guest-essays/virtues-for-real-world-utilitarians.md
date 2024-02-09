@@ -3,6 +3,7 @@ title: "Virtues for Real-World Utilitarians"
 book: "Virtues for Real-World Utilitarians"
 date: 2023-01-29
 author: Stefan Schubert & Lucius Caviola
+authors: "Schubert, S., & Caviola, L."
 draft: false
 menu: "guest"
 weight: 2
@@ -173,7 +174,7 @@ _A longer version of this article can be found [here](https://psyarxiv.com/w52zm
 
 ---
 
-{{< how-to-cite authors="Schubert, S., & Caviola, L." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}
 

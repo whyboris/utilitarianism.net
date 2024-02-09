@@ -1,11 +1,12 @@
 ---
 title: "Der Einwand bezüglich der Rechte von Personen"
 slug: "rechte"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 1
+weight: 201
 page: 1
 description: "Viele finden es verwerflich, dass der Utilitarismus in bestimmten hypothetischen Szenarien scheinbar ungeheuerliche Rechtsverletzungen zulässt, indem er unschuldige Menschen zum Wohle der Allgemeinheit tötet. In diesem Artikel wird untersucht, wie Utilitaristen am besten darauf reagieren können."
 gradientTop: "#1F1E70"
@@ -66,7 +67,7 @@ Natürlich ist es wichtig zu betonen, dass es im wirklichen Leben keine Stipulat
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

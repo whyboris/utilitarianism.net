@@ -1,11 +1,12 @@
 ---
 title: "Der „bloße Mittel“-Einwand"
 slug: "blose-mittel"
+authors: "Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 2
+weight: 202
 page: 2
 description: "Kritiker werfen dem Utilitarismus oft vor, dass er Menschen in unzulässiger Weise instrumentalisiert und sie als bloßes Mittel zum Zweck des höheren Guts betrachtet, anstatt den Einzelnen als Selbstzweck zu betrachten. In diesem Artikel prüfen wir, ob dieser Einwand berechtigt ist."
 gradientTop: "#371E87"
@@ -70,7 +71,7 @@ Aber es gibt vielleicht noch andere, eng verwandte Einwände, die Menschen manch
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y.">}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

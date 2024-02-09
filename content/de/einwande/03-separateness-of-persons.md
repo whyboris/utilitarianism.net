@@ -1,11 +1,12 @@
 ---
 title: "Der Einwand von der Getrenntheit von Personen"
 slug: "getrenntheit-von-personen"
+authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 3
+weight: 203
 page: 3
 description: "Der Gedanke, dass der Utilitarismus die „Getrenntheit von Personen“ vernachlässigt, hat sich als ein sehr einflussreicher Einwand erwiesen. Aber es ist ein Einwand, der schwer zu greifen ist. In diesem Artikel werden drei mögliche Interpretationen des Einwandes untersucht und wie der Utilitarismus auf jede reagieren kann."
 gradientTop: "#571B9E"
@@ -104,7 +105,7 @@ Wir haben gesehen, dass der Einwand der „Getrenntheit von Personen“ gegen de
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

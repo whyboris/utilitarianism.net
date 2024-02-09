@@ -1,6 +1,7 @@
 ---
 title: "The Cluelessness Objection"
 slug: "cluelessness"
+authors: "Chappell, R.Y."
 date: 2023-03-08
 type: "page"
 draft: false
@@ -92,7 +93,7 @@ There is reason to doubt whether concerns about cluelessness really present an _
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

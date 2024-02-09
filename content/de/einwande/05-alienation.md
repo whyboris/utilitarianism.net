@@ -1,11 +1,12 @@
 ---
 title: "Der Einwand der Entfremdung"
 slug: "entfremdung"
+authors: "Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 5
+weight: 205
 page: 5
 description: "Abstrakte Moraltheorien drohen uns von vielem zu entfremden, was uns teuer ist. In diesem Artikel werden zwei mögliche Verteidigungen des Utilitarismus gegen diesen Vorwurf untersucht. Die eine empfiehlt, andere als explizit utilitaristische Motivationen zu adoptieren. In der zweiten wird argumentiert, dass konkrete Anliegen unter umfassendere utilitaristische Motivationen subsumiert werden können."
 gradientTop: "#5F3091"
@@ -62,7 +63,7 @@ Es wäre zutiefst entfremdend, wenn eine Moraltheorie die überwältigende Mehrh
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

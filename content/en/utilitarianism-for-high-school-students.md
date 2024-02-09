@@ -2,6 +2,7 @@
 title: "Utilitarianism: Simply Explained"
 book: "Utilitarianism: Simply Explained"
 menuTitle: "Utilitarianism: Simply Explained"
+authors: "Chappell, R.Y."
 date: 2023-01-29
 updated: 2022, Sept 5th - in sync with website
 draft: false
@@ -101,6 +102,6 @@ While the early proponents of utilitarianism were far from perfect, their reason
 
 **_Note:_** the rest of this website provides a college-level academic guide to utilitarian moral theory. Readers interested in learning more about utilitarianism are encouraged to explore this more advanced material.
 
-{{< how-to-cite authors="Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}

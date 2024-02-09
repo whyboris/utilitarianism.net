@@ -1,6 +1,7 @@
 ---
 title: "The Separateness of Persons Objection"
 slug: "separateness-of-persons"
+authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29
 type: "page"
 draft: false
@@ -104,7 +105,7 @@ We have seen that the “separateness of persons” objection to utilitarianism 
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

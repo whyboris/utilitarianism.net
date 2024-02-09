@@ -1,6 +1,7 @@
 ---
 title: "Alternativas cercanas al utilitarismo"
 slug: "alternativas-cercanas-al-utilitarismo"
+authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "main"
@@ -122,7 +123,7 @@ El siguiente capítulo analiza varias de las objeciones más importantes al util
 
 {{< next-page-textbook title="Objeciones al utilitarismo y respuestas" mp="/objeciones-al-utilitarismo" >}}
 
-{{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

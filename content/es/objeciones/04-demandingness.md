@@ -1,6 +1,7 @@
 ---
 title: "La objeción de la exigencia"
 slug: "exigencia"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
@@ -70,7 +71,7 @@ Por último, los defensores del utilitarismo pueden simplemente aceptar que la m
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 
@@ -78,11 +79,11 @@ Por último, los defensores del utilitarismo pueden simplemente aceptar que la m
 
 - [@Berkey2016DemandingnessOfMorality].
 - [@Bykvist2010UtilitarianismGuidePerplexed, chap. 7: ¿Es el utilitarismo demasiado exigente?].
-- @Kagan1982¿Es el consecuencialismo demasiado exigente?
-- @Lazari-Radek2014PointViewUniverse, pp. 317–336].
-- @Singer1972FamineAffluenceMorality].
-- @Sobel2007ImpotenciaExigenciaObjeción].
-- @Wolf1982SantosMorales].
+- [@Kagan1982¿Es el consecuencialismo demasiado exigente?]
+- [@Lazari-Radek2014PointViewUniverse, pp. 317–336].
+- [@Singer1972FamineAffluenceMorality].
+- [@Sobel2007ImpotenciaExigenciaObjeción].
+- [@Wolf1982SantosMorales].
 
 [^1]: Cf. [@Wolf1982MoralSaints].
 [^2]: [@Givewell2022AgainstMalariaFoundation].

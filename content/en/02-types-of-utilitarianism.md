@@ -1,6 +1,7 @@
 ---
 title: "Elements and Types of Utilitarianism"
 slug: "types-of-utilitarianism"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 draft: false
 menu: "main"
@@ -230,7 +231,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 
 {{< next-page-textbook >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

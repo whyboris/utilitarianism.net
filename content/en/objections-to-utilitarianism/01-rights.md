@@ -1,5 +1,6 @@
 ---
 title: "The Rights Objection"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 slug: "rights"
 date: 2023-01-29
 type: "page"
@@ -66,7 +67,7 @@ Of course, it's important to stress that real life comes with no such stipulatio
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

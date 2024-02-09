@@ -1,5 +1,6 @@
 ---
 title: "Acting on Utilitarianism"
+authors: "MacAskill, W. and Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "acting"
@@ -151,7 +152,7 @@ To do the most good they can, utilitarians often donate money to effective chari
 
 {{< acting-buttons >}}
 
-{{< how-to-cite authors="MacAskill, W. and Meissner, D." >}}
+{{< how-to-cite >}}
 
 ## Resources and Further Reading
 

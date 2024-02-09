@@ -1,6 +1,7 @@
 ---
 title: "Richard M. Hare"
 book: "Richard M. Hare"
+authors: "Baron, J."
 year: "1919 - 2002"
 date: 2023-01-29
 draft: false
@@ -62,7 +63,7 @@ Hare does not attempt to resolve every issue in utilitarianism. We are still lef
 
 What Hare has given us is not a solution to the world’s problems but a set of powerful analyses of moral reasoning that we can use to criticize and improve our own reasoning and that of others. Hare himself has written a large variety of essays in which he applies these tools to particular problems such as those that arise in bioethics, politics, education and religion. This includes many of the usual hot button issues, such as controversies about abortion, which Hare approaches from a utilitarian perspective but never based simply on calculating total utility. Considered by Singer to be the founder of applied ethics, Hare regarded moral philosophy not as an exercise in academic analysis but as a set of tools to be used in the real world.
 
-{{< how-to-cite authors="Baron, J." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}
 

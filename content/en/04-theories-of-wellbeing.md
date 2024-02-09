@@ -1,6 +1,7 @@
 ---
 title: "Theories of Well-Being"
 slug: "theories-of-well-being"
+authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "main"
@@ -169,7 +170,7 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 
 {{< next-page-textbook >}}
 
-{{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

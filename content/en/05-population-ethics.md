@@ -1,6 +1,7 @@
 ---
 title: "Population Ethics"
 slug: "population-ethics"
+authors: "Chappell, R.Y., Meissner, D., and MacAskill, W."
 date: 2023-01-29
 draft: false
 menu: "main"
@@ -259,7 +260,7 @@ The next chapter discusses the most important implications of utilitarianism for
 
 {{< next-page-textbook >}}
 
-{{< how-to-cite authors="Chappell, R.Y., Meissner, D., and MacAskill, W." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

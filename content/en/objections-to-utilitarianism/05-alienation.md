@@ -1,6 +1,7 @@
 ---
 title: "The Alienation Objection"
 slug: "alienation"
+authors: "Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
@@ -62,7 +63,7 @@ It would be deeply alienating for a moral theory to invalidate the overwhelming 
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

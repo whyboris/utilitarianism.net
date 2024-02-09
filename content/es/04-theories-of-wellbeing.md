@@ -1,6 +1,7 @@
 ---
 title: "Teorías del bienestar"
 slug: "teorias-del-bienestar"
+authors: "Chappell, R.Y. y Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "main"
@@ -169,7 +170,7 @@ El próximo capítulo aborda la _ética de la población_, y cómo evaluar resul
 
 {{< next-page-textbook title="Ética de la población" url="/etica-de-la-poblacion" >}}
 
-{{< how-to-cite authors="Chappell, R.Y. y Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

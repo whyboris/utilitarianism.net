@@ -1,6 +1,7 @@
 ---
 title: "La objeción de los meros medios"
 slug: "meros-medios"
+authors: "Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
@@ -68,7 +69,7 @@ Pero puede haber otras objeciones, estrechamente relacionadas, que la gente a ve
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y.">}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

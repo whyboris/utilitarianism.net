@@ -1,11 +1,12 @@
 ---
 title: "Der Einwand von der Ahnungslosigkeit"
 slug: "ahnungslosigkeit"
+authors: "Chappell, R.Y."
 date: 2023-03-08
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 8
+weight: 208
 page: 8
 description: "Wird der Utilitarismus dadurch untergraben, dass wir die langfristigen Folgen unseres Handelns nicht vorhersagen können? In diesem Artikel wird untersucht, ob sich Utilitaristen immer noch vom kurzfristigen Erwartungswert leiten lassen können, auch wenn dieser im Vergleich zum potenziellen Wert oder Schaden der unbekannten langfristigen Folgen gering ist."
 gradientTop: "#260380"
@@ -92,7 +93,7 @@ Es gibt Grund, daran zu zweifeln, dass die Sorge der Ahnungslosigkeit überhaupt
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

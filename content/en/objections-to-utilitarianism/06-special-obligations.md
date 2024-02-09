@@ -1,6 +1,7 @@
 ---
 title: "The Special Obligations Objection"
 slug: "special-obligations"
+authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29
 type: "page"
 draft: false
@@ -64,7 +65,7 @@ Against those who insist upon partiality at a fundamental theoretical level, uti
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

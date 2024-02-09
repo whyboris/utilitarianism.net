@@ -1,6 +1,7 @@
 ---
 title: "Argumentos a favor del utilitarismo"
 slug: "argumentos-a-favor-del-utilitarismo"
+authors: "Chappell, R.Y. y Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "main"
@@ -132,7 +133,7 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
 
 {{< next-page-textbook title="Teorías del bienestar" url="/teorias-del-bienestar" >}}
 
-{{< how-to-cite authors="Chappell, R.Y. y Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

@@ -7,6 +7,7 @@ menu: "main"
 description: "Ressourcen für Einführung in den Utilitarismus"
 gradientTop: "#57579d"
 gradientBottom: "#012147"
+weight: 600
 ---
 
 <div class="hide-TOC-children-hack">

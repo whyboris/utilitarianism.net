@@ -1,10 +1,11 @@
 ---
 title: "Einführung in den Utilitarismus"
 slug: "einfuhrung-in-den-utilitarismus"
+authors: "MacAskill, W., Meissner, D., und Chappell, R.Y."
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 1
+weight: 101
 description: "In diesem Kapitel werden der Utilitarismus und seine wesentlichen Vor- und Nachteile als Moraltheorie vorgestellt."
 gradientTop: "#0c3b5b"
 gradientBottom: "#236d9f"
@@ -86,7 +87,7 @@ Im nächsten Kapitel werden die vier Elemente utilitaristischer Theorien eingehe
 
 ---
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

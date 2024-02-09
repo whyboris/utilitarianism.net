@@ -3,6 +3,7 @@ title: "Bentham and Criminal Law"
 book: "Bentham and Criminal Law"
 date: 2023-01-29
 author: Steven Sverdlik
+authors: "Sverdlik, S."
 draft: false
 layout: "book"
 menu: "guest"
@@ -154,7 +155,7 @@ This sample illustrates how helpful the penal code manuscripts are in understand
 
 ---
 
-{{< how-to-cite authors="Sverdlik, S." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}
 

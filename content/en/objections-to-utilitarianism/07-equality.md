@@ -1,6 +1,7 @@
 ---
 title: "The Equality Objection"
 slug: "equality"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
@@ -70,7 +71,7 @@ Finally, proponents of utilitarianism may once again “bite the bullet” and s
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

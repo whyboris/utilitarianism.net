@@ -1,6 +1,7 @@
 ---
 title: "Henry Sidgwick"
 book: "Henry Sidgwick"
+authors: "Hampton, L."
 year: "1838 - 1900"
 date: 2023-01-29
 draft: false
@@ -22,7 +23,7 @@ Sidgwick is best known for writing _[The Methods of Ethics](https://www.earlymod
 
 Sidgwick was also a committed social reformer. His primary interest was the expansion of women’s higher education, and he founded Newnham College, Cambridge, for this purpose. He supported the secularization of education, and (temporarily) resigned from his fellowship at Cambridge University in 1869 when he could no longer subscribe to the Thirty-Nine Articles of the Church of England. He also supported poor relief, and, as a political economist, challenged the doctrine of laissez-faire.[^4]
 
-{{< how-to-cite authors="Hampton, L." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}
 

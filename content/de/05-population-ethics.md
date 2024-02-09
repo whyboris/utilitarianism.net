@@ -4,7 +4,7 @@ slug: "populationsethik"
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 5
+weight: 105
 description: "Die Populationsethik befasst sich mit Fragen wie der Abwägung zwischen neuem und bereits existierendem Leben und dem Gleichgewicht zwischen Quantität und Qualität des Lebens (beim Vergleich von unterschiedlich großen Populationen). In diesem Kapitel werden fünf wichtige Ansätze der Populationsethik kritisch beleuchtet: die Gesamtansicht, die Durchschnittsansicht, Variabler-Wert-Theorien, Kritisches-Level- (und Kritische-Spanne-)Theorien und personenbezogene Ansichten."
 gradientTop: "#1B7CCC"
 gradientBottom: "#089FD1"

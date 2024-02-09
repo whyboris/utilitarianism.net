@@ -1,6 +1,7 @@
 ---
 title: "Arguments for Utilitarianism"
 slug: "arguments-for-utilitarianism"
+authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "main"
@@ -133,7 +134,7 @@ The next chapter discusses theories of well-being, or what counts as being good 
 
 {{< next-page-textbook >}}
 
-{{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

@@ -1,11 +1,12 @@
 ---
 title: "Der Einwand von der Missbräuchlichkeit"
 slug: "Missbrauchlichkeit"
+authors: "Chappell, R.Y."
 date: 2023-03-08
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 9
+weight: 209
 page: 9
 description: "Manche argumentieren, der Utilitarismus sei selbstverleugnend: dass er sich gegen seine eigene Adoption ausspricht, da die Gefahr besteht, dass falsche Appelle an das „höhere Gut“ zu furchtbar schädlichen Handlungen führen. In diesem Artikel wird untersucht, wie man sich am besten vor solchen Risiken schützen kann. Es wird die Frage gestellt, ob es ein Einwand gegen eine Theorie ist, wenn sie sich auf diese Weise als selbstverleugnend erweist."
 gradientTop: "#6F4BC9"
@@ -74,7 +75,7 @@ Letzten Endes gibt es jedoch keine Garantie dafür, dass wahre Überzeugungen so
 
 {{< next-page-objection hide-next="true" end-objection="true" >}}
 
-{{< how-to-cite authors="Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

@@ -1,6 +1,7 @@
 ---
 title: "Ética de la población"
 slug: "etica-de-la-poblacion"
+authors: "Chappell, R.Y., Meissner, D., y MacAskill, W."
 date: 2023-01-29
 draft: false
 menu: "main"
@@ -259,7 +260,7 @@ En el siguiente capítulo se analizan las implicaciones más importantes del uti
 
 {{< next-page-textbook title="Utilitarismo-y-etica-practica" url="/utilitarismo-y-etica-practica" >}}
 
-{{< how-to-cite authors="Chappell, R.Y., Meissner, D., y MacAskill, W." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

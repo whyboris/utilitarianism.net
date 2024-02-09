@@ -1,6 +1,7 @@
 ---
 title: "La objeción de la abusabilidad"
 slug: "abusabilidad"
+authors: "Chappell, R.Y."
 date: 2023-03-08
 type: "page"
 draft: false
@@ -70,7 +71,7 @@ Aun así, al fin y al cabo no hay garantía de que las creencias verdaderas sean
 
 {{< next-page-objection hide-next="true" end-objection="true" >}}
 
-{{< how-to-cite authors="Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

@@ -1,6 +1,7 @@
 ---
 title: "Mozi"
 book: "Mozi"
+authors: "John, T."
 year: "c. 430 BCE"
 date: 2023-01-29
 draft: false
@@ -26,7 +27,7 @@ While the _Mòzǐ_ is most concerned with socio-political reform, it makes numer
 
 The Mohists are also the first to introduce a sophisticated version of conceptual engineering resembling the work of contemporary feminist philosophers and utilitarian [J. J. C. Smart](https://en.wikipedia.org/wiki/J._J._C._Smart). The _Mòzǐ_ argues that when we draw conceptual distinctions between one thing and another, we should form our distinctions in part on the basis of which distinctions most promote the benefit of all.[^5] Similarly, they argue that we should reject fatalism—the idea that the future is predestined and there is nothing that human agents can do to change it—on account of its deteriorative effects on human motivation.[^6]
 
-{{< how-to-cite authors="John, T." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}
 

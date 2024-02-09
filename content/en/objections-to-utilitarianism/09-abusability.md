@@ -1,6 +1,7 @@
 ---
 title: "The Abusability Objection"
 slug: "abusability"
+authors: "Chappell, R.Y."
 date: 2023-03-08
 type: "page"
 draft: false
@@ -70,7 +71,7 @@ Still, at the end of the day there's no guarantee that true beliefs will be soci
 
 {{< next-page-objection hide-next="true" end-objection="true" >}}
 
-{{< how-to-cite authors="Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

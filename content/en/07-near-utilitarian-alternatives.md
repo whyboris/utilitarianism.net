@@ -1,6 +1,7 @@
 ---
 title: "Near-Utilitarian Alternatives"
 slug: "near-utilitarian-alternatives"
+authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "main"
@@ -122,7 +123,7 @@ The next chapter discusses several of the most important objections to utilitari
 
 {{< next-page-textbook objections="true" >}}
 
-{{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

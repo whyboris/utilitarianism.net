@@ -1,6 +1,7 @@
 ---
 title: "La objeción de la igualdad"
 slug: "igualdad"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
@@ -70,7 +71,7 @@ Por último, los defensores del utilitarismo pueden, una vez más, aceptar que e
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

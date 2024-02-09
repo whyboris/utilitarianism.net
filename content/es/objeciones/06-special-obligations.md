@@ -1,6 +1,7 @@
 ---
 title: "La objeción de las obligaciones especiales"
 slug: "obligaciones-especiales"
+authors: "Chappell, R.Y. y Meissner, D."
 date: 2023-01-29
 type: "page"
 draft: false
@@ -64,7 +65,7 @@ Frente a quienes insisten en la parcialidad en un nivel teórico fundamental, lo
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y. y Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

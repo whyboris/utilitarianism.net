@@ -1,6 +1,7 @@
 ---
 title: "Utilitarianism and Practical Ethics"
 slug: "utilitarianism-and-practical-ethics"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 draft: false
 menu: "main"
@@ -142,7 +143,7 @@ The next chapter discusses important rival theories that may overlap significant
 
 {{< next-page-textbook >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

@@ -3,6 +3,7 @@ title: "The Time-Relative Account of Interests"
 book: "The Time-Relative Account of Interests"
 date: 2023-09-01
 author: Jeff McMahan
+authors: "McMahan, J."
 draft: false
 layout: "book"
 menu: "guest"
@@ -146,7 +147,7 @@ It is not that the interest in avoiding an intrinsic harm of a certain magnitude
 
 **Jeff McMahan** is Sekyra and White’s Professor of Moral Philosophy at the University of Oxford and a Fellow of Corpus Christi College. He is the author of _The Ethics of Killing: Problems at the Margins of Life_ (Oxford University Press, 2002) and _Killing in War_ (OUP, 2009). He is currently writing a book, _The Ethics of Creating, Preserving, and Ending Lives_, which will also be published by OUP.
 
-{{< how-to-cite authors="McMahan, J." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}
 

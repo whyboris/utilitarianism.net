@@ -1,11 +1,12 @@
 ---
 title: "Der Einwand der besonderen Verpflichtungen"
 slug: "besonderen-verpflichtungen"
+authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 6
+weight: 206
 page: 6
 description: "Aus Beziehungen wie Elternschaft oder Vormundschaft ergeben sich scheinbar besondere Verpflichtungen zum Schutz derjenigen, die unserer Obhut unterstehen (wobei diese Verpflichtungen strenger sind als unsere allgemeinen Pflichten zur Wohltätigkeit gegenüber Fremden). In diesem Artikel wird untersucht, inwieweit der unparteiliche Utilitarismus Intuitionen und normativen Praktiken der Parteilichkeit Rechnung tragen kann."
 gradientTop: "#822FA8"
@@ -64,7 +65,7 @@ Denjenigen, die auf einer grundlegenden theoretischen Ebene auf Parteilichkeit b
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

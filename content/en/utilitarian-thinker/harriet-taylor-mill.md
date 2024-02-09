@@ -1,6 +1,7 @@
 ---
 title: "Harriet Taylor Mill"
 book: "Harriet Taylor Mill"
+authors: "Hampton, L."
 year: "1807 - 1858"
 date: 2023-01-29
 draft: false
@@ -24,7 +25,7 @@ To this date, there exists a large amount of debate over the extent of Harriet T
 
 Taylor Mill is most famous, however, for her views on women’s rights, expressed in her 1851 essay _[The Enfranchisement of Women](/books/enfranchisement-of-women-harriet-taylor-mill)_ and developed further in Stuart Mill’s 1869 essay _[The Subjection of Women](/books/the-subjection-of-women-john-stuart-mill/1)_. She supported “_equality in all rights, political, civil, and social, with the male citizens of the community_”.[^4] For example, she argued that paid work by married women is not only permissible but desirable because “_dependence on the woman’s side [on her husband] is demoralising to the character of both_”.[^5] She was also outspoken on marriage, likening contemporary forms of marriage to slavery as based on the threat of physical force (domestic violence), and promoted instead a companionate model of marriage based on mutual attraction. Her writings on marriage, divorce, domestic violence, and women’s economic, educational and civil empowerment were all valuable contributions to the early feminist movement.
 
-{{< how-to-cite authors="Hampton, L." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}
 

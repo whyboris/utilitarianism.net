@@ -3,6 +3,7 @@ title: "Naturalistic Arguments for Ethical Hedonism"
 book: "Naturalistic Arguments for Ethical Hedonism"
 date: 2023-01-29
 author: Neil Sinhababu
+authors: "Sinhababu, N."
 draft: false
 menu: "guest"
 weight: 6
@@ -195,7 +196,7 @@ Empirical observation reveals objective and universal moral value existing withi
 
 ---
 
-{{< how-to-cite authors="Sinhababu, N." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}
 

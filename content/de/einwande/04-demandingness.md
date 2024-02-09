@@ -1,11 +1,12 @@
 ---
 title: "Der Einwand, Utilitarismus sei zu fordernd"
 slug: "sei-zu-fordernd"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 4
+weight: 204
 page: 4
 description: "Da der Utilitarismus uns anweist, das unparteilich beste Ergebnis zu wählen, selbst wenn es uns selbst viel kostet, kann er als eine unglaublich fordernde Theorie erscheinen. In diesem Artikel wird untersucht, ob diese Eigenschaft des Utilitarismus zu beanstanden ist, und, wenn ja, wie Verfechter des Utilitarismus am besten reagieren sollten."
 gradientTop: "#430A4A"
@@ -70,7 +71,7 @@ Schließlich können die Befürworter des Utilitarismus einfach „in den sauren
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

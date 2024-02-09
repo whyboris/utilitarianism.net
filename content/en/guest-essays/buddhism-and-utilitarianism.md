@@ -3,6 +3,7 @@ title: "Buddhism and Utilitarianism"
 book: "Buddhism and Utilitarianism"
 date: 2023-01-29
 author: Calvin Baker
+authors: "Baker, C."
 draft: false
 menu: "guest"
 weight: 3
@@ -142,7 +143,7 @@ I believe that Buddhism and utilitarianism are both committed to in-principle su
 
 ---
 
-{{< how-to-cite authors="Baker, C." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}
 
