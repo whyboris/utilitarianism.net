@@ -18,3 +18,9 @@
   other = "uber-uns"
 [menu.other-content]
   other = "Andere Inhalte"
+[menu.famine-affluence-morality-short]
+  other = "Peter Singers „Hunger, Wohlstand und Moral“"
+[menu.famine-affluence-morality-long]
+  other = "Studienführer: Peter Singers „Hunger, Wohlstand und Moral“"
+[link.famine-affluence-morality]
+  other = "peter-singer-hunger-wohlstand-und-moral"
