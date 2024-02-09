@@ -2,7 +2,10 @@
 
   {{ if .Get "objections" }}
 
-    {{ with .Page.GetPage "objections-to-utilitarianism/_index.md"}}
+    {{ $objectionsFolderString := i18n "link.objections" }}
+    {{ $objectionsMarkdownFile := printf "%s/_index.md" $objectionsFolderString }}
+
+    {{ with .Page.GetPage $objectionsMarkdownFile }}
     <a href="{{ .RelPermalink }}">
       <div class="small-button">
         {{ i18n "button.next-chapter" }}

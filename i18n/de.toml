@@ -32,6 +32,8 @@
   other = "Nächstes Kapitel:"
 [button.other-objections]
   other = "Weitere Einwände gegen den Utilitarismus"
+[link.objections]
+  other = "einwande"
 [link.specific-objections]
   other = "einwande/#spezifische-einwände-gegen-utilitarismus"
 [cite.accessed]

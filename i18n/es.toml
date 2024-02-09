@@ -32,6 +32,8 @@
   other = "ES: Next Chapter:"
 [button.other-objections]
   other = "ES: Other Objections to Utilitarianism"
+[link.objections]
+  other = "FIX-LINK-objections-to-utilitarianism"
 [link.specific-objections]
   other = "FIX-LINK-objections-to-utilitarianism#specific-objections-to-utilitarianism"
 [cite.accessed]
