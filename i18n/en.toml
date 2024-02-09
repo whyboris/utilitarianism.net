@@ -1,3 +1,9 @@
+[site.url-full]
+  other = "https://www.utilitarianism.net"
+[site.url-readable]
+  other = "Utilitarianism.net"
+[site.footer]
+  other = "This website was co-created by William MacAskill, Associate Professor of Philosophy at the University of Oxford"
 [menu.acting]
   other = "Acting on Utilitarianism"
 [link.acting]
@@ -8,10 +14,6 @@
   other = "textbook"
 [menu.core-articles]
   other = "Core Articles"
-[site.footer]
-  other = "This website was co-created by William MacAskill, Associate Professor of Philosophy at the University of Oxford"
-[site.url-readable]
-  other = "Utilitarianism.net"
 [menu.about]
   other = "About Us"
 [link.about]
@@ -24,3 +26,15 @@
   other = "Study Guide: Peter Singer's 'Famine, Affluence, and Morality'"
 [link.famine-affluence-morality]
   other = "peter-singer-famine-affluence-and-morality"
+[button.next-chapter]
+  other = "Next Chapter:"
+[cite.accessed]
+  other = "accessed"
+[cite.book-title]
+  other = "Introduction to Utilitarianism"
+[cite.and]
+  other = "and"
+[cite.how-to-cite]
+  other = "How to Cite This Page"
+[cite.editors-abbreviation]
+  other = "eds."

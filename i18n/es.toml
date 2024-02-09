@@ -1,3 +1,9 @@
+[site.url-full]
+  other = "https://www.utilitarianismo.net"
+[site.url-readable]
+  other = "Utilitarianismo.net"
+[site.footer]
+  other = "ES: This website was co-created by William MacAskill, Associate Professor of Philosophy at the University of Oxford"
 [menu.acting]
   other = "Actuar conforme al utilitarismo"
 [link.acting]
@@ -8,10 +14,6 @@
   other = "libro-de-texto"
 [menu.core-articles]
   other = "ES: Core Articles"
-[site.footer]
-  other = "ES: This website was co-created by William MacAskill, Associate Professor of Philosophy at the University of Oxford"
-[site.url-readable]
-  other = "Utilitarianismo.net"
 [menu.about]
   other = "About Us"
 [link.about]
@@ -24,3 +26,15 @@
   other = "ES: Studienführer: Peter Singers „Hunger, Wohlstand und Moral“"
 [link.famine-affluence-morality]
   other = "es-fix-this-url"
+[button.next-chapter]
+  other = "ES: Next Chapter:"
+[cite.accessed]
+  other = "ES: accessed"
+[cite.book-title]
+  other = "ES: Introduction to Utilitarianism"
+[cite.and]
+  other = "ES: and"
+[cite.how-to-cite]
+  other = "ES: How to Cite This Page"
+[cite.editors-abbreviation]
+  other = "ES: eds."

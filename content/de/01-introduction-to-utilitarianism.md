@@ -82,18 +82,6 @@ Utilitaristische Ethik hat eine jahrhundertelange intellektuelle Tradition, in d
 
 Im nächsten Kapitel werden die vier Elemente utilitaristischer Theorien eingehender erörtert und verschiedene Varianten des Utilitarismus vorgestellt.
 
-[Nächstes Kapitel: Elemente und Arten von Utilitarismus](https://utilitarianism.net/types-of-utilitarianism)
-
-## Diese Seite zitieren
-
-MacAskill, W., Meissner, D. und Chappell, R.Y. (2023). Einführung in den Utilitarismus. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;[https://www.utilitarianism.net/introduction-to-utilitarianism](https://www.utilitarianism.net/introduction-to-utilitarianism)>, zuletzt aufgerufen am 5/19/2023.
-
-## Möchtest du die Welt zu einem besseren Ort machen?
-
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
-
 {{< next-page-textbook title="Elements and Types of Utilitarianism" url="/types-of-utilitarianism" >}}
 
 ---
