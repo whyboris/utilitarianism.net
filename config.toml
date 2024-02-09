@@ -1,5 +1,5 @@
-defaultContentLanguage = "en"
-disableLanguages = ["es", "de"]
+defaultContentLanguage = "de"
+disableLanguages = ["es", "en"]
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 [markup]
@@ -31,7 +31,7 @@ enableRobotsTXT = true
     contentDir = 'content/de'
     languageCode = "de-DE"
     title = "Utilitarismus.net"
-    baseURL = "https://utilitarianismus.net/"
+    baseURL = "https://utilitarismus.net/"
     weight = 3
     [languages.de.services]
       [languages.de.services.googleAnalytics]

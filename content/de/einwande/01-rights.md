@@ -64,19 +64,11 @@ Eine letzte mögliche Antwort von Verfechtern des Utilitarismus ist „in den sa
 
 Natürlich ist es wichtig zu betonen, dass es im wirklichen Leben keine Stipulationen wie im Gedankenexperiment gibt, so dass sich Utilitaristen im wirklichen Leben überwiegend dafür entscheiden, „[der Intuition Rechnung zu tragen](https://utilitarianism.net/objections-to-utilitarianism/rights/#accommodating-the-intuition)“, das heißt, sie lehnen die Annahme ab, dass das Töten unschuldiger Menschen zu besseren Ergebnissen führt.
 
-[Als Nächstes: der „bloße Mittel“-Einwand](https://utilitarianism.net/objections-to-utilitarianism#specific-objections-against-utilitarianism)
+{{< next-page-objection >}}
 
-[Andere Einwände gegen Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism#specific-objections-against-utilitarianism)
+{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
 
-## Diese Seite zitieren
-
-MacAskill, W., Meissner, D. und Chappell, R.Y. (2023). Der Einwand bezüglich der Rechte von Personen. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/objections-to-utilitarianism/rights>, zuletzt aufgerufen am 10/16/2023.
-
-## Möchtest du die Welt zu einem besseren Ort machen?
-
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+{{< button >}}
 
 ## Ressourcen und weiterführende Lektüre
 

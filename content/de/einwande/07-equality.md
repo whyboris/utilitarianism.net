@@ -76,20 +76,6 @@ Schließlich können Befürworter des Utilitarismus wieder einmal „in den saur
 
 {{< button >}}
 
-[Als Nächstes: der Einwand von der Ahnungslosigkeit](https://utilitarianism.net/objections-to-utilitarianism/cluelessness/)
-
-[Andere Einwände gegen Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism#specific-objections-against-utilitarianism)
-
-## Diese Seite zitieren
-
-MacAskill, W., Meissner, D. und Chappell, R.Y. (2023). Der Gleichheits-Einwand. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/objections-to-utilitarianism/rights>, zuletzt aufgerufen am 10/25/2023.
-
-## Möchtest du die Welt zu einem besseren Ort machen?
-
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
-
 ## Ressourcen und weiterführende Lektüre
 
 * Roger Crisp (2003). [Equality, Priority, and Compassion](https://www.jstor.org/stable/10.1086/373954?seq=1). _Ethics_, 113(4): 745–763.

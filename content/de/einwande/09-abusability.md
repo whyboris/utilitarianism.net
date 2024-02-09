@@ -72,19 +72,11 @@ Manchmal kann ein wenig Wissen eine gefährliche Sache sein, und dies scheint pl
 
 Letzten Endes gibt es jedoch keine Garantie dafür, dass wahre Überzeugungen sozial optimal sind. Es ist immer möglich, dass sich eine vernünftige, nicht-absolutistische Moraltheorie als selbstverleugnend erweist. Diese Möglichkeit stellt keinen Einwand gegen diese Ansichten dar.
 
-[Andere Einwände gegen Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism#specific-objections-against-utilitarianism)
+{{< next-page-objection hide-next="true" end-objection="true" >}}
 
-[Nächstes Kapitel: Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+{{< how-to-cite authors="Chappell, R.Y." >}}
 
-## Diese Seite zitieren
-
-Chappell, R.Y. (2023). Der Einwand von der Missbräuchlichkeit. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/objections-to-utilitarianism/abusability>, zuletzt aufgerufen am 10/26/2023.
-
-## Möchtest du die Welt zu einem besseren Ort machen?
-
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+{{< button >}}
 
 ## Ressourcen und weiterführende Lektüre
 

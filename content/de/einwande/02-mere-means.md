@@ -68,19 +68,11 @@ Wir haben gesehen, dass die Behauptung, Utilitaristen würden Menschen als „bl
 
 Aber es gibt vielleicht noch andere, eng verwandte Einwände, die Menschen manchmal im Sinn haben, wenn sie den Utilitarismus beschuldigen, Menschen als bloße Mittel zu behandeln. Einige haben vielleicht den Einwand der „Getrenntheit der Personen“ im Sinn — der den Utilitarismus dafür kritisiert, dass er Kompromisse zwischen Leben genauso behandelt wie Kompromisse _innerhalb_ eines Lebens — auf den wir [separat eingehen](https://utilitarianism.net/objections-to-utilitarianism/separateness). Andere sind vielleicht darüber besorgt, dass der Utilitarismus (in der Theorie) instrumentellen Schaden zulässt, wenn der Nutzen die Kosten überwiegt. In unserer Diskussion über den [Rechte-Einwand](https://utilitarianism.net/objections-to-utilitarianism/rights/) wird dieses Anliegen ausführlicher behandelt. Man beachte, dass Utilitaristen in der Praxis dazu neigen, die Achtung von Rechten [nachdrücklich zu unterstützen](https://utilitarianism.net/utilitarianism-and-practical-ethics#respecting-commonsense-moral-norms), da Gesellschaften, die die Rechte des Einzelnen respektieren, in der Regel besser für die Mehrung des Gesamtwohlergehens sorgen.
 
-[Als Nächstes: der Einwand von der Getrenntheit von Personen](https://utilitarianism.net/objections-to-utilitarianism/separateness-of-persons/)
+{{< next-page-objection >}}
 
-[Andere Einwände gegen Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism#specific-objections-against-utilitarianism)
+{{< how-to-cite authors="Chappell, R.Y.">}}
 
-## Diese Seite zitieren
-
-Chappell, R.Y. (2023). Der „bloße Mittel“-Einwand. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/objections-to-utilitarianism/mere-means>, zuletzt aufgerufen am 10/16/2023.
-
-## Möchtest du die Welt zu einem besseren Ort machen?
-
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+{{< button >}}
 
 ## Ressourcen und weiterführende Lektüre
 

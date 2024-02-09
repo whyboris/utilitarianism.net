@@ -68,19 +68,11 @@ Darüber hinaus können Befürworter des Utilitarismus feststellen, dass nicht-u
 
 Schließlich können die Befürworter des Utilitarismus einfach „in den sauren Apfel beißen“ und akzeptieren, dass Moral sehr anspruchsvoll ist. Sie können darauf hinweisen, dass utilitaristische Forderungen auf dem überzeugenden Ziel fußen, eine blühende Welt mit möglichst viel Wohlergehen für alle zu schaffen. Wann immer der Utilitarismus von uns verlangt, etwas aufzugeben, das wir schätzen, um anderen zu nützen, wissen wir zumindest, dass dieser Nutzen größer, oft viel größer, ist,  als es unsere Kosten sind.
 
-[Als Nächstes: der Einwand der Entfremdung](https://utilitarianism.net/objections-to-utilitarianism/alienation/)
+{{< next-page-objection >}}
 
-[Andere Einwände gegen Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism#specific-objections-against-utilitarianism)
+{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
 
-## Diese Seite zitieren
-
-MacAskill, W., Meissner, D. und Chappell, R.Y. (2023). Der Einwand, Utilitarismus sei zu fordernd. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/objections-to-utilitarianism/demandingness>, zuletzt aufgerufen am 10/18/2023.
-
-## Möchtest du die Welt zu einem besseren Ort machen?
-
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+{{< button >}}
 
 ## Ressourcen und weiterführende Lektüre
 

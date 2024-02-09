@@ -18,16 +18,16 @@
   {{ if not (.Get "hide-other") }}
 
     <a
-      href="/objections-to-utilitarianism#specific-objections-to-utilitarianism"
+      href="/{{ i18n "link.specific-objections" }}"
     >
-      <div class="small-button">Other Objections to Utilitarianism</div>
+      <div class="small-button">{{ i18n "button.other-objections" }}</div>
     </a>
   {{ end }}
 
   {{ if .Get "end-objection" }}
 
     <a href="/acting-on-utilitarianism">
-      <div class="small-button">Next Chapter: Acting on Utilitarianism</div>
+      <div class="small-button">{{ i18n "button.next-chapter" }} {{ i18n "menu.acting" }}</div>
     </a>
   {{ end }}
 

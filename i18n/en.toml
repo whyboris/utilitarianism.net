@@ -30,6 +30,10 @@
   other = "Next:"
 [button.next-chapter]
   other = "Next Chapter:"
+[button.other-objections]
+  other = "Other Objections to Utilitarianism"
+[link.specific-objections]
+  other = "objections-to-utilitarianism#specific-objections-to-utilitarianism"
 [cite.accessed]
   other = "accessed"
 [cite.book-title]

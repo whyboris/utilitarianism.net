@@ -1,7 +1,7 @@
 [site.url-full]
-  other = "https://www.utilitarianismus.net"
+  other = "https://www.utilitarismus.net"
 [site.url-readable]
-  other = "Utilitarianismus.net"
+  other = "Utilitarismus.net"
 [site.footer]
   other = "Diese Website wurde von William MacAskill, außerordentlicher Professor für Philosophie an der Universität Oxford, mitgestaltet"
 [menu.acting]
@@ -30,6 +30,10 @@
   other = "Nächstes:"
 [button.next-chapter]
   other = "Nächstes Kapitel:"
+[button.other-objections]
+  other = "Weitere Einwände gegen den Utilitarismus"
+[link.specific-objections]
+  other = "einwande/#spezifische-einwände-gegen-utilitarismus"
 [cite.accessed]
   other = "zuletzt aufgerufen am"
 [cite.book-title]

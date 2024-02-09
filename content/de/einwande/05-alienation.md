@@ -60,19 +60,11 @@ Es wäre zutiefst entfremdend, wenn eine Moraltheorie die überwältigende Mehrh
 
 (Dieser Artikel befasst sich ausschließlich mit der Besorgnis, dass der Utilitarismus unsere gewöhnlichen Motivationen zu _invalidieren_ scheint. Für die separate Sorge, dass er unsere persönlichen Projekte und Interessen zu leicht _trumpft_, siehe den [Einwand, Utilitarismus sei zu fordernd](https://utilitarianism.net/objections-to-utilitarianism/demandingness/).)
 
-[Als Nächstes: der Einwand der besonderen Verpflichtungen](https://utilitarianism.net/objections-to-utilitarianism/special-obligations/)
+{{< next-page-objection >}}
 
-[Andere Einwände gegen Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism#specific-objections-against-utilitarianism)
+{{< how-to-cite authors="Chappell, R.Y." >}}
 
-## Diese Seite zitieren
-
-Chappell, R.Y. (2023). Der Einwand der Entfremdung. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/objections-to-utilitarianism/alienation>, zuletzt aufgerufen am 10/18/2023.
-
-## Möchtest du die Welt zu einem besseren Ort machen?
-
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+{{< button >}}
 
 ## Ressourcen und weiterführende Lektüre
 
