@@ -45,7 +45,7 @@ Diese Webseite soll eine prägnante, verständliche und ansprechende Einführung
      author="Prof. Philip Pettit, Princeton / ANU" >}}
 
 <center>
-{{< small-button url="uber-uns#endorsements" text="Siehe akademische Befürwortungen" inverted=true >}}
+{{< small-button url="uber-uns#vermerke" text="Siehe akademische Befürwortungen" inverted=true >}}
 </center>
 
 </div>
