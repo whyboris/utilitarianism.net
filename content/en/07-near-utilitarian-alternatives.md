@@ -1,10 +1,11 @@
 ---
 title: "Near-Utilitarian Alternatives"
 slug: "near-utilitarian-alternatives"
+authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 7
+weight: 107
 description: "There are several ways to reject aspects of utilitarianism while remaining on board with the general thrust of the theory (at least in practice). This chapter explores a range of such near-utilitarian views, to demonstrate the robustness of utilitarianism's practical recommendations. Even if you think the theory is technically false, you may nonetheless have good grounds to largely agree with its practical verdicts."
 gradientTop: "#305D9C"
 gradientBottom: "#1F2A70"
@@ -120,9 +121,9 @@ But those are a fairly narrow range of views. By contrast, it is noteworthy—an
 
 The next chapter discusses several of the most important objections to utilitarianism and responses to these objections.
 
-{{< next-page-textbook title="Objections to Utilitarianism and Responses" url="/objections-to-utilitarianism" >}}
+{{< next-page-textbook objections="true" >}}
 
-{{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

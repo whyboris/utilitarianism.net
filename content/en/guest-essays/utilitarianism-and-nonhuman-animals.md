@@ -3,6 +3,7 @@ title: "Utilitarianism and Nonhuman Animals"
 book: "Utilitarianism and Nonhuman Animals"
 date: 2023-01-29
 author: Jeff Sebo
+authors: "Sebo, J."
 draft: false
 menu: "guest"
 weight: 1
@@ -120,7 +121,7 @@ We are only at the start of asking such questions, but the answers will be impor
 
 ---
 
-{{< how-to-cite authors="Sebo, J." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}
 

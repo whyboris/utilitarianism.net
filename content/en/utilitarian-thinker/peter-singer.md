@@ -1,6 +1,7 @@
 ---
 title: "Peter Singer"
 book: "Peter Singer"
+authors: "Hampton, L."
 year: "1946"
 date: 2023-01-29
 draft: false
@@ -24,7 +25,7 @@ Singer is best known for his views on animal ethics. In his book _Animal Liberat
 
 Singer has also campaigned against [global poverty](/acting-on-utilitarianism#global-health-and-development). In 1972, he wrote a widely-cited article titled _[Famine, Affluence and Morality](/peter-singer-famine-affluence-and-morality)_ in which he introduces the famous [“drowning child” thought experiment](/peter-singer-famine-affluence-and-morality#drowning-child).[^4] The principle underlying it is that if one can save a life sacrificing nothing of moral significance, one has an obligation to do so. The implication of this principle is that people in rich countries have an obligation to give up at least some of their income to help the poor, insofar as it is possible. Singer has also argued that affluent nations ought to take much stronger action on climate change, and has argued in favor of the legalization of abortion and the legality of euthanasia.[^5]
 
-{{< how-to-cite authors="Hampton, L." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}
 

@@ -3,6 +3,7 @@ title: "Analytic Hedonism and Observable Moral Facts"
 book: "Analytic Hedonism and Observable Moral Facts: A Précis of The Feeling of Value"
 date: 2023-01-29
 author: Sharon Hewitt Rawlette
+authors: "Rawlette, S.H."
 draft: false
 menu: "guest"
 weight: 5
@@ -192,7 +193,7 @@ Now, recognizing the equal intrinsic value of positive experience no matter the 
 
 ---
 
-{{< how-to-cite authors="Rawlette, S.H." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}
 

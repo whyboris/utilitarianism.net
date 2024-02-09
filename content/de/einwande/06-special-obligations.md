@@ -1,11 +1,12 @@
 ---
 title: "Der Einwand der besonderen Verpflichtungen"
 slug: "besonderen-verpflichtungen"
+authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 6
+weight: 206
 page: 6
 description: "Aus Beziehungen wie Elternschaft oder Vormundschaft ergeben sich scheinbar besondere Verpflichtungen zum Schutz derjenigen, die unserer Obhut unterstehen (wobei diese Verpflichtungen strenger sind als unsere allgemeinen Pflichten zur Wohltätigkeit gegenüber Fremden). In diesem Artikel wird untersucht, inwieweit der unparteiliche Utilitarismus Intuitionen und normativen Praktiken der Parteilichkeit Rechnung tragen kann."
 gradientTop: "#822FA8"
@@ -62,19 +63,11 @@ Wir haben gesehen, dass der Utilitarismus viele Formen der Parteilichkeit in der
 
 Denjenigen, die auf einer grundlegenden theoretischen Ebene auf Parteilichkeit bestehen, können Utilitaristen entgegnen, dass ihre Intuitionen unbegründet sind und dass ihre daraus resultierende Sichtweise beunruhigend prinzipienlos (und sogar selbstzerstörerisch) ist. Wenn wir anfangen, (fundamentale) Unparteilichkeit als moralischen Standard zu betrachten und Parteilichkeit als etwas, das einer besonderen Rechtfertigung bedarf, dann könnte der Utilitarismus auf einer viel solideren Grundlage stehen.
 
-[Als Nächstes: der Gleichheits-Einwand](https://utilitarianism.net/objections-to-utilitarianism/equality/)
+{{< next-page-objection >}}
 
-[Andere Einwände gegen Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism#specific-objections-against-utilitarianism)
+{{< how-to-cite >}}
 
-## Diese Seite zitieren
-
-Chappell, R.Y und Meissner, D.. (2023). Der Einwand der besonderen Verpflichtungen. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/objections-to-utilitarianism/special-obligations>, zuletzt aufgerufen am 10/18/2023.
-
-## Möchtest du die Welt zu einem besseren Ort machen?
-
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+{{< button >}}
 
 ## Ressourcen und weiterführende Lektüre
 

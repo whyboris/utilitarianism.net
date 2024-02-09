@@ -95,7 +95,7 @@ After adding a document it will likely need some manual fixes:
 - Add the `{{< TOC >}}` to automatically generate the _Table of Contents_
 - Update the four spaces indentations to be `>` (quote)
 - Remove the "## How to cite" heading and replace the entire citation with `{{< how-to-cite >}}`
-  - if the authors are not "MacAskill, W., Meissner, D., and Chappell, R.Y." then do `{{< how-to-cite authors="your authors" >}}`
+  - if the authors are not "MacAskill, W., Meissner, D., and Chappell, R.Y." then add `authors: "author name(s)"` to _front matter_ (top of the file)
 - Add the _Action_ button shortcode `{{< button >}}`
 - If a footnote was multi-paragraph, add the indentation so the text stays with the footnote (rather than being rendered to the page at the bottom)
 - Look over the document for any other manual fixes
@@ -105,6 +105,8 @@ After adding a document it will likely need some manual fixes:
 
 - Consult _Hugo_ [documentation](https://gohugo.io/documentation/) if you have trouble, or reach out to Boris with questions.
 - We have a shortcode that will generate the table of contents: `{{< TOC >}}`
+- _Front matter_ includes `authors: ` which will be used in the _"How to Cite This Page"_ section of each page.
+  - if the field is absent, the default three authors will be listed
 - We enabled `unsafe` mode for _Markdown_ to allow [subscript](https://discourse.gohugo.io/t/footnote-sup-tag-not-working-inside-markdownify-help/25426) and other _HTML_ elements (e.g. see the _glossary.md_ file)
 - Pages that have the same name as a folder need to be moved into the folder and renamed to `_index.md` to work properly (e.g. `objections-to-utilitarianism`)
   - these use the `list.html` _layout_

@@ -1,11 +1,12 @@
 ---
 title: "Der Einwand von der Getrenntheit von Personen"
 slug: "getrenntheit-von-personen"
+authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 3
+weight: 203
 page: 3
 description: "Der Gedanke, dass der Utilitarismus die „Getrenntheit von Personen“ vernachlässigt, hat sich als ein sehr einflussreicher Einwand erwiesen. Aber es ist ein Einwand, der schwer zu greifen ist. In diesem Artikel werden drei mögliche Interpretationen des Einwandes untersucht und wie der Utilitarismus auf jede reagieren kann."
 gradientTop: "#571B9E"
@@ -102,19 +103,11 @@ Wenn man dies alles zusammen nimmt, können Befürworter des Aggregationsprinzip
 
 Wir haben gesehen, dass der Einwand der „Getrenntheit von Personen“ gegen den Utilitarismus drei Formen annehmen kann, von denen keine entscheidend ist. Der Einwand der _Kompensation_ beruht auf unplausiblen egoistischen Annahmen. Der Einwand der _Austauschbarkeit_ beruht auf einem Missverständnis: Der Utilitarismus muss unterschiedliche Individuen nicht als austauschbar behandeln. Schließlich haben wir auch gesehen, dass es für Utilitaristen Möglichkeiten gibt, _anti-aggregative_ Intuitionen, wenn sie auch eine gewisse Kraft haben, zurückzuweisen und dass diese _anti-aggregativen_ Ansichten mit noch größeren Schwierigkeiten konfrontiert sind.
 
-[Als Nächstes: der Einwand, Utilitarismus sei zu fordernd](https://utilitarianism.net/objections-to-utilitarianism/demandingness/)
+{{< next-page-objection >}}
 
-[Andere Einwände gegen Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism#specific-objections-against-utilitarianism)
+{{< how-to-cite >}}
 
-## Diese Seite zitieren
-
-Chappell, R.Y. und Meissner, D.(2023). Der Einwand von der Getrenntheit von Personen. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/objections-to-utilitarianism/separateness-of-persons>, zuletzt aufgerufen am 10/17/2023.
-
-## Möchtest du die Welt zu einem besseren Ort machen?
-
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+{{< button >}}
 
 ## Ressourcen und weiterführende Lektüre
 

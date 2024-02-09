@@ -1,6 +1,7 @@
 ---
 title: "Utilitarismo y ética práctica"
 slug: "utilitarismo-y-etica-practica"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 draft: false
 menu: "main"
@@ -144,7 +145,7 @@ El siguiente capítulo analiza algunas teorías rivales importantes que pueden s
 
 {{< next-page-textbook title="Alternativas-casi-utilitaristas" url="/alternativas-casi-utilitaristas" >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

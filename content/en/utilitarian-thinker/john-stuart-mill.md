@@ -1,6 +1,7 @@
 ---
 title: "John Stuart Mill"
 book: "John Stuart Mill"
+authors: "Hampton, L."
 year: "(1806 - 1873)"
 date: 2023-01-29
 draft: false
@@ -28,7 +29,7 @@ Mill was a committed advocate of social and political reform. He was a member of
 
 Mill’s own thought departed from Bentham’s in his conception of happiness. Bentham believed that the happiness produced by an action can be measured by a “[felicific calculus](/glossary#hedonic-calculus)”, that is, by its intensity, duration, certainty, propinquity (closeness/remoteness), fecundity (probability that the action will be followed by sensations of the same kind), purity (probability that the action will be followed by sensations of a different kind), and extent (the number of people the action affects). Mill believed there are different _qualities_ as well as quantities of pleasure. According to some interpretations of his writing, he believed that no amount of so-called _lower_ or bodily pleasures could be more valuable than _higher_ or mental pleasure. This enlarged conception of happiness led him to place great importance on individuality, freedom of speech and expression, democracy, art, culture and education.[^6]
 
-{{< how-to-cite authors="Hampton, L." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}
 

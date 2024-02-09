@@ -1,6 +1,7 @@
 ---
 title: "Actuar conforme al utilitarismo"
 slug: "actuar-conforme-al-utilitarismo"
+authors: "MacAskill, W. y Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "acting"
@@ -151,7 +152,7 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
 
 {{< acting-buttons >}}
 
-{{< how-to-cite authors="MacAskill, W. y Meissner, D." >}}
+{{< how-to-cite >}}
 
 ## Recursos y más información
 

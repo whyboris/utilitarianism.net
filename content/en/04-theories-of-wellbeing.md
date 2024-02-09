@@ -1,10 +1,11 @@
 ---
 title: "Theories of Well-Being"
 slug: "theories-of-well-being"
+authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 4
+weight: 104
 description: "Explores the three major theories of well-being, or what makes a life good for the individual living it: hedonism, desire theory, and objective list theory."
 gradientTop: "#084BC7"
 gradientBottom: "#1B7CCC"
@@ -167,9 +168,9 @@ The competing theories of well-being mostly coincide in practice, but this may c
 
 The next chapter discusses _population ethics_, and how to evaluate outcomes in which different numbers of people may exist.
 
-{{< next-page-textbook title="Population Ethics" url="/population-ethics" >}}
+{{< next-page-textbook >}}
 
-{{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

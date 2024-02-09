@@ -1,11 +1,12 @@
 ---
 title: "Der Einwand von der Missbräuchlichkeit"
 slug: "Missbrauchlichkeit"
+authors: "Chappell, R.Y."
 date: 2023-03-08
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 9
+weight: 209
 page: 9
 description: "Manche argumentieren, der Utilitarismus sei selbstverleugnend: dass er sich gegen seine eigene Adoption ausspricht, da die Gefahr besteht, dass falsche Appelle an das „höhere Gut“ zu furchtbar schädlichen Handlungen führen. In diesem Artikel wird untersucht, wie man sich am besten vor solchen Risiken schützen kann. Es wird die Frage gestellt, ob es ein Einwand gegen eine Theorie ist, wenn sie sich auf diese Weise als selbstverleugnend erweist."
 gradientTop: "#6F4BC9"
@@ -72,19 +73,11 @@ Manchmal kann ein wenig Wissen eine gefährliche Sache sein, und dies scheint pl
 
 Letzten Endes gibt es jedoch keine Garantie dafür, dass wahre Überzeugungen sozial optimal sind. Es ist immer möglich, dass sich eine vernünftige, nicht-absolutistische Moraltheorie als selbstverleugnend erweist. Diese Möglichkeit stellt keinen Einwand gegen diese Ansichten dar.
 
-[Andere Einwände gegen Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism#specific-objections-against-utilitarianism)
+{{< next-page-objection hide-next="true" end-objection="true" >}}
 
-[Nächstes Kapitel: Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+{{< how-to-cite >}}
 
-## Diese Seite zitieren
-
-Chappell, R.Y. (2023). Der Einwand von der Missbräuchlichkeit. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/objections-to-utilitarianism/abusability>, zuletzt aufgerufen am 10/26/2023.
-
-## Möchtest du die Welt zu einem besseren Ort machen?
-
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+{{< button >}}
 
 ## Ressourcen und weiterführende Lektüre
 

@@ -1,6 +1,7 @@
 ---
 title: "Jeremy Bentham"
 book: "Jeremy Bentham"
+authors: "Hampton, L."
 year: "1748 - 1832"
 date: 2023-01-29
 draft: false
@@ -24,7 +25,7 @@ Many of Bentham’s views were considered radical in Georgian and Victorian Brit
 
 Bentham also applied the principle of utility to the reform of political institutions. Believing that with greater education, people can more accurately discern their long-term interests, and seeing progress in education within his own society, he supported democratic reforms such as the extension of the suffrage. He also advocated for greater freedom of speech, transparency and publicity of officials as accountability mechanisms. A committed atheist, he argued in favor of the separation of church and state.
 
-{{< how-to-cite authors="Hampton, L." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}
 

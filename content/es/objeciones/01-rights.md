@@ -1,6 +1,7 @@
 ---
 title: "La objeción de los derechos"
 slug: "derechos"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
@@ -66,7 +67,7 @@ Por supuesto, es importante subrayar que la vida real no viene con tales estipul
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

@@ -1,6 +1,7 @@
 ---
 title: "La objeción de la incertidumbre radical"
 slug: "incertidumbre-radical"
+authors: "Chappell, R.Y."
 date: 2023-03-08
 tipo: "page"
 draft: false
@@ -92,7 +93,7 @@ Hay razones para dudar de que la incertidumbre radical constituya realmente una 
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

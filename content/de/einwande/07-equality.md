@@ -1,11 +1,12 @@
 ---
 title: "Der Gleichheits-Einwand"
 slug: "gleichheits"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 7
+weight: 207
 page: 7
 description: "Der Utilitarismus befasst sich mit dem allgemeinen Wohlergehen der Individuen einer Population, aber viele wenden ein, dass Gerechtigkeit eine zusätzliche Sorge darum erfordert, wie dieses Wohlergehen auf Individuen verteilt ist. Dieser Artikel untersucht diesen Einwand und zeigt auf, wie Utilitaristen am besten darauf reagieren können."
 gradientTop: "#531694"
@@ -72,23 +73,9 @@ Schließlich können Befürworter des Utilitarismus wieder einmal „in den saur
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
-
-[Als Nächstes: der Einwand von der Ahnungslosigkeit](https://utilitarianism.net/objections-to-utilitarianism/cluelessness/)
-
-[Andere Einwände gegen Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism#specific-objections-against-utilitarianism)
-
-## Diese Seite zitieren
-
-MacAskill, W., Meissner, D. und Chappell, R.Y. (2023). Der Gleichheits-Einwand. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/objections-to-utilitarianism/rights>, zuletzt aufgerufen am 10/25/2023.
-
-## Möchtest du die Welt zu einem besseren Ort machen?
-
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
 
 ## Ressourcen und weiterführende Lektüre
 

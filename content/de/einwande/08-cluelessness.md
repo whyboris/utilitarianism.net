@@ -1,11 +1,12 @@
 ---
 title: "Der Einwand von der Ahnungslosigkeit"
 slug: "ahnungslosigkeit"
+authors: "Chappell, R.Y."
 date: 2023-03-08
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 8
+weight: 208
 page: 8
 description: "Wird der Utilitarismus dadurch untergraben, dass wir die langfristigen Folgen unseres Handelns nicht vorhersagen können? In diesem Artikel wird untersucht, ob sich Utilitaristen immer noch vom kurzfristigen Erwartungswert leiten lassen können, auch wenn dieser im Vergleich zum potenziellen Wert oder Schaden der unbekannten langfristigen Folgen gering ist."
 gradientTop: "#260380"
@@ -90,19 +91,11 @@ Alle plausiblen Theorien sollten darin übereinstimmen, dass die Gesamtkonsequen
 
 Es gibt Grund, daran zu zweifeln, dass die Sorge der Ahnungslosigkeit überhaupt einen _Einwand_ gegen den Utilitarismus darstellt. Ahnungslosigkeit ist vielleicht nur eine traurige Konsequenz der Umstände, in denen wir uns befinden. Aber Überlegungen zum Erwartungswert, geleitet durch plausible Heuristiken, können uns dennoch weiterhelfen. Wir können vernünftigerweise den (verhältnismäßig) kurzfristigen Erwartungswert für bare Münze nehmen, selbst wenn wir keine Ahnung von den langfristigen Folgen der fraglichen Handlungen haben. Und selbst wenn die langfristige Ahnungslosigkeit den kurzfristigen Erwartungswert zunichtemacht, kann es immer noch einige Optionen geben — etwa die Arbeit zur Verringerung existenzieller Risiken — die einen deutlich positiven langfristigen Erwartungswert haben. In der Frage, wie wir im Angesicht von Ahnungslosigkeit [handeln](https://utilitarianism.net/acting-on-utilitarianism) sollen, hinterlässt der Utilitarismus uns also letztlich nicht mit leeren Händen.
 
-[Als Nächstes: der Einwand von der Missbräuchlichkeit](https://utilitarianism.net/objections-to-utilitarianism/abusability/)
+{{< next-page-objection >}}
 
-[Andere Einwände gegen Utilitarismus](https://utilitarianism.net/objections-to-utilitarianism#specific-objections-against-utilitarianism)
+{{< how-to-cite >}}
 
-## Diese Seite zitieren
-
-Chappell, R.Y. (2023). Der Einwand von der Ahnungslosigkeit. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/objections-to-utilitarianism/cluelessness>, zuletzt aufgerufen am 10/19/2023.
-
-## Möchtest du die Welt zu einem besseren Ort machen?
-
-Erfahre, wie du Utilitarismus in die Praxis umsetzt:
-
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+{{< button >}}
 
 ## Ressourcen und weiterführende Lektüre
 

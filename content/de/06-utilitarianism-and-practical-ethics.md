@@ -4,7 +4,7 @@ slug: "utilitarismus-und-praktische-ethik"
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 6
+weight: 106
 description: "Der Utilitarismus hat wichtige Implikationen dafür, wie wir über ein ethisches Leben nachdenken sollten. Obwohl er deontischen Zwängen kein intrinsisches Gewicht beimisst, befürwortet er in der Praxis viele vernünftige Verbote und Tugenden. In der ethischen Praxis liegt der Hauptunterschied stattdessen in der Betonung des positiven Tuns von Gutem auf eine Weise, die das übliche, von Menschen realisierte Maß guter Taten in Umfang und Effizienz übersteigt."
 gradientTop: "#089FD1"
 gradientBottom: "#305D9C"

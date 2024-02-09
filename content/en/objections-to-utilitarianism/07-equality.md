@@ -1,11 +1,12 @@
 ---
 title: "The Equality Objection"
 slug: "equality"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 7
+weight: 207
 page: 7
 description: "Utilitarianism is concerned with the overall well-being of individuals in the population, but many object that justice requires an additional concern for how this well-being is distributed across individuals. This article examines this objection, and how utilitarians might best respond."
 gradientTop: "#531694"
@@ -70,7 +71,7 @@ Finally, proponents of utilitarianism may once again “bite the bullet” and s
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

@@ -3,7 +3,7 @@ title: "Einwände gegen den Utilitarismus und Antworten"
 date: 2023-01-29
 draft: false
 menu: ["objections", "main"]
-weight: 100
+weight: 300
 page: 0
 description: "In diesem Kapitel wird ein Instrumentarium allgemeiner Strategien vorgestellt, mit denen auf Einwände gegen den Utilitarismus reagiert werden kann, bevor die einflussreichsten spezifischen Einwände gegen die Theorie vorgestellt werden."
 gradientTop: "#1F2A70"
@@ -24,7 +24,7 @@ Unsere Darstellung konzentriert sich zwar auf den Utilitarismus, aber es sei dar
 
 Viele Einwände beruhen auf der Vorstellung, dass der Utilitarismus kontraintuitive Implikationen hat. Diese Implikationen können wir an konkreten Beispielen oder _Gedankenexperimenten_ veranschaulichen. In unserem Artikel über den [Rechte-Einwand](https://utilitarianism.net/objections-to-utilitarianism/rights) betrachten wir zum Beispiel den Fall der Transplantation:
 
-**Transplantation: **Man stelle sich ein hypothetisches Szenario vor, in dem es fünf Patienten gibt, von denen jeder bald sterben wird, wenn sie nicht ein geeignetes transplantiertes Organ erhalten — ein Herz, zwei Nieren, eine Leber und eine Lunge. Ein gesunder Patient, Chuck, kommt zu einer Routineuntersuchung ins Krankenhaus und der Arzt stellt fest, dass Chuck perfekt als Spender für alle fünf Patienten geeignet ist. Sollte der Arzt Chuck töten und seine Organe verwenden, um die fünf anderen zu retten?
+**Transplantation:** Man stelle sich ein hypothetisches Szenario vor, in dem es fünf Patienten gibt, von denen jeder bald sterben wird, wenn sie nicht ein geeignetes transplantiertes Organ erhalten — ein Herz, zwei Nieren, eine Leber und eine Lunge. Ein gesunder Patient, Chuck, kommt zu einer Routineuntersuchung ins Krankenhaus und der Arzt stellt fest, dass Chuck perfekt als Spender für alle fünf Patienten geeignet ist. Sollte der Arzt Chuck töten und seine Organe verwenden, um die fünf anderen zu retten?
 
 Auf den ersten Blick scheint es, dass der Utilitarismus die Frage bejahen muss. Es ist besser, dass fünf Menschen überleben, als dass nur eine Person überlebt. Aber Chuck zu töten, erscheint vielen moralisch ungeheuerlich. Diese scheinbare Implikation des Utilitarismus wird als Argument gegen seine Richtigkeit als Moraltheorie angeführt.
 

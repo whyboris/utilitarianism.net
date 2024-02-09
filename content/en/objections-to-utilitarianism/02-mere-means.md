@@ -1,11 +1,12 @@
 ---
 title: "The Mere Means Objection"
 slug: "mere-means"
+authors: "Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 2
+weight: 202
 page: 2
 description: "Critics often allege that utilitarianism objectionably instrumentalizes people—treating us as mere means to the greater good, rather than properly valuing individuals as ends in themselves. In this article, we assess whether this is a fair objection."
 gradientTop: "#371E87"
@@ -68,7 +69,7 @@ But there may be other, closely related, objections that people sometimes have i
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y.">}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

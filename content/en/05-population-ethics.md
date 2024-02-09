@@ -1,10 +1,11 @@
 ---
 title: "Population Ethics"
 slug: "population-ethics"
+authors: "Chappell, R.Y., Meissner, D., and MacAskill, W."
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 5
+weight: 105
 description: "Population ethics tackles questions like how we should weigh new lives against existing lives, and how we should balance quantity and quality of life (when comparing different-sized populations). This chapter critically surveys five major approaches to population ethics: the total view, the average view, variable value theories, critical level (and critical range) theories, and person-affecting views."
 gradientTop: "#1B7CCC"
 gradientBottom: "#089FD1"
@@ -257,9 +258,9 @@ The most important practical implications of population ethics concern how much 
 
 The next chapter discusses the most important implications of utilitarianism for how we should think about leading an ethical life.
 
-{{< next-page-textbook title="Utilitarianism and Practical Ethics" url="/utilitarianism-and-practical-ethics" >}}
+{{< next-page-textbook >}}
 
-{{< how-to-cite authors="Chappell, R.Y., Meissner, D., and MacAskill, W." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

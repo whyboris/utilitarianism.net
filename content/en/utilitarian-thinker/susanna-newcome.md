@@ -1,6 +1,7 @@
 ---
 title: "Susanna Newcome"
 book: "Susanna Newcome"
+authors: "Connolly, P."
 year: "1685 - 1763"
 date: 2023-01-29
 draft: false
@@ -76,7 +77,7 @@ Although Newcome’s books were appreciated by her contemporaries, there are com
 
 The Anglican Utilitarian movement mentioned above was largely centered around the University of Cambridge. Important thinkers like John Gay, John Brown, Soame Jenyns, Edmund Law, Thomas Rutherforth, and William Paley were all educated at Cambridge, and many of them had subsequent positions at the university. Several of them also had connections to St John's College, where Newcome’s husband was the Master. Contemporary reports indicate that Newcome was respected for her intellect, up-to-date on contemporary intellectual trends, and much sought after as a discussion partner. She also published her utilitarian views earlier than did the other Anglican Utilitarians. All of this suggests that she may have been an important source for the views of thinkers like Law and Rutherforth. In any event, she deserves an important place in the history of utilitarianism’s development.
 
-{{< how-to-cite authors="Connolly, P." >}}
+{{< how-to-cite >}}
 
 {{< two-button >}}
 

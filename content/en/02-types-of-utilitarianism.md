@@ -1,10 +1,11 @@
 ---
 title: "Elements and Types of Utilitarianism"
 slug: "types-of-utilitarianism"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 2
+weight: 102
 description: "After defining utilitarianism, this chapter offers a detailed analysis of its four key elements (consequentialism, welfarism, impartiality, and aggregationism). It explains the difference between maximizing, satisficing, and scalar utilitarianism, and other important distinctions between utilitarian theories."
 gradientTop: "#236d9f"
 gradientBottom: "#012147"
@@ -228,9 +229,9 @@ There are several further distinctions between utilitarian theories: we can dist
 
 The next chapter discusses arguments for utilitarianism, and for consequentialism more broadly.
 
-{{< next-page-textbook title="Arguments for Utilitarianism" url="/arguments-for-utilitarianism" >}}
+{{< next-page-textbook >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

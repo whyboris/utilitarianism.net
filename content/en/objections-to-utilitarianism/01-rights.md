@@ -1,11 +1,12 @@
 ---
 title: "The Rights Objection"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 slug: "rights"
 date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 1
+weight: 201
 page: 1
 description: "Many find it objectionable that utilitarianism seemingly licenses outrageous rights violations in certain hypothetical scenarios, killing innocent people for the greater good. This article explores how utilitarians might best respond."
 gradientTop: "#1F1E70"
@@ -66,7 +67,7 @@ Of course, it's important to stress that real life comes with no such stipulatio
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

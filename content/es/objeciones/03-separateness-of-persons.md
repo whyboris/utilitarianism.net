@@ -1,6 +1,7 @@
 ---
 title: "La objeción de la separación de las personas"
 slug: "separacion-de-las-personas"
+authors: "Chappell, R.Y. y Meissner, D."
 date: 2023-01-29
 type: "page"
 draft: false
@@ -105,7 +106,7 @@ Hemos visto que la objeción de la "separación de las personas" al utilitarismo
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y. y Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

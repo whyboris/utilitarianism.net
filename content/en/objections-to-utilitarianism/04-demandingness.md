@@ -1,11 +1,12 @@
 ---
 title: "The Demandingness Objection"
 slug: "demandingness"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 4
+weight: 204
 page: 4
 description: "In directing us to choose the impartially best outcome, even at significant cost to ourselves, utilitarianism can seem an incredibly demanding theory. This page explores whether this feature of utilitarianism is objectionable, and if so, how defenders of the view might best respond."
 gradientTop: "#430A4A"
@@ -70,7 +71,7 @@ Finally, proponents of utilitarianism may simply “bite the bullet” and accep
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 
