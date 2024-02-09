@@ -18,3 +18,9 @@
   other = "about"
 [menu.other-content]
   other = "ES: Other Content"
+[menu.famine-affluence-morality-short]
+  other = "ES: Peter Singers „Hunger, Wohlstand und Moral“"
+[menu.famine-affluence-morality-long]
+  other = "ES: Studienführer: Peter Singers „Hunger, Wohlstand und Moral“"
+[link.famine-affluence-morality]
+  other = "es-fix-this-url"

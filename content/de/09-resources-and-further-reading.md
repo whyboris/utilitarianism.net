@@ -462,7 +462,7 @@ Ressourcen für [Utilitarismus als Handlungsgrundlage](/acting-on-utilitarianism
 
 ## Peter Singers „Hunger, Wohlstand und Moral“
 
-Ressourcen für den [Studienführer: Peter Singers „Hunger, Wohlstand und Moral“](/peter-singer-famine-affluence-and-morality/)
+Ressourcen für den [Studienführer: Peter Singers „Hunger, Wohlstand und Moral“](/peter-singer-hunger-wohlstand-und-moral/)
 
 - Peter Singer (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243.
 - Peter Singer (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. (Download a free ebook or audiobook of the 10th anniversary edition at [www.thelifeyoucansave.org](www.thelifeyoucansave.org).)

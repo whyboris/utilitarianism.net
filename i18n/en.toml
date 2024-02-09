@@ -18,3 +18,9 @@
   other = "about"
 [menu.other-content]
   other = "Other Content"
+[menu.famine-affluence-morality-short]
+  other = "Famine, Affluence, and Morality"
+[menu.famine-affluence-morality-long]
+  other = "Study Guide: Peter Singer's 'Famine, Affluence, and Morality'"
+[link.famine-affluence-morality]
+  other = "peter-singer-famine-affluence-and-morality"
