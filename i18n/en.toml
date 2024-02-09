@@ -26,6 +26,8 @@
   other = "Study Guide: Peter Singer's 'Famine, Affluence, and Morality'"
 [link.famine-affluence-morality]
   other = "peter-singer-famine-affluence-and-morality"
+[button.next]
+  other = "Next:"
 [button.next-chapter]
   other = "Next Chapter:"
 [cite.accessed]

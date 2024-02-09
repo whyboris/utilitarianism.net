@@ -5,7 +5,7 @@ date: 2023-03-08
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 8
+weight: 208
 page: 8
 description: "Is utilitarianism undermined by our inability to predict the long-term consequences of our actions? This article explores whether utilitarians can still be guided by near-term expected value even when this is small in comparison to the potential value or disvalue of the unknown long-term consequences."
 gradientTop: "#260380"

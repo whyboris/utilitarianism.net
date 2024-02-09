@@ -4,7 +4,7 @@ slug: "introduction-to-utilitarianism"
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 1
+weight: 101
 description: "This chapter introduces utilitarianism, and its major costs and benefits as a moral theory."
 gradientTop: "#0c3b5b"
 gradientBottom: "#236d9f"
@@ -83,7 +83,7 @@ Utilitarian ethics has an intellectual tradition spanning centuries, during whic
 
 The next chapter discusses the four elements of utilitarian theories in greater depth and introduces several variants of utilitarianism.
 
-{{< next-page-textbook title="Elements and Types of Utilitarianism" url="/types-of-utilitarianism" >}}
+{{< next-page-textbook >}}
 
 ---
 

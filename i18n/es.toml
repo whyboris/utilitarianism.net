@@ -26,6 +26,8 @@
   other = "ES: Studienführer: Peter Singers „Hunger, Wohlstand und Moral“"
 [link.famine-affluence-morality]
   other = "es-fix-this-url"
+[button.next]
+  other = "ES: Next:"
 [button.next-chapter]
   other = "ES: Next Chapter:"
 [cite.accessed]

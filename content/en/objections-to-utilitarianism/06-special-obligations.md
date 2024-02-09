@@ -5,7 +5,7 @@ date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 6
+weight: 206
 page: 6
 description: "Relationships like parenthood or guardianship seemingly give rise to special obligations to protect those who fall under our care (where these obligations are more stringent than our general duties of beneficence towards strangers). This article explores the extent to which impartial utilitarianism can accommodate intuitions and normative practices of partiality."
 gradientTop: "#822FA8"

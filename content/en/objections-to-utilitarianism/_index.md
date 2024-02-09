@@ -3,7 +3,7 @@ title: "Objections to Utilitarianism and Responses"
 date: 2023-01-29
 draft: false
 menu: ["objections", "main"]
-weight: 100
+weight: 300
 page: 0
 description: "This chapter presents a toolkit of general strategies for responding to objections to utilitarianism, before introducing the most influential specific objections to the theory."
 gradientTop: "#1F2A70"

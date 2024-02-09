@@ -1,8 +1,27 @@
 <div class="objections-buttons-container">
-  <a href="{{ .Get "url" }}">
-    <div class="small-button">
-      {{ i18n "button.next-chapter" }}
-      {{ .Get "title" }}
-    </div>
-  </a>
+
+  {{ if .Get "objections" }}
+
+    {{ with .Page.GetPage "objections-to-utilitarianism/_index.md"}}
+    <a href="{{ .RelPermalink }}">
+      <div class="small-button">
+        {{ i18n "button.next-chapter" }}
+        {{ .Title }}
+      </div>
+    </a>
+    {{ end }}
+
+  {{ else }}
+
+    {{ with .Page.Prev }}
+      <a href="{{ .RelPermalink }}">
+        <div class="small-button">
+          {{ i18n "button.next-chapter" }}
+          {{ .Title }}
+        </div>
+      </a>
+    {{ end }}
+
+  {{ end }}
+
 </div>

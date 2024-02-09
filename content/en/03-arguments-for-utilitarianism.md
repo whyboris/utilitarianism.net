@@ -4,7 +4,7 @@ slug: "arguments-for-utilitarianism"
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 3
+weight: 103
 description: "This chapter explains reflective equilibrium as a moral methodology, and presents several arguments for utilitarianism over non-consequentialist approaches to ethics."
 gradientTop: "#012147"
 gradientBottom: "#084BC7"
@@ -131,7 +131,7 @@ However strong you judge the arguments in favor of utilitarianism to be, your ul
 
 The next chapter discusses theories of well-being, or what counts as being good for an individual.
 
-{{< next-page-textbook title="Theories of Well-Being" url="/theories-of-wellbeing" >}}
+{{< next-page-textbook >}}
 
 {{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 

@@ -4,23 +4,13 @@
 <div class="objections-buttons-container">
   {{ if not (.Get "hide-next") }}
 
-    {{ $frontmatterMenu := first 1 $.Page.Params.menu }}
-
-    {{ $pageNumber := .Page.Params.page }}
-
-    {{ range $index, $element := (index .Site.Menus $frontmatterMenu).Sort.ByWeight }}
-
-      {{ if eq $pageNumber $index }}
-        <a href="{{ .URL }}">
-          <div class="small-button">
-            {{ with .Page }}
-              Next:
-              {{ .Title }}
-            {{ end }}
-          </div>
-        </a>
-      {{ end }}
-
+    {{ with .Page.Prev }}
+      <a href="{{ .RelPermalink }}">
+        <div class="small-button">
+          {{ i18n "button.next" }}
+          {{ .Title }}
+        </div>
+      </a>
     {{ end }}
 
   {{ end }}
@@ -28,7 +18,7 @@
   {{ if not (.Get "hide-other") }}
 
     <a
-      href="/objections-to-utilitarianism#specific-objections-against-utilitarianism"
+      href="/objections-to-utilitarianism#specific-objections-to-utilitarianism"
     >
       <div class="small-button">Other Objections to Utilitarianism</div>
     </a>

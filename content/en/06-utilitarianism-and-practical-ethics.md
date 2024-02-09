@@ -4,7 +4,7 @@ slug: "utilitarianism-and-practical-ethics"
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 6
+weight: 106
 description: "Utilitarianism has important implications for how we should think about leading an ethical life. Despite giving no intrinsic weight to deontic constraints, it supports many commonsense prohibitions and virtues in practice. Its main practical difference instead lies in its emphasis on positively doing good, in more expansive and efficient ways than people typically prioritize."
 gradientTop: "#089FD1"
 gradientBottom: "#305D9C"
@@ -140,7 +140,7 @@ Though utilitarians should try to use their lives to do the most good they can, 
 
 The next chapter discusses important rival theories that may overlap significantly with utilitarianism in practice.
 
-{{< next-page-textbook title="Near-Utilitarian Alternatives" url="/near-utilitarian-alternatives" >}}
+{{< next-page-textbook >}}
 
 {{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
 

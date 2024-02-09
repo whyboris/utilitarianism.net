@@ -5,7 +5,7 @@ date: 2023-03-08
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 9
+weight: 209
 page: 9
 description: "Some argue that utilitarianism is self-effacing, or recommends against its own acceptance, due to the risk that mistaken appeals to the 'greater good' may actually result in horrifically harmful actions being done. This article explores how best to guard against such risks, and questions whether it is an objection to a theory if it turns out to be self-effacing in this way."
 gradientTop: "#6F4BC9"
