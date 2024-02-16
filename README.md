@@ -10,7 +10,7 @@ If you're new to coding, see the [detailed instructions](instructions/README.md#
 
 First time:
 
-- Install [Hugo](https://gohugo.io/getting-started/installing/) (current version is `0.109.0` _extended edition_)
+- Install [Hugo](https://gohugo.io/getting-started/installing/) (current version is `0.122.0` _extended edition_)
 
 Any time after:
 
@@ -35,6 +35,13 @@ npm run build
 The `/public` folder now contains all the static files. The `/dist` folder now has the zip of them all: upload to your webhost, unzip, and you are _done_ 🤩
 
 For more details see [instructions/README.md](instructions/README.md#building)
+
+## Languages
+
+This website can be built in different languages, one language at a time. You must manually change `config.toml` to pick the language and disable all others:
+
+- `defaultContentLanguage = "en"`
+- `disableLanguages = ["es", "de"]`
 
 ## Adding documents
 

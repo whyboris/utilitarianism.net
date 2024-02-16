@@ -1,0 +1,52 @@
+[site.url-full]
+  other = "https://www.utilitarismus.net"
+[site.url-readable]
+  other = "Utilitarismus.net"
+[site.footer]
+  other = "Diese Website wurde von William MacAskill, außerordentlicher Professor für Philosophie an der Universität Oxford, mitgestaltet"
+[menu.acting]
+  other = "Utilitarismus als Handlungsgrundlage"
+[link.acting]
+  other = "utilitarismus-als-handlungsgrundlage"
+[menu.textbook]
+  other = "Erfahren Sie mehr über Utilitarismus"
+[link.textbook]
+  other = "lehrbuch"
+[menu.core-articles]
+  other = "Kernartikel"
+[menu.about]
+  other = "Über Uns"
+[link.about]
+  other = "uber-uns"
+[menu.other-content]
+  other = "Andere Inhalte"
+[menu.famine-affluence-morality-short]
+  other = "Peter Singers „Hunger, Wohlstand und Moral“"
+[menu.famine-affluence-morality-long]
+  other = "Studienführer: Peter Singers „Hunger, Wohlstand und Moral“"
+[link.famine-affluence-morality]
+  other = "peter-singer-hunger-wohlstand-und-moral"
+[button.next]
+  other = "Nächstes:"
+[button.next-chapter]
+  other = "Nächstes Kapitel:"
+[button.other-objections]
+  other = "Weitere Einwände gegen den Utilitarismus"
+[link.objections]
+  other = "einwande"
+[link.specific-objections]
+  other = "einwande/#spezifische-einwände-gegen-utilitarismus"
+[cite.accessed]
+  other = "zuletzt aufgerufen am"
+[cite.book-title]
+  other = "Einführung in den Utilitarismus"
+[cite.and]
+  other = "und"
+[cite.how-to-cite]
+  other = "Diese Seite zitieren"
+[cite.editors-abbreviation]
+  other = "Hrsg."
+[button.make-world-better-question]
+  other = "Möchtest du die Welt zu einem besseren Ort machen?"
+[button.put-into-practice]
+  other = "Erfahre, wie du Utilitarismus in die Praxis umsetzt:"

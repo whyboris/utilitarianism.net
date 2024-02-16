@@ -4,23 +4,13 @@
 <div class="objections-buttons-container">
   {{ if not (.Get "hide-next") }}
 
-    {{ $frontmatterMenu := first 1 $.Page.Params.menu }}
-
-    {{ $pageNumber := .Page.Params.page }}
-
-    {{ range $index, $element := (index .Site.Menus $frontmatterMenu).Sort.ByWeight }}
-
-      {{ if eq $pageNumber $index }}
-        <a href="{{ .URL }}">
-          <div class="small-button">
-            {{ with .Page }}
-              Next:
-              {{ .Title }}
-            {{ end }}
-          </div>
-        </a>
-      {{ end }}
-
+    {{ with .Page.Prev }}
+      <a href="{{ .RelPermalink }}">
+        <div class="small-button">
+          {{ i18n "button.next" }}
+          {{ .Title }}
+        </div>
+      </a>
     {{ end }}
 
   {{ end }}
@@ -28,16 +18,16 @@
   {{ if not (.Get "hide-other") }}
 
     <a
-      href="/objections-to-utilitarianism#specific-objections-against-utilitarianism"
+      href="/{{ i18n "link.specific-objections" }}"
     >
-      <div class="small-button">Other Objections to Utilitarianism</div>
+      <div class="small-button">{{ i18n "button.other-objections" }}</div>
     </a>
   {{ end }}
 
   {{ if .Get "end-objection" }}
 
-    <a href="/acting-on-utilitarianism">
-      <div class="small-button">Next Chapter: Acting on Utilitarianism</div>
+    <a href="/{{ i18n "link.acting" }}">
+      <div class="small-button">{{ i18n "button.next-chapter" }} {{ i18n "menu.acting" }}</div>
     </a>
   {{ end }}
 

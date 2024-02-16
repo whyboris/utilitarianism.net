@@ -397,6 +397,13 @@ hr {
   .pdf-icon {
     width: 30px;
     height: 30px;
+
+    transition-property: scale;
+    transition-duration: 125ms;
+
+    &:hover {
+      scale: 1.2;
+    }
   }
 }
 
