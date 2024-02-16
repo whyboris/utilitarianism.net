@@ -1,11 +1,7 @@
 ---
-<<<<<<< HEAD:content/utilitarianism-and-practical-ethics.md
 title: "6. Utilitarianism and Practical Ethics"
-=======
-title: "Utilitarianism and Practical Ethics"
 slug: "utilitarianism-and-practical-ethics"
 authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
->>>>>>> main:content/en/06-utilitarianism-and-practical-ethics.md
 date: 2023-01-29
 draft: false
 menu: "main"
