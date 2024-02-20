@@ -200,9 +200,7 @@ The next chapter discusses important rival theories that may overlap significant
 
 [^1]: Bentham’s advice to a young girl in 1830. Bentham, J., ed. by Goldworth, A. (1983). _Deontology together with A Table of the Springs of Action and Article on Utilitarianism_. Oxford: Clarendon, p.xix.
 [^2]:
-    An estimated 734 million people lived in extreme poverty in 2015, meaning that they earned less than $1.90 per day (in 2011 prices). Thus, an annual income of $35,000 corresponds to 50 times the annual income of a person living just below the extreme poverty line.
-
-    The World Bank, PovcalNet. Regional aggregation using 2011 PPP and $1.9/day poverty line. <http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx>.
+    [The World Bank](https://data.worldbank.org/) estimated that 734 million people lived in extreme poverty in 2015, meaning that they earned less than $1.90 per day (in 2011 prices). Thus, an annual income of $35,000 corresponds to 50 times the annual income of a person living just below the extreme poverty line.
 
 [^2a]: Cf. Giving What We Can (2019). How Rich Am I?, <https://howrichami.givingwhatwecan.org/?income=29000&countryCode=USA&household%5Badults%5D=1&household%5Bchildren%5D=0>.
 [^3]: Cf. Drupp et al. (2018). [Discounting Disentangled](http://www.lse.ac.uk/GranthamInstitute/wp-content/uploads/2015/06/Working-Paper-172-Drupp-et-al.pdf). _American Economic Journal: Economic Policy_, 10 (4): 109–34.
