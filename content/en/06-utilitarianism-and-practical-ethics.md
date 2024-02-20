@@ -133,8 +133,6 @@ By the lights of utilitarianism, we should choose carefully which moral problems
 
 Though utilitarians should try to use their lives to do the most good they can, in practice, they should do so while respecting commonsense moral virtues like honesty, integrity, fairness, and law-abidingness. There are reasons we do not see utilitarians robbing banks to donate the proceeds: these commonsense moral prohibitions help society to function smoothly, and any naive calculation that violating such a prohibition would promote the greater good is almost always mistaken.
 
-The next chapter discusses important rival theories that may overlap significantly with utilitarianism in practice.
-
 {{< next-page-textbook >}}
 
 ---
