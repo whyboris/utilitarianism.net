@@ -3,7 +3,7 @@ var fs = require("fs");
 const flag = process.argv[2];
 
 const CSS_PATH = "./assets/scss/lol.scss";
-const GLOSSARY_PATH = "./content/glossary.md";
+const GLOSSARY_PATH = "./content/en/glossary.md";
 
 if (flag === "pdf") {
   enablePDFSCSS();
