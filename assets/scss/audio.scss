@@ -1,0 +1,36 @@
+$play-icon-color: #0b3959;
+
+.audio-player {
+  display: none;
+  margin-bottom: 10px;
+
+  audio {
+    width: 100%;
+  }
+}
+
+.show-player {
+  display: block;
+}
+
+.mp3 {
+  border-radius: 50%;
+  cursor: pointer;
+  margin-bottom: 12px;
+  overflow: hidden;
+  padding: 5px;
+  position: relative;
+  height: 24px;
+  width: 24px;
+
+  img {
+    transition-property: scale;
+    transition-duration: 125ms;
+  }
+
+  &:hover {
+    img {
+      scale: 1.2;
+    }
+  }
+}

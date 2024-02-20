@@ -15,8 +15,8 @@
       {{ .Params.gradientTop }}
     {{ else }}
       {{ print "#0c3b5b" }}
-    {{ end }} 0%,  
-                                              {{ if (isset .Params "gradientBottom") }}
+    {{ end }} 0%,
+    {{ if (isset .Params "gradientBottom") }}
       {{ .Params.gradientBottom }}
     {{ else }}
       {{ print "#236d9f" }}

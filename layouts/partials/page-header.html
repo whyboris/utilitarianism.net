@@ -42,15 +42,20 @@
       <ul>
         <li>
           <b>
-            <a href="/textbook"><b>Learn About Utilitarianism</b></a>
+            <a href="/{{ i18n "link.textbook" }}"><b>{{ i18n "menu.textbook" }}</b></a>
           </b>
         </li>
         <li>
-          <a href="/acting-on-utilitarianism"><b>Acting on Utilitarianism</b></a>
+          <a href="/{{ i18n "link.acting" }}"><b>{{ i18n "menu.acting" }}</b></a>
         </li>
+
+        {{ if .Site.Menus.guest }}
         <li>
           <a href="/guest-essays">Guest Essays</a>
         </li>
+        {{ end }}
+
+        {{ if not (eq .Site.Language.Lang "de") }}
         <li>
           <details>
             <summary>Study Guides<span class="icon"></span></summary>
@@ -66,9 +71,19 @@
             </li>
           </details>
         </li>
+        {{ else }}
+        <li>
+          <a href="/{{ i18n "link.famine-affluence-morality" }}">{{ i18n "menu.famine-affluence-morality-short" }}</a>
+        </li>
+        {{ end }}
+
+        {{ if .Site.Menus.thinker }}
         <li>
           <a href="/utilitarian-thinkers">Thinkers</a>
         </li>
+        {{ end }}
+
+        {{ if not (eq .Site.Language.Lang "de") }}
         <li>
           <a href="/utilitarian-quotes">Quotes</a>
         </li>
@@ -78,8 +93,10 @@
         <li>
           <a href="/books">Books</a>
         </li>
+        {{ end }}
+
         <li>
-          <a href="/about">About Us</a>
+          <a href="/{{ i18n "link.about" }}">{{ i18n "menu.about" }}</a>
         </li>
       </ul>
     </nav>

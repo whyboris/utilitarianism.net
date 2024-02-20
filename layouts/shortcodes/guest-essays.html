@@ -1,6 +1,7 @@
 {{/* pass in `true` to hide the <hr> */}}
 {{ if not (.Get 0) }}<hr />{{ end }}
 
+{{ if .Site.Menus.guest }}
 
 <div class="hide-on-pdf" data-pagefind-ignore>
   <h2>Guest Essays</h2>
@@ -24,3 +25,5 @@
     {{ end }}
   </div>
 </div>
+
+{{ end }}

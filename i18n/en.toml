@@ -1,0 +1,52 @@
+[site.url-full]
+  other = "https://www.utilitarianism.net"
+[site.url-readable]
+  other = "Utilitarianism.net"
+[site.footer]
+  other = "This website was co-created by William MacAskill, Associate Professor of Philosophy at the University of Oxford"
+[menu.acting]
+  other = "Acting on Utilitarianism"
+[link.acting]
+  other = "acting-on-utilitarianism"
+[menu.textbook]
+  other = "Learn about Utilitarianism"
+[link.textbook]
+  other = "textbook"
+[menu.core-articles]
+  other = "Core Articles"
+[menu.about]
+  other = "About Us"
+[link.about]
+  other = "about"
+[menu.other-content]
+  other = "Other Content"
+[menu.famine-affluence-morality-short]
+  other = "Famine, Affluence, and Morality"
+[menu.famine-affluence-morality-long]
+  other = "Study Guide: Peter Singer's 'Famine, Affluence, and Morality'"
+[link.famine-affluence-morality]
+  other = "peter-singer-famine-affluence-and-morality"
+[button.next]
+  other = "Next:"
+[button.next-chapter]
+  other = "Next Chapter:"
+[button.other-objections]
+  other = "Other Objections to Utilitarianism"
+[link.objections]
+  other = "objections-to-utilitarianism"
+[link.specific-objections]
+  other = "objections-to-utilitarianism#specific-objections-to-utilitarianism"
+[cite.accessed]
+  other = "accessed"
+[cite.book-title]
+  other = "Introduction to Utilitarianism"
+[cite.and]
+  other = "and"
+[cite.how-to-cite]
+  other = "How to Cite This Page"
+[cite.editors-abbreviation]
+  other = "eds."
+[button.make-world-better-question]
+  other = "Want to make the world a better place?"
+[button.put-into-practice]
+  other = "Learn how to put utilitarianism into practice:"
