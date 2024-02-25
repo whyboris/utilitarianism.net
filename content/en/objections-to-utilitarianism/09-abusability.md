@@ -83,7 +83,7 @@ Still, at the end of the day there's no guarantee that true beliefs will be soci
 - J.L. Mackie (1985). Rights, Utility, and Universalization. In R.G. Frey (ed.) _Utility and Rights_. Basil Blackwell.
 - Derek Parfit (1984). _Reasons and Persons_, Part One: Self-Defeating Theories. Clarendon Press.
 - Philip Pettit & Geoffrey Brennan (1986). [Restrictive Consequentialism](https://doi.org/10.1080/00048408612342631). _Australasian Journal of Philosophy_, 64(4): 438–455.
-- Bernard Williams (1973). A Critique of Utilitarianism. In J.J.C Smart & Bernard Williams, _Utilitarianism: For and Against_. Cambridge University Press.
+- Bernard Williams (1973). [A Critique of Utilitarianism](https://doi.org/10.1017/CBO9780511840852.002). In J.J.C Smart & Bernard Williams, _Utilitarianism: For and Against_. Cambridge University Press.
 
 [^1]:
      It's also notable that superheroes are depicted as putting so little effort into [cause prioritization](/acting-on-utilitarianism/#cause-prioritization), often fighting local crime when they could (more helpfully, but far less dramatically) use their powers in more scalable ways to do good on a global scale—as [this SMBC comic](https://www.smbc-comics.com/comic/2011-07-13) satirically illustrates.

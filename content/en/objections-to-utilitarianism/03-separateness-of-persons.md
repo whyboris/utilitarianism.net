@@ -41,13 +41,13 @@ To make the problem vivid, imagine that Connie the Consequentialist is faced wit
 
 It seems that Connie is making a deep moral mistake here. She is treating the two people’s interests as completely fungible, like money, and neglecting the fact that each person is of distinct intrinsic importance, in their own right, and not merely a fungible means to aggregate well-being. The correct moral theory, we feel, must attribute intrinsic value to particular individuals and not just to the sum total of their well-being.[^10]
 
-However, as R.Y. Chappell argues, there is no barrier to utilitarianism assigning intrinsic value to individuals in this way:[^11]
+One of the authors (Chappell) has argued that there is no barrier to utilitarianism assigning intrinsic value to individuals in this way:[^11]
 
 > There is not just one thing, the global happiness, that is good. Instead, there is my happiness, your happiness, Bob’s, and Sally’s, which are all equally weighty but nonetheless distinct intrinsic goods. What this means is that the morally fitting agent should have a corresponding plurality of non-instrumental desires: for my welfare, yours, Bob’s, and Sally’s. Tradeoffs between us may be made, but they are acknowledged as genuine tradeoffs: though a benefit to one may _outweigh_ a smaller harm to another, this does not _cancel_ it. The harm remains regrettable, for that person’s sake, even if we ultimately have most reason to accept it for the sake of more greatly benefiting another.
 
-On this view, Connie should not feel indifferent, but rather _ambivalent_—genuinely torn, as she is pulled (equally strongly) in different directions by the conflicting interests of the two individuals who need her help. In this way, the utilitarian can avoid treating individuals as fungible, and instead fully recognize and appreciate their separate value.
+On this view, what it's appropriate for Connie to feel is not _indifference_, but rather _ambivalence_—to be genuinely torn, as she is pulled (equally strongly) in different directions by the conflicting interests of the two individuals who need her help. In this way, the utilitarian can avoid treating individuals as fungible, and instead fully recognize and appreciate each individual's separate value.
 
-This utilitarian response rejects the assumption that _commensurability_ of value (that is, the ability to compare and make tradeoffs between competing interests or values) entails _fungibility_ of value (or replaceability without regret). The assumption may be rejected since non-fungibility can be secured by having multiple genuinely _distinct_ values, which may nonetheless be commensurable.[^12]
+This utilitarian response rejects the assumption that _commensurability_ of value (that is, the ability to compare and make tradeoffs between competing interests or values) entails _fungibility_ of value (or replaceability without regret). The assumption may be rejected since non-fungibility can be secured by having multiple genuinely _distinct_ values, which may nonetheless be weighed against each other.[^12]
 
 This is perhaps clearest when considering other forms of (putative) value: an art-lover might intrinsically value each item in their art collection, and yet still be willing to smother a fire with one painting if that would save five others. In valuing each painting separately, they will regret the loss of the unique painting that is thereby destroyed. But they may regard the sacrifice as worth it, even so. Nothing in their attitude here betrays an objectionably instrumental attitude towards their artworks. Just as this art consequentialist respects the separateness of paintings, so the utilitarian (or welfare consequentialist) respects the separateness of persons.
 
@@ -65,7 +65,7 @@ Still, there are particular cases in which utilitarian aggregation seems (intuit
 
 Intuitively, it does not matter how many people are watching the football game, it is simply _more important_ to save Jones from suffering severe pain during this time.[^16]
 
-### Accommodating the Intuition
+### Reinterpreting the Intuition
 
 Why is it more important to save Jones? One answer would be that we cannot aggregate distinct interests, so all that is left to do is to satisfy whichever individual moral claim is strongest, namely, Jones’s. But Parfit suggests an alternative—[prioritarian](/near-utilitarian-alternatives#prioritarianism)—explanation: perhaps we should help Jones because he is much worse off, and thus has greater moral priority.[^17]
 

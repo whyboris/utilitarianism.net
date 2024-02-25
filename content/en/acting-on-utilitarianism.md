@@ -142,6 +142,8 @@ As with donations, choosing an impactful career need not involve much of a perso
 
 Third, by utilitarian lights, an effective way of doing good is by inspiring others to try to do more good. Thus, the best course of action for many people may be to develop and promote the ideas and values associated with utilitarianism or effective altruism, and be a positive role-model in one’s behavior. By raising awareness of these ideas, it is plausible that you could inspire several people to follow the recommendations of these philosophies. In this way you will achieve a _multiplier effect_ on your social impact—the people you inspire will do several times as much good as you would have achieved by working directly to solve the most important moral problems. Because utilitarianism and effective altruism are still little-known and little-understood, there may be a lot of value in promoting these ideas.
 
+Some may also recommend political activism and volunteer work as ways to do good with one's time and efforts. Surprisingly little attention has been given to carefully assessing the marginal impact of different political activities. This paucity of information makes it especially hard to know which efforts in this sphere seem like good bets.[^39a]
+
 ## Conclusion
 
 Utilitarians are committed to making _helping others_ a very significant part of their lives. Also, they believe that in helping others, they should try to use their resources to do the most good, impartially considered, that they can.
@@ -247,7 +249,7 @@ To do the most good they can, utilitarians often donate money to effective chari
 [^28]: Roser, M. (2019). [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts). _Our World In Data_.
 [^29]: Cf. Bostrom, N. (2013). [Existential Risks as a Global Priority](https://www.existential-risk.org/concept.html). _Global Policy_. 4(1): 15–31.
 [^30]: Cf. MacAskill, W. (2014). _[Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Random House. Chapter 1.
-[^31]: Note that Professor William MacAskill, coauthor of this website, is a cofounder of Giving What We Can.
+[^31]: Note that William MacAskill, coauthor of this website, is a cofounder of Giving What We Can.
 [^32]: Caviola, L., Schubert, S., Teperman, E., Moss, D., Greenberg, S., & Faber, N. (2020). [Donors vastly underestimate differences in charities’ effectiveness.](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/122268/Caviola%20et%20al._2020_JDM.pdf) _Judgment and Decision Making_. 15(4): 509–516.
 [^33]:
     GiveWell (2019). [Your Dollar Goes Further When You Fund the Right Program](https://www.givewell.org/giving101/Funding-the-Right-Program).
@@ -258,6 +260,7 @@ To do the most good they can, utilitarians often donate money to effective chari
 [^35]: Stevenson & Wolfers (2013). [Subjective Well-Being and Income: Is There Any Evidence of Satiation?](https://www.nber.org/papers/w18992). _American Economic Review, American Economic Association_. 103(3): 598–604.
 [^36]: Dunn, E.; Gilbert, D. & Wilson, T. (2011). [If money doesn't make you happy, then you probably aren't spending it right](https://psycnet.apa.org/record/2011-17293-002). _Journal of Consumer Psychology_. 21(2): 115–125.
 [^37]: For more detail, see MacAskill, W.; Mogensen, A. & Ord, T. (2018). [Giving Isn’t Demanding](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7196aec212dd54a839425/1539774891904/Giving+Isn%27t+Demanding.pdf). In Woodruff, P. (ed.) _The Ethics of Giving: Philosophers' Perspectives on Philanthropy_. Oxford: Oxford University Press, pp. 178–203.
-[^38]: Note that Professor William MacAskill, coauthor of this website, is a cofounder of 80,000 Hours.
+[^38]: Note that William MacAskill, coauthor of this website, is a cofounder of 80,000 Hours.
 [^39]: Cf. Todd, B. (2017). [We reviewed over 60 studies about what makes for a dream job. Here’s what we found](https://80000hours.org/career-guide/job-satisfaction/). _80,000 Hours_.
-[^40]: Note that Professor William MacAskill, coauthor of this website, is the author of several of the listed resources on effective altruism. Moreover, he is a cofounder of both 80,000 Hours and Giving What We Can.
+[^39a]: There also seems an unusually high risk of political efforts proving counterproductive. Consider, for example, environmental regulations that make it more difficult to build new solar, wind, and nuclear power plants to replace harmful coal power. Due to these complexities, we suspect that careful work in policy analysis is more promising than popular political mobilization for actually securing good results. But others may judge the matter differently.
+[^40]: Note that William MacAskill, coauthor of this website, is the author of several of the listed resources on effective altruism. Moreover, he is a cofounder of both 80,000 Hours and Giving What We Can.

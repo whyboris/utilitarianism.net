@@ -36,11 +36,11 @@ Singer's argument for this conclusion is straightforward, resting largely on a k
 >
 > Therefore,
 >
-> C. We ought, morally, to donate to effective charities rather than making morally insignificant consumer purchases.
+> C. We ought, morally, to donate to effective charities rather than making morally insignificant consumer purchases.[^4a]
 
 Note that, although Singer is a utilitarian, this argument does not rely upon utilitarianism as a premise. P1 - P4 are all claims that non-utilitarians (and even non-consequentialists) could accept.
 
-This is a really striking argument. The four premises each seem perfectly plausible. The conclusion logically follows from these premises. Yet the conclusion is radically at odds with how almost all of us live our lives. _Every_ time we purchase something unnecessary, Singer’s argument implies that we ought instead to donate that money to effective charities. When you think about how this would apply to your own life, it could well turn out that the majority of the purchases you make in your everyday life would be considered morally wrong. Most of us could probably live significantly more frugally without sacrificing anything morally significant, and use the savings to relieve suffering or even prevent several untimely deaths. According to Singer's argument, that is then precisely what we are morally required to do. (Note that similar arguments could also apply to one's [choice of career](/acting-on-utilitarianism#career-choice).[^5])
+This is a really striking argument. The four premises each seem perfectly plausible. The conclusion logically follows. Yet the conclusion is radically at odds with how almost all of us live our lives. _Every_ time we purchase something unnecessary, Singer’s argument implies that we not only _could_, but also _should_, do better. When you think about how this would apply to your own life, it could well turn out that the majority of the purchases you make in your everyday life would be considered morally wrong. Most of us could probably live significantly more frugally without sacrificing anything morally significant, and use the savings to relieve suffering or even prevent several untimely deaths. According to Singer's argument, that is then precisely what we are morally required to do.[^4b] (Note that similar arguments could also apply to one's [choice of career](/acting-on-utilitarianism#career-choice).[^5])
 
 Could such a radical conclusion really be true? You are probably already trying to think of ways to dismiss it. But it is not enough to simply reject the conclusion. Since the conclusion logically follows from the premises, to reject it you must show one (or more) of the premises to be false.
 
@@ -193,6 +193,8 @@ Good luck! And remember to cite your sources.
 [^2]: See also Unger, P. (1996). _Living High and Letting Die: Our Illusion of Innocence_. Oxford University Press.
 [^3]: P1 and P4 are quoted (with minor edits for clarity) from p. 231 of the text. P2, P3, and C are our own extrapolations.
 [^4]: Singer advocates a stricter version of the rescue principle, where we are required to sacrifice even some genuinely morally significant things, so long as they are not _comparably_ significant to the harms thereby prevented. We focus here on the less demanding version of the rescue principle since (as Singer notes) it is sufficient for practical purposes, while being more difficult to reject. But the stronger version is also plausible, and is entailed by utilitarianism (while also being compatible with other moral theories).
+[^4a]: Note that this conclusion leaves open that there may be some third option that you ought to do that is _even better_ than donating to effective charities. It is just making the _contrastive_ normative claim that, _between the two specified options_, you ought to donate rather than make morally insignificant consumer purchases.
+[^4b]: Unless, again, there is some other option that would do _even more_ good, in which case we may be required to do that instead!
 [^5]:
     The career-focused version of Singer’s argument might look like this (with P1 unchanged):
 

@@ -124,11 +124,12 @@ Resources for [Arguments for Utilitarianism](/arguments-for-utilitarianism):
 - John Broome (1991). _Weighing Goods: Equality, Uncertainty and Time_. Blackwell.
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. Continuum.
 - Robert Goodin (1995). _[Utilitarianism as a Public Philosophy](https://www.cambridge.org/core/books/utilitarianism-as-a-public-philosophy/DFAF4F0BDBA6B06F9BCB1DDC3D0A26A7)_. Cambridge University Press.
+- Johan Gustafsson (2021). [Utilitarianism without Moral Aggregation](https://philpapers.org/rec/EGUUWM). _Canadian Journal of Philosophy_ 51 (4): 256-269.
 - Caspar Hare (2016). [Should We Wish Well to All?](http://dx.doi.org/10.1215/00318108-3624764), _Philosophical Review_ 125(4): 451–472.
 - John C. Harsanyi (1955). [Cardinal Welfare, Individualistic Ethics, and Interpersonal Comparisons of Utility](https://www.jstor.org/stable/1827128), _The Journal of Political Economy_ 63 (4): 309–321.
 - John C. Harsanyi (1977). _Rational Behavior and Bargaining Equilibrium in Games and Social Situations_. Cambridge University Press.
 - Katarzyna de Lazari-Radek & Peter Singer (2017). Chapter 2: Justifications, in _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford University Press.
-- J.J.C. Smart (1973). An outline of a system of utilitarian ethics, in J.J.C. Smart & Bernard Williams, _[Utilitarianism: For and Against](https://www.cambridge.org/core/books/abs/utilitarianism/an-outline-of-a-system-of-utilitarian-ethics/8DE8362FF43188D53C855A70C70223E2)_. Cambridge University Press.
+- J.J.C. Smart (1973). An outline of a system of utilitarian ethics, in J.J.C. Smart & Bernard Williams, _[Utilitarianism: For and Against](https://doi.org/10.1017/CBO9780511840852.001)_. Cambridge University Press.
 
 ---
 
@@ -329,7 +330,7 @@ Resources for [Objections to Utilitarianism and Responses](/objections-to-utilit
 ### General
 
 - Katarzyna de Lazari-Radek & Peter Singer (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford: Oxford University Press. Chapter 4: Objections.
-- J. J. C. Smart & Bernard Williams (1973). _Utilitarianism: For and Against_. Cambridge: Cambridge University Press.
+- J. J. C. Smart & Bernard Williams (1973). _[Utilitarianism: For and Against](https://doi.org/10.1017/CBO9780511840852.001)_. Cambridge: Cambridge University Press.
 
 ### The Rights Objection
 
@@ -365,6 +366,7 @@ Resources for [Objections to Utilitarianism and Responses](/objections-to-utilit
 - Krister Bykvist (2010). _[Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/)_. London: Continuum. Chapter 7: Is Utilitarianism too Demanding?
 - Shelly Kagan (1984). [Does Consequentialism Demand Too Much? Recent work on the Limits of Obligation](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/7/724/files/2016/01/Does-Consequentialism-Demand-Too-Much-14mwbda.pdf). _Philosophy & Public Affairs_. 13(3): 239–254.
 - Katarzyna de Lazari-Radek & Peter Singer (2014). _[The Point of View of the Universe: Sidgwick and Contemporary Ethics](https://global.oup.com/academic/product/the-point-of-view-of-the-universe-9780199603695)_. Oxford: Oxford University Press, pp. 317–336.
+- Andreas Mogensen (2020). [Moral demands and the far future](https://doi.org/10.1111/phpr.12729). _Philosophy and Phenomenological Research_, 103(3): 567-585.
 - Peter Singer (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243.
 - David Sobel (2007). [The Impotence of the Demandingness Objection](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/impotence-of-the-demandingness-objection.pdf?c=phimp;idno=3521354.0007.008;format=pdf). _Philosophers' Imprint_. 7(8): 1–17.
 - Susan Wolf (1982). [Moral Saints](https://www.jstor.org/stable/2026228?seq=1). _The Journal of Philosophy_. 79(8): 419–434.
@@ -411,7 +413,7 @@ Resources for [Objections to Utilitarianism and Responses](/objections-to-utilit
 - J.L. Mackie (1985). Rights, Utility, and Universalization. In R.G. Frey (ed.) _Utility and Rights_. Basil Blackwell.
 - Derek Parfit (1984). _Reasons and Persons_, Part One: Self-Defeating Theories. Clarendon Press.
 - Philip Pettit & Geoffrey Brennan (1986). [Restrictive Consequentialism](https://doi.org/10.1080/00048408612342631). _Australasian Journal of Philosophy_, 64(4): 438–455.
-- Bernard Williams (1973). A Critique of Utilitarianism. In J.J.C Smart & Bernard Williams, _Utilitarianism: For and Against_. Cambridge University Press.
+- Bernard Williams (1973). [A Critique of Utilitarianism](https://doi.org/10.1017/CBO9780511840852.002). In J.J.C Smart & Bernard Williams, _Utilitarianism: For and Against_. Cambridge University Press.
 
 ---
 
