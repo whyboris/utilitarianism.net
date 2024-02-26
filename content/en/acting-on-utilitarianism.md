@@ -142,11 +142,11 @@ As with donations, choosing an impactful career need not involve much of a perso
 
 Third, by utilitarian lights, an effective way of doing good is by inspiring others to try to do more good. Thus, the best course of action for many people may be to develop and promote the ideas and values associated with utilitarianism or effective altruism, and be a positive role-model in one’s behavior. By raising awareness of these ideas, it is plausible that you could inspire several people to follow the recommendations of these philosophies. In this way you will achieve a _multiplier effect_ on your social impact—the people you inspire will do several times as much good as you would have achieved by working directly to solve the most important moral problems. Because utilitarianism and effective altruism are still little-known and little-understood, there may be a lot of value in promoting these ideas.
 
-Some may also recommend political activism and volunteer work as ways to do good with one's time and efforts. Surprisingly little attention has been given to carefully assessing the marginal impact of different political activities. This paucity of information makes it especially hard to know which efforts in this sphere seem like good bets.[^39a]
+Some may also recommend political activism and volunteer work as ways to do good with one's time and efforts. Surprisingly little attention has been given to carefully assessing the marginal impact of different political activities. This paucity of information makes it especially hard to know which efforts in this sphere seem like good bets. But the high stakes suggest that the best-targeted efforts here could do immense good (though, as always, a dedicated career in the area may have even greater potential).[^39a]
 
 ## Conclusion
 
-Utilitarians are committed to making _helping others_ a very significant part of their lives. Also, they believe that in helping others, they should try to use their resources to do the most good, impartially considered, that they can.
+Utilitarians are committed to making _helping others_ a very significant part of their lives. Also, they believe that when helping others, they should try to use their resources to do the most good, impartially considered, that they can.
 
 The areas currently among the top priorities for utilitarians predominantly benefit groups that cannot defend their own interests. This includes people in extreme poverty, non-human animals, and future individuals. We have looked at three corresponding causes: improving the conditions of those in extreme poverty, reducing the suffering of factory farmed animals, and protecting future generations by reducing existential risks.
 
@@ -262,5 +262,5 @@ To do the most good they can, utilitarians often donate money to effective chari
 [^37]: For more detail, see MacAskill, W.; Mogensen, A. & Ord, T. (2018). [Giving Isn’t Demanding](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7196aec212dd54a839425/1539774891904/Giving+Isn%27t+Demanding.pdf). In Woodruff, P. (ed.) _The Ethics of Giving: Philosophers' Perspectives on Philanthropy_. Oxford: Oxford University Press, pp. 178–203.
 [^38]: Note that William MacAskill, coauthor of this website, is a cofounder of 80,000 Hours.
 [^39]: Cf. Todd, B. (2017). [We reviewed over 60 studies about what makes for a dream job. Here’s what we found](https://80000hours.org/career-guide/job-satisfaction/). _80,000 Hours_.
-[^39a]: There also seems an unusually high risk of political efforts proving counterproductive. Consider, for example, environmental regulations that make it more difficult to build new solar, wind, and nuclear power plants to replace harmful coal power.
+[^39a]: But note also the high risk of political efforts proving counterproductive. Consider, for example, environmental regulations that make it more difficult to build new solar, wind, and nuclear power plants to replace harmful coal power.
 [^40]: Note that William MacAskill, coauthor of this website, is the author of several of the listed resources on effective altruism. Moreover, he is a cofounder of both 80,000 Hours and Giving What We Can.
