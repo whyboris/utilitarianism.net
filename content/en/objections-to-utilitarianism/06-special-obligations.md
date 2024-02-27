@@ -43,7 +43,7 @@ Many utilitarians are suspicious of gut intuitions favoring partiality, as there
 
 Some pro-partiality intuitions may also stem from conflating moral theory and practice. That is, one might start from the view (shared by many utilitarians) that we should in practice endorse norms of special obligation, and mistakenly conclude from this that morality must be partial at the fundamental theoretical level. But the practical endorsement of partiality is, as we have seen, actually perfectly compatible with utilitarianism, and so poses no essential threat here. (Though the precise contours of partiality justified by utilitarianism may differ significantly from those assumed by commonsense morality.)
 
-## Attacking the Alternatives
+## Rivals Fare No Better
 
 Critics of utilitarian impartiality might prefer a [partialist](/near-utilitarian-alternatives#egoism-and-partialism) form of welfarist consequentialism, which assigns extra weight to the interests of one’s nearest and dearest, instead of counting everyone equally. But this alternative view can seem troublingly unprincipled, as we may bring out in a few different ways.
 

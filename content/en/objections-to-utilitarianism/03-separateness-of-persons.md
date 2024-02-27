@@ -81,7 +81,7 @@ Common intuitions suffer from scope insensitivity, reflecting our inability to t
 
 Even prioritarians, despite Parfit’s arguments described above, may ultimately need to follow the utilitarian in accepting a debunking response. Consider: critics may insist that Parfit’s prioritarian account cannot do full justice to our starting intuition about the Transmitter Room case. Granted, sufficient priority weighting may explain how Jones’ suffering can outweigh the aggregate pleasure of a million, or even a billion, better-off football fans. But so long as the priority weighting is finite, there will be _some_ (perhaps astronomically large) number of smaller pleasures that could, in theory, outweigh Jones’ suffering. At this point, defenders of aggregation may simply accept this implication, and suggest that any residual intuitive discomfort with this conclusion is best explained as a mistake resulting from scope neglect.
 
-### Attacking the Alternatives
+### Rivals Fare No Better
 
 Counter to utilitarianism, one might be tempted to think that some benefits are so _trivial_ that we should round them down to zero, rather than allowing vast numbers of them to sum to something morally significant. But Parfit proves that this way of thinking is a mistake. To see why, consider the following plausible-seeming claim:
 

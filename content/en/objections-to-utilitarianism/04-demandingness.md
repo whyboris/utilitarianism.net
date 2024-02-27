@@ -59,15 +59,15 @@ We may cast further doubt on our demandingness intuitions by noting other appare
 
 Many assume that utilitarianism would not ask as much of us if most affluent individuals acted morally and shared more of their resources with those most in need. Utilitarianism only becomes so demanding, they suggest, because few affluent people do anything significant to address the major problems in the world. This may be true of our duties of beneficence towards the global poor. But once the [long-term future](/utilitarianism-and-practical-ethics/#longtermism-expanding-the-moral-circle-across-time) is taken into account, it seems that utilitarianism could continue to recommend very significant sacrifices from everyone alive today, even if we _all_ had already done significant good for others.[^4a]
 
-## Attacking the Alternatives
+## Rivals Fare No Better
 
 A third response is to argue that non-utilitarian moral views are often _insufficiently demanding_. We have already established that citizens of affluent countries can prevent a substantial amount of suffering and death in developing nations at a comparably low cost to themselves by donating to highly effective aid organizations. According to many non-utilitarian views, it is good but entirely _optional_ to donate a significant portion of our income to charity. However, this is arguably not demanding enough since it entails that we are not required to save lives even when we can do so at a low cost to ourselves. These views violate Peter Singer’s [intuitively plausible assertion](/peter-singer-famine-affluence-and-morality) that “if it is in our power to prevent something bad from happening, without thereby sacrificing anything of comparable moral importance, we ought, morally, to do it”.[^5] [As Singer explains](https://youtu.be/wMb26ryjDuU), most people agree that it would be morally monstrous to just watch a child drown in a shallow pond when you could easily save them at the cost of ruining your expensive clothes. Saving innocent lives is worth some moderate financial cost, and any reasonable moral theory needs to reflect that fact.
 
 In addition, proponents of utilitarianism can note that non-utilitarian views are sometimes even more demanding. Recall Sobel’s example involving Joe and Sally. Commonsense ethics prohibits Sally from stealing one of Joe’s kidneys, even if that would be the only way to save her own life (and the harm to Joe would only be moderate). This shows that commonsense morality can be very demanding sometimes, even requiring you to give up your life on moral grounds. While utilitarianism makes _different_ demands from other moral theories, the demands of utilitarianism are not obviously less reasonable. They always have a good principled basis, after all.
 
-## Tolerating the Intuition
+## Biting the Bullet
 
-Finally, proponents of utilitarianism may simply “bite the bullet” and accept that morality is very demanding. They may point out that utilitarian demands are grounded in the compelling goal to create a flourishing world with as much well-being as possible for everyone. Whenever utilitarianism requires us to give up something we value to benefit others, at least we know that this benefit is greater, often much greater, than the cost to us.
+Finally, proponents of utilitarianism may simply accept that morality is very demanding. They may point out that utilitarian demands are grounded in the compelling goal to create a flourishing world with as much well-being as possible for everyone. Whenever utilitarianism requires us to give up something we value to benefit others, at least we know that this benefit is greater, often much greater, than the cost to us.
 
 {{< next-page-objection >}}
 

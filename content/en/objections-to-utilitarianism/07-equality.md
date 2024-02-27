@@ -51,9 +51,9 @@ If we specify the original example in money, and use the standard economic measu
 
 We think that, put in these terms, it is no longer intuitively obvious that the utilitarian choice, favoring Inequality over Equality, is the wrong one. Everyone would agree that some level of inequality can be justified by greater total well-being; how exactly to make this trade-off is tricky, and it is not obvious that utilitarianism gets the wrong answer.
 
-## Attacking the Alternatives
+## Rivals Fare No Better
 
-The third line of response is to _attack the available alternatives_ to utilitarianism to show that they have even more counterintuitive implications. For example, [egalitarianism](/near-utilitarian-alternatives#egalitarianism-and-distributive-justice) is subject to the _Leveling Down Objection_ that it countenances harming the well-off (without benefiting anyone) since that has the effect of increasing equality.[^3] If you don't think that there's anything good about such _leveling down_ then your judgment supports the utilitarian view that equality is only valuable instrumentally: valuable when and because it serves to promote overall well-being.[^4]
+The third line of response is to show that rival views have even more counterintuitive implications here. For example, [egalitarianism](/near-utilitarian-alternatives#egalitarianism-and-distributive-justice) is subject to the _Leveling Down Objection_ that it countenances harming the well-off (without benefiting anyone) since that has the effect of increasing equality.[^3] If you don't think that there's anything good about such _leveling down_ then your judgment supports the utilitarian view that equality is only valuable instrumentally: valuable when and because it serves to promote overall well-being.[^4]
 
 We can also show that the alternatives to the utilitarian distribution of well-being violate a principle called _[ex ante Pareto](/arguments-for-utilitarianism/#ex-ante-pareto)_: that, in a choice between two gambles, if everyone would rationally prefer gamble A to gamble B, then gamble A is better than gamble B.
 
@@ -65,7 +65,7 @@ We can stipulate that both Abel and Beth would rationally prefer Risky Gamble ov
 
 This objection has been developed formally by the economist John Harsanyi, who proved it in his utilitarian aggregation theorem.[^6]
 
-## Tolerating the Intuition
+## Biting the Bullet
 
 Finally, proponents of utilitarianism may once again “bite the bullet” and simply accept that utilitarianism sometimes conflicts with our intuitions about equality. These conflicts occur because the outcomes favored by utilitarianism are those with the highest possible levels of overall well-being, which do not always coincide with the most egalitarian outcomes. Utilitarians will insist that it's better for people overall to be better-off (even if these benefits are not distributed equally) than for them all to share equally in a lower level of well-being.
 
