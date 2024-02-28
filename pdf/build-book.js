@@ -10,8 +10,9 @@ const public_pdf =
 var merger = new PDFMerger();
 
 (async () => {
-  await merger.add(public_pdf + "Preface_utilitarianism_net.pdf");
   await merger.add(public_pdf + "Utilitarianism_An_Introduction_utilitarianism_net.pdf");
+  await merger.add(public_pdf + "Table_of_Contents_utilitarianism_net.pdf");
+  await merger.add(public_pdf + "Preface_utilitarianism_net.pdf");
   await merger.add(public_pdf + "1_Introduction_to_Utilitarianism_utilitarianism_net.pdf");
   await merger.add(public_pdf + "2_Elements_and_Types_of_Utilitarianism_utilitarianism_net.pdf");
   await merger.add(public_pdf + "3_Arguments_for_Utilitarianism_utilitarianism_net.pdf");
