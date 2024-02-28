@@ -31,15 +31,15 @@ One of the most prominent and influential attempts to create such a theory is _u
 
 ## Track Record
 
-While history cannot directly tell us which moral theory is correct, utilitarian moral reasoning has a strong track record of contributing to humanity’s collective moral progress—suggesting that there may at least be something morally salutary to these ideas. The classical utilitarians of the 18th and 19th centuries had social and political attitudes that were far ahead of their time: As a progressive social reformer, [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham) defended issues such as the separation of church and state; the abolition of slavery and of capital punishment; legal regulations to protect criminals and non-human animals from cruel treatment;[^3] and the decriminalization of homosexuality.[^4] Indeed, his manuscripts on homosexuality were so liberal that his editor hid them from the public after Bentham’s death. They were only published two centuries later.
+While history cannot directly tell us which moral theory is correct, utilitarian moral reasoning has a strong track record of contributing to humanity’s collective moral progress—suggesting that there may at least be something morally salutary to these ideas. The classical utilitarians of the 18th and 19th centuries had many social and political attitudes that were far ahead of their time: As a progressive social reformer, [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham) advocated for the separation of church and state; the abolition of slavery and of capital punishment; legal regulations to protect criminals and non-human animals from cruel treatment;[^3] and the decriminalization of homosexuality.[^4] Indeed, his manuscripts on homosexuality were so liberal that his editor hid them from the public after Bentham’s death. They were only published two centuries later.
 
-[John Stuart Mill](/utilitarian-thinker/john-stuart-mill) defended the provision of social welfare for the poor and of freedom of speech. He was the second MP in the UK Parliament to call for women’s suffrage[^5] and advocated for gender equality more generally. In his essay _[The Subjection of Women](/books/the-subjection-of-women-john-stuart-mill/1)_,[^6] Mill argued that
+[John Stuart Mill](/utilitarian-thinker/john-stuart-mill) defended the provision of social welfare for the poor and of freedom of speech. (Disappointingly, he shared the unsavory colonialist attitudes common among his compatriots at the time.) He was the second MP in the UK Parliament to call for women’s suffrage[^5] and advocated for gender equality more generally. In his essay _[The Subjection of Women](/books/the-subjection-of-women-john-stuart-mill/1)_,[^6] Mill argued that
 
 > the principle which regulates the existing social relations between the two sexes—the legal subordination of one sex to the other—is wrong itself, and now one of the chief hindrances to human improvement; and that it ought to be replaced by a principle of perfect equality, admitting no power or privilege on the one side, nor disability on the other.[^7]
 
 In a similar vein, [Henry Sidgwick](/utilitarian-thinker/henry-sidgwick) advocated for women’s education and the freedom of education from religious doctrines. Modern utilitarians like [Peter Singer](/utilitarian-thinker/peter-singer) are outspoken advocates against pressing moral problems such as extreme poverty and factory farming.[^8]
 
-While the early proponents of utilitarianism were still far from getting everything right, their utilitarian reasoning led them to escape many of the moral prejudices of their time and reach more enlightened moral and political positions. Those of us living today are, of course, no less fallible than our forebears. To help overcome our own biases, our moral and political views may similarly benefit from being checked against utilitarian principles.
+While the early proponents of utilitarianism were still far from getting everything right, their utilitarian reasoning led them to escape many of the moral prejudices of their time and reach more enlightened moral and political positions. Those of us living today are, of course, still fallible, just as our forebears were. To help overcome our own biases, our moral and political views may similarly benefit from being checked against utilitarian principles.
 
 ## What Is Utilitarianism?
 
@@ -53,7 +53,7 @@ Sometimes philosophers talk about “welfare” or “utility” rather than “
 
 All ethical theories in the utilitarian family share four defining elements: consequentialism, welfarism, impartiality, and aggregationism, which we’ll define as follows:
 
-1. **Consequentialism:** one ought always to promote good outcomes.
+1. **Consequentialism:** one ought always to promote better outcomes.[^11a]
 2. **Welfarism:** the value of an outcome is wholly determined by the well-being of the individuals in it.
 3. **Impartiality:** a given quantity of well-being is equally valuable no matter _whose_ well-being it is.
 4. **Aggregationism**: the value of an outcome is given by the _sum_ value of the lives it contains.[^12]
@@ -66,7 +66,7 @@ We cover the four elements of utilitarianism in greater depth, along with furthe
 
 [Chapter 3](/arguments-for-utilitarianism/) explains reflective equilibrium as a moral methodology, and presents several arguments for utilitarianism (and similar consequentialist views) over competing approaches to ethics. This includes discussion of the veil of ignorance, the expanding moral circle, and the argument that utilitarianism offers an especially compelling account of _what fundamentally matters_. This chapter also explains the paradox of deontology, evolutionary debunking arguments, and other objections to non-consequentialist ethics.
 
-Specific [theories of well-being](/theories-of-wellbeing/) and of [population ethics](/population-ethics/) are explored in Chapters 4 and 5, respectively. While utilitarianism is often associated with _hedonism_ about well-being and the _total view_ of population ethics (a combination known as _classical utilitarianism_), there are other options that are also worth considering. It’s especially worth bearing in mind that objections to hedonism or to the total view may yet leave other forms of utilitarianism untouched.
+Specific [theories of well-being](/theories-of-wellbeing/) and of [population ethics](/population-ethics/) are explored in Chapters 4 and 5, respectively. While utilitarianism is often associated with _hedonism_ about well-being and the _total view_ of population ethics (a combination known as _classical utilitarianism_), there are other options that are also worth considering. It’s especially worth bearing in mind that objections to hedonism or to the total view may yet leave other forms of utilitarianism untouched. (Note that the chapter on population ethics is the most difficult and technical of the book, and some readers may prefer to skip it.)
 
 [Chapters 6](/utilitarianism-and-practical-ethics/) and [7](/acting-on-utilitarianism/) explore the practical applications of utilitarianism, and its implications for how we should live our lives. We argue that, in practice, a utilitarian should try to do as much good as possible whilst still abiding by commonsense moral virtues like integrity, trustworthiness, and law-abidingness, in order to advance social cooperation and mitigate the downside risk of miscalculation.
 
@@ -150,6 +150,8 @@ The next chapter discusses the four elements of utilitarian theories in greater 
 
 [^11]:
      We use 'happiness' to refer to pleasant conscious experiences. [Chapter 4: Theories of Well-Being](/theories-of-wellbeing/) explores whether well-being may involve more than this.
+
+[^11a]: More precisely, consequentialism claims that you have more reason to perform an action, the better the resulting outcome would be (compared to the available alternatives).
 
 [^12]:
      This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are aggregationist theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](/population-ethics/) in Chapter 5. Further note that non-welfarists might take things other than lives to contribute value to the world, which would then need to be included in the sum. We bracket this possibility for ease of exposition.
