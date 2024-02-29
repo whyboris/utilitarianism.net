@@ -1,5 +1,5 @@
 ---
-title: "The Cluelessness Objection"
+title: "17. The Cluelessness Objection"
 slug: "cluelessness"
 authors: "Chappell, R.Y."
 date: 2023-03-08

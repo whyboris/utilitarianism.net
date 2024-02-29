@@ -72,7 +72,7 @@ Specific [theories of well-being](/theories-of-wellbeing/) and of [population et
 
 [Chapter 8](/near-utilitarian-alternatives/) examines how robust these practical recommendations are to various departures from strict utilitarian theory. While some alternative theories may yield radically divergent practical implications, we argue that a wide range of reasonable views ultimately converge on the core practical recommendation of utilitarian ethics—namely, to use a significant fraction of your time and/or money to do help others, and to try to do so as effectively as possible, without violating commonsense moral constraints.
 
-Prominent [objections to utilitarianism](/objections-to-utilitarianism/) are addressed in chapter 9. We introduce a "[toolkit](/objections-to-utilitarianism/#the-utilitarians-toolkit)" of general maneuvers available to utilitarians to address a wide range of objections, and then show how this toolkit can be used to address concerns about rights, demandingness, cluelessness, and more.
+Prominent [objections to utilitarianism](/objections-to-utilitarianism/) are addressed in Part II. We introduce a "[toolkit](/objections-to-utilitarianism/#the-utilitarians-toolkit)" of general maneuvers available to utilitarians to address a wide range of objections, and then show how this toolkit can be used to address concerns about rights, demandingness, cluelessness, and more.
 
 ## Conclusion
 

@@ -1,5 +1,5 @@
 ---
-title: "Utilitarianism: An Introduction"
+title: "An Introduction to Utilitarianism"
 ---
 
 Richard Yetter Chappell, Darius Meissner, and William MacAskill

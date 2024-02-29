@@ -1,5 +1,5 @@
 ---
-title: "The Alienation Objection"
+title: "14. The Alienation Objection"
 slug: "alienation"
 authors: "Chappell, R.Y."
 date: 2023-01-29

@@ -1,5 +1,5 @@
 ---
-title: "The Separateness of Persons Objection"
+title: "12. The Separateness of Persons Objection"
 slug: "separateness-of-persons"
 authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29

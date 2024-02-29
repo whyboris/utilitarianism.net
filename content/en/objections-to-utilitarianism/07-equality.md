@@ -1,5 +1,5 @@
 ---
-title: "The Equality Objection"
+title: "16. The Equality Objection"
 slug: "equality"
 authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29

@@ -1,5 +1,5 @@
 ---
-title: "The Special Obligations Objection"
+title: "15. The Special Obligations Objection"
 slug: "special-obligations"
 authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29

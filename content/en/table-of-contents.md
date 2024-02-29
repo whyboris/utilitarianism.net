@@ -4,9 +4,11 @@ layout: book
 ---
 
 Foreword by Peter Singer and Katarzyna de Lazari-Radek
+
 Preface
 
 Part I: The Case for Utilitarianism
+
 1. Introduction to Utilitarianism
 2. Elements and Types of Utilitarianism
 3. Arguments for Utilitarianism
@@ -17,6 +19,7 @@ Part I: The Case for Utilitarianism
 8. Near-Utilitarian Alternatives
 
 Part II: Objections and Responses
+
 9. Objections to Utilitarianism and Responses
 10. The Rights Objection
 11. The Mere Means Objection
@@ -29,4 +32,5 @@ Part II: Objections and Responses
 18. The Abusability Objection
 
 Appendix: Study Guide to Peter Singer's 'Famine, Affluence, and Morality'
+
 Resources and Further Reading

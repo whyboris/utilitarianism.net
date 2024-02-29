@@ -121,8 +121,6 @@ Of course, there are ways to reject utilitarianism wholesale. One might embrace 
 
 But those are a fairly narrow range of views. By contrast, it is noteworthy—and to many readers, possibly quite surprising—what a broad range of theoretical approaches may happily form an overlapping consensus about the practical importance of [efficiently promoting the good](/acting-on-utilitarianism#effective-altruism) in the ways discussed in the previous chapter. At least when it comes to practical ethics, we may be climbing the same mountain from different sides.[^25]
 
-The next chapter discusses several of the most important objections to utilitarianism and responses to these objections.
-
 {{< next-page-textbook objections="true" >}}
 
 ---

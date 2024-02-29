@@ -1,5 +1,5 @@
 ---
-title: "The Abusability Objection"
+title: "18. The Abusability Objection"
 slug: "abusability"
 authors: "Chappell, R.Y."
 date: 2023-03-08

@@ -1,5 +1,5 @@
 ---
-title: "The Demandingness Objection"
+title: "13. The Demandingness Objection"
 slug: "demandingness"
 authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
