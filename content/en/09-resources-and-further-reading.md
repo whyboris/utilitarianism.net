@@ -353,7 +353,7 @@ weight: 600
 
 ---
 
-## Chapter 9: Objections to Utilitarianism and Responses
+## Part II: Objections to Utilitarianism and Responses
 
 ### General
 
