@@ -31,6 +31,8 @@ Part II: Objections and Responses
 17. The Cluelessness Objection
 18. The Abusability Objection
 
+Conclusion
+
 Appendix: Study Guide to Peter Singer's 'Famine, Affluence, and Morality'
 
 Resources and Further Reading
