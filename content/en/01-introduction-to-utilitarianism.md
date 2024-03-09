@@ -21,7 +21,7 @@ What, morally, ought we to do? Utilitarianism gives an answer: we ought always t
 
 ## Why Do We Need Moral Theories?
 
-When we make moral judgments in everyday life, we often rely on our intuition. If you ask yourself whether or not it is wrong to eat meat, or to lie to a friend, or to buy sweatshop goods, you probably have a strong gut moral view on the topic. But there are problems with relying merely on our moral intuition.
+When we make moral judgments in everyday life, we often rely on our intuition. If you ask yourself whether or not it's wrong to eat meat, or to lie to a friend, or to buy sweatshop goods, you probably have a strong gut moral view on the topic. But there are problems with relying merely on our moral intuition.
 
 Historically, people held beliefs we now consider morally horrific. In Western societies, it was once firmly believed to be intuitively obvious that people of color and women have fewer rights than white men; that homosexuality is wrong; and that it was permissible to own slaves. We now see these moral intuitions as badly misguided. This historical track record gives us reason to be concerned that we, in the modern era, may also be unknowingly responsible for serious, large-scale wrongdoing. It would be a very lucky coincidence if the present generation were the first generation whose intuitions were perfectly morally correct.[^2]
 

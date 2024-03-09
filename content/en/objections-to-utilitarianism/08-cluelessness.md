@@ -71,7 +71,7 @@ This is a subtle issue. The point of being guided by expected value is _not_ to 
 
 If the question is instead asked, “Why think that saving a life has positive expected value?” then one may simply reply: "Why not? It's visibly positive, and invisible considerations can hardly be shown to count against it!"
 
-Granted, cluelessness in the face of massive invisible long-term stakes can be angst-inducing. It should make us strongly wish for more information, and motivate us to pursue longtermist investigation if at all possible. But if no such investigations prove feasible, we should not mistake this residual feeling of angst for a reason to doubt that we can still be rationally guided by the smaller-scale considerations that we do see. To undermine the latter, it is not enough for the skeptic to gesture at the deep unknown. Unknowns, as such, are not epistemically undermining (greedily gobbling up all else that is known). To undermine an expected value verdict, you need to show that some alternative verdict is epistemically superior. Proponents of the epistemic objection, like radical skeptics in many other philosophical contexts, have not done this.[^15]
+Granted, cluelessness in the face of massive invisible long-term stakes can be angst-inducing. It should make us strongly wish for more information, and motivate us to pursue longtermist investigation if at all possible. But if no such investigations prove feasible, we should not mistake this residual feeling of angst for a reason to doubt that we can still be rationally guided by the smaller-scale considerations that we do see. To undermine the latter, it's not enough for the skeptic to gesture at the deep unknown. Unknowns, as such, are not epistemically undermining (greedily gobbling up all else that is known). To undermine an expected value verdict, you need to show that some alternative verdict is epistemically superior. Proponents of the epistemic objection, like radical skeptics in many other philosophical contexts, have not done this.[^15]
 
 ### Premise 3: The Possibility of Moral Cluelessness
 
@@ -122,9 +122,9 @@ There is reason to doubt whether concerns about cluelessness really present an _
      See Lenman (2000), pp. 353–359.
 
 [^6]:
-     He offers four objections in all. The fourth presupposes the second, and so is addressed by our response to that. The third objects that we need to distinguish two very different reasons for judging an act to lack expected value: (i) we might _know_ that it makes no difference, or (ii) we might be _clueless_ about whether it is incredibly good or incredibly bad. Given that these two epistemic states are so different, Lenman reasons, it makes no sense to treat them the same way.
-
-    It's true that this is a significant difference. But it's a mistake to assume that anything morally significant must change how we assess _acts_, when often _attitudes_ are better suited to reflect such significance. We should feel vastly more angst and ambivalence—and strongly wish that more information was available—in a high-stakes “total uncertainty” case than in a “known zero” case. That seems sufficient to capture the difference.
+     He offers four objections in all. The fourth presupposes the second, and so is addressed by our response to that. The third objects that we need to distinguish two very different reasons for judging an act to lack expected value: (i) we might _know_ that it makes no difference, or (ii) we might be _clueless_ about whether it's incredibly good or incredibly bad. Given that these two epistemic states are so different, Lenman reasons, it makes no sense to treat them the same way.
+     
+     It's true that this is a significant difference. But it's a mistake to assume that anything morally significant must change how we assess _acts_, when often _attitudes_ are better suited to reflect such significance. We should feel vastly more angst and ambivalence—and strongly wish that more information was available—in a high-stakes “total uncertainty” case than in a “known zero” case. That seems sufficient to capture the difference.
 
 [^7]:
      Greaves (2016), section IV.
