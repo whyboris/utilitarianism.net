@@ -15,7 +15,7 @@ gradientBottom: "#084BC7"
 
 ## Introduction: Moral Methodology & Reflective Equilibrium
 
-You cannot _prove_ a moral theory. Whatever arguments you come up with, it's always possible for someone else to reject your premises—if they are willing to accept the costs of doing so. Different theories offer different advantages. This chapter will set out some of the major considerations that plausibly count in favor of utilitarianism. A complete view also needs to consider the costs of utilitarianism (or the advantages of its competitors), which is addressed in the chapter [Objections to Utilitarianism](/objections-to-utilitarianism). You can then reach an all-things-considered judgment as to which moral theory strikes you as overall best or most plausible.
+You cannot _prove_ a moral theory. Whatever arguments you come up with, it's always possible for someone else to reject your premises—if they are willing to accept the costs of doing so. Different theories offer different advantages. This chapter will set out some of the major considerations that plausibly count in favor of utilitarianism. A complete view also needs to consider the costs of utilitarianism (or the advantages of its competitors), which are addressed in Chapter 8: [Objections to Utilitarianism](/objections-to-utilitarianism). You can then reach an all-things-considered judgment as to which moral theory strikes you as overall best or most plausible.
 
 To this end, moral philosophers typically use the methodology of _reflective equilibrium_.[^1] This involves balancing two broad kinds of evidence as applied to moral theories:
 
@@ -160,7 +160,7 @@ The next chapter discusses theories of well-being, or what counts as being good 
 [^3]: Of course, there may be exceptional circumstances in which stealing is overall beneficial and hence justified, for instance when stealing a loaf of bread is required to save a starving person’s life.
 [^4]: Here it is important to consider the indirect costs of reducing social trust, in addition to the obvious direct costs to the victim.
 [^5]:
-    Compare our defense of aggregationism in [chapter 2](/types-of-utilitarianism#aggregationism), showing how, in practice, almost everyone endorses allowing sufficiently many small benefits to outweigh great costs to a few: “For example, allowing cars to drive fast on roads increases the number of people who die in accidents. Placing exceedingly low speed limits would save lives at the cost of inconveniencing many drivers. Most people demonstrate an implicit commitment to aggregationism when they judge it worse to impose these many inconveniences for the sake of saving a few lives.”
+    Compare our defense of aggregationism in [Chapter 2](/types-of-utilitarianism#aggregationism), showing how, in practice, almost everyone endorses allowing sufficiently many small benefits to outweigh great costs to a few: “For example, allowing cars to drive fast on roads increases the number of people who die in accidents. Placing exceedingly low speed limits would save lives at the cost of inconveniencing many drivers. Most people demonstrate an implicit commitment to aggregationism when they judge it worse to impose these many inconveniences for the sake of saving a few lives.”
 
     See also Goodin, R. (1995). _Utilitarianism as a Public Philosophy_. Cambridge University Press.
 
@@ -180,7 +180,7 @@ The next chapter discusses theories of well-being, or what counts as being good 
     Rawls, J. (1971). _A Theory of Justice_. Belknap Press.
 
 [^8]:
-    This assumes a fixed-population setting. Variable population ethics is covered in [chapter five](/population-ethics/).
+    This assumes a fixed-population setting. Variable population ethics is covered in [Chapter 5](/population-ethics/).
 
     For related formal proofs, see: Harsanyi, J. (1978). [Bayesian Decision Theory and Utilitarian Ethics](http://www.jstor.org/stable/1816692). _The American Economic Review_, 68(2): 223–228.
 

@@ -97,7 +97,7 @@ Still, at the end of the day there's no guarantee that true beliefs will be soci
 [^4]:
      Though again, it's interesting to consider how competing views fare against this objection. Many are so vague that they leave plenty of room for self-serving interpretations, and so would also seem easily exploitable by bad actors.
 
-[^4a]: As [John Stuart Mill](/utilitarian-thinker/john-stuart-mill/) writes in [chapter 2 of _Utilitarianism_](/books/utilitarianism-john-stuart-mill/2/), "There is no difficulty in proving any ethical standard whatever to work ill, if we suppose universal idiocy to be conjoined with it".
+[^4a]: As [John Stuart Mill](/utilitarian-thinker/john-stuart-mill/) writes in [Chapter 2 of _Utilitarianism_](/books/utilitarianism-john-stuart-mill/2/), "There is no difficulty in proving any ethical standard whatever to work ill, if we suppose universal idiocy to be conjoined with it".
 
 [^5]:
      Or perhaps as a simplified "[lie-to-children](https://en.wikipedia.org/wiki/Lie-to-children)".
