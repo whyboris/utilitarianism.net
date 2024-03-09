@@ -17,15 +17,15 @@ gradientBottom: "#430A4A"
 
 ## Introduction
 
-It is widely agreed that self-interest (or prudence) calls for aggregating harms and benefits across different moments _within_ one’s life, so as to maximize one’s overall well-being. For example, visiting the dentist is prudent despite the immediate unpleasantness because it helps to avert greater harm to one’s future self. Aggregative consequentialist theories like utilitarianism go one step further: they aggregate harms and benefits _between_ different people’s lives in order to maximize overall societal well-being. It can be worth imposing harms on some individuals, utilitarians claim, if that prevents greater harms to others. This leads some critics to claim that utilitarianism neglects the moral significance of the boundaries between individuals.
+It's widely agreed that self-interest (or prudence) calls for aggregating harms and benefits across different moments _within_ one’s life, so as to maximize one’s overall well-being. For example, visiting the dentist is prudent despite the immediate unpleasantness because it helps to avert greater harm to one’s future self. Aggregative consequentialist theories like utilitarianism go one step further: they aggregate harms and benefits _between_ different people’s lives in order to maximize overall societal well-being. It can be worth imposing harms on some individuals, utilitarians claim, if that prevents greater harms to others. This leads some critics to claim that utilitarianism neglects the moral significance of the boundaries between individuals.
 
 This _separateness of persons_ objection was stated most famously by John Rawls:
 
 > [Utilitarianism] is the consequence of extending to society the principle of choice for one man, and then, to make this extension work, conflating all persons into one… Utilitarianism does not take seriously the distinction between persons.[^1]
 
-Despite its influence, the reasoning behind this objection can be difficult to pin down. The idea that utilitarians must “conflat[e] all persons into one” seems to presume that they (i) _start_ with “the principle of choice for one man”, and then (ii) argue for their view on the basis that all of society can be treated (perhaps metaphorically) as just another individual. But in fact many utilitarian arguments, as laid out in chapter 3, do _not_ take this form. So this interpretation of the objection seems too narrow. It might debunk one particular argument for utilitarianism, but utilitarianism itself may still be well-supported on other grounds.
+Despite its influence, the reasoning behind this objection can be difficult to pin down. The idea that utilitarians must “conflat[e] all persons into one” seems to presume that they (i) _start_ with “the principle of choice for one man”, and then (ii) argue for their view on the basis that all of society can be treated (perhaps metaphorically) as just another individual. But in fact many utilitarian arguments, as laid out in Chapter 3, do _not_ take this form. So this interpretation of the objection seems too narrow. It might debunk one particular argument for utilitarianism, but utilitarianism itself may still be well-supported on other grounds.
 
-On a broader interpretation, we may take the objection to assert that respecting the distinction between persons requires treating inter-personal tradeoffs (those _between_ lives) differently from intra-personal ones (those _within_ one life). On this interpretation, it is the implications of utilitarianism, not what argument led to it, that are seen as objectionable. But what is the positive case for treating intra- and inter-personal tradeoffs differently?[^2] The remainder of this discussion explores three candidate arguments, based on (1) compensation, (2) fungibility, and (3) anti-aggregative intuitions.
+On a broader interpretation, we may take the objection to assert that respecting the distinction between persons requires treating inter-personal tradeoffs (those _between_ lives) differently from intra-personal ones (those _within_ one life). On this interpretation, it's the implications of utilitarianism, not what argument led to it, that are seen as objectionable. But what is the positive case for treating intra- and inter-personal tradeoffs differently?[^2] The remainder of this discussion explores three candidate arguments, based on (1) compensation, (2) fungibility, and (3) anti-aggregative intuitions.
 
 ## Compensation
 
@@ -37,7 +37,7 @@ Utilitarians may respond that every person in need is an individual, equally des
 
 A deeper concern is that utilitarianism might seem to treat individuals as entirely fungible or replaceable without regret. As Peter Singer characterizes the view: “It is as if sentient beings are receptacles of something valuable, and it does not matter if a receptacle gets broken so long as there is another receptacle to which its contents can be transferred without any getting spilt.”[^8]
 
-To make the problem vivid, imagine that Connie the Consequentialist is faced with two poison victims, and just enough anti-venom to save one of them.[^9] And suppose that, faced with their pleading faces, but realizing that it makes no difference to the total amount of well-being which person she saves, Connie finds herself feeling completely _indifferent_ about her choice. It is as if she had to choose between a $20 bill or two tens.
+To make the problem vivid, imagine that Connie the Consequentialist is faced with two poison victims, and just enough anti-venom to save one of them.[^9] And suppose that, faced with their pleading faces, but realizing that it makes no difference to the total amount of well-being which person she saves, Connie finds herself feeling completely _indifferent_ about her choice. It's as if she had to choose between a $20 bill or two tens.
 
 It seems that Connie is making a deep moral mistake here. She is treating the two people’s interests as completely fungible, like money, and neglecting the fact that each person is of distinct intrinsic importance, in their own right, and not merely a fungible means to aggregate well-being. The correct moral theory, we feel, must attribute intrinsic value to particular individuals and not just to the sum total of their well-being.[^10]
 
@@ -63,7 +63,7 @@ Still, there are particular cases in which utilitarian aggregation seems (intuit
 
 > Jones has suffered an accident in the transmitter room of a television station. To save Jones from an hour of severe pain, we would have to cancel part of the broadcast of a football game, which is giving pleasure to very many people.[^15]
 
-Intuitively, it does not matter how many people are watching the football game, it is simply _more important_ to save Jones from suffering severe pain during this time.[^16]
+Intuitively, it does not matter how many people are watching the football game, it's simply _more important_ to save Jones from suffering severe pain during this time.[^16]
 
 ### Reinterpreting the Intuition
 
@@ -101,7 +101,7 @@ Putting this all together, then, defenders of aggregationism can offer a two-pro
 
 ## Conclusion
 
-We have seen that the “separateness of persons” objection to utilitarianism can take three forms, none of which is decisive. The _compensation_ objection rests on implausibly egoistic assumptions. The _fungibility_ objection involves a misconception: utilitarianism need not treat distinct individuals as fungible. Finally, while _anti-aggregative_ intuitions have some force, we have also seen that there are ways for utilitarians to resist them, and that these anti-aggregative views face even worse difficulties.
+We've seen that the “separateness of persons” objection to utilitarianism can take three forms, none of which is decisive. The _compensation_ objection rests on implausibly egoistic assumptions. The _fungibility_ objection involves a misconception: utilitarianism need not treat distinct individuals as fungible. Finally, while _anti-aggregative_ intuitions have some force, we've also seen that there are ways for utilitarians to resist them, and that these anti-aggregative views face even worse difficulties.
 
 {{< next-page-objection >}}
 

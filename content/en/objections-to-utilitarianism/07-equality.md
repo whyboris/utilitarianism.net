@@ -49,7 +49,7 @@ If we specify the original example in money, and use the standard economic measu
 
 ![Utilitarianism and equality - objections to utilitarianism](/img/equality2.jpg "Utilitarianism and equality - objections to utilitarianism")
 
-We think that, put in these terms, it is no longer intuitively obvious that the utilitarian choice, favoring Inequality over Equality, is the wrong one. Everyone would agree that some level of inequality can be justified by greater total well-being; how exactly to make this trade-off is tricky, and it is not obvious that utilitarianism gets the wrong answer.
+We think that, put in these terms, it's no longer intuitively obvious that the utilitarian choice, favoring Inequality over Equality, is the wrong one. Everyone would agree that some level of inequality can be justified by greater total well-being; how exactly to make this trade-off is tricky, and it's not obvious that utilitarianism gets the wrong answer.
 
 ## Rivals Fare No Better
 
