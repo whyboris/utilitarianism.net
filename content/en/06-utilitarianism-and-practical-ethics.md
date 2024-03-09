@@ -99,7 +99,7 @@ We discuss the implications of rejecting speciesism for ethical action in the ar
 
 From the utilitarian perspective, people on the other side of the planet matter no less than people closer to us geographically. In the same way, utilitarianism regards the well-being of future generations as no less important simply because they are far away in time than the well-being of those alive today.
 
-A striking fact about the history of civilization is just how early in it we appear to be. There are 5,000 years of recorded history behind us, but how many years are potentially still to come? If we merely last as long as the typical mammalian species, we still have 200,000 years to go. But humans are not typical mammals, and if we can preserve our species, there are a further one billion years until the Earth is no longer habitable,[^15] and other planets and solar systems will be around for trillions of years. Even on the most conservative of these timelines, we have progressed through a tiny fraction of recorded history. If humanity’s saga were a novel, we would still be on the first page.
+A striking fact about the history of civilization is just how early in it we appear to be. There are 5,000 years of recorded history behind us, but how many years are potentially still to come? If we merely last as long as the typical mammalian species, we still have 200,000 years to go. But humans are not typical mammals, and if we can preserve our species, there are a further one billion years until the Earth is no longer habitable,[^15] and other planets and solar systems will be around for trillions of years. Even on the most conservative of these timelines, we've progressed through a tiny fraction of recorded history. If humanity’s saga were a novel, we would still be on the first page.
 
 There could be astronomically more people in the future than in the present generation. This strongly suggests that, to help people in general, your key concern should not be to merely help the present generation, but to ensure that the long-term future goes as well as possible.[^16] This idea is known as _strong longtermism_:
 
@@ -194,7 +194,7 @@ The next chapter discusses important rival theories that may overlap significant
 
 [^1]: Sidgwick, H. (1981). _The Methods of Ethics_. Hackett Publishing. Book IV, p. 414
 [^2]:
-     Though as flagged in our chapter on [the demandingness objection](/objections-to-utilitarianism/demandingness), this may not actually be so demanding if the "should" claim merely indicates what is morally _ideal_, rather than what is _required in order to avoid deserving moral blame or criticism_.
+     Though as flagged in our chapter on [the demandingness objection](/objections-to-utilitarianism/demandingness), this may not actually be so demanding if the "should" claim merely indicates what is morally _ideal_, rather than what is _required to avoid deserving moral blame or criticism_.
 
      For a discussion of demandingness in the context of global poverty alleviation, see Singer, P. (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. New York: Penguin Random House LLC.
 [^3]: GiveWell (2019). [Your dollar goes further overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).

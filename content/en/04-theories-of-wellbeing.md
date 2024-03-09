@@ -254,7 +254,7 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 [^16]:
     Adapted from Crisp, R. (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). _Philosophy and Phenomenological Research._ 73(3): 635–6.
 
-    The advantages of third-personal judgments about the relative values of lives inside and outside of the experience machine, in order to better avoid objections, is also stressed by Lin, Eden (2016). [How to Use the Experience Machine](https://doi.org/10.1017/S0953820815000424). _Utilitas_ 28 (3):314-332.
+    The advantages of third-personal judgments about the relative values of lives inside and outside of the experience machine, to better avoid objections, is also stressed by Lin, Eden (2016). [How to Use the Experience Machine](https://doi.org/10.1017/S0953820815000424). _Utilitas_ 28 (3):314-332.
 
 [^17]: Crisp, R. (2017). Well-Being. _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.). [Section 4.1 Hedonism](https://plato.stanford.edu/entries/well-being/#TheWelBei). See also Crisp, R. (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). _Philosophy and Phenomenological Research._ 73(3): 637.
 [^18]: They probably also desire their own happiness, of course, which is better served in scenario (ii). But the fact that they nonetheless prefer the prospect of (i) over (ii) suggests that (i) is the outcome that better fulfills their desires _overall_.

@@ -72,7 +72,7 @@ While this conclusion is not yet all the way to full-blown utilitarianism, since
 
 ## The Poverty of the Alternatives
 
-We have seen that there is a strong presumptive case in favor of utilitarianism. If no competing view can be shown to be superior, then utilitarianism has a strong claim to be the “default” moral theory. In fact, one of the strongest considerations in favor of utilitarianism (and related consequentialist views) is the deficiencies of the alternatives. Deontological (or rule-based) theories, in particular, seem to rest on questionable foundations.[^15]
+We've seen that there is a strong presumptive case in favor of utilitarianism. If no competing view can be shown to be superior, then utilitarianism has a strong claim to be the “default” moral theory. In fact, one of the strongest considerations in favor of utilitarianism (and related consequentialist views) is the deficiencies of the alternatives. Deontological (or rule-based) theories, in particular, seem to rest on questionable foundations.[^15]
 
 Deontological theories are explicitly _non-consequentialist_: instead of morally assessing actions by evaluating their consequences, these theories tend to take certain types of action (such as killing an innocent person) to be _intrinsically_ wrong.[^16] There are reasons to be dubious of this approach to ethics, however.
 
@@ -171,7 +171,7 @@ The next chapter discusses theories of well-being, or what counts as being good 
 
 [^6]: Smart, J.J.C. (1956). Extreme and restricted utilitarianism. _The Philosophical Quarterly_, 6(25): 344–354.
 [^7]:
-    The “veil of ignorance” thought experiment was originally developed by Vickrey and Harsanyi, though nowadays it is more often associated with John Rawls, who coined the term and tweaked the thought experiment to arrive at different conclusions. Specifically, Rawls appealed to a version in which you are additionally ignorant of the relative probabilities of ending up in various positions, in order to block the utilitarian implications and argue instead for a “maximin” position that gives lexical priority to raising the well-being of the worst-off.
+    The “veil of ignorance” thought experiment was originally developed by Vickrey and Harsanyi, though nowadays it is more often associated with John Rawls, who coined the term and tweaked the thought experiment to arrive at different conclusions. Specifically, Rawls appealed to a version in which you are additionally ignorant of the relative probabilities of ending up in various positions, to block the utilitarian implications and argue instead for a “maximin” position that gives lexical priority to raising the well-being of the worst-off.
 
     Vickrey, W. (1945). Measuring Marginal Utility by Reactions to Risk. _Econometrica_, 13(4): 329.
 
@@ -204,7 +204,7 @@ The next chapter discusses theories of well-being, or what counts as being good 
 [^12]: Cf. Williams, E. G. (2015). [The Possibility of an Ongoing Moral Catastrophe](https://link.springer.com/article/10.1007/s10677-015-9567-7). _Ethical Theory and Moral Practice_, 18(5): 971–982.
 
 [^15]: The following arguments should also apply against virtue ethics approaches, if they yield non-consequentialist verdicts about what _acts_ should be done.
-[^16]: Absolutist deontologists hold such judgments to apply _no matter the consequences_. Moderate deontologists instead take the identified actions to be _presumptively_ wrong, and not _easily_ outweighed, but allow that this may be outweighed if a _sufficient_ amount of value was on the line. So, for example, a moderate deontologist might allow that it's permissible to lie in order to save someone’s life, or to kill one innocent person in order to save a million.
+[^16]: Absolutist deontologists hold such judgments to apply _no matter the consequences_. Moderate deontologists instead take the identified actions to be _presumptively_ wrong, and not _easily_ outweighed, but allow that this may be outweighed if a _sufficient_ amount of value was on the line. So, for example, a moderate deontologist might allow that it's permissible to lie to save someone’s life, or to kill one innocent person to save a million.
 [^17]:
     Samuel Scheffler noted that “either way, someone loses: some inviolable person is violated. Why isn’t it at least permissible to prevent the violation of five people by violating one?” (p. 88)
 
@@ -212,7 +212,7 @@ The next chapter discusses theories of well-being, or what counts as being good 
 
 [^18]: Scheffler, S. (1985). [Agent-Centred Restrictions, Rationality, and the Virtues](https://dx.doi.org/10.1093/mind/XCIV.375.409). _Mind_, 94(375): 409–19.
 [^19]: See, e.g., Chappell, T. (2011). [Intuition, System, and the “Paradox” of Deontology](https://doi.org/10.1017/CBO9780511973789.013). In Jost, L. & Wuerth, J. (eds.), _Perfecting Virtue: New Essays on Kantian Ethics and Virtue Ethics_. Cambridge University Press, pp. 271–88.
-[^20]: It's open to the deontologist to insist that it should be more important _to Jack_, even if not to anyone else. But this violates the appealing idea that the moral point of view is impartial, yielding verdicts that reasonable observers (and not just the agent themselves) could agree upon.
+[^20]: It's open to the deontologist to insist that it should be more important _to Jack_, even if not to anyone else. But this violates the appealing idea that the moral point of view is impartial, yielding verdicts that reasonable observers (and not just the agent themselves) could agree on.
 [^21]:
     For example, you might gaslight your spouse by remaining hidden in camouflage, when they could have sworn that you were just in the room with them. Or, as Foot (1978, 26) suggests, “An actor who fails to turn up for a performance will generally spoil it rather than allow it to be spoiled”.
 
