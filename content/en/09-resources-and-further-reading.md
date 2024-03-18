@@ -451,7 +451,6 @@ Resources for [Study Guide: Peter Singer's 'Famine, Affluence, and Morality'](/p
 
 - Peter Singer (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243.
 - Peter Singer (2019). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_, 2nd ed. The Life You Can Save, Bainbridge Island, WA and Sydney, available free at <www.thelifeyoucansave.org>.
-- Peter Singer (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. (Download a free ebook or audiobook of the 10th anniversary edition at <www.thelifeyoucansave.org>.)
 - Richard Y. Chappell & Helen Yetter-Chappell (2016). [Virtue and Salience](https://doi.org/10.1080/00048402.2015.1115530). _Australasian Journal of Philosophy_, 94(3): 449–463.
 - Andrew T. Forcehimes & Luke Semrau (2019). [Beneficence: Does Agglomeration Matter?](https://doi.org/10.1111/japp.12276) _Journal of Applied Philosophy_ 36 (1): 17-33.
 - Frances Kamm (1999). Famine Ethics: The Problem of Distance in Morality and Singer’s Ethical Theory, in _Singer and His Critics_, ed. Dale Jamieson, Oxford: Blackwell: 174–203.
