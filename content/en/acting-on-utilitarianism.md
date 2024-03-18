@@ -185,7 +185,7 @@ The next chapter discusses important rival theories that may overlap significant
 
 ### Global Health and Development
 
-- Peter Singer (2019). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_, updated 10th anniversary edition. New York: Penguin Random House. (The book is available for free download)
+- Peter Singer (2019). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_, 2nd ed. The Life You Can Save, Bainbridge Island, WA and Sydney, available free at <www.thelifeyoucansave.org>.
 - Toby Ord (2019).[The Moral Imperative toward Cost-Effectiveness in Global Health](https://www.givingwhatwecan.org/research/the-moral-imperative-towards-cost-effectiveness/), in Greaves, H. (ed.) _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
 - Peter Unger (1996). _[Living High and Letting Die: Our Illusion of Innocence](https://doi.org/10.1093/0195108590.001.0001)_. Oxford: Oxford University Press.
 

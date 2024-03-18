@@ -394,7 +394,7 @@ _→ [Article on Peter Singer’s life and ideas](/utilitarian-thinker/peter-sin
 [^72]: Gilson, D (2006). [Chew the Right Thing](https://www.motherjones.com/politics/2006/05/chew-right-thing/). Mother Jones. [[archive link](https://web.archive.org/web/20210621143133/https://www.motherjones.com/politics/2006/05/chew-right-thing/)]
 [^73]: Singer, P. (1972). [Famine, Affluence, and Morality](https://personal.lse.ac.uk/robert49/teaching/mm/articles/Singer_1972Famine.pdf). _Philosophy and Public Affairs_. 1(3): 229–243.
 [^74]: Singer, P. (2015). Preface, _[The Most Good You Can Do: How Effective Altruism Is Changing Ideas About Living Ethically](https://en.wikipedia.org/wiki/The_Most_Good_You_Can_Do)_. Yale: Yale University Press.
-[^75]: Singer, P. (1981). Chapter 4: Reason, _The Expanding Circle: Ethics, Evolution, and Moral Progress_. Princeton University Press. p. 120
+[^75]: Singer, P. (2011). Chapter 4: Reason, _The Expanding Circle: Ethics, Evolution, and Moral Progress_. Princeton University Press. p. 120
 [^76]: Singer, P. (3rd ed.; 2011). _[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics)_. Cambridge: Cambridge University Press. p. 50
 [^77]: Singer, P. (3rd. ed.; 2002). _[Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>)_. HarperCollins. p. 9
 [^78]: Singer, P. & de Lazari-Radek, K. (2014). _The Point of View of the Universe: Sidgwick and Contemporary Ethics._ Oxford: Oxford University Press, p. 343

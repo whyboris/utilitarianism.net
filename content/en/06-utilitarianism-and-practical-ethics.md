@@ -153,19 +153,19 @@ Though utilitarians should try to use their lives to do the most good they can, 
 ### The Expanding Moral Circle
 
 - Peter Singer (1997). [The Drowning Child and the Expanding Circle](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxlaHNhcGxhbmd1YWdlMjAxNXxneDoyNTNjNmMyNDBlN2JmMjMy)_. New Internationalist_.
-- Peter Singer (1981). _[The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle)_. Princeton: Princeton University Press.
+- Peter Singer (2011). _[The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle)_. Princeton: Princeton University Press.
 
 ### Cosmopolitanism: Expanding the Moral Circle Across Geography
 
 - [Poverty & Our Response to It: Crash Course Philosophy #44](https://youtu.be/D5sknLy7Smo)
-- Peter Singer (2009). [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/). New York: Penguin Random House. (the book is available for free download)
+- Peter Singer (2019). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_, 2nd ed. The Life You Can Save, Bainbridge Island, WA and Sydney, available free at <www.thelifeyoucansave.org>.
 - Peter Singer (1972). [Famine, Affluence, and Morality](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Singer_1972Famine.pdf). _Philosophy & Public Affairs_. 1(2): 229–243.
 - Samuel Scheffler (1999). [Conceptions of Cosmopolitanism](https://www.cambridge.org/core/journals/utilitas/article/conceptions-of-cosmopolitanism/28D86759086069E2A97FF730F13C274D). _Utilitas_. 11(3): 255–276.
 
 ### Anti-Speciesism: Expanding the Moral Circle Across Species
 
 - [Non-Human Animals: Crash Course Philosophy #42](https://youtu.be/y3-BX-jN_Ac)
-- Peter Singer (1975). _[Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>)_. New York: HarperCollins.
+- Peter Singer (2023) _Animal Liberation Now: The Definitive Classic Renewed_, New York: HarperCollins.
 - Jeff McMahan (2002). Animals. In R. G. Frey and Christopher Wellman (eds.), _The Blackwell Companion to Applied Ethics_. Oxford: Blackwell, pp. 525–536.
 - Jeff Sebo (2019). [A Utilitarian Case for Animal Rights](https://www.youtube.com/watch?v=vELWCTgA9oA). _Effective Altruism Global_.
 
@@ -188,16 +188,16 @@ Though utilitarians should try to use their lives to do the most good they can, 
 [^2]:
      Though as flagged in our chapter on [the demandingness objection](/objections-to-utilitarianism/demandingness), this may not actually be so demanding if the "should" claim merely indicates what is morally _ideal_, rather than what is _required to avoid deserving moral blame or criticism_.
 
-     For a discussion of demandingness in the context of global poverty alleviation, see Singer, P. (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. New York: Penguin Random House LLC.
+     For a discussion of demandingness in the context of global poverty alleviation, see Singer, P. (2019). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_, 2nd ed. The Life You Can Save, Bainbridge Island, WA and Sydney, available free at <www.thelifeyoucansave.org>.
 [^3]: GiveWell (2019). [Your dollar goes further overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
 [^4]: Berman, J. Z., Barasch, A., Levine, E. E., & Small, D. A. (2018). [Impediments to Effective Altruism: The Role of Subjective Preferences in Charitable Giving](https://journals.sagepub.com/doi/10.1177/0956797617747648). _Psychological Science_. 29(5): 834–844.
 [^5]: The case for cause neutrality is made in Effective Altruism Foundation (2017). [The Benefits of Cause-Neutrality](https://ea-foundation.org/blog/the-benefits-of-cause-neutrality-2/).
 [^6]: Ord, T. (2013). [The Moral Imperative Towards Cost-Effectiveness in Global Health](https://pdfs.semanticscholar.org/1016/bb6788716e7b489c08853ce64f0063870a4b.pdf). _Center for Global Development_.
-[^7]: Cf. Singer, P. (1981). _[The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle)_. Princeton: Princeton University Press.
+[^7]: Cf. Singer, P. (2011). _[The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle)_. Princeton: Princeton University Press.
 [^8]: Singer, P. (2011). _[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics)_. Cambridge: Cambridge University Press, p. 50
 [^9]: Cf. MacAskill, W. (2015). _[Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Penguin Random House. Chapter 1.
 [^10]:
-    Singer, P. (2002). _[Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>)_. New York: HarperCollins Publishers, p. 9
+    Singer, P. (2023) _Animal Liberation Now: The Definitive Classic Renewed_, New York: HarperCollins, p. 8.
     Indeed, there is psychological evidence suggesting that speciesism goes hand in hand with other discriminatory attitudes like racism, sexism, and homophobia: Cf.
     Caviola, L; Everett, J. A. C. & Faber, N. S. (2017). [The Moral Standing of Animals: Towards a Psychology of Speciesism](https://doi.org/10.1037/pspp0000182). _Journal of Personality and Social Psychology_. 116(6): 1011–1029.
 
