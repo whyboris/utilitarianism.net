@@ -175,7 +175,7 @@ Good luck! And remember to cite your sources.
 ## Resources and Further Reading
 
 - Peter Singer (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243.
-- Peter Singer (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. (Download a free ebook or audiobook of the 10th anniversary edition at [www.thelifeyoucansave.org](www.thelifeyoucansave.org).)
+- Peter Singer (2019). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_, 2nd ed. The Life You Can Save, Bainbridge Island, WA and Sydney, available free at <www.thelifeyoucansave.org>.
 - Richard Y. Chappell & Helen Yetter-Chappell (2016). [Virtue and Salience](https://doi.org/10.1080/00048402.2015.1115530). _Australasian Journal of Philosophy_, 94(3): 449–463.
 - Andrew T. Forcehimes & Luke Semrau (2019). [Beneficence: Does Agglomeration Matter?](https://doi.org/10.1111/japp.12276) _Journal of Applied Philosophy_ 36 (1): 17-33.
 - Frances Kamm (1999). Famine Ethics: The Problem of Distance in Morality and Singer’s Ethical Theory, in _Singer and His Critics_, ed. Dale Jamieson, Oxford: Blackwell: 174–203.
@@ -225,7 +225,7 @@ Good luck! And remember to cite your sources.
 [^9]: Singer, P. (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243, p. 231.
 [^10]: Singer, P. (1997). [The Drowning Child and the Expanding Circle](https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist). _New Internationalist_. ([archive](https://web.archive.org/web/20210614021936/https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist))
 [^11]: Of course, the relevant question is not the psychological one of what someone would be willing to choose, but the moral one of what choice is truly justifiable. But it's often by thinking through such a choice from the inside that we form our moral beliefs about which choices are morally permissible.
-[^12]: See also Chapter 3: Common Objections to Giving, in Singer, P. (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_.
+[^12]: See also Chapter 3: Common Objections to Giving, in Singer, P. (2019). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_, 2nd ed. The Life You Can Save, Bainbridge Island, WA and Sydney, available free at <www.thelifeyoucansave.org>.
 [^13]: Though for a competing view, see Kamm, F.M. (1999). Famine Ethics: The Problem of Distance in Morality and Singer’s Ethical Theory, in _Singer and His Critics_, ed. Dale Jamieson. Oxford: Blackwell: 174–203.
 [^14]:
     Though for a competing view, which takes normal empathetic responses to determine what is right, see Slote, M. (2007). Famine, Affluence, and Virtue, in _Working Virtue: Virtue Ethics and Contemporary Moral Problems_, ed. Rebecca L. Walker and Philip J. Ivanhoe, Oxford: Clarendon Press: 279–296.

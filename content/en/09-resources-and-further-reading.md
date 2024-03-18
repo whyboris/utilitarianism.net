@@ -254,19 +254,19 @@ Resources for [Utilitarianism and Practical Ethics](/utilitarianism-and-practica
 ### The Expanding Moral Circle
 
 - Peter Singer (1997). [The Drowning Child and the Expanding Circle](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxlaHNhcGxhbmd1YWdlMjAxNXxneDoyNTNjNmMyNDBlN2JmMjMy)_. New Internationalist_.
-- Peter Singer (1981). _[The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle)_. Princeton: Princeton University Press.
+- Peter Singer (2011). _[The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle)_. Princeton: Princeton University Press.
 
 ### Cosmopolitanism: Expanding the Moral Circle Across Geography
 
 - [Poverty & Our Response to It: Crash Course Philosophy #44](https://youtu.be/D5sknLy7Smo)
-- Peter Singer (2009). [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/). New York: Penguin Random House. (the book is available for free download)
+- Peter Singer (2019). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_, 2nd ed. The Life You Can Save, Bainbridge Island, WA and Sydney, available free at <www.thelifeyoucansave.org>.
 - Peter Singer (1972). [Famine, Affluence, and Morality](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Singer_1972Famine.pdf). _Philosophy & Public Affairs_. 1(2): 229–243.
 - Samuel Scheffler (1999). [Conceptions of Cosmopolitanism](https://www.cambridge.org/core/journals/utilitas/article/conceptions-of-cosmopolitanism/28D86759086069E2A97FF730F13C274D). _Utilitas_. 11(3): 255–276.
 
 ### Anti-Speciesism: Expanding the Moral Circle Across Species
 
 - [Non-Human Animals: Crash Course Philosophy #42](https://youtu.be/y3-BX-jN_Ac)
-- Peter Singer (1975). _[Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>)_. New York: HarperCollins.
+- Peter Singer (2023) _Animal Liberation Now: The Definitive Classic Renewed_, New York: HarperCollins.
 - Jeff McMahan (2002). Animals. In R. G. Frey and Christopher Wellman (eds.), _The Blackwell Companion to Applied Ethics_. Oxford: Blackwell, pp. 525–536.
 - Jeff Sebo (2019). [A Utilitarian Case for Animal Rights](https://www.youtube.com/watch?v=vELWCTgA9oA). _Effective Altruism Global_.
 
@@ -446,7 +446,7 @@ Resources for [Acting on Utilitarianism](/acting-on-utilitarianism)
 
 ### Global Health and Development
 
-- Peter Singer (2019). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_, updated 10th anniversary edition. New York: Penguin Random House. (The book is available for free download)
+- Peter Singer (2019). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_, 2nd ed. The Life You Can Save, Bainbridge Island, WA and Sydney, available free at <www.thelifeyoucansave.org>.
 - Toby Ord (2019).[The Moral Imperative toward Cost-Effectiveness in Global Health](https://www.givingwhatwecan.org/research/the-moral-imperative-towards-cost-effectiveness/), in Greaves, H. (ed.) _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
 - Peter Unger (1996). _[Living High and Letting Die: Our Illusion of Innocence](https://doi.org/10.1093/0195108590.001.0001)_. Oxford: Oxford University Press.
 
@@ -468,7 +468,7 @@ Resources for [Acting on Utilitarianism](/acting-on-utilitarianism)
 Resources for [Study Guide: Peter Singer's 'Famine, Affluence, and Morality'](/peter-singer-famine-affluence-and-morality/)
 
 - Peter Singer (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243.
-- Peter Singer (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. (Download a free ebook or audiobook of the 10th anniversary edition at [www.thelifeyoucansave.org](www.thelifeyoucansave.org).)
+- Peter Singer (2019). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_, 2nd ed. The Life You Can Save, Bainbridge Island, WA and Sydney, available free at <www.thelifeyoucansave.org>.
 - Richard Y. Chappell & Helen Yetter-Chappell (2016). [Virtue and Salience](https://doi.org/10.1080/00048402.2015.1115530). _Australasian Journal of Philosophy_, 94(3): 449–463.
 - Andrew T. Forcehimes & Luke Semrau (2019). [Beneficence: Does Agglomeration Matter?](https://doi.org/10.1111/japp.12276) _Journal of Applied Philosophy_ 36 (1): 17-33.
 - Frances Kamm (1999). Famine Ethics: The Problem of Distance in Morality and Singer’s Ethical Theory, in _Singer and His Critics_, ed. Dale Jamieson, Oxford: Blackwell: 174–203.

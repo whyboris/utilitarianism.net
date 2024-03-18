@@ -183,7 +183,7 @@ To do the most good they can, utilitarians often donate money to effective chari
 
 ### Global Health and Development
 
-- Peter Singer (2019). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_, updated 10th anniversary edition. New York: Penguin Random House. (The book is available for free download)
+- Peter Singer (2019). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_, 2nd ed. The Life You Can Save, Bainbridge Island, WA and Sydney, available free at <www.thelifeyoucansave.org>.
 - Toby Ord (2019).[The Moral Imperative toward Cost-Effectiveness in Global Health](https://www.givingwhatwecan.org/research/the-moral-imperative-towards-cost-effectiveness/), in Greaves, H. (ed.) _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
 - Peter Unger (1996). _[Living High and Letting Die: Our Illusion of Innocence](https://doi.org/10.1093/0195108590.001.0001)_. Oxford: Oxford University Press.
 
@@ -222,7 +222,7 @@ To do the most good they can, utilitarians often donate money to effective chari
     MacAskill, W. (2019). The Definition of Effective Altruism. In Greaves, H. & Pummer, T (ed.). _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
 
 [^11]: Parfit, D. (2017). _[On What Matters, Volume Three](https://en.wikipedia.org/wiki/On_What_Matters)_. Oxford: Oxford University Press, pp. 436–437.
-[^12]: For instance, Peter Singer’s book [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/) (the updated 10-year anniversary edition is available for free download) makes the case for the ethical importance of improving global health and international development.
+[^12]: For instance, Peter Singer’s book [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/) makes the case for the ethical importance of improving global health and international development. Singer, P. (2019). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_, 2nd ed. The Life You Can Save, Bainbridge Island, WA and Sydney, available free at <www.thelifeyoucansave.org>.
 [^13]: Dattani, S.; Spooner, F.; Ritchie, H. & Roser, M. (2023). [Child & Infant Mortality](https://ourworldindata.org/child-mortality). _Our World In Data_.
 [^14]: Dattani, S.; Spooner, F.; Ritchie, H. & Roser, M. (2023). [Child & Infant Mortality](https://ourworldindata.org/child-mortality). _Our World In Data_.
 [^15]: GiveWell (2019). [Your Dollar Goes Further Overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).

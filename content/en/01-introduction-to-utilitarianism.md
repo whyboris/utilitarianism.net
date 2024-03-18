@@ -78,7 +78,7 @@ Prominent [objections to utilitarianism](/objections-to-utilitarianism/) are add
 
 What matters most for utilitarianism is improving the well-being of all individuals, regardless of their gender, race, species, or their geographical or temporal location.
 
-All utilitarian theories share four key elements: consequentialism, welfarism, impartiality, and aggregationism. Classical utilitarianism includes two further elements: hedonism and totalism. Hedonism is the view that one’s well-being is determined by the balance of one’s positive and negative conscious experiences. The total view holds that the value of adding an additional person to an outcome is equal to the value of that person’s lifetime well-being.
+All utilitarian theories share four key elements: consequentialism, welfarism, impartiality, and aggregationism. Classical utilitarianism includes two further elements: hedonism and totalism. Hedonism is the view that one’s well-being is determined by the balance of one’s positive and negative conscious experiences. The total view holds that the value of adding an additional person to an outcome is equal to the value of that person’s lifetime well-being, together with whatever effects they have on others' well-being.
 
 Utilitarian ethics has an intellectual tradition spanning centuries, during which it has prompted many heated debates. Critics of utilitarianism accuse the theory of disregarding rights and being overly demanding, among other objections. Advocates counter that the theory has attractive theoretical virtues and offers a compelling account of what fundamentally matters. If difficult tradeoffs were settled behind a veil of ignorance to minimize risk of bias, it would be rational for everyone involved to endorse utilitarian recommendations. Close examination of these competing arguments is required to come to an informed view of this controversial theory.
 
@@ -124,10 +124,10 @@ The next chapter discusses the four elements of utilitarian theories in greater 
 [^3]:
      For instance, Bentham commented on the issue of animal protection: “the question is not, Can they reason? nor, Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being? The time will come when humanity will extend its mantle over everything which breathes. We have begun by attending to the condition of slaves; we shall finish by softening that of all the animals which assist our labors or supply our wants.”
 
-     Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.), pp. 143–144.
+     Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.), pp. 143–144.
 
 [^4]:
-     Cf. Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.); and Campos Boralevi, L. (2012).[_Bentham and the Oppressed_](https://books.google.com/books?id=BccgAAAAQBAJ&pg=PA37). Berlin: De Gruyter.
+     Cf. Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.); and Campos Boralevi, L. (2012). [_Bentham and the Oppressed_](https://books.google.com/books?id=BccgAAAAQBAJ&pg=PA37). Berlin: De Gruyter.
 
 [^5]:
      The UK Parliament, [The 1866 Women’s Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
@@ -139,9 +139,9 @@ The next chapter discusses the four elements of utilitarian theories in greater 
      Mill, J. S. (1869). _[The Subjection of Women](https://www.earlymoderntexts.com/assets/pdfs/mill1869.pdf)_. Bennett, J. (ed.), p. 1.
 
 [^8]:
-     On extreme poverty see: Singer, P. (2009). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_. Bainbridge Island, WA: Penguin Random House LLC.
+     On extreme poverty, see: Singer, P. (2019). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_, 2nd ed. The Life You Can Save, Bainbridge Island, WA and Sydney, available free at <www.thelifeyoucansave.org>.
 
-     On factory farming see: Singer, P. (1975). _[Animal Liberation: A New Ethics for Our Treatment of Animals](https://en.wikipedia.org/wiki/Animal_Liberation_(book))_. New York: HarperCollins.
+     On factory farming, see: Singer, P. (2023) _Animal Liberation Now: The Definitive Classic Renewed_, New York: HarperCollins.
 
 [^9]: This is most clear-cut in a fixed-population setting, where one’s actions do not affect the number or identity of people. For more complex cases, see the discussion of [population ethics](/population-ethics/) in Chapter 5.
 

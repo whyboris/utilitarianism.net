@@ -34,7 +34,7 @@ Singer has also campaigned against [global poverty](/acting-on-utilitarianism#gl
 - [Famine, Affluence and Morality](https://en.wikipedia.org/wiki/Famine,_Affluence,_and_Morality) (1972)
 - [Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>) (New York, 1975)
 - [Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics) (Cambridge, 1979)
-- [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/) (2009) (the revised 2019 edition is available for free download)
+- [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/) (2019) (available for free download)
 
 ## Resources on Peter Singer’s Life and Work
 
@@ -52,10 +52,10 @@ Singer has also campaigned against [global poverty](/acting-on-utilitarianism#gl
 
 [^1]: Villanueva, G. (2016). [‘The Bible’ of the animal movement: Peter Singer and animal liberation, 1970–1976](https://www.tandfonline.com/doi/full/10.1080/14490854.2016.1202372). _History Australia_. 13(3): 399–414, p. 399.
 [^2]: In 2013, Peter Singer gave a [TED talk on effective altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en). For a more detailed and recent introduction to effective altruism, see William MacAskill (2019). [Effective Altruism](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7205d104c7bf5cc8f1dca/1539776611190/Effective+Altruism+-+Introduction.pdf). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.).
-[^3]: Singer, P. (2002). _[Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>)_. New York: HarperCollins, p. 6
+[^3]: Singer, P. (2002). _[Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>)_. New York: HarperCollins, p. 6.
 [^4]: Singer, P. (1972). [Famine, Affluence and Morality](https://en.wikipedia.org/wiki/Famine,_Affluence,_and_Morality). _Philosophy & Public Affairs_, 1(3): 229–243.
 [^5]: Cf. Singer, P. (2011). _[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics)_. Cambridge: Cambridge University Press.
-[^6]: _The Most Good You Can Do_, 2015, Preface
-[^7]: _The Expanding Circle: Ethics, Evolution, and Moral Progress_, 1981
-[^8]: [Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>), 2002, p. 9
-[^9]: [Famine, Affluence and Morality](https://en.wikipedia.org/wiki/Famine,_Affluence,_and_Morality), 1972
+[^6]: _The Most Good You Can Do_, 2015, Preface.
+[^7]: _The Expanding Circle: Ethics, Evolution, and Moral Progress_, 1981.
+[^8]: [Animal Liberation](<https://en.wikipedia.org/wiki/Animal_Liberation_(book)>), 2002, p. 9.
+[^9]: [Famine, Affluence and Morality](https://en.wikipedia.org/wiki/Famine,_Affluence,_and_Morality), 1972.
