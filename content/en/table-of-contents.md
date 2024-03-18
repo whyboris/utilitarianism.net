@@ -3,7 +3,7 @@ title: "Table of Contents"
 layout: book
 ---
 
-Foreword by Peter Singer and Katarzyna de Lazari-Radek
+Foreword by Katarzyna de Lazari-Radek and Peter Singer
 
 Preface
 
