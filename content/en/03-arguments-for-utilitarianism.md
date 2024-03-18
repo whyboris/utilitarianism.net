@@ -130,7 +130,7 @@ As such, debunking objections are unlikely to change the mind of one who is draw
 
 Utilitarianism can be supported by several theoretical arguments, the strongest perhaps being its ability to capture _what fundamentally matters_. Its main competitors, by contrast, seem to rely on dubious distinctions—like “doing” vs. “allowing”—and built-in status quo bias. At least, that is how things are apt to look to one who is broadly sympathetic to a utilitarian approach. Given the flexibility inherent in reflective equilibrium, these arguments are unlikely to sway a committed opponent of the view. For those readers who find a utilitarian approach to ethics deeply unappealing, we hope that this chapter may at least help you to better understand what appeal _others_ might see in the view.
 
-However strong you judge the arguments in favor of utilitarianism to be, your ultimate verdict on the theory will also depend upon how well the view is able to counter [the influential objections that critics have raised against it](/objections-to-utilitarianism)—discussed in chapter 9.
+However strong you judge the arguments in favor of utilitarianism to be, your ultimate verdict on the theory will also depend upon how well the view is able to counter [the influential objections that critics have raised against it](/objections-to-utilitarianism)—discussed in Part II.
 
 The next chapter discusses theories of well-being, or what counts as being good for an individual.
 
