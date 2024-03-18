@@ -28,7 +28,7 @@ Wealth and income are distributed extremely unequally across the globe. Middle-c
 
 ![World income distribution](/img/World-Income-Distribution.png "World income distribution")
 
-> _Earning above 29,000 $ per year puts you in the richest 5% of the world population._[^2a]
+> _Earning above 31,000 $ per year puts you in the richest 5% of the world population._[^2a]
 
 Wealth and income exhibit what economists call _diminishing marginal utility_.[^3] The idea is simple: How much an individual’s well-being is increased by receiving a higher income depends on their current income. While richer people report being more satisfied with their lives overall, the richer you become, the less well-being you get from additional money. A poor farmer in Kenya will benefit much more from receiving an additional dollar than does a middle-class member of a rich country.
 
@@ -66,11 +66,11 @@ Since some moral problems may be far more important than others, choosing what c
 
 As explained in the [previous chapter](/utilitarianism-and-practical-ethics#cosmopolitanism), utilitarians endorse cosmopolitanism, according to which the geographical distance between an actor and someone they can help is not morally relevant in itself. Cosmopolitanism implies that we should look for effective interventions to help others, regardless of their nationality, where they live, or where they come from.
 
-On this basis, global health and development may be considered a particularly high priority cause for utilitarians.[^12] Efforts in this area have a great track record of improving lives, making this cause appear especially tractable. For most of human history, it was the norm that around two out of every five children died before their fifth birthday, largely due to preventable causes. With improved sanitation and access to medical care, we've since made tremendous progress against child mortality, with global rates dropping to only 4.5% in 2015.[^13]
+On this basis, global health and development may be considered a particularly high priority cause for utilitarians.[^12] Efforts in this area have a great track record of improving lives, making this cause appear especially tractable. For most of human history, it was the norm that around two out of every five children died before their fifth birthday, largely due to preventable causes. With improved sanitation and access to medical care, we've since made tremendous progress against child mortality, with global rates dropping as low as 4% by 2020.[^13]
 
 ![Global child mortality](/img/Global-Child-Mortality.png "Global child mortality")
 
-However, this progress is no reason to rest on our laurels, since we still have much further to go: a child mortality rate of 4.5% still means that around 15,000 children die worldwide every day.[^14] Fortunately, we can help decrease this number even further. The best interventions in global health and development are incredibly cost-effective: [GiveWell](https://www.givewell.org/), a leading organization that conducts in-depth charity evaluations, estimates that top-rated charities can prevent the death of a child from malaria for under $5,000 by providing preventive drugs.[^15]
+However, this progress is no reason to rest on our laurels, since we still have much further to go: around 16,000 children under 15 still die worldwide every day.[^14] Fortunately, we can help decrease this number even further. The best interventions in global health and development are incredibly cost-effective: [GiveWell](https://www.givewell.org/), a leading organization that conducts in-depth charity evaluations, estimates that top-rated charities can prevent the death of a child from malaria for under $5,000 by providing preventive drugs.[^15]
 
 Other evidence-backed and cost-effective ways to help the very poor include giving deworming treatments, distributing anti-malarial bed nets, offering vitamin A fortification, and simply transferring money.[^16] All of these interventions present amazing opportunities to improve the well-being of others at very low cost to ourselves.
 
@@ -88,9 +88,9 @@ Third, we can significantly improve the lives of farmed animals for just pennies
 
 Yet despite the size of the problem, farm animal welfare is highly neglected.
 
-![Animal statistics](/img/Animal-Statistics.jpg "Animal statistics")
+![Animal statistics](/img/Animal-Statistics.png "Animal statistics")
 
-In the US, only a few tens of millions of philanthropic dollars are donated every year to organizations that focus on improving the lives of farmed animals. The amount spent is tiny compared to other animal causes: there are 3,000 times more animals in factory farms than there are stray pets, but efforts to tackle factory farming get one-fiftieth of the funding spent to help stray animals.[^22]
+In the US, only a few tens of millions of philanthropic dollars are donated every year to organizations that focus on improving the lives of farmed animals. The amount spent is tiny compared to other animal causes. According to research nonprofit Animal Charity Evaluators: “of domesticated and captive animals killed by humans in the U.S., about 99.987% are farmed animals, 0.007% are euthanized in companion animal shelters, and 0.006% are animals used in laboratories. However, about 95% of donations to animal charities in the U.S. go to companion animal organizations, 2% go to laboratory animal organizations, and 3% go specifically to farmed animal organizations.”[^22]
 
 ### Existential Risk Reduction
 
@@ -136,13 +136,13 @@ A second way to help solve the world’s most important problems is choosing the
 
 Fortunately, there is research available to help us make more informed choices. The organization [80,000 Hours](https://80000hours.org/)[^38] aims to help people use their careers to solve the world’s most pressing problems. To do this, they carry out research into how individuals can maximize the social impact of their careers, create online advice, and support readers who might be able to enter priority areas.
 
-As with donations, choosing an impactful career need not involve much of a personal sacrifice: We can enjoy a much broader variety of jobs than we might think before we've tried them.[^39] Also, you are unlikely to thrive in a job you do not enjoy. It would be unsustainable to pursue a career doing something that you hate. Relatedly, maintaining your physical health and emotional well-being are crucial to ensure you do not burn out and keep doing good over the long run. Therefore, choosing a career that maximizes your social impact does not involve giving up on a career that is satisfying, challenging, and enjoyable.
+As with donations, choosing an impactful career need not involve much of a personal sacrifice: We can enjoy a much broader variety of jobs than we might think before we've tried them.[^39] Also, you are unlikely to thrive in a job you do not enjoy. It would be unsustainable to pursue a career doing something that you hate. Relatedly, maintaining your physical health and emotional well-being are crucial to ensure you do not burn out and keep doing good over the long run. Therefore, choosing a career that maximizes your social impact does not involve giving up on a career that is satisfying, challenging, and enjoyable.[^39a]
 
 ### Outreach
 
 Third, by utilitarian lights, an effective way of doing good is by inspiring others to try to do more good. Thus, the best course of action for many people may be to develop and promote the ideas and values associated with utilitarianism or effective altruism, and be a positive role-model in one’s behavior. By raising awareness of these ideas, it's plausible that you could inspire several people to follow the recommendations of these philosophies. In this way you will achieve a _multiplier effect_ on your social impact—the people you inspire will do several times as much good as you would have achieved by working directly to solve the most important moral problems. Because utilitarianism and effective altruism are still little-known and little-understood, there may be a lot of value in promoting these ideas.
 
-Some may also recommend political activism and volunteer work as ways to do good with one's time and efforts. Surprisingly little attention has been given to carefully assessing the marginal impact of different political activities. This paucity of information makes it especially hard to know which efforts in this sphere seem like good bets. But the high stakes suggest that the best-targeted efforts here could do immense good (though, as always, a dedicated career in the area may have even greater potential).[^39a]
+Some may also recommend political activism and volunteer work as ways to do good with one's time and efforts. Surprisingly little attention has been given to carefully assessing the marginal impact of different political activities. This paucity of information makes it especially hard to know which efforts in this sphere seem like good bets. But the high stakes suggest that the best-targeted efforts here could do immense good (though, as always, a dedicated career in the area may have even greater potential).[^39b]
 
 ## Conclusion
 
@@ -204,7 +204,7 @@ The next chapter discusses important rival theories that may overlap significant
 [^2]:
     [The World Bank](https://data.worldbank.org/) estimated that 734 million people lived in extreme poverty in 2015, meaning that they earned less than $1.90 per day (in 2011 prices). Thus, an annual income of $35,000 corresponds to 50 times the annual income of a person living just below the extreme poverty line.
 
-[^2a]: Cf. Giving What We Can (2019). How Rich Am I?, <https://howrichami.givingwhatwecan.org/?income=29000&countryCode=USA&household%5Badults%5D=1&household%5Bchildren%5D=0>.
+[^2a]: Cf. Giving What We Can (2024). How Rich Am I?, <https://www.givingwhatwecan.org/how-rich-am-i?income=31000&countryCode=USA&numAdults=1&numChildren=0>.
 [^3]: Cf. Drupp et al. (2018). [Discounting Disentangled](http://www.lse.ac.uk/GranthamInstitute/wp-content/uploads/2015/06/Working-Paper-172-Drupp-et-al.pdf). _American Economic Journal: Economic Policy_, 10 (4): 109–34.
 [^4]: GiveWell (2019). Your Donation Can Change Someone's Life. <https://www.givewell.org/giving101/Changing-Someones-Life>.
 [^5]: GiveWell (2018). Mass Distribution of Long-Lasting Insecticide-Treated Nets (LLINs). <https://www.givewell.org/international/technical/programs/insecticide-treated-nets>.
@@ -226,8 +226,8 @@ The next chapter discusses important rival theories that may overlap significant
 
 [^11]: Parfit, D. (2017). _[On What Matters, Volume Three](https://en.wikipedia.org/wiki/On_What_Matters)_. Oxford: Oxford University Press, pp. 436–437.
 [^12]: For instance, Peter Singer’s book [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/) makes the case for the ethical importance of improving global health and international development. The updated 10-year anniversary edition is available for free download: <https://www.thelifeyoucansave.org/the-book/>
-[^13]: Roser, M.; Ritchie, H. & Dadonaite, B. (2019). Child & Infant Mortality <https://ourworldindata.org/child-mortality>. _Our World In Data_.
-[^14]: Roser, M.; Ritchie, H. & Dadonaite, B. (2019). Child & Infant Mortality <https://ourworldindata.org/child-mortality>. _Our World In Data_.
+[^13]: Dattani, S.; Spooner, F.; Ritchie, H. & Roser, M. (2023). Child & Infant Mortality <https://ourworldindata.org/child-mortality>. _Our World In Data_.
+[^14]: Dattani, S.; Spooner, F.; Ritchie, H. & Roser, M. (2023). Child & Infant Mortality <https://ourworldindata.org/child-mortality>. _Our World In Data_.
 [^15]: GiveWell (2019). Your Dollar Goes Further Overseas <https://www.givewell.org/giving101/Your-dollar-goes-further-overseas>.
 [^16]: GiveWell (2021). Our Top Charities. <https://www.givewell.org/charities/top-charities>.
 [^17]: Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.), pp. 143–144.
@@ -235,7 +235,7 @@ The next chapter discusses important rival theories that may overlap significant
 [^19]: Sanders, B. (2018). Global Animal Slaughter Statistics And Charts <https://faunalytics.org/global-animal-slaughter-statistics-and-charts/>. _Faunalytics_.
 [^20]: Witwicki, K. (2019). Global Farmed & Factory Farmed Animals Estimates. <https://www.sentienceinstitute.org/global-animal-farming-estimates>. _Sentience Institute_.
 [^21]: Šimčikas, S. (2019). Corporate campaigns affect 9 to 120 years of chicken life per dollar spent <https://forum.effectivealtruism.org/posts/L5EZjjXKdNgcm253H/corporate-campaigns-affect-9-to-120-years-of-chicken-life>. _Effective Altruism Forum_.
-[^22]: Cf. Animal Charity Evaluators (2016). Why Farmed Animals? <https://animalcharityevaluators.org/donation-advice/why-farmed-animals/>.
+[^22]: Cf. Animal Charity Evaluators (2024). Why Farmed Animals? <https://animalcharityevaluators.org/donation-advice/why-farmed-animals/>.
 [^23]: Parfit, D. (1984). _Reasons and Persons_. Oxford: Oxford University Press, p. 454.
 [^24]: For a discussion of longtermism and its underlying assumptions, see Greaves, H. & MacAskill, W. (2019). [The case for strong longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_.
 [^25]: Ord, T. (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing, p. 37.
@@ -257,5 +257,6 @@ The next chapter discusses important rival theories that may overlap significant
 [^37]: For more detail, see MacAskill, W.; Mogensen, A. & Ord, T. (2018). [Giving Isn’t Demanding](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7196aec212dd54a839425/1539774891904/Giving+Isn%27t+Demanding.pdf). In Woodruff, P. (ed.) _The Ethics of Giving: Philosophers' Perspectives on Philanthropy_. Oxford: Oxford University Press, pp. 178–203.
 [^38]: Note that William MacAskill, coauthor of this textbook, is a cofounder of 80,000 Hours.
 [^39]: Cf. Todd, B. (2017). We reviewed over 60 studies about what makes for a dream job. Here’s what we found. <https://80000hours.org/career-guide/job-satisfaction/>. _80,000 Hours_.
-[^39a]: But note also the high risk of political efforts proving counterproductive. Consider, for example, environmental regulations that make it more difficult to build new solar, wind, and nuclear power plants to replace harmful coal power.
+[^39a]: Though for an alternative perspective that puts much more weight on pursuing "excited curiosity", see Graham, P. (2023). How to Do Great Work. <https://paulgraham.com/greatwork.html>.
+[^39b]: But note also the high risk of political efforts proving counterproductive. Consider, for example, environmental regulations that make it more difficult to build new solar, wind, and nuclear power plants to replace harmful coal power.
 [^40]: Note that William MacAskill, coauthor of this textbook, is the author of several of the listed resources on effective altruism. Moreover, he is a cofounder of both 80,000 Hours and Giving What We Can.
