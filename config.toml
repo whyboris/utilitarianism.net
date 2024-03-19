@@ -1,5 +1,5 @@
-defaultContentLanguage = "en"
-disableLanguages = ["es", "de"]
+defaultContentLanguage = "de"
+disableLanguages = ["es", "en"]
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 [markup]
@@ -7,7 +7,9 @@ enableRobotsTXT = true
     ordered = true
   [markup.goldmark]
     [markup.goldmark.renderer]
-        unsafe = true
+      unsafe = true
+    [markup.goldmark.parser.attribute]
+      block = true
 [languages]
   [languages.en]
     contentDir = 'content/en'
@@ -22,7 +24,7 @@ enableRobotsTXT = true
     contentDir = 'content/es'
     languageCode = "es-ES"
     title = "Utilitarismo.net"
-    baseURL = "https://utilitarianismo.net/"
+    baseURL = "https://utilitarismo.net/"
     weight = 2
     [languages.es.services]
       [languages.es.services.googleAnalytics]

@@ -9,7 +9,8 @@ weight: 5
 
 > _„Schaffe so viel Glück, wie du schaffen kannst; beseitige so viel Elend, wie du beseitigen kannst. Ein jeder Tag wird dir erlauben, wird dich dazu einladen, etwas zur Freude anderer beizutragen oder etwas ihrer Schmerzen zu mindern.”_
 >
-> \– [Jeremy Bentham](https://utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^1]
+> – [Jeremy Bentham](https://utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^1]
+{.align-author-right}
 
 {{< TOC >}}
 
@@ -65,7 +66,8 @@ Da einige moralische Probleme weitaus wichtiger als andere sein können, kann di
 
 > _„Eine Sache, die sehr wichtig ist, ist das Versäumnis von uns reichen Menschen, einen Großteil des Leidens und viele der frühen Tode der ärmsten Menschen auf der Welt zu verhindern, wie wir es so leicht tun könnten.”_
 >
-> \– Derek Parfit[^10]
+> – Derek Parfit[^10]
+{.align-author-right}
 
 Wie im Kapitel [Utilitarismus und Praktische Ethik](https://utilitarianism.net/utilitarianism-and-practical-ethics#cosmopolitanism) erläutert, befürworten Utilitaristen den Kosmopolitismus, demzufolge die geografische Entfernung zwischen einem Akteur und jemandem, dem er helfen kann, nicht an sich moralisch relevant ist. Kosmopolitismus bedeutet, dass wir nach wirksamen Maßnahmen suchen sollten, um anderen zu helfen, unabhängig von ihrer Nationalität, ihrem Wohnort oder ihrer Herkunft.
 
@@ -81,7 +83,8 @@ Andere nachweislich kosteneffiziente Möglichkeiten, den Ärmsten zu helfen, sin
 
 > _„Die Frage lautet nicht: Können sie denken? oder Können sie sprechen?, sondern: Können sie leiden? Warum sollte das Gesetz irgendeinem empfindsamen Wesen seinen Schutz verweigern? ... Die Zeit wird kommen, da die Menschheit ihren Mantel über alles, was atmet, ausbreiten wird.”_
 >
-> \– [Jeremy Bentham](https://utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^16]
+> – [Jeremy Bentham](https://utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^16]
+{.align-author-right}
 
 Die Verbesserung des Wohlergehens von Nutztieren sollte für Utilitaristen eine hohe moralische Priorität darstellen. Die Argumentation für diese Schlussfolgerung ist einfach: Erstens: Tiere sind moralisch zu berücksichtigen; zweitens: Menschen fügen Tieren in Massentierhaltungen unnötig viel Leid zu; drittens: Es gibt einfache Möglichkeiten, die Zahl der Nutztiere und das Ausmaß ihres Leidens zu verringern. Wir werden diese Prämissen der Reihe nach durchgehen.
 
@@ -101,7 +104,8 @@ In den USA werden jedes Jahr nur einige zehn Millionen Dollar an Organisationen 
 
 > _„Klassische Utilitaristen ... würden, wie Sidgwick es getan hat, behaupten, dass das Auslöschen der Menschheit das bei weitem größte aller denkbaren Verbrechen wäre. Die Schlechtigkeit dieses Verbrechens läge in der gewaltigen Verringerung der möglichen Summe des Glücks.”_
 >
-> \– Derek Parfit[^22]
+> – Derek Parfit[^22]
+{.align-author-right}
 
 Im Kapitel [Utilitarismus und Praktische Ethik](https://utilitarianism.net/utilitarianism-and-practical-ethics#longtermism) wurde der _starke Longtermism_ eingeführt, demzufolge die wichtigste Determinante für den Wert unserer heutigen Handlungen darin besteht, wie sich diese Handlungen auf die sehr langfristige Zukunft auswirken. Ein starker Longtermism ergibt sich aus dem Utilitarismus — und einer Vielzahl anderer moralischer Standpunkte — wenn wir davon ausgehen, dass einige unserer Handlungen die langfristige Zukunft substantiell beeinflussen können und wir außerdem abschätzen können, welche Auswirkungen positiv und welche negativ sind.[^23]
 
