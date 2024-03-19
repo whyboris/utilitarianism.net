@@ -5,9 +5,13 @@
 [site.footer]
   other = "Diese Website wurde von William MacAskill, außerordentlicher Professor für Philosophie an der Universität Oxford, mitgestaltet"
 [site.logo-path]
-  other = "/img/Utilitarianismus-Website-Logo.svg"
+  other = "/img/Utilitarianism-Website-Logo.de.svg"
 [site.logo-alt]
   other = "Utilitarianismus.net Website-Logo"
+[text.left-quote]
+  other = "„"
+[text.right-quote]
+  other = "“"
 [menu.acting]
   other = "Utilitarismus als Handlungsgrundlage"
 [link.acting]
@@ -19,7 +23,7 @@
 [menu.core-articles]
   other = "Kernartikel"
 [menu.about]
-  other = "Über Uns"
+  other = "Über uns"
 [link.about]
   other = "uber-uns"
 [menu.other-content]

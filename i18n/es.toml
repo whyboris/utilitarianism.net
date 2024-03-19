@@ -8,6 +8,10 @@
   other = "/img/Utilitarianism-Website-Logo.svg"
 [site.logo-alt]
   other = "Utilitarianismo.net website logo"
+[text.left-quote]
+  other = "«"
+[text.right-quote]
+  other = "»"
 [menu.acting]
   other = "Actuar conforme al utilitarismo"
 [link.acting]
