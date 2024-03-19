@@ -13,8 +13,6 @@ gradientTop: "#6F4BC9"
 gradientBottom: "#57579d"
 ---
 
-!!! 15 footnotes not 14
-
 {{< TOC >}}
 
 ## Einführung

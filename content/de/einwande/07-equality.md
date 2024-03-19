@@ -1,6 +1,6 @@
 ---
 title: "Der Gleichheits-Einwand"
-slug: "gleichheits"
+slug: "gleichheit"
 authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 type: "page"

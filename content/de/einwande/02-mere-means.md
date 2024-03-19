@@ -1,6 +1,6 @@
 ---
 title: "Der „bloße Mittel“-Einwand"
-slug: "blose-mittel"
+slug: "blosse-mittel"
 authors: "Chappell, R.Y."
 date: 2023-01-29
 type: "page"
