@@ -13,8 +13,6 @@ gradientTop: "#531694"
 gradientBottom: "#260380"
 ---
 
-!!! FIX IMAGE TRANSLATIONS
-
 {{< TOC >}}
 
 ## Der Gleichheits-Einwand

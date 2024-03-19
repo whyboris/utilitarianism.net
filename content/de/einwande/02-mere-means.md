@@ -13,8 +13,6 @@ gradientTop: "#371E87"
 gradientBottom: "#571B9E"
 ---
 
-!!! FIX IMAGE TEXT
-
 {{< TOC >}}
 
 ## Der „bloße Mittel“-Einwand

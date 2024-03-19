@@ -10,8 +10,6 @@ gradientTop: "#084BC7"
 gradientBottom: "#1B7CCC"
 ---
 
-!!! fix image text !!!
-
 > _„Welcher Sache soll man das Merkmal der Utilität zuschreiben, wenn nicht der Sache, die eine Quelle der Freude ist?”_
 >
 > – [Jeremy Bentham](https://utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^1]
@@ -23,7 +21,7 @@ gradientBottom: "#1B7CCC"
 
 Ein Kernelement des Utilitarismus ist der [Welfarismus](https://utilitarianism.net/types-of-utilitarianism#welfarism) — die Ansicht, dass nur das _Wohlergehen_ von Individuen bestimmt, wie gut ein bestimmter Zustand der Welt ist. Während Konsequentialisten behaupten, es sei richtig, die Menge des Guten in der Welt zu fördern, setzen Welfaristen das zu fördernde Gute ausdrücklich mit Wohlergehen gleich.
 
-Der Begriff [Wohlergehen](https://plato.stanford.edu/entries/well-being/) wird in der Philosophie verwendet, um alles zu beschreiben, das an sich für jemanden gut ist — also ein sogenanntes _intrinsisches_ oder _grundlegendes_ das Wohlergehen betreffende Gut ist — im Gegensatz zu Dingen, die nur _instrumentell_ gut sind. Glück ist zum Beispiel intrinsisch gut für eine Person; es erhöht direkt ihr Wohlergehen. Im Gegensatz dazu kann man mit Geld zwar viele nützliche Dinge kaufen und es ist damit instrumentell gut, aber es trägt nicht direkt, _in sich_,_ _zu Wohlergehen bei. (In ähnlicher Weise können wir Dinge, die an sich schlecht sind — zum Beispiel Elend — als „Einbußen an Wohlergehen“ bezeichnen.)
+Der Begriff [Wohlergehen](https://plato.stanford.edu/entries/well-being/) wird in der Philosophie verwendet, um alles zu beschreiben, das an sich für jemanden gut ist — also ein sogenanntes _intrinsisches_ oder _grundlegendes_ das Wohlergehen betreffende Gut ist — im Gegensatz zu Dingen, die nur _instrumentell_ gut sind. Glück ist zum Beispiel intrinsisch gut für eine Person; es erhöht direkt ihr Wohlergehen. Im Gegensatz dazu kann man mit Geld zwar viele nützliche Dinge kaufen und es ist damit instrumentell gut, aber es trägt nicht direkt, _in sich_, zu Wohlergehen bei. (In ähnlicher Weise können wir Dinge, die an sich schlecht sind — zum Beispiel Elend — als „Einbußen an Wohlergehen“ bezeichnen.)
 
 Es herrscht jedoch weitgehende Uneinigkeit darüber, was Wohlergehen ausmacht.[^2] Welche Dinge sind an sich gut für eine Person? Die unterschiedlichen Antworten auf diese Frage führen zu einer Vielzahl von Theorien über Wohlergehen, die jeweils unterschiedliche Dinge als Bestandteile von Wohlergehen betrachten. Die drei wichtigsten Theorien über Wohlergehen sind der _Hedonismus_, die _Wunscherfüllungstheorien_ und die _Objektive-Listen-Theorien_.[^3] Die Unterschiede zwischen diesen Theorien sind in erster Linie von theoretischem Interesse; sie überschneiden sich in der Praxis ausreichend, so dass [die praktischen Auswirkungen des Utilitarismus](https://utilitarianism.net/acting-on-utilitarianism) wahrscheinlich nicht davon abhängen, welche dieser Theorien sich als die richtige herausstellt.
 
@@ -334,7 +332,7 @@ Das nächste Kapitel befasst sich mit _Populationsethik_ und damit mit der Frage
      Vgl. Bedke, M. (2010). _Might all Normativity be Queer?_. Australasian Journal of Philosophy. 88(1): 41-58.
 
 [^36]:
-     Es wäre in der Tat weniger „mysteriös“, die Realität von Wert zu leugnen und zu behaupten, dass subjektive Wertschätzung _alles ist_, was in dieser Richtung existiert. Aber das wäre eine Form von Nihilismus: _S _schätzt _p_ ist eine rein deskriptive Tatsache über die Psychologie von _S_. Daran ist nichts inhärent Wertvolles, es sei denn, wir behaupten weiter, dass die subjektive Bewertung etwas ist, das tatsächlich in irgendeiner Weise _von Bedeutung ist_. Und dann sind wir wieder bei der Zuschreibung von realem Wert in all seiner mysteriösen Pracht.
+     Es wäre in der Tat weniger „mysteriös“, die Realität von Wert zu leugnen und zu behaupten, dass subjektive Wertschätzung _alles ist_, was in dieser Richtung existiert. Aber das wäre eine Form von Nihilismus: _S_ schätzt _p_ ist eine rein deskriptive Tatsache über die Psychologie von _S_. Daran ist nichts inhärent Wertvolles, es sei denn, wir behaupten weiter, dass die subjektive Bewertung etwas ist, das tatsächlich in irgendeiner Weise _von Bedeutung ist_. Und dann sind wir wieder bei der Zuschreibung von realem Wert in all seiner mysteriösen Pracht.
 
 [^37]:
      Peter Railton schreibt: „[W]as für einen Menschen intrinsisch wertvoll ist, muss eine Verbindung zu dem haben, was er in gewissem Maße anziehend oder attraktiv finden würde, zumindest wenn er rational und informiert wäre. Es wäre eine unerträglich entfremdete Vorstellung vom Gut eines Menschen, sich vorzustellen, dass es ihn nicht in irgendeiner Weise ansprechen könnte.“

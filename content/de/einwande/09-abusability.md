@@ -29,13 +29,11 @@ Es ist ein gängiges Klischee, dass nur Bösewichte den Grundsatz „Der Zweck h
 
 Damit soll nur gesagt werden, dass [gewöhnliche moralische Zwänge einen immensen instrumentellen Wert haben](https://utilitarianism.net/utilitarianism-and-practical-ethics/#respecting-commonsense-moral-norms). Wir erwarten im Allgemeinen, dass eine völlige Missachtung dieser Zwänge in einer Katastrophe endet. Es verstößt eindeutig gegen die utilitaristischen Grundsätze, solchen immensen instrumentellen Wert zu missachten. Großes Unheil anzurichten, während man fälschlicherweise den Mantel des „höheren Wohls“ für sich beansprucht, wäre ein klarer Missbrauch der utilitaristischen Theorie, vor dem es sich zu schützen lohnt. Utilitaristen haben daher gute Gründe, der Auffassung zuzustimmen, dass wir die schurkisch anmutenden Behauptungen einer Person über das „höhere Wohl“ mit großem Misstrauen betrachten sollten.
 
-Der Utilitarismus impliziert, dass sich eine Handlung lohnt, wenn sie _wirklich _die besten Folgen für das Gesamtwohlergehen hat. Wir sollten jedoch misstrauisch gegenüber der Behauptung sein, dass abscheuliche Mittel in der Praxis tatsächlich diesem Ziel dienen. Historisch gesehen haben sich solche Behauptungen meist auf verhängnisvolle Weise als falsch erwiesen.
+Der Utilitarismus impliziert, dass sich eine Handlung lohnt, wenn sie _wirklich_ die besten Folgen für das Gesamtwohlergehen hat. Wir sollten jedoch misstrauisch gegenüber der Behauptung sein, dass abscheuliche Mittel in der Praxis tatsächlich diesem Ziel dienen. Historisch gesehen haben sich solche Behauptungen meist auf verhängnisvolle Weise als falsch erwiesen.
 
 ## Ist der Utilitarismus selbstverleugnend?
 
 Wie in [Kapitel 6: Utilitarismus und Praktische Ethik](https://utilitarianism.net/utilitarianism-and-practical-ethics/#respecting-commonsense-moral-norms) erläutert, könnte ein plausibles utilitaristisches Entscheidungsverfahren uns anleiten:
-
-
 
 1. nach allen „niedrig hängenden Früchten“ zu suchen, um [anderen effektiv zu helfen](https://utilitarianism.net/acting-on-utilitarianism) und gleichzeitig Schaden zu vermeiden,
 2. [Tugenden für real existierende Utilitaristen](https://utilitarianism.net/guest-essays/virtues-for-real-world-utilitarians) zu kultivieren (einschließlich des Respekts für gemeinhin akzeptierte moralische Normen) und

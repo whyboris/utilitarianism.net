@@ -1,6 +1,7 @@
 ---
 title: "Utilitarismus als Handlungsgrundlage"
 slug: "utilitarismus-als-handlungsgrundlage"
+authors: "MacAskill, W. und Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "acting"
@@ -44,7 +45,7 @@ Wie viel sollten wir zum Wohle anderer opfern? Für wohlhabende Bürger in reich
 
 ## Effektiver Altruismus
 
-Viele Utilitaristen bringen wegen ihres Glaubens an den Utilitarismus sehr große persönliche Opfer. In jüngster Zeit wurde jedoch argumentiert, dass _was_ man zu tun versucht, noch wichtiger ist als _wie viel _man aufgibt. Dies ist eine Schlüsselerkenntnis der Philosophie und der sozialen Bewegung des [Effektiven Altruismus](https://www.effektiveraltruismus.de), die von vielen Utilitaristen, so zum Beispiel [Peter Singer](https://utilitarianism.net/utilitarian-thinker/peter-singer/), befürwortet wird.[^5]
+Viele Utilitaristen bringen wegen ihres Glaubens an den Utilitarismus sehr große persönliche Opfer. In jüngster Zeit wurde jedoch argumentiert, dass _was_ man zu tun versucht, noch wichtiger ist als _wie viel_ man aufgibt. Dies ist eine Schlüsselerkenntnis der Philosophie und der sozialen Bewegung des [Effektiven Altruismus](https://www.effektiveraltruismus.de), die von vielen Utilitaristen, so zum Beispiel [Peter Singer](https://utilitarianism.net/utilitarian-thinker/peter-singer/), befürwortet wird.[^5]
 
 Diejenigen, die in der Bewegung des Effektiven Altruismus involviert sind, versuchen herauszufinden, welche der verschiedenen Verwendungsmöglichkeiten unserer Ressourcen bei unparteiischer Betrachtung am meisten Gutes bewirken und handeln auf dieser Grundlage. Nach dieser Definition ist Effektiver Altruismus sowohl ein Forschungsprojekt — mit dem Ziel herauszufinden, wie man am meisten Gutes tut — als auch ein praktisches Projekt, um die besten Vermutungen, die wir darüber haben, wie man am meisten Gutes tut, umzusetzen.[^6]
 
@@ -155,7 +156,7 @@ Drittens kann man nach utilitaristischen Gesichtspunkten Gutes tun, indem man an
 
 ## Konklusion
 
-Utilitaristen sind bestrebt, es zu einem wichtigen Teil ihres Lebens zu machen, anderen_ zu helfen_. Außerdem sind sie der Meinung, dass sie bei der Hilfe für andere versuchen sollten, ihre Ressourcen so einzusetzen, dass sie unparteiisch betrachtet so viel Gutes wie möglich bewirken.
+Utilitaristen sind bestrebt, es zu einem wichtigen Teil ihres Lebens zu machen, anderen _zu helfen_. Außerdem sind sie der Meinung, dass sie bei der Hilfe für andere versuchen sollten, ihre Ressourcen so einzusetzen, dass sie unparteiisch betrachtet so viel Gutes wie möglich bewirken.
 
 Die Bereiche, die derzeit zu den obersten Prioritäten für Utilitaristen gehören, kommen überwiegend Gruppen zugute, die ihre eigenen Interessen nicht vertreten können. Dazu gehören Menschen in extremer Armut, nichtmenschliche Tiere und zukünftige Individuen. Wir haben uns drei entsprechende Gründe angesehen: die Verbesserung der Lebensbedingungen von Menschen in extremer Armut, die Verringerung des Leidens von Tieren in Betrieben der Massentierhaltung und den Schutz künftiger Generationen durch die Verringerung existenzieller Risiken.
 
@@ -165,9 +166,7 @@ Um so viel Gutes wie möglich zu tun, spenden Utilitaristen oft Geld an wirksame
 
 [Mit seinem Beruf Gutes tun](https://80000hours.org/)
 
-## Diese Seite zitieren
-
-MacAskill, W. und Meissner, D. (2023). Utilitarismus als Handlungsgrundlage. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/acting-on-utilitarianism>, zuletzt aufgerufen am 09/15/2023.
+{{< how-to-cite >}}
 
 ## Ressourcen und weiterführende Lektüre
 

@@ -10,8 +10,6 @@ gradientTop: "#1B7CCC"
 gradientBottom: "#089FD1"
 ---
 
-!!! FIX IMAGES !!!
-
 {{< TOC >}}
 
 ## Einführung
@@ -64,7 +62,7 @@ In der Gesamtansicht kann eine ausreichend große Zunahme der Bevölkerungszahl 
 
 Wichtig ist, dass die Gesamtansicht nicht bedeuten muss, dass wir die Bevölkerungszahl _in der Praxis_ maximieren sollten. Es ist eine offene empirische Frage, wie die Summe an Wohlergehen unter realen Umständen am besten gefördert werden kann: Ein blindes Bevölkerungswachstum, ohne gleichzeitig eine hohe Lebensqualität zu gewährleisten, ist nicht garantiert (und ist sogar wahrscheinlich nicht) der beste Ansatz. Aber selbst wenn die Gesamtansicht in der Praxis keine abstoßenden Auswirkungen hat, bleibt es wichtig zu beurteilen, ob wir bereit sind, ihre weitreichenden Auswirkungen (für verschiedene hypothetische Szenarien) zu akzeptieren.
 
-Befürworter der Gesamtansicht können auf die Herausforderung durch die abstoßende Schlussfolgerung reagieren, indem sie die Intuition, dass die abstoßende Schlussfolgerung wirklich _abstoßend _ist entlarven, indem sie in den sauren Apfel beißen oder indem sie die Alternativen angreifen. Wir werden diese Möglichkeiten nacheinander betrachten.
+Befürworter der Gesamtansicht können auf die Herausforderung durch die abstoßende Schlussfolgerung reagieren, indem sie die Intuition, dass die abstoßende Schlussfolgerung wirklich _abstoßend_ ist entlarven, indem sie in den sauren Apfel beißen oder indem sie die Alternativen angreifen. Wir werden diese Möglichkeiten nacheinander betrachten.
 
 #### Entlarvung der Intuition
 
@@ -482,9 +480,8 @@ Im nächsten Kapitel werden die wichtigsten Implikationen des Utilitarismus für
      Hier verwenden wir den Begriff „nicht personenbezogen“ schlicht im Kontrast zur (engen) personenbezogenen Sichtweise. So kann auch eine nicht personenbezogene Theorie (nach unserem Sprachgebrauch) den Wert eines Sachverhalts auf Tatsachen darüber gründen, was für bestimmte Menschen gut ist, z. B. wenn man davon ausgeht, dass eine glückliche Existenz einen nicht vergleichbaren Nutzen darstellt, parallel dazu, wie eine unglückliche Existenz einen nicht vergleichbaren Schaden darstellt.
 
 [^44]:
-<p>
-     Die Kritische-Spanne-Theorien, die wir erörtert haben, sind schwieriger in eine numerische Formel zu fassen. Wenn wir jedoch alle Leben, die in den kritischen Bereich fallen, beiseite lassen, können wir uns dem verbleibenden Gesamtwert annähern, indem wir die positiven und negativen Wohlfahrtsniveaus in dem Maße addieren, in dem sie ihre jeweiligen Enden des kritischen Bereichs überschreiten. Wenn wir also positive und negative Indizes verwenden, um die jeweiligen Zahlen (N), Durchschnittswerte (Q) und kritischen Grenzpunkte (α) für diese beiden Teilpopulationen zu bezeichnen, können wir die Wertfunktion wie folgt schreiben: N<sub>+</sub> * (Q<sub>+</sub> - <strong>α<sub>+</sub></strong>) + N<sub>-</sub> * (Q<sub>-</sub> - <strong>α<sub>-</sub></strong>).
-<p>
+    Die Kritische-Spanne-Theorien, die wir erörtert haben, sind schwieriger in eine numerische Formel zu fassen. Wenn wir jedoch alle Leben, die in den kritischen Bereich fallen, beiseite lassen, können wir uns dem verbleibenden Gesamtwert annähern, indem wir die positiven und negativen Wohlfahrtsniveaus in dem Maße addieren, in dem sie ihre jeweiligen Enden des kritischen Bereichs überschreiten. Wenn wir also positive und negative Indizes verwenden, um die jeweiligen Zahlen (N), Durchschnittswerte (Q) und kritischen Grenzpunkte (α) für diese beiden Teilpopulationen zu bezeichnen, können wir die Wertfunktion wie folgt schreiben: N<sub>+</sub> * (Q<sub>+</sub> - <strong>α<sub>+</sub></strong>) + N<sub>-</sub> * (Q<sub>-</sub> - <strong>α<sub>-</sub></strong>).
+
     Alternativ kann man sich den Wert der Welt als unbestimmt oder als einem numerischen Bereich entsprechend vorstellen, der durch alle möglichen Kritisches-Level-Theorien gegeben ist, die der kritischen Spanne entsprechen, d. h. alles von N * (Q - <strong>α<sub>-</sub></strong>) bis N * (Q - <strong>α<sub>+</sub></strong>). Bei diesem Ansatz wäre beispielsweise der Wert der abstoßenden Welt Z über einen immensen Wertebereich von<em> extrem negativ</em> bis <em>extrem positiv</em> unbestimmt, weil N unvorstellbar groß ist, während das Vorzeichen von (Q - <strong>α</strong>) angesichts der Bandbreite der möglichen kritischen Niveaus <strong>α</strong> unbestimmt ist.
 
 [^45]:
