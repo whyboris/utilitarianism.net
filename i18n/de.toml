@@ -49,11 +49,13 @@
 [cite.book-title]
   other = "Einführung in den Utilitarismus"
 [cite.and]
-  other = "und"
+  other = " und" # note the space before `und` is on purpose
 [cite.how-to-cite]
   other = "Diese Seite zitieren"
 [cite.editors-abbreviation]
   other = "Hrsg."
+[cite.translated]
+  other = ", aus dem Englischen von S. Dalügge,"
 [button.make-world-better-question]
   other = "Möchtest du die Welt zu einem besseren Ort machen?"
 [button.put-into-practice]

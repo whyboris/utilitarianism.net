@@ -1,7 +1,7 @@
 ---
 title: "Einführung in den Utilitarismus"
 slug: "einfuhrung-in-den-utilitarismus"
-authors: "MacAskill, W., Meissner, D., und Chappell, R.Y."
+authors: "MacAskill, W., Meissner, D. und Chappell, R.Y."
 date: 2023-01-29
 draft: false
 menu: "main"
@@ -13,7 +13,8 @@ gradientBottom: "#236d9f"
 
 > _„Die Aufgabe des Wohlwollenden ist es sicherlich, sich eifrig zu bemühen, den Nutzen auf der Welt zu mehren und Leid auf der Welt zu eliminieren und dies zum Vorbild für die ganze Welt zu nehmen. Hilft es Menschen? Dann tue es. Hilft es Leuten nicht? So höre auf.”_
 >
-> \– [Mòzi](https://utilitarianism.net/utilitarian-thinker/mozi/)[^1]
+> – [Mòzi](https://utilitarianism.net/utilitarian-thinker/mozi/)[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 

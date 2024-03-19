@@ -49,11 +49,13 @@
 [cite.book-title]
   other = "Introduction to Utilitarianism"
 [cite.and]
-  other = "and"
+  other = ", and" # note the Oxford comma
 [cite.how-to-cite]
   other = "How to Cite This Page"
 [cite.editors-abbreviation]
   other = "eds."
+[cite.translated]
+  other = "," # note it's just a comma on purpose
 [button.make-world-better-question]
   other = "Want to make the world a better place?"
 [button.put-into-practice]

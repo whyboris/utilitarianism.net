@@ -4,14 +4,16 @@
     {{ if .Page.Params.Authors }}
       {{ .Page.Params.Authors }}
     {{ else }}
-      Chappell, R.Y., Meissner, D., {{ i18n "cite.and" }} MacAskill, W.
+      Chappell, R.Y., Meissner, D.{{ i18n "cite.and" }} MacAskill, W.
+      {{/* NOTE: no space after D.^^^^^^^^^^^^^^^^^^^^^ for Oxford comma */}}
     {{ end }}
 
     (2023). {{ .Page.Title }}. In R.Y. Chappell, D. Meissner, {{ i18n "cite.and" }} W. MacAskill
     ({{ i18n "cite.editors-abbreviation" }}),
     <em> {{ i18n "cite.title" }} </em>
 
-    &lt;{{ i18n "site.url-full" }}{{ strings.TrimRight "/" .Page.RelPermalink }}&gt;,
+    &lt;{{ i18n "site.url-full" }}{{ strings.TrimRight "/" .Page.RelPermalink }}&gt;<!--
+ -->{{ i18n "cite.translated" }}
     {{ i18n "cite.accessed" }}
     <script>
       document.write(new Date().toLocaleDateString("en-US"));

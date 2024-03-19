@@ -49,11 +49,13 @@
 [cite.book-title]
   other = "ES: Introduction to Utilitarianism"
 [cite.and]
-  other = "ES: and"
+  other = " ES: and" # note the first character is a space on purpose
 [cite.how-to-cite]
   other = "ES: How to Cite This Page"
 [cite.editors-abbreviation]
   other = "ES: eds."
+[cite.translated]
+  other = ", ES: translated by PERSON NAME,"
 [button.make-world-better-question]
   other = "ES: Want to make the world a better place?"
 [button.put-into-practice]
