@@ -164,7 +164,7 @@ Um diese Sichtweise weiterzuentwickeln, können wir uns den Wert eines Lebens in
 
 Die wichtigste Implikation dieser Kritische-Spanne-Theorie (mit moderater Wertunschärfe) ist, dass ein intrinsisch gutes Leben _deutlich_ mehr Wohlergehen beinhalten muss als ein intrinsisch schlechtes Leben, weil es zwischen diesen beiden Stufen eine moderate Bandbreite von Leben gibt, die so lala sind, wie unten dargestellt:[^41]
 
-![Critical range theory](/img/population-ethics-6.png "Critical range theory")
+![Critical range theory](/img/population-ethics-6.de.png "Critical range theory")
 
 Die daraus resultierende Sichtweise ist zwar theoretisch komplex, scheint aber weniger anfällig für schwerwiegende Einwände zu sein als die anderen von uns untersuchten Sichtweisen. Insbesondere kann sie gleichzeitig sowohl die abstoßende als auch die sadistische Schlussfolgerung vermeiden. Es ist jedoch anzumerken, dass sie nicht der starken „Anti-abstoßende Schlussfolgerung“-Intuition gerecht wird, dass die idyllische Welt A unbedingt besser ist als die abstoßende Welt Z.[^42] Kritische-Spanne-Theorien betrachten die beiden Welten stattdessen als unvergleichbar, was auf die immense Wertunschärfe zurückzuführen ist, die durch all die so lala-Leben in Welt Z entsteht.
 

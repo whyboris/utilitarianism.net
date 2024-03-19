@@ -28,7 +28,7 @@ In diesem Artikel verwenden wir Ausdrücke wie „Gutes tun“ und „etwas bewi
 
 Reichtum und Einkommen sind weltweit extrem ungleich verteilt. Jeder, der mehr als 125 Dollar pro Tag verdient, gehört zu dem reichsten Prozent der Weltbevölkerung. Diese Ungleichheit bedeutet, dass wohlhabende Bürger in reichen Ländern hervorragende Möglichkeiten haben, anderen zu helfen.
 
-![World income distribution](/img/World-Income-Distribution.png "World income distribution")
+![World income distribution](/img/World-Income-Distribution.de.png "World income distribution")
 
 > Wer in einem Land, das ein hohes Einkommenslevel aufweist, oberhalb der Armutsgrenze lebt, ist reicher als 85 % der Menschen weltweit. [Our World in Data](https://ourworldindata.org/global-economic-inequality-introduction).
 
@@ -73,7 +73,7 @@ Wie im Kapitel [Utilitarismus und Praktische Ethik](https://utilitarianism.net/u
 
 Auf dieser Grundlage kann globale Gesundheit und Entwicklung als ein besonders vorrangiges Anliegen für Utilitaristen betrachtet werden.[^11] Bemühungen in diesem Bereich haben eine sehr gute Erfolgsbilanz hinsichtlich der Verbesserung von Leben. Es scheint also, dass es in diesem Handlungsfeld besonders wirksame Interventionen gibt. Während des größten Teils der Menschheitsgeschichte war es die Norm, dass etwa zwei von fünf Kindern vor ihrem fünften Geburtstag starben, größtenteils aufgrund vermeidbarer Ursachen. Dank verbesserter sanitärer Einrichtungen und des Zugangs zu medizinischer Versorgung haben wir seither enorme Fortschritte bei der Bekämpfung der Kindersterblichkeit gemacht, so dass die weltweite Kindersterblichkeitsrate auf nur 3,9 % im Jahr 2020 gesunken ist.[^12]
 
-![Global child mortality](/img/Global-Child-Mortality.png "Global child mortality")
+![Global child mortality](/img/Global-Child-Mortality.de.png "Global child mortality")
 
 Diese Fortschritte sind jedoch kein Grund, sich auf unseren Lorbeeren auszuruhen, denn es liegt noch viel vor uns: Eine Kindersterblichkeitsrate von 3,9 % bedeutet immer noch, dass weltweit jeden Tag etwa 14.000 Kinder sterben.[^13] Glücklicherweise können wir dazu beitragen, diese Zahl noch weiter zu senken. Die besten Maßnahmen im Bereich der globale Gesundheit und Entwicklung sind unglaublich kosteneffektiv: [GiveWell](https://www.givewell.org/), eine führende Organisation, die eingehende Bewertungen von Hilfsorganisationen durchführt, schätzt, dass die bestbewerteten Hilfsorganisationen einen durch Malaria verursachten Kindstod für weniger als 5.000 Dollar verhindern können, indem sie präventive Medikamente bereitstellen.[^14]
 
@@ -96,7 +96,7 @@ Drittens können wir das Leben von Nutztieren für nur wenige Cent pro Tier erhe
 
 Doch trotz der Größe des Problems wird der Schutz von Nutztieren stark vernachlässigt.
 
-![Animal statistics](/img/Animal-Statistics.jpg "Animal statistics")
+![Animal statistics](/img/Animal-Statistics.de.png "Animal statistics")
 
 In den USA werden jedes Jahr nur einige zehn Millionen Dollar an Organisationen gespendet, die sich für die Verbesserung des Lebens von Nutztieren einsetzen. Der ausgegebene Betrag ist winzig im Vergleich zu anderen Tierschutzprojekten: Es gibt 3.000-mal mehr Tiere in Betrieben der Massentierhaltung als streunende Haustiere, aber die Bemühungen, die Massentierhaltung zu bekämpfen, erhalten nur ein Fünfzigstel der Mittel, die für die Unterstützung streunender Tiere ausgegeben werden.[^21]
 
