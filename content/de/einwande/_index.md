@@ -12,7 +12,8 @@ gradientBottom: "#1F1E70"
 
 > _„Bernard Williams... schloss einen langen Angriff auf den Utilitarismus mit der Bemerkung: ,Der Tag kann nicht mehr fern sein, an dem wir nichts mehr von ihm hören.‘ Es ist nun mehr als vierzig Jahre her, dass Williams diese Bemerkung machte, aber wir hören immer noch viel über den Utilitarismus.”_
 >
-> \– Katarzyna de Lazari-Radek & [Peter Singer](https://utilitarianism.net/utilitarian-thinker/peter-singer)[^1]
+> – Katarzyna de Lazari-Radek & [Peter Singer](https://utilitarianism.net/utilitarian-thinker/peter-singer)[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 

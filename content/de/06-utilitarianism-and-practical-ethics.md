@@ -12,7 +12,8 @@ gradientBottom: "#305D9C"
 
 > „Sollen wir unsere Sorge auf alle Wesen ausdehnen, die zu Freude und Schmerz fähig sind und deren Empfindungen durch unser Verhalten beeinflusst werden? oder sollen wir uns auf das menschliche Glück beschränken? Die erstere Sichtweise wird von... der utilitaristischen Schule vertreten ... es erscheint willkürlich und unvernünftig, von dem so verstandenen Ziel irgendein Vergnügen irgendeines empfindungsfähigen Wesens auszuschließen.”
 >
-> \–  [Henry Sidgwick](https://utilitarianism.net/utilitarian-thinker/henry-sidgwick)[^1]
+> –  [Henry Sidgwick](https://utilitarianism.net/utilitarian-thinker/henry-sidgwick)[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 
@@ -26,7 +27,8 @@ Wie Utilitaristen in der Praxis handeln sollten, erörtern wir in dem Artikel [U
 
 > _„Ein Mensch kann anderen nicht nur durch seine Handlungen, sondern auch durch seine Untätigkeit Schaden zufügen. In beiden Fällen ist er ihnen gegenüber gerechterweise für den Schaden verantwortlich.”_
 >
-> \–  [John Stuart Mill](https://utilitarianism.net/utilitarian-thinker/john-stuart-mill), [On Liberty](https://utilitarianism.net/books/on-liberty-john-stuart-mill/1)
+> –  [John Stuart Mill](https://utilitarianism.net/utilitarian-thinker/john-stuart-mill), [On Liberty](https://utilitarianism.net/books/on-liberty-john-stuart-mill/1)
+{ .align-author-right }
 
 Viele Nicht-Konsequentialisten sind der Ansicht, dass es einen moralisch relevanten Unterschied zwischen [dem Zufügen von Schaden und dem Zulassen von Schaden](https://plato.stanford.edu/entries/doing-allowing/) gibt, selbst wenn die Folgen einer Handlung oder eines Nichthandelns dieselben sind. Diese Position ist als „Doktrin vom Tun und Zulassen“ bekannt, der zufolge Schäden, die durch Handlungen — also durch Dinge, die wir aktiv tun — verursacht werden, schlimmer sind als Schäden, die durch Unterlassung entstehen. Die Anhänger dieser Doktrin können zum Beispiel behaupten, dass es unter sonst gleichen Bedingungen schlimmer ist, ein Kind zu verletzen, als zu unterlassen, es zu verhindern, dass dasselbe Kind bei einem Unfall verletzt wird.
 

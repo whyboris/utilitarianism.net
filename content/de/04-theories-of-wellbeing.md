@@ -14,7 +14,8 @@ gradientBottom: "#1B7CCC"
 
 > _„Welcher Sache soll man das Merkmal der Utilität zuschreiben, wenn nicht der Sache, die eine Quelle der Freude ist?”_
 >
-> \– [Jeremy Bentham](https://utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^1]
+> – [Jeremy Bentham](https://utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 
