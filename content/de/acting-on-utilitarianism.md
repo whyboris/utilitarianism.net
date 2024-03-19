@@ -162,9 +162,7 @@ Die Bereiche, die derzeit zu den obersten Prioritäten für Utilitaristen gehör
 
 Um so viel Gutes wie möglich zu tun, spenden Utilitaristen oft Geld an wirksame Hilfsorganisationen, arbeiten daran, anderen mit ihrer Karriere zu helfen, und engagieren sich, um andere Menschen zu ermutigen, diese Dinge auch zu tun. Wir stehen vor vielen schwerwiegenden moralischen Problemen, die uns die Möglichkeit bieten, enorm viel Gutes zu tun. Um anderen so viel wie möglich zu helfen, priorisieren Utilitaristen sorgfältig ihre Optionen und konzentrieren ihre Bemühungen auf die Bereiche, von denen sie glauben, dass sie dort den größten positiven Beitrag zum Gesamtwohlergehen leisten können.
 
-[An effektive Wohltätigkeitsorganisationen spenden](https://effektiv-spenden.org/)
-
-[Mit seinem Beruf Gutes tun](https://80000hours.org/)
+{{< acting-buttons >}}
 
 {{< how-to-cite >}}
 

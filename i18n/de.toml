@@ -60,3 +60,9 @@
   other = "Möchtest du die Welt zu einem besseren Ort machen?"
 [button.put-into-practice]
   other = "Erfahre, wie du Utilitarismus in die Praxis umsetzt:"
+[button.donate-to-effective]
+  other = "An effektive Wohltätigkeitsorganisationen spenden"
+[link.donate-to-effective]
+  other = "https://effektiv-spenden.org/"
+[button.choose-career]
+  other = "Mit seinem Beruf Gutes tun"

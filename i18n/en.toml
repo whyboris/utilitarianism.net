@@ -60,3 +60,9 @@
   other = "Want to make the world a better place?"
 [button.put-into-practice]
   other = "Learn how to put utilitarianism into practice:"
+[button.donate-to-effective]
+  other = "Donate to effective charities"
+[link.donate-to-effective]
+  other = "https://www.givingwhatwecan.org/"
+[button.choose-career]
+  other = "Choose an impactful career"
