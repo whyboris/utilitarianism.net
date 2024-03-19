@@ -1,3 +1,5 @@
+[site.locale]
+  other = "de-DE"
 [site.url-full]
   other = "https://www.utilitarismus.net"
 [site.url-readable]
