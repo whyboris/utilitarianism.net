@@ -13,7 +13,10 @@ key_original: MacAskill2023UtilitarianismPracticalEthics
 key_translation: Macaskill2023UtilitarismoEticaPractica
 ---
 
-> ¿Debemos extender nuestra preocupación a todos los seres capaces de sentir placer y dolor cuyos sentimientos se ven afectados por nuestra conducta? ¿O debemos limitar nuestra perspectiva a la felicidad humana? El primer punto de vista es el adoptado por... la escuela utilitarista... [P]arece arbitrario e irrazonable excluir del objetivo final, así concebido, cualquier placer de cualquier ser sintiente. <br> \- [Henry Sidgwick](https://altruismoeficaz.net/autores/henry-sidgwick)[^1]
+> ¿Debemos extender nuestra preocupación a todos los seres capaces de sentir placer y dolor cuyos sentimientos se ven afectados por nuestra conducta? ¿O debemos limitar nuestra perspectiva a la felicidad humana? El primer punto de vista es el adoptado por... la escuela utilitarista... [P]arece arbitrario e irrazonable excluir del objetivo final, así concebido, cualquier placer de cualquier ser sintiente.
+>
+> – [Henry Sidgwick](https://altruismoeficaz.net/autores/henry-sidgwick)[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 

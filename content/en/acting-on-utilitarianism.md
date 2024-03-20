@@ -7,8 +7,10 @@ menu: "acting"
 weight: 5
 ---
 
-> _“Create all the happiness you are able to create; remove all the misery you are able to remove. Every day will allow you, will invite you to add something to the pleasure of others, or to diminish something of their pains.”_ \
-> \- [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^1]
+> _“Create all the happiness you are able to create; remove all the misery you are able to remove. Every day will allow you, will invite you to add something to the pleasure of others, or to diminish something of their pains.”_
+>
+> – [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 
@@ -62,7 +64,10 @@ Since some moral problems may be far more important than others, choosing what c
 
 ### Global Health and Development
 
-> _"One thing that greatly matters is the failure of we rich people to prevent, as we so easily could, much of the suffering and many of the early deaths of the poorest people in the world."_ <br> \- Derek Parfit[^11]
+> _"One thing that greatly matters is the failure of we rich people to prevent, as we so easily could, much of the suffering and many of the early deaths of the poorest people in the world."_
+>
+> – Derek Parfit[^11]
+{ .align-author-right }
 
 As explained in Chapter 6: [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#cosmopolitanism), utilitarians endorse cosmopolitanism, according to which the geographical distance between an actor and someone they can help is not morally relevant in itself. Cosmopolitanism implies that we should look for effective interventions to help others, regardless of their nationality, where they live, or where they come from.
 
@@ -76,7 +81,10 @@ Other evidence-backed and cost-effective ways to help the very poor include givi
 
 ### Farm Animal Welfare
 
-> _"The question is not, Can they reason? nor, Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being? ... The time will come when humanity will extend its mantle over everything which breathes."_ <br> \- [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^17]
+> _"The question is not, Can they reason? nor, Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being? ... The time will come when humanity will extend its mantle over everything which breathes."_
+>
+> – [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^17]
+{ .align-author-right }
 
 Improving the welfare of farmed animals should be a high moral priority for utilitarians. The argument for this conclusion is simple: First, animals matter morally; second, humans cause a huge amount of unnecessary suffering to animals in factory farms; third, there are easy ways to reduce the number of farmed animals and the severity of their suffering. We will go over these premises one by one.
 
