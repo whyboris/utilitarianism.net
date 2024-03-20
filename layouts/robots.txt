@@ -1,7 +1,7 @@
 User-agent: *
 {{ if .Site.Params.production }}
 Allow: /
-Disallow: /_pagefind/*
+Disallow: /pagefind/*
 Sitemap: {{.Site.BaseURL}}/sitemap.xml
 {{ else }}
 Disallow: /
