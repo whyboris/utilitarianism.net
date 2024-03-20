@@ -24,16 +24,16 @@ nopdf: reset search production move delete zip serve
 @move:
   cp -R public/en/* public
   rm -rf public/en
-  rm -rf public/de
   rm -rf public/es
+  rm -rf public/de
   echo ""
   echo "   🚀  moved public/en to /public"
   echo ""
 
 @delete:
-  rm -rf public/de
   rm -rf public/en
   rm -rf public/es
+  rm -rf public/de
   echo ""
   echo "   🚀  removed extra folders from /public"
   echo ""
