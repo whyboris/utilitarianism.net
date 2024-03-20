@@ -134,7 +134,7 @@ After adding a document it will likely need some manual fixes:
   - If `npm install` errors out on _Windows_, consider using the `PowerShell` terminal instead
   - It is build with `just search` and is part of the `just build` command, no manual steps needed
   - During the build, to add image previews to the side of search results, `search = true` is toggled in `config.toml`
-  - Durning the build, `hugo` runs in parallel with `pagefind --source public` which creates the `_pagefind` folder inside `/public`
+  - Durning the build, `hugo` runs in parallel with `pagefind --site public` which creates the `pagefind` folder inside `/public`
 - If you run _hugo_ and see the warning _"port 1313 already in use, attempting to use an available port"_ try `npm run kill-hugo` which is equivalent to [`npx kill-port 1313`](https://github.com/tiaanduplessis/kill-port)
 
 When you run the `npm run build` script, under the hood we'll use `just` to execute these in order:
