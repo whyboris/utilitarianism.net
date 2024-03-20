@@ -68,3 +68,11 @@
   other = "https://www.givingwhatwecan.org/"
 [button.choose-career]
   other = "ES: choose career"
+[button.learn-more]
+  other = "ES: Want to learn more about utilitarianism?"
+[button.read-theory]
+  other = "ES: Read about the theory behind utilitarianism:"
+[button.learn-improve]
+  other = "ES: Learn how to use utilitarianism to improve the world:"
+[link.introduction]
+  other = "ES-FIX-LINK-introduction-to-utilitarianism"

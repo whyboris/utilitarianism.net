@@ -6,7 +6,7 @@
 </script>
 
 {{ with .Page }}
-  {{ $myVar := print .Params.title "_Utilitarianism_net" }}
+  {{ $myVar := print .Params.title site.Params.pdfString }}
   {{ $myVar2 := replaceRE "( |,|_|-|—|:|'|\\.|  )" "_" $myVar }}
   {{ $myVar3 := replace $myVar2 "__" "_" }}
   {{ $myVar4 := replace $myVar3 "__" "_" }}

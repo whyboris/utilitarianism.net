@@ -12,7 +12,7 @@
     "start": "hugo serve",
     "build": "just build",
     "search": "pagefind --site public",
-    "pdf":      "cd pdf && website2pdf --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer --safe-title --output-dir ./temp && npm run move-pdf",
+    "pdf":      "cd pdf && website2pdf --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer --safe-title --output-dir ./temp -s http://localhost:1313/sitemap.xml && npm run move-pdf",
     "book-pdf": "cd pdf && website2pdf --marginTop 40px --marginBottom 40px --marginLeft 30px --marginRight 30px --display-header-footer false --safe-title --format a5 --output-dir ./temp && npm run move-pdf && npm run merge-pdf",
     "merge-pdf": "cd pdf && node build-book.js",
     "move-pdf": "cd pdf && node move-pdf.js",

@@ -13,7 +13,10 @@ key_original: MacAskill2023UtilitarianismPracticalEthics
 key_translation: Macaskill2023UtilitarismoEticaPractica
 ---
 
-> ¿Debemos extender nuestra preocupación a todos los seres capaces de sentir placer y dolor cuyos sentimientos se ven afectados por nuestra conducta? ¿O debemos limitar nuestra perspectiva a la felicidad humana? El primer punto de vista es el adoptado por... la escuela utilitarista... [P]arece arbitrario e irrazonable excluir del objetivo final, así concebido, cualquier placer de cualquier ser sintiente. <br> \- [Henry Sidgwick](https://altruismoeficaz.net/autores/henry-sidgwick)[^1]
+> ¿Debemos extender nuestra preocupación a todos los seres capaces de sentir placer y dolor cuyos sentimientos se ven afectados por nuestra conducta? ¿O debemos limitar nuestra perspectiva a la felicidad humana? El primer punto de vista es el adoptado por... la escuela utilitarista... [P]arece arbitrario e irrazonable excluir del objetivo final, así concebido, cualquier placer de cualquier ser sintiente.
+>
+> – [Henry Sidgwick](https://altruismoeficaz.net/autores/henry-sidgwick)[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 
@@ -25,7 +28,10 @@ En el artículo [Actuar conforme al utilitarismo](./actuar-conforme-al-utilitari
 
 ## ¿Hay diferencia entre hacer daño y permitirlo?
 
-> Una persona puede causar un mal a los demás no sólo por sus acciones, sino también por su inacción, y en ambos casos es responsable justificadamente ante ellos por el daño causado."_ <br> - [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill), <cite>[@Mill1859Liberty]</cite>
+> _Una persona puede causar un mal a los demás no sólo por sus acciones, sino también por su inacción, y en ambos casos es responsable justificadamente ante ellos por el daño causado."_
+>
+> – [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill), <cite>[@Mill1859Liberty]</cite>
+{ .align-author-right }
 
 Muchos teóricos no consecuencialistas consideran que hay una diferencia moralmente relevante entre _[hacer daño y permitirlo](https://plato.stanford.edu/entries/doing-allowing/)_, incluso si las consecuencias de una acción o inacción son las mismas. Esta postura se conoce como la "doctrina de hacer y permitir", según la cual los daños causados por acciones —por cosas que hacemos activamente— son peores que los daños por omisión. Quienes sostienen esta doctrina pueden afirmar, por ejemplo, que es peor hacer daño a un niño, en igualdad de condiciones, que no evitar que ese mismo niño sufra daños en un accidente.
 

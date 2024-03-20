@@ -1,5 +1,4 @@
 defaultContentLanguage = "en"
-disableLanguages = ["es", "de"]
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 [markup]
@@ -17,6 +16,8 @@ enableRobotsTXT = true
     title = "Utilitarianism.net"
     baseURL = "https://utilitarianism.net/"
     weight = 1
+    [languages.en.params]
+      pdfString = "_Utilitarianism_net"
     [languages.en.services]
       [languages.en.services.googleAnalytics]
         ID = 'G-91NYS1B7E1'
@@ -26,6 +27,8 @@ enableRobotsTXT = true
     title = "Utilitarismo.net"
     baseURL = "https://utilitarismo.net/"
     weight = 2
+    [languages.es.params]
+      pdfString = "_Utilitarismo_net"
     [languages.es.services]
       [languages.es.services.googleAnalytics]
         ID = 'G-ADD-ID'
@@ -35,6 +38,8 @@ enableRobotsTXT = true
     title = "Utilitarismus.net"
     baseURL = "https://utilitarismus.net/"
     weight = 3
+    [languages.de.params]
+      pdfString = "_Utilitarismus_net"
     [languages.de.services]
       [languages.de.services.googleAnalytics]
         ID = 'G-ADD-ID'

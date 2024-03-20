@@ -11,7 +11,10 @@ gradientTop: "#089FD1"
 gradientBottom: "#305D9C"
 ---
 
-> Are we to extend our concern to all the beings capable of pleasure and pain whose feelings are affected by our conduct? or are we to confine our view to human happiness? The former view is the one adopted by... the Utilitarian school... it seems arbitrary and unreasonable to exclude from the end, as so conceived, any pleasure of any sentient being. <br> \- [Henry Sidgwick](/utilitarian-thinker/henry-sidgwick)[^1]
+> _Are we to extend our concern to all the beings capable of pleasure and pain whose feelings are affected by our conduct? or are we to confine our view to human happiness? The former view is the one adopted by... the Utilitarian school... it seems arbitrary and unreasonable to exclude from the end, as so conceived, any pleasure of any sentient being._
+>
+> – [Henry Sidgwick](/utilitarian-thinker/henry-sidgwick)[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 
@@ -23,7 +26,10 @@ We discuss how utilitarians should act in practice in the article [Acting on Uti
 
 ## Is There a Difference Between Doing and Allowing Harm?
 
-> _"A person may cause evil to others not only by his actions but by his inaction, and in either case he is justly accountable to them for the injury."_ <br> \- [John Stuart Mill](/utilitarian-thinker/john-stuart-mill), [On Liberty](/books/on-liberty-john-stuart-mill/1)
+> _"A person may cause evil to others not only by his actions but by his inaction, and in either case he is justly accountable to them for the injury."_
+>
+> – [John Stuart Mill](/utilitarian-thinker/john-stuart-mill), [On Liberty](/books/on-liberty-john-stuart-mill/1)
+{ .align-author-right }
 
 Many non-consequentialists believe there is a morally relevant difference between _[doing harm and allowing harm](https://plato.stanford.edu/entries/doing-allowing/)_, even if the consequences of an action or inaction are the same. This position is known as the “Doctrine of Doing and Allowing”, according to which harms caused by actions—by things we actively do—are worse than harms of omission. Those who subscribe to this doctrine may, for instance, claim that it's worse to harm a child, all else being equal, than it is to fail to prevent the same child from being harmed in an accident.
 

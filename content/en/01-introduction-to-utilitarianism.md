@@ -13,7 +13,8 @@ gradientBottom: "#236d9f"
 
 > _"The task of the benevolent is surely to diligently seek to promote the benefit of the world and eliminate harm to the world and to take this as a model throughout the world. Does it benefit people? Then do it. Does it not benefit people? Then stop."_
 >
-> \- [Mòzǐ](/utilitarian-thinker/mozi/)[^1]
+> – [Mòzǐ](/utilitarian-thinker/mozi/)[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 
