@@ -12,7 +12,8 @@ gradientBottom: "#305D9C"
 
 > „Sollen wir unsere Sorge auf alle Wesen ausdehnen, die zu Freude und Schmerz fähig sind und deren Empfindungen durch unser Verhalten beeinflusst werden? oder sollen wir uns auf das menschliche Glück beschränken? Die erstere Sichtweise wird von... der utilitaristischen Schule vertreten ... es erscheint willkürlich und unvernünftig, von dem so verstandenen Ziel irgendein Vergnügen irgendeines empfindungsfähigen Wesens auszuschließen.”
 >
-> \–  [Henry Sidgwick](https://utilitarianism.net/utilitarian-thinker/henry-sidgwick)[^1]
+> –  [Henry Sidgwick](https://utilitarianism.net/utilitarian-thinker/henry-sidgwick)[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 
@@ -26,7 +27,8 @@ Wie Utilitaristen in der Praxis handeln sollten, erörtern wir in dem Artikel [U
 
 > _„Ein Mensch kann anderen nicht nur durch seine Handlungen, sondern auch durch seine Untätigkeit Schaden zufügen. In beiden Fällen ist er ihnen gegenüber gerechterweise für den Schaden verantwortlich.”_
 >
-> \–  [John Stuart Mill](https://utilitarianism.net/utilitarian-thinker/john-stuart-mill), [On Liberty](https://utilitarianism.net/books/on-liberty-john-stuart-mill/1)
+> –  [John Stuart Mill](https://utilitarianism.net/utilitarian-thinker/john-stuart-mill), [On Liberty](https://utilitarianism.net/books/on-liberty-john-stuart-mill/1)
+{ .align-author-right }
 
 Viele Nicht-Konsequentialisten sind der Ansicht, dass es einen moralisch relevanten Unterschied zwischen [dem Zufügen von Schaden und dem Zulassen von Schaden](https://plato.stanford.edu/entries/doing-allowing/) gibt, selbst wenn die Folgen einer Handlung oder eines Nichthandelns dieselben sind. Diese Position ist als „Doktrin vom Tun und Zulassen“ bekannt, der zufolge Schäden, die durch Handlungen — also durch Dinge, die wir aktiv tun — verursacht werden, schlimmer sind als Schäden, die durch Unterlassung entstehen. Die Anhänger dieser Doktrin können zum Beispiel behaupten, dass es unter sonst gleichen Bedingungen schlimmer ist, ein Kind zu verletzen, als zu unterlassen, es zu verhindern, dass dasselbe Kind bei einem Unfall verletzt wird.
 
@@ -62,7 +64,7 @@ Wichtig ist: Wir wissen, dass einige Maßnahmen, um Individuen Gutes zu tun, vie
 
 Eine entscheidende Frage bei der Entscheidung, welchem Anliegen wir unsere Bemühungen widmen sollten, ist die Frage, welche Individuen wir in unsere moralischen Überlegungen einbeziehen sollten.
 
-Wir erkennen nun an, dass Merkmale wie Ethnie, Geschlecht und sexuelle Orientierung keine Rechtfertigung dafür sind, Menschen zu diskriminieren oder ihr Leiden zu ignorieren. Im Laufe der Zeit hat unsere Gesellschaft unsere moralische Sorge auf immer mehr Gruppen ausgedehnt: ein Trend des moralischen Fortschritts, der oft als _sich weitender moralischer Kreis _bezeichnet wird.[^7] Doch wo liegen die Grenzen dieser Entwicklung? Sollte der moralische Kreis alle Menschen umfassen, aber dort aufhören? Sollte er auch auf nichtmenschliche Tiere ausgedehnt werden? Oder sollte er sich letztlich sogar auf Pflanzen und die natürliche Umwelt erstrecken?
+Wir erkennen nun an, dass Merkmale wie Ethnie, Geschlecht und sexuelle Orientierung keine Rechtfertigung dafür sind, Menschen zu diskriminieren oder ihr Leiden zu ignorieren. Im Laufe der Zeit hat unsere Gesellschaft unsere moralische Sorge auf immer mehr Gruppen ausgedehnt: ein Trend des moralischen Fortschritts, der oft als _sich weitender moralischer Kreis_ bezeichnet wird.[^7] Doch wo liegen die Grenzen dieser Entwicklung? Sollte der moralische Kreis alle Menschen umfassen, aber dort aufhören? Sollte er auch auf nichtmenschliche Tiere ausgedehnt werden? Oder sollte er sich letztlich sogar auf Pflanzen und die natürliche Umwelt erstrecken?
 
 Der Utilitarismus gibt eine klare Antwort auf diese Frage: Wir sollten unsere moralische Sorge auf alle _empfindungsfähigen Wesen_ ausdehnen, also auf jedes Individuum, das in der Lage ist, positive oder negative Bewusstseinszustände zu erleben. Dazu gehören Menschen und wahrscheinlich viele nicht-menschliche Tiere, nicht aber Pflanzen oder andere nicht empfindungsfähige Wesen. Diese Sichtweise wird manchmal als _Sentiozentrismus_ bezeichnet, da sie das Empfindungsvermögen als das Merkmal ansieht, das Individuen einen moralischen Status verleiht. Zur Rechtfertigung dieser Sichtweise schreibt Peter Singer:
 

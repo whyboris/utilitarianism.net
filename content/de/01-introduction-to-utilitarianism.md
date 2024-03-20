@@ -1,7 +1,7 @@
 ---
 title: "Einführung in den Utilitarismus"
 slug: "einfuhrung-in-den-utilitarismus"
-authors: "MacAskill, W., Meissner, D., und Chappell, R.Y."
+authors: "MacAskill, W., Meissner, D. und Chappell, R.Y."
 date: 2023-01-29
 draft: false
 menu: "main"
@@ -13,7 +13,8 @@ gradientBottom: "#236d9f"
 
 > _„Die Aufgabe des Wohlwollenden ist es sicherlich, sich eifrig zu bemühen, den Nutzen auf der Welt zu mehren und Leid auf der Welt zu eliminieren und dies zum Vorbild für die ganze Welt zu nehmen. Hilft es Menschen? Dann tue es. Hilft es Leuten nicht? So höre auf.”_
 >
-> \– [Mòzi](https://utilitarianism.net/utilitarian-thinker/mozi/)[^1]
+> – [Mòzi](https://utilitarianism.net/utilitarian-thinker/mozi/)[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 
@@ -131,7 +132,7 @@ Im nächsten Kapitel werden die vier Elemente utilitaristischer Theorien eingehe
      Das Parlament des Vereinigten Königreichs, [The 1866 Women’s Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
 
 [^6]:
-     Mill schreibt viele der Ideen in _The Subjection of Women _seiner Frau, Harriet Taylor Mill, zu. Siehe Mill, J. S. (1873) _[Autobiography](http://www.earlymoderntexts.com/assets/pdfs/mill1873e.pdf)_. Bennett, J. (Hrsg.), p. 166.
+     Mill schreibt viele der Ideen in _The Subjection of Women_ seiner Frau, Harriet Taylor Mill, zu. Siehe Mill, J. S. (1873) _[Autobiography](http://www.earlymoderntexts.com/assets/pdfs/mill1873e.pdf)_. Bennett, J. (Hrsg.), p. 166.
 
 [^7]:
      Mill, J. S. (1869). _[The Subjection of Women](https://www.earlymoderntexts.com/assets/pdfs/mill1869.pdf)_. Bennett, J. (Hrsg.), p. 1.

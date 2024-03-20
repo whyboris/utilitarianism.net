@@ -1,6 +1,7 @@
 ---
 title: "Utilitarismus als Handlungsgrundlage"
 slug: "utilitarismus-als-handlungsgrundlage"
+authors: "MacAskill, W. und Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "acting"
@@ -9,7 +10,8 @@ weight: 5
 
 > _„Schaffe so viel Glück, wie du schaffen kannst; beseitige so viel Elend, wie du beseitigen kannst. Ein jeder Tag wird dir erlauben, wird dich dazu einladen, etwas zur Freude anderer beizutragen oder etwas ihrer Schmerzen zu mindern.”_
 >
-> \– [Jeremy Bentham](https://utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^1]
+> – [Jeremy Bentham](https://utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^1]
+{.align-author-right}
 
 {{< TOC >}}
 
@@ -27,7 +29,7 @@ In diesem Artikel verwenden wir Ausdrücke wie „Gutes tun“ und „etwas bewi
 
 Reichtum und Einkommen sind weltweit extrem ungleich verteilt. Jeder, der mehr als 125 Dollar pro Tag verdient, gehört zu dem reichsten Prozent der Weltbevölkerung. Diese Ungleichheit bedeutet, dass wohlhabende Bürger in reichen Ländern hervorragende Möglichkeiten haben, anderen zu helfen.
 
-![World income distribution](/img/World-Income-Distribution.png "World income distribution")
+![World income distribution](/img/World-Income-Distribution.de.png "World income distribution")
 
 > Wer in einem Land, das ein hohes Einkommenslevel aufweist, oberhalb der Armutsgrenze lebt, ist reicher als 85 % der Menschen weltweit. [Our World in Data](https://ourworldindata.org/global-economic-inequality-introduction).
 
@@ -43,7 +45,7 @@ Wie viel sollten wir zum Wohle anderer opfern? Für wohlhabende Bürger in reich
 
 ## Effektiver Altruismus
 
-Viele Utilitaristen bringen wegen ihres Glaubens an den Utilitarismus sehr große persönliche Opfer. In jüngster Zeit wurde jedoch argumentiert, dass _was_ man zu tun versucht, noch wichtiger ist als _wie viel _man aufgibt. Dies ist eine Schlüsselerkenntnis der Philosophie und der sozialen Bewegung des [Effektiven Altruismus](https://www.effektiveraltruismus.de), die von vielen Utilitaristen, so zum Beispiel [Peter Singer](https://utilitarianism.net/utilitarian-thinker/peter-singer/), befürwortet wird.[^5]
+Viele Utilitaristen bringen wegen ihres Glaubens an den Utilitarismus sehr große persönliche Opfer. In jüngster Zeit wurde jedoch argumentiert, dass _was_ man zu tun versucht, noch wichtiger ist als _wie viel_ man aufgibt. Dies ist eine Schlüsselerkenntnis der Philosophie und der sozialen Bewegung des [Effektiven Altruismus](https://www.effektiveraltruismus.de), die von vielen Utilitaristen, so zum Beispiel [Peter Singer](https://utilitarianism.net/utilitarian-thinker/peter-singer/), befürwortet wird.[^5]
 
 Diejenigen, die in der Bewegung des Effektiven Altruismus involviert sind, versuchen herauszufinden, welche der verschiedenen Verwendungsmöglichkeiten unserer Ressourcen bei unparteiischer Betrachtung am meisten Gutes bewirken und handeln auf dieser Grundlage. Nach dieser Definition ist Effektiver Altruismus sowohl ein Forschungsprojekt — mit dem Ziel herauszufinden, wie man am meisten Gutes tut — als auch ein praktisches Projekt, um die besten Vermutungen, die wir darüber haben, wie man am meisten Gutes tut, umzusetzen.[^6]
 
@@ -65,13 +67,14 @@ Da einige moralische Probleme weitaus wichtiger als andere sein können, kann di
 
 > _„Eine Sache, die sehr wichtig ist, ist das Versäumnis von uns reichen Menschen, einen Großteil des Leidens und viele der frühen Tode der ärmsten Menschen auf der Welt zu verhindern, wie wir es so leicht tun könnten.”_
 >
-> \– Derek Parfit[^10]
+> – Derek Parfit[^10]
+{.align-author-right}
 
 Wie im Kapitel [Utilitarismus und Praktische Ethik](https://utilitarianism.net/utilitarianism-and-practical-ethics#cosmopolitanism) erläutert, befürworten Utilitaristen den Kosmopolitismus, demzufolge die geografische Entfernung zwischen einem Akteur und jemandem, dem er helfen kann, nicht an sich moralisch relevant ist. Kosmopolitismus bedeutet, dass wir nach wirksamen Maßnahmen suchen sollten, um anderen zu helfen, unabhängig von ihrer Nationalität, ihrem Wohnort oder ihrer Herkunft.
 
 Auf dieser Grundlage kann globale Gesundheit und Entwicklung als ein besonders vorrangiges Anliegen für Utilitaristen betrachtet werden.[^11] Bemühungen in diesem Bereich haben eine sehr gute Erfolgsbilanz hinsichtlich der Verbesserung von Leben. Es scheint also, dass es in diesem Handlungsfeld besonders wirksame Interventionen gibt. Während des größten Teils der Menschheitsgeschichte war es die Norm, dass etwa zwei von fünf Kindern vor ihrem fünften Geburtstag starben, größtenteils aufgrund vermeidbarer Ursachen. Dank verbesserter sanitärer Einrichtungen und des Zugangs zu medizinischer Versorgung haben wir seither enorme Fortschritte bei der Bekämpfung der Kindersterblichkeit gemacht, so dass die weltweite Kindersterblichkeitsrate auf nur 3,9 % im Jahr 2020 gesunken ist.[^12]
 
-![Global child mortality](/img/Global-Child-Mortality.png "Global child mortality")
+![Global child mortality](/img/Global-Child-Mortality.de.png "Global child mortality")
 
 Diese Fortschritte sind jedoch kein Grund, sich auf unseren Lorbeeren auszuruhen, denn es liegt noch viel vor uns: Eine Kindersterblichkeitsrate von 3,9 % bedeutet immer noch, dass weltweit jeden Tag etwa 14.000 Kinder sterben.[^13] Glücklicherweise können wir dazu beitragen, diese Zahl noch weiter zu senken. Die besten Maßnahmen im Bereich der globale Gesundheit und Entwicklung sind unglaublich kosteneffektiv: [GiveWell](https://www.givewell.org/), eine führende Organisation, die eingehende Bewertungen von Hilfsorganisationen durchführt, schätzt, dass die bestbewerteten Hilfsorganisationen einen durch Malaria verursachten Kindstod für weniger als 5.000 Dollar verhindern können, indem sie präventive Medikamente bereitstellen.[^14]
 
@@ -81,7 +84,8 @@ Andere nachweislich kosteneffiziente Möglichkeiten, den Ärmsten zu helfen, sin
 
 > _„Die Frage lautet nicht: Können sie denken? oder Können sie sprechen?, sondern: Können sie leiden? Warum sollte das Gesetz irgendeinem empfindsamen Wesen seinen Schutz verweigern? ... Die Zeit wird kommen, da die Menschheit ihren Mantel über alles, was atmet, ausbreiten wird.”_
 >
-> \– [Jeremy Bentham](https://utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^16]
+> – [Jeremy Bentham](https://utilitarianism.net/utilitarian-thinker/jeremy-bentham)[^16]
+{.align-author-right}
 
 Die Verbesserung des Wohlergehens von Nutztieren sollte für Utilitaristen eine hohe moralische Priorität darstellen. Die Argumentation für diese Schlussfolgerung ist einfach: Erstens: Tiere sind moralisch zu berücksichtigen; zweitens: Menschen fügen Tieren in Massentierhaltungen unnötig viel Leid zu; drittens: Es gibt einfache Möglichkeiten, die Zahl der Nutztiere und das Ausmaß ihres Leidens zu verringern. Wir werden diese Prämissen der Reihe nach durchgehen.
 
@@ -93,7 +97,7 @@ Drittens können wir das Leben von Nutztieren für nur wenige Cent pro Tier erhe
 
 Doch trotz der Größe des Problems wird der Schutz von Nutztieren stark vernachlässigt.
 
-![Animal statistics](/img/Animal-Statistics.jpg "Animal statistics")
+![Animal statistics](/img/Animal-Statistics.de.png "Animal statistics")
 
 In den USA werden jedes Jahr nur einige zehn Millionen Dollar an Organisationen gespendet, die sich für die Verbesserung des Lebens von Nutztieren einsetzen. Der ausgegebene Betrag ist winzig im Vergleich zu anderen Tierschutzprojekten: Es gibt 3.000-mal mehr Tiere in Betrieben der Massentierhaltung als streunende Haustiere, aber die Bemühungen, die Massentierhaltung zu bekämpfen, erhalten nur ein Fünfzigstel der Mittel, die für die Unterstützung streunender Tiere ausgegeben werden.[^21]
 
@@ -101,7 +105,8 @@ In den USA werden jedes Jahr nur einige zehn Millionen Dollar an Organisationen 
 
 > _„Klassische Utilitaristen ... würden, wie Sidgwick es getan hat, behaupten, dass das Auslöschen der Menschheit das bei weitem größte aller denkbaren Verbrechen wäre. Die Schlechtigkeit dieses Verbrechens läge in der gewaltigen Verringerung der möglichen Summe des Glücks.”_
 >
-> \– Derek Parfit[^22]
+> – Derek Parfit[^22]
+{.align-author-right}
 
 Im Kapitel [Utilitarismus und Praktische Ethik](https://utilitarianism.net/utilitarianism-and-practical-ethics#longtermism) wurde der _starke Longtermism_ eingeführt, demzufolge die wichtigste Determinante für den Wert unserer heutigen Handlungen darin besteht, wie sich diese Handlungen auf die sehr langfristige Zukunft auswirken. Ein starker Longtermism ergibt sich aus dem Utilitarismus — und einer Vielzahl anderer moralischer Standpunkte — wenn wir davon ausgehen, dass einige unserer Handlungen die langfristige Zukunft substantiell beeinflussen können und wir außerdem abschätzen können, welche Auswirkungen positiv und welche negativ sind.[^23]
 
@@ -151,19 +156,15 @@ Drittens kann man nach utilitaristischen Gesichtspunkten Gutes tun, indem man an
 
 ## Konklusion
 
-Utilitaristen sind bestrebt, es zu einem wichtigen Teil ihres Lebens zu machen, anderen_ zu helfen_. Außerdem sind sie der Meinung, dass sie bei der Hilfe für andere versuchen sollten, ihre Ressourcen so einzusetzen, dass sie unparteiisch betrachtet so viel Gutes wie möglich bewirken.
+Utilitaristen sind bestrebt, es zu einem wichtigen Teil ihres Lebens zu machen, anderen _zu helfen_. Außerdem sind sie der Meinung, dass sie bei der Hilfe für andere versuchen sollten, ihre Ressourcen so einzusetzen, dass sie unparteiisch betrachtet so viel Gutes wie möglich bewirken.
 
 Die Bereiche, die derzeit zu den obersten Prioritäten für Utilitaristen gehören, kommen überwiegend Gruppen zugute, die ihre eigenen Interessen nicht vertreten können. Dazu gehören Menschen in extremer Armut, nichtmenschliche Tiere und zukünftige Individuen. Wir haben uns drei entsprechende Gründe angesehen: die Verbesserung der Lebensbedingungen von Menschen in extremer Armut, die Verringerung des Leidens von Tieren in Betrieben der Massentierhaltung und den Schutz künftiger Generationen durch die Verringerung existenzieller Risiken.
 
 Um so viel Gutes wie möglich zu tun, spenden Utilitaristen oft Geld an wirksame Hilfsorganisationen, arbeiten daran, anderen mit ihrer Karriere zu helfen, und engagieren sich, um andere Menschen zu ermutigen, diese Dinge auch zu tun. Wir stehen vor vielen schwerwiegenden moralischen Problemen, die uns die Möglichkeit bieten, enorm viel Gutes zu tun. Um anderen so viel wie möglich zu helfen, priorisieren Utilitaristen sorgfältig ihre Optionen und konzentrieren ihre Bemühungen auf die Bereiche, von denen sie glauben, dass sie dort den größten positiven Beitrag zum Gesamtwohlergehen leisten können.
 
-[An effektive Wohltätigkeitsorganisationen spenden](https://effektiv-spenden.org/)
+{{< acting-buttons >}}
 
-[Mit seinem Beruf Gutes tun](https://80000hours.org/)
-
-## Diese Seite zitieren
-
-MacAskill, W. und Meissner, D. (2023). Utilitarismus als Handlungsgrundlage. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://www.utilitarianism.net/acting-on-utilitarianism>, zuletzt aufgerufen am 09/15/2023.
+{{< how-to-cite >}}
 
 ## Ressourcen und weiterführende Lektüre
 

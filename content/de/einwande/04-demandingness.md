@@ -15,7 +15,8 @@ gradientBottom: "#5F3091"
 
 > _Der Utilitarismus verlangt von uns nicht, moralisch perfekt zu sein. Er fordert uns auf, uns unserer moralischen Grenzen bewusst zu werden und so viel wie menschlich möglich zu tun, um sie zu überwinden._
 >
-> \— Joshua Greene, Moral Tribes, p. 284
+> — Joshua Greene, Moral Tribes, p. 284
+{ .align-author-right }
 
 {{< TOC >}}
 
