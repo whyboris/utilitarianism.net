@@ -68,3 +68,11 @@
   other = "https://effektiv-spenden.org/"
 [button.choose-career]
   other = "Mit seinem Beruf Gutes tun"
+[button.learn-more]
+  other = "DE: Want to learn more about utilitarianism?"
+[button.read-theory]
+  other = "DE: Read about the theory behind utilitarianism:"
+[button.learn-improve]
+  other = "DE: Learn how to use utilitarianism to improve the world:"
+[link.introduction]
+  other = "introduction-to-utilitarianism"
