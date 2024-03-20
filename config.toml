@@ -1,5 +1,5 @@
-defaultContentLanguage = "de"
-disableLanguages = ["es", "en"]
+defaultContentLanguage = "en"
+disableLanguages = ["es", "de"]
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 [markup]

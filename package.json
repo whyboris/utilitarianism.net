@@ -23,13 +23,13 @@
   },
   "devDependencies": {
     "bestzip": "2.2.1",
-    "fdir": "6.0.1",
+    "fdir": "6.1.1",
     "kill-port": "2.0.1",
     "pagefind": "1.0.4",
-    "pdf-merger-js": "4.2.1",
-    "prettier": "2.8.4",
-    "prettier-plugin-go-template": "0.0.13",
-    "serve": "14.2.0",
-    "website2pdf": "0.0.12"
+    "pdf-merger-js": "5.1.1",
+    "prettier": "3.2.5",
+    "prettier-plugin-go-template": "0.0.15",
+    "serve": "14.2.1",
+    "website2pdf": "0.0.16"
   }
 }
