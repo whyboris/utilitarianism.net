@@ -28,7 +28,10 @@ En el artículo [Actuar conforme al utilitarismo](./actuar-conforme-al-utilitari
 
 ## ¿Hay diferencia entre hacer daño y permitirlo?
 
-> Una persona puede causar un mal a los demás no sólo por sus acciones, sino también por su inacción, y en ambos casos es responsable justificadamente ante ellos por el daño causado."_ <br> - [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill), <cite>[@Mill1859Liberty]</cite>
+> _Una persona puede causar un mal a los demás no sólo por sus acciones, sino también por su inacción, y en ambos casos es responsable justificadamente ante ellos por el daño causado."_
+>
+> – [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill), <cite>[@Mill1859Liberty]</cite>
+{ .align-author-right }
 
 Muchos teóricos no consecuencialistas consideran que hay una diferencia moralmente relevante entre _[hacer daño y permitirlo](https://plato.stanford.edu/entries/doing-allowing/)_, incluso si las consecuencias de una acción o inacción son las mismas. Esta postura se conoce como la "doctrina de hacer y permitir", según la cual los daños causados por acciones —por cosas que hacemos activamente— son peores que los daños por omisión. Quienes sostienen esta doctrina pueden afirmar, por ejemplo, que es peor hacer daño a un niño, en igualdad de condiciones, que no evitar que ese mismo niño sufra daños en un accidente.
 
