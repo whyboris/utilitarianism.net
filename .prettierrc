@@ -1,6 +1,7 @@
 {
   "endOfLine": "lf",
   "tabWidth": 2,
+  "plugins": ["prettier-plugin-go-template"],
   "overrides": [
     {
       "files": ["*.html"],
