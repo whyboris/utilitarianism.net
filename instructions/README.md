@@ -152,12 +152,19 @@ Once the build is finished, you'll get a link in your terminal (to `http://local
 
 ## Languages
 
-This repository is set up to build the same website in many languages.
+This repository is set up to build the same website in many languages. Default build is English, `just build` will work. For other languages, manual steps are needed. Below are instructions for _German_ but other languages work the same way:
 
-To build in another language (than English), edit the `config.toml` file:
+When you run `hugo serve` you should see three lines for each langauge, e.g.
 
-- change the `defaultContentLanguage = "en"` to the two-letter abbreviation of the language you want to build (see `languages` section in the file)
-- disable all other languages: `disableLanguages = ["es", "de"]`
+```
+Web Server is available at http://localhost:1315/ (bind address 127.0.0.1) de
+```
+
+Note the _port_ number, here `1315` - you will need it.
+
+- Inside `/pdf/w2pdf_template/` rename `footer.de.html` to `footer.html` (replace old file)
+- In `justfile` update the `@move` command to have `/de` instead of `/en` on the first line
+- In `package.json` update the `"pdf":` line with the correct _port_ number from `1313` to one you saw with `hugo serve`
 
 Now run `npm run build` and you have your full website!
 

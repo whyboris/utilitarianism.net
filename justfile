@@ -1,14 +1,14 @@
 run:
   hugo serve
 
-build: clean search pdf production move delete zip serve
+build: reset search pdf production move delete zip serve
 
-nopdf: clean search production move delete zip serve
+nopdf: reset search production move delete zip serve
 
-@clean:
+@reset:
   rm -rf public
   echo ""
-  echo "   🚀  cleaned /public"
+  echo "   🚀  emptied /public"
   echo ""
 
 @search:
@@ -24,6 +24,8 @@ nopdf: clean search production move delete zip serve
 @move:
   cp -R public/en/* public
   rm -rf public/en
+  rm -rf public/de
+  rm -rf public/es
   echo ""
   echo "   🚀  moved public/en to /public"
   echo ""
@@ -32,7 +34,6 @@ nopdf: clean search production move delete zip serve
   rm -rf public/de
   rm -rf public/en
   rm -rf public/es
-  rm -rf public/docx
   echo ""
   echo "   🚀  removed extra folders from /public"
   echo ""
