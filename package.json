@@ -29,7 +29,7 @@
     "node-pandoc": "0.3.0",
     "pagefind": "1.0.4",
     "pandoc-filter": "2.2.0",
-    "pdf-merger-js": "5.1.1",
+    "pdf-merger-js": "4.3.1",
     "prettier-plugin-go-template": "0.0.15",
     "prettier": "3.2.5",
     "serve": "14.2.1",
