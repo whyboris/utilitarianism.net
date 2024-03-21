@@ -81,7 +81,6 @@ Natürlich ist es wichtig zu betonen, dass es im wirklichen Leben keine Stipulat
 * Judith Jarvis Thomson (1976). [Killing, Letting Die, and the Trolley Problem](https://doi.org/10.5840/monist197659224). _The Monist_. 59 (2): 204–17
 * Scott Woodcock (2017). [When Will a Consequentialist Push You in Front of a Trolley?](https://doi.org/10.1080/00048402.2016.1212909) _Australasian Journal of Philosophy_. 95 (2): 299–316.
 
-
 [^1]:
      Adaptiert von Thomson, J. (1976). [Killing, Letting Die, and the Trolley Problem](https://doi.org/10.5840/monist197659224). _The Monist_. 59 (2): 204–17, p. 206.
 

@@ -37,10 +37,10 @@ _Please read:_ **Terminal** is a tool you use to make your computer execute comm
    - _Windows_:
       - _Scoop_ (recommended)
          - Install [Scoop](https://scoop.sh/), then
-         - `scoop install hugo-extended@0.122.0`
+         - `scoop install hugo-extended@0.124.0`
       - _Chocolatey_ (alternative)
          - Install [Chocolatey](https://chocolatey.org/), then
-         - `choco install hugo-extended --version=0.122.0`
+         - `choco install hugo-extended --version=0.124.0`
 3. Install [Just](https://github.com/casey/just)
    - _Mac_: `brew install just`
    - _Windows_: `scoop install just`
@@ -134,7 +134,7 @@ After adding a document it will likely need some manual fixes:
   - If `npm install` errors out on _Windows_, consider using the `PowerShell` terminal instead
   - It is build with `just search` and is part of the `just build` command, no manual steps needed
   - During the build, to add image previews to the side of search results, `search = true` is toggled in `config.toml`
-  - Durning the build, `hugo` runs in parallel with `pagefind --source public` which creates the `_pagefind` folder inside `/public`
+  - Durning the build, `hugo` runs in parallel with `pagefind --site public` which creates the `pagefind` folder inside `/public`
 - If you run _hugo_ and see the warning _"port 1313 already in use, attempting to use an available port"_ try `npm run kill-hugo` which is equivalent to [`npx kill-port 1313`](https://github.com/tiaanduplessis/kill-port)
 
 When you run the `npm run build` script, under the hood we'll use `just` to execute these in order:
@@ -152,12 +152,19 @@ Once the build is finished, you'll get a link in your terminal (to `http://local
 
 ## Languages
 
-This repository is set up to build the same website in many languages.
+This repository is set up to build the same website in many languages. Default build is English, `just build` will work. For other languages, manual steps are needed. Below are instructions for _German_ but other languages work the same way:
 
-To build in another language (than English), edit the `config.toml` file:
+When you run `hugo serve` you should see three lines for each langauge, e.g.
 
-- change the `defaultContentLanguage = "en"` to the two-letter abbreviation of the language you want to build (see `languages` section in the file)
-- disable all other languages: `disableLanguages = ["es", "de"]`
+```
+Web Server is available at http://localhost:1315/ (bind address 127.0.0.1) de
+```
+
+Note the _port_ number, here `1315` - you will need it.
+
+- Inside `/pdf/w2pdf_template/` rename `footer.de.html` to `footer.html` (replace old file)
+- In `justfile` update the `@move` command to have `/de` instead of `/en` on the first line
+- In `package.json` update the `"pdf":` line with the correct _port_ number from `1313` to one you saw with `hugo serve`
 
 Now run `npm run build` and you have your full website!
 

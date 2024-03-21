@@ -1,21 +1,31 @@
+[site.locale]
+  other = "de-DE"
 [site.url-full]
   other = "https://www.utilitarismus.net"
 [site.url-readable]
   other = "Utilitarismus.net"
 [site.footer]
-  other = "Diese Website wurde von William MacAskill, außerordentlicher Professor für Philosophie an der Universität Oxford, mitgestaltet"
+  other = "Diese Website wurde von William MacAskill, Associate Professor für Philosophie an der University of Oxford, mitgestaltet"
+[site.logo-path]
+  other = "/img/Utilitarianism-Website-Logo.de.svg"
+[site.logo-alt]
+  other = "Utilitarianismus.net Website-Logo"
+[text.left-quote]
+  other = "„"
+[text.right-quote]
+  other = "“"
 [menu.acting]
   other = "Utilitarismus als Handlungsgrundlage"
 [link.acting]
   other = "utilitarismus-als-handlungsgrundlage"
 [menu.textbook]
-  other = "Erfahren Sie mehr über Utilitarismus"
+  other = "Mehr über Utilitarismus erfahren"
 [link.textbook]
-  other = "lehrbuch"
+  other = "textbuch"
 [menu.core-articles]
-  other = "Kernartikel"
+  other = "Zentrale Artikel"
 [menu.about]
-  other = "Über Uns"
+  other = "Über uns"
 [link.about]
   other = "uber-uns"
 [menu.other-content]
@@ -41,12 +51,28 @@
 [cite.book-title]
   other = "Einführung in den Utilitarismus"
 [cite.and]
-  other = "und"
+  other = " und" # note the space before `und` is on purpose
 [cite.how-to-cite]
   other = "Diese Seite zitieren"
 [cite.editors-abbreviation]
   other = "Hrsg."
+[cite.translated]
+  other = ", aus dem Englischen von S. Dalügge,"
 [button.make-world-better-question]
   other = "Möchtest du die Welt zu einem besseren Ort machen?"
 [button.put-into-practice]
   other = "Erfahre, wie du Utilitarismus in die Praxis umsetzt:"
+[button.donate-to-effective]
+  other = "An effektive Wohltätigkeitsorganisationen spenden"
+[link.donate-to-effective]
+  other = "https://effektiv-spenden.org/"
+[button.choose-career]
+  other = "Mit seinem Beruf Gutes tun"
+[button.learn-more]
+  other = "DE: Want to learn more about utilitarianism?"
+[button.read-theory]
+  other = "DE: Read about the theory behind utilitarianism:"
+[button.learn-improve]
+  other = "DE: Learn how to use utilitarianism to improve the world:"
+[link.introduction]
+  other = "introduction-to-utilitarianism"

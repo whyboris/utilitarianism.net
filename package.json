@@ -11,8 +11,8 @@
   "scripts": {
     "start": "hugo serve",
     "build": "just build",
-    "search": "pagefind --source public",
-    "pdf":      "cd pdf && website2pdf --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer --safe-title --output-dir ./temp && npm run move-pdf",
+    "search": "pagefind --site public",
+    "pdf":      "cd pdf && website2pdf --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer --safe-title --output-dir ./temp -s http://localhost:1313/sitemap.xml && npm run move-pdf",
     "book-pdf": "cd pdf && website2pdf --marginTop 50px --marginBottom 50px --marginLeft 50px --marginRight 50px --display-header-footer false --safe-title --format a5 --output-dir ./temp && npm run move-pdf && npm run merge-pdf",
     "merge-pdf": "cd pdf && node build-book.js",
     "move-pdf": "cd pdf && node move-pdf.js",
@@ -24,15 +24,15 @@
   },
   "devDependencies": {
     "bestzip": "2.2.1",
-    "fdir": "6.0.1",
+    "fdir": "6.1.1",
     "kill-port": "2.0.1",
-    "node-pandoc": "^0.3.0",
-    "pagefind": "0.12.0",
-    "pandoc-filter": "^2.2.0",
-    "pdf-merger-js": "4.2.1",
-    "prettier": "2.8.4",
-    "prettier-plugin-go-template": "0.0.13",
-    "serve": "14.2.0",
-    "website2pdf": "0.0.12"
+    "node-pandoc": "0.3.0",
+    "pagefind": "1.0.4",
+    "pandoc-filter": "2.2.0",
+    "pdf-merger-js": "5.1.1",
+    "prettier-plugin-go-template": "0.0.15",
+    "prettier": "3.2.5",
+    "serve": "14.2.1",
+    "website2pdf": "0.0.16"
   }
 }

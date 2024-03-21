@@ -292,9 +292,19 @@ blockquote {
   margin-bottom: 40px;
 
   .how-to-cite {
+    background-color: #fafafa;
+    border-radius: 5px;
+    border: 1px solid #dadada;
+    box-shadow: inset 0 2px 4px 0 rgba(0,0,0,0.05);
+    font-family: monospace;
     font-size: 14px;
-    margin: 0 20px;
     overflow-wrap: break-word;
+    padding: 10px 20px;
+    user-select: all;
+
+    em {
+      font-family: monospace;
+    }
   }
 }
 

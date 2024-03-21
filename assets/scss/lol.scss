@@ -47,3 +47,13 @@ body {
 h1 {
   line-height: 1.5;
 }
+
+.align-author-right {
+  p:last-child {
+    text-align: right;
+
+    p {
+      text-align: left;
+    }
+  }
+}

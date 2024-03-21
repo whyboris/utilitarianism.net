@@ -129,7 +129,6 @@ Zu den Alternativen zur Gesamtansicht in der Populationsethik gehören die _Durc
 
 Nach dem Wählen bevorzugter Theorien über Wohlergehen und Populationsethik sollte man sich auch Gedanken über Folgendes machen:
 
-
 1. wie (oder ob) man einen Begriff von Richtigkeit konstruiert;
 2. wann man sich auf die _tatsächlichen_ und wann auf die _erwarteten_ Konsequenzen fokussieren sollte;
 3. welche Rolle einfacher, aus dem Utilitarismus abgeleiteter Heuristiken in der Steuerung unseres alltäglichen Handelns zukommt; und
@@ -175,7 +174,7 @@ In der Fachliteratur zum Utilitarismus wird eine nützliche Unterscheidung zwisc
 
 Utilitaristen glauben, dass ihre Moraltheorie das richtige Kriterium für Richtigkeit ist (zumindest im Sinne dessen, was „idealerweise getan werden sollte“, wie oben erläutert). Allerdings raten sie fast durchgängig davon ab, Utilitarismus als Entscheidungsverfahren für unser tägliches Handeln zu verwenden. Dies würde bedeuten, dass wir bewusst versuchen würden, das allgemeine Wohlbefinden zu fördern, indem wir ständig die erwarteten Folgen unserer täglichen Handlungen berechnen. Es wäre jedoch absurd, bei der Entscheidung, welche Frühstücksflocken man im Supermarkt kaufen soll, alle möglichen Konsequenzen des Kaufs verschiedener Getreidesorten durchzudenken, um festzustellen, welche am besten zum allgemeinen Wohlbefinden beiträgt. Bei dieser Entscheidung steht nicht viel auf dem Spiel und es lohnt sich nicht, viel Zeit darauf zu verwenden.
 
-Die Ansicht, die den Utilitarismus sowohl als Kriterium der Richtigkeit als auch als Entscheidungsverfahren betrachtet, wird als _einstufiger Utilitarismus _bezeichnet. Seine Alternative ist der _mehrstufige Utilitarismus_, der den Utilitarismus nur als Kriterium für die Richtigkeit, nicht aber als Entscheidungsverfahren betrachtet. Er wird wie folgt definiert:
+Die Ansicht, die den Utilitarismus sowohl als Kriterium der Richtigkeit als auch als Entscheidungsverfahren betrachtet, wird als _einstufiger Utilitarismus_ bezeichnet. Seine Alternative ist der _mehrstufige Utilitarismus_, der den Utilitarismus nur als Kriterium für die Richtigkeit, nicht aber als Entscheidungsverfahren betrachtet. Er wird wie folgt definiert:
 
 Mehrstufiger Utilitarismus ist die Ansicht, dass der Einzelne in der Regel bewährten Faustregeln — oder _Heuristiken_ — folgen sollte, anstatt zu versuchen, zu berechnen, welche Handlung das größte Wohlbefinden erzeugt.
 
@@ -242,7 +241,6 @@ Im nächsten Kapitel werden Argumente für Utilitarismus und Konsequentialismus 
 ## Ressourcen und weiterführende Lektüre
 
 ### Konsequentialismus
-
 
 * Julia Driver (2011). _[Consequentialism, New Problems of Philosophy](https://www.routledge.com/Consequentialism/Driver/p/book/9780415772587)_. José Luis Bermúdez (Hrsg.). Abingdon: Routledge.
 * Samuel Scheffler (1994). _[The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions](https://www.oxfordscholarship.com/view/10.1093/0198235119.001.0001/acprof-9780198235118)_. Oxford: Clarendon Press.

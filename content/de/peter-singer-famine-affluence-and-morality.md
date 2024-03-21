@@ -2,6 +2,7 @@
 title: "Studienführer: Peter Singers „Hunger, Wohlstand und Moral“"
 slug: "peter-singer-hunger-wohlstand-und-moral"
 book: "Studienführer: Peter Singers „Hunger, Wohlstand und Moral“"
+authors: "Chappell, R.Y. und Meissner, D."
 menuTitle: "Famine, Affluence, and Morality"
 date: 2023-01-29
 draft: false
@@ -63,7 +64,7 @@ Es ist eine interessante Frage, wie man signifikante Interessen von vergleichswe
 
 Schließlich kommen wir zu Singers Rettungsprinzip: _Wenn es in unserer Macht steht, etwas sehr Schlechtes zu verhindern, ohne dabei etwas moralisch Bedeutsames zu opfern, sollten wir es aus moralischen Gründen tun_. Wenn wir die Schlussfolgerung des Arguments ablehnen wollen, müssen wir diese Prämisse ablehnen. Aber kann man wirklich glauben, dass es moralisch in Ordnung ist, sich zurückzulehnen und zuzusehen, wie etwas Schreckliches passiert, wenn man es _leicht_ (ohne etwas Wichtiges zu opfern) verhindern könnte?
 
-Einige mögen behaupten, dass unsere einzige Pflicht darin besteht, _keinen Schaden anzurichten_.[^8] Nach dieser Auffassung wäre es falsch, die Armen der Welt zu bestehlen und es wäre _großzügig_, ihnen zu helfen, aber wir wären nicht _verpflichtet_, in irgendeiner Weise zu helfen — es ist nie falsch, sich einfach um seine eigenen Angelegenheiten zu kümmern. Diese minimale Auffassung von Moral (die sich auf die Pflicht beschränkt, anderen nicht zu schaden) passt gut zu den gängigen Ansichten über Wohltätigkeit. Sie erweist sich jedoch als inakzeptabel, wenn wir ein breiteres Spektrum von Fällen betrachten, wie Singer mit seinem berühmten Gedankenexperiment vom _ertrinkenden Kind _zeigt.
+Einige mögen behaupten, dass unsere einzige Pflicht darin besteht, _keinen Schaden anzurichten_.[^8] Nach dieser Auffassung wäre es falsch, die Armen der Welt zu bestehlen und es wäre _großzügig_, ihnen zu helfen, aber wir wären nicht _verpflichtet_, in irgendeiner Weise zu helfen — es ist nie falsch, sich einfach um seine eigenen Angelegenheiten zu kümmern. Diese minimale Auffassung von Moral (die sich auf die Pflicht beschränkt, anderen nicht zu schaden) passt gut zu den gängigen Ansichten über Wohltätigkeit. Sie erweist sich jedoch als inakzeptabel, wenn wir ein breiteres Spektrum von Fällen betrachten, wie Singer mit seinem berühmten Gedankenexperiment vom _ertrinkenden Kind_ zeigt.
 
 ## Das ertrinkende Kind
 
@@ -101,7 +102,7 @@ Keine dieser Antworten scheint erfolgreich zu sein, wenn es darum geht, einen mo
 
 ### Auffälligkeit
 
-Obwohl die geografische Entfernung an sich keinen moralischen Unterschied zu machen scheint, kann sie für uns einen psychologischen Unterschied machen, indem sie die _Auffälligkeit _der verschiedenen Bedürfnisse, um die es geht, beeinflusst. Das sichtbare Leiden eines Kindes direkt vor unseren Augen hat eine ganz andere emotionale Wirkung als das rein abstrakte Wissen um ein weit entferntes Leiden. Und dieser Unterschied in der emotionalen Wirkung erklärt plausibel, warum die meisten von uns so viel stärker motiviert wären, das ertrinkende Kind zu retten, als entferntes Leid durch Spenden zu lindern. Was aber ist die moralische Bedeutung dieses Unterschieds in der psychologischen Sensibilität?
+Obwohl die geografische Entfernung an sich keinen moralischen Unterschied zu machen scheint, kann sie für uns einen psychologischen Unterschied machen, indem sie die _Auffälligkeit_ der verschiedenen Bedürfnisse, um die es geht, beeinflusst. Das sichtbare Leiden eines Kindes direkt vor unseren Augen hat eine ganz andere emotionale Wirkung als das rein abstrakte Wissen um ein weit entferntes Leiden. Und dieser Unterschied in der emotionalen Wirkung erklärt plausibel, warum die meisten von uns so viel stärker motiviert wären, das ertrinkende Kind zu retten, als entferntes Leid durch Spenden zu lindern. Was aber ist die moralische Bedeutung dieses Unterschieds in der psychologischen Sensibilität?
 
 Es ist plausibel, dass eine höhere Aufmerksamkeit dazu beitragen kann, uns auf echte Gründe für unser Handeln aufmerksam zu machen, die ohnehin vorhanden sind, die wir aber sonst fälschlicherweise vernachlässigen würden. Schließlich ist es nicht so, dass ein leidendes Kind plötzlich objektiv wichtiger wird, sobald es in unser Blickfeld gerät. Aber wir werden uns seiner gewiss _bewusster_ (und wie lebenswichtig es ist, ihm zu helfen). Wenn das stimmt, gibt es offenbar genauso viele moralische Gründe, denjenigen in Not zu helfen, die weit weg sind; wir neigen nur dazu, dies nicht so sehr zu _bemerken_, und machen daher (verständlicherweise) den moralischen Fehler, weniger zu tun als objektiv angezeigt, um ihnen zu helfen.[^14]
 
@@ -167,12 +168,11 @@ Allgemeinen Erwartungen an eine gute Philosophiearbeit werden von den Dozenten d
 
 Viel Erfolg! Und immer bedenken: Quellen müssen zitiert werden.
 
-## Diese Seite zitieren
+{{< how-to-cite >}}
 
-Chappell, R.Y. und  Meissner, D. (2023). Studienführer: Peter Singers „Hunger, Wohlstand und Moral“. In R.Y. Chappell, D. Meissner und W. MacAskill (Hrsg.), _Einführung in den Utilitarismus_ &lt;https://utilitarianism.net/peter-singer-famine-affluence-and-morality/>, zuletzt aufgerufen am 09/15/2023.
+{{< two-button >}}
 
-
-## Mehr über Utilitarismus erfahren:
+## Mehr über Utilitarismus erfahren
 
 Über die Theorie des Utilitarismus:
 

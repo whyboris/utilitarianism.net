@@ -1,23 +1,41 @@
 run:
   hugo serve
 
-build: clean search pdf production zip serve
+build: reset search pdf production move delete zip serve
 
-nopdf: clean search production zip serve
+nopdf: reset search production move delete zip serve
 
-@clean:
+@reset:
   rm -rf public
   echo ""
-  echo "   🚀  cleaned /public"
+  echo "   🚀  emptied /public"
   echo ""
 
 @search:
   node build.js search
   hugo
+  just move
   npm run search
   node build.js reset
   echo ""
-  echo "   🚀  Search index generated"
+  echo "   🚀  search index generated"
+  echo ""
+
+@move:
+  cp -R public/en/* public
+  rm -rf public/en
+  rm -rf public/es
+  rm -rf public/de
+  echo ""
+  echo "   🚀  moved public/en to /public"
+  echo ""
+
+@delete:
+  rm -rf public/en
+  rm -rf public/es
+  rm -rf public/de
+  echo ""
+  echo "   🚀  removed extra folders from /public"
   echo ""
 
 @pdf:

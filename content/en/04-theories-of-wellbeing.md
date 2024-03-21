@@ -11,7 +11,10 @@ gradientTop: "#084BC7"
 gradientBottom: "#1B7CCC"
 ---
 
-> _“To what shall the character of utility be ascribed, if not to that which is a source of pleasure?”_ <br> \- [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^1]
+> _“To what shall the character of utility be ascribed, if not to that which is a source of pleasure?”_
+>
+> – [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 
