@@ -1,20 +1,20 @@
 <div class="callout">
-  <h2>Want to learn more about utilitarianism?</h2>
+  <h2>{{ i18n "button.learn-more"}}</h2>
 
   <div class="two-button-callout">
     <div>
-      <p>Read about the theory behind utilitarianism:</p>
+      <p>{{ i18n "button.read-theory"}}</p>
 
-      <a href="{{ .Site.BaseURL }}introduction-to-utilitarianism">
-        <div class="callout-button">Introduction to Utilitarianism</div>
+      <a href="{{ .Site.BaseURL }}{{ i18n "link.introduction" }}">
+        <div class="callout-button">{{ i18n "cite.book-title" }}</div>
       </a>
     </div>
 
     <div>
-      <p>Learn how to use utilitarianism to improve the world:</p>
+      <p>{{ i18n "button.learn-improve" }}</p>
 
-      <a href="{{ .Site.BaseURL }}acting-on-utilitarianism">
-        <div class="callout-button">Acting on Utilitarianism</div>
+      <a href="{{ .Site.BaseURL }}{{ i18n "link.acting" }}">
+        <div class="callout-button">{{ i18n "menu.acting" }}</div>
       </a>
     </div>
   </div>

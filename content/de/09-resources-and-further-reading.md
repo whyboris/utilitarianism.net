@@ -4,7 +4,7 @@ slug: "ressourcen-und-weiterfuhrende-lekture"
 date: 2023-01-29
 draft: false
 menu: "main"
-description: "Ressourcen für Einführung in den Utilitarismus"
+description: "Ressourcen und weiterführende Lektüre zu Utilitarismus"
 gradientTop: "#57579d"
 gradientBottom: "#012147"
 weight: 600

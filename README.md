@@ -10,7 +10,7 @@ If you're new to coding, see the [detailed instructions](instructions/README.md#
 
 First time:
 
-- Install [Hugo](https://gohugo.io/getting-started/installing/) (current version is `0.122.0`[^2] _extended edition_)
+- Install [Hugo](https://gohugo.io/getting-started/installing/) (current version is `0.124.0` _extended edition_)
 
 Any time after:
 
@@ -73,4 +73,3 @@ A huge **thank you** to the numerous creators and contributors that make buildin
 This is not a complete list, there are too many others to list 🙇‍♂️
 
 [^1]: If you see a Pagefind [Error: tar xvf exited with 128](https://github.com/CloudCannon/pagefind/issues/66#issuecomment-1237313541) try using _Powershell_
-[^2]: _Hugo_ version `0.123.0` seems to break _CSS_ (the `.css` file is a `404`) so take care when upgrading _Hugo_

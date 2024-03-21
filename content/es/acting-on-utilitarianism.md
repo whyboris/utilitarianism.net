@@ -62,7 +62,10 @@ Dado que algunos problemas morales pueden ser mucho más importantes que otros, 
 
 ### Salud y desarrollo globales
 
-> _”Algo que importa mucho es que nosotros, los ricos, hayamos permitido gran parte del sufrimiento y muchas de las muertes prematuras de las personas más pobres del mundo que podríamos haber evitado muy fácilmente."_ <br> \- Derek Parfit[^11]
+> _”Algo que importa mucho es que nosotros, los ricos, hayamos permitido gran parte del sufrimiento y muchas de las muertes prematuras de las personas más pobres del mundo que podríamos haber evitado muy fácilmente."_
+>
+> – Derek Parfit[^11]
+{ .align-author-right }
 
 Como se explica en el capítulo [Utilitarismo y ética práctica](./utilitarismo-y-etica-practica.md#cosmopolitismo), los utilitaristas apoyan el cosmopolitismo, según el cual la distancia geográfica entre un actor y el beneficiario potencial de su ayuda no es moralmente relevante en sí misma. El cosmopolitismo implica que debemos buscar intervenciones eficaces para ayudar a los demás, con independencia de su nacionalidad, de su lugar de residencia o de su procedencia.
 
@@ -76,7 +79,10 @@ Otras formas de ayudar a los más pobres, costo-eficaces y respaldadas por evide
 
 ### Bienestar animal en las granjas
 
-> La pregunta no es ‘¿Pueden *razonar*?’, ni ‘¿Pueden *hablar*?’, sino ‘¿Pueden *sufrir*?’ ¿Por qué debería la ley negar su protección a cualquier ser sensible?… Llegará el momento en que la humanidad extenderá su manto sobre todo lo que respire."_ <br> \- [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham)[^17]
+> _La pregunta no es ‘¿Pueden **razonar**?’, ni ‘¿Pueden **hablar**?’, sino ‘¿Pueden **sufrir**?’ ¿Por qué debería la ley negar su protección a cualquier ser sensible?… Llegará el momento en que la humanidad extenderá su manto sobre todo lo que respire."_
+>
+> – [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham)[^17]
+{ .align-author-right }
 
 Mejorar el bienestar de los animales de granja debería ser una alta prioridad moral para los utilitaristas. El argumento para llegar a esta conclusión es sencillo: primero, los animales importan moralmente; segundo, los humanos causan una enorme cantidad de sufrimiento innecesario a los animales en los criaderos intensivos; tercero, hay formas fáciles de reducir el número de animales de granja y la gravedad de su sufrimiento. Examinaremos estas premisas una por una.
 

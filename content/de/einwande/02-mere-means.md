@@ -1,6 +1,6 @@
 ---
 title: "Der „bloße Mittel“-Einwand"
-slug: "blose-mittel"
+slug: "blosse-mittel"
 authors: "Chappell, R.Y."
 date: 2023-01-29
 type: "page"
@@ -12,8 +12,6 @@ description: "Kritiker werfen dem Utilitarismus oft vor, dass er Menschen in unz
 gradientTop: "#371E87"
 gradientBottom: "#571B9E"
 ---
-
-!!! FIX IMAGE TEXT
 
 {{< TOC >}}
 
@@ -41,7 +39,7 @@ Im Gegensatz dazu _behandelt_ der Utilitarismus [nicht empfindungsfähige Dinge]
 
 Angenommen, man befindet sich in einer medizinischen Notsituation, hat aber nur genug Medikamente, um entweder einen Erwachsenen oder zwei Kinder zu retten. Zwei Kinder und eine erwachsene Apothekerin stehen kurz vor dem Tod, drei weitere Kinder sind schwer krank und würden sterben, bevor jemand anderes ihnen zu Hilfe kommen kann. Wenn man die Apothekerin rettet, kann sie rechtzeitig weitere Medikamente herstellen, um die verbleibenden drei schwerkranken Kinder zu retten (allerdings nicht rechtzeitig, um die beiden bereits am Rande des Todes stehenden Kinder zu retten). Wenn man diese beiden Kinder rettet, werden alle anderen sterben. Was sollte man tun?
 
-![Instrumental favoritism](/img/instrumental-favoritism.png "Instrumental favoritism")
+![Instrumental favoritism](/img/instrumental-favoritism.de.png "Instrumental favoritism")
 
 Nach utilitaristischen Gesichtspunkten ist die Antwort klar: Man sollte die Apothekerin und damit _vier_ Personen (darunter drei Kinder) retten, anstatt nur zwei Kinder zu retten. Dabei spielt es keine Rolle, ob man ein Individuum _direkt_ rettet (indem man ihm selbst Medizin gibt) oder _indirekt_ (indem man der Apothekerin ermöglicht, ihm Medizin zu geben); wichtig ist nur, dass es gerettet wird.
 

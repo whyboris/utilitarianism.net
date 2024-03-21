@@ -1,9 +1,19 @@
+[site.locale]
+  other = "en-US"
 [site.url-full]
   other = "https://www.utilitarianism.net"
 [site.url-readable]
   other = "Utilitarianism.net"
 [site.footer]
   other = "This website was co-created by William MacAskill, Associate Professor of Philosophy at the University of Oxford"
+[site.logo-path]
+  other = "/img/Utilitarianism-Website-Logo.svg"
+[site.logo-alt]
+  other = "Utilitarianism.net website logo"
+[text.left-quote]
+  other = "“"
+[text.right-quote]
+  other = "”"
 [menu.acting]
   other = "Acting on Utilitarianism"
 [link.acting]
@@ -41,12 +51,28 @@
 [cite.book-title]
   other = "Introduction to Utilitarianism"
 [cite.and]
-  other = "and"
+  other = ", and" # note the Oxford comma
 [cite.how-to-cite]
   other = "How to Cite This Page"
 [cite.editors-abbreviation]
   other = "eds."
+[cite.translated]
+  other = "," # note it's just a comma on purpose
 [button.make-world-better-question]
   other = "Want to make the world a better place?"
 [button.put-into-practice]
   other = "Learn how to put utilitarianism into practice:"
+[button.donate-to-effective]
+  other = "Donate to effective charities"
+[link.donate-to-effective]
+  other = "https://www.givingwhatwecan.org/"
+[button.choose-career]
+  other = "Choose an impactful career"
+[button.learn-more]
+  other = "Want to learn more about utilitarianism?"
+[button.read-theory]
+  other = "Read about the theory behind utilitarianism:"
+[button.learn-improve]
+  other = "Learn how to use utilitarianism to improve the world:"
+[link.introduction]
+  other = "introduction-to-utilitarianism"
