@@ -34,8 +34,6 @@ npm run build
 
 The `/public` folder now contains all the static files. The `/dist` folder now has the zip of them all: upload to your webhost, unzip, and you are _done_ 🤩
 
-_note:_ March 2024 the script broke - currently you'll need to move the contents from `/public/en` into `/public` and create the _zip_ file yourself.
-
 For more details see [instructions/README.md](instructions/README.md#building)
 
 ## Languages
