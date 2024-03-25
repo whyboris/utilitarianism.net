@@ -54,7 +54,7 @@ Sometimes philosophers talk about “welfare” or “utility” rather than “
 
 All ethical theories in the utilitarian family share four defining elements: consequentialism, welfarism, impartiality, and aggregationism, which we’ll define as follows:
 
-1. **Consequentialism:** one ought always to promote better outcomes.[^11a]
+1. **Consequentialism:** one ought always to promote overall value.
 2. **Welfarism:** the value of an outcome is wholly determined by the well-being of the individuals in it.
 3. **Impartiality:** a given quantity of well-being is equally valuable no matter _whose_ well-being it is.
 4. **Aggregationism**: the value of an outcome is given by the _sum_ value of the lives it contains.[^12]
@@ -151,8 +151,6 @@ The next chapter discusses the four elements of utilitarian theories in greater 
 
 [^11]:
      We use 'happiness' to refer to pleasant conscious experiences. [Chapter 4: Theories of Well-Being](/theories-of-wellbeing/) explores whether well-being may involve more than this.
-
-[^11a]: More precisely, consequentialism claims that you have more reason to perform an action, the better the resulting outcome would be (compared to the available alternatives).
 
 [^12]:
      This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are aggregationist theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](/population-ethics/) in Chapter 5. Further note that non-welfarists might take things other than lives to contribute value to the world, which would then need to be included in the sum. We bracket this possibility for ease of exposition.
