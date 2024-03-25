@@ -4,4 +4,4 @@ title: "An Introduction to Utilitarianism"
 
 Richard Yetter Chappell, Darius Meissner, and William MacAskill
 
-March 18, 2024
+March 25, 2024
