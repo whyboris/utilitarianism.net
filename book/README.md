@@ -17,6 +17,7 @@ The book publisher requested `.docx` files of each chapter. These are the instru
   - this uses _LaTeX_ formatting to generate the subscript (occurs in _Population Ethics_ chapter)
 - String replace `](/img/` with `](./img/` across the codebase
   - e.g. `![Total View](./img/population-ethics-1.png "Total View")`
+- shorten separateness of persons chapter filename to "objections-to-utilitarianism/03-separateness.md" (the longer path results in errors when the pandoc script is run)
 
 ## Notes
 
