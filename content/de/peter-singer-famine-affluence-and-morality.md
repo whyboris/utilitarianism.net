@@ -116,7 +116,7 @@ Ein bemerkenswerter Unterschied zwischen den beiden Fällen besteht darin, dass 
 
 Natürlich wäre es, um langfristig möglichst viele Leben zu retten, wahrscheinlich optimal, strategische Pausen zur Selbstfürsorge einzulegen. Zumindest muss man essen und schlafen. Langfristig könnte man aber auch mehr Leben retten, wenn man darauf achtet, ein Burnout zu vermeiden, indem man zusätzliche Pausen einlegt, um Zeit mit Freunden zu verbringen und stressreduzierenden Hobbys nachzugehen. Wenn dies der Fall ist, sind solche strategischen Pausen nach Singers Prinzipien moralisch gerechtfertigt. (Es ist keine Tugend, in seinem Altruismus kontraproduktiv selbstaufopfernd zu sein.) Dies ist also noch kein Gegenbeispiel zu Singers Ansicht.
 
-Dieser optimale Weg ist jedoch immer noch sehr [fordernd](https://utilitarianism.net/objections-to-utilitarianism/demandingness/), da er mit erheblichen persönlichen Opfern verbunden ist. Man stelle sich vor, man müsste die Familienplanung aufgeben und die Zeit, die man mit Freunden und Hobbys verbringt, auf das zur Aufrechterhaltung der geistigen Gesundheit und Produktivität erforderliche Minimum reduzieren, um möglichst viele Leben zu retten. Das ist eine große Forderung, die den Verlust vieler moralisch bedeutsamer Güter für das eigene Leben bedeutet. Wenn Singers Prinzip von uns verlangen würde, diesen optimalen Weg einzuschlagen, wäre es vielleicht doch nicht so plausibel.
+Dieser optimale Weg ist jedoch immer noch sehr [fordernd](/einwande/sei-zu-fordernd), da er mit erheblichen persönlichen Opfern verbunden ist. Man stelle sich vor, man müsste die Familienplanung aufgeben und die Zeit, die man mit Freunden und Hobbys verbringt, auf das zur Aufrechterhaltung der geistigen Gesundheit und Produktivität erforderliche Minimum reduzieren, um möglichst viele Leben zu retten. Das ist eine große Forderung, die den Verlust vieler moralisch bedeutsamer Güter für das eigene Leben bedeutet. Wenn Singers Prinzip von uns verlangen würde, diesen optimalen Weg einzuschlagen, wäre es vielleicht doch nicht so plausibel.
 
 Aber _verlangt_ es dies? Im Gegensatz zum [Maximierungs-Utilitarismus](/arten-des-utilitarismus/#erwartungs-utilitarismus-versus-objektiver-utilitarismus) verlangt P4 nur, dass wir Dinge aufgeben, die moralisch nicht bedeutsam sind. Da die oben genannten Opfer eindeutig moralisch bedeutsam sind, scheint es, dass sie von der Liste der möglichen Forderungen von P4 ausgeschlossen wären.[^17]
 
@@ -176,7 +176,7 @@ Viel Erfolg! Und immer bedenken: Quellen müssen zitiert werden.
 
 Über die Theorie des Utilitarismus:
 
-[Einführung in den Utilitarismus](https://utilitarianism.net/introduction-to-utilitarianism/)
+[Einführung in den Utilitarismus](/einfuhrung-in-den-utilitarismus)
 
 Mehr darüber erfahren, wie man mit Utilitarismus die Welt verbessern kann:
 

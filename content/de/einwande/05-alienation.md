@@ -59,7 +59,7 @@ Das praktische Problem ist also lösbar. Und es gibt auch keine theoretischen Pr
 
 Es wäre zutiefst entfremdend, wenn eine Moraltheorie die überwältigende Mehrheit unserer gewöhnlichen Motivationen für ungültig erklären würde, einschließlich der moralischen Motivationen, die sich aus der direkten Sorge um bestimmte Personen ergeben. Utilitaristen können versuchen, dieses Schicksal durch einen welktklugen Utilitarismus oder die Subsumtionsstrategie zu vermeiden. Jeder Ansatz hat seine Grenzen. Durch eine geeignete Kombination der beiden Ansätze — das Beharren auf der Subsumtion echter intrinsischer Güter zusammen mit einem weltklugen Ansatz für rein instrumentelle Güter — können Utilitaristen jedoch eine umfassende Antwort auf den Einwand der Entfremdung geben.
 
-(Dieser Artikel befasst sich ausschließlich mit der Besorgnis, dass der Utilitarismus unsere gewöhnlichen Motivationen zu _invalidieren_ scheint. Für die separate Sorge, dass er unsere persönlichen Projekte und Interessen zu leicht _trumpft_, siehe den [Einwand, Utilitarismus sei zu fordernd](https://utilitarianism.net/objections-to-utilitarianism/demandingness/).)
+(Dieser Artikel befasst sich ausschließlich mit der Besorgnis, dass der Utilitarismus unsere gewöhnlichen Motivationen zu _invalidieren_ scheint. Für die separate Sorge, dass er unsere persönlichen Projekte und Interessen zu leicht _trumpft_, siehe den [Einwand, Utilitarismus sei zu fordernd](/einwande/sei-zu-fordernd).)
 
 {{< next-page-objection >}}
 
