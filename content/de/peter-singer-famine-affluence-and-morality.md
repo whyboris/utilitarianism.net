@@ -185,7 +185,7 @@ Mehr darüber erfahren, wie man mit Utilitarismus die Welt verbessern kann:
 ## Ressourcen und weiterführende Lektüre
 
 - Peter Singer (1972). [Famine, Affluence, and Morality](https://www.jstor.org/stable/2265052). _Philosophy and Public Affairs_, 1(3): 229–243.
-- Peter Singer (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. (Ein kostenloses e-Book und Audiobuch der 10-Jahres-Jubiläumsausgabe gibt es auf [www.thelifeyoucansave.org](https://utilitarianism.net/peter-singer-famine-affluence-and-morality/www.thelifeyoucansave.org). Die deutsche Übersetzung gibt es kostenlos als e-Book oder Audiobuch auf [https://effektiv-spenden.org/leben-retten-buch/](https://effektiv-spenden.org/leben-retten-buch/).)
+- Peter Singer (2009). _[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/)_. (Ein kostenloses e-Book und Audiobuch der 10-Jahres-Jubiläumsausgabe gibt es auf [www.thelifeyoucansave.org](https://www.thelifeyoucansave.org). Die deutsche Übersetzung gibt es kostenlos als e-Book oder Audiobuch auf [https://effektiv-spenden.org/leben-retten-buch/](https://effektiv-spenden.org/leben-retten-buch/).)
 - Richard Y. Chappell & Helen Yetter-Chappell (2016). [Virtue and Salience](https://doi.org/10.1080/00048402.2015.1115530). _Australasian Journal of Philosophy_, 94(3): 449–463.
 - Andrew T. Forcehimes & Luke Semrau (2019). [Beneficence: Does Agglomeration Matter?](https://doi.org/10.1111/japp.12276) _Journal of Applied Philosophy_ 36 (1): 17-33.
 - Frances Kamm (1999). Famine Ethics: The Problem of Distance in Morality and Singer’s Ethical Theory, in _Singer and His Critics_, hrsg. von Dale Jamieson, Oxford: Blackwell: 174–203.

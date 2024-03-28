@@ -130,7 +130,7 @@ Zusammenfassend lässt sich sagen, dass der Utilitarismus uns nicht dazu aufford
 
 Als sehr grobe erste Annäherung könnte uns ein plausibles utilitaristisches Entscheidungsverfahren zu diesem Ergebnis führen:[^26]
 
-1. Suche nach allen „niedrig hängenden Früchten“, um [anderen effektiv zu helfen](https://utilitarianism.net/acting-on-utilitarianism) und gleichzeitig Schaden zu vermeiden,
+1. Suche nach allen „niedrig hängenden Früchten“, um [anderen effektiv zu helfen](/utilitarismus-als-handlungsgrundlage) und gleichzeitig Schaden zu vermeiden,
 2. vermittle [Tugenden für real existierende Utilitaristen](https://utilitarianism.net/guest-essays/virtues-for-real-world-utilitarians) (einschließlich des Respekts für vernünftige moralische Normen) und
 3. denke in einem ruhigen Moment darüber nach, wie wir unsere moralischen Anstrengungen besser priorisieren und zuordnen könnten, indem wir beispielsweise Kosten-Nutzen-Analysen von Experten und andere Evidenz einholen, um unser Gesamturteil über den Erwartungswert besser zu untermauern.[^27]
 
