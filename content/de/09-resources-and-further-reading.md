@@ -324,7 +324,7 @@ Ressourcen für [Utilitarismus-nahe Alternativen](/near-utilitarian-alternatives
 
 ## Kapitel 8: Einwände gegen den Utilitarismus und Antworten
 
-Ressourcen für [Einwände gegen den Utilitarismus und Antworten](/objections-to-utilitarianism):
+Ressourcen für [Einwände gegen den Utilitarismus und Antworten](/einwande):
 
 ### Allgemein
 

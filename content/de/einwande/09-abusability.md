@@ -92,7 +92,7 @@ Letzten Endes gibt es jedoch keine Garantie dafür, dass wahre Überzeugungen so
      Insbesondere erscheint es nicht plausibel anzunehmen, dass sie in erster Linie von unparteilicher Wohltätigkeit angetrieben wurden.
 
 [^3]:
-     Das heißt, dass [weniger anspruchsvolle Ansichten](https://utilitarianism.net/objections-to-utilitarianism/demandingness/#attacking-the-alternatives) egoistische Handlungen oder egoistische Untätigkeit rechtfertigen können, wie etwa die Vernachlässigung der Bedürfnisse der ärmsten Menschen der Welt, nichtmenschlicher Tiere und künftiger Generationen. Es lohnt sich also zu prüfen, wie konkurrierende Ansichten mit ihren eigenen Versionen des Einwands der Missbräuchlichkeit abschneiden.
+     Das heißt, dass [weniger anspruchsvolle Ansichten](/einwande/sei-zu-fordernd/#kritik-an-den-alternativen) egoistische Handlungen oder egoistische Untätigkeit rechtfertigen können, wie etwa die Vernachlässigung der Bedürfnisse der ärmsten Menschen der Welt, nichtmenschlicher Tiere und künftiger Generationen. Es lohnt sich also zu prüfen, wie konkurrierende Ansichten mit ihren eigenen Versionen des Einwands der Missbräuchlichkeit abschneiden.
 
 [^4]:
      Aber auch hier ist es interessant, zu überlegen, wie konkurrierende Ansichten mit diesem Einwand umgehen. Viele sind so vage, dass sie viel Raum für eigennützige Interpretationen lassen und daher auch leicht von schlechten Akteuren ausgenutzt werden könnten.
