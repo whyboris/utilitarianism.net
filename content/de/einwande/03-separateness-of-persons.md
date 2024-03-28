@@ -43,7 +43,7 @@ Es scheint, dass Connie hier einen schweren moralischen Fehler begeht. Sie behan
 
 Wie R.Y. Chappell argumentiert, gibt es jedoch kein Hindernis dafür, dass der Utilitarismus Individuen auf diese Weise einen intrinsischen Wert zuweist:[^11]
 
-Es gibt nicht nur eine Sache, das globale Glück, das gut ist. Stattdessen gibt es mein Glück, dein Glück, das von Bob und das von Sally, die alle gleich gewichtig, aber dennoch unterscheidbare intrinsische Güter sind. Das bedeutet, dass der moralisch einwandfreie Akteur eine entsprechende Pluralität von nicht-instrumentellen Wünschen haben sollte: für mein Wohlergehen, für deines, für Bobs und für Sallys. Es können Trade-Offs zwischen uns geschlossen werden, aber sie werden als echte Trade-Offs anerkannt: Obwohl ein Nutzen für den einen einen geringeren Schaden für den anderen _aufwiegen_ kann, wird der Schaden dadurch nicht _aufgehoben_. Er bleibt um dieser Person willen bedauerlich, auch wenn wir letztlich am meisten Grund haben, ihn zu akzeptieren, um einem anderen einen größeren Nutzen zu bringen.
+> Es gibt nicht nur eine Sache, das globale Glück, das gut ist. Stattdessen gibt es mein Glück, dein Glück, das von Bob und das von Sally, die alle gleich gewichtig, aber dennoch unterscheidbare intrinsische Güter sind. Das bedeutet, dass der moralisch einwandfreie Akteur eine entsprechende Pluralität von nicht-instrumentellen Wünschen haben sollte: für mein Wohlergehen, für deines, für Bobs und für Sallys. Es können Trade-Offs zwischen uns geschlossen werden, aber sie werden als echte Trade-Offs anerkannt: Obwohl ein Nutzen für den einen einen geringeren Schaden für den anderen _aufwiegen_ kann, wird der Schaden dadurch nicht _aufgehoben_. Er bleibt um dieser Person willen bedauerlich, auch wenn wir letztlich am meisten Grund haben, ihn zu akzeptieren, um einem anderen einen größeren Nutzen zu bringen.
 
 Nach dieser Auffassung sollte Connie sich nicht gleichgültig, sondern eher _ambivalent_ fühlen — ehrlich hin- und hergerissen, da sie von den widersprüchlichen Interessen der beiden Personen, die ihre Hilfe benötigen, (gleich stark) in verschiedene Richtungen gezogen wird. Auf diese Weise kann eine Utilitaristin vermeiden, Individuen als austauschbar zu behandeln und kann stattdessen deren separaten Wert voll anerkennen und schätzen.
 
@@ -65,7 +65,7 @@ Jones hat im Senderaum eines Fernsehsenders einen Unfall erlitten. Um Jones eine
 
 Intuitiv gesehen spielt es keine Rolle, wie viele Menschen das Fußballspiel verfolgen. Es ist _einfach wichtiger_, Jones in dieser Zeit vor schweren Schmerzen zu bewahren.[^16]
 
-## Die Intuition unterbringen
+### Die Intuition unterbringen
 
 Warum ist es wichtiger, Jones zu retten? Eine Antwort wäre, dass wir verschiedene Interessen nicht zusammenfassen können, so dass nur derjenige individuelle moralische Anspruch erfüllt werden muss, der am stärksten ist, nämlich der von Jones. Doch Parfit schlägt eine alternative — [prioritäre](https://utilitarianism.net/near-utilitarian-alternatives#prioritarianism) — Erklärung vor: Vielleicht sollten wir Jones helfen, weil er viel schlechter dran ist und daher eine höhere moralische Priorität hat.[^17]
 
@@ -75,13 +75,13 @@ Parfit argumentiert, dass sein prioritärer Ansatz Scanlons anti-aggregativem An
 
 Anstatt sich also zu weigern, kleinere Vorteile zu aggregieren, schlägt Parfit vor, dass wir Schaden und Nutzen einfach so abwägen sollten, dass schlechter gestellte Personen Vorrang haben. Zwei verlockende Implikationen dieser Sichtweise sind folgende: (1) Wir sollten im Allgemeinen nicht zulassen, dass eine einzelne Person großen Schaden erleidet, wenn sie dadurch viel schlechter gestellt ist als andere mit konkurrierenden Interessen. (2) Wir sollten jedoch zulassen, dass (genügend) kleine Vorteile für schlechter gestellte Personen (in der Summe) einen einzigen großen Vorteil für eine besser gestellte Person überwiegen. Da wir für Behauptung (2) aggregieren müssen und wir Behauptung (1) gewährleisten können, ohne das Aggregieren ablehnen zu müssen, sieht es so aus, als wäre unseren Intuitionen insgesamt am besten gedient, wenn wir eine aggregative Moraltheorie akzeptieren.
 
-## Die Intuition entkräften
+### Die Intuition entkräften
 
 Unsere Intuition leidet unter einer mangelnden Sensibilität für das Ausmaß von Zuständen, was unsere Unfähigkeit widerspiegelt, große Zahlen wirklich zu erfassen.[^18] Unsere Intuition reagiert nicht sehr unterschiedlich darauf, ob die Zahl der konkurrierenden Interessen eine Million, eine Milliarde oder ein [Googolplex](https://de.wikipedia.org/wiki/Googol#Googolplex) ist. Der tatsächliche Wertunterschied zwischen diesen Zahlen ist jedoch immens. Daher sollten wir unseren Intuitionen nicht trauen, wenn sie diese sehr unterschiedlichen Zahlen als moralisch gleichwertig behandeln. Utilitaristen können daher anti-aggregative Intuitionen als besonders unzuverlässig zurückweisen.
 
 Sogar Prioritaristen müssen trotz der oben beschriebenen Argumente von Parfit letztlich der Utilitaristin folgen und eine ihre Intuition entkräftende Antwort akzeptieren. Bedenken wir: Kritiker könnten darauf bestehen, dass Parfits prioritäre Darstellung unserer anfänglichen Intuition über den Fall des Fernsehstudios nicht vollständig gerecht werden kann. Zugegeben, eine ausreichende Gewichtung seiner Priorität kann erklären, wie das Leiden von Jones die Freude von einer Million oder sogar einer Milliarde besser gestellter Fußballfans überwiegen kann. Aber solange die Gewichtung seiner Priorität endlich ist, wird es _eine_ (vielleicht astronomisch große) Anzahl kleinerer Freuden geben, die theoretisch das Leiden von Jones aufwiegen könnten. An diesem Punkt könnten die Befürworter des Aggregierens diese Implikation einfach akzeptieren und vorbringen, dass jegliches verbleibende intuitive Unbehagen mit dieser Schlussfolgerung am besten als Fehler zu erklären ist, der aus der Vernachlässigung des Ausmaßes resultiert.
 
-## Kritik an den Alternativen
+### Kritik an den Alternativen
 
 Im Gegensatz zum Utilitarismus könnte man versucht sein zu denken, dass einige Vorteile so _trivial_ sind, dass wir sie auf Null abrunden sollten, anstatt zuzulassen, dass eine große Anzahl von ihnen in der Summe etwas moralisch Bedeutsames ergibt. Doch Parfit beweist, dass diese Denkweise ein Fehler ist. Um zu sehen, warum, betrachten wir die folgende, plausibel erscheinende Behauptung:
 

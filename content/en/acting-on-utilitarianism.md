@@ -102,7 +102,10 @@ In the US, only a few tens of millions of philanthropic dollars are donated ever
 
 ### Existential Risk Reduction
 
-> _"Classical Utilitarians... would claim, as Sidgwick did, that the destruction of mankind would be by far the greatest of all conceivable crimes. The badness of this crime would lie in the vast reduction of the possible sum of happiness."_ \- Derek Parfit[^23]
+> _"Classical Utilitarians... would claim, as Sidgwick did, that the destruction of mankind would be by far the greatest of all conceivable crimes. The badness of this crime would lie in the vast reduction of the possible sum of happiness."_
+>
+> — Derek Parfit[^23]
+{ .align-author-right }
 
 Chapter 6: [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#longtermism) introduced _strong longtermism_, according to which the most important determinant of the value of our actions today is how those actions affect the very long-run future. Strong longtermism follows from utilitarianism⁠—and a wide range of other moral viewpoints⁠—if we assume that some of our actions can meaningfully affect the long-run future and that we can estimate which effects are positive and which negative.[^24]
 

@@ -10,8 +10,10 @@ gradientTop: "#1F2A70"
 gradientBottom: "#1F1E70"
 ---
 
-> _"Bernard Williams... concluded a lengthy attack on utilitarianism by remarking: ‘The day cannot be too far off in which we hear no more of it.’ It is now more than forty years since Williams made that comment, but we continue to hear plenty about utilitarianism."_ \
-> \- Katarzyna de Lazari-Radek & [Peter Singer](/utilitarian-thinker/peter-singer)[^1]
+> _"Bernard Williams... concluded a lengthy attack on utilitarianism by remarking: ‘The day cannot be too far off in which we hear no more of it.’ It is now more than forty years since Williams made that comment, but we continue to hear plenty about utilitarianism."_
+>
+> — Katarzyna de Lazari-Radek & [Peter Singer](/utilitarian-thinker/peter-singer)[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 
