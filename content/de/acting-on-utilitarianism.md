@@ -70,7 +70,7 @@ Da einige moralische Probleme weitaus wichtiger als andere sein können, kann di
 > – Derek Parfit[^10]
 {.align-author-right}
 
-Wie im Kapitel [Utilitarismus und Praktische Ethik](https://utilitarianism.net/utilitarianism-and-practical-ethics#cosmopolitanism) erläutert, befürworten Utilitaristen den Kosmopolitismus, demzufolge die geografische Entfernung zwischen einem Akteur und jemandem, dem er helfen kann, nicht an sich moralisch relevant ist. Kosmopolitismus bedeutet, dass wir nach wirksamen Maßnahmen suchen sollten, um anderen zu helfen, unabhängig von ihrer Nationalität, ihrem Wohnort oder ihrer Herkunft.
+Wie im Kapitel [Utilitarismus und Praktische Ethik](/utilitarismus-und-praktische-ethik/#kosmopolitismus-den-moralischen-kreis-geographisch-weiter-fassen) erläutert, befürworten Utilitaristen den Kosmopolitismus, demzufolge die geografische Entfernung zwischen einem Akteur und jemandem, dem er helfen kann, nicht an sich moralisch relevant ist. Kosmopolitismus bedeutet, dass wir nach wirksamen Maßnahmen suchen sollten, um anderen zu helfen, unabhängig von ihrer Nationalität, ihrem Wohnort oder ihrer Herkunft.
 
 Auf dieser Grundlage kann globale Gesundheit und Entwicklung als ein besonders vorrangiges Anliegen für Utilitaristen betrachtet werden.[^11] Bemühungen in diesem Bereich haben eine sehr gute Erfolgsbilanz hinsichtlich der Verbesserung von Leben. Es scheint also, dass es in diesem Handlungsfeld besonders wirksame Interventionen gibt. Während des größten Teils der Menschheitsgeschichte war es die Norm, dass etwa zwei von fünf Kindern vor ihrem fünften Geburtstag starben, größtenteils aufgrund vermeidbarer Ursachen. Dank verbesserter sanitärer Einrichtungen und des Zugangs zu medizinischer Versorgung haben wir seither enorme Fortschritte bei der Bekämpfung der Kindersterblichkeit gemacht, so dass die weltweite Kindersterblichkeitsrate auf nur 3,9 % im Jahr 2020 gesunken ist.[^12]
 
@@ -89,7 +89,7 @@ Andere nachweislich kosteneffiziente Möglichkeiten, den Ärmsten zu helfen, sin
 
 Die Verbesserung des Wohlergehens von Nutztieren sollte für Utilitaristen eine hohe moralische Priorität darstellen. Die Argumentation für diese Schlussfolgerung ist einfach: Erstens: Tiere sind moralisch zu berücksichtigen; zweitens: Menschen fügen Tieren in Massentierhaltungen unnötig viel Leid zu; drittens: Es gibt einfache Möglichkeiten, die Zahl der Nutztiere und das Ausmaß ihres Leidens zu verringern. Wir werden diese Prämissen der Reihe nach durchgehen.
 
-Erstens lehnen Utilitaristen, wie im Kapitel [Utilitarismus und Praktische Ethik](https://utilitarianism.net/utilitarianism-and-practical-ethics#speciesism) erläutert, den Speziesismus ab, also die Diskriminierung derjenigen, die nicht einer bestimmten Spezies angehören. Im Sinne des Utilitarismus sollten wir dem Wohlergehen aller Individuen die gleiche moralische Bedeutung beimessen, unabhängig davon, welcher Spezies sie angehören.[^17]
+Erstens lehnen Utilitaristen, wie im Kapitel [Utilitarismus und Praktische Ethik](/utilitarismus-und-praktische-ethik/#anti-speziesismus-den-moralischen-kreis-f%C3%BCr-andere-spezies-%C3%B6ffnen) erläutert, den Speziesismus ab, also die Diskriminierung derjenigen, die nicht einer bestimmten Spezies angehören. Im Sinne des Utilitarismus sollten wir dem Wohlergehen aller Individuen die gleiche moralische Bedeutung beimessen, unabhängig davon, welcher Spezies sie angehören.[^17]
 
 Zweitens befinden wir uns in einer historisch beispiellosen Situation, in der der Mensch jedes Jahr etwa 70 Milliarden Landtiere zur Nahrungsgewinnung tötet.[^18] Die überwiegende Mehrheit von ihnen verbringt ihr Leben in Betrieben der Massentierhaltung unter entsetzlichen Bedingungen,[^19] zusammengepfercht auf engstem Raum, ohne natürliches Licht oder Reize und mit dem ständigen Risiko, Krankheiten wie geschwächte oder gebrochene Knochen, Infektionen und Organversagen zu entwickeln. Für die meisten endet ihr Leben vorzeitig, sobald sie für den Verzehr geschlachtet werden. Diese leidenden Tiere gehören wahrscheinlich zu den am schlechtesten gestellten Lebewesen auf diesem Planeten.
 
@@ -264,7 +264,7 @@ Um so viel Gutes wie möglich zu tun, spenden Utilitaristen oft Geld an wirksame
      Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (Hrsg.), pp. 143–144.
 
 [^17]:
-     Wie im Kapitel [Utilitarismus und Praktische Ethik](https://utilitarianism.net/utilitarianism-and-practical-ethics#speciesism) erläutert, bedeutet die gleiche moralische Berücksichtigung aller Tiere nicht unbedingt, dass wir sie alle gleich behandeln sollten.
+     Wie im Kapitel [Utilitarismus und Praktische Ethik](/utilitarismus-und-praktische-ethik/#anti-speziesismus-den-moralischen-kreis-f%C3%BCr-andere-spezies-%C3%B6ffnen) erläutert, bedeutet die gleiche moralische Berücksichtigung aller Tiere nicht unbedingt, dass wir sie alle gleich behandeln sollten.
 
 [^18]:
      Sanders, B. (2018). [Global Animal Slaughter Statistics And Charts](https://faunalytics.org/global-animal-slaughter-statistics-and-charts/). _Faunalytics_.
