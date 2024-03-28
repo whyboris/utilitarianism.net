@@ -63,7 +63,7 @@ Welfarismus ist die Ansicht, dass der Wert eines Ergebnisses ausschließlich dur
 
 Welfarismus geht davon aus, dass positives Wohlbefinden das einzige intrinsische Gut und negatives Wohlbefinden das einzige intrinsische Übel ist. Philosophen verwenden den Begriff „Wohlergehen“, um alles zu beschreiben, was _an sich_ gut für jemanden ist, im Gegensatz zu Dingen, die nur _instrumentell_ gut sind. Mit Geld kann man zum Beispiel viele nützliche Dinge kaufen, es ist daher instrumentell gut für einen, aber Geld zu haben konstituiert nicht _an sich_ Wohlergehen.
 
-Verschiedene [Theorien des Wohlergehens](/theorien-uber-wohlergehen) betrachten unterschiedliche Dinge als die grundlegenden Bestandteile des Wohlergehens. Die drei wichtigsten Theorien sind _[Hedonismus](/theorien-uber-wohlergehen#hedonism)_, _[Wunscherfüllungstheorien](/theorien-uber-wohlergehen#desire-theories)_ und _[Objektive-Listen-Theorien](https://utilitarianism.net/theories-of-wellbeing#objective-list-theories)_.
+Verschiedene [Theorien des Wohlergehens](/theorien-uber-wohlergehen) betrachten unterschiedliche Dinge als die grundlegenden Bestandteile des Wohlergehens. Die drei wichtigsten Theorien sind _[Hedonismus](/theorien-uber-wohlergehen#hedonism)_, _[Wunscherfüllungstheorien](/theorien-uber-wohlergehen#desire-theories)_ und _[Objektive-Listen-Theorien](/theorien-uber-wohlergehen/#objektive-listen-theorien)_.
 
 Während jede plausible Ansicht anerkennt, dass das Wohlbefinden wichtig ist, lehnen einige Philosophen den Welfarismus ab, indem sie behaupten, dass andere Dinge zusätzlich wichtig sind. Egalitaristen sind beispielsweise der Ansicht, dass Ungleichheit an sich schlecht ist, auch wenn sie einigen nützt und niemandem schadet. Andere wiederum sind der Meinung, dass neben dem Wohlbefinden auch ökologische und ästhetische Werte berücksichtigt werden müssen. Welfaristen behaupten, dass diese anderen Dinge nur insofern von Bedeutung sind, als sie zu jemandes Wohlergehen beitragen.
 
@@ -97,11 +97,11 @@ Die älteste und bekannteste utilitaristische Theorie ist der _klassische Utilit
 
 Klassischer Utilitarismus ist die Ansicht, dass man stets die Summe von Freude minus Leid vergrößern sollte.
 
-Klassischer Utilitarismus unterscheidet sich von der breiteren Familie utilitaristischer Ansichten, weil er zwei zusätzliche Elemente akzeptiert: erstens den _[Hedonismus](https://utilitarianism.net/theories-of-wellbeing#hedonism)_: die Ansicht, dass das Wohlergehen nur aus bewussten Erfahrungen besteht, und zweitens die _[Gesamtansicht](/populationsethik#the-total-view)_ in der Populationsethik, nach der ein Ergebnis dann und nur dann besser ist als ein anderes, wenn es eine größere Gesamtsumme von Wohlergehen beinhaltet, wobei Wohlergehen entweder dadurch gesteigert werden kann, dass es existierenden Menschen besser geht oder dadurch, dass neue Menschen mit guten Leben geschaffen werden.
+Klassischer Utilitarismus unterscheidet sich von der breiteren Familie utilitaristischer Ansichten, weil er zwei zusätzliche Elemente akzeptiert: erstens den _[Hedonismus](/theorien-uber-wohlergehen/#hedonismus)_: die Ansicht, dass das Wohlergehen nur aus bewussten Erfahrungen besteht, und zweitens die _[Gesamtansicht](/populationsethik#the-total-view)_ in der Populationsethik, nach der ein Ergebnis dann und nur dann besser ist als ein anderes, wenn es eine größere Gesamtsumme von Wohlergehen beinhaltet, wobei Wohlergehen entweder dadurch gesteigert werden kann, dass es existierenden Menschen besser geht oder dadurch, dass neue Menschen mit guten Leben geschaffen werden.
 
 ### Theorien über Wohlergehen: Hedonismus
 
-→ _Hauptartikel: [Theorien über Wohlergehen](https://utilitarianism.net/theories-of-wellbeing)_
+→ _Hauptartikel: [Theorien über Wohlergehen](/theorien-uber-wohlergehen)_
 
 Klassischer Utilitarismus akzeptiert _Hedonismus_, den wir wie folgt definieren können, als Theorie des Wohlergehens:
 
@@ -109,7 +109,7 @@ Hedonismus ist die Ansicht, dass Wohlergehen nur auf der Summe von positiven min
 
 Ethische Hedonisten glauben, dass das Einzige, das an sich gut ist, das Erfahren positiver Bewusstseinszustände, wie Genuss und Vergnügen, ist und dass das Einzige, das an sich schlecht ist, das Erfahren negativer Bewusstseinszustände, wie Elend und Schmerz, ist. _Freude_ und _Leid_ werden von Philosophen üblicherweise als Abkürzung für die Begriffe _positive bewusste Erfahrung_ beziehungsweise _negative bewusste Erfahrung_ verwendet.
 
-Wir erörtern die Argumente für und gegen den Hedonismus — und seine beiden Hauptkonkurrenten, _Wunscherfüllungstheorien_ und _Objektive-Listen-Theorien_ — im Kapitel [Theorien über Wohlergehen](https://utilitarianism.net/theories-of-wellbeing).
+Wir erörtern die Argumente für und gegen den Hedonismus — und seine beiden Hauptkonkurrenten, _Wunscherfüllungstheorien_ und _Objektive-Listen-Theorien_ — im Kapitel [Theorien über Wohlergehen](/theorien-uber-wohlergehen).
 
 ### Populationsethik: die Gesamtansicht
 
