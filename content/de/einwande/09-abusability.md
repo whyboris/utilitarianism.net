@@ -35,7 +35,7 @@ Der Utilitarismus impliziert, dass sich eine Handlung lohnt, wenn sie _wirklich_
 
 Wie in [Kapitel 6: Utilitarismus und Praktische Ethik](/utilitarismus-und-praktische-ethik/#respektieren-vern%C3%BCnftiger-moralischer-normen) erläutert, könnte ein plausibles utilitaristisches Entscheidungsverfahren uns anleiten:
 
-1. nach allen „niedrig hängenden Früchten“ zu suchen, um [anderen effektiv zu helfen](https://utilitarianism.net/acting-on-utilitarianism) und gleichzeitig Schaden zu vermeiden,
+1. nach allen „niedrig hängenden Früchten“ zu suchen, um [anderen effektiv zu helfen](/utilitarismus-als-handlungsgrundlage) und gleichzeitig Schaden zu vermeiden,
 2. [Tugenden für real existierende Utilitaristen](https://utilitarianism.net/guest-essays/virtues-for-real-world-utilitarians) zu kultivieren (einschließlich des Respekts für gemeinhin akzeptierte moralische Normen) und
 3. in einem ruhigen Moment darüber nachzudenken, wie wir unsere moralischen Bemühungen besser priorisieren und allokieren können, indem wir zum Beispiel Kosten-Nutzen-Analysen von Experten und andere Evidenz einholen, um unser Gesamturteil über den Erwartungswert besser zu untermauern.
 

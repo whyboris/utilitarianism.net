@@ -58,11 +58,11 @@ Alle ethischen Theorien der Utilitarismus-Familie haben vier definierende Elemen
 2. **Welfarismus:** Der Wert eines Ergebnisses wird ausschließlich durch das Wohlergehen der daran beteiligten Individuen bestimmt.
 3. **Unparteilichkeit:** Ein bestimmtes Maß an Wohlbefinden ist gleich wertvoll, unabhängig davon, _wessen_ Wohlbefinden es ist.
 4. **Aggregationismus:** Der Wert eines Ergebnisses wird durch den _Gesamtwert_ der darin enthaltenen Leben bestimmt.[^12]
-[Gegenspieler des Utilitarismus](https://utilitarianism.net/near-utilitarian-alternatives) sind Theorien, die eines oder mehrere der oben genannten vier Elemente leugnen. Sie vertreten beispielsweise die Auffassung, dass Handlungen unabhängig von ihren Folgen von Natur aus richtig oder falsch sein können, oder dass andere Dinge als Wohlbefinden zum Wert eines Ergebnisses beitragen können, oder dass es uns ethisch erlaubt ist, gegenüber unseren Freunden und Familien parteiisch zu sein, oder dass wir das tun sollten, was dem am schlechtesten gestellten Mitglied der Gesellschaft am meisten nützt.
+[Gegenspieler des Utilitarismus](/utilitarismus-nahe-alternativen) sind Theorien, die eines oder mehrere der oben genannten vier Elemente leugnen. Sie vertreten beispielsweise die Auffassung, dass Handlungen unabhängig von ihren Folgen von Natur aus richtig oder falsch sein können, oder dass andere Dinge als Wohlbefinden zum Wert eines Ergebnisses beitragen können, oder dass es uns ethisch erlaubt ist, gegenüber unseren Freunden und Familien parteiisch zu sein, oder dass wir das tun sollten, was dem am schlechtesten gestellten Mitglied der Gesellschaft am meisten nützt.
 
 ## Fahrplan
 
-In [Kapitel 2: Elemente und Arten des Utilitarismus](https://utilitarianism.net/types-of-utilitarianism) werden die vier Elemente des Utilitarismus sowie weitere theoretische Unterscheidungen vertieft.
+In [Kapitel 2: Elemente und Arten des Utilitarismus](/arten-des-utilitarismus) werden die vier Elemente des Utilitarismus sowie weitere theoretische Unterscheidungen vertieft.
 
 In [Kapitel 3](/argumente-fur-utilitarismus) wird das reflexive Gleichgewicht als moralische Methodik erläutert und es werden mehrere Argumente für Utilitarismus (und ähnliche konsequentialistische Ansichten) gegenüber konkurrierenden ethischen Ansätzen vorgestellt. Dazu gehören Diskussionen über den Schleier des Nichtwissens, den sich ausweitenden moralischen Kreis und das Argument, dass Utilitarismus eine besonders überzeugende Darstellung dessen bietet, _was grundsätzlich wichtig ist_. In diesem Kapitel werden auch das Paradoxon der Deontologie, evolutionäre Entlarvungsargumente und andere Einwände gegen nicht-konsequentialistische Ethiken erläutert.
 

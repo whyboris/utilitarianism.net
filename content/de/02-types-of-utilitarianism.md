@@ -14,7 +14,7 @@ gradientBottom: "#012147"
 
 ## Einführung
 
-Wie in [Kapitel 1: Einführung in den Utilitarismus](https://utilitarianism.net/introduction-to-utilitarianism) erläutert, besteht der Kerngedanke des Utilitarismus darin, dass wir das Wohlergehen eines jeden Menschen so weit wie möglich verbessern wollen sollten. Utilitaristische Theorien weisen vier gemeinsame Elemente auf: Konsequentialismus, Welfarismus, Unparteilichkeit und Aggregationismus. Der klassische Utilitarismus zeichnet sich durch das Akzeptieren zweier zusätzlicher Elemente aus: erstens des Hedonismus als [Theorie des Wohlergehens](https://utilitarianism.net/theories-of-wellbeing) und zweitens der Gesamtansicht in der [Populationsethik](https://utilitarianism.net/population-ethics). Es gibt mehrere weitere wichtige Unterschiede zwischen verschiedenen utilitaristischen Theorien: Wir können unterscheiden zwischen skalarem und maximierendem oder Satisfaktions-Utilitarismus, zwischen Erwartungs-Utilitarismus und objektivem Utilitarismus, zwischen mehrstufigem und einstufigem Utilitarismus und zwischen globalem und hybridem Utilitarismus.
+Wie in [Kapitel 1: Einführung in den Utilitarismus](/einfuhrung-in-den-utilitarismus) erläutert, besteht der Kerngedanke des Utilitarismus darin, dass wir das Wohlergehen eines jeden Menschen so weit wie möglich verbessern wollen sollten. Utilitaristische Theorien weisen vier gemeinsame Elemente auf: Konsequentialismus, Welfarismus, Unparteilichkeit und Aggregationismus. Der klassische Utilitarismus zeichnet sich durch das Akzeptieren zweier zusätzlicher Elemente aus: erstens des Hedonismus als [Theorie des Wohlergehens](https://utilitarianism.net/theories-of-wellbeing) und zweitens der Gesamtansicht in der [Populationsethik](/populationsethik). Es gibt mehrere weitere wichtige Unterschiede zwischen verschiedenen utilitaristischen Theorien: Wir können unterscheiden zwischen skalarem und maximierendem oder Satisfaktions-Utilitarismus, zwischen Erwartungs-Utilitarismus und objektivem Utilitarismus, zwischen mehrstufigem und einstufigem Utilitarismus und zwischen globalem und hybridem Utilitarismus.
 
 ## Die Definition von Utilitarismus
 
@@ -97,7 +97,7 @@ Die älteste und bekannteste utilitaristische Theorie ist der _klassische Utilit
 
 Klassischer Utilitarismus ist die Ansicht, dass man stets die Summe von Freude minus Leid vergrößern sollte.
 
-Klassischer Utilitarismus unterscheidet sich von der breiteren Familie utilitaristischer Ansichten, weil er zwei zusätzliche Elemente akzeptiert: erstens den _[Hedonismus](https://utilitarianism.net/theories-of-wellbeing#hedonism)_: die Ansicht, dass das Wohlergehen nur aus bewussten Erfahrungen besteht, und zweitens die _[Gesamtansicht](https://utilitarianism.net/population-ethics#the-total-view)_ in der Populationsethik, nach der ein Ergebnis dann und nur dann besser ist als ein anderes, wenn es eine größere Gesamtsumme von Wohlergehen beinhaltet, wobei Wohlergehen entweder dadurch gesteigert werden kann, dass es existierenden Menschen besser geht oder dadurch, dass neue Menschen mit guten Leben geschaffen werden.
+Klassischer Utilitarismus unterscheidet sich von der breiteren Familie utilitaristischer Ansichten, weil er zwei zusätzliche Elemente akzeptiert: erstens den _[Hedonismus](https://utilitarianism.net/theories-of-wellbeing#hedonism)_: die Ansicht, dass das Wohlergehen nur aus bewussten Erfahrungen besteht, und zweitens die _[Gesamtansicht](/populationsethik#the-total-view)_ in der Populationsethik, nach der ein Ergebnis dann und nur dann besser ist als ein anderes, wenn es eine größere Gesamtsumme von Wohlergehen beinhaltet, wobei Wohlergehen entweder dadurch gesteigert werden kann, dass es existierenden Menschen besser geht oder dadurch, dass neue Menschen mit guten Leben geschaffen werden.
 
 ### Theorien über Wohlergehen: Hedonismus
 
@@ -113,7 +113,7 @@ Wir erörtern die Argumente für und gegen den Hedonismus — und seine beiden H
 
 ### Populationsethik: die Gesamtansicht
 
-→ _Hauptartikel: [Populationsethik](https://utilitarianism.net/population-ethics)_
+→ _Hauptartikel: [Populationsethik](/populationsethik)_
 
 Klassischer Utilitarismus geht von einer populationsethischen Theorie aus, die wir _Gesamtansicht_ nennen können und die besagt:
 
@@ -123,7 +123,7 @@ Die Gesamtansicht impliziert, dass wir die Welt auf zwei Arten verbessern könne
 
 Die wichtigste praktische Implikation der Gesamtansicht besteht darin, dass der Sicherung des langfristigen Gedeihens der Zivilisation [große Bedeutung beigemessen](/utilitarismus-und-praktische-ethik/#longtermism-den-moralischen-kreis-zeitlich-weiter-fassen) wird. Da das Gesamtwohl, das alle zukünftigen Menschen genießen können, potenziell enorm ist, ist das [Mitigieren existenzieller Risiken](/utilitarismus-als-handlungsgrundlage/#reduktion-existenzieller-risiken) — die diesen immensen zukünftigen Wert zu zerstören drohen — eine der wichtigsten moralischen Aufgaben der Menschheit.
 
-Zu den Alternativen zur Gesamtansicht in der Populationsethik gehören die _Durchschnitts-Betrachtung_, _Theorien über variable Werte_, _Theorien über kritische Werte (und Spannen)_ und _personenbezogene Theorien_. Wir erläutern und diskutieren diese Theorien im Kapitel über [Populationsethik](https://utilitarianism.net/population-ethics).
+Zu den Alternativen zur Gesamtansicht in der Populationsethik gehören die _Durchschnitts-Betrachtung_, _Theorien über variable Werte_, _Theorien über kritische Werte (und Spannen)_ und _personenbezogene Theorien_. Wir erläutern und diskutieren diese Theorien im Kapitel über [Populationsethik](/populationsethik).
 
 ## Weitere Unterscheidungen zwischen utilitaristischen Theorien
 

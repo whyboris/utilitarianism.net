@@ -180,7 +180,7 @@ Viel Erfolg! Und immer bedenken: Quellen müssen zitiert werden.
 
 Mehr darüber erfahren, wie man mit Utilitarismus die Welt verbessern kann:
 
-[Utilitarismus als Handlungsgrundlage](https://utilitarianism.net/acting-on-utilitarianism)
+[Utilitarismus als Handlungsgrundlage](/utilitarismus-als-handlungsgrundlage)
 
 ## Ressourcen und weiterführende Lektüre
 
