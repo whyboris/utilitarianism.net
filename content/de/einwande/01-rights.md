@@ -25,7 +25,7 @@ Manchmal erfordert die Verwirklichung der besten Konsequenzen die Verletzung mor
 
 Auf den ersten Blick scheint es, dass der Utilitarismus die Frage mit „Ja, der Arzt sollte Chuck töten“ beantworten muss. Es ist besser, wenn fünf Menschen überleben, als wenn nur einer überlebt. Aber laut gemeinhin akzeptierten Moralvorstellungen und praktisch jeder anderen Moraltheorie lautet die Antwort „Nein, töte Chuck nicht“. Ihn zu töten würde weithin als moralische Ungeheuerlichkeit angesehen werden. Der Utilitarismus scheint die seltene Ausnahme zu sein, die etwas anderes behauptet. Diese offensichtliche Folgerung wird oft als Argument gegen den Utilitarismus als korrekte Moraltheorie herangezogen.
 
-Befürworter des Utilitarismus können [auf diesen Einwand auf vier Arten reagieren](https://utilitarianism.net/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). Wir werden sie der Reihe nach durchgehen.
+Befürworter des Utilitarismus können [auf diesen Einwand auf vier Arten reagieren](/einwande/#generelle-m%C3%B6glichkeiten-auf-einw%C3%A4nde-gegen-den-utilitarismus-zu-reagieren). Wir werden sie der Reihe nach durchgehen.
 
 ## Der Intuition Rechnung tragen
 

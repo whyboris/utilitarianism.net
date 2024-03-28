@@ -25,7 +25,7 @@ Im Sinne des Utilitarismus bestimmt nur die Gesamtsumme des Wohlergehens die Gü
 
 Einige Philosophen widersprechen der utilitaristischen Sichtweise in Bezug auf diese Wahl und behaupten, dass die gleichmäßige Verteilung von Wohlergehen ein Grund ist, dieses Ergebnis zu wählen. Nach dieser Auffassung kommt es nicht nur auf die Gesamtsumme von Wohlergehen an, sondern auch auf die Gleichheit in der Verteilung. Eine gleichmäßigere Verteilung, so die Behauptung, ist ein wichtiger moralischer Faktor, die der Utilitarist übersehe.
 
-Befürworter des Utilitarismus können auf diesen [Einwand auf vier Arten reagieren](https://utilitarianism.net/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). Wir werden diese der Reihe nach durchgehen.
+Befürworter des Utilitarismus können auf diesen [Einwand auf vier Arten reagieren](/einwande/#generelle-m%C3%B6glichkeiten-auf-einw%C3%A4nde-gegen-den-utilitarismus-zu-reagieren). Wir werden diese der Reihe nach durchgehen.
 
 ## Die Intuition unterbringen
 

@@ -28,7 +28,7 @@ Nur sehr wenige Menschen, einschließlich utilitaristischer Philosophen, leben i
 
 Für viele Menschen erscheinen diese extremen Verpflichtungen des Utilitarismus auf den ersten Blick absurd. Der gesunde Menschenverstand suggeriert, dass es uns erlaubt ist, den größten Teil unseres Einkommens für uns selbst, für unsere Lieben und für unsere persönlichen Projekte auszugeben. Nächstenliebe ist nach dem gesunden Menschenverstand zwar gut und lobenswert, aber nicht verpflichtend.
 
-Befürworter des Utilitarismus können [auf diesen Einwand auf vier Arten reagieren](https://utilitarianism.net/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). Wir werden sie der Reihe nach durchgehen.
+Befürworter des Utilitarismus können [auf diesen Einwand auf vier Arten reagieren](/einwande/#generelle-m%C3%B6glichkeiten-auf-einw%C3%A4nde-gegen-den-utilitarismus-zu-reagieren). Wir werden sie der Reihe nach durchgehen.
 
 ## Die Intuition unterbringen
 
