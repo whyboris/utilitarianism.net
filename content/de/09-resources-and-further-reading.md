@@ -134,7 +134,7 @@ Ressourcen für [Argumente für Utilitarismus](/arguments-for-utilitarianism):
 
 ## Kapitel 4: Theorien über Wohlergehen
 
-Ressourcen für [Theorien über Wohlergehen](/theories-of-wellbeing):
+Ressourcen für [Theorien über Wohlergehen](/theorien-uber-wohlergehen):
 
 ### Einführung
 

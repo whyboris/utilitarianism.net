@@ -31,7 +31,7 @@ I shall concentrate on the current emissions of carbon dioxide. Carbon dioxide i
 
 ## The social cost of carbon
 
-I start with the effects of carbon dioxide emissions. We need to know how much benefit—measured in utilitarian terms—is to be gained by reducing these emissions. We can ask specifically how much a one-tonne reduction in emissions would add to the total [well-being](/theories-of-wellbeing) of the world.
+I start with the effects of carbon dioxide emissions. We need to know how much benefit—measured in utilitarian terms—is to be gained by reducing these emissions. We can ask specifically how much a one-tonne reduction in emissions would add to the total [well-being](/theories-of-well-being) of the world.
 
 It will be useful to have a concrete, quantitative answer to this question. Only that way can we compare action on climate change with other actions from a utilitarian point of view, to [determine their relative priorities](/acting-on-utilitarianism#cause-prioritization). Given the state of our empirical knowledge, a quantitative answer can at best be very rough. But we do at least have a place to start from. For some decades, economists have been trying to answer the question, and we can benefit from their work.
 

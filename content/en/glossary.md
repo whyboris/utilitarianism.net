@@ -114,7 +114,7 @@ To give better, one can follow the recommendations from organizations such as [G
 
 _→ Main article:_ [_Classical utilitarianism_](/types-of-utilitarianism#the-two-elements-of-classical-utilitarianism)
 
-Classical utilitarianism is the view that one morally ought to promote just the sum total of happiness over suffering. Classical utilitarianism can be distinguished from the wider utilitarian family of views because it accepts [_hedonism_](/theories-of-wellbeing#hedonism) as a theory of well-being and [_the total view_](/population-ethics#the-total-view) of population ethics.
+Classical utilitarianism is the view that one morally ought to promote just the sum total of happiness over suffering. Classical utilitarianism can be distinguished from the wider utilitarian family of views because it accepts [_hedonism_](/theories-of-well-being/#hedonism) as a theory of well-being and [_the total view_](/population-ethics#the-total-view) of population ethics.
 
 </details>
 
@@ -188,11 +188,11 @@ _External links:_ [Deontological Ethics](https://plato.stanford.edu/entries/ethi
 <details>
 <summary>Desire theories of well-being<span class="icon"></span></summary>
 
-_→ Main article:_ [_Theories of well-being: Desire theories_](/theories-of-wellbeing#desire-theories)
+_→ Main article:_ [_Theories of well-being: Desire theories_](/theories-of-well-being/#desire-theories)
 
 According to desire theories only the satisfaction of desires or preferences matters for an individual’s well-being. The most well known desire theory is preference utilitarianism, the ethical theory on which you ought to promote just the sum total of preference satisfaction over dissatisfaction.
 
-The alternatives to desire theories include [_hedonism_](/theories-of-wellbeing#hedonism), according to which the individual’s conscious experiences determines their well-being, and [_objective list theories_](/theories-of-wellbeing#objective-list-theories), which propose a list of items that constitute well-being, such as conscious experiences, art, knowledge, love, friendship, and more.
+The alternatives to desire theories include [_hedonism_](/theories-of-well-being/#hedonism), according to which the individual’s conscious experiences determines their well-being, and [_objective list theories_](/theories-of-well-being/#objective-list-theories), which propose a list of items that constitute well-being, such as conscious experiences, art, knowledge, love, friendship, and more.
 
 </details>
 
@@ -345,7 +345,7 @@ Global utilitarianism assesses the moral nature of, for example, a particular ch
 <details>
 <summary>Happiness and suffering<span class="icon"></span></summary>
 
-_→ Main article:_ [_Theories of well-being: hedonism_](/theories-of-wellbeing#hedonism)
+_→ Main article:_ [_Theories of well-being: hedonism_](/theories-of-well-being/#hedonism)
 
 Philosophers commonly use _happiness_ and _suffering_ as shorthand for the terms _positive conscious experience_ and _negative conscious experience,_ respectively. According to ethical hedonists, happiness is the only thing good in and of itself and suffering is the only thing bad in and of itself. The hedonistic conception of happiness is broad: It covers not only paradigmatic instances of sensual pleasure—such as the experiences of eating delicious food or having sex—but also other positively valenced experiences, such as the experiences of solving a problem, reading a novel, or helping a friend.
 
@@ -372,13 +372,13 @@ However, Bentham was realistic about the limitations of this method, writing tha
 <details>
 <summary>Hedonism (theories of well-being)<span class="icon"></span></summary>
 
-_→ Main article:_ [_Theories of well-being: hedonism_](/theories-of-wellbeing#hedonism)
+_→ Main article:_ [_Theories of well-being: hedonism_](/theories-of-well-being/#hedonism)
 
 Hedonism is the view that well-being consists in, and only in, the balance of positive over negative conscious experiences. For hedonism the only things good in and of themselves are the experiences of positive conscious states, such as enjoyment and pleasure; and the only things bad in and of themselves are the experiences of negative conscious states, such as misery and pain.
 
 The hedonistic conception of happiness is broad: It covers not only paradigmatic instances of sensual pleasure—such as the experiences of eating delicious food or having sex—but also other positively valenced experiences, such as the experiences of solving a problem, reading a novel, or helping a friend. Hedonists claim that all these experiences are _intrinsically_ valuable, which means they are valuable in and of themselves. Other goods, such as wealth, health, justice, fairness and equality are also valued by hedonists, but they are valued _instrumentally_. This means they are valued to the extent that they affect the conscious experience of individuals, rather than being valued in and of themselves.
 
-The two main alternatives to hedonism are [_desire theories_](/theories-of-wellbeing#desire-theories), according to which only the satisfaction of desires or preferences matters for an individual’s well-being, and [_objective list theories_](/theories-of-wellbeing#objective-list-theories), which propose a list of items that constitute well-being. This list can include conscious experiences or satisfied preferences, but it rarely stops there; ethicists commonly argue that the objective list includes art, knowledge, love, friendship, and more.
+The two main alternatives to hedonism are [_desire theories_](/theories-of-well-being/#desire-theories), according to which only the satisfaction of desires or preferences matters for an individual’s well-being, and [_objective list theories_](/theories-of-well-being/#objective-list-theories), which propose a list of items that constitute well-being. This list can include conscious experiences or satisfied preferences, but it rarely stops there; ethicists commonly argue that the objective list includes art, knowledge, love, friendship, and more.
 
 </details>
 
@@ -514,11 +514,11 @@ _External links:_
 <details>
 <summary>Objective list theories of well-being<span class="icon"></span></summary>
 
-_→ Main article:_ [_Objective list theories of well-being_](/theories-of-wellbeing#objective-list-theories)
+_→ Main article:_ [_Objective list theories of well-being_](/theories-of-well-being/#objective-list-theories)
 
 Objective list theories propose a list of items that constitute well-being. This list can include conscious experiences or satisfied preferences, but it rarely stops there; ethicists commonly argue that the objective list includes art, knowledge, love, friendship, and more.
 
-The main alternatives to objective list theories include [_hedonism_](/theories-of-wellbeing#hedonism), the view that well-being consists in, and only in, the balance of positive over negative conscious experiences, and [_desire theories_](/theories-of-wellbeing#desire-theories), according to which only the satisfaction of desires or preferences matters for an individual’s well-being.
+The main alternatives to objective list theories include [_hedonism_](/theories-of-well-being/#hedonism), the view that well-being consists in, and only in, the balance of positive over negative conscious experiences, and [_desire theories_](/theories-of-well-being/#desire-theories), according to which only the satisfaction of desires or preferences matters for an individual’s well-being.
 
 </details>
 
@@ -568,9 +568,9 @@ _External links:_
 <details>
 <summary>Preference utilitarianism<span class="icon"></span></summary>
 
-_→ Main article:_ [_Theories of well-being_](/theories-of-wellbeing)
+_→ Main article:_ [_Theories of well-being_](/theories-of-well-being)
 
-Preference utilitarianism is the ethical theory on which one ought to promote just the sum total of preference satisfaction over dissatisfaction. In addition to the [four elements](/types-of-utilitarianism#the-four-elements-of-utilitarianism) shared by all utilitarian ethical theories, preference utilitarianism accepts a [desire theory of well-being](/theories-of-wellbeing#desire-theories), according to which only the satisfaction of desires or preferences matters for an individual’s well-being.
+Preference utilitarianism is the ethical theory on which one ought to promote just the sum total of preference satisfaction over dissatisfaction. In addition to the [four elements](/types-of-utilitarianism#the-four-elements-of-utilitarianism) shared by all utilitarian ethical theories, preference utilitarianism accepts a [desire theory of well-being](/theories-of-well-being/#desire-theories), according to which only the satisfaction of desires or preferences matters for an individual’s well-being.
 
 Other utilitarians may accept a different theory of well-being, such as hedonism or objective list theory.
 
@@ -808,7 +808,7 @@ Welfarism is the view that only the _welfare_ (also called _well-being_) of indi
 
 Welfarism is one of the [four elements of utilitarian ethical theories](/types-of-utilitarianism#the-four-elements-of-utilitarianism).
 
-There are various types of welfarism, each of which regards different things as the constituents of well-being. The three most prevalent welfarist theories are [_hedonism_](/theories-of-wellbeing#hedonism), [_desire theories_](/theories-of-wellbeing#desire-theories), and [_objective list theories_](/theories-of-wellbeing#objective-list-theories).
+There are various types of welfarism, each of which regards different things as the constituents of well-being. The three most prevalent welfarist theories are [_hedonism_](/theories-of-well-being/#hedonism), [_desire theories_](/theories-of-well-being/#desire-theories), and [_objective list theories_](/theories-of-well-being/#objective-list-theories).
 
 _External links:_ [Welfarism](https://plato.stanford.edu/entries/well-being/#Wel), The Stanford Encyclopedia of Philosophy
 
@@ -817,7 +817,7 @@ _External links:_ [Welfarism](https://plato.stanford.edu/entries/well-being/#Wel
 <details>
 <summary>Well-being / Welfare<span class="icon"></span></summary>
 
-_→ Main article:_ [_Theories of Well-Being_](/theories-of-wellbeing)
+_→ Main article:_ [_Theories of Well-Being_](/theories-of-well-being)
 
 Philosophers use the term well-being to describe everything that is good for a person in itself, as opposed to things only instrumentally good for a person. For example, money can buy many useful things and is thus good for a person instrumentally, but it is not a component of their well-being.
 

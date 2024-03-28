@@ -67,7 +67,7 @@ We cover the four elements of utilitarianism in greater depth, along with furthe
 
 [Chapter 3](/arguments-for-utilitarianism/) explains reflective equilibrium as a moral methodology, and presents several arguments for utilitarianism (and similar consequentialist views) over competing approaches to ethics. This includes discussion of the veil of ignorance, the expanding moral circle, and the argument that utilitarianism offers an especially compelling account of _what fundamentally matters_. This chapter also explains the paradox of deontology, evolutionary debunking arguments, and other objections to non-consequentialist ethics.
 
-Specific [theories of well-being](/theories-of-wellbeing/) and of [population ethics](/population-ethics/) are explored in Chapters 4 and 5, respectively. While utilitarianism is often associated with _hedonism_ about well-being and the _total view_ of population ethics (a combination known as _classical utilitarianism_), there are other options that are also worth considering. It’s especially worth bearing in mind that objections to hedonism or to the total view may yet leave other forms of utilitarianism untouched. (Note that the chapter on population ethics is the most difficult and technical of the book, and some readers may prefer to skip it.)
+Specific [theories of well-being](/theories-of-well-being/) and of [population ethics](/population-ethics/) are explored in Chapters 4 and 5, respectively. While utilitarianism is often associated with _hedonism_ about well-being and the _total view_ of population ethics (a combination known as _classical utilitarianism_), there are other options that are also worth considering. It’s especially worth bearing in mind that objections to hedonism or to the total view may yet leave other forms of utilitarianism untouched. (Note that the chapter on population ethics is the most difficult and technical of the book, and some readers may prefer to skip it.)
 
 [Chapter 6](/utilitarianism-and-practical-ethics/) and our supplemental article [Acting on Utilitarianism](/acting-on-utilitarianism/) explore the practical applications of utilitarianism, and its implications for how we should live our lives. We argue that, in practice, a utilitarian should try to do as much good as possible whilst still abiding by commonsense moral virtues like integrity, trustworthiness, and law-abidingness, in order to advance social cooperation and mitigate the downside risk of miscalculation.
 
@@ -147,10 +147,10 @@ The next chapter discusses the four elements of utilitarian theories in greater 
 [^9]: This is most clear-cut in a fixed-population setting, where one’s actions do not affect the number or identity of people. For more complex cases, see the discussion of [population ethics](/population-ethics/) in Chapter 5.
 
 [^10]:
-     However, when economists use the term “[utility](https://en.wikipedia.org/wiki/Utility)” they typically refer, instead, to the numerical representation of an [individual’s preferences](/theories-of-wellbeing/#desire-theories).
+     However, when economists use the term “[utility](https://en.wikipedia.org/wiki/Utility)” they typically refer, instead, to the numerical representation of an [individual’s preferences](/theories-of-well-being/#desire-theories).
 
 [^11]:
-     We use 'happiness' to refer to pleasant conscious experiences. [Chapter 4: Theories of Well-Being](/theories-of-wellbeing/) explores whether well-being may involve more than this.
+     We use 'happiness' to refer to pleasant conscious experiences. [Chapter 4: Theories of Well-Being](/theories-of-well-being/) explores whether well-being may involve more than this.
 
 [^12]:
      This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are aggregationist theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](/population-ethics/) in Chapter 5. Further note that non-welfarists might take things other than lives to contribute value to the world, which would then need to be included in the sum. We bracket this possibility for ease of exposition.

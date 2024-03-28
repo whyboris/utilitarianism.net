@@ -150,7 +150,7 @@ Diese Sorge könnte uns zu einer _hybriden_ Sichtweise bewegen, nach der Wohlerg
 
 Hedonismus, Wunscherfüllungstheorien und Objektive-Listen-Theorien über Wohlergehen überschneiden sich in der Praxis weitgehend. Das liegt daran, dass wir dazu neigen, Dinge zu begehren, die (in der Regel) als objektiv lohnenswert angesehen werden, und wir in der Regel glücklicher sind, wenn wir erreichen, was wir uns wünschen. Wir neigen auch dazu, unsere Wünsche auf der Grundlage unserer Erfahrungen davon, was sich gut anfühlt, umzugestalten. Folglich könnten die Verfechter einer bestimmten Theorie von Wohlergehen versuchen, ihre Konkurrenten zu entlarven, indem sie behaupten, dass konkurrierende Werte (sei es Glück, Wunscherfüllung oder objektive Güter) lediglich einen _instrumentellen_ Wert haben und dazu neigen, das zu produzieren, was _wirklich_ wichtig ist, oder auf andere Weise damit einhergehen.
 
-![Theories of well-being illustration - Hedonism, Desire Theories, Objective List Theories](/img/theories-of-wellbeing.de.png)
+![Theories of well-being illustration - Hedonism, Desire Theories, Objective List Theories](/img/theories-of-well-being.de.png)
 
 Dennoch können wir die Implikationen der verschiedenen Theorien von Wohlergehen anhand von stilisierten Gedankenexperimenten (mit Erlebnismaschinen, veränderten Präferenzen und so weiter) sorgfältig auseinandernehmen und uns so ein wohlüberlegtes Urteil darüber fällen, welche Theorie uns am plausibelsten erscheint.
 

@@ -135,7 +135,7 @@ Resources for [Arguments for Utilitarianism](/arguments-for-utilitarianism):
 
 ## Chapter 4: Theories of Well-Being
 
-Resources for [Theories of Well-Being](/theories-of-wellbeing):
+Resources for [Theories of Well-Being](/theories-of-well-being):
 
 ### Introduction
 

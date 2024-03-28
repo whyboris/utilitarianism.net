@@ -153,7 +153,7 @@ This concern might move us towards a _hybrid_ view, according to which well-bein
 
 Hedonism, desire theories, and objective list theories of well-being all largely overlap in practice. This is because we tend to desire things that are (typically regarded as) objectively worthwhile, and we tend to be happier when we achieve what we desire. We may also tend to reshape our desires based on our experiences of what feels good. As a result, defenders of any given theory of well-being might seek to debunk their competitors by suggesting that competing values (be they pleasure, desire-fulfillment, or objective goods) are of merely _instrumental_ value, tending to produce, or otherwise go along with, what _really_ matters.
 
-![Theories of well-being illustration - Hedonism, Desire Theories, Objective List Theories](/img/theories-of-wellbeing.png)
+![Theories of well-being illustration - Hedonism, Desire Theories, Objective List Theories](/img/theories-of-well-being.png)
 
 Still, by appealing to stylized thought experiments (involving experience machines, changing preferences, and the like), we can carefully pry apart the implications of the various theories of well-being, and so form a considered judgment about which theory strikes us as most plausible.
 
