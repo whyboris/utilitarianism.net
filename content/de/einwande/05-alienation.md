@@ -101,7 +101,7 @@ Es wäre zutiefst entfremdend, wenn eine Moraltheorie die überwältigende Mehrh
      Chappell, R.Y. (2015). [Value Receptacles](https://dx.doi.org/10.1111/nous.12023). _Noûs_, 49(2): 322–332.
 
 [^9]:
-     Ganz allgemein kann die Subsumtionsstrategie auf alle das Gesamtwohlergehen fördernde Güter ausgedehnt werden, die die Utilitaristin als intrinsisch wertvoll anerkennt. Je nach ihrer [Theorie von Wohlergehen](https://utilitarianism.net/theories-of-wellbeing) kann dies schlicht Glück, reine Wunschbefriedigung oder eine beliebige Anzahl vermeintlicher objektiver Güter wie Freundschaft, Wissen usw. umfassen.
+     Ganz allgemein kann die Subsumtionsstrategie auf alle das Gesamtwohlergehen fördernde Güter ausgedehnt werden, die die Utilitaristin als intrinsisch wertvoll anerkennt. Je nach ihrer [Theorie von Wohlergehen](/theorien-uber-wohlergehen) kann dies schlicht Glück, reine Wunschbefriedigung oder eine beliebige Anzahl vermeintlicher objektiver Güter wie Freundschaft, Wissen usw. umfassen.
 
 [^10]:
      Railton, P. (1984). [Alienation, Consequentialism, and the Demands of Morality](https://philpapers.org/rec/RAIACA). _Philosophy and Public Affairs_, 13(2): 134–171, p. 144. Es sei erwähnt, dass Railton das Beispiel des Tennisspielers in einem anderen Kontext (und mit einer anderen kontrastierenden Motivation) verwendet, als wir es hier tun.

@@ -66,7 +66,7 @@ In [Kapitel 2: Elemente und Arten des Utilitarismus](/arten-des-utilitarismus) w
 
 In [Kapitel 3](/argumente-fur-utilitarismus) wird das reflexive Gleichgewicht als moralische Methodik erläutert und es werden mehrere Argumente für Utilitarismus (und ähnliche konsequentialistische Ansichten) gegenüber konkurrierenden ethischen Ansätzen vorgestellt. Dazu gehören Diskussionen über den Schleier des Nichtwissens, den sich ausweitenden moralischen Kreis und das Argument, dass Utilitarismus eine besonders überzeugende Darstellung dessen bietet, _was grundsätzlich wichtig ist_. In diesem Kapitel werden auch das Paradoxon der Deontologie, evolutionäre Entlarvungsargumente und andere Einwände gegen nicht-konsequentialistische Ethiken erläutert.
 
-Spezifische [Theorien des Wohlergehens](https://utilitarianism.net/theories-of-wellbeing/) und der [Populationsethik](/populationsethik) werden in den Kapiteln 4 beziehungsweise 5 untersucht. Während Utilitarismus oft mit _Hedonismus_ in Bezug auf Wohlergehen und der _Gesamtansicht_ in der Populationsethik (eine Kombination, die als _klassischer Utilitarismus_ bekannt ist) in Verbindung gebracht wird, gibt es auch andere Optionen, die es wert sind, in Betracht gezogen zu werden. Insbesondere ist zu bedenken, dass Einwände gegen Hedonismus oder die Gesamtansicht andere Formen des Utilitarismus noch unberührt lassen können.
+Spezifische [Theorien des Wohlergehens](/theorien-uber-wohlergehen) und der [Populationsethik](/populationsethik) werden in den Kapiteln 4 beziehungsweise 5 untersucht. Während Utilitarismus oft mit _Hedonismus_ in Bezug auf Wohlergehen und der _Gesamtansicht_ in der Populationsethik (eine Kombination, die als _klassischer Utilitarismus_ bekannt ist) in Verbindung gebracht wird, gibt es auch andere Optionen, die es wert sind, in Betracht gezogen zu werden. Insbesondere ist zu bedenken, dass Einwände gegen Hedonismus oder die Gesamtansicht andere Formen des Utilitarismus noch unberührt lassen können.
 
 [Kapitel 6](/utilitarismus-und-praktische-ethik) und unser ergänzender Artikel [Utilitarismus als Handlungsgrundlage](/utilitarismus-als-handlungsgrundlage) untersuchen die praktischen Anwendungen von Utilitarismus und seine Implikationen für die Art und Weise, wie wir unser Leben leben sollten. Wir argumentieren, dass ein Utilitarist in der Praxis versuchen sollte, so viel Gutes wie möglich zu tun und sich gleichzeitig an moralische Tugenden wie Integrität, Vertrauenswürdigkeit und Gesetzestreue zu halten, um soziale Zusammenarbeit zu fördern und das Risiko von Fehleinschätzungen zu mindern.
 
@@ -148,7 +148,7 @@ Im nächsten Kapitel werden die vier Elemente utilitaristischer Theorien eingehe
      Wenn Ökonomen jedoch die Begriffe „Utilität“ oder „[Nutzen](https://de.wikipedia.org/wiki/Nutzen_(Wirtschaft))“ verwenden, beziehen sie sich in der Regel auf die numerische Darstellung der Präferenzen einer Person.
 
 [^11]:
-     Wir verwenden den Begriff „Freude“, um angenehme bewusste Erfahrungen zu beschreiben. In [Kapitel 4: Theorien des Wohlergehens](https://utilitarianism.net/theories-of-wellbeing/) wird untersucht, ob Wohlergehen mehr als das beinhaltet.
+     Wir verwenden den Begriff „Freude“, um angenehme bewusste Erfahrungen zu beschreiben. In [Kapitel 4: Theorien des Wohlergehens](/theorien-uber-wohlergehen) wird untersucht, ob Wohlergehen mehr als das beinhaltet.
 
 [^12]:
 
