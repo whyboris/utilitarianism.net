@@ -43,7 +43,7 @@ Ressourcen für [Einführung in den Utilitarismus](/introduction-to-utilitariani
 
 ## Kapitel 2: Elemente und Arten des Utilitarismus
 
-Ressourcen für [Elemente und Arten des Utilitarismus](/types-of-utilitarianism):
+Ressourcen für [Elemente und Arten des Utilitarismus](/arten-des-utilitarismus):
 
 ### Konsequentialismus
 
@@ -175,7 +175,7 @@ Ressourcen für [Theorien über Wohlergehen](/theorien-uber-wohlergehen):
 
 ## Kapitel 5: Populationsethik
 
-Ressourcen für [Populationsethik](/population-ethics):
+Ressourcen für [Populationsethik](/populationsethik):
 
 ### Allgemeine Abhandlungen zu Populationsethik
 

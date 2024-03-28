@@ -329,7 +329,7 @@ Im nächsten Kapitel werden Argumente für Utilitarismus und Konsequentialismus 
      Im Prinzip sind auch andere Aggregationsmethoden (wie Multiplikation oder etwas Komplexeres) denkbar. Wir konzentrieren uns hier jedoch auf die additive Form des Aggregationismus, da dies die bei weitem häufigste Ansicht ist.
 
 [^7]:
-     Diese Definition gilt für Fälle mit fester Bevölkerung, in dem die eigenen Handlungen keinen Einfluss auf die Anzahl oder Identität von Menschen haben. Es gibt aggregationistische Theorien, die sich darin unterscheiden, wie sie mit variablen Populationen umgehen. Dies ist eine technische Frage, die für die Diskussion von [Populationsethik](https://utilitarianism.net/population-ethics) in Kapitel 5 relevant ist.
+     Diese Definition gilt für Fälle mit fester Bevölkerung, in dem die eigenen Handlungen keinen Einfluss auf die Anzahl oder Identität von Menschen haben. Es gibt aggregationistische Theorien, die sich darin unterscheiden, wie sie mit variablen Populationen umgehen. Dies ist eine technische Frage, die für die Diskussion von [Populationsethik](/populationsethik) in Kapitel 5 relevant ist.
 
 [^8]:
      Derek Parfit argumentiert weiter, dass anti-aggregative Prinzipien unplausibel sind, da sie Entscheidungen befürworten, die, wenn sie ausreichend oft in der Bevölkerung wiederholt werden, jeden schlechter stellen würden.

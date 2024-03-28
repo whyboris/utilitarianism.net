@@ -345,7 +345,7 @@ Im nächsten Kapitel werden die wichtigsten Implikationen des Utilitarismus für
      Stärker noch: In der Gesamtansicht wäre es an sich besser, eine neue Person auf dem Wohlergehen-Niveau 100 zu schaffen, als das Wohlergehen einer bestehenden Person von Niveau 1 auf 100 zu verbessern.
 
 [^7]:
-     Zu einer Untersuchung der Frage, ob die Welt über- oder unterbevölkert ist, siehe Ord, T. (2014). [Overpopulation or Underpopulation?](http://amirrorclear.net/files/overpopulation-or-underpopulation.pdf), in Goldin, I. _[Is the World Full?](https://utilitarianism.net/population-ethics/doi.org/10.1093/acprof:oso/9780199677771.001.0001)_. Oxford: Oxford University Press.
+     Zu einer Untersuchung der Frage, ob die Welt über- oder unterbevölkert ist, siehe Ord, T. (2014). [Overpopulation or Underpopulation?](http://amirrorclear.net/files/overpopulation-or-underpopulation.pdf), in Goldin, I. _[Is the World Full?](doi.org/10.1093/acprof:oso/9780199677771.001.0001)_. Oxford: Oxford University Press.
 
 [^8]:
      Die Verringerung existenzieller Risiken ist nicht nur für die Gesamtansicht, sondern für eine Vielzahl von moralischen Ansichten eine Priorität. Für die Gesamtansicht steht jedoch ein besonders viel Wert auf dem Spiel, wenn es darum geht, das langfristige Gedeihen der Zivilisation zu bewahren.
