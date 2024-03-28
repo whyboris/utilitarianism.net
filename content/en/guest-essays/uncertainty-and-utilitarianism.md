@@ -21,7 +21,7 @@ summary: "When we're less than fully certain of which moral view is correct, it 
 
 1. How important is [human well-being compared to that of non-human animals](/utilitarianism-and-practical-ethics#speciesism)?
 2. How much should we spend on [helping strangers in need](/utilitarianism-and-practical-ethics#cosmopolitanism)?
-3. How much should we [care about future generations](/utilitarianism-and-practical-ethics#longtermism)?
+3. How much should we [care about future generations](/utilitarianism-and-practical-ethics/#longtermism-expanding-the-moral-circle-across-time)?
 
 Few could honestly say that they are fully certain about the answers to these pressing moral questions, and this holds for utilitarians and non-utilitarians alike. We feel less than fully certain about the answers partly due to uncertainty about _empirical_ facts. We are uncertain about whether shrimps can feel pain, whether we can really help strangers far away, or whether we can make sure people in the far future have good lives.
 
