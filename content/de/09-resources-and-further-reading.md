@@ -118,7 +118,7 @@ Ressourcen für [Elemente und Arten des Utilitarismus](/types-of-utilitarianism)
 
 ## Kapitel 3: Argumente für Utilitarismus
 
-Ressourcen für [Argumente für Utilitarismus](/arguments-for-utilitarianism):
+Ressourcen für [Argumente für Utilitarismus](/argumente-fur-utilitarismus):
 
 - John Broome (1987). [Utilitarianism and Expected Utility](https://doi.org/10.2307/2026999), _The Journal of Philosophy_ 84 (8): 405–422.
 - John Broome (1991). _Weighing Goods: Equality, Uncertainty and Time_. Blackwell.
