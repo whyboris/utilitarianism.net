@@ -257,7 +257,7 @@ Im nächsten Kapitel werden wichtige konkurrierende Theorien, die sich in der Pr
      Merke: Professor William MacAskill, Mitautor dieser Website, ist auch Mitautor dieses Artikels.
 
 [^21]:
-     Wie in [Kapitel 2 erläutert](https://utilitarianism.net/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism): „hat unseres Wissens niemand jemals den einstufigen Utilitarismus [d. h. die Verwendung des utilitaristischen Kriteriums als universelles Entscheidungsverfahren] verteidigt, auch nicht die klassischen Utilitaristen. Das bewusste Berechnen der erwarteten Konsequenzen unserer Handlungen ist fehleranfällig und birgt die Gefahr, in Entscheidungslähmung zu verfallen.“
+     Wie in [Kapitel 2 erläutert](/arten-des-utilitarismus/#mehrstufiger-utilitarismus-versus-einstufiger-utilitarismus): „hat unseres Wissens niemand jemals den einstufigen Utilitarismus [d. h. die Verwendung des utilitaristischen Kriteriums als universelles Entscheidungsverfahren] verteidigt, auch nicht die klassischen Utilitaristen. Das bewusste Berechnen der erwarteten Konsequenzen unserer Handlungen ist fehleranfällig und birgt die Gefahr, in Entscheidungslähmung zu verfallen.“
 
 [^22]:
      Solche Details könnten einfach in einem hypothetischen Beispiel festgelegt werden. In realen Fällen sollte unsere Unsicherheit über relevante faktische Details im Allgemeinen dazu führen, dass wir bei unseren moralischen Urteilen und Bewertungen ähnlich unsicher sind.

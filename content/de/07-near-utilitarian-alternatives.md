@@ -22,7 +22,7 @@ In diesem Kapitel wird eine Reihe dieser verwandten konsequentialistischen Ansic
 
 ## Jenseits des Welfarismus
 
-Die meisten würden zustimmen, dass Wohlergehen ein wichtiger Wert ist. Leiden ist schlecht, während Glück und menschliches Wohlergehen gut sind. Aber ist Wohlergehen, wie der Utilitarismus behauptet, das _[einzig intrinsisch Wertvolle](https://utilitarianism.net/types-of-utilitarianism#welfarism)_? Diese Eingrenzung scheint fragwürdiger. Vernünftige Menschen können durchaus zu dem Schluss kommen, dass neben dem Wohlergehen noch andere Dinge wichtig sind. In diesem Abschnitt werden drei mögliche Beispiele für andere in Frage kommende Güter untersucht: ökologischer Wert, ästhetischer Wert und Verteilungsgerechtigkeit.
+Die meisten würden zustimmen, dass Wohlergehen ein wichtiger Wert ist. Leiden ist schlecht, während Glück und menschliches Wohlergehen gut sind. Aber ist Wohlergehen, wie der Utilitarismus behauptet, das _[einzig intrinsisch Wertvolle](/arten-des-utilitarismus/#welfarismus)_? Diese Eingrenzung scheint fragwürdiger. Vernünftige Menschen können durchaus zu dem Schluss kommen, dass neben dem Wohlergehen noch andere Dinge wichtig sind. In diesem Abschnitt werden drei mögliche Beispiele für andere in Frage kommende Güter untersucht: ökologischer Wert, ästhetischer Wert und Verteilungsgerechtigkeit.
 
 ### Ökologischer Wert
 

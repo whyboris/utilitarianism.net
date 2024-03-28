@@ -186,7 +186,7 @@ Zu diesem Zweck akzeptieren die gängigen personenbezogenen Ansichten die _perso
 
 Ein Ergebnis kann nur dann besser (oder schlechter) als ein anderes sein, wenn es für jemanden besser (oder schlechter) ist.[^48]
 
-Auf den ersten Blick klingt dieses Prinzip sehr plausibel. Betrachtet man nur Fälle mit fixer Bevölkerung, ist es ein Ausdruck des _[Welfarismus](https://utilitarianism.net/types-of-utilitarianism#welfarism)_: die Ansicht, dass Wohlergehen der einzige Wert ist. Aber es ergeben sich Probleme, wenn man Ergebnisse vergleicht, bei denen verschiedene Menschen existieren, insbesondere wenn man es mit dem Prinzip der _Unvergleichbarkeit der Existenz_ kombiniert:[^49]
+Auf den ersten Blick klingt dieses Prinzip sehr plausibel. Betrachtet man nur Fälle mit fixer Bevölkerung, ist es ein Ausdruck des _[Welfarismus](/arten-des-utilitarismus/#welfarismus)_: die Ansicht, dass Wohlergehen der einzige Wert ist. Aber es ergeben sich Probleme, wenn man Ergebnisse vergleicht, bei denen verschiedene Menschen existieren, insbesondere wenn man es mit dem Prinzip der _Unvergleichbarkeit der Existenz_ kombiniert:[^49]
 
 Wenn eine Person in einem Fall existiert, aber nicht in einem anderen, ist es nicht möglich, ihr Wohlergehen zwischen diesen Fällen zu vergleichen.
 

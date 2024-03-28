@@ -53,7 +53,7 @@ Dies wird vielleicht am deutlichsten, wenn man andere Formen des (vermeintlichen
 
 ## Anti-aggregative Intuitionen
 
-Kritiker könnten einräumen, dass der Utilitarismus tatsächlich einzelne Personen separat wertschätzt, aber eben _nicht auf die richtige Weise_. Aus dieser Sicht hat die utilitaristische [Aggregation](https://utilitarianism.net/types-of-utilitarianism#aggregationism) etwas intuitiv Problematisches. Anstatt die Interessen verschiedener Menschen zu summieren, könnten strikt anti-aggregative Ansichten für einen _Maximin_-Ansatz plädieren, der einfach versucht, die Position der am schlechtesten Gestellten zu verbessern. Nagel schreibt:
+Kritiker könnten einräumen, dass der Utilitarismus tatsächlich einzelne Personen separat wertschätzt, aber eben _nicht auf die richtige Weise_. Aus dieser Sicht hat die utilitaristische [Aggregation](/arten-des-utilitarismus/#aggregationismus) etwas intuitiv Problematisches. Anstatt die Interessen verschiedener Menschen zu summieren, könnten strikt anti-aggregative Ansichten für einen _Maximin_-Ansatz plädieren, der einfach versucht, die Position der am schlechtesten Gestellten zu verbessern. Nagel schreibt:
 
 Wenn ein Interessenkonflikt besteht, kann kein Ergebnis für alle völlig akzeptabel sein. Aber es ist zumindest möglich, jedes Ergebnis von jedem Standpunkt aus zu bewerten, um das Ergebnis zu finden, das für die Person, für die es am inakzeptabelsten ist, am wenigsten inakzeptabel ist... Eine radikal egalitäre Politik, die den am schlechtesten Gestellten absoluten Vorrang einräumt, unabhängig von der Anzahl der Betroffenen, würde daraus resultieren, dass immer die in diesem Sinne am wenigsten inakzeptable Alternative gewählt wird.[^13]
 

@@ -93,7 +93,7 @@ Schließlich können Befürworter des Utilitarismus wieder einmal „in den saur
      Parfit, D. (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_, 10(3): 202–221.
 
 [^4]:
-     Dies lässt jedoch die Wahl zwischen dem [Prioritarismus](/utilitarismus-nahe-alternativen/#prioritarismus), der den Interessen der am schlechtesten Gestellten mehr Gewicht verleiht, und der [gleichberechtigten Berücksichtigung von Interessen](https://utilitarianism.net/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests) durch den Utilitarismus offen.
+     Dies lässt jedoch die Wahl zwischen dem [Prioritarismus](/utilitarismus-nahe-alternativen/#prioritarismus), der den Interessen der am schlechtesten Gestellten mehr Gewicht verleiht, und der [gleichberechtigten Berücksichtigung von Interessen](/arten-des-utilitarismus/#unparteilichkeit-und-gleichberechtigte-ber%C3%BCcksichtigung-von-interessen) durch den Utilitarismus offen.
 
 [^5]:
      In der Tat wird das Wohlergehen angesichts von Ungewissheit in der Regel anhand rationaler Entscheidungen definiert. In diesem Sinne bedeutet ein Ergebnis von 100 Wohlergehen, dass man beispielsweise zwischen diesem Ergebnis und einer 50/50-Chance auf 200 Wohlergehen oder 0 Wohlergehen gleichgültig sein sollte.
