@@ -45,7 +45,7 @@ Einige Intuitionen zugunsten der Parteilichkeit können auch darauf zurückzufü
 
 ## Kritik an den Alternativen
 
-Kritiker der utilitaristischen Unparteilichkeit könnten eine [parteiliche](https://utilitarianism.net/near-utilitarian-alternatives#egoism-and-partialism) Form des welfaristischen Konsequentialismus bevorzugen, der den Interessen der Nächsten und Liebsten mehr Gewicht beimisst, anstatt alle gleich zu berücksichtigen. Diese alternative Sichtweise kann jedoch auf beunruhigende Weise prinzipienlos erscheinen, wie wir auf verschiedene Weise zeigen können.
+Kritiker der utilitaristischen Unparteilichkeit könnten eine [parteiliche](/utilitarismus-nahe-alternativen/#egoismus-und-parteilichkeit) Form des welfaristischen Konsequentialismus bevorzugen, der den Interessen der Nächsten und Liebsten mehr Gewicht beimisst, anstatt alle gleich zu berücksichtigen. Diese alternative Sichtweise kann jedoch auf beunruhigende Weise prinzipienlos erscheinen, wie wir auf verschiedene Weise zeigen können.
 
 Erstens wird oft angenommen, dass es bei der Moral im Wesentlichen um das Streben nach einer neutralen, unvoreingenommenen oder unparteilich rechtfertigbaren Perspektive geht, die Konflikte zwischen konkurrierenden Interessen friedlich lösen kann. Aber Parteilichkeit löst unsere zwischenmenschlichen Konflikte nicht vollständig. Er gibt verschiedenen Menschen unterschiedliche Ziele und keine Anleitung — über das offensichtlich amoralische Standardresultat „Macht macht Recht“ hinaus — wie diese im Konfliktfall auszugleichen sind.
 
