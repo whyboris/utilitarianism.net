@@ -135,7 +135,7 @@ Wir haben gesehen, dass der Einwand der „Getrenntheit von Personen“ gegen de
      Nozick, R. (1974). _Anarchy, State, and Utopia_, p. 33.
 
 [^5]:
-     Interessanterweise könnte man sich aber auch auf das Argument des [Schleiers des Nichtwissens](https://utilitarianism.net/arguments-for-utilitarianism#the-veil-of-ignorance) berufen. Während das Individuum, das geschädigt wird, _in dem Moment_ nicht dafür entschädigt wird, sollte jedes Individuum _im Voraus_ (d. h. hinter dem Schleier des Nichtwissens) bereit sein, utilitaristischen Kompromissen zuzustimmen, da dies der beste Weg ist, den Erwartungswert des eigenen Wohlergehens zu maximieren.
+     Interessanterweise könnte man sich aber auch auf das Argument des [Schleiers des Nichtwissens](/argumente-fur-utilitarismus/#der-schleier-des-nichtwissens) berufen. Während das Individuum, das geschädigt wird, _in dem Moment_ nicht dafür entschädigt wird, sollte jedes Individuum _im Voraus_ (d. h. hinter dem Schleier des Nichtwissens) bereit sein, utilitaristischen Kompromissen zuzustimmen, da dies der beste Weg ist, den Erwartungswert des eigenen Wohlergehens zu maximieren.
 
 [^6]:
      de Lazari-Radek, K. and Singer, P. (2017). _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&)_. Oxford University Press. Kapitel 4: Objections, p. 82.
