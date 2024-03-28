@@ -91,7 +91,7 @@ After adding a document it will likely need some manual fixes:
 
 - Update the metadata section (first few lines, see other files for reference)
 - If you install the [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) in your _VSCode_, you may save some time: right-click and "Format Document"
-- The article will likely have formatting errors with _italics_ (_underscores_), so open the `fixit.js` file, update the `FILE_TO_FIX` string, and execute: `node fixit.js`
+- The article will likely have formatting errors with _italics_ (_underscores_), so open the `fixit.js` file (in `scripts` folder), update the `FILE_TO_FIX` string, and execute: `node fixit.js`
   - _note_ rather than jumping through below hoops, just use **MarkdownLint** (see instructions below)
   - _note_ the `fixit.js` file is meant to be executed from the root of the repository (in `/` not in `/archive` where it resides) - so temporarily move it there if you use it.
   - it may be best to temporarily remove the _Resources and Further Reading_ and _Footnotes_ during this operation

@@ -19,7 +19,7 @@ summary: Many deny that objective and universal moral truth exists. Many more de
 
 ## Introduction: From Naturalism to Hedonism
 
-[Ethical hedonism](/theories-of-wellbeing#hedonism) is the view that pleasure is the only good thing—the only thing with moral value.[^1] This essay presents two arguments for ethical hedonism.
+[Ethical hedonism](/theories-of-well-being/#hedonism) is the view that pleasure is the only good thing—the only thing with moral value.[^1] This essay presents two arguments for ethical hedonism.
 
 The **Reliability Argument** assesses the psychological processes generating moral belief to determine how reliably they produce truth. Phenomenal introspection is the process of looking inward at experience to see what it's like. It reliably generates true beliefs about experience, for example the nonmoral belief that sound-experience has volume, and the moral belief that pleasure is good. While the reliability of phenomenal introspection is demonstrated by the true nonmoral beliefs it generates, there is evidence that other processes generating moral beliefs are unreliable. Widespread moral disagreement across history on issues like whether genocide is permissible entails widespread error and unreliability. The evolutionary history of processes generating moral belief also makes it unlikely that they are reliable. Since a reliable process generates belief in pleasure's goodness, and unreliable processes generate other moral beliefs, pleasure is probably the only good thing.[^2]
 

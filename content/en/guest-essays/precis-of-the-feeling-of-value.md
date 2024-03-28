@@ -29,7 +29,7 @@ In this essay, I’ll argue for a view I call “analytic hedonism”. According
 
 ## The Basics of Analytic Hedonism
 
-The core claim of analytic hedonism is that the positive and negative qualities of conscious experience are intrinsically good and bad _by definition_. Since philosophers call facts that are true by definition “analytic” truths and call the view that only pleasure is intrinsically good “[hedonism](/theories-of-wellbeing#hedonism)”, I refer to this version of moral realism as “analytic hedonism”.
+The core claim of analytic hedonism is that the positive and negative qualities of conscious experience are intrinsically good and bad _by definition_. Since philosophers call facts that are true by definition “analytic” truths and call the view that only pleasure is intrinsically good “[hedonism](/theories-of-well-being/#hedonism)”, I refer to this version of moral realism as “analytic hedonism”.
 
 Let’s unpack the details of analytic hedonism’s core claim and consider what reasons there are for believing it’s accurate.
 
@@ -75,7 +75,7 @@ On the other hand, we should be clear that it doesn’t matter what a person _be
 
 ### Surely the Pleasure of a Torturer Isn’t Intrinsically Good
 
-While it may seem counterintuitive at first, analytic hedonism does assert that all pleasure—[including the pleasure enjoyed by a torturer](/theories-of-wellbeing#the-evil-pleasures-objection)—is intrinsically good. But let’s take a closer look at what this means.
+While it may seem counterintuitive at first, analytic hedonism does assert that all pleasure—[including the pleasure enjoyed by a torturer](/theories-of-well-being/#the-evil-pleasures-objection)—is intrinsically good. But let’s take a closer look at what this means.
 
 According to analytic hedonism, pleasure is intrinsically good because its _internal quality_ is good, and good purely in virtue of what the quality itself feels like, regardless of how it may have come about and regardless of what further things it may cause. If the pleasure felt by a torturer feels equally as good as the pleasure someone else takes in nursing an injured bird back to health, then these two pleasures—considered purely in terms of their own internal characteristics—are of equal _intrinsic_ value.
 
@@ -165,7 +165,7 @@ In conclusion, given the three general features of actual situations just descri
 
 ### Should We All Just Plug Into the Experience Machine?
 
-Practical considerations are also very relevant to determining whether hedonistic utilitarians should want everyone in the world to spend their lives [plugged into an “experience machine”](/theories-of-wellbeing#the-experience-machine-objection) that gives them maximally pleasurable experiences but cuts them off from having any real relationships, knowledge, or accomplishments.
+Practical considerations are also very relevant to determining whether hedonistic utilitarians should want everyone in the world to spend their lives [plugged into an “experience machine”](/theories-of-well-being/#the-experience-machine-objection) that gives them maximally pleasurable experiences but cuts them off from having any real relationships, knowledge, or accomplishments.
 
 Robert Nozick published his “experience machine” objection to hedonism in 1974,[^22] and repugnance for life in the experience machine has led many philosophers to reject hedonism as a plausible theory of the good. But this rejection is unwarranted. Our negative feelings about the experience machine are not at odds with hedonism but are in fact very much in line with strong hedonistic reasons for _rejecting_ life in the experience machine, due to the important instrumental benefits of being in contact with the world outside our own minds.[^23]
 

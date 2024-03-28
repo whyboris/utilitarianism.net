@@ -31,7 +31,7 @@ This article presents a survey of IPML and discusses Bentham’s thinking about 
 
 IPML contains four parts. In the first, Bentham explains the fundamental moral assumptions he accepts and how he proposes to establish their truth. He accepted the form of utilitarianism now called ‘[act utilitarianism](/glossary#act-utilitarianism)’. It asserts that _the morally right action for a person to perform at a given time is the one that, among her options then, produces the most happiness_. A wrong act is one that produces less than the most happiness that it is possible for her to produce at that time. In IPML, Bentham speaks of acts that fail to produce the most happiness as ‘mischievous’, a central term in the book.
 
-Bentham’s philosophical account of right action (and thus mischief) is based on what we now call a [hedonistic theory of intrinsic value](/theories-of-wellbeing#hedonism).[^2] There are two main kinds of intrinsic value: intrinsic goodness and intrinsic badness. Bentham accepted these two claims.
+Bentham’s philosophical account of right action (and thus mischief) is based on what we now call a [hedonistic theory of intrinsic value](/theories-of-well-being/#hedonism).[^2] There are two main kinds of intrinsic value: intrinsic goodness and intrinsic badness. Bentham accepted these two claims.
 
 (i) The only thing that is intrinsically good is pleasure;
 

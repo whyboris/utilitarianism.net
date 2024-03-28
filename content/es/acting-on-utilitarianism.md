@@ -100,7 +100,10 @@ En EE. UU., sólo se donan unas pocas decenas de millones de dólares filantró
 
 ### Reducción del riesgo existencial
 
-> Los utilitaristas clásicos... afirmarían, como Sidgwick, que la destrucción de la humanidad sería con mucho el mayor de todos los crímenes concebibles. La gravedad de este crimen residiría en la enorme reducción de la suma posible de felicidad."_ \- Derek Parfit[^23]
+> Los utilitaristas clásicos... afirmarían, como Sidgwick, que la destrucción de la humanidad sería con mucho el mayor de todos los crímenes concebibles. La gravedad de este crimen residiría en la enorme reducción de la suma posible de felicidad."
+>
+> — Derek Parfit[^23]
+{ .align-author-right }
 
 El capítulo [Utilitarismo y ética práctica](./utilitarismo-y-etica-practica.md#largoplacismo) introdujo el _largoplacismo fuerte_, según el cual el determinante más importante del valor de nuestras acciones presentes es cómo afectan al futuro a largo plazo. El largoplacismo fuerte se deriva del utilitarismo —y de muchos otros puntos de vista morales— si asumimos que algunas de nuestras acciones pueden influir significativamente en el futuro a largo plazo y que podemos estimar sus efectos positivos y negativos.[^24]
 

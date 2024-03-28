@@ -15,7 +15,8 @@ gradientBottom: "#5F3091"
 
 > _Utilitarianism doesn't ask us to be morally perfect. It asks us to face up to our moral limitations and do as much as we humanly can to overcome them._
 >
-> \- Joshua Greene, Moral Tribes, p. 284
+> — Joshua Greene, Moral Tribes, p. 284
+{ .align-author-right }
 
 {{< TOC >}}
 

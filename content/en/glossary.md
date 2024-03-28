@@ -114,7 +114,7 @@ To give better, one can follow the recommendations from organizations such as [G
 
 _→ Main article:_ [_Classical utilitarianism_](/types-of-utilitarianism#the-two-elements-of-classical-utilitarianism)
 
-Classical utilitarianism is the view that one morally ought to promote just the sum total of happiness over suffering. Classical utilitarianism can be distinguished from the wider utilitarian family of views because it accepts [_hedonism_](/theories-of-wellbeing#hedonism) as a theory of well-being and [_the total view_](/population-ethics#the-total-view) of population ethics.
+Classical utilitarianism is the view that one morally ought to promote just the sum total of happiness over suffering. Classical utilitarianism can be distinguished from the wider utilitarian family of views because it accepts [_hedonism_](/theories-of-well-being/#hedonism) as a theory of well-being and [_the total view_](/population-ethics#the-total-view) of population ethics.
 
 </details>
 
@@ -188,11 +188,11 @@ _External links:_ [Deontological Ethics](https://plato.stanford.edu/entries/ethi
 <details>
 <summary>Desire theories of well-being<span class="icon"></span></summary>
 
-_→ Main article:_ [_Theories of well-being: Desire theories_](/theories-of-wellbeing#desire-theories)
+_→ Main article:_ [_Theories of well-being: Desire theories_](/theories-of-well-being/#desire-theories)
 
 According to desire theories only the satisfaction of desires or preferences matters for an individual’s well-being. The most well known desire theory is preference utilitarianism, the ethical theory on which you ought to promote just the sum total of preference satisfaction over dissatisfaction.
 
-The alternatives to desire theories include [_hedonism_](/theories-of-wellbeing#hedonism), according to which the individual’s conscious experiences determines their well-being, and [_objective list theories_](/theories-of-wellbeing#objective-list-theories), which propose a list of items that constitute well-being, such as conscious experiences, art, knowledge, love, friendship, and more.
+The alternatives to desire theories include [_hedonism_](/theories-of-well-being/#hedonism), according to which the individual’s conscious experiences determines their well-being, and [_objective list theories_](/theories-of-well-being/#objective-list-theories), which propose a list of items that constitute well-being, such as conscious experiences, art, knowledge, love, friendship, and more.
 
 </details>
 
@@ -345,7 +345,7 @@ Global utilitarianism assesses the moral nature of, for example, a particular ch
 <details>
 <summary>Happiness and suffering<span class="icon"></span></summary>
 
-_→ Main article:_ [_Theories of well-being: hedonism_](/theories-of-wellbeing#hedonism)
+_→ Main article:_ [_Theories of well-being: hedonism_](/theories-of-well-being/#hedonism)
 
 Philosophers commonly use _happiness_ and _suffering_ as shorthand for the terms _positive conscious experience_ and _negative conscious experience,_ respectively. According to ethical hedonists, happiness is the only thing good in and of itself and suffering is the only thing bad in and of itself. The hedonistic conception of happiness is broad: It covers not only paradigmatic instances of sensual pleasure—such as the experiences of eating delicious food or having sex—but also other positively valenced experiences, such as the experiences of solving a problem, reading a novel, or helping a friend.
 
@@ -372,13 +372,13 @@ However, Bentham was realistic about the limitations of this method, writing tha
 <details>
 <summary>Hedonism (theories of well-being)<span class="icon"></span></summary>
 
-_→ Main article:_ [_Theories of well-being: hedonism_](/theories-of-wellbeing#hedonism)
+_→ Main article:_ [_Theories of well-being: hedonism_](/theories-of-well-being/#hedonism)
 
 Hedonism is the view that well-being consists in, and only in, the balance of positive over negative conscious experiences. For hedonism the only things good in and of themselves are the experiences of positive conscious states, such as enjoyment and pleasure; and the only things bad in and of themselves are the experiences of negative conscious states, such as misery and pain.
 
 The hedonistic conception of happiness is broad: It covers not only paradigmatic instances of sensual pleasure—such as the experiences of eating delicious food or having sex—but also other positively valenced experiences, such as the experiences of solving a problem, reading a novel, or helping a friend. Hedonists claim that all these experiences are _intrinsically_ valuable, which means they are valuable in and of themselves. Other goods, such as wealth, health, justice, fairness and equality are also valued by hedonists, but they are valued _instrumentally_. This means they are valued to the extent that they affect the conscious experience of individuals, rather than being valued in and of themselves.
 
-The two main alternatives to hedonism are [_desire theories_](/theories-of-wellbeing#desire-theories), according to which only the satisfaction of desires or preferences matters for an individual’s well-being, and [_objective list theories_](/theories-of-wellbeing#objective-list-theories), which propose a list of items that constitute well-being. This list can include conscious experiences or satisfied preferences, but it rarely stops there; ethicists commonly argue that the objective list includes art, knowledge, love, friendship, and more.
+The two main alternatives to hedonism are [_desire theories_](/theories-of-well-being/#desire-theories), according to which only the satisfaction of desires or preferences matters for an individual’s well-being, and [_objective list theories_](/theories-of-well-being/#objective-list-theories), which propose a list of items that constitute well-being. This list can include conscious experiences or satisfied preferences, but it rarely stops there; ethicists commonly argue that the objective list includes art, knowledge, love, friendship, and more.
 
 </details>
 
@@ -405,7 +405,7 @@ Hybrid utilitarianism is the view that, while one morally ought to promote just 
 
 _→ Main article:_ [_Impartiality_](/types-of-utilitarianism#impartiality)
 
-Impartiality is the view that the identity of individuals is irrelevant to the value of an outcome. Utilitarians accept a conception of impartiality that further entails the _equal consideration of interests_: that is, the claim that equal weight must be given to the interests of all individuals. This means treating well-being as equally valuable regardless of when, where, or to whom it occurs. As a consequence, utilitarianism values the well-being of all individuals equally, regardless of their nationality, gender, [where](/utilitarianism-and-practical-ethics#cosmopolitanism) or [when they live](/utilitarianism-and-practical-ethics#longtermism), or even [their species](/utilitarianism-and-practical-ethics#speciesism).
+Impartiality is the view that the identity of individuals is irrelevant to the value of an outcome. Utilitarians accept a conception of impartiality that further entails the _equal consideration of interests_: that is, the claim that equal weight must be given to the interests of all individuals. This means treating well-being as equally valuable regardless of when, where, or to whom it occurs. As a consequence, utilitarianism values the well-being of all individuals equally, regardless of their nationality, gender, [where](/utilitarianism-and-practical-ethics#cosmopolitanism) or [when they live](/utilitarianism-and-practical-ethics/#longtermism-expanding-the-moral-circle-across-time), or even [their species](/utilitarianism-and-practical-ethics#speciesism).
 
 Impartiality is one of the [four elements of utilitarian ethical theories](/types-of-utilitarianism#the-four-elements-of-utilitarianism).
 
@@ -450,7 +450,7 @@ John Stuart Mill (1806 - 1873) was a British philosopher and political economist
 <details>
 <summary>Longtermism<span class="icon"></span></summary>
 
-_→ Main article:_ [_Longtermism_](/utilitarianism-and-practical-ethics#longtermism)
+_→ Main article:_ [_Longtermism_](/utilitarianism-and-practical-ethics/#longtermism-expanding-the-moral-circle-across-time)
 
 Strong longtermism is the view that the most important determinant of the value of our actions today is how those actions affect the very long-run future. Strong longtermism is implied by most plausible forms of utilitarianism[^28] if we assume that some of our actions can meaningfully affect the long-term future and that we can estimate which effects are positive and which negative. A key reason why most utilitarians would endorse strong longtermism is that they accept _temporal_ [_impartiality_](/types-of-utilitarianism#impartiality), the view that the well-being of future generations is no less important simply because they are far away in time than the well-being of those alive today.
 
@@ -514,11 +514,11 @@ _External links:_
 <details>
 <summary>Objective list theories of well-being<span class="icon"></span></summary>
 
-_→ Main article:_ [_Objective list theories of well-being_](/theories-of-wellbeing#objective-list-theories)
+_→ Main article:_ [_Objective list theories of well-being_](/theories-of-well-being/#objective-list-theories)
 
 Objective list theories propose a list of items that constitute well-being. This list can include conscious experiences or satisfied preferences, but it rarely stops there; ethicists commonly argue that the objective list includes art, knowledge, love, friendship, and more.
 
-The main alternatives to objective list theories include [_hedonism_](/theories-of-wellbeing#hedonism), the view that well-being consists in, and only in, the balance of positive over negative conscious experiences, and [_desire theories_](/theories-of-wellbeing#desire-theories), according to which only the satisfaction of desires or preferences matters for an individual’s well-being.
+The main alternatives to objective list theories include [_hedonism_](/theories-of-well-being/#hedonism), the view that well-being consists in, and only in, the balance of positive over negative conscious experiences, and [_desire theories_](/theories-of-well-being/#desire-theories), according to which only the satisfaction of desires or preferences matters for an individual’s well-being.
 
 </details>
 
@@ -568,9 +568,9 @@ _External links:_
 <details>
 <summary>Preference utilitarianism<span class="icon"></span></summary>
 
-_→ Main article:_ [_Theories of well-being_](/theories-of-wellbeing)
+_→ Main article:_ [_Theories of well-being_](/theories-of-well-being)
 
-Preference utilitarianism is the ethical theory on which one ought to promote just the sum total of preference satisfaction over dissatisfaction. In addition to the [four elements](/types-of-utilitarianism#the-four-elements-of-utilitarianism) shared by all utilitarian ethical theories, preference utilitarianism accepts a [desire theory of well-being](/theories-of-wellbeing#desire-theories), according to which only the satisfaction of desires or preferences matters for an individual’s well-being.
+Preference utilitarianism is the ethical theory on which one ought to promote just the sum total of preference satisfaction over dissatisfaction. In addition to the [four elements](/types-of-utilitarianism#the-four-elements-of-utilitarianism) shared by all utilitarian ethical theories, preference utilitarianism accepts a [desire theory of well-being](/theories-of-well-being/#desire-theories), according to which only the satisfaction of desires or preferences matters for an individual’s well-being.
 
 Other utilitarians may accept a different theory of well-being, such as hedonism or objective list theory.
 
@@ -747,7 +747,7 @@ Importantly, one population may have greater total well-being than another in vi
 
 Thus, the total view implies that we can improve the world in two ways: either we improve the quality of life of existing people or we increase the number of people living positive lives. So, for example, the total view regards having a child that lives a happy and fulfilled life as something that makes the world better, other things being equal, since it adds to the total sum of well-being.[^36] In practice, there are often trade-offs between making existing people happier and creating additional happy people. On a planet with limited resources, adding more people to an already large population may at some point diminish the quality of life of everyone else severely enough that total well-being decreases.
 
-The total view’s foremost practical implication is [giving great importance](/utilitarianism-and-practical-ethics#longtermism) to ensuring the long-term flourishing of civilization. Since the total well-being enjoyed by all future people is potentially enormous, according to the total view, the [mitigation of existential risks](/acting-on-utilitarianism#existential-risk-reduction)—which threaten to destroy this immense future value—is one of the principal moral issues facing humanity.
+The total view’s foremost practical implication is [giving great importance](/utilitarianism-and-practical-ethics/#longtermism-expanding-the-moral-circle-across-time) to ensuring the long-term flourishing of civilization. Since the total well-being enjoyed by all future people is potentially enormous, according to the total view, the [mitigation of existential risks](/acting-on-utilitarianism#existential-risk-reduction)—which threaten to destroy this immense future value—is one of the principal moral issues facing humanity.
 
 The main alternatives to the total view are the [_average view_](/population-ethics#the-average-view), according to which one outcome is better than another if and only if it contains greater average well-being, and [_person-affecting views_](/population-ethics#person-affecting-views-and-the-procreative-asymmetry), a family of views that share the intuition that an act can only be good/bad if it is good/bad _for_ someone. Standard person-affecting views stand in opposition to the total view since they entail that there is no moral good in bringing new people into existence because nonexistence means there is no one for whom it could be good to be created.
 
@@ -808,7 +808,7 @@ Welfarism is the view that only the _welfare_ (also called _well-being_) of indi
 
 Welfarism is one of the [four elements of utilitarian ethical theories](/types-of-utilitarianism#the-four-elements-of-utilitarianism).
 
-There are various types of welfarism, each of which regards different things as the constituents of well-being. The three most prevalent welfarist theories are [_hedonism_](/theories-of-wellbeing#hedonism), [_desire theories_](/theories-of-wellbeing#desire-theories), and [_objective list theories_](/theories-of-wellbeing#objective-list-theories).
+There are various types of welfarism, each of which regards different things as the constituents of well-being. The three most prevalent welfarist theories are [_hedonism_](/theories-of-well-being/#hedonism), [_desire theories_](/theories-of-well-being/#desire-theories), and [_objective list theories_](/theories-of-well-being/#objective-list-theories).
 
 _External links:_ [Welfarism](https://plato.stanford.edu/entries/well-being/#Wel), The Stanford Encyclopedia of Philosophy
 
@@ -817,7 +817,7 @@ _External links:_ [Welfarism](https://plato.stanford.edu/entries/well-being/#Wel
 <details>
 <summary>Well-being / Welfare<span class="icon"></span></summary>
 
-_→ Main article:_ [_Theories of Well-Being_](/theories-of-wellbeing)
+_→ Main article:_ [_Theories of Well-Being_](/theories-of-well-being)
 
 Philosophers use the term well-being to describe everything that is good for a person in itself, as opposed to things only instrumentally good for a person. For example, money can buy many useful things and is thus good for a person instrumentally, but it is not a component of their well-being.
 

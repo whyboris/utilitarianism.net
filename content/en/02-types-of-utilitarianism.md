@@ -15,7 +15,7 @@ gradientBottom: "#012147"
 
 ## Introduction
 
-As explained in [Chapter 1: Introduction to Utilitarianism](/introduction-to-utilitarianism), the core idea of utilitarianism is that we should want to improve the well-being of everyone by as much as possible. Utilitarian theories share four elements: consequentialism, welfarism, impartiality, and aggregationism. Classical utilitarianism is distinctive because it accepts two additional elements: first, hedonism as a [theory of well-being](/theories-of-wellbeing); second, the total view of [population ethics](/population-ethics). There are several further important distinctions between utilitarian theories: we can distinguish scalar from maximizing or satisficing utilitarianism, expectational from objective utilitarianism, multi-level from single-level utilitarianism, and global from hybrid utilitarianism.
+As explained in [Chapter 1: Introduction to Utilitarianism](/introduction-to-utilitarianism), the core idea of utilitarianism is that we should want to improve the well-being of everyone by as much as possible. Utilitarian theories share four elements: consequentialism, welfarism, impartiality, and aggregationism. Classical utilitarianism is distinctive because it accepts two additional elements: first, hedonism as a [theory of well-being](/theories-of-well-being); second, the total view of [population ethics](/population-ethics). There are several further important distinctions between utilitarian theories: we can distinguish scalar from maximizing or satisficing utilitarianism, expectational from objective utilitarianism, multi-level from single-level utilitarianism, and global from hybrid utilitarianism.
 
 ## The Definition of Utilitarianism
 
@@ -66,7 +66,7 @@ Consequentialists differ in what they take to be the _good_ to be promoted. Util
 
 Specifically, welfarism holds that positive well-being is the only intrinsic good, and negative well-being is the only intrinsic bad. Philosophers use the term “well-being” to refer to what’s good _for a person_, as opposed to what’s good _per se_, or “from the point of view of the Universe” (to use Sidgwick’s poetic phrase). So, for example, one might coherently think that the punishment of an evil person is good, and moreover it’s good precisely because that punishment is bad _for him_. But that would be to reject the kind of welfarism that utilitarianism accepts, on which positive well-being is always intrinsically good, and negative well-being is always intrinsically bad.
 
-Different [theories of well-being](/theories-of-wellbeing) regard different things as the basic constituents of well-being. The three main theories are _[hedonism](/theories-of-wellbeing#hedonism)_, _[desire theories](/theories-of-wellbeing#desire-theories)_ and _[objective list theories](/theories-of-wellbeing#objective-list-theories)_. [Chapter 4](/theories-of-wellbeing) explains these different theories of well-being in more detail.
+Different [theories of well-being](/theories-of-well-being) regard different things as the basic constituents of well-being. The three main theories are _[hedonism](/theories-of-well-being/#hedonism)_, _[desire theories](/theories-of-well-being/#desire-theories)_ and _[objective list theories](/theories-of-well-being/#objective-list-theories)_. [Chapter 4](/theories-of-well-being) explains these different theories of well-being in more detail.
 
 While every plausible view recognizes that well-being is important, some philosophers reject welfarism by claiming that other things matter in addition. For example, [egalitarians](/near-utilitarian-alternatives#egalitarianism-and-distributive-justice) may hold that inequality is intrinsically bad, even when it benefits some and harms none. Others might hold that [environmental](/near-utilitarian-alternatives#environmental-value) and [aesthetic value](/near-utilitarian-alternatives#aesthetic-value) must be considered in addition to well-being. Welfarists claim that these other things matter only insofar as they contribute to someone’s well-being.
 
@@ -100,11 +100,11 @@ The oldest and most prominent utilitarian theory is _classical utilitarianism_, 
 
 > **Classical utilitarianism is the view that one ought always to promote the sum total of happiness minus suffering.**
 
-Classical utilitarianism can be distinguished from the wider utilitarian family of views because it accepts two additional elements: first, _[hedonism](/theories-of-wellbeing#hedonism)_, the view that well-being consists only of conscious experiences; and second, the _[total view](/population-ethics#the-total-view)_ of population ethics, on which one outcome is better than another if and only if it contains a greater sum total of well-being, where well-being can be increased either by making existing people better off or by creating new people with good lives.
+Classical utilitarianism can be distinguished from the wider utilitarian family of views because it accepts two additional elements: first, _[hedonism](/theories-of-well-being/#hedonism)_, the view that well-being consists only of conscious experiences; and second, the _[total view](/population-ethics#the-total-view)_ of population ethics, on which one outcome is better than another if and only if it contains a greater sum total of well-being, where well-being can be increased either by making existing people better off or by creating new people with good lives.
 
 ### Theories of Well-Being: Hedonism
 
-_→ Main article: [Theories of Well-Being](/theories-of-wellbeing)_
+_→ Main article: [Theories of Well-Being](/theories-of-well-being)_
 
 Classical utilitarianism accepts _hedonism_ as a theory of well-being, which we define as follows:
 
@@ -112,7 +112,7 @@ Classical utilitarianism accepts _hedonism_ as a theory of well-being, which we 
 
 Ethical hedonists believe that the only things good in themselves are the experiences of positive conscious states, such as enjoyment and pleasure; and the only things bad in themselves are the experiences of negative conscious states, such as misery and pain. _Happiness_ and _suffering_ are commonly used by philosophers as shorthand for the terms _positive conscious experience_ and _negative conscious experience_ respectively.
 
-We discuss the arguments for and against hedonism—and its two major rivals, _desire theories_ and _objective list theories_—in Chapter 4: [Theories of Well-Being](/theories-of-wellbeing).
+We discuss the arguments for and against hedonism—and its two major rivals, _desire theories_ and _objective list theories_—in Chapter 4: [Theories of Well-Being](/theories-of-well-being).
 
 ### Population Ethics: The Total View
 
@@ -124,7 +124,7 @@ Classical utilitarianism accepts a population ethical theory known as the _total
 
 The total view implies that we can improve the world in two ways:[^8a] either we can improve the quality of life of existing people, or we can increase the number of people living positive lives.[^9] In practice, there are often trade-offs between making existing people happier and creating additional happy people. On a planet with limited resources, adding more people to an already large population may at some point diminish the quality of life of everyone else severely enough that total well-being decreases.
 
-The total view’s foremost practical implication is [giving great importance](/utilitarianism-and-practical-ethics#longtermism) to ensuring the long-term flourishing of civilization. Since the total well-being enjoyed by all future people is potentially enormous, according to the total view, the [mitigation of existential risks](/acting-on-utilitarianism#existential-risk-reduction)—which threaten to destroy this immense future value—is one of the principal moral issues facing humanity.
+The total view’s foremost practical implication is [giving great importance](/utilitarianism-and-practical-ethics/#longtermism-expanding-the-moral-circle-across-time) to ensuring the long-term flourishing of civilization. Since the total well-being enjoyed by all future people is potentially enormous, according to the total view, the [mitigation of existential risks](/acting-on-utilitarianism#existential-risk-reduction)—which threaten to destroy this immense future value—is one of the principal moral issues facing humanity.
 
 Alternatives to the total view in population ethics include the _average view_, _variable value theories_, _critical level (and range) theories,_ and _person-affecting views_. We explain and discuss these theories in Chapter 5: [Population Ethics](/population-ethics).
 

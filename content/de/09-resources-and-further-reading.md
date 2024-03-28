@@ -43,7 +43,7 @@ Ressourcen für [Einführung in den Utilitarismus](/introduction-to-utilitariani
 
 ## Kapitel 2: Elemente und Arten des Utilitarismus
 
-Ressourcen für [Elemente und Arten des Utilitarismus](/types-of-utilitarianism):
+Ressourcen für [Elemente und Arten des Utilitarismus](/arten-des-utilitarismus):
 
 ### Konsequentialismus
 
@@ -118,7 +118,7 @@ Ressourcen für [Elemente und Arten des Utilitarismus](/types-of-utilitarianism)
 
 ## Kapitel 3: Argumente für Utilitarismus
 
-Ressourcen für [Argumente für Utilitarismus](/arguments-for-utilitarianism):
+Ressourcen für [Argumente für Utilitarismus](/argumente-fur-utilitarismus):
 
 - John Broome (1987). [Utilitarianism and Expected Utility](https://doi.org/10.2307/2026999), _The Journal of Philosophy_ 84 (8): 405–422.
 - John Broome (1991). _Weighing Goods: Equality, Uncertainty and Time_. Blackwell.
@@ -134,7 +134,7 @@ Ressourcen für [Argumente für Utilitarismus](/arguments-for-utilitarianism):
 
 ## Kapitel 4: Theorien über Wohlergehen
 
-Ressourcen für [Theorien über Wohlergehen](/theories-of-wellbeing):
+Ressourcen für [Theorien über Wohlergehen](/theorien-uber-wohlergehen):
 
 ### Einführung
 
@@ -175,7 +175,7 @@ Ressourcen für [Theorien über Wohlergehen](/theories-of-wellbeing):
 
 ## Kapitel 5: Populationsethik
 
-Ressourcen für [Populationsethik](/population-ethics):
+Ressourcen für [Populationsethik](/populationsethik):
 
 ### Allgemeine Abhandlungen zu Populationsethik
 
@@ -324,7 +324,7 @@ Ressourcen für [Utilitarismus-nahe Alternativen](/near-utilitarian-alternatives
 
 ## Kapitel 8: Einwände gegen den Utilitarismus und Antworten
 
-Ressourcen für [Einwände gegen den Utilitarismus und Antworten](/objections-to-utilitarianism):
+Ressourcen für [Einwände gegen den Utilitarismus und Antworten](/einwande):
 
 ### Allgemein
 

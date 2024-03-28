@@ -25,7 +25,7 @@ Im Sinne des Utilitarismus bestimmt nur die Gesamtsumme des Wohlergehens die Gü
 
 Einige Philosophen widersprechen der utilitaristischen Sichtweise in Bezug auf diese Wahl und behaupten, dass die gleichmäßige Verteilung von Wohlergehen ein Grund ist, dieses Ergebnis zu wählen. Nach dieser Auffassung kommt es nicht nur auf die Gesamtsumme von Wohlergehen an, sondern auch auf die Gleichheit in der Verteilung. Eine gleichmäßigere Verteilung, so die Behauptung, ist ein wichtiger moralischer Faktor, die der Utilitarist übersehe.
 
-Befürworter des Utilitarismus können auf diesen [Einwand auf vier Arten reagieren](https://utilitarianism.net/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). Wir werden diese der Reihe nach durchgehen.
+Befürworter des Utilitarismus können auf diesen [Einwand auf vier Arten reagieren](/einwande/#generelle-m%C3%B6glichkeiten-auf-einw%C3%A4nde-gegen-den-utilitarismus-zu-reagieren). Wir werden diese der Reihe nach durchgehen.
 
 ## Die Intuition unterbringen
 
@@ -53,9 +53,9 @@ Wir sind der Meinung, dass es, so präsentiert, nicht mehr intuitiv offensichtli
 
 ## Kritik an den Alternativen
 
-Die dritte mögliche Antwort besteht darin, die _verfügbaren Alternativen_ zum Utilitarismus _zu kritisieren_, um zu zeigen, dass sie noch kontraintuitivere Implikationen haben. Zum Beispiel unterliegt der [Egalitarismus](https://utilitarianism.net/near-utilitarian-alternatives#egalitarianism-and-distributive-justice) einem Einwand von der _Gleichmacherei_ durch das Schlechterstellen mancher, der besagt, dass er es in Kauf nimmt, den Bessergestellten zu schaden (ohne irgendjemandem zu nützen), da dies einen positiven Effekt auf die Gleichheit hat.[^3] Wenn man nicht glaubt, dass eine solche Angleichung nach unten etwas Gutes hat, dann unterstützt das die utilitaristische Ansicht, dass Gleichheit nur instrumentell wertvoll ist: wertvoll, wenn und weil sie dazu dient, das Gesamtwohlergehen zu fördern.[^4]
+Die dritte mögliche Antwort besteht darin, die _verfügbaren Alternativen_ zum Utilitarismus _zu kritisieren_, um zu zeigen, dass sie noch kontraintuitivere Implikationen haben. Zum Beispiel unterliegt der [Egalitarismus](/utilitarismus-nahe-alternativen/#egalitarismus-und-verteilungsgerechtigkeit) einem Einwand von der _Gleichmacherei_ durch das Schlechterstellen mancher, der besagt, dass er es in Kauf nimmt, den Bessergestellten zu schaden (ohne irgendjemandem zu nützen), da dies einen positiven Effekt auf die Gleichheit hat.[^3] Wenn man nicht glaubt, dass eine solche Angleichung nach unten etwas Gutes hat, dann unterstützt das die utilitaristische Ansicht, dass Gleichheit nur instrumentell wertvoll ist: wertvoll, wenn und weil sie dazu dient, das Gesamtwohlergehen zu fördern.[^4]
 
-Wir können auch zeigen, dass Alternativen zur utilitaristischen Verteilung von Wohlergehen einen Grundsatz verletzen, der als _[ex ante Pareto](https://utilitarianism.net/arguments-for-utilitarianism/#ex-ante-pareto)_ bezeichnet wird: Wenn bei einer Wahl zwischen zwei Glücksspielen jeder rationalerweise Glücksspiel A gegenüber Glücksspiel B vorziehen würde, dann ist Glücksspiel A besser als Glücksspiel B.
+Wir können auch zeigen, dass Alternativen zur utilitaristischen Verteilung von Wohlergehen einen Grundsatz verletzen, der als _[ex ante Pareto](/argumente-fur-utilitarismus/#ex-ante-pareto)_ bezeichnet wird: Wenn bei einer Wahl zwischen zwei Glücksspielen jeder rationalerweise Glücksspiel A gegenüber Glücksspiel B vorziehen würde, dann ist Glücksspiel A besser als Glücksspiel B.
 
 Um dies zu veranschaulichen, nehmen wir an, dass wir zwischen zwei Verteilungen von Wohlergehen wählen können: einem sicheren Ergebnis und einem riskanten Spiel: Bei dem sicheren Ergebnis sind sowohl Abel als auch Beth 45 Einheiten Wohlergehen garantiert. Beim riskanten Spiel erfolgt ein fairer Münzwurf. Bei Kopf erhält Abel 80 Einheiten Wohlergehen, während Beth nur 20 Einheiten erhält. Bei Zahl erhält Beth die 80 Einheiten Wohlergehen und Abel die 20 Einheiten.
 
@@ -93,7 +93,7 @@ Schließlich können Befürworter des Utilitarismus wieder einmal „in den saur
      Parfit, D. (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_, 10(3): 202–221.
 
 [^4]:
-     Dies lässt jedoch die Wahl zwischen dem [Prioritarismus](https://utilitarianism.net/near-utilitarian-alternatives#prioritarianism), der den Interessen der am schlechtesten Gestellten mehr Gewicht verleiht, und der [gleichberechtigten Berücksichtigung von Interessen](https://utilitarianism.net/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests) durch den Utilitarismus offen.
+     Dies lässt jedoch die Wahl zwischen dem [Prioritarismus](/utilitarismus-nahe-alternativen/#prioritarismus), der den Interessen der am schlechtesten Gestellten mehr Gewicht verleiht, und der [gleichberechtigten Berücksichtigung von Interessen](/arten-des-utilitarismus/#unparteilichkeit-und-gleichberechtigte-ber%C3%BCcksichtigung-von-interessen) durch den Utilitarismus offen.
 
 [^5]:
      In der Tat wird das Wohlergehen angesichts von Ungewissheit in der Regel anhand rationaler Entscheidungen definiert. In diesem Sinne bedeutet ein Ergebnis von 100 Wohlergehen, dass man beispielsweise zwischen diesem Ergebnis und einer 50/50-Chance auf 200 Wohlergehen oder 0 Wohlergehen gleichgültig sein sollte.
