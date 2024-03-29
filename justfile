@@ -1,12 +1,12 @@
 run:
   hugo serve
 
-build:    reset search1 move-en search2 pdf-en pdf production move-en delete zip serve
-build-de: reset search1 move-de search2 pdf-de pdf production move-de delete zip serve
-build-es: reset search1 move-es search2 pdf-es pdf production move-es delete zip serve
-# note the differences:      ^^             ^^                     ^^
+nopdf:    reset search1 move-en search2            production move-en zip serve
 
-nopdf: reset search1 move-en search2 production move-en delete zip serve
+build:    reset search1 move-en search2 pdf-en pdf production move-en zip serve
+build-de: reset search1 move-de search2 pdf-de pdf production move-de zip serve
+build-es: reset search1 move-es search2 pdf-es pdf production move-es zip serve
+# note the differences:      ^^             ^^                     ^^
 
 @pdf-en:
   cp pdf/w2pdf_template/footer.en.html pdf/w2pdf_template/footer.html
@@ -36,23 +36,15 @@ nopdf: reset search1 move-en search2 production move-en delete zip serve
 
 @move-en:
   cp -R public/en/* public
-  just move
+  just delete
 
 @move-de:
   cp -R public/de/* public
-  just move
+  just delete
 
 @move-es:
   cp -R public/es/* public
-  just move
-
-@move:
-  rm -rf public/en
-  rm -rf public/es
-  rm -rf public/de
-  echo ""
-  echo "   🚀  moved public/en to /public"
-  echo ""
+  just delete
 
 @delete:
   rm -rf public/en
