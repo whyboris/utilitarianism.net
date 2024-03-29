@@ -1,21 +1,12 @@
 run:
   hugo serve
 
-nopdf:    reset search1 move-en search2            production move-en zip serve
+nopdf:    reset search1 move-en search2        production move-en2 zip serve
 
-build:    reset search1 move-en search2 pdf-en pdf production move-en zip serve
-build-de: reset search1 move-de search2 pdf-de pdf production move-de zip serve
-build-es: reset search1 move-es search2 pdf-es pdf production move-es zip serve
-# note the differences:      ^^             ^^                     ^^
-
-@pdf-en:
-  cp pdf/w2pdf_template/footer.en.html pdf/w2pdf_template/footer.html
-
-@pdf-de:
-  cp pdf/w2pdf_template/footer.de.html pdf/w2pdf_template/footer.html
-
-@pdf-es:
-  cp pdf/w2pdf_template/footer.es.html pdf/w2pdf_template/footer.html
+build:    reset search1 move-en search2 pdf-en production move-en2 zip serve
+build-de: reset search1 move-de search2 pdf-de production move-de2 zip serve
+build-es: reset search1 move-es search2 pdf-es production move-es2 zip serve
+# note the differences:      ^^             ^^                 ^^
 
 @reset:
   rm -rf public
@@ -33,6 +24,17 @@ build-es: reset search1 move-es search2 pdf-es pdf production move-es zip serve
   echo ""
   echo "   🚀  search index generated"
   echo ""
+
+# see bug: https://github.com/casey/just/issues/1985
+
+@move-en2:
+  just move-en
+
+@move-de2:
+  just move-de
+
+@move-es2:
+  just move-es
 
 @move-en:
   cp -R public/en/* public
@@ -54,10 +56,22 @@ build-es: reset search1 move-es search2 pdf-es pdf production move-es zip serve
   echo "   🚀  removed extra folders from /public"
   echo ""
 
-@pdf:
+@pdf-en:
+  cp pdf/w2pdf_template/footer.en.html pdf/w2pdf_template/footer.html
+  just pdf pdf-en
+
+@pdf-de:
+  cp pdf/w2pdf_template/footer.de.html pdf/w2pdf_template/footer.html
+  just pdf pdf-de
+
+@pdf-es:
+  cp pdf/w2pdf_template/footer.es.html pdf/w2pdf_template/footer.html
+  just pdf pdf-es
+
+@pdf script:
   node build.js pdf
   hugo serve & sleep 2
-  npm run pdf
+  npm run {{script}}
   node build.js pdfreset
   node build.js reset
   npm run kill-hugo
