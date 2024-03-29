@@ -71,10 +71,10 @@
 [button.choose-career]
   other = "Mit seinem Beruf Gutes tun"
 [button.learn-more]
-  other = "DE: Want to learn more about utilitarianism?"
+  other = "Mehr über Utilitarismus erfahren:"
 [button.read-theory]
-  other = "DE: Read about the theory behind utilitarianism:"
+  other = "Über die Theorie des Utilitarismus:"
 [button.learn-improve]
-  other = "DE: Learn how to use utilitarianism to improve the world:"
+  other = "Mehr darüber erfahren, wie man mit Utilitarismus die Welt verbessern kann:"
 [link.introduction]
   other = "introduction-to-utilitarianism"

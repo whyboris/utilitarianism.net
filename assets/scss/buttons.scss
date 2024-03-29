@@ -59,6 +59,11 @@
 
   .two-button-callout {
     display: flex;
+    align-items: flex-end;
+
+    div {
+      flex: 1 1 0;
+    }
 
     .callout-button {
       padding: 12px 20px;
