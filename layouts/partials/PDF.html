@@ -10,6 +10,11 @@
   {{ $myVar2 := replaceRE "( |,|_|-|—|:|'|\\.|  )" "_" $myVar }}
   {{ $myVar3 := replace $myVar2 "__" "_" }}
   {{ $myVar4 := replace $myVar3 "__" "_" }}
+  {{ $myVar5 := replace $myVar4 "ä" "a" }}
+  {{ $myVar6 := replace $myVar5 "ü" "ue" }}
+  {{ $myVar7 := replace $myVar6 "ß" "ss" }}
+  {{ $myVar8 := replace $myVar7 "„" "" }}
+  {{ $myVar9 := replace $myVar8 "“" "" }}
 
 <div id="player-container" class="audio-player">
 
@@ -30,7 +35,7 @@
 
 <div class="pdf-download">
 
-  <a href="/pdf/{{ $myVar4 }}.pdf">
+  <a href="/pdf/{{ $myVar9 }}.pdf">
     <img
       src="/img/pdf.svg"
       class="pdf-icon"

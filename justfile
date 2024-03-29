@@ -1,9 +1,12 @@
 run:
   hugo serve
 
-build: reset search pdf production move delete zip serve
+build:    reset search1 move-en search2 pdf production move-en delete zip serve
+build-de: reset search1 move-de search2 pdf production move-de delete zip serve
+build-es: reset search1 move-es search2 pdf production move-es delete zip serve
+# note the differences:      ^^                             ^^
 
-nopdf: reset search production move delete zip serve
+nopdf: reset search1 move-en search2 production move-en delete zip serve
 
 @reset:
   rm -rf public
@@ -11,18 +14,30 @@ nopdf: reset search production move delete zip serve
   echo "   🚀  emptied /public"
   echo ""
 
-@search:
+@search1:
   node build.js search
   hugo
-  just move
+
+@search2:
   npm run search
   node build.js reset
   echo ""
   echo "   🚀  search index generated"
   echo ""
 
-@move:
+@move-en:
   cp -R public/en/* public
+  just move
+
+@move-de:
+  cp -R public/de/* public
+  just move
+
+@move-es:
+  cp -R public/es/* public
+  just move
+
+@move:
   rm -rf public/en
   rm -rf public/es
   rm -rf public/de
