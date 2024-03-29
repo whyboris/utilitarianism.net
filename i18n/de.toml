@@ -14,6 +14,8 @@
   other = "„"
 [text.right-quote]
   other = "“"
+[text.textbook-overview]
+  other = "Übersicht über das Textbuch"
 [menu.acting]
   other = "Utilitarismus als Handlungsgrundlage"
 [link.acting]

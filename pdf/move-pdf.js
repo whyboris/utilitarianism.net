@@ -21,7 +21,13 @@ if (!fs.existsSync(public_pdf)) {
 files.forEach((file) => {
   const filename = path.basename(file);
 
-  const newLocation = public_pdf + path.sep + filename;
+  const accentsRemoved = filename.replace("ü", "ue")
+                                 .replace("ß","ss")
+                                 .replace("ä","a")
+                                 .replace("“", "")
+                                 .replace("„", "")
+
+  const newLocation = public_pdf + path.sep + accentsRemoved;
 
   fs.rename(file, newLocation, function (err) {
     if (err) throw err;

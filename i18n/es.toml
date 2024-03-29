@@ -14,6 +14,8 @@
   other = "«"
 [text.right-quote]
   other = "»"
+[text.textbook-overview]
+  other = "ES: Textbook Overview"
 [menu.acting]
   other = "Actuar conforme al utilitarismo"
 [link.acting]

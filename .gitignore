@@ -6,9 +6,11 @@ node_modules
 package-lock.json
 pdf/temp
 pdf/**/*.pdf
+pdf/w2pdf_template/footer.html
 
 dist
 
 **/.DS_store
 
 content/bib.json
+

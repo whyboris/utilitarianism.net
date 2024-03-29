@@ -1,9 +1,14 @@
 run:
   hugo serve
 
-build: reset search pdf production move delete zip serve
+build: build-en
 
-nopdf: reset search production move delete zip serve
+build-en: reset search1 move-en search2 pdf-en production move-en2 zip serve
+build-de: reset search1 move-de search2 pdf-de production move-de2 zip serve
+build-es: reset search1 move-es search2 pdf-es production move-es2 zip serve
+# note the differences:      ^^             ^^                 ^^
+
+nopdf:    reset search1 move-en search2        production move-en2 zip serve
 
 @reset:
   rm -rf public
@@ -11,24 +16,39 @@ nopdf: reset search production move delete zip serve
   echo "   🚀  emptied /public"
   echo ""
 
-@search:
+@search1:
   node build.js search
   hugo
-  just move
+
+@search2:
   npm run search
   node build.js reset
   echo ""
   echo "   🚀  search index generated"
   echo ""
 
-@move:
+# see bug: https://github.com/casey/just/issues/1985
+
+@move-en2:
+  just move-en
+
+@move-de2:
+  just move-de
+
+@move-es2:
+  just move-es
+
+@move-en:
   cp -R public/en/* public
-  rm -rf public/en
-  rm -rf public/es
-  rm -rf public/de
-  echo ""
-  echo "   🚀  moved public/en to /public"
-  echo ""
+  just delete
+
+@move-de:
+  cp -R public/de/* public
+  just delete
+
+@move-es:
+  cp -R public/es/* public
+  just delete
 
 @delete:
   rm -rf public/en
@@ -38,10 +58,22 @@ nopdf: reset search production move delete zip serve
   echo "   🚀  removed extra folders from /public"
   echo ""
 
-@pdf:
+@pdf-en:
+  cp pdf/w2pdf_template/footer.en.html pdf/w2pdf_template/footer.html
+  just pdf pdf-en
+
+@pdf-de:
+  cp pdf/w2pdf_template/footer.de.html pdf/w2pdf_template/footer.html
+  just pdf pdf-de
+
+@pdf-es:
+  cp pdf/w2pdf_template/footer.es.html pdf/w2pdf_template/footer.html
+  just pdf pdf-es
+
+@pdf script:
   node build.js pdf
   hugo serve & sleep 2
-  npm run pdf
+  npm run {{script}}
   node build.js pdfreset
   node build.js reset
   npm run kill-hugo

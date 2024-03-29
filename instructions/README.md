@@ -152,21 +152,13 @@ Once the build is finished, you'll get a link in your terminal (to `http://local
 
 ## Languages
 
-This repository is set up to build the same website in many languages. Default build is English, `just build` will work. For other languages, manual steps are needed. Below are instructions for _German_ but other languages work the same way:
+All languages are accessible during development, each has its own link when you run `npm start`. When you are ready to build the public website (with all the search & PDF capabilities) in a particular language, run the associated command:
 
-When you run `hugo serve` you should see three lines for each langauge, e.g.
+- English: `just build`
+- German: `just build-de`
+- Spanish: `just build-es`
 
-```
-Web Server is available at http://localhost:1315/ (bind address 127.0.0.1) de
-```
-
-Note the _port_ number, here `1315` - you will need it.
-
-- Inside `/pdf/w2pdf_template/` rename `footer.de.html` to `footer.html` (replace old file)
-- In `justfile` update the `@move` command to have `/de` instead of `/en` on the first line
-- In `package.json` update the `"pdf":` line with the correct _port_ number from `1313` to one you saw with `hugo serve`
-
-Now run `npm run build` and you have your full website!
+_Note:_ PDF filenames in German have some replacements: `ü` -> `ue`, `ß` -> `ss`, `ä` -> `a`, while `“` & `„` are removed -- all so that PDFs are accessible when the link is clicked. See `move-pdf.js` and `PDF.html` (both of which need identical replacement rules).
 
 ### Bibliography
 
