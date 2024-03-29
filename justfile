@@ -1,12 +1,14 @@
 run:
   hugo serve
 
-nopdf:    reset search1 move-en search2        production move-en2 zip serve
+build: build-en
 
-build:    reset search1 move-en search2 pdf-en production move-en2 zip serve
+build-en: reset search1 move-en search2 pdf-en production move-en2 zip serve
 build-de: reset search1 move-de search2 pdf-de production move-de2 zip serve
 build-es: reset search1 move-es search2 pdf-es production move-es2 zip serve
 # note the differences:      ^^             ^^                 ^^
+
+nopdf:    reset search1 move-en search2        production move-en2 zip serve
 
 @reset:
   rm -rf public
