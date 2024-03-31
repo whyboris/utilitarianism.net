@@ -1,6 +1,6 @@
 ---
 title: "Der Einwand der besonderen Verpflichtungen"
-slug: "besonderen-verpflichtungen"
+slug: "besondere-verpflichtungen"
 authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29
 type: "page"

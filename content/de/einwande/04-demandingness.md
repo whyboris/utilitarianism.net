@@ -1,6 +1,6 @@
 ---
 title: "Der Einwand, Utilitarismus sei zu fordernd"
-slug: "sei-zu-fordernd"
+slug: "fordernd"
 authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 type: "page"
