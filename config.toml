@@ -42,7 +42,7 @@ enableRobotsTXT = true
       pdfString = "_Utilitarismus_net"
     [languages.de.services]
       [languages.de.services.googleAnalytics]
-        ID = 'G-ADD-ID'
+        ID = 'G-590G02FLYR'
 [Params]
   images = ["img/social.png"]
   # WARNING - below 3 (pdf, search, production) should all be "false"

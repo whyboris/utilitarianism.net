@@ -323,7 +323,7 @@ Im nächsten Kapitel werden Argumente für Utilitarismus und Konsequentialismus 
      Sidgwick, H. (1874). _[The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf)_. Bennett, J. (Hrsg), p. 186.
 
 [^5]:
-     Siehe dazu den [Einwand bezüglich besonderer Verpflichtungen](/einwande/besonderen-verpflichtungen).
+     Siehe dazu den [Einwand bezüglich besonderer Verpflichtungen](/einwande/besondere-verpflichtungen).
 
 [^6]:
      Im Prinzip sind auch andere Aggregationsmethoden (wie Multiplikation oder etwas Komplexeres) denkbar. Wir konzentrieren uns hier jedoch auf die additive Form des Aggregationismus, da dies die bei weitem häufigste Ansicht ist.
