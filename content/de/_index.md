@@ -1,6 +1,6 @@
 ---
 title: "Was ist Utilitarismus?"
-description: "Utilitarianism.net is an open access textbook with guest essays, study guides, and other resources"
+description: "Utilitarismusm.net ist ein frei zugängliches Lehrbuch mit Gastaufsätzen, Studienführern und anderen Ressourcen"
 ---
 
 <div class="dark-background">
