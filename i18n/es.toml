@@ -78,3 +78,7 @@
   other = "ES: Learn how to use utilitarianism to improve the world:"
 [link.introduction]
   other = "ES-FIX-LINK-introduction-to-utilitarianism"
+[404.no-content]
+  other = "ES: There is no content at this page address"
+[404.please-navigate]
+  other = "ES: Please use the navigation or search to find what you were looking for"

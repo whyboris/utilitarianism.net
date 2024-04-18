@@ -78,3 +78,7 @@
   other = "Mehr darüber erfahren, wie man mit Utilitarismus die Welt verbessern kann:"
 [link.introduction]
   other = "introduction-to-utilitarianism"
+[404.no-content]
+  other = "Unter dieser Seitenadresse gibt es keinen Inhalt"
+[404.please-navigate]
+  other = "Bitte nutzen Sie die Navigation oder die Suche, um zu finden, wonach Sie gesucht haben"
