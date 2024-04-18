@@ -10,6 +10,8 @@ build-es: reset search1 move-es search2 pdf-es production move-es2 zip serve
 
 nopdf:    reset search1 move-en search2        production move-en2 zip serve
 
+minimal:  reset search1 move-en search2        production move-en2     serve
+
 @reset:
   rm -rf public
   echo ""

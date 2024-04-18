@@ -1,3 +1,5 @@
+[site.lang]
+  other = "es"
 [site.locale]
   other = "es-ES"
 [site.url-full]
