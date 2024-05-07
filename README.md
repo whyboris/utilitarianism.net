@@ -1,6 +1,14 @@
 # Utilitarianism.net
 
-Official code for the [_utilitarianism.net_](https://www.utilitarianism.net/) website.
+Official code for [_utilitarianism.net_](https://www.utilitarianism.net/) and its translations:
+
+| Language | Website |
+| -------- | ------- |
+| English  | [utilitarianism.net](https://www.utilitarianism.net/) |
+| German   | [utilitarismus.net](https://www.utilitarismus.net/) |
+| Spanish  | utilitarismo.net - _coming soon_ |
+
+To add a translation, please reach out to us and then follow the [recommended instructions](instructions/translating.md).
 
 We are using [_Hugo_](https://gohugo.io/) to build the base website and a few _npm packages_ and scripts to generate PDFs, add search functionality, etc.
 
@@ -35,13 +43,6 @@ npm run build
 The `/public` folder now contains all the static files. The `/dist` folder now has the zip of them all: upload to your webhost, unzip, and you are _done_ 🤩
 
 For more details see [instructions/README.md](instructions/README.md#building)
-
-## Languages
-
-This website can be built in different languages, one language at a time. You must manually change `config.toml` to pick the language and disable all others:
-
-- `defaultContentLanguage = "en"`
-- `disableLanguages = ["es", "de"]`
 
 ## Adding documents
 
