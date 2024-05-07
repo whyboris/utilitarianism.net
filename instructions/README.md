@@ -150,7 +150,7 @@ See `justfile` for details; notice it uses `build.js` to do some of its bidding.
 
 Once the build is finished, you'll get a link in your terminal (to `http://localhost:3000`) which will be a local preview of the finished website. Please spot-check it to make sure it functions as expected (for example: search works & PDFs exist).
 
-## Languages
+## Languages / Translations
 
 All languages are accessible during development, each has its own link when you run `npm start`. When you are ready to build the public website (with all the search & PDF capabilities) in a particular language, run the associated command:
 
