@@ -1,4 +1,4 @@
-# Archive
+# Instructions
 
 This folder contains instructions for people new to coding, tips for cleaning markdown files imported from _Google Docs_, some old notes, and more details about building the application.
 
@@ -8,7 +8,7 @@ This folder contains instructions for people new to coding, tips for cleaning ma
 - [Importing from Google Docs](#importing-from-google-docs)
 - [Miscellaneous Notes](#miscellaneous-notes)
 - [How builds are generated](#how-builds-are-generated)
-- [Languages](#languages)
+- [Languages](#languages--translations)
 
 ## First time coding
 
