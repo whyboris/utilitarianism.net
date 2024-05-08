@@ -10,9 +10,9 @@ Official code for [_utilitarianism.net_](https://www.utilitarianism.net/) and it
 
 To add a translation, please reach out to us and then follow the [recommended instructions](instructions/translating.md).
 
-We are using [_Hugo_](https://gohugo.io/) to build the base website and a few _npm packages_ and scripts to generate PDFs, add search functionality, etc.
-
 ## Developing
+
+We are using [_Hugo_](https://gohugo.io/) to build the base website and a few _npm packages_ and scripts to generate PDFs, add search functionality, etc.
 
 If you're new to coding, see the [detailed instructions](instructions/README.md#first-time-coding).
 
@@ -44,10 +44,6 @@ The `/public` folder now contains all the static files. The `/dist` folder now h
 
 For more details see [instructions/README.md](instructions/README.md#building)
 
-## Adding documents
-
-You can easily import Google Documents via [Docs to Markdown](https://workspace.google.com/u/0/marketplace/app/docs_to_markdown/700168918607). see [instructions/README.md](instructions/README.md#importing-from-google-docs) for more info.
-
 ## Notes
 
 See [instructions/README.md](instructions/README.md) for more useful information about getting started with or working on this project.
@@ -64,8 +60,8 @@ A huge **thank you** to the numerous creators and contributors that make buildin
 
 **Thank you** to supporting libraries that make the process of building better:
 
-- [theme/ananke](https://github.com/theNewDynamic/gohugo-theme-ananke) for helping set up this Hugo project
-- [just](https://github.com/casey/just) for handle building scripts
+- [theme/ananke](https://github.com/theNewDynamic/gohugo-theme-ananke) for being the starting theme of this Hugo project
+- [just](https://github.com/casey/just) for handling building scripts
 - [fdir](https://github.com/thecodrr/fdir) for the fastest way to crawl a directory
 - [bestzip](https://github.com/nfriedly/node-bestzip) for zipping the finished files into one
 - [serve](https://github.com/vercel/serve) for previewing the final build
