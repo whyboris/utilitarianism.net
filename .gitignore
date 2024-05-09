@@ -14,3 +14,5 @@ dist
 
 content/bib.json
 
+images/Global-Income-Distribution/.ipynb_checkpoints
+images/Global-Income-Distribution/*.svg
