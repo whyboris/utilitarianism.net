@@ -28,7 +28,7 @@ Throughout this article, we use expressions like “doing good” and “having 
 
 Wealth and income are distributed extremely unequally across the globe. Middle-class members of rich countries like the US and UK earn 50 times as much as the poorest 750 million people in the world; this puts them in the richest 5% of the world’s population.[^2] This disparity in wealth means that well-off citizens of affluent nations are presented with outstanding opportunities to benefit others.
 
-![World income distribution](/img/World-Income-Distribution.png "World income distribution")
+![World income distribution](/img/World-Income-Distribution.svg "World income distribution")
 
 > _Earning above 31,000 $ per year puts you in the richest 5% of the world population._ Cf. Giving What We Can (2024). [How Rich Am I?](https://www.givingwhatwecan.org/how-rich-am-i?income=31000&countryCode=USA&numAdults=1&numChildren=0).
 
