@@ -11,6 +11,7 @@ page: 8
 description: "Wird der Utilitarismus dadurch untergraben, dass wir die langfristigen Folgen unseres Handelns nicht vorhersagen können? In diesem Artikel wird untersucht, ob sich Utilitaristen immer noch vom kurzfristigen Erwartungswert leiten lassen können, auch wenn dieser im Vergleich zum potenziellen Wert oder Schaden der unbekannten langfristigen Folgen gering ist."
 gradientTop: "#260380"
 gradientBottom: "#6F4BC9"
+mp3: "https://www.buzzsprout.com/2357046/14940236-8-8-der-einwand-von-der-ahnungslosigkeit.mp3"
 ---
 
 {{< TOC >}}

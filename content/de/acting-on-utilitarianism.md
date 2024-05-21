@@ -6,6 +6,7 @@ date: 2023-01-29
 draft: false
 menu: "acting"
 weight: 5
+mp3: "https://www.buzzsprout.com/2357046/14940260-utilitarismus-als-handlungsgrundlage.mp3"
 ---
 
 > _„Schaffe so viel Glück, wie du schaffen kannst; beseitige so viel Elend, wie du beseitigen kannst. Ein jeder Tag wird dir erlauben, wird dich dazu einladen, etwas zur Freude anderer beizutragen oder etwas ihrer Schmerzen zu mindern.”_

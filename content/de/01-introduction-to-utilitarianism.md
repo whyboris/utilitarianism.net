@@ -9,6 +9,7 @@ weight: 101
 description: "In diesem Kapitel werden der Utilitarismus und seine wesentlichen Vor- und Nachteile als Moraltheorie vorgestellt."
 gradientTop: "#0c3b5b"
 gradientBottom: "#236d9f"
+mp3: "https://www.buzzsprout.com/2357046/14939840-1-einfuhrung-in-den-utilitarismus.mp3"
 ---
 
 > _„Die Aufgabe des Wohlwollenden ist es sicherlich, sich eifrig zu bemühen, den Nutzen auf der Welt zu mehren und Leid auf der Welt zu eliminieren und dies zum Vorbild für die ganze Welt zu nehmen. Hilft es Menschen? Dann tue es. Hilft es Leuten nicht? So höre auf.”_

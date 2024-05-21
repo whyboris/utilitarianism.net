@@ -84,3 +84,11 @@
   other = "Unter dieser Seitenadresse gibt es keinen Inhalt"
 [404.please-navigate]
   other = "Bitte nutzen Sie die Navigation oder die Suche, um zu finden, wonach Sie gesucht haben"
+[mp3.apple]
+  other = "https://podcasts.apple.com/us/podcast/einführung-in-den-utilitarismus/id1742843038"
+[mp3.spotify]
+  other = "https://open.spotify.com/show/0NrrTLCXo9fmOOwq3ZXoln"
+[mp3.podcast-addict]
+  other = "https://podcastaddict.com/podcast/einfuhrung-in-den-utilitarismus/5090776"
+[mp3.rss]
+  other = "https://feeds.buzzsprout.com/2040011.rss"

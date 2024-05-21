@@ -11,6 +11,7 @@ page: 5
 description: "Abstrakte Moraltheorien drohen uns von vielem zu entfremden, was uns teuer ist. In diesem Artikel werden zwei mögliche Verteidigungen des Utilitarismus gegen diesen Vorwurf untersucht. Die eine empfiehlt, andere als explizit utilitaristische Motivationen zu adoptieren. In der zweiten wird argumentiert, dass konkrete Anliegen unter umfassendere utilitaristische Motivationen subsumiert werden können."
 gradientTop: "#5F3091"
 gradientBottom: "#822FA8"
+mp3: "https://www.buzzsprout.com/2357046/14940216-8-5-der-einwand-der-entfremdung.mp3"
 ---
 
 {{< TOC >}}

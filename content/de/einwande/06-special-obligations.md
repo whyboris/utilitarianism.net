@@ -11,6 +11,7 @@ page: 6
 description: "Aus Beziehungen wie Elternschaft oder Vormundschaft ergeben sich scheinbar besondere Verpflichtungen zum Schutz derjenigen, die unserer Obhut unterstehen (wobei diese Verpflichtungen strenger sind als unsere allgemeinen Pflichten zur Wohltätigkeit gegenüber Fremden). In diesem Artikel wird untersucht, inwieweit der unparteiliche Utilitarismus Intuitionen und normativen Praktiken der Parteilichkeit Rechnung tragen kann."
 gradientTop: "#822FA8"
 gradientBottom: "#531694"
+mp3: "https://www.buzzsprout.com/2357046/14940227-8-6-der-einwand-der-besonderen-verpflichtungen.mp3"
 ---
 
 {{< TOC >}}

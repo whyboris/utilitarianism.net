@@ -8,6 +8,7 @@ weight: 104
 description: "Es werden die drei wichtigsten Theorien von Wohlergehen untersucht, das heißt Theorien darüber, was ein Leben für den Einzelnen gut macht: Hedonismus, Wunscherfüllungstheorie und Objektive-Listen-Theorie."
 gradientTop: "#084BC7"
 gradientBottom: "#1B7CCC"
+mp3: "https://www.buzzsprout.com/2357046/14939902-4-theorien-uber-wohlergehen.mp3"
 ---
 
 > _„Welcher Sache soll man das Merkmal der Utilität zuschreiben, wenn nicht der Sache, die eine Quelle der Freude ist?”_
