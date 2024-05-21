@@ -84,3 +84,11 @@
   other = "ES: There is no content at this page address"
 [404.please-navigate]
   other = "ES: Please use the navigation or search to find what you were looking for"
+[mp3.apple]
+  other = "https://podcasts.apple.com/us/podcast/introduction-to-utilitarianism/id1696998316"
+[mp3.spotify]
+  other = "https://open.spotify.com/show/7efBJVNSuPMcj6LaMSfuDf"
+[mp3.podcast-addict]
+  other = "https://podcastaddict.com/podcast/introduction-to-utilitarianism/4535260"
+[mp3.rss]
+  other = "https://feeds.type3.audio/utilitarianism-net.rss"
