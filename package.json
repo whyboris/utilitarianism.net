@@ -28,11 +28,11 @@
     "fdir": "6.1.1",
     "kill-port": "2.0.1",
     "markdown-link-extractor": "4.0.2",
-    "pagefind": "1.0.4",
+    "pagefind": "1.1.0",
     "pdf-merger-js": "5.1.1",
     "prettier": "3.2.5",
     "prettier-plugin-go-template": "0.0.15",
-    "serve": "14.2.1",
+    "serve": "14.2.3",
     "website2pdf": "0.0.16"
   }
 }
