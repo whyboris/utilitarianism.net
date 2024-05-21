@@ -92,3 +92,5 @@
   other = "https://podcastaddict.com/podcast/einfuhrung-in-den-utilitarismus/5090776"
 [mp3.rss]
   other = "https://feeds.buzzsprout.com/2040011.rss"
+[mp3.play]
+  other = "Audioaufzeichnung von Inhalten abspielen"

@@ -92,3 +92,5 @@
   other = "https://podcastaddict.com/podcast/introduction-to-utilitarianism/4535260"
 [mp3.rss]
   other = "https://feeds.type3.audio/utilitarianism-net.rss"
+[mp3.play]
+  other = "ES: Play audio recording of content"
