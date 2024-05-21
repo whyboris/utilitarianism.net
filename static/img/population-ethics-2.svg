@@ -1,1 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640.5 303" xml:space="preserve"><style>.st10{fill:#fff}</style><g id="Animal_Charity"/><g id="Population_Ethics_8"/><g id="Population_Ethihcs_7"/><g id="population6"/><g id="Population_Ethics_6"/><g id="Population_Ethics_5"/><g id="Population_Ethics_4"/><g id="Population_Ethics_3"/><g id="Population_Ethics_2"><path style="fill:#e2e9f2;stroke:#000;stroke-miterlimit:10" d="M45 27h82v206H45z"/><linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="193.5" y1="224" x2="582.5" y2="224"><stop offset=".363" style="stop-color:#e2e9f2"/><stop offset=".412" style="stop-color:#eef2f7"/><stop offset=".461" style="stop-color:#fff"/><stop offset=".587" style="stop-color:#fff"/><stop offset=".64" style="stop-color:#f0f4f8"/><stop offset=".704" style="stop-color:#e2e9f2"/></linearGradient><path style="fill:url(#SVGID_1_);stroke:#000;stroke-miterlimit:10" d="M193.5 215h389v18h-389z"/><path class="st10" d="M418 205h6v10h-6z"/><path class="st10" d="M423.5 205.5v9h-5v-9zm1-1h-7v11h7zm-34.5.5h6v10h-6z"/><path class="st10" d="M395.5 205.5v9h-5v-9zm1-1h-7v11h7zm7.5.5h6v10h-6z"/><path class="st10" d="M409.5 205.5v9h-5v-9zm1-1h-7v11h7zm-34.5.5h6v10h-6z"/><path class="st10" d="M381.5 205.5v9h-5v-9zm1-1h-7v11h7z"/><path d="M173 233h428m-575 0h117" style="fill:none;stroke:#a1afbf;stroke-miterlimit:10"/><path style="fill:none;stroke:#c6d0db;stroke-miterlimit:10" d="M157.5 16v270"/><path d="m83.04 268.5-2.52 7.63h-3.24l8.24-24.26h3.78l8.28 24.26h-3.35l-2.59-7.63zm7.96-2.44-2.38-6.98c-.54-1.58-.9-3.02-1.26-4.43h-.07c-.36 1.44-.76 2.92-1.22 4.39l-2.38 7.02zm297.66 8.93 13.46-19.69v-.11h-12.31v-2.63h16.38v1.91l-13.39 19.62v.11h13.57v2.63h-17.71z"/></g><g id="Population_Ethics_1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 500" xml:space="preserve">
+  <style>
+    .st14{fill:#fff}
+  </style>
+  <g id="Animal_Charity"/>
+  <g id="Population_Ethics_8"/>
+  <g id="Population_Ethics_7"/>
+  <g id="Population_Ethics_6"/>
+  <g id="Population_Ethics_5"/>
+  <g id="Population_Ethics_4"/>
+  <g id="Population_Ethics_3"/>
+  <g id="Population_Ethics_2">
+    <path style="fill:#e2e9f2;stroke:#000;stroke-miterlimit:10" d="M93.25 105.5h101v254h-101z"/>
+    <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="277.25" y1="348.5" x2="756.25" y2="348.5">
+      <stop offset=".363" style="stop-color:#e2e9f2"/>
+      <stop offset=".412" style="stop-color:#eef2f7"/>
+      <stop offset=".461" style="stop-color:#fff"/>
+      <stop offset=".587" style="stop-color:#fff"/>
+      <stop offset=".64" style="stop-color:#f0f4f8"/>
+      <stop offset=".704" style="stop-color:#e2e9f2"/>
+    </linearGradient>
+    <path style="fill:url(#SVGID_1_);stroke:#000;stroke-miterlimit:10" d="M277.25 337.5h479v22h-479z"/>
+    <path class="st14" d="M553.25 324.5h8v13h-8z"/>
+    <path class="st14" d="M560.75 325v12h-7v-12zm1-1h-9v14h9zm-43.5.5h8v13h-8z"/>
+    <path class="st14" d="M525.75 325v12h-7v-12zm1-1h-9v14h9zm8.5.5h8v13h-8z"/>
+    <path class="st14" d="M542.75 325v12h-7v-12zm1-1h-9v14h9zm-42.5.5h8v13h-8z"/>
+    <path class="st14" d="M508.75 325v12h-7v-12zm1-1h-9v14h9z"/>
+    <path d="M251.75 359.5h528m-709 0h144" style="fill:none;stroke:#a1afbf;stroke-miterlimit:10"/>
+    <path style="fill:none;stroke:#c6d0db;stroke-miterlimit:10" d="M232.25 92v333"/>
+    <path d="m139.08 405.39-2.52 7.63h-3.24l8.24-24.26h3.78l8.28 24.26h-3.35l-2.59-7.63zm7.96-2.45-2.38-6.98c-.54-1.58-.9-3.02-1.26-4.43h-.07c-.36 1.44-.76 2.92-1.22 4.39l-2.38 7.02zm370.05 8.24 13.46-19.69v-.11h-12.31v-2.63h16.38v1.91l-13.39 19.62v.11h13.57v2.63h-17.71z"/>
+  </g>
+  <g id="Population_Ethics_1"/>
+</svg>
