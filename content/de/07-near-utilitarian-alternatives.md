@@ -8,6 +8,7 @@ weight: 107
 description: "Es gibt mehrere Möglichkeiten, Aspekte des Utilitarismus abzulehnen, aber dennoch (zumindest in der Praxis) die allgemeine Ausrichtung der Theorie beizubehalten. In diesem Kapitel wird das Spektrum solcher Utilitarismus-nahen Ansichten untersucht, um die Robustheit der praktischen Empfehlungen des Utilitarismus zu demonstrieren. Auch wer die Theorie für technisch falsch hält, kann dennoch gute Gründe haben, ihren praktischen Urteilen weitgehend zuzustimmen."
 gradientTop: "#305D9C"
 gradientBottom: "#1F2A70"
+mp3: "https://www.buzzsprout.com/2357046/14939994-7-utilitarismus-nahe-alternativen.mp3"
 ---
 
 {{< TOC >}}

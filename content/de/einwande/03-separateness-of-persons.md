@@ -11,6 +11,7 @@ page: 3
 description: "Der Gedanke, dass der Utilitarismus die „Getrenntheit von Personen“ vernachlässigt, hat sich als ein sehr einflussreicher Einwand erwiesen. Aber es ist ein Einwand, der schwer zu greifen ist. In diesem Artikel werden drei mögliche Interpretationen des Einwandes untersucht und wie der Utilitarismus auf jede reagieren kann."
 gradientTop: "#571B9E"
 gradientBottom: "#430A4A"
+mp3: "https://www.buzzsprout.com/2357046/14940202-8-3-der-einwand-von-der-getrenntheit-von-personen.mp3"
 ---
 
 {{< TOC >}}

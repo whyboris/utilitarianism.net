@@ -11,6 +11,7 @@ page: 1
 description: "Viele finden es verwerflich, dass der Utilitarismus in bestimmten hypothetischen Szenarien scheinbar ungeheuerliche Rechtsverletzungen zulässt, indem er unschuldige Menschen zum Wohle der Allgemeinheit tötet. In diesem Artikel wird untersucht, wie Utilitaristen am besten darauf reagieren können."
 gradientTop: "#1F1E70"
 gradientBottom: "#371E87"
+mp3: "https://www.buzzsprout.com/2357046/14940194-8-1-der-einwand-bezuglich-der-rechte-von-personen.mp3"
 ---
 
 {{< TOC >}}

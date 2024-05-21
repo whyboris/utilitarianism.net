@@ -19,6 +19,10 @@
 <div id="player-container" class="audio-player">
 
   <type-3-player
+{{ if .Page.Params.mp3 }}
+    mp3-url="{{ .Page.Params.mp3 }}"
+    title="{{ .Page.Params.title }}"
+{{ end }}
     subscribe-url--apple="https://podcasts.apple.com/us/podcast/introduction-to-utilitarianism/id1696998316"
     subscribe-url--spotify="https://open.spotify.com/show/7efBJVNSuPMcj6LaMSfuDf"
     subscribe-url--podcast-addict="https://podcastaddict.com/podcast/introduction-to-utilitarianism/4535260"

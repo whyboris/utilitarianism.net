@@ -8,6 +8,7 @@ weight: 102
 description: "Nachdem in diesem Kapitel Utilitarismus zuerst definiert wird, werden seine vier zentralen Elemente (Konsequentialismus, Welfarismus, Unparteilichkeit und Aggregationismus) detailliert analysiert. Dieses Kapitel erklärt den Unterschied zwischen maximierendem Utilitarismus, Satisfaktions-Utilitarismus und skalarem Utilitarismus sowie andere wichtige Unterscheidungen zwischen utilitaristischen Theorien."
 gradientTop: "#236d9f"
 gradientBottom: "#012147"
+mp3: "https://www.buzzsprout.com/2357046/14939873-2-elemente-und-arten-des-utilitarismus.mp3"
 ---
 
 {{< TOC >}}

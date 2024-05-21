@@ -8,6 +8,7 @@ weight: 103
 description: "In diesem Kapitel wird das reflexive Gleichgewicht als moralische Methodik erläutert. Es werden mehrere Argumente für den Utilitarismus gegenüber nicht-konsequentialistischen Ansätzen in der Ethik angeführt."
 gradientTop: "#012147"
 gradientBottom: "#084BC7"
+mp3: "https://www.buzzsprout.com/2357046/14939892-3-argumente-fur-utilitarismus.mp3"
 ---
 
 {{< TOC >}}

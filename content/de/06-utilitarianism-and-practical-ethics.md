@@ -8,6 +8,7 @@ weight: 106
 description: "Der Utilitarismus hat wichtige Implikationen dafür, wie wir über ein ethisches Leben nachdenken sollten. Obwohl er deontischen Zwängen kein intrinsisches Gewicht beimisst, befürwortet er in der Praxis viele vernünftige Verbote und Tugenden. In der ethischen Praxis liegt der Hauptunterschied stattdessen in der Betonung des positiven Tuns von Gutem auf eine Weise, die das übliche, von Menschen realisierte Maß guter Taten in Umfang und Effizienz übersteigt."
 gradientTop: "#089FD1"
 gradientBottom: "#305D9C"
+mp3: "https://www.buzzsprout.com/2357046/14939984-6-utilitarismus-und-praktische-ethik.mp3"
 ---
 
 > „Sollen wir unsere Sorge auf alle Wesen ausdehnen, die zu Freude und Schmerz fähig sind und deren Empfindungen durch unser Verhalten beeinflusst werden? oder sollen wir uns auf das menschliche Glück beschränken? Die erstere Sichtweise wird von... der utilitaristischen Schule vertreten ... es erscheint willkürlich und unvernünftig, von dem so verstandenen Ziel irgendein Vergnügen irgendeines empfindungsfähigen Wesens auszuschließen.”

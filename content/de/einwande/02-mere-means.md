@@ -11,6 +11,7 @@ page: 2
 description: "Kritiker werfen dem Utilitarismus oft vor, dass er Menschen in unzulässiger Weise instrumentalisiert und sie als bloßes Mittel zum Zweck des höheren Guts betrachtet, anstatt den Einzelnen als Selbstzweck zu betrachten. In diesem Artikel prüfen wir, ob dieser Einwand berechtigt ist."
 gradientTop: "#371E87"
 gradientBottom: "#571B9E"
+mp3: "https://www.buzzsprout.com/2357046/14940198-8-2-der-blosse-mittel-einwand.mp3"
 ---
 
 {{< TOC >}}

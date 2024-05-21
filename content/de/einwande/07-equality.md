@@ -11,6 +11,7 @@ page: 7
 description: "Der Utilitarismus befasst sich mit dem allgemeinen Wohlergehen der Individuen einer Population, aber viele wenden ein, dass Gerechtigkeit eine zusätzliche Sorge darum erfordert, wie dieses Wohlergehen auf Individuen verteilt ist. Dieser Artikel untersucht diesen Einwand und zeigt auf, wie Utilitaristen am besten darauf reagieren können."
 gradientTop: "#531694"
 gradientBottom: "#260380"
+mp3: "https://www.buzzsprout.com/2357046/14940230-8-7-der-gleichheits-einwand.mp3"
 ---
 
 {{< TOC >}}

@@ -11,6 +11,7 @@ page: 4
 description: "Da der Utilitarismus uns anweist, das unparteilich beste Ergebnis zu wählen, selbst wenn es uns selbst viel kostet, kann er als eine unglaublich fordernde Theorie erscheinen. In diesem Artikel wird untersucht, ob diese Eigenschaft des Utilitarismus zu beanstanden ist, und, wenn ja, wie Verfechter des Utilitarismus am besten reagieren sollten."
 gradientTop: "#430A4A"
 gradientBottom: "#5F3091"
+mp3: "https://www.buzzsprout.com/2357046/14940209-8-4-der-einwand-utilitarismus-sei-zu-fordernd.mp3"
 ---
 
 > _Der Utilitarismus verlangt von uns nicht, moralisch perfekt zu sein. Er fordert uns auf, uns unserer moralischen Grenzen bewusst zu werden und so viel wie menschlich möglich zu tun, um sie zu überwinden._

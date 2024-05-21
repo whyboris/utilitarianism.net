@@ -11,6 +11,7 @@ page: 9
 description: "Manche argumentieren, der Utilitarismus sei selbstverleugnend: dass er sich gegen seine eigene Adoption ausspricht, da die Gefahr besteht, dass falsche Appelle an das „höhere Gut“ zu furchtbar schädlichen Handlungen führen. In diesem Artikel wird untersucht, wie man sich am besten vor solchen Risiken schützen kann. Es wird die Frage gestellt, ob es ein Einwand gegen eine Theorie ist, wenn sie sich auf diese Weise als selbstverleugnend erweist."
 gradientTop: "#6F4BC9"
 gradientBottom: "#57579d"
+mp3: "https://www.buzzsprout.com/2357046/14940249-8-9-der-einwand-von-der-missbrauchlichkeit.mp3"
 ---
 
 {{< TOC >}}
