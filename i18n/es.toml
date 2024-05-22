@@ -3,94 +3,94 @@
 [site.locale]
   other = "es-ES"
 [site.url-full]
-  other = "https://www.utilitarianismo.net"
+  other = "https://www.utilitarismo.net"
 [site.url-readable]
-  other = "Utilitarianismo.net"
+  other = "Utilitarismo.net"
 [site.footer]
-  other = "ES: This website was co-created by William MacAskill, Associate Professor of Philosophy at the University of Oxford"
+  other = "Este sitio web ha sido co-creado por William MacAskill, profesor asociado de Filosofía en la Universidad de Oxford"
 [site.logo-path]
-  other = "/img/Utilitarianism-Website-Logo.svg"
+  other = "/img/Utilitarianism-Website-Logo.svg" # not translated — PS
 [site.logo-alt]
-  other = "Utilitarianismo.net website logo"
+  other = "Logo del sitio web Utilitarismo.net"
 [text.left-quote]
-  other = "«"
+  other = "“"
 [text.right-quote]
-  other = "»"
+  other = "”"
 [text.textbook-overview]
-  other = "ES: Textbook Overview"
+  other = "Resumen del libro de texto"
 [menu.acting]
   other = "Actuar conforme al utilitarismo"
 [link.acting]
   other = "actuar-conforme-al-utilitarismo"
 [menu.textbook]
-  other = "ES: Learn about Utilitarianism"
+  other = "Aprender sobre utilitarismo"
 [link.textbook]
-  other = "libro-de-texto"
+  other = "libro de texto"
 [menu.core-articles]
-  other = "ES: Core Articles"
+  other = "Artículos principales"
 [menu.about]
-  other = "About Us"
+  other = "Sobre nosotros"
 [link.about]
-  other = "about"
+  other = "sobre-nosotros"
 [menu.other-content]
-  other = "ES: Other Content"
+  other = "Otros contenidos"
 [menu.famine-affluence-morality-short]
-  other = "ES: Peter Singers „Hunger, Wohlstand und Moral“"
+  other = "Hambre, riqueza y moralidad"
 [menu.famine-affluence-morality-long]
-  other = "ES: Studienführer: Peter Singers „Hunger, Wohlstand und Moral“"
+  other = "Guía de estudio: 'Hambre, riqueza y moralidad', de Peter Singer'"
 [link.famine-affluence-morality]
-  other = "es-fix-this-url"
+  other = "peter-singer-hambre-riqueza-y-moralidad"
 [button.next]
-  other = "ES: Next:"
+  other = "Siguiente:"
 [button.next-chapter]
-  other = "ES: Next Chapter:"
+  other = "Siguiente capítulo:"
 [button.other-objections]
-  other = "ES: Other Objections to Utilitarianism"
+  other = "Otras objeciones al utilitarismo"
 [link.objections]
-  other = "FIX-LINK-objections-to-utilitarianism"
+  other = "objeciones-al-utilitarismo"
 [link.specific-objections]
-  other = "FIX-LINK-objections-to-utilitarianism#specific-objections-to-utilitarianism"
+  other = "objeciones-al-utilitarismo#objeciones-especificas-al-utilitarismo"
 [cite.accessed]
-  other = "ES: accessed"
+  other = "visitado" # should be ‘visitada’ if what is visited is a feminine noun — PS
 [cite.book-title]
-  other = "ES: Introduction to Utilitarianism"
+  other = "Introducción al utilitarismo"
 [cite.and]
-  other = " ES: and" # note the first character is a space on purpose
+  other = ", y" # note the Oxford comma
 [cite.how-to-cite]
-  other = "ES: How to Cite This Page"
+  other = "Cómo citar esta página"
 [cite.editors-abbreviation]
-  other = "ES: eds."
+  other = "eds."
 [cite.translated]
-  other = ", ES: translated by PERSON NAME,"
+  other = "," # note it's just a comma on purpose
 [button.make-world-better-question]
-  other = "ES: Want to make the world a better place?"
+  other = "¿Quieres mejorar el mundo?"
 [button.put-into-practice]
-  other = "ES: Learn how to put utilitarianism into practice:"
+  other = "Aprende a poner en práctica el utilitarismo:"
 [button.donate-to-effective]
-  other = "ES: donate to effective charities"
+  other = "Dona dinero a organizaciones benéficas eficaces"
 [link.donate-to-effective]
   other = "https://www.givingwhatwecan.org/"
 [button.choose-career]
-  other = "ES: choose career"
+  other = "Elige una carrera profesional con impacto"
 [button.learn-more]
-  other = "ES: Want to learn more about utilitarianism?"
+  other = "¿Quiere saber más sobre el utilitarismo?"
 [button.read-theory]
-  other = "ES: Read about the theory behind utilitarianism:"
+  other = "Lee sobre la teoría a la base del utilitarismo:"
 [button.learn-improve]
-  other = "ES: Learn how to use utilitarianism to improve the world:"
+  other = "Aprende a utilizar el utilitarismo para mejorar el mundo:"
 [link.introduction]
-  other = "ES-FIX-LINK-introduction-to-utilitarianism"
+  other = "introduccion-al-utilitarismo"
 [404.no-content]
-  other = "ES: There is no content at this page address"
+  other = "No hay contenido en esta dirección de página"
 [404.please-navigate]
-  other = "ES: Please use the navigation or search to find what you were looking for"
+  other = "Utiliza la navegación o la búsqueda para encontrar lo que buscas"
 [mp3.apple]
-  other = "https://podcasts.apple.com/us/podcast/introduction-to-utilitarianism/id1696998316"
+  other = "https://podcasts.apple.com/us/podcast/introduction-to-utilitarianism/id1696998316" # should be changed once a Spanish feed is available — PS
 [mp3.spotify]
-  other = "https://open.spotify.com/show/7efBJVNSuPMcj6LaMSfuDf"
+  other = "https://open.spotify.com/show/7efBJVNSuPMcj6LaMSfuDf" # should be changed once a Spanish feed is available — PS
 [mp3.podcast-addict]
-  other = "https://podcastaddict.com/podcast/introduction-to-utilitarianism/4535260"
+  other = "https://podcastaddict.com/podcast/introduction-to-utilitarianism/4535260" # should be changed once a Spanish feed is available — PS
 [mp3.rss]
-  other = "https://feeds.type3.audio/utilitarianism-net.rss"
+  other = "https://feeds.type3.audio/utilitarianism-net.rss" # should be changed once a Spanish feed is available — PS
 [mp3.play]
-  other = "ES: Play audio recording of content"
+  other = "Reproducir grabación de audio del contenido"
