@@ -178,7 +178,7 @@ El siguiente capítulo analiza algunas teorías rivales importantes que pueden s
 
 - [@Crashcourse2017NonHumanAnimals].
 - [@Singer2023AnimalLiberationNow].
-- [@McMahan2003Animales].
+- [@McMahan2003Animals].
 - [@Sebo2019UtilitarianCaseFor].
 
 ### Largoplacismo: ampliar el círculo moral en la dimensión temporal
@@ -193,23 +193,23 @@ El siguiente capítulo analiza algunas teorías rivales importantes que pueden s
 
 - [@Gibbard1984UtilitarianismAndHuman].
 - [@Hare1981MoralThinkingIts].
-- [@Mackie1984DerechosUtilitariosY].
+- [@Mackie1984RightsUtilityAnd].
 - [@Pettit1986RestrictiveConsequentialism].
 
 [^1]: [@Sidgwick1907MethodsEthics, p. 414].
 [^2]: Para un análisis de las exigencias de la moral en el contexto de la mitigación de la pobreza global, véase [@Singer2009LifeYouCan].
 [^3]: [@GiveWell2010YourDollarGoes].
-[^4]: [@Berman2018ImpedimentosAltruismoEficaz].
+[^4]: [@Berman2018ImpedimentsEffectiveAltruism].
 [^5]: Los argumentos a favor de la neutralidad respecto a las causas se exponen en [@SentiencePolitics2016BenefitsCauseneutrality].
 [^6]: [@Ord2013MoralImperativeCosteffectiveness].
 [^7]: Cf. [@Singer1981ExpandingCircleEthics].
 [^8]: [@Singer2011PracticalEthics, p. 50].
 [^9]: Cf. [@MacAskill2015DoingGoodBetter, chap. 1].
 [^10]: [@Singer2002AnimalLiberation, p. 9]. De hecho, hay evidencia psicológica que sugiere que el especismo va de la mano de otras actitudes discriminatorias como el racismo, el sexismo y la homofobia: Cf. [@Caviola2019MoralStandingAnimals].
-[^11]: Por ejemplo, véase [@Low2012CambridgeDeclaraciónConciencia].
-[^12]: [@Tomasik2019CuántosSalvajes].
+[^11]: Por ejemplo, véase [@Low2012CambridgeDeclarationConsciousness].
+[^12]: [@Tomasik2019HowManyWild].
 [^13]:
-    Hay un debate académico en curso sobre la importancia moral del bienestar de los animales salvajes. Por ejemplo, véanse [@Ng1995BienestarBiologíaEvolucionaria]. [@McMahan2015MoralProblemPredation]. [@Moen2016EthicsOfWild].
+    Hay un debate académico en curso sobre la importancia moral del bienestar de los animales salvajes. Por ejemplo, véanse [@Ng1995WelfareBiologyEvolutionary]; [@McMahan2015MoralProblemPredation]; [@Moen2016EthicsOfWild].
 [^14]:
     Para profundizar en este tema recomendamos esta entrevista a la investigadora Persis Eskander: [@Wiblin2019AnimalsWildOften].
 [^15]: [@Adams2008LongtermAstrophysicalProcesses].
