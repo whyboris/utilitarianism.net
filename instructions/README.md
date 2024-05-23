@@ -162,11 +162,9 @@ _Note:_ PDF filenames in German have some replacements: `ü` -> `ue`, `ß` -> `s
 
 ### Bibliography
 
-This note is for posterity, in case we want to return to this functionality:
+For our _Spanish_ version of the website, we use this functionality:
 
-We experimented with using a `.bib` file for automatic insertion of works cited (for example see [stable.bib](https://github.com/tlon-team/babel-refs/tree/main/bib)).
-
-We can use `pandoc` to convert `stable.bib` to `bib.json` with this command:
+Copy [stable.bib](https://github.com/tlon-team/babel-refs/tree/main/bib) to your computer and use `pandoc` to convert `stable.bib` to `bib.json` with this command:
 
 ```sh
 pandoc stable.bib -t csljson -o bib.json
@@ -176,13 +174,9 @@ Place the file in `/content` and refer to it from each page that needs citations
 
 For more details, see [hugo-cite](https://github.com/loup-brun/hugo-cite)
 
-For simplicity of use, instead of installing the submodule, just copy over the files:
+These two files were copied from the above repository and `cite.html` was modified for our use:
 
 - `layouts/shortcodes/cite.html`
-- `layouts/shortcodes/bibliography.html`
 - `layouts/partials/bibliography/apa-style.html`
-- `layouts/partials/bibliography/bibliography-list.html`
-
-You'll need to mess with CSS and the templates to get the output we want.
 
 [^1]: If you see an error while Pagefind is being installed, something like [Error: tar xvf exited with 128](https://github.com/CloudCannon/pagefind/issues/66#issuecomment-1237313541) try using _Powershell_ when running `npm install`
