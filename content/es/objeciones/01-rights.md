@@ -74,23 +74,23 @@ Por supuesto, es importante subrayar que la vida real no viene con tales estipul
 
 ## Recursos y Más información
 
-- [@Lazari-Radek2017UtilitarianismVeryShort, chap. 4: Objections], sec. “Does utilitarianism tell us to act immorally?”.
-- [@Bykvist2010UtilitarianismGuidePerplexed, chap. 8: Is Utilitarianism too permissive?].
-- [@Kagan1998NormativeEthics, chap. 3].
-- [@Kagan1989LimitsMorality].
-- [@Rivera-Lopez2012MoralMurderer].
-- [@Thomson1976KillingLettingDie].
-- [@Woodcock2017WhenWillConsequentialist].
+- {{< cite Lazari-Radek2017UtilitarianismVeryShort "chap. 4: Objections" >}}, sec. “Does utilitarianism tell us to act immorally?”.
+- {{< cite Bykvist2010UtilitarianismGuidePerplexed "chap. 8: Is Utilitarianism too permissive?" >}}.
+- {{< cite Kagan1998NormativeEthics "chap. 3" >}}.
+- {{< cite Kagan1989LimitsMorality >}}.
+- {{< cite "Rivera-Lopez2012MoralMurderer" >}}.
+- {{< cite Thomson1976KillingLettingDie >}}.
+- {{< cite Woodcock2017WhenWillConsequentialist >}}.
 
-[^1]: Adaptado de [@Thomson1976KillingLettingDie, p. 206].
+[^1]: Adaptado de {{< cite Thomson1976KillingLettingDie "p. 206" >}}.
 [^2]:
     Este daño a la reputación está lejos de ser trivial. Cada individuo que se compromete [a actuar conforme al utilitarismo](../actuar-conforme-al-utilitarismo.md) (de forma competente) podría salvar _muchas_ vidas en términos esperados. Así que hacer cosas que puedan disuadir a _muchos_ miembros de la sociedad (a nivel de toda la población) de seguir una ética utilitarista ocasiona un riesgo de daño _inmenso_. Sobre los costos del daño instrumental para la reputación, véase
 
-    [@Everett2018CostsOfBeing].
+    {{< cite Everett2018CostsOfBeing >}}.
 
 [^3]:
-    [@Rivera-Lopez2012MoralMurderer].
+    {{< cite "Rivera-Lopez2012MoralMurderer" >}}.
 
-    Para una discusión crítica, véase [@Chappell2012CounterexamplesToConsequentialism].
+    Para una discusión crítica, véase {{< cite Chappell2012CounterexamplesToConsequentialism >}}.
 
 [^4]: Incluso si de alguna manera podemos estipular que la evidencia de primer orden del agente abona la creencia de que el asesinato es netamente positivo en su caso, también tenemos que tener en cuenta la _evidencia de orden superior_ de que la mayoría de las personas que hacen tales juicios están equivocadas. Dado el riesgo de error de cálculo y los perjuicios mucho mayores que podrían derivarse de infringir las normas sociales ampliamente aceptadas, el utilitarismo bien podría recomendar que los médicos adoptaran una disposición _estrictamente_ contraria al asesinato, en lugar de estar abiertos a cometer asesinatos siempre que les _parezca_ que es lo mejor.

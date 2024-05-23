@@ -50,7 +50,7 @@ De hecho, en el utilitarismo [escalar o de suficiencia](../elementos-y-tipos-de-
 
 La segunda forma de responder consiste en argumentar que las intuiciones ordinarias de exigencia _presuponen_ una perspectiva no consecuencialista (en vez de brindarle apoyo independiente). Al exigir a quienes son ricos en términos comparativos que hagan mucho para ayudar a los menos afortunados, el utilitarismo les impone costos no triviales. Pero comparemos esto con los daños sufridos por los menos afortunados si los ricos hacen menos (o no hacen nada) para ayudarlos. Estos daños superan con creces los costos que el utilitarismo impondría a los ricos. Así pues, los utilitaristas pueden argumentar que son los puntos de vista _no utilitaristas_ los que son "demasiado exigentes", ya que imponen mayores costos generales y imponen esos costos a quienes son menos capaces de soportarlos.
 
-David Sobel desarrolla este argumento en <cite>[@Sobel2007ImpotenceDemandingnessObjection]</cite>:[^3]
+David Sobel desarrolla este argumento en <cite>{{< cite Sobel2007ImpotenceDemandingnessObjection >}}</cite>:[^3]
 
 > Consideremos el caso de Joe y Sally. Joe tiene dos riñones sanos y puede vivir una vida decente pero reducida con uno solo. Sally necesita uno de los riñones de Joe para vivir. A pesar de que la transferencia daría lugar a una situación globalmente mejor, la objeción de la exigencia sostiene que se le exige tanto a Joe al pedirle que renuncie a un riñón que es algo que moralmente le está permitido no hacer. La magnitud del costo para Joe hace que la supuesta exigencia moral de que entregue el riñón no sea razonable o, al menos, no sea realmente moralmente obligatoria para Joe. El consecuencialismo, nos dicen nuestras intuiciones, es demasiado exigente con Joe cuando le exige sacrificar un riñón para Sally.
 >
@@ -78,22 +78,22 @@ Por último, los defensores del utilitarismo pueden simplemente aceptar que la m
 
 ## Recursos y Más información
 
-- [@Berkey2016DemandingnessOfMorality].
-- [@Bykvist2010UtilitarianismGuidePerplexed, chap. 7: ¿Es el utilitarismo demasiado exigente?].
-- [@Kagan1982DoesConsequentialismDemand].
-- [@Lazari-Radek2014PointViewUniverse, pp. 317–336].
-- [@Singer1972FamineAffluenceMorality].
-- [@Sobel2007ImpotenceDemandingnessObjection].
-- [@Wolf1982MoralSaints].
+- {{< cite Berkey2016DemandingnessOfMorality >}}.
+- {{< cite Bykvist2010UtilitarianismGuidePerplexed "chap. 7: ¿Es el utilitarismo demasiado exigente?" >}}.
+- {{< cite Kagan1982DoesConsequentialismDemand >}}.
+- {{< cite "Lazari-Radek2014PointViewUniverse" "pp. 317–336" >}}.
+- {{< cite Singer1972FamineAffluenceMorality >}}.
+- {{< cite Sobel2007ImpotenceDemandingnessObjection >}}.
+- {{< cite Wolf1982MoralSaints >}}.
 
-[^1]: Cf. [@Wolf1982MoralSaints].
-[^2]: [@Givewell2022AgainstMalariaFoundation].
-[^3]: [@Sobel2007ImpotenceDemandingnessObjection, p. 3].
+[^1]: Cf. {{< cite Wolf1982MoralSaints >}}.
+[^2]: {{< cite Givewell2022AgainstMalariaFoundation >}}.
+[^3]: {{< cite Sobel2007ImpotenceDemandingnessObjection "p. 3" >}}.
 [^4]:
     Sobel continúa: "¿Qué debe entender la objeción sobre las exigencias de una teoría moral para que eso tenga sentido? Hay una respuesta obvia que ha atraído incluso a críticos prominentes de la objeción — que los costos de lo que una teoría moral requiere son más exigentes que los costos de lo que una teoría moral permite que le ocurra al que no recibe ayuda, manteniendo constante el tamaño del costo. La importancia moral de la distinción entre los costos que una teoría moral exige y los costos que permite debe estar ya establecida antes de que la objeción cobre fuerza. Pero esto supone que la ruptura decisiva con el consecuencialismo se produjo ya antes de que sintamos el atractivo de las intuiciones que evoca la objeción."
 
     Parece, pues, que no hay motivos _neutrales_ para considerar que el utilitarismo es "más exigente" que las teorías morales rivales, al menos en el sentido de imponer costos excesivamente grandes a los agentes. Sólo se puede llegar a este veredicto cargando los dados en contra del utilitarismo, al definir implícitamente la "exigencia" de tal manera que sólo se tome plenamente en cuenta una cierta subclase de costos.
 
-[^5]: [@Singer1972FamineAffluenceMorality, p. 231].
+[^5]: {{< cite Singer1972FamineAffluenceMorality "p. 231" >}}.
 
-[^6]: [@Greene2013MoralTribes, p. 284].
+[^6]: {{< cite Greene2013MoralTribes "p. 284" >}}.
