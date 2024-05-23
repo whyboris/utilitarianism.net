@@ -94,3 +94,5 @@
   other = "https://feeds.type3.audio/utilitarianism-net.rss" # should be changed once a Spanish feed is available — PS
 [mp3.play]
   other = "Reproducir grabación de audio del contenido"
+[pdf.download]
+  other = "Descargar como PDF"
