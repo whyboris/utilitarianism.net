@@ -6,7 +6,7 @@ date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 4
+weight: 204
 page: 4
 description: "Al ordenarnos elegir imparcialmente el mejor resultado, incluso a un costo significativo para nosotros, el utilitarismo puede parecer una teoría increíblemente exigente. Esta página explora si esta característica del utilitarismo es objetable y, de ser así, cómo podrían responder mejor los defensores de esta teoría."
 gradientTop: "#430A4A"

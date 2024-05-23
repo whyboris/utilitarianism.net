@@ -6,7 +6,7 @@ date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 6
+weight: 206
 page: 6
 description: "Relaciones como la paternidad o la tutela aparentemente dan lugar a obligaciones especiales de proteger a quienes caen bajo nuestro cuidado (siendo estas obligaciones más estrictas que nuestros deberes generales de beneficencia hacia los extraños). Este artículo explora hasta qué punto el utilitarismo imparcial puede dar cabida a intuiciones y prácticas normativas de parcialidad."
 gradientTop: "#822FA8"

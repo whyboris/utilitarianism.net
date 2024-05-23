@@ -6,8 +6,8 @@ date: 2023-03-08
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 9
-página: 9
+weight: 209
+page: 9
 description: "Algunas personas argumentan que el utilitarismo recomienda su propia desaparición, es decir, desaconseja que se lo acepte, debido al riesgo de que las apelaciones erróneas al 'bien mayor' en la practica conduzcan a que se realicen acciones terriblemente nocivas. Este artículo explora la mejor manera de protegerse contra tales riesgos, y cuestiona si es una objeción a una teoría la posibilidad de que cause su propia desaparición."
 gradientTop: "#6F4BC9"
 gradientBottom: "#57579d"

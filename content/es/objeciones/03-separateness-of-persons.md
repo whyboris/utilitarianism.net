@@ -6,7 +6,7 @@ date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 3
+weight: 203
 page: 3
 description: "La idea de que el utilitarismo ignora la 'separación de las personas' ha probado ser una objeción ampliamente influyente. Pero es una objeción difícil de precisar. Este artículo explora tres posibles interpretaciones de la objeción, y cómo los utilitaristas podrían responder a cada una de ellas."
 gradientTop: "#571B9E"

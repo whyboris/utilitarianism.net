@@ -2,12 +2,13 @@
 title: "Objeciones al utilitarismo y respuestas"
 date: 2023-01-29
 tipo: false
-menu: ["objeciones", "principal"]
-weight: 100
+menu: ["objections", "main"]
+weight: 300
 page: 0
 description: "Este capítulo presenta una caja de herramientas con estrategias generales para responder a las objeciones al utilitarismo, antes de introducir las objeciones específicas más influyentes a la teoría."
 gradientTop: "#1F2A70"
 gradientBottom: "#1F1E70"
+bibFile: "content/bib.json"
 ---
 
 > _"Bernard Williams... concluyó un largo ataque al utilitarismo con la siguiente observación: 'No puede estar muy lejos el día en que no oigamos hablar más de esta teoría.' Han pasado más de cuarenta años desde que Williams hizo ese comentario, pero seguimos oyendo hablar mucho del utilitarismo."_
