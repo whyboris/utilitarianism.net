@@ -30,7 +30,7 @@ Wealth and income are distributed extremely unequally across the globe. Middle-c
 
 ![World income distribution](/img/World-Income-Distribution.svg "World income distribution")
 
-> _Earning above 31,000 $ per year puts you in the richest 5% of the world population._ Cf. Giving What We Can (2024). [How Rich Am I?](https://www.givingwhatwecan.org/how-rich-am-i?income=31000&countryCode=USA&numAdults=1&numChildren=0).
+> _Earning above 31,000 $ per year puts you in the richest 5% of the world population._ Cf. _Giving What We Can_ (2024). [How Rich Am I?](https://www.givingwhatwecan.org/how-rich-am-i?income=31000&countryCode=USA&numAdults=1&numChildren=0).
 
 Wealth and income exhibit what economists call _diminishing marginal utility_.[^3] The idea is simple: How much an individual’s well-being is increased by receiving a higher income depends on their current income. While richer people report being more satisfied with their lives overall, the richer you become, the less well-being you get from additional money. A poor farmer in Kenya will benefit much more from receiving an additional dollar than does a middle-class member of a rich country.
 
@@ -260,7 +260,7 @@ To do the most good they can, utilitarians often donate money to effective chari
 [^28]: Roser, M. (2019). [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts). _Our World In Data_.
 [^29]: Cf. Bostrom, N. (2013). [Existential Risks as a Global Priority](https://www.existential-risk.org/concept.html). _Global Policy_. 4(1): 15–31.
 [^30]: Cf. MacAskill, W. (2014). _[Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Random House. Chapter 1.
-[^31]: Note that William MacAskill, coauthor of this website, is a cofounder of Giving What We Can.
+[^31]: Note that William MacAskill, coauthor of this website, is a cofounder of _Giving What We Can_.
 [^32]: Caviola, L., Schubert, S., Teperman, E., Moss, D., Greenberg, S., & Faber, N. (2020). [Donors vastly underestimate differences in charities’ effectiveness.](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/122268/Caviola%20et%20al._2020_JDM.pdf) _Judgment and Decision Making_. 15(4): 509–516.
 [^33]:
     GiveWell (2019). [Your Dollar Goes Further When You Fund the Right Program](https://www.givewell.org/giving101/Funding-the-Right-Program).
@@ -275,4 +275,4 @@ To do the most good they can, utilitarians often donate money to effective chari
 [^39]: Cf. Todd, B. (2017). [We reviewed over 60 studies about what makes for a dream job. Here’s what we found](https://80000hours.org/career-guide/job-satisfaction/). _80,000 Hours_.
 [^39a]: Though for an alternative perspective that puts much more weight on pursuing "excited curiosity", see Graham, P. (2023). [How to Do Great Work](https://paulgraham.com/greatwork.html).
 [^39b]: But note also the high risk of political efforts proving counterproductive. Consider, for example, environmental regulations that make it more difficult to build new solar, wind, and nuclear power plants to replace harmful coal power.
-[^40]: Note that William MacAskill, coauthor of this website, is the author of several of the listed resources on effective altruism. Moreover, he is a cofounder of both 80,000 Hours and Giving What We Can.
+[^40]: Note that William MacAskill, coauthor of this website, is the author of several of the listed resources on effective altruism. Moreover, he is a cofounder of both 80,000 Hours and _Giving What We Can_.

@@ -3,7 +3,7 @@
     <a href="/{{ i18n "link.about" }}">{{ i18n "menu.about" }}</a>
   </div>
 
-  {{ if not (eq .Site.Language.Lang "de") }}
+  {{ if eq .Site.Language.Lang "en" }}
 
   <div class="header-navigation-item">
     <a href="/utilitarian-thinkers">Utilitarian Thinkers</a>
@@ -44,7 +44,7 @@
     </div>
   </div>
 
-  {{ else }}
+  {{ else if eq .Site.Language.Lang "de" }}
 
   <div class="header-navigation-item">
     <a href="/{{ i18n "link.famine-affluence-morality" }}">{{ i18n "menu.famine-affluence-morality-long" }}</a>

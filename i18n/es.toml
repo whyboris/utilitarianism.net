@@ -9,7 +9,7 @@
 [site.footer]
   other = "Este sitio web ha sido co-creado por William MacAskill, profesor asociado de Filosofía en la Universidad de Oxford"
 [site.logo-path]
-  other = "/img/Utilitarianism-Website-Logo.svg" # not translated — PS
+  other = "/img/Utilitarianism-Website-Logo.es.svg"
 [site.logo-alt]
   other = "Logo del sitio web Utilitarismo.net"
 [text.left-quote]

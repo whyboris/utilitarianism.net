@@ -16,9 +16,9 @@ Este sitio web sirve como libro de texto de introducción al utilitarismo de niv
 
 El sitio web ha sido escrito en colaboración por [Richard Yetter Chappell](http://yetterchappell.net/Richard/), [Darius Meissner](https://www.linkedin.com/in/darius-meissner/), y [William MacAskill](http://www.williammacaskill.com/).
 
-- Richard es profesor asociado de Filosofía en la Universidad de Miami. Es autor de [@Chappell2021ParfitEthics] y se doctoró por la Universidad de Princeton en 2012. Richard también escribe _[Good Thoughts](https://rychappell.substack.com/)_, un boletín sobre consecuencialismo en la teoría y la práctica, que puedes seguir para recibir actualizaciones sobre utilitarismo.net (y temas relacionados).
+- Richard es profesor asociado de Filosofía en la Universidad de Miami. Es autor de {{< cite -Chappell2021ParfitEthics >}} y se doctoró por la Universidad de Princeton en 2012. Richard también escribe _[Good Thoughts](https://rychappell.substack.com/)_, un boletín sobre consecuencialismo en la teoría y la práctica, que puedes seguir para recibir actualizaciones sobre utilitarismo.net (y temas relacionados).
 - Darius es especialista en política de tecnologías emergentes y reside en Washington, DC. Es máster en Estudios de Seguridad por la Universidad de Georgetown y licenciado en Filosofía, Política y Economía por la Universidad de Oxford.
-- William es profesor asociado de Filosofía e investigador principal en el [Global Priorities Institute](https://globalprioritiesinstitute.org/) de la Universidad de Oxford. Es autor de <cite>[@MacAskill2015DoingGoodBetter]</cite> y <cite>[@MacAskill2022WhatWeOwe]</cite>.
+- William es profesor asociado de Filosofía e investigador principal en el [Global Priorities Institute](https://globalprioritiesinstitute.org/) de la Universidad de Oxford. Es autor de <cite>{{< cite -MacAskill2015DoingGoodBetter >}}</cite> y <cite>{{< cite -MacAskill2022WhatWeOwe >}}</cite>.
 
 Agradecemos a Boris Yakubchik —y anteriormente a James Aung— por el diseño y la gestión del sitio web.
 
@@ -96,7 +96,7 @@ Para contactarte con nosotros, puedes escribirnos a contact[at]utilitarismo.net
 
 Este sitio web fue lanzado desde [Queen's Lane Coffee House](http://www.qlcoffeehouse.com/) en Oxford, donde [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham) descubrió por primera vez el utilitarismo:
 
-![Queen's Lane Coffee House](/img/about/Queens-Lane-Coffee-House.jpg "Queen's Lane Coffee House”)
+![Queen's Lane Coffee House](/img/about/Queens-Lane-Coffee-House.jpg "Queen's Lane Coffee House")
 
 <div class="coffee-house">
 
@@ -104,6 +104,6 @@ Este sitio web fue lanzado desde [Queen's Lane Coffee House](http://www.qlcoffee
 >
 > Fue por ese panfleto, y esta frase en él, que mis principios sobre el tema de la moralidad, pública y privada juntas, quedaron determinados. Fue de ese panfleto y de esa página de él, que extraje la frase, cuyas palabras e importancia han sido tan ampliamente difundidas en el mundo civilizado. Al verla, grité, por así decirlo, en un éxtasis interior, como Arquímedes al descubrir el principio fundamental de la hidrostática, ¡eureka!".
 
-\- [@Bentham2002DeontologyTogetherTable].
+\- {{< cite Bentham2002DeontologyTogetherTable >}}.
 
 </div>

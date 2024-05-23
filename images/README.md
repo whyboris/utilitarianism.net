@@ -39,3 +39,8 @@ Please decrease the size of any generated _svg_:
 4. click `Prettify` next to it
 5. click `Download` button on the bottom
 6. move the downloaded file into `static/img` folder, replacing the old
+
+## Optimizing PNG
+
+- Use [TinyPNG](https://tinypng.com/) to compress `png` files
+- Use [Base64](https://www.base64-image.de/) encoder for the footer in PDF
