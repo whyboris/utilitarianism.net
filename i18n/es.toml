@@ -96,3 +96,5 @@
   other = "Reproducir grabación de audio del contenido"
 [pdf.download]
   other = "Descargar como PDF"
+[apa_retrieved_from]
+  other = "Obtenido de"

@@ -11,11 +11,20 @@
   transform: translateY(-8px);
 }
 
-.littlefoot-footnote__content > p {
+.littlefoot-footnote__content,
+.littlefoot-footnote__content > a,
+.littlefoot-footnote__content > p,
+.littlefoot-footnote__content > span {
   text-align: left;
   font-size: 14px !important;
   margin: 10px 0 !important;
   line-height: 24px;
+}
+
+.littlefoot-footnote__content {
+  a {
+    word-break: break-all;
+  }
 }
 
 .littlefoot-footnote__wrapper {
