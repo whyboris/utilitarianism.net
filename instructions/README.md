@@ -158,7 +158,7 @@ All languages are accessible during development, each has its own link when you 
 - German: `just build-de`
 - Spanish: `just build-es`
 
-_Note:_ PDF filenames in German have some replacements: `ü` -> `ue`, `ß` -> `ss`, `ä` -> `a`, while `“` & `„` are removed -- all so that PDFs are accessible when the link is clicked. See `move-pdf.js` and `PDF.html` (both of which need identical replacement rules).
+_Note:_ PDF filenames in German have some replacements: `ü` -> `ue`, `ß` -> `ss`, `ä` -> `a`, `ó` -> `o`, `É` -> `E`, `é` -> `e`, `í` -> `i`; while `“` & `„` are removed -- all so that PDFs are accessible when the link is clicked. See `move-pdf.js` and `PDF.html` (both of which need identical replacement rules).
 
 ### Bibliography
 

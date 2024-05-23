@@ -15,6 +15,10 @@
   {{ $myVar7 := replace $myVar6 "ß" "ss" }}
   {{ $myVar8 := replace $myVar7 "„" "" }}
   {{ $myVar9 := replace $myVar8 "“" "" }}
+  {{ $myVar10 := replace $myVar9 "ó" "o" }}
+  {{ $myVar11 := replace $myVar10 "É" "E" }}
+  {{ $myVar12 := replace $myVar11 "é" "e" }}
+  {{ $myVar13 := replace $myVar12 "í" "i" }}
 
 <div id="player-container" class="audio-player">
 
@@ -39,7 +43,7 @@
 
 <div class="pdf-download">
 
-  <a href="/pdf/{{ $myVar9 }}.pdf">
+  <a href="/pdf/{{ $myVar13 }}.pdf">
     <img
       src="/img/pdf.svg"
       class="pdf-icon"

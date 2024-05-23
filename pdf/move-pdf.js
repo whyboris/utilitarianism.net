@@ -26,6 +26,10 @@ files.forEach((file) => {
                                  .replace("ä","a")
                                  .replace("“", "")
                                  .replace("„", "")
+                                 .replace("ó", "o")
+                                 .replace("É", "E")
+                                 .replace("é", "e")
+                                 .replace("í", "i")
 
   const newLocation = public_pdf + path.sep + accentsRemoved;
 
