@@ -229,13 +229,13 @@ El próximo capítulo aborda la _ética de la población_, y cómo evaluar resul
     [@Harris1975SurvivalLottery].
 
 [^9]: A menos que valoremos más la simplicidad del utilitarismo hedonista que dar cabida a estas intuiciones.
-[^10]: Esta descripción fue adaptada de [@Nozick2003AnarchyStateUtopia, p. 42].
+[^10]: Esta descripción fue adaptada de [@Nozick1974AnarchyStateAnd, p. 42].
 [^11]: Por supuesto, uno podría estar de acuerdo con el punto general de Nozick al considerar la vida en la máquina de experiencias como superior al menos a _algunas_ vidas “reales” (por ejemplo, algunas vidas infelices), de modo que “conectarse" podría ser aconsejable en algunas circunstancias.
-[^12]: [@Nozick2003AnarchyStateUtopia, p. 43].
+[^12]: [@Nozick1974AnarchyStateAnd, p. 43].
 [^13]:
     Nozick afirmaba además que queremos vivir "en contacto con la realidad", pero no está claro que haya ninguna pérdida de bienestar por vivir e interactuar con otros en un mundo virtual compartido como el representado en _[The Matrix](https://es.wikipedia.org/wiki/The_Matrix)_. Un mundo virtual compartido podría, a diferencia de la máquina de experiencias, satisfacer muchos de nuestros valores y deseos no hedónicos, como tener amigos y relaciones afectivas.
 
-    [@Nozick2003AnarchyStateUtopia, p. 45].
+    [@Nozick1974AnarchyStateAnd, p. 45].
 
 [^14]: [@Weijers2014NozickExperienceMachine]. De manera desconcertante, muchos encuestados informaron que preferirían la conexión a la máquina de experiencias al elegir por otra persona, incluso cuando no elegirían esto para sí mismos.
 [^15]:

@@ -329,7 +329,7 @@ En el siguiente capítulo se analizan las implicaciones más importantes del uti
 - [@Ng1989WhatShouldWe].
 
 [^1]: Cuando hablamos de poblaciones, nos referimos a poblaciones totales: no sólo a cuántas personas están vivas en un momento específico, sino a todas las personas a lo largo de todo el tiempo.
-[^2]: Otros autores, siguiendo a Derek Parfit ([@Parfit1984ReasonsPersons]), hablan a veces de una "perspectiva centrada en las personas afectadas amplia" que admite razones (no instrumentales) para añadir vidas felices. Para facilitar la expresión, en este artículo utilizamos "persona" en el sentido _estrecho_ más distintivo que rechaza esta idea.
+[^2]: Otros autores, siguiendo a Derek Parfit, hablan a veces de una "perspectiva centrada en las personas afectadas amplia" que admite razones (no instrumentales) para añadir vidas felices. (Véase [@Parfit1984ReasonsPersons].) Para facilitar la expresión, en este artículo utilizamos "persona" en el sentido _estrecho_ más distintivo que rechaza esta idea.
 [^3]: A lo largo de este artículo, utilizamos los términos "calidad de vida" y "bienestar" indistintamente. Estos términos se utilizan para describir cuán buena o mala es la vida de una persona en su totalidad, y no sólo su bienestar en un momento determinado. Además, conceptos como "unidades de bienestar" y "niveles de bienestar" son simplificaciones utilizadas a título ilustrativo y no implican que en la práctica podamos medir el bienestar con precisión.
 [^4]: Un método alternativo consiste en sumar los niveles de bienestar de todos los individuos.
 [^5]:
@@ -394,7 +394,7 @@ Aunque Parfit merece el reconocimiento por plantear el debate filosófico en tor
 [^22]:
     [@Arrhenius2000ImpossibilityTheoremWelfarist].
 
-    [@Arrhenius2011ImposibilidadPoblaciónSatisfactoria].
+    [@Arrhenius2011ImpossibilitySatisfactoryPopulation].
 
     [@Kitcher2000ParfitsPuzzle].
 
@@ -502,7 +502,7 @@ Gustafsson desarrolla un punto de vista en esta línea, aunque con una terminolo
 [^56]:
     Además de la reducción del riesgo existencial, otra estrategia prometedora para mejorar el futuro a largo plazo es la "ampliación del círculo moral": aumentar la preocupación moral por los miembros de algunos grupos periféricos para incluir, idealmente, a todos los seres sintientes.
 
-    [@Anthis2021ExpansionCirculoMoral].
+    [@Anthis2021MoralCircleExpansion].
 
 [^57]: Esta suposición es plausible: con el continuo progreso tecnológico, social y moral, la calidad de vida media en el futuro probablemente seguirá aumentando, como lo ha hecho durante cientos de años. Sólo un nivel crítico irrazonablemente alto, según el cual incluso el valor de la vida media en la generación presente fuera negativo, podría invalidar la conclusión de que la reducción del riesgo existencial debería ser una prioridad.
 
