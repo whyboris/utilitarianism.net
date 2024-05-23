@@ -381,7 +381,7 @@ Aunque Parfit merece el reconocimiento por plantear el debate filosófico en tor
 
     {{< cite Huemer2008DefenceRepugnance >}}.
 
-[^17]: {{< cite Parfit1984ReasonsPersons "ch. 19" >}}.
+[^17]: {{< cite Parfit1984ReasonsPersons "chap. 19" >}}.
 [^18]: Al menos bajo supuestos normales. Como veremos más adelante, esto ya no se sigue si, además de la tricotomía estándar de las relaciones de valor (ser _mayor que_, _menor que_ y _precisamente igual_), existe una cuarta relación de estar _a la par_. La razón es que B podría ser mejor que A+, mientras que _tanto_ A+ como B están meramente a la par de A.
 [^19]:
     {{< cite Spears2021RepugnantConclusions >}}.
@@ -427,7 +427,7 @@ Pueden evitar la conclusión repugnante ya que el valor total de una población 
 
     Cf. {{< cite Greaves2017PopulationAxiology >}}.
 
-[^31]: {{< cite Parfit1984ReasonsPersons "ch. 18" >}}.
+[^31]: {{< cite Parfit1984ReasonsPersons "chap. 18" >}}.
 [^32]: Consideremos un mundo bueno con mil millones de personas felices y una sola persona miserable. Imaginemos que aumentamos repetidamente el número de personas felices y miserables de acuerdo con un mismo factor: diez mil millones de personas felices y diez personas miserables, cien mil millones de personas felices y cien personas miserables, etc. Para una población suficientemente grande, cada vez que aumentamos su tamaño de esta manera, el mundo empeora (según estas teorías asimétricas) hasta que finalmente llegamos a un mundo globalmente malo.
 [^33]: Para un intento de este tipo, véase la sección 7.2.2 de {{< cite Chappell2021ParfitEthics >}}.
 [^34]: Generalmente se supone que el nivel crítico no es negativo, es decir, es positivo o cero. Un nivel crítico negativo atribuiría inverosímilmente un valor positivo a (algunas) vidas negativas.
@@ -476,7 +476,7 @@ Gustafsson desarrolla un punto de vista en esta línea, aunque con una terminolo
 
 [^48]: Al menos, no puede ser mejor o peor en términos de bienestar.
 [^49]:
-    Cf. {{< cite Arrhenius2000FutureGenerationsChallenge "ch. 8" >}}.
+    Cf. {{< cite Arrhenius2000FutureGenerationsChallenge "chap. 8" >}}.
 
     {{< cite Heyd1988ProcreationAndValue >}}.
 
@@ -517,6 +517,6 @@ Gustafsson desarrolla un punto de vista en esta línea, aunque con una terminolo
 
     Véase también:
 
-    {{< cite MacAskill2019PracticalEthicsGiven "ch. 8" >}}.
+    {{< cite MacAskill2019PracticalEthicsGiven "chap. 8" >}}.
 
     {{< cite Ord2020AppendixBPopulation >}}.
