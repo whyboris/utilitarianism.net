@@ -88,10 +88,10 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
 
 ### Introducción
 
-- {{< cite "Crashcourse2016UtilitarianismCrashCourse" >}}
-- {{< cite "Lazari-Radek2017UtilitarianismVeryShort" >}}
-- {{< cite "Bykvist2010UtilitarianismGuidePerplexed" >}}
-- {{< cite "Appiah2022WhatIsUtilitarianism" >}}
+- {{< cite Crashcourse2016UtilitarianismCrashCourse >}}
+- {{< cite Lazari-Radek2017UtilitarianismVeryShort >}}
+- {{< cite Bykvist2010UtilitarianismGuidePerplexed >}}
+- {{< cite Appiah2022WhatIsUtilitarianism >}}
 
 ### Los Clásicos
 

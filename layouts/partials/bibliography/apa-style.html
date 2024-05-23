@@ -98,11 +98,13 @@
   <a href="https://doi.org/{{ .DOI }}"
      itemprop="identifier"
      itemtype="https://schema.org/URL">https://doi.org/{{- .DOI -}}</a>
+  {{ else if and .title .URL  }}
+    <a href="{{.URL}}">{{ .title }}</a>
   {{- else if .URL }}&#32;
-  {{- i18n "apa_retrieved_from" | default "Retrieved from" -}}&#32;
-  <a href="{{ .URL }}"
-     itemprop="identifier"
-     itemtype="https://schema.org/URL">{{ .URL }}</a>
+    {{- i18n "apa_retrieved_from" | default "Retrieved from" -}}&#32;
+    <a href="{{ .URL }}"
+      itemprop="identifier"
+      itemtype="https://schema.org/URL">{{ .URL }}</a>
   {{- end -}}
 {{- end -}}
 {{- /* END DOI*/ -}}
@@ -263,7 +265,7 @@
       data-type="webpage">
   {{- template "authorPart" . -}}
 
-  {{- template "issuedFullPart" . -}}.
+  {{- template "issuedPart" . -}}.
 
   {{- template "DOIPart" . -}}
 </span>
