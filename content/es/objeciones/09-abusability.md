@@ -87,10 +87,10 @@ Aun así, al fin y al cabo no hay garantía de que las creencias verdaderas sean
 - {{< cite Williams1973CritiqueOfUtilitarianism >}}.
 
 [^1]:
-     También es notable que se represente a los superhéroes como agentes que ponen muy poco esfuerzo en la [priorización de causas](../actuar-conforme-al-utilitarismo.md#priorizacion-de-causas), generalmente luchando contra el crimen local cuando podrían (de forma más útil, pero mucho menos dramática) usar sus poderes de forma más amplia para hacer el bien a escala global — como [este cómic de SMBC](https://www.smbc-comics.com/comic/2011-07-13) ilustra satíricamente.
+    También es notable que se represente a los superhéroes como agentes que ponen muy poco esfuerzo en la [priorización de causas](../actuar-conforme-al-utilitarismo.md#priorizacion-de-causas), generalmente luchando contra el crimen local cuando podrían (de forma más útil, pero mucho menos dramática) usar sus poderes de forma más amplia para hacer el bien a escala global — como [este cómic de SMBC](https://www.smbc-comics.com/comic/2011-07-13) ilustra satíricamente.
 
 [^2]:
-     En particular, no parece plausible suponer que estuvieran motivados principalmente por la beneficencia imparcial.
+    En particular, no parece plausible suponer que estuvieran motivados principalmente por la beneficencia imparcial.
 
 [^3]:
     Es decir, [puntos de vista menos exigentes](./exigencia.md#atacar-las-alternativas) pueden justificar acciones (u omisiones) egoístas, como desatender las necesidades de los pobres del mundo, de los animales no humanos y de las generaciones futuras. Así que vale la pena considerar cómo se enfrentan los puntos de vista rivales a sus propias versiones de la objeción de la abusabilidad.
@@ -101,16 +101,16 @@ Aun así, al fin y al cabo no hay garantía de que las creencias verdaderas sean
 [^4a]: Como escribe [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) en el capítulo 2 de <cite>{{< cite Mill2014Utilitarismo >}}</cite>, "No hay dificultad en demostrar que cualquier norma ética funciona mal, si suponemos que la idiotez universal va unida a ella."
 
 [^5]:
-     O tal vez como una “[mentira para los niños](https://es.wikipedia.org/wiki/Mentira_para_los_ni%C3%B1os)” simplificada.
+    O tal vez como una “[mentira para los niños](https://es.wikipedia.org/wiki/Mentira_para_los_ni%C3%B1os)” simplificada.
 
 [^6]:
-     Es famosa la observación de Bernard Williams de que "el destino del utilitarismo es desaparecer de la escena" ({{< cite Williams1973CritiqueOfUtilitarianism "p. 134" >}}). La idea de "moralidad esotérica" se encuentra en {{< cite Sidgwick1874MethodsEthics >}}, y fue criticada posteriormente (por sus tintes elitistas) como "utilitarismo de casa de gobierno". Pero sólo los puntos de vista absolutistas inverosímiles pueden descartar estrictamente la posibilidad de que el esoterismo pueda estar justificado en ocasiones. Para un debate más amplio, véase {{< cite Lazari-Radek2010SecrecyInConsequentialism >}}.
+    Es famosa la observación de Bernard Williams de que "el destino del utilitarismo es desaparecer de la escena" ({{< cite Williams1973CritiqueOfUtilitarianism "p. 134" >}}). La idea de "moralidad esotérica" se encuentra en {{< cite Sidgwick1874MethodsEthics >}}, y fue criticada posteriormente (por sus tintes elitistas) como "utilitarismo de casa de gobierno". Pero sólo los puntos de vista absolutistas inverosímiles pueden descartar estrictamente la posibilidad de que el esoterismo pueda estar justificado en ocasiones. Para un debate más amplio, véase {{< cite Lazari-Radek2010SecrecyInConsequentialism >}}.
 
 [^7]:
     Para un ejemplo histórico famoso, véase {{< cite Mill1859Liberty >}}, que defiende la importancia utilitarista de respetar la libertad ajena.
 
 [^8]:
-     La [incertidumbre moral](https://altruismoeficaz.net/temas/incertidumbre-moral) también es relevante aquí, ya que no es necesario tener _máxima_ confianza en los puntos de vista deontológicos para que ejerzan un efecto moderador adicional.
+    La [incertidumbre moral](https://altruismoeficaz.net/temas/incertidumbre-moral) también es relevante aquí, ya que no es necesario tener _máxima_ confianza en los puntos de vista deontológicos para que ejerzan un efecto moderador adicional.
 
 [^9]:
     Al difundir la falsa idea de que el utilitarismo justifica fácilmente los abusos, los defensores de la objeción de la abusabilidad están, irónicamente, contribuyendo al mismo problema que les preocupa. Dados los [sólidos argumentos teóricos a favor del utilitarismo](../argumentos-a-favor-del-utilitarismo.md), es inevitable que muchas personas reflexivas se sientan atraídas por este punto de vista. Si empiezas a decirles que su punto de vista justifica atrocidades en la vida real, algunos de ellos podrían creerte. Eso sería malo, porque la afirmación es a la vez perjudicial y falsa. En consecuencia, es mejor promover una comprensión más sofisticada de la relación entre la teoría utilitarista y la práctica, haciendo hincapié en el valor de las reglas y heurísticas generalmente fiables, y en la poca fiabilidad de los cálculos burdos cuando entran en conflicto con heurísticas más fiables.
@@ -122,7 +122,7 @@ Aun así, al fin y al cabo no hay garantía de que las creencias verdaderas sean
      Que una determinada creencia tenga efectos buenos o malos puede variar en función de los distintos individuos y contextos. Puede haber buenas razones para no mencionar a los niños de jardín de infantes la posibilidad de que las normas morales tengan excepciones en casos muy infrecuentes, por ejemplo.
 
 [^12]:
-Compárese el caso del "asesino en la puerta", que pregunta por el paradero de su víctima.
+    Compárese el caso del "asesino en la puerta", que pregunta por el paradero de su víctima.
 
 [^13]:
      Es decir, el hecho de tener que ocultar la verdad —a nosotros mismos o a otros— puede ser una razón para pensar mal de las personas relevantes, pero no es una razón para desconfiar de la afirmación verdadera relevante.
