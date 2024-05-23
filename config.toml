@@ -33,7 +33,7 @@ enableRobotsTXT = true
       [languages.de.services.googleAnalytics]
         ID = 'G-590G02FLYR'
   [languages.es]
-    disabled = true
+    disabled = false
     contentDir = 'content/es'
     languageCode = "es-ES"
     title = "Utilitarismo.net"
