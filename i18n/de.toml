@@ -94,3 +94,5 @@
   other = "https://feeds.buzzsprout.com/2040011.rss"
 [mp3.play]
   other = "Audioversion abspielen"
+[pdf.download]
+  other = "Als PDF speichern"

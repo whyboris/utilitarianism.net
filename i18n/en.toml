@@ -94,3 +94,5 @@
   other = "https://feeds.type3.audio/utilitarianism-net.rss"
 [mp3.play]
   other = "Play audio recording of content"
+[pdf.download]
+  other = "Download as PDF"
