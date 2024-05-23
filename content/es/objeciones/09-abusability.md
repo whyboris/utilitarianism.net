@@ -93,10 +93,10 @@ Aun así, al fin y al cabo no hay garantía de que las creencias verdaderas sean
      En particular, no parece plausible suponer que estuvieran motivados principalmente por la beneficencia imparcial.
 
 [^3]:
-Es decir, [puntos de vista menos exigentes](./exigencia.md#atacar-las-alternativas) pueden justificar acciones (u omisiones) egoístas, como desatender las necesidades de los pobres del mundo, de los animales no humanos y de las generaciones futuras. Así que vale la pena considerar cómo se enfrentan los puntos de vista rivales a sus propias versiones de la objeción de la abusabilidad.
+    Es decir, [puntos de vista menos exigentes](./exigencia.md#atacar-las-alternativas) pueden justificar acciones (u omisiones) egoístas, como desatender las necesidades de los pobres del mundo, de los animales no humanos y de las generaciones futuras. Así que vale la pena considerar cómo se enfrentan los puntos de vista rivales a sus propias versiones de la objeción de la abusabilidad.
 
 [^4]:
-Aunque, de nuevo, es interesante considerar cómo se enfrentan a esta objeción las distintas teorías. Muchas son tan vagas que dejan mucho espacio para interpretaciones al servicio del interés propio, por lo que también parecerían fácilmente explotables por actores malintencionados.
+    Aunque, de nuevo, es interesante considerar cómo se enfrentan a esta objeción las distintas teorías. Muchas son tan vagas que dejan mucho espacio para interpretaciones al servicio del interés propio, por lo que también parecerían fácilmente explotables por actores malintencionados.
 
 [^4a]: Como escribe [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) en el capítulo 2 de <cite>{{< cite Mill2014Utilitarismo >}}</cite>, "No hay dificultad en demostrar que cualquier norma ética funciona mal, si suponemos que la idiotez universal va unida a ella."
 
@@ -107,13 +107,13 @@ Aunque, de nuevo, es interesante considerar cómo se enfrentan a esta objeción 
      Es famosa la observación de Bernard Williams de que "el destino del utilitarismo es desaparecer de la escena" ({{< cite Williams1973CritiqueOfUtilitarianism "p. 134" >}}). La idea de "moralidad esotérica" se encuentra en {{< cite Sidgwick1874MethodsEthics >}}, y fue criticada posteriormente (por sus tintes elitistas) como "utilitarismo de casa de gobierno". Pero sólo los puntos de vista absolutistas inverosímiles pueden descartar estrictamente la posibilidad de que el esoterismo pueda estar justificado en ocasiones. Para un debate más amplio, véase {{< cite Lazari-Radek2010SecrecyInConsequentialism >}}.
 
 [^7]:
-Para un ejemplo histórico famoso, véase {{< cite Mill1859Liberty >}}, que defiende la importancia utilitarista de respetar la libertad ajena.
+    Para un ejemplo histórico famoso, véase {{< cite Mill1859Liberty >}}, que defiende la importancia utilitarista de respetar la libertad ajena.
 
 [^8]:
      La [incertidumbre moral](https://altruismoeficaz.net/temas/incertidumbre-moral) también es relevante aquí, ya que no es necesario tener _máxima_ confianza en los puntos de vista deontológicos para que ejerzan un efecto moderador adicional.
 
 [^9]:
-Al difundir la falsa idea de que el utilitarismo justifica fácilmente los abusos, los defensores de la objeción de la abusabilidad están, irónicamente, contribuyendo al mismo problema que les preocupa. Dados los [sólidos argumentos teóricos a favor del utilitarismo](../argumentos-a-favor-del-utilitarismo.md), es inevitable que muchas personas reflexivas se sientan atraídas por este punto de vista. Si empiezas a decirles que su punto de vista justifica atrocidades en la vida real, algunos de ellos podrían creerte. Eso sería malo, porque la afirmación es a la vez perjudicial y falsa. En consecuencia, es mejor promover una comprensión más sofisticada de la relación entre la teoría utilitarista y la práctica, haciendo hincapié en el valor de las reglas y heurísticas generalmente fiables, y en la poca fiabilidad de los cálculos burdos cuando entran en conflicto con heurísticas más fiables.
+    Al difundir la falsa idea de que el utilitarismo justifica fácilmente los abusos, los defensores de la objeción de la abusabilidad están, irónicamente, contribuyendo al mismo problema que les preocupa. Dados los [sólidos argumentos teóricos a favor del utilitarismo](../argumentos-a-favor-del-utilitarismo.md), es inevitable que muchas personas reflexivas se sientan atraídas por este punto de vista. Si empiezas a decirles que su punto de vista justifica atrocidades en la vida real, algunos de ellos podrían creerte. Eso sería malo, porque la afirmación es a la vez perjudicial y falsa. En consecuencia, es mejor promover una comprensión más sofisticada de la relación entre la teoría utilitarista y la práctica, haciendo hincapié en el valor de las reglas y heurísticas generalmente fiables, y en la poca fiabilidad de los cálculos burdos cuando entran en conflicto con heurísticas más fiables.
 
 [^10]:
      Para la discusión de temas relacionados, véase la primera parte de {{< cite Parfit1984ReasonsPersons >}}.
@@ -128,4 +128,4 @@ Compárese el caso del "asesino en la puerta", que pregunta por el paradero de s
      Es decir, el hecho de tener que ocultar la verdad —a nosotros mismos o a otros— puede ser una razón para pensar mal de las personas relevantes, pero no es una razón para desconfiar de la afirmación verdadera relevante.
 
 [^14]:
-Cuando los filósofos hablan de "mundos posibles", sólo se refieren a un posible _escenario_, es decir, _una forma en que el mundo podría haber sido_. Se dice que una proposición _p_ es "verdadera en" un mundo posible _w_ si y sólo si, _si w fuera real, p sería verdadera_. La teoría ética fundamental (no contingente) se combina con los hechos (contingentes) sobre un mundo para producir las afirmaciones o veredictos morales aplicados (contingentes) que son verdaderos en un mundo.
+    Cuando los filósofos hablan de "mundos posibles", sólo se refieren a un posible _escenario_, es decir, _una forma en que el mundo podría haber sido_. Se dice que una proposición _p_ es "verdadera en" un mundo posible _w_ si y sólo si, _si w fuera real, p sería verdadera_. La teoría ética fundamental (no contingente) se combina con los hechos (contingentes) sobre un mundo para producir las afirmaciones o veredictos morales aplicados (contingentes) que son verdaderos en un mundo.

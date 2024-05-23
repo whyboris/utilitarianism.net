@@ -7,7 +7,7 @@ type: "page"
 draft: false
 menu: ["objections"]
 weight: 207
-página: 7
+page: 7
 description: "El utilitarismo se preocupa por el bienestar general de las personas en la población, pero muchos objetan que la justicia requiere una preocupación adicional por la forma en que este bienestar se distribuye entre las personas. Este artículo examina esta objeción y cuáles son las mejores respuestas que los utilitaristas podrían ofrecer."
 gradientTop: "#531694"
 gradientBottom: "#260380"

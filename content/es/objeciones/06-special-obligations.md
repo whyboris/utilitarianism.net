@@ -82,11 +82,12 @@ Frente a quienes insisten en la parcialidad en un nivel teórico fundamental, lo
 [^2]: {{< cite Goodin1988WhatSpecialOur >}}. Véase también {{< cite Jackson1991DecisiontheoreticConsequentialismNearest >}}.
 [^3]: {{< cite Parfit1984ReasonsPersons >}}.
 [^4]:
-Además, puede haber costos de reputación para los utilitaristas que no dan prioridad a los miembros de su familia, lo que podría invertir el valor esperado a largo plazo de actuar así, una vez que se tiene en cuenta el riesgo de una reacción social adversa. Actuar de una forma que se considera errónea es socialmente arriesgado, lo que da a los utilitaristas razones prácticas adicionales para pensarlo dos veces antes de infringir las normas ampliamente aceptadas de "obligación especial".
+    Además, puede haber costos de reputación para los utilitaristas que no dan prioridad a los miembros de su familia, lo que podría invertir el valor esperado a largo plazo de actuar así, una vez que se tiene en cuenta el riesgo de una reacción social adversa. Actuar de una forma que se considera errónea es socialmente arriesgado, lo que da a los utilitaristas razones prácticas adicionales para pensarlo dos veces antes de infringir las normas ampliamente aceptadas de "obligación especial".
 
     Véase {{< cite Everett2018CostsOfBeing >}}.
 
-[^5]: Esto está estrechamente relacionado con la objeción de la "esquizofrenia moral" al utilitarismo sofisticado, discutida en el artículo sobre [la objeción de la alienación](./alienacion.md#utilitarismo-sofisticado). Sin embargo, la objeción que nos ocupa aquí parece más débil. La objeción de la alienación se refería a cosas que el utilitarismo supuestamente no valoraba _en absoluto_. Mientras que, en este caso, el utilitarismo ciertamente valora el bienestar de un hijo; la cuestión es sólo si hay alguna justificación para una preocupación _incluso mayor_. Parece intrínsecamente más difícil tener una confianza firme en tales cuestiones de grado.
+[^5]:
+    Esto está estrechamente relacionado con la objeción de la "esquizofrenia moral" al utilitarismo sofisticado, discutida en el artículo sobre [la objeción de la alienación](./alienacion.md#utilitarismo-sofisticado). Sin embargo, la objeción que nos ocupa aquí parece más débil. La objeción de la alienación se refería a cosas que el utilitarismo supuestamente no valoraba _en absoluto_. Mientras que, en este caso, el utilitarismo ciertamente valora el bienestar de un hijo; la cuestión es sólo si hay alguna justificación para una preocupación _incluso mayor_. Parece intrínsecamente más difícil tener una confianza firme en tales cuestiones de grado.
 [^6]: {{< cite "Lazari-Radek2012ObjectivityEthicsUnity" >}}.
 [^7]: {{< cite Parfit1984ReasonsPersons "p. 97" >}}.
 [^8]:

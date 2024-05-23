@@ -3,7 +3,7 @@ title: "La objeción de la incertidumbre radical"
 slug: "incertidumbre-radical"
 authors: "Chappell, R.Y."
 date: 2023-03-08
-tipo: "page"
+type: "page"
 draft: false
 menu: ["objections"]
 weight: 208
