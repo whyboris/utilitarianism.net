@@ -81,8 +81,14 @@
       {{- $reference := . -}}
 
 
-      {{ if $short }}
-        <i>{{- $reference.title -}}</i> {{/* <---- !!! whenever a citation is prepended with `-` for "short" */}}
+      {{ if $short }} {{/* <---- !!! whenever a citation is prepended with `-` for "short" */}}
+        {{ if $reference.URL }}
+          <a href="{{$reference.URL}}">
+            <i>{{- $reference.title -}}</i>
+          </a>
+        {{ else }}
+          <i>{{- $reference.title -}}</i>
+        {{ end }}
       {{ else }}
         {{ partial "bibliography/apa-style.html" $reference }} {{/* <----- !!! THE CITATION STRING OUTPUT !!! */}}
       {{ end }}
