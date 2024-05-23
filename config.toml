@@ -21,17 +21,6 @@ enableRobotsTXT = true
     [languages.en.services]
       [languages.en.services.googleAnalytics]
         ID = 'G-91NYS1B7E1'
-  [languages.es]
-    contentDir = 'content/es'
-    languageCode = "es-ES"
-    title = "Utilitarismo.net"
-    baseURL = "https://utilitarismo.net/"
-    weight = 2
-    [languages.es.params]
-      pdfString = "_Utilitarismo_net"
-    [languages.es.services]
-      [languages.es.services.googleAnalytics]
-        ID = 'G-ADD-ID'
   [languages.de]
     contentDir = 'content/de'
     languageCode = "de-DE"
@@ -43,6 +32,18 @@ enableRobotsTXT = true
     [languages.de.services]
       [languages.de.services.googleAnalytics]
         ID = 'G-590G02FLYR'
+  [languages.es]
+    disabled = true
+    contentDir = 'content/es'
+    languageCode = "es-ES"
+    title = "Utilitarismo.net"
+    baseURL = "https://utilitarismo.net/"
+    weight = 2
+    [languages.es.params]
+      pdfString = "_Utilitarismo_net"
+    [languages.es.services]
+      [languages.es.services.googleAnalytics]
+        ID = 'G-ADD-ID'
 [Params]
   images = ["img/social.png"]
   # WARNING - below 3 (pdf, search, production) should all be "false"
