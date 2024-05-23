@@ -5,6 +5,7 @@ date: 2023-01-29
 draft: false
 weight: 1
 hidepdf: true
+bibFile: "content/bib.json"
 ---
 
 ## Nuestro propósito

@@ -11,6 +11,7 @@ page: 5
 description: "Las teorías morales abstractas amenazan con alienarnos de mucho de lo que valoramos. Este artículo explora dos posibles defensas del utilitarismo contra esta acusación. Una recomienda adoptar motivaciones distintas de las explícitamente utilitaristas. La otra argumenta que las preocupaciones adecuadamente concretas pueden subsumirse en motivaciones utilitaristas más generales."
 gradientTop: "#5F3091"
 gradientBottom: "#822FA8"
+bibFile: "content/bib.json"
 ---
 
 {{< TOC >}}

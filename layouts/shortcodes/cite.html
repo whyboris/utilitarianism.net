@@ -36,10 +36,11 @@
   {{- else -}}
   {{- $key = (.Get 0) | replaceRE "^-(.+)" "$1" -}}
   {{ $keys = split $key $keySeparator -}}
+
+  {{/*  grab the pages string  */}}
   {{- $pages = string (.Get 1) -}}
-  {{- if $pages -}}
-    {{- $pages = split $pages ";" -}}
-  {{- end -}}
+
+  {{/*  For short version of citation  */}}
   {{- if (findRE "^-(.+)" (.Get 0) 1) -}}
     {{ $short = true }}
   {{- end -}}
@@ -88,14 +89,7 @@
 
       {{/*  Below is only to add pages at the end of the reference  */}}
       {{ if $pages }}
-        {{- $currentPages := index $pages $keyIndex -}}
-        {{- with $currentPages -}},&#32;
-        {{- $formatedPages := (printf "p.&nbsp;%s" $currentPages) | safeHTML -}}
-        {{- if gt (findRE "-" $currentPages) 0 -}}{{/* If `$pages` contains a dash */}}
-          {{- $formatedPages = (printf "pp.&nbsp;%s" $currentPages) | safeHTML -}}
-        {{- end -}}
-        {{- $formatedPages }}
-        {{ end }}
+        {{- $pages -}}
       {{- end -}}
       {{/*  End of inserting page numbers  */}}
 

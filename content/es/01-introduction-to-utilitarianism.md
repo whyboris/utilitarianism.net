@@ -115,19 +115,19 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
 
     Por ejemplo, Bentham comentó sobre la cuestión de la protección de los animales: "La pregunta no es: ¿Pueden *razonar*? ni ¿Pueden *conversar*? Si no ¿Pueden *sufrir*?"
 
-    {{< cite Bentham2017IntroductionToPrinciples "143–4 & 291" >}}
+    {{< cite Bentham2017IntroductionToPrinciples "pp. 143–4 & 291" >}}
 
     "¿Por qué la ley habría de negar su protección a un ser sensible? Ya llegará el momento en que la humanidad extenderá su manto sobre todo lo que respira. Hemos comenzado por atender a la condición de los esclavos; terminaremos por aliviar la de todos los animales que asisten nuestros trabajos o satisfacen nuestras necesidades."
 
-    {{< cite Bentham1838PrinciplesOfPenal 162 >}}
+    {{< cite Bentham1838PrinciplesOfPenal "p. 162" >}}
 
 [^4]: Cfr. {{< cite Bentham2017IntroductionToPrinciples >}}; y {{< cite CamposBoralevi1984BenthamOppressed >}}.
 
 [^5]: Parlamento del Reino Unido, [The 1866 Women's Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
 
-[^6]: Mill atribuye muchas de las ideas de *El sometimiento de la mujer* a su esposa, [Harriet Taylor Mill](https://altruismoeficaz.net/autores/harriet-taylor-mill). Véase {{< cite Mill2016Autobiography 166 >}}
+[^6]: Mill atribuye muchas de las ideas de *El sometimiento de la mujer* a su esposa, [Harriet Taylor Mill](https://altruismoeficaz.net/autores/harriet-taylor-mill). Véase {{< cite Mill2016Autobiography "p. 166" >}}
 
-[^7]: {{< cite Mill1869SubjectionOfWomen 1 >}}
+[^7]: {{< cite Mill1869SubjectionOfWomen "p. 1" >}}
 
 [^8]: Sobre la pobreza extrema véase {{< cite Singer2009LifeYouCan >}}
 

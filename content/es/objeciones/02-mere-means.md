@@ -11,6 +11,7 @@ page: 2
 description: "Los críticos a menudo alegan que el utilitarismo instrumentaliza a la gente de forma objetable: nos trata como meros medios para un bien mayor, en lugar de valorar adecuadamente a las personas como fines en sí mismas. En este artículo, evaluamos si se trata de una objeción razonable."
 gradientTop: "#371E87"
 gradientBottom: "#571B9E"
+bibFile: "content/bib.json"
 ---
 
 {{< TOC >}}

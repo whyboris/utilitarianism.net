@@ -11,6 +11,7 @@ page: 8
 description: "¿Se ve socavado el utilitarismo por nuestra incapacidad para predecir las consecuencias a largo plazo de nuestras acciones? Este artículo explora si los utilitaristas pueden seguir guiándose por el valor esperado a corto plazo incluso cuando es pequeño en comparación con el valor o disvalor potencial de las consecuencias a largo plazo desconocidas."
 gradientTop: "#260380"
 gradientBottom: "#6F4BC9"
+bibFile: "content/bib.json"
 ---
 
 {{< TOC >}}
