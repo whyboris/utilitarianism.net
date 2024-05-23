@@ -1,4 +1,3 @@
-
 ---
 title: "Objeciones al utilitarismo y respuestas"
 date: 2023-01-29
@@ -86,4 +85,3 @@ En artículos separados, discutimos las siguientes críticas al utilitarismo:
 [^3a]: [@Hare2016ShouldWeWish, pp. 454–455]. Véase también la discusión en nuestro capítulo sobre los [argumentos a favor del utilitarismo](../argumentos-a-favor-del-utilitarismo.md#pareto-ex-ante).
 [^4]: Por el contrario, el utilitarismo ofrece una explicación clara y fundamentada de (por ejemplo) cuándo es razonable transgredir las restricciones, es decir, sólo cuando hacerlo sea realmente la mejor manera de contribuir al bienestar general. Lo mismo ocurre con otras cuestiones, como cuándo merece la pena dañar el medio ambiente, cómo sopesar los daños leves para muchos frente a los graves para unos pocos, etcétera. Eso no quiere decir que siempre sea fácil _decir_ qué es lo que recomienda el utilitarismo en situaciones de la vida real, ya que puede ser difícil predecir los resultados futuros. Pero al menos está claro _en principio_ cómo se contraponen las distintas consideraciones, mientras que otras teorías a menudo no ofrecen ni siquiera esta claridad.
 [^5]: Por supuesto, eso no quiere decir que haya que realizar las mismas acciones concretas. Adoptar una postura "bélica" fuera de la guerra podría resultar contraproducente. La cuestión es que lo que está en juego es lo suficientemente importante como para que no debamos esperar que un consejo verdaderamente moral, en nuestras circunstancias, sea _reconfortante_.
-

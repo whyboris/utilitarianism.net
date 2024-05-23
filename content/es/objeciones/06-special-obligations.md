@@ -95,4 +95,3 @@ Además, puede haber costos de reputación para los utilitaristas que no dan pri
 
 [^9]: Los utilitaristas que apoyan la parcialidad por razones instrumentales tienen un criterio simple para determinar esta respuesta: debemos trazar la línea de cualquier manera que tenga el efecto de maximizar el bienestar general. Pero esta respuesta no está disponible para aquellos que consideran que la parcialidad tiene una justificación intrínseca y no instrumental.
 [^10]: Suponiendo, para simplificar, que todas las vidas tienen expectativas similares de bienestar futuro.
-

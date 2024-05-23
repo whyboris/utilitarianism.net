@@ -79,12 +79,10 @@ Pero puede haber otras objeciones, estrechamente relacionadas, que la gente a ve
 - [@Parfit2011WhatMattersVolume, chap. 9: Merely as a means].
 
 [^1]: En sentido estricto, esta objeción se aplica a todas las teorías consecuencialistas (agregativas). Las respuestas que ofrecemos en nombre del utilitarismo en este artículo se aplicarían igualmente en defensa de otras teorías consecuencialistas.
-[^2]: [@Kant1785GrundlegungZutMetaphysik, p. 429|10].
+[^2]: [@Kant1785GrundlegungZurMetaphysik, p. 429|10].
 [^3]: Específicamente, estarían dispuestos a sacrificar bienes que sumaran una pérdida de valor de bienestar igual o menor, para aliviar esta carga.
 [^4]: Cf. [@Parfit2011WhatMattersVolume, cap. 9: Merely as a means].
 [^5]: [@Kamm1998AreThereIrrelevant, p. 147].
 [^6]: En sentido estricto, sus intereses tienen la misma importancia, pero si su esperanza de vida restante es menor que la de los niños (y, por tanto, está en juego un menor bienestar futuro), el valor intrínseco de su vida futura puede ser _menor_ que el de los que aún tienen más tiempo de vida.
 [^7]: Gracias a Toby Ord por sugerir esta variante.
 [^8]: Por ejemplo, pueden afirmar que no se debe tratar a las personas de un modo que no consientan o que no puedan consentir razonablemente.
-
-

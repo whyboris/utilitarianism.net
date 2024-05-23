@@ -43,7 +43,7 @@ Se puede lograr una reconciliación más firme rechazando la noción ordinaria d
 
 Según el utilitarismo, si alguien debe ser censurado por sus acciones es algo que debe decidirse en función de las consecuencias que se derivarían de ello. Censurar a la gente siempre que no haga el mayor bien posible tendrá probablemente malas consecuencias, porque la desalienta para intentarlo siquiera. En cambio, el utilitarismo suele recomendar que se elogie a las personas que dan pasos en la dirección correcta, aunque no alcancen el ideal utilitarista. Esto muestra cómo la noción utilitarista de "incorrecto" se aleja de lo que el sentido común entiende por esa noción, que está mucho más ligado a la culpabilidad.
 
-De hecho, en el utilitarismo [escalar o de suficiencia](../elementos-y-tipos-de-utilitarismo.md#reconstruir-la-correccion-moral-utilitarismo-maximizador-de-suficiencia-y-escalar), hacer menos que lo mejor no tiene por qué considerarse "incorrecto". Es simplemente menos de lo que sería ideal. El utilitarismo de suficiencia identifica un umbral mínimo inferior de lo que es "necesario" para evitar la culpabilidad, mientras que el consecuencialismo escalar evita por completo tales umbrales, evaluando en su lugar la calidad moral de las acciones en una escala continua de mejor a peor. Para una persona acomodada es _mejor_ donar el 10% de sus ingresos a una organización benéfica que donar sólo el 1%, lo cual es mejor que no donar nada.
+De hecho, en el utilitarismo [escalar o de suficiencia](../elementos-y-tipos-de-utilitarismo.md#reconstruir-la-correccion-moral-utilitarismo-maximizador-de-suficiencia-y-escalar), hacer menos que lo mejor no tiene por qué considerarse "incorrecto". Es simplemente menos de lo que sería ideal. El utilitarismo de suficiencia identifica un umbral mínimo inferior de lo que es "necesario" para evitar la culpabilidad, mientras que el consecuencialismo escalar evita por completo tales umbrales, evaluando en su lugar la calidad moral de las acciones en una escala continua de mejor a peor. Para una persona acomodada es _mejor_ donar el 10 % de sus ingresos a una organización benéfica que donar sólo el 1 %, lo cual es mejor que no donar nada.
 
 ## Desacreditar la intuición
 
@@ -79,11 +79,11 @@ Por último, los defensores del utilitarismo pueden simplemente aceptar que la m
 
 - [@Berkey2016DemandingnessOfMorality].
 - [@Bykvist2010UtilitarianismGuidePerplexed, chap. 7: ¿Es el utilitarismo demasiado exigente?].
-- [@Kagan1982¿Es el consecuencialismo demasiado exigente?]
+- [@Kagan1982DoesConsequentialismDemand].
 - [@Lazari-Radek2014PointViewUniverse, pp. 317–336].
 - [@Singer1972FamineAffluenceMorality].
-- [@Sobel2007ImpotenciaExigenciaObjeción].
-- [@Wolf1982SantosMorales].
+- [@Sobel2007ImpotenceDemandingnessObjection].
+- [@Wolf1982MoralSaints].
 
 [^1]: Cf. [@Wolf1982MoralSaints].
 [^2]: [@Givewell2022AgainstMalariaFoundation].

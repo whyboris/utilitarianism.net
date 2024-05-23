@@ -87,5 +87,5 @@ Por último, los defensores del utilitarismo pueden, una vez más, aceptar que e
 [^2]: Cf. [@Drupp2018DiscountingDisentangled].
 [^3]: [@Parfit1997EqualityPriority].
 [^4]: Aunque esto deja abierta la elección entre el enfoque utilitarista de la [igual consideración de intereses](../elementos-y-tipos-de-utilitarismo.md#imparcialidad-y-igual-consideracion-de-intereses) y el enfoque [prioritarista](../alternativas-cercanas-al-utilitarismo.md#prioritarismo) de dar un peso extra a los intereses de los menos favorecidos.
-[^5]: De hecho, la forma estándar de definir una magnitud de bienestar es en términos de decisiones racionales en condiciones de incertidumbre. Desde este punto de vista, que un resultado proporcione 100 de bienestar significa que uno, por ejemplo, debería ser indiferente entre ese resultado y una probabilidad del 50% de 200 de bienestar o de 0 de bienestar.
+[^5]: De hecho, la forma estándar de definir una magnitud de bienestar es en términos de decisiones racionales en condiciones de incertidumbre. Desde este punto de vista, que un resultado proporcione 100 de bienestar significa que uno, por ejemplo, debería ser indiferente entre ese resultado y una probabilidad del 50 % de 200 de bienestar o de 0 de bienestar.
 [^6]: Cf. [@Harsanyi1955CardinalWelfareIndividualistic].
