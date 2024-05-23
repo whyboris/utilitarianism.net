@@ -179,6 +179,6 @@ These two files were copied from the above repository and `cite.html` was modifi
 - `layouts/shortcodes/cite.html`
 - `layouts/partials/bibliography/apa-style.html`
 
-For citations, search and replace `\[@(.+)\]` _RegEx_ with `{{< cite $1 >}}` and then fix any page references (e.g. `p 1-5`)
+For citations, search and replace `\[@(.+?)\]` _RegEx_ with `{{< cite $1 >}}` and then fix any page references (e.g. `p 1-5`)
 
 [^1]: If you see an error while Pagefind is being installed, something like [Error: tar xvf exited with 128](https://github.com/CloudCannon/pagefind/issues/66#issuecomment-1237313541) try using _Powershell_ when running `npm install`

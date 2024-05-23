@@ -139,7 +139,6 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
 
 {{< button >}}
 
-
 ## Recursos y Más información
 
 - {{< cite Broome1987UtilitarianismExpectedUtility >}}.
@@ -149,7 +148,7 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
 - {{< cite Hare2016ShouldWeWish >}}.
 - {{< cite Harsanyi1955CardinalWelfareIndividualistic >}}.
 - {{< cite Harsanyi1977RationalBehaviorBargaining >}}.
-- {{< cite Lazari-Radek2017Justification >}}.
+- {{< cite "Lazari-Radek2017Justification" >}}.
 - {{< cite Smart1961OutlineSystemUtilitarian >}}.
 
 [^1]: {{< cite Daniels2003ReflectiveEquilibrium >}}.
