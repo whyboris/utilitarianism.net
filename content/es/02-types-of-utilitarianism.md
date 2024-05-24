@@ -120,7 +120,7 @@ El utilitarismo clásico acepta una teoría ética de la población conocida com
 
 > **Un resultado es mejor que otro si y sólo si contiene mayor bienestar total.**
 
-La perspectiva total implica que podemos mejorar el mundo de dos maneras:[^8a] podemos mejorar la calidad de vida de las personas existentes, o podemos aumentar el número de personas que viven una vida positiva.[^9] En la práctica, a menudo hay que elegir entre hacer más felices a las personas existentes o crear más personas felices. En un planeta con recursos limitados, añadir más gente a una población ya de por sí numerosa puede, en algún momento, disminuir la calidad de vida de todos los demás lo suficiente como para que el bienestar total disminuya.
+La perspectiva total implica que podemos mejorar el mundo de dos maneras:[^9] podemos mejorar la calidad de vida de las personas existentes, o podemos aumentar el número de personas que viven una vida positiva.[^10] En la práctica, a menudo hay que elegir entre hacer más felices a las personas existentes o crear más personas felices. En un planeta con recursos limitados, añadir más gente a una población ya de por sí numerosa puede, en algún momento, disminuir la calidad de vida de todos los demás lo suficiente como para que el bienestar total disminuya.
 
 La principal consecuencia práctica de la perspectiva total es [dar gran importancia](./utilitarismo-y-etica-practica.md#largoplacismo) a garantizar la prosperidad de la civilización a largo plazo. Dado que el bienestar total del que disfrutarán todas las personas futuras es potencialmente enorme, la [mitigación de los riesgos existenciales](./actuar-conforme-al-utilitarismo.md#reduccion-de-riesgos-existenciales) —que amenazan con destruir este inmenso valor futuro— es, según la perspectiva total, una de las principales cuestiones morales a las que se enfrenta la humanidad.
 
@@ -139,27 +139,27 @@ Después de escoger nuestra teoría del bienestar y nuestra ética de la poblaci
 
 El utilitarismo se suele formular en su forma maximizadora: dado cualquier conjunto de opciones, la acción que produce el mayor bienestar es correcta, y todas las demás acciones son incorrectas.
 
-Aunque ésta es la formulación más común del utilitarismo,[^10] puede resultar engañosa en algunos aspectos. Los utilitaristas están de acuerdo en que _idealmente_ una persona debería elegir la acción que mejor promueve el bienestar general. Eso es lo que la persona tiene _más_ razones morales para hacer. Pero no recomiendan _censurar_ a la persona cada vez que no alcance este ideal.[^11] Como resultado, muchos utilitaristas consideran que es engañoso que se interpreten sus afirmaciones sobre lo que _idealmente_ se debería hacer como una explicación de la "corrección" u "obligación" morales en el sentido ordinario de esos términos.[^12]
+Aunque ésta es la formulación más común del utilitarismo,[^11] puede resultar engañosa en algunos aspectos. Los utilitaristas están de acuerdo en que _idealmente_ una persona debería elegir la acción que mejor promueve el bienestar general. Eso es lo que la persona tiene _más_ razones morales para hacer. Pero no recomiendan _censurar_ a la persona cada vez que no alcance este ideal.[^12] Como resultado, muchos utilitaristas consideran que es engañoso que se interpreten sus afirmaciones sobre lo que _idealmente_ se debería hacer como una explicación de la "corrección" u "obligación" morales en el sentido ordinario de esos términos.[^13]
 
 Para ilustrarlo mejor, supongamos que Sophie puede no salvar a nadie, salvar a 999 personas haciendo un gran sacrificio personal, o salvar a 1000 personas haciendo un sacrificio personal aún mayor. Desde una perspectiva utilitarista, lo más importante es que Sophie salve a las 999 personas o a las 1000 en lugar de no salvar a nadie; la diferencia entre salvar a 999 personas y salvar a 1000 es comparativamente pequeña. Sin embargo, en la forma maximizadora del utilitarismo, tanto no salvar a nadie como salvar a las 999 personas sería calificado de "incorrecto". Aunque podríamos aceptar una explicación maximizadora de lo que los agentes _idealmente deberían_ hacer, hay otras afirmaciones morales adicionales.
 
-En cambio, el [utilitarismo de suficiencia](https://altruismoeficaz.net/temas/consecuencialismo-de-suficiencia) sostiene que, entre cualquier conjunto de opciones, una acción es correcta si y sólo si produce _suficiente_ bienestar.[^13] Esta propuesta tiene sus propios problemas y aún no ha encontrado un amplio apoyo.[^14] En el caso expuesto en el párrafo anterior, aún queremos decir que hay buenas razones para salvar a las 1000 personas antes que a las 999; calificar ambas acciones de correctas supondría el riesgo de ignorar la importante diferencia moral entre estas dos opciones. Así que, aunque podemos sentirnos atraídos por una explicación de este tipo sobre lo que los agentes están _obligados_ a hacer para cumplir con normas morales mínimas,[^15] esta perspectiva también debe ser suplementada.
+En cambio, el [utilitarismo de suficiencia](https://altruismoeficaz.net/temas/consecuencialismo-de-suficiencia) sostiene que, entre cualquier conjunto de opciones, una acción es correcta si y sólo si produce _suficiente_ bienestar.[^14] Esta propuesta tiene sus propios problemas y aún no ha encontrado un amplio apoyo.[^15] En el caso expuesto en el párrafo anterior, aún queremos decir que hay buenas razones para salvar a las 1000 personas antes que a las 999; calificar ambas acciones de correctas supondría el riesgo de ignorar la importante diferencia moral entre estas dos opciones. Así que, aunque podemos sentirnos atraídos por una explicación de este tipo sobre lo que los agentes están _obligados_ a hacer para cumplir con normas morales mínimas,[^16] esta perspectiva también debe ser suplementada.
 
 En su lugar, es más popular entre los principales utilitaristas de hoy apoyar una forma de _utilitarismo escalar_, que se puede definir de la siguiente manera:
 
-> **El utilitarismo escalar es la perspectiva de que la evaluación moral es una cuestión de grado: cuanto más promueva un acto el bienestar, más razones morales habrá para realizar ese acto.**[^16]
+> **El utilitarismo escalar es la perspectiva de que la evaluación moral es una cuestión de grado: cuanto más promueva un acto el bienestar, más razones morales habrá para realizar ese acto.**[^17]
 
-De acuerdo con esta perspectiva, no existe una distinción fundamental y tajante entre acciones "correctas" e "incorrectas", sino una escala continua que va de lo moralmente mejor a lo peor.[^17]
+De acuerdo con esta perspectiva, no existe una distinción fundamental y tajante entre acciones "correctas" e "incorrectas", sino una escala continua que va de lo moralmente mejor a lo peor.[^18]
 
-Tradicionalmente, los filósofos han concebido el utilitarismo maximizador, el utilitarismo de suficiencia y el utilitarismo escalar como perspectivas enfrentadas. Pero más recientemente se ha sugerido que los utilitaristas podrían aceptar fructíferamente las tres, construyendo _múltiples_ sentidos diferentes de "debería" o "correcto".[^18] Según este enfoque pluralista, (i) los maximizadores están en lo cierto al sostener que Sophie _idealmente_ debería salvar a todas las 1000 personas; (ii) los partidarios del utilitarismo de suficiencia pueden estar en lo cierto al sostener que salvar a 999 es _minimalmente aceptable_ en un sentido en que no salvar a nadie no lo es; y (iii) los utilitaristas escalares están en lo cierto al sostener que, en última instancia, esto es una cuestión de grado, y que el beneficio de salvar a 999 y no a cero es mucho mayor que el beneficio de salvar a 1000 y no a 999.
+Tradicionalmente, los filósofos han concebido el utilitarismo maximizador, el utilitarismo de suficiencia y el utilitarismo escalar como perspectivas enfrentadas. Pero más recientemente se ha sugerido que los utilitaristas podrían aceptar fructíferamente las tres, construyendo _múltiples_ sentidos diferentes de "debería" o "correcto".[^19] Según este enfoque pluralista, (i) los maximizadores están en lo cierto al sostener que Sophie _idealmente_ debería salvar a todas las 1000 personas; (ii) los partidarios del utilitarismo de suficiencia pueden estar en lo cierto al sostener que salvar a 999 es _minimalmente aceptable_ en un sentido en que no salvar a nadie no lo es; y (iii) los utilitaristas escalares están en lo cierto al sostener que, en última instancia, esto es una cuestión de grado, y que el beneficio de salvar a 999 y no a cero es mucho mayor que el beneficio de salvar a 1000 y no a 999.
 
 ### Utilitarismo de expectativas y utilitarismo objetivo
 
-Dadas nuestras limitaciones cognitivas y epistémicas, no podemos prever todas las consecuencias de nuestras acciones. Muchos filósofos han sostenido que lo que debemos hacer depende de lo que creemos, o más bien deberíamos creer, en el momento de la acción. El ejemplo más destacado de este tipo de razonamiento es el _utilitarismo de expectativas_.[^19]
+Dadas nuestras limitaciones cognitivas y epistémicas, no podemos prever todas las consecuencias de nuestras acciones. Muchos filósofos han sostenido que lo que debemos hacer depende de lo que creemos, o más bien deberíamos creer, en el momento de la acción. El ejemplo más destacado de este tipo de razonamiento es el _utilitarismo de expectativas_.[^20]
 
 > **El utilitarismo de expectativas es la perspectiva según la cual deberíamos promover el _bienestar esperado_.**
 
-El utilitarismo de expectativas sostiene que debemos elegir las acciones con el mayor _valor esperado_.[^20] El valor esperado de una acción es la suma del valor de cada uno de los resultados potenciales multiplicado por la probabilidad de que se produzca ese resultado. Este enfoque sigue la [teoría de la utilidad esperada](https://altruismoeficaz.net/temas/utilidad-esperada), la teoría más aceptada sobre cómo tomar decisiones racionales en condiciones de incertidumbre. Así, por ejemplo, según el utilitarismo de expectativas, deberíamos elegir un 10 % de probabilidades de salvar 1000 vidas frente a un 50 % de probabilidades de salvar 150 vidas, porque la primera opción salva 100 vidas esperadas (= 10 % x 1000 vidas), mientras que la segunda salva 75 vidas esperadas (= 50 % x 150 vidas). Esto nos da una explicación de la elección _racional_ desde un punto de vista moral.
+El utilitarismo de expectativas sostiene que debemos elegir las acciones con el mayor _valor esperado_.[^21] El valor esperado de una acción es la suma del valor de cada uno de los resultados potenciales multiplicado por la probabilidad de que se produzca ese resultado. Este enfoque sigue la [teoría de la utilidad esperada](https://altruismoeficaz.net/temas/utilidad-esperada), la teoría más aceptada sobre cómo tomar decisiones racionales en condiciones de incertidumbre. Así, por ejemplo, según el utilitarismo de expectativas, deberíamos elegir un 10 % de probabilidades de salvar 1000 vidas frente a un 50 % de probabilidades de salvar 150 vidas, porque la primera opción salva 100 vidas esperadas (= 10 % x 1000 vidas), mientras que la segunda salva 75 vidas esperadas (= 50 % x 150 vidas). Esto nos da una explicación de la elección _racional_ desde un punto de vista moral.
 
 El utilitarismo objetivo, por el contrario, considera que el grado en que debemos realizar una acción depende del bienestar que _de hecho_ producirá. El contraste entre ambas posiciones puede ilustrarse mediante un experimento mental:
 
@@ -171,7 +171,7 @@ Cuando existe un conflicto de este tipo entre qué acto sería el mejor _de hech
 
 ### Utilitarismo multinivel y utilitarismo de un solo nivel
 
-En la bibliografía sobre utilitarismo, se traza una distinción útil entre un _criterio de corrección_ y un _procedimiento de decisión_. Un criterio de corrección nos dice qué hace falta para que una acción (o norma, política, etc.) sea correcta o incorrecta. Un procedimiento de decisión es algo que utilizamos cuando pensamos sobre cómo actuar.[^21]
+En la bibliografía sobre utilitarismo, se traza una distinción útil entre un _criterio de corrección_ y un _procedimiento de decisión_. Un criterio de corrección nos dice qué hace falta para que una acción (o norma, política, etc.) sea correcta o incorrecta. Un procedimiento de decisión es algo que utilizamos cuando pensamos sobre cómo actuar.[^22]
 
 Los utilitaristas creen que su teoría moral es el verdadero criterio de lo correcto (al menos en el sentido de lo que "idealmente debería" hacerse, como se ha dicho antes). Sin embargo, casi universalmente desaconsejan utilizar el utilitarismo como procedimiento de decisión para guiar nuestras acciones cotidianas. Esto implicaría intentar deliberadamente promover el bienestar agregado calculando constantemente las consecuencias esperadas de nuestras acciones diarias. Pero sería absurdo decidir qué cereales comprar en el supermercado pensando en todas las posibles consecuencias de comprar distintas marcas de cereales para determinar cuál contribuye mejor al bienestar general. La decisión tiene poco en juego y no vale la pena dedicarle mucho tiempo.
 
@@ -179,11 +179,11 @@ El punto de vista que trata el utilitarismo como un criterio de corrección tant
 
 > **El utilitarismo multinivel es la perspectiva según la cual las personas deberían seguir reglas generales avaladas por la experiencia, o _heurísticas_, en lugar de intentar calcular qué acción producirá el máximo bienestar.**
 
-Según el utilitarismo multinivel, en la mayoría de las circunstancias deberíamos seguir una serie de heurísticas morales sencillas: no mentir, no robar, no matar, etc., con la expectativa de que ello conduzca a los mejores resultados generales. A menudo, deberíamos utilizar las normas de la moral de sentido común y las leyes de nuestra sociedad como reglas empíricas para guiar nuestras acciones. Seguir estas normas y leyes suele conducir a buenos resultados, porque se basan en la experiencia de la sociedad sobre lo que promueve el bienestar general. El hecho de que la honradez, la integridad, el cumplimiento de las promesas y el apego a la ley tengan generalmente buenas consecuencias explica por qué en la práctica [los utilitaristas valoran mucho esas cosas](./utilitarismo-y-etica-practica.md#respetar-las-normas-morales-de-sentido-comun), y las utilizan para guiar sus acciones cotidianas.[^22]
+Según el utilitarismo multinivel, en la mayoría de las circunstancias deberíamos seguir una serie de heurísticas morales sencillas: no mentir, no robar, no matar, etc., con la expectativa de que ello conduzca a los mejores resultados generales. A menudo, deberíamos utilizar las normas de la moral de sentido común y las leyes de nuestra sociedad como reglas empíricas para guiar nuestras acciones. Seguir estas normas y leyes suele conducir a buenos resultados, porque se basan en la experiencia de la sociedad sobre lo que promueve el bienestar general. El hecho de que la honradez, la integridad, el cumplimiento de las promesas y el apego a la ley tengan generalmente buenas consecuencias explica por qué en la práctica [los utilitaristas valoran mucho esas cosas](./utilitarismo-y-etica-practica.md#respetar-las-normas-morales-de-sentido-comun), y las utilizan para guiar sus acciones cotidianas.[^23]
 
-En cambio, que sepamos, nadie ha defendido nunca el utilitarismo de un solo nivel, ni siquiera los utilitaristas clásicos.[^23] Calcular deliberadamente las consecuencias esperadas de nuestras acciones es propenso a errores y se corre el riesgo de caer en la parálisis de la decisión.
+En cambio, que sepamos, nadie ha defendido nunca el utilitarismo de un solo nivel, ni siquiera los utilitaristas clásicos.[^24] Calcular deliberadamente las consecuencias esperadas de nuestras acciones es propenso a errores y se corre el riesgo de caer en la parálisis de la decisión.
 
-A veces, los filósofos sostienen que el utilitarismo multinivel es incoherente. Pero esto no es cierto. Consideremos la siguiente metáfora de Walter Sinnott-Armstrong: las leyes de la física rigen el vuelo de una pelota de golf, pero un golfista no necesita calcular las fuerzas físicas al planificar los golpes.[^24] De forma similar, los utilitaristas multinivel consideran que el utilitarismo rige la corrección de las acciones, pero no necesitan calcular las consecuencias esperadas para tomar decisiones. En la medida en que seguir la heurística recomendada por el utilitarismo multinivel produce mejores resultados, la teoría tiene éxito.
+A veces, los filósofos sostienen que el utilitarismo multinivel es incoherente. Pero esto no es cierto. Consideremos la siguiente metáfora de Walter Sinnott-Armstrong: las leyes de la física rigen el vuelo de una pelota de golf, pero un golfista no necesita calcular las fuerzas físicas al planificar los golpes.[^25] De forma similar, los utilitaristas multinivel consideran que el utilitarismo rige la corrección de las acciones, pero no necesitan calcular las consecuencias esperadas para tomar decisiones. En la medida en que seguir la heurística recomendada por el utilitarismo multinivel produce mejores resultados, la teoría tiene éxito.
 
 Una objeción común al utilitarismo multinivel es que _[recomienda su propia desaparición](./objeciones-al-utilitarismo/abusabilidad.md#recomienda-el-utilitarismo-su-propia-desaparicion)_. Se dice que una teoría recomienda (parcialmente) su propia desaparición si (a veces) exige a sus seguidores que sigan una teoría diferente. El utilitarismo multinivel a menudo prohíbe utilizar el criterio utilitarista cuando tomamos decisiones, y en su lugar recomienda actuar de acuerdo con heurísticas no utilitaristas. Sin embargo, no hay nada incoherente en decir que su criterio de corrección moral se separa del procedimiento de decisión que recomienda, y no significa que la teoría fracase.
 
@@ -199,23 +199,23 @@ En la medida en que compartamos la preocupación utilitarista fundamental por pr
 
 La mayoría de las discusiones sobre el utilitarismo giran en torno al utilitarismo de los actos y su criterio de la acción correcta. Pero es importante tener en cuenta que los utilitaristas también pueden considerar la tendencia de otras cosas —como los motivos, las reglas, los rasgos de carácter, las políticas y las instituciones sociales— a promover el bienestar. Puesto que el utilitarismo se ocupa fundamentalmente de promover el bienestar, no sólo deberíamos querer realizar aquellas _acciones_ que promueven el bienestar. También deberíamos querer los motivos, normas, rasgos, políticas, instituciones, etc., que promueven el bienestar.
 
-Este aspecto del utilitarismo a veces se ha pasado por alto, por lo que los que tratan de poner de relieve su aplicabilidad a otras cosas además de las acciones a veces adoptan la etiqueta "utilitarismo global" para hacer hincapié en este punto:[^25]
+Este aspecto del utilitarismo a veces se ha pasado por alto, por lo que los que tratan de poner de relieve su aplicabilidad a otras cosas además de las acciones a veces adoptan la etiqueta "utilitarismo global" para hacer hincapié en este punto:[^26]
 
 > **El utilitarismo global es la perspectiva según la cual las normas utilitaristas de evaluación moral se aplican a cualquier objeto de interés.**
 
 El utilitarismo global evalúa la naturaleza moral de, por ejemplo, un rasgo de carácter concreto, como la bondad o la lealtad, basándose en las consecuencias que el rasgo tiene para el bienestar de los demás, al igual que el utilitarismo de los actos evalúa moralmente las acciones. Este amplio enfoque puede ayudar a explicar o dar cabida a ciertas intuiciones supuestamente "no consecuencialistas". Por ejemplo, recoge la idea de que la moral no consiste sólo en elegir los actos correctos, sino también en seguir ciertas reglas y desarrollar un carácter virtuoso.
 
-Todos los utilitaristas deberían estar de acuerdo con esto. Sin embargo, cabe preguntarse si esta evaluación utilitarista directa _agota_ la evaluación moral o si, además, existen otros tipos de evaluación moral (aunque menos importantes). Por ejemplo, ¿deben los utilitaristas entender la _virtud_ directamente como una cuestión de rasgos de carácter que tienden a promover el bienestar,[^26] o podrían apelar a una conexión más laxa pero más intuitiva (como representar una orientación positiva hacia el bien)?[^27]
+Todos los utilitaristas deberían estar de acuerdo con esto. Sin embargo, cabe preguntarse si esta evaluación utilitarista directa _agota_ la evaluación moral o si, además, existen otros tipos de evaluación moral (aunque menos importantes). Por ejemplo, ¿deben los utilitaristas entender la _virtud_ directamente como una cuestión de rasgos de carácter que tienden a promover el bienestar,[^27] o podrían apelar a una conexión más laxa pero más intuitiva (como representar una orientación positiva hacia el bien)?[^28]
 
 Un problema para el utilitarismo global _puro_ es que no consigue recoger todas las evaluaciones morales que intuitivamente queremos poder hacer. Por ejemplo, imaginemos un mundo en el que la desaprobación moral fuera contraproducente: si culpáramos a alguien por hacer X, eso sólo haría que se empecinara en hacer X aún más en el futuro. Dado que lo único que queremos es que la gente haga más cosas buenas, ¿sería lógico que sólo los actos buenos, y no los malos, fueran censurables?
 
-Aquí es importante distinguir dos afirmaciones. Una es la valoración utilitarista directa de que sería bueno censurar a la gente por realizar actos buenos y no por realizar actos malos, ya que así se obtendrían los mejores resultados (en el escenario imaginado). Pero una segunda afirmación distinta es que sólo los actos malos son realmente _censurables_ en el sentido de que _merecen_ intrínsecamente la desaprobación moral.[^28] Es importante destacar que estas dos afirmaciones son compatibles. Podemos sostener _tanto_ que la tortura gratuita (por ejemplo) justifica la desaprobación moral _como_ que sería una mala idea expresar tal desaprobación si hacerlo sólo empeorara las cosas.
+Aquí es importante distinguir dos afirmaciones. Una es la valoración utilitarista directa de que sería bueno censurar a la gente por realizar actos buenos y no por realizar actos malos, ya que así se obtendrían los mejores resultados (en el escenario imaginado). Pero una segunda afirmación distinta es que sólo los actos malos son realmente _censurables_ en el sentido de que _merecen_ intrínsecamente la desaprobación moral.[^29] Es importante destacar que estas dos afirmaciones son compatibles. Podemos sostener _tanto_ que la tortura gratuita (por ejemplo) justifica la desaprobación moral _como_ que sería una mala idea expresar tal desaprobación si hacerlo sólo empeorara las cosas.
 
 Este argumento puede llevar a apoyar una forma de _utilitarismo híbrido_, que definimos como sigue:
 
 > **El utilitarismo híbrido es la perspectiva según la cual, aunque uno siempre debe promover el bienestar general, la calidad moral de un objetivo o intención puede depender de otros factores no relacionados con el hecho de que promueva el bienestar general.**
 
-En particular, los utilitaristas híbridos pueden entender que la virtud y el mérito se refieren a los _intentos_ del agente de conseguir buenos resultados, en contraste con el utilitarista global, que evalúa si las intenciones del agente _producen_ buenos resultados. Cuando los dos entran en conflicto, deberíamos preferir conseguir buenos resultados a simplemente intentar conseguirlos. En este sentido, el utilitarista híbrido está de acuerdo con mucho de lo que quiere decir el utilitarista global. Los utilitaristas híbridos sólo sostienen que hay que decir algo más.[^29] Por ejemplo, si alguien es involuntariamente antisistemático en la consecución de sus objetivos (es decir, si consigue sistemáticamente lo _opuesto_ a lo que intenta, sin darse cuenta de ello), sería claramente _desafortunado_ que intentara sinceramente promover el bien general, y deberíamos impedirle tener este objetivo si podemos. Pero sus buenas intenciones podrían ser genuinamente _virtuosas_ y admirables a pesar de todo.
+En particular, los utilitaristas híbridos pueden entender que la virtud y el mérito se refieren a los _intentos_ del agente de conseguir buenos resultados, en contraste con el utilitarista global, que evalúa si las intenciones del agente _producen_ buenos resultados. Cuando los dos entran en conflicto, deberíamos preferir conseguir buenos resultados a simplemente intentar conseguirlos. En este sentido, el utilitarista híbrido está de acuerdo con mucho de lo que quiere decir el utilitarista global. Los utilitaristas híbridos sólo sostienen que hay que decir algo más.[^30] Por ejemplo, si alguien es involuntariamente antisistemático en la consecución de sus objetivos (es decir, si consigue sistemáticamente lo _opuesto_ a lo que intenta, sin darse cuenta de ello), sería claramente _desafortunado_ que intentara sinceramente promover el bien general, y deberíamos impedirle tener este objetivo si podemos. Pero sus buenas intenciones podrían ser genuinamente _virtuosas_ y admirables a pesar de todo.
 
 Los puristas pueden objetar que el utilitarismo híbrido no es "realmente" una forma de utilitarismo. Y, de hecho, es un punto de vista híbrido, que combina afirmaciones utilitaristas (sobre lo que importa y lo que debe hacerse) con afirmaciones sobre la virtud, el mérito y la culpabilidad que van más allá de la evaluación utilitarista directa. Pero mientras estas afirmaciones adicionales no entren en conflicto con ninguna de las afirmaciones utilitaristas centrales sobre lo que importa y lo que debe hacerse, no parece haber ningún obstáculo para combinar ambos tipos de afirmaciones en una visión unificada. Esto puede suponer un alivio para aquellos que se sienten atraídos por el utilitarismo, pero que consideran que las afirmaciones utilitaristas globales puras sobre la virtud y la culpabilidad son intuitivamente inverosímiles o incompletas.
 
@@ -322,54 +322,54 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 
     {{< cite Parfit2003JustifiabilityEachPerson "pp. 368–390" >}}.
 
-[^8a]:
+[^9]:
     Técnicamente, una tercera posibilidad sería reducir el número de vidas negativas. De hecho, muchos utilitaristas apoyan la eutanasia (voluntaria), basándose en el reconocimiento de que una vida de sufrimiento puede ser peor que ninguna vida.
 
     Véase, por ejemplo, {{< cite Singer1993PracticalEthics "chap. 7" >}}.
 
-[^9]:
+[^10]:
     La noción de vida positiva, crucial para la perspectiva total, solo tiene sentido en relación con un punto cero en la escala del bienestar. Este punto cero es el umbral a partir del cual la vida se vuelve "digna de ser vivida". Una "vida neutra", en el nivel 0 de bienestar, no es ni "digna de ser vivida" ni "no digna de ser vivida". Puede ser una vida sin valor ni disvalor, o una vida con exactamente tanto valor como disvalor.
 
     Para más información sobre las sutilezas del concepto de vida "digna de ser vivida", véase {{< cite Broome2004WeighingLives "pp. 66–68" >}}.
 
-[^10]:
+[^11]:
     Pero nótese que no coincide directamente con lo que Bentham y Mill entendían por utilitarismo. Por ejemplo, Bentham decía que las acciones deben evaluarse "según la tendencia" por la que aumentan o disminuyen el bienestar. Del mismo modo, Mill sostenía que "las acciones son correctas en la medida en que tienden a promover la felicidad, incorrectas en la medida en que tienden a producir lo contrario de la felicidad".
 
     {{< cite Bentham1789IntroductionPrinciplesMorals "chap. 1" >}}.
 
     {{< cite Mill2022Utilitarianism "chap. 1" >}}.
 
-[^11]: La censura puede concebirse como una actitud (de desaprobación moral) o como una acción (que expresa tal desaprobación). Para los utilitaristas, las acciones de censura son como cualquier otra acción, en el sentido de que sólo deben realizarse si sirven para promover el bienestar. Censurar en exceso tendría malas consecuencias, porque desanimaría a la gente a intentarlo siquiera. En lugar de eso, normalmente deberíamos elogiar a las personas que dan pasos en la dirección correcta. Sobre la evaluación moral de las actitudes, véase más adelante la discusión sobre el utilitarismo global frente al híbrido.
-[^12]:
+[^12]: La censura puede concebirse como una actitud (de desaprobación moral) o como una acción (que expresa tal desaprobación). Para los utilitaristas, las acciones de censura son como cualquier otra acción, en el sentido de que sólo deben realizarse si sirven para promover el bienestar. Censurar en exceso tendría malas consecuencias, porque desanimaría a la gente a intentarlo siquiera. En lugar de eso, normalmente deberíamos elogiar a las personas que dan pasos en la dirección correcta. Sobre la evaluación moral de las actitudes, véase más adelante la discusión sobre el utilitarismo global frente al híbrido.
+[^13]:
     {{< cite Railton1988HowThinkingAbout "p. 407" >}}.
 
     {{< cite Norcross2020MoralityByDegrees >}}.
 
-[^13]:
+[^14]:
     Para una discusión de este punto de vista, véase {{< cite Pettit1984SatisficingConsequentialism >}}.
 
-[^14]: En particular, los enfoques tradicionales del utilitarismo de suficiencia tienen dificultades para ofrecer una especificación no arbitraria del umbral que hay que cruzar para hacer el bien en cantidad "suficiente", y son vulnerables a la objeción de que permiten la obstaculización gratuita del bien por encima de este umbral. Ambas objeciones se abordan en {{< cite Chappell2019WillpowerSatisficing >}}.
-[^15]: Véase, por ejemplo, {{< cite Chappell2020DeonticPluralismAnd >}}.
-[^16]: {{< cite Norcross2020MoralityByDegrees >}}.
-[^17]:
+[^15]: En particular, los enfoques tradicionales del utilitarismo de suficiencia tienen dificultades para ofrecer una especificación no arbitraria del umbral que hay que cruzar para hacer el bien en cantidad "suficiente", y son vulnerables a la objeción de que permiten la obstaculización gratuita del bien por encima de este umbral. Ambas objeciones se abordan en {{< cite Chappell2019WillpowerSatisficing >}}.
+[^16]: Véase, por ejemplo, {{< cite Chappell2020DeonticPluralismAnd >}}.
+[^17]: {{< cite Norcross2020MoralityByDegrees >}}.
+[^18]:
     Neil Sinhababu propone una forma de consecuencialismo escalar que considera que lo correcto y lo incorrecto son en sí mismos cuestiones de grado, pero el punto límite entre ambos depende del contexto de la conversación y no de algo moralmente fundamental (o, de hecho, genuinamente significativo en modo alguno). En consecuencia, parece una variante meramente verbal de la definición que utilizamos aquí.
 
     {{< cite Sinhababu2018ScalarConsequentialismRight >}}.
 
-[^18]: {{< cite Chappell2020DeonticPluralismAnd >}}.
-[^19]: {{< cite Jackson1991DecisiontheoreticConsequentialismNearest >}}.
-[^20]: En línea con la explicación anterior del bienestarismo, los utilitaristas de cualquier tipo entienden el "valor" en términos de bienestar.
-[^21]:
+[^19]: {{< cite Chappell2020DeonticPluralismAnd >}}.
+[^20]: {{< cite Jackson1991DecisiontheoreticConsequentialismNearest >}}.
+[^21]: En línea con la explicación anterior del bienestarismo, los utilitaristas de cualquier tipo entienden el "valor" en términos de bienestar.
+[^22]:
     {{< cite Bales1971ActutilitarianismAccountRightmaking >}}.
 
     Para un análisis del punto de vista multinivel en el contexto del _utilitarismo_ de Mill, véase {{< cite Crisp1997RoutledgePhilosophyGuidebook "pp. 105–112" >}}.
 
-[^22]:
+[^23]:
     {{< cite Hare1981MoralThinkingIts >}}.
 
     {{< cite Railton1984AlienationConsequentialismDemands >}}.
 
-[^23]:
+[^24]:
     Jeremy Bentham rechazó el utilitarismo de un solo nivel, escribiendo que "no es de esperar que este proceso [el cálculo de las consecuencias esperadas] deba seguirse estrictamente antes de cada juicio moral."
 
     {{< cite Bentham1789IntroductionPrinciplesMorals "chap. 4" >}}.
@@ -378,8 +378,8 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 
     {{< cite Sidgwick1874MethodsEthics "bk. 4, ch. 1" >}}.
 
-[^24]: {{< cite Sinnott-Armstrong2003Consequentialism >}}.
-[^25]:
+[^25]: {{< cite Sinnott-Armstrong2003Consequentialism >}}.
+[^26]:
     Los defensores del consecuencialismo global lo han presentado como una desviación del consecuencialismo de los actos tradicional, pero esta afirmación ha sido objeto de controversia. Para la defensa del consecuencialismo global como un enfoque diferente, véase:
 
     {{< cite Pettit2000GlobalConsequentialism >}}.
@@ -394,7 +394,7 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 
     Este último artículo sostiene que el consecuencialismo global se entiende mejor como una variante meramente verbal del consecuencialismo de los actos.
 
-[^26]: {{< cite Driver2001ConsequentialistTheoryOf >}}.
-[^27]: {{< cite Hurka2001VirtueViceValue >}}.
-[^28]: Esto refleja la distinción de Parfit entre razones "derivadas del estado" y razones "derivadas del objeto". {{< cite Parfit2011WhatMattersVolume "p. 50" >}}.
-[^29]: Para una mayor defensa de este punto de vista, véase {{< cite Chappell2024ConsequentialismCoreAnd >}}.
+[^27]: {{< cite Driver2001ConsequentialistTheoryOf >}}.
+[^28]: {{< cite Hurka2001VirtueViceValue >}}.
+[^29]: Esto refleja la distinción de Parfit entre razones "derivadas del estado" y razones "derivadas del objeto". {{< cite Parfit2011WhatMattersVolume "p. 50" >}}.
+[^30]: Para una mayor defensa de este punto de vista, véase {{< cite Chappell2024ConsequentialismCoreAnd >}}.
