@@ -344,7 +344,7 @@ En el siguiente capítulo se analizan las implicaciones más importantes del uti
     {{< cite Ord2020PrecipiceExistentialRisk "chap. 2" >}}.
 
 [^9]:
-Aunque Parfit merece el reconocimiento por plantear el debate filosófico en torno a la conclusión repugnante, podría decirse que Henry Sidgwick se percató de ello mucho antes, al escribir que "el punto hasta el cual, según los principios utilitaristas, debe alentarse el aumento de la población, no es aquel en el que la felicidad media es la mayor posible... sino aquel en el que la felicidad alcanza su máximo".
+    Aunque Parfit merece el reconocimiento por plantear el debate filosófico en torno a la conclusión repugnante, podría decirse que Henry Sidgwick se percató de ello mucho antes, al escribir que "el punto hasta el cual, según los principios utilitaristas, debe alentarse el aumento de la población, no es aquel en el que la felicidad media es la mayor posible... sino aquel en el que la felicidad alcanza su máximo".
 
     {{< cite Sidgwick1907MethodsEthics "p. 418" >}}.
 
@@ -423,7 +423,7 @@ Aunque Parfit merece el reconocimiento por plantear el debate filosófico en tor
 
 [^29]: {{< cite Greaves2017PopulationAxiology >}}.
 [^30]:
-Pueden evitar la conclusión repugnante ya que el valor total de una población está sujeto a un límite superior si el valor de las vidas adicionales disminuye asintóticamente.
+    Pueden evitar la conclusión repugnante ya que el valor total de una población está sujeto a un límite superior si el valor de las vidas adicionales disminuye asintóticamente.
 
     Cf. {{< cite Greaves2017PopulationAxiology >}}.
 
@@ -442,7 +442,7 @@ Pueden evitar la conclusión repugnante ya que el valor total de una población 
 [^38]: Cf. {{< cite Chang2002PossibilityParity >}}.
 [^39]: Uno puede, por ejemplo, obtener este resultado pensando en el rango crítico como la representación de un rango dentro del cual es _indeterminado donde se encuentra el nivel crítico_. O se puede considerar un rango de _pluralismo razonable_, de modo que se pueda tratar cualquier punto de este rango como el nivel crítico a la hora de formar preferencias personales sobre qué vidas añadir (o no) al mundo. En cualquiera de los dos enfoques, podemos entonces _supervaluar_, y sostener que la población X es (verdadera, determinada u objetivamente) mejor que Y sólo si esta evaluación se siguiera de _todas_ las teorías de nivel crítico en las que el nivel crítico cae dentro del rango especificado.
 [^40]:
-Gustafsson desarrolla un punto de vista en esta línea, aunque con una terminología diferente a la que usamos aquí (por ejemplo, usando "indistinción" en lugar de " borrosidad del valor"). Véase: {{< cite Gustafsson2020PopulationAxiologyAnd >}}.
+    Gustafsson desarrolla un punto de vista en esta línea, aunque con una terminología diferente a la que usamos aquí (por ejemplo, usando "indistinción" en lugar de " borrosidad del valor"). Véase: {{< cite Gustafsson2020PopulationAxiologyAnd >}}.
 
 [^41]: La siguiente ilustración está adaptada de {{< cite Gustafsson2020PopulationAxiologyAnd "p. 92" >}}.
 [^42]:
@@ -451,7 +451,8 @@ Gustafsson desarrolla un punto de vista en esta línea, aunque con una terminolo
     {{< cite Gustafsson2020PopulationAxiologyAnd >}}.
 
 [^43]: Aquí usamos el término "impersonal" simplemente para contrastar con la perspectiva centrada en las personas estrecha. Por tanto, incluso una teoría impersonal (según nuestro uso) puede considerar que el valor de un estado de cosas se basa en hechos sobre lo que es bueno para determinadas personas, por ejemplo, si uno sostiene que una existencia feliz puede constituir un beneficio no comparativo, de forma paralela a cómo una existencia miserable constituye un daño no comparativo.
-[^44]: Las teorías del rango crítico que hemos discutido son más difíciles de recoger en una fórmula numérica. Pero si dejamos de lado las vidas que caen dentro del intervalo crítico, podríamos aproximarnos al valor global restante sumando por separado los niveles de bienestar positivo y negativo, en la medida en que superen sus respectivos extremos del intervalo crítico. Así, utilizando subíndices positivos y negativos para denotar los respectivos números (N), promedios (Q) y puntos límite críticos (α) de estas dos subpoblaciones, podemos escribir la función de valor como **N~+~ \* (Q~+~ - α~+~) + N~-~ \* (Q~-~ - α~-~)**.
+[^44]:
+    Las teorías del rango crítico que hemos discutido son más difíciles de recoger en una fórmula numérica. Pero si dejamos de lado las vidas que caen dentro del intervalo crítico, podríamos aproximarnos al valor global restante sumando por separado los niveles de bienestar positivo y negativo, en la medida en que superen sus respectivos extremos del intervalo crítico. Así, utilizando subíndices positivos y negativos para denotar los respectivos números (N), promedios (Q) y puntos límite críticos (α) de estas dos subpoblaciones, podemos escribir la función de valor como **N~+~ \* (Q~+~ - α~+~) + N~-~ \* (Q~-~ - α~-~)**.
 
     Alternativamente, podríamos pensar en el valor del mundo como en sí mismo indeterminado o correspondiente a un rango numérico, tal como viene dado por todas las posibles teorías de nivel crítico correspondientes al rango crítico, es decir: todo lo que va desde **N \* (Q - α~-~)** hasta **N \* (Q - α~+~)**. Según este enfoque, el valor del mundo repugnante Z, por ejemplo, sería indeterminado a lo largo de una inmensa gama de valores que van de _extremadamente negativo_ a _extremadamente positivo_, porque **N** es inimaginablemente enorme mientras que el signo de **(Q - α)** es indeterminado, dada la gama de niveles críticos candidatos **α**.
 
