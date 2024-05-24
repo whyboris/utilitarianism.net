@@ -67,7 +67,12 @@
 {{- end }}
 
 {{- if gt (len $bibliographyPath) 0 -}}{{/* Begin Bibliography Loop */}}
-{{- $bibliography := getJSON $bibliographyPath -}}
+
+{{ $bibliography := dict }}
+{{ with resources.Get $bibliographyPath }}
+  {{ $bibliography = . | transform.Unmarshal }}
+{{ end }}
+{{/*  {{- $bibliography := getJSON $bibliographyPath -}}  */}}
 {{- /* -------------------- END Bibliography path -------------------- */ -}}
 
 {{- range $keyIndex, $key := $keys -}}   {{- /* Range over citation keys */ -}}
