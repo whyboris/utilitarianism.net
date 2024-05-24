@@ -10,6 +10,7 @@ description: "Este capítulo explica el equilibrio reflexivo como metodología m
 gradientTop: "#012147"
 gradientBottom: "#084BC7"
 ---
+
 {{< TOC >}}
 
 ## Introducción: metodología moral y equilibrio reflexivo
@@ -137,88 +138,87 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
 
 {{< button >}}
 
-
 ## Recursos y Más información
 
-- [@Broome1987UtilitarianismExpectedUtility].
-- [@Broome1991WeighingGoodsEquality].
-- [@Bykvist2010UtilitarianismGuidePerplexed].
-- [@Goodin1995UtilitarianismPublicPhilosophy].
-- [@Hare2016ShouldWeWish].
-- [@Harsanyi1955CardinalWelfareIndividualistic].
-- [@Harsanyi1977RationalBehaviorBargaining].
-- [@Lazari-Radek2017Justification].
-- [@Smart1961OutlineSystemUtilitarian].
+- {{< cite Broome1987UtilitarianismExpectedUtility >}}.
+- {{< cite Broome1991WeighingGoodsEquality >}}.
+- {{< cite Bykvist2010UtilitarianismGuidePerplexed >}}.
+- {{< cite Goodin1995UtilitarianismPublicPhilosophy >}}.
+- {{< cite Hare2016ShouldWeWish >}}.
+- {{< cite Harsanyi1955CardinalWelfareIndividualistic >}}.
+- {{< cite Harsanyi1977RationalBehaviorBargaining >}}.
+- {{< cite "Lazari-Radek2017Justification" >}}.
+- {{< cite Smart1961OutlineSystemUtilitarian >}}.
 
-[^1]: [@Daniels2003ReflectiveEquilibrium].
+[^1]: {{< cite Daniels2003ReflectiveEquilibrium >}}.
 [^2]: Esto no quiere decir que cualquier respuesta sea de hecho igualmente buena o correcta, sino que sólo deberíamos esperar que sea difícil _persuadir_ a quienes responden a los conflictos de un modo diferente al nuestro.
 [^3]: Por supuesto, puede haber circunstancias excepcionales en las que robar sea beneficioso en general y, por tanto, esté justificado, por ejemplo, cuando sea necesario robar una barra de pan para salvar la vida de una persona hambrienta.
 [^4]: Aquí es importante considerar los costos indirectos de reducir la confianza social, además de los evidentes costos directos para la víctima.
 [^5]:
     Compárese nuestra defensa del agregacionismo en el [capítulo 2](./elementos-y-tipos-de-utilitarismo.md#agregacionismo), que muestra cómo, en la práctica, casi todo el mundo está a favor de permitir un número suficiente de pequeños beneficios para compensar los grandes costos de unos pocos: "Por ejemplo, permitir que los coches circulen rápido por las carreteras aumenta el número de personas que mueren en accidentes. Establecer límites de velocidad excesivamente bajos salvaría vidas a costa de incomodar a muchos conductores. La mayoría de la gente demuestra un compromiso implícito con el agregacionismo cuando juzga que es peor imponer muchas molestias de este tipo en aras de salvar unas pocas vidas."
 
-    Véase también [@Goodin1995UtilitarianismPublicPhilosophy].
+    Véase también {{< cite Goodin1995UtilitarianismPublicPhilosophy >}}.
 
 [^5a]:
-    Peter Singer sostiene, en relación con lo anterior, que "llegamos rápidamente al utilitarismo de las preferencias como posición inicial una vez que el aspecto universal de la ética es aplicado a decisiones pre-éticas simples." ([@Singer1993PracticalEthics, ch. 1].)
-[^6]: [@Smart1956ExtremeRestrictedUtilitarianism].
+    Peter Singer sostiene, en relación con lo anterior, que "llegamos rápidamente al utilitarismo de las preferencias como posición inicial una vez que el aspecto universal de la ética es aplicado a decisiones pre-éticas simples." ({{< cite Singer1993PracticalEthics "chap. 1" >}}.)
+[^6]: {{< cite Smart1956ExtremeRestrictedUtilitarianism >}}.
 [^7]:
     El experimento mental del "velo de la ignorancia" fue desarrollado originalmente por Vickrey y Harsanyi, aunque hoy en día se asocia más a menudo con John Rawls, que acuñó el término y modificó el experimento para llegar a conclusiones diferentes. En concreto, Rawls apeló a una versión en la que además se ignoran las probabilidades relativas de acabar en varias posiciones, para bloquear las implicaciones utilitaristas y argumentar en su lugar a favor de una posición "maximin" que da prioridad léxica al aumento del bienestar de los más desfavorecidos.
 
-    [@Vickrey1945MeasuringMarginalUtility, p. 329].
+    {{< cite Vickrey1945MeasuringMarginalUtility "p. 329" >}}.
 
-    [@Harsanyi1953CardinalUtilityWelfare, pp. 434–435].
+    {{< cite Harsanyi1953CardinalUtilityWelfare "pp. 434–435" >}}.
 
-    [@Rawls1971TheoryJustice].
+    {{< cite Rawls1971TheoryJustice >}}.
 
 [^8]:
-    Harsanyi formalizó sus argumentos a favor del utilitarismo en [@Harsanyi1978BayesianDecisionTheory].
+    Harsanyi formalizó sus argumentos a favor del utilitarismo en {{< cite Harsanyi1978BayesianDecisionTheory >}}.
 
-    Para una discusión sobre su prueba, véase [@Greaves2017ReconsiderationHarsanyiSenWeymarkDebate].
+    Para una discusión sobre su prueba, véase {{< cite Greaves2017ReconsiderationHarsanyiSenWeymarkDebate >}}.
 
-[^9]: [@Hare2016ShouldWeWish].
+[^9]: {{< cite Hare2016ShouldWeWish >}}.
 
 [^10]: Es notoriamente confuso cómo aplicar el velo de la ignorancia a casos de "números diferentes" en [ética de la población](./etica-de-la-poblacion.md), por ejemplo. Si el agente detrás del velo va a existir indefectiblemente, esto sugeriría naturalmente [la perspectiva promedio](./etica-de-la-poblacion.md#la-perspectiva-promedio). Si fuera una persona meramente posible y, por tanto, tuviera algún incentivo para desear que existieran más vidas (felices), sugeriría [la perspectiva total](./etica-de-la-poblacion.md#la-perspectiva-total).
 
 [^H0]: Los intereses _ex post_, por el contrario, se refieren a los resultados reales que se obtienen. Curiosamente, las teorías pueden combinar las evaluaciones _ex post_ del bienestar con un elemento de "expectativa" más amplio. Por ejemplo, el [prioritarismo](./alternativas-cercanas-al-utilitarismo.md#prioritarismo) _ex post_ asigna un valor social adicional a evitar malos _resultados_ (en lugar de malas _perspectivas_) para los individuos en peor situación, pero puede seguir evaluando las perspectivas por su _valor social esperado_.
 
-[^H1]: [@Harsanyi1955CardinalWelfareIndividualistic, pp. 312–314]; [@Harsanyi1977RationalBehaviorBargaining, pp. 64–68]), reinterpretado por [@Broome1987UtilitarianismExpectedUtility, pp. 410–411]; [@Broome1991WeighingGoodsEquality, pp. 165, 202–209]. Para más información, véase nuestro próximo ensayo invitado sobre los argumentos a favor del utilitarismo, de Johan E. Gustafsson y Kacper Kowalczyk, que aparecerá en <www.utilitarianism.net/guest-essays/>.
+[^H1]: {{< cite Harsanyi1955CardinalWelfareIndividualistic "pp. 312–314" >}}; {{< cite Harsanyi1977RationalBehaviorBargaining "pp. 64–68" >}}, reinterpretado por {{< cite Broome1987UtilitarianismExpectedUtility "pp. 410–411" >}}; {{< cite Broome1991WeighingGoodsEquality "pp. 165, 202–209" >}}. Para más información, véase nuestro próximo ensayo invitado sobre los argumentos a favor del utilitarismo, de Johan E. Gustafsson y Kacper Kowalczyk, que aparecerá en <www.utilitarianism.net/guest-essays/>.
 
-[^H2]: Por ejemplo, [@Hare2016ShouldWeWish].
+[^H2]: Por ejemplo, {{< cite Hare2016ShouldWeWish >}}.
 
-[^H3]: [@Hare2016ShouldWeWish, pp. 454–455].
+[^H3]: {{< cite Hare2016ShouldWeWish "pp. 454–455" >}}.
 
-[^H4]: <cite>[@Hare2016ShouldWeWish]</cite> discute los motivos de escepticismo de algunos filósofos sobre el significado moral de la _justificabilidad ex ante para todos_, y apoya el principio con argumentos adicionales de _consentimiento presunto_, _manos sucias_ y _composición_.
+[^H4]: El artículo {{< cite -Hare2016ShouldWeWish >}} discute los motivos de escepticismo de algunos filósofos sobre el significado moral de la _justificabilidad ex ante para todos_, y apoya el principio con argumentos adicionales de _consentimiento presunto_, _manos sucias_ y _composición_.
 
-[^11]: [@Singer2011ExpandingCircleEthics].
-[^12]: [@Williams2015PossibilityOngoingMoral].
+[^11]: {{< cite Singer2011ExpandingCircleEthics >}}.
+[^12]: {{< cite Williams2015PossibilityOngoingMoral >}}.
 
 [^15]: Los siguientes argumentos también deberían aplicarse contra los enfoques de la ética de la virtud, si producen veredictos no consecuencialistas sobre qué _actos_ deben realizarse.
 [^16]: Los deontólogos absolutistas sostienen que tales juicios se aplican _sin importar las consecuencias_. Los deontólogos moderados, en cambio, consideran que las acciones identificadas son _presuntamente_ incorrectas y no se compensan _fácilmente_, pero permiten que esto se compense si está en juego una cantidad _suficiente_ de valor. Así, por ejemplo, un deontólogo moderado podría permitir que se mintiera para salvar la vida de alguien, o que se matara a un inocente para salvar a un millón.
 [^17]:
-    Samuel Scheffler señaló que "de cualquier manera, alguien pierde: se vulnera a alguna persona que no debe ser vulnerada. ¿Por qué no es al menos permisible evitar que se vulnere a cinco personas vulnerando a una?" ([@Scheffler1994RejectionConsequentialismPhilosophical, p. 88].)
+    Samuel Scheffler señaló que "de cualquier manera, alguien pierde: se vulnera a alguna persona que no debe ser vulnerada. ¿Por qué no es al menos permisible evitar que se vulnere a cinco personas vulnerando a una?" ({{< cite Scheffler1994RejectionConsequentialismPhilosophical "p. 88" >}}.)
 
-[^18]: [@Scheffler1985AgentcentredRestrictionsRationality].
-[^19]: [@Chappell2011IntuitionSystemAnd].
+[^18]: {{< cite Scheffler1985AgentcentredRestrictionsRationality >}}.
+[^19]: {{< cite Chappell2011IntuitionSystemAnd >}}.
 [^20]: El deontólogo puede insistir en que debería ser más importante _para Jack_, aunque no lo sea para nadie más. Pero esto se opone a la idea atractiva de que el punto de vista moral es imparcial y capaz de producir veredictos sobre los que observadores razonables (y no sólo el propio agente) podrían estar de acuerdo.
 [^21]:
-    Por ejemplo, podrías inquietar a tu cónyuge permaneciendo oculto en un camuflaje, cuando hubiera jurado que estabas en la habitación haciéndole compañía. O, como sugiere Foot ([@Foot1967ProblemAbortionDoctrine, p. 26]): "Un actor que no se presenta a una representación normalmente la arruinará, en lugar de permitir que se arruine."
+    Por ejemplo, podrías inquietar a tu cónyuge permaneciendo oculto en un camuflaje, cuando hubiera jurado que estabas en la habitación haciéndole compañía. O, como sugiere Foot ({{< cite Foot1967ProblemAbortionDoctrine "p. 26" >}}): "Un actor que no se presenta a una representación normalmente la arruinará, en lugar de permitir que se arruine."
 
-[^22]: [@Beauchamp2020JustifyingPhysicianAssisted].
-[^23]: [@Bennett1995ActItself].
+[^22]: {{< cite Beauchamp2020JustifyingPhysicianAssisted >}}.
+[^23]: {{< cite Bennett1995ActItself >}}.
 [^24]:
-    En una línea similar, Derek Parfit escribió que "Algunos nos preguntamos qué parte de nuestra riqueza debemos dar los ricos a los más pobres. Pero esa pregunta supone erróneamente que nuestra riqueza es nuestra. Esta riqueza es legalmente nuestra. Pero los más pobres tienen derechos morales mucho más fuertes sobre parte de esa riqueza. Deberíamos transferir a estas personas... al menos el diez por ciento de lo que ganamos." ([@Parfit2011WhatMattersVolumec, pp. 436–437].)
+    En una línea similar, Derek Parfit escribió que "Algunos nos preguntamos qué parte de nuestra riqueza debemos dar los ricos a los más pobres. Pero esa pregunta supone erróneamente que nuestra riqueza es nuestra. Esta riqueza es legalmente nuestra. Pero los más pobres tienen derechos morales mucho más fuertes sobre parte de esa riqueza. Deberíamos transferir a estas personas... al menos el diez por ciento de lo que ganamos." ({{< cite Parfit2011WhatMattersVolumec "pp. 436–437" >}}.)
 
 [^25]:
-    Sobre el tema del sacrificio, John Stuart Mill escribió que "La moral utilitarista sí reconoce en el ser humano el poder de sacrificar su mayor bien por el bien de los demás. Sólo se niega a admitir que el sacrificio sea en sí mismo un bien. Un sacrificio que no aumenta, o tiende a aumentar, la suma total de la felicidad, lo considera un desperdicio". ([@Mill2014Utilitarismo, ch. 2].)
+    Sobre el tema del sacrificio, John Stuart Mill escribió que "La moral utilitarista sí reconoce en el ser humano el poder de sacrificar su mayor bien por el bien de los demás. Sólo se niega a admitir que el sacrificio sea en sí mismo un bien. Un sacrificio que no aumenta, o tiende a aumentar, la suma total de la felicidad, lo considera un desperdicio". ({{< cite Mill2014Utilitarismo "chap. 2" >}}.)
 
 [^26]:
     Sin embargo, esto no significa que el utilitarismo aspire a la igualdad perfecta en los resultados materiales o incluso en el bienestar. Joshua Greene señala que "un mundo en el que todos obtienen el mismo resultado hagan lo que hagan es un mundo ocioso en el que la gente tiene pocos incentivos para hacer algo. Así pues, la forma de maximizar la felicidad no es decretar que todo el mundo sea igual de feliz, sino animar a la gente a comportarse de forma que maximice la felicidad. Cuando medimos nuestro éxito moral, contamos la felicidad de todos por igual, pero tener éxito implica casi con toda seguridad la desigualdad tanto de la riqueza material como de la felicidad. Esa desigualdad no es ideal, pero se justifica porque, sin ella, las cosas serían peores en general.
 
-    [@Greene2013MoralTribes, p. 163]. Véase también [la objeción de igualdad al utilitarismo](./objeciones-al-utilitarismo/igualdad.md).
+    {{< cite Greene2013MoralTribes "p. 163" >}}. Véase también [la objeción de igualdad al utilitarismo](./objeciones-al-utilitarismo/igualdad.md).
 
 [^27]: En la práctica, el fenómeno psicológico de la _aversión a la pérdida_ significa que alguien puede sentirse _más molesto_ por lo que percibe como una "pérdida" que por lo que percibe como la mera "no obtención un beneficio". Estos sentimientos negativos pueden reducir aún más su bienestar, convirtiendo el juicio de que "la pérdida es peor" en una especie de profecía que acarrea su propio cumplimiento. Pero esto depende de fenómenos psicológicos contingentes que generan daños _adicionales_; no es que la pérdida sea _en sí misma_ peor.
-[^28]: [@Bostrom2006ReversalTestEliminating].
+[^28]: {{< cite Bostrom2006ReversalTestEliminating >}}.
 [^29]: Hay otros tipos de argumentos genealógicos que no se basan en la evolución. Consideremos que en la mayoría de las sociedades occidentales el cristianismo fue la religión dominante durante más de mil años, lo que explica por qué las intuiciones morales basadas en la moral cristiana siguen estando muy extendidas. Por ejemplo, muchos cristianos devotos tienen fuertes intuiciones morales sobre las relaciones sexuales, que los no cristianos no suelen compartir, como la intuición de que está mal mantener relaciones sexuales antes del matrimonio o que está mal que dos hombres mantengan relaciones sexuales. El discurso entre los académicos de la filosofía moral suele desestimar estas intuiciones morales condicionadas por la religión. Por tanto, muchos filósofos, incluidos la mayoría de los utilitaristas, no darían mucha importancia a las intuiciones de los cristianos sobre las relaciones sexuales.
-[^30]: [@Lazari-Radek2012ObjectivityEthicsUnity].
-[^31]: [@Greene2008SecretJokeKant].
+[^30]: {{< cite "Lazari-Radek2012ObjectivityEthicsUnity" >}}.
+[^31]: {{< cite Greene2008SecretJokeKant >}}.

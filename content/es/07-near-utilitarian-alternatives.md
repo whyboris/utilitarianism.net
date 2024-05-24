@@ -55,7 +55,7 @@ El igualitarismo es la perspectiva de que la desigualdad es mala _en sí misma_,
 
 Los utilitaristas tienden a favorecer la igualdad exclusivamente por razones instrumentales, es decir, porque unos resultados más igualitarios tienden a promover mejor el bienestar general. Debido al valor marginal decreciente del dinero, por ejemplo, un dólar extra supone una diferencia mucho mayor para un indigente que para un multimillonario.
 
-Los igualitaristas consideran que esta valoración meramente instrumental de la igualdad no va lo suficientemente lejos. Por ejemplo, pueden preferir un mundo en el que todos reciben cincuenta años de vida feliz a una alternativa en la que en promedio reciben sesenta años de vida feliz gracias a que el 75% de la población vive feliz hasta los 70 años mientras que el 25% muere prematuramente a los 30 años. Aunque este resultado desigual contiene (podemos suponer) más bienestar general, los igualitaristas pueden, no obstante, considerarlo peor debido al disvalor de la desigualdad.
+Los igualitaristas consideran que esta valoración meramente instrumental de la igualdad no va lo suficientemente lejos. Por ejemplo, pueden preferir un mundo en el que todos reciben cincuenta años de vida feliz a una alternativa en la que en promedio reciben sesenta años de vida feliz gracias a que el 75 % de la población vive feliz hasta los 70 años mientras que el 25 % muere prematuramente a los 30 años. Aunque este resultado desigual contiene (podemos suponer) más bienestar general, los igualitaristas pueden, no obstante, considerarlo peor debido al disvalor de la desigualdad.
 
 Observemos que hay dos maneras de remediar la desigualdad: se puede mejorar la situación de los más desfavorecidos o se puede _empeorar_ la situación de los más acomodados, para que todos estén al mismo nivel. Es evidente que la primera opción es mejor desde el punto de vista del bienestar. Pero cualquiera de las dos vías puede reducir la desigualdad y, por tanto, considerarse una "mejora" desde el punto de vista igualitario. Según la _objeción de igualar hacia abajo_, el igualitarismo tiene la desventaja de que implica que hay _algo_ bueno en perjudicar a los que están mejor aunque no se ayude a nadie.[^5] Los bienestaristas creen, por el contrario, que estos perjuicios son _completamente_ malos.[^6]
 
@@ -131,75 +131,74 @@ El siguiente capítulo analiza varias de las objeciones más importantes al util
 
 ### Más allá del bienestarismo
 
-- [@Routley1973IsThereNeed].
-- [@Anderson1999WhatPointEquality].
-- [@Parfit1997EqualityPriority].
+- {{< cite Routley1973IsThereNeed >}}.
+- {{< cite Anderson1999WhatPointEquality >}}.
+- {{< cite Parfit1997EqualityPriority >}}.
 
 ### Prioritarismo
 
-- [@Parfit1997EqualityPriority].
-- [@Gustafsson2022ExAntePrioritarianism].
-- [@Greene2001IntuitionsDecliningMarginal].
+- {{< cite Parfit1997EqualityPriority >}}.
+- {{< cite Gustafsson2022ExAntePrioritarianism >}}.
+- {{< cite Greene2001IntuitionsDecliningMarginal >}}.
 
 ### Perspectivas ajustadas por merecimiento
 
-- [@Feldman1995AdjustingUtilityFor].
+- {{< cite Feldman1995AdjustingUtilityFor >}}.
 
 ### Egoísmo y parcialismo
 
-- [@Keller2013Partiality].
-- [@Parfit1984PartTwoRationality].
-- [@Mogensen2022OnlyEthicalArgument].
-- [@Jollimore2002Impartiality].
-- [@Goodin1988WhatSpecialOur].
+- {{< cite Keller2013Partiality >}}.
+- {{< cite Parfit1984PartTwoRationality >}}.
+- {{< cite Mogensen2022OnlyEthicalArgument >}}.
+- {{< cite Jollimore2002Impartiality >}}.
+- {{< cite Goodin1988WhatSpecialOur >}}.
 
 ### Más allá del consecuencialismo
 
-- [@Taurek1977ShouldNumbersCount].
-- [@Ross1930RightGood].
-- [@Ashford2003DemandingnessScanlonContractualism].
+- {{< cite Taurek1977ShouldNumbersCount >}}.
+- {{< cite Ross1930RightGood >}}.
+- {{< cite Ashford2003DemandingnessScanlonContractualism >}}.
 
-[^1]: Se trata de una variación de "El último hombre", el famoso experimento mental de Richard Routley. Véase [@Routley1973IsThereNeed].
+[^1]: Se trata de una variación de "El último hombre", el famoso experimento mental de Richard Routley. Véase {{< cite Routley1973IsThereNeed >}}.
 [^2]: Algunos afirman que la humanidad es perjudicial para el mundo en términos netos, de suerte que deberíamos desear la extinción humana. Pero es importante señalar que en realidad esto no es así: aunque la humanidad haya impuesto _hasta la fecha_ unos costos inmensos al entorno natural, es muy posible que las _futuras_ generaciones de la humanidad sean la mejor esperanza para deshacer ese daño. La extinción de la humanidad en el futuro cercano podría ser el peor resultado posible: todo el daño que ocasionamos en el pasado ya está hecho, pero nada de nuestro potencial futuro para remediarlo podría entonces materializarse. Si eso es cierto, incluso los ecologistas radicales deberían preocuparse (al menos instrumentalmente) por evitar la extinción humana.
 [^3]: Los pluralistas se enfrentan a problemas interesantes sobre cómo hacer intercambios que impliquen cantidades _muchísimo mayores_ del valor típicamente menos importante. ¿Podría un millón de árboles pesar más que una vida humana? ¿O compensar un _riesgo_ de muerte suficientemente pequeño para una persona? No vamos a intentar resolver este problema aquí, pero lo consideramos un desafío importante para cualquier punto de vista pluralista.
 [^4]: Nótese que una experiencia alucinatoria indistinguible subjetivamente (quizás generada por [una máquina de experiencias](./teorias-del-bienestar.md#la-objecion-de-la-maquina-de-experiencias)) no parece tan impresionante. Por supuesto, si la persona no se da cuenta de que está alucinando, se sentirá igual de impresionada. Pero podemos juzgar que su actitud valorativa está objetivamente menos justificada aquí que en el caso no alucinatorio.
-[^5]: [@Parfit1997EqualityPriority]. Véase la sátira de Vonnegut, [Harrison Bergeron](https://es.wikipedia.org/wiki/Harrison_Bergeron).
+[^5]: {{< cite Parfit1997EqualityPriority >}}. Véase la sátira de Vonnegut, [Harrison Bergeron](https://es.wikipedia.org/wiki/Harrison_Bergeron).
 [^6]: Se trata de un desacuerdo sutil, con implicaciones prácticas limitadas, siempre y cuando el igualitarista acepte la tesis sensata de que las pérdidas de bienestar derivadas de igualar hacia abajo tienen un efecto negativo en términos netos.
-[^7]: [@Parfit1997EqualityPriority, p. 213].
-[^8]: Los párrafos siguientes están tomados directamente de [@Chappell2021ParfitEthics].
+[^7]: {{< cite Parfit1997EqualityPriority "p. 213" >}}.
+[^8]: Los párrafos siguientes están tomados directamente de {{< cite Chappell2021ParfitEthics >}}.
 [^9]:
-    Suponemos, para simplificar, que el prioritarismo se aplica al bienestar en cada momento y no a lo largo de toda la vida. Para esta última perspectiva, la objeción debe modificarse para incluir comparaciones contrafácticas en lugar de temporales. Supongamos que Shane será más feliz si una moneda sale cara, y además puede otorgarse a sí mismo uno de dos beneficios condicionales: un beneficio mayor si la moneda sale cara, o un beneficio menor si sale cruz. Si los beneficios a los más desfavorecidos importan más, y él se ve desfavorecido cuando sale cruz, entonces el prioritarismo puede recomendar el 50% de posibilidades de un beneficio menor (en caso de que salga cruz) como un opción superior al 50% de posibilidades de un beneficio mayor. Pero esta no sería la elección prudente.
+    Suponemos, para simplificar, que el prioritarismo se aplica al bienestar en cada momento y no a lo largo de toda la vida. Para esta última perspectiva, la objeción debe modificarse para incluir comparaciones contrafácticas en lugar de temporales. Supongamos que Shane será más feliz si una moneda sale cara, y además puede otorgarse a sí mismo uno de dos beneficios condicionales: un beneficio mayor si la moneda sale cara, o un beneficio menor si sale cruz. Si los beneficios a los más desfavorecidos importan más, y él se ve desfavorecido cuando sale cruz, entonces el prioritarismo puede recomendar el 50 % de posibilidades de un beneficio menor (en caso de que salga cruz) como un opción superior al 50 % de posibilidades de un beneficio mayor. Pero esta no sería la elección prudente.
 
-    Esto supone que el prioritarismo adopta una forma _ex post_. Para objeciones al prioritarismo _ex ante_, véase [@Gustafsson2022ExAntePrioritarianism].
-[^10]: [@Greene2001IntuitionsDecliningMarginal].
-[^11]: Cf. [@Greene2013MoralTribes, chap. 10].
+    Esto supone que el prioritarismo adopta una forma _ex post_. Para objeciones al prioritarismo _ex ante_, véase {{< cite Gustafsson2022ExAntePrioritarianism >}}.
+[^10]: {{< cite Greene2001IntuitionsDecliningMarginal >}}.
+[^11]: Cf. {{< cite Greene2013MoralTribes "chap. 10" >}}.
 [^12]: Nótese que no se trata de la afirmación empírica de que la felicidad tendría mayores beneficios (instrumentales) para la persona más desfavorecida, por ejemplo, por inducirle un estado de ánimo más positivo. Eso puede ser cierto o no, pero si lo fuera, lo tendrían en cuenta incluso los utilitaristas tradicionales. No: los utilitaristas de bienes básicos decrecientes hacen la afirmación normativa más radical de que la misma cantidad de placer _constituye_ inherentemente un mayor beneficio _intrínseco_ para la persona más desfavorecida. El placer _en sí mismo_ supone una mayor diferencia para su bienestar, en el sentido de que tenemos razones prudenciales para preferir con más fuerza un aumento de tamaño fijo de nuestro placer o felicidad cuando estamos peor.
 [^13]: Una posible excepción podría ser que, si se diera una prioridad _extrema_ a los más desfavorecidos, esto podría llevar a destinar recursos de forma ineficiente a poblaciones de difícil acceso o difíciles de ayudar para obtener beneficios mínimos, cuando los utilitaristas recomendarían en cambio utilizar esos recursos para obtener mayores beneficios para un mayor número de personas (posiblemente en una situación ligeramente mejor).
 [^14]:
-    [@Feldman1995AdjustingUtilityFor].
+    {{< cite Feldman1995AdjustingUtilityFor >}}.
 
-    [@Graham2020AvoidableHarm].
+    {{< cite Graham2020AvoidableHarm >}}.
 
 [^15]:
     [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham), por el contrario, asignó el mismo valor _intrínseco_ incluso "al placer más abominable que el más vil de los malhechores haya cosechado de su crimen."
 
-    [@Bennett2017Chapter2Principles].
+    {{< cite Bennett2017Chapter2Principles >}}.
 [^16]: Un punto de vista alternativo que permitiría cierto descuento de los animales no humanos sería sopesar los intereses en proporción al estatus moral del individuo (y además sostener que los animales no humanos tienen un estatus moral inferior). Mientras que [los utilitaristas ya admiten](./utilitarismo-y-etica-practica.md#especismo) que algunos animales pueden tener una mayor capacidad para las experiencias conscientes que otros, este punto de vista alternativo afirmaría que incluso dolores iguales importan menos si los experimenta un animal "inferior". Pero incluso con un descuento moderado, es improbable que los graves daños causados por la cría intensiva de animales resulten justificables. Porque seguramente no deberíamos descontar tanto a los animales como para permitirnos torturarlos por diversión.
 [^17]: Los egoístas éticos afirman que _moralmente_ debes hacer lo que sea mejor para ti. Los egoístas racionales afirman que _racionalmente_ debes hacer lo que sea mejor para ti. Pero aquí consideramos que el egoísmo es la opinión de que _teniendo todo en cuenta_, lo que _realmente_ debes hacer es lo que sea mejor para ti. Es probable que esta afirmación sea respaldada tanto por los egoístas éticos como por los racionales.
-[^18]: Para una discusión clásica, véase [@Parfit1984PartTwoRationality].
-[^19]: Los filósofos llaman a esto una _opción_ o _prerrogativa centrada en el agente_. Véase [@Scheffler1994RejectionConsequentialismPhilosophical].
+[^18]: Para una discusión clásica, véase {{< cite Parfit1984PartTwoRationality >}}.
+[^19]: Los filósofos llaman a esto una _opción_ o _prerrogativa centrada en el agente_. Véase {{< cite Scheffler1994RejectionConsequentialismPhilosophical >}}.
 [^20]: Una opción sería aceptar un rango vago de ponderaciones permisibles, pero esto puede empezar a parecer misterioso.
 [^21]:
     Mogensen argumenta además que las consideraciones a largo plazo anegarán prácticamente _cualquier_ prerrogativa personal finitamente ponderada, incluso aquellas que inicialmente parezcan extremadamente inmoderadas (como dar un _millón_ de veces más peso a los intereses de aquellos por los que se es parcial).
 
-    [@Mogensen2021MoralDemandsFar].
+    {{< cite Mogensen2021MoralDemandsFar >}}.
 
-[^22]: Por ejemplo, [@Taurek1977ShouldNumbersCount].
+[^22]: Por ejemplo, {{< cite Taurek1977ShouldNumbersCount >}}.
 [^23]:
     Incluso John Rawls, el padre de la ética contractualista y un destacado crítico del utilitarismo, se mantuvo comprometido con el aspecto central del consecuencialismo, escribiendo que “[t]odas las doctrinas éticas que merecen nuestra atención tienen en cuenta las consecuencias a la hora de juzgar la correción. Una que no lo hiciera sería simplemente irracional y loca."
 
-    [@Rawls1971TheoryJustice, p. 26].
+    {{< cite Rawls1971TheoryJustice "p. 26" >}}.
 
 [^24]: Una salvedad importante: los no consecuencialistas pueden sentirse más atraídos por [las perspectivas centradas en las personas afectadas de la ética de la población](./etica-de-la-poblacion.md#las-perspectivas-centradas-en-las-personas-afectadas-y-la-asimetria-procreativa), lo que podría hacer que dieran mucha menos importancia a los intereses de las generaciones futuras.
-[^25]: Tomamos prestada esta metáfora de [@Parfit2011WhatMatters]. Parfit utilizó la metáfora del alpinismo para apoyar la afirmación más ambiciosa de que las diferentes tradiciones morales (consecuencialista, kantiana y contractualista) pueden acabar convergiendo en la misma _teoría_ moral. Nosotros no hacemos tal afirmación.
-
+[^25]: Tomamos prestada esta metáfora de {{< cite Parfit2011WhatMatters >}}. Parfit utilizó la metáfora del alpinismo para apoyar la afirmación más ambiciosa de que las diferentes tradiciones morales (consecuencialista, kantiana y contractualista) pueden acabar convergiendo en la misma _teoría_ moral. Nosotros no hacemos tal afirmación.

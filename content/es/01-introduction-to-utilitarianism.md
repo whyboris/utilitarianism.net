@@ -22,7 +22,7 @@ gradientBottom: "#236d9f"
 
 Cuando realizamos juicios morales en la vida cotidiana, a menudo nos basamos en nuestra intuición. Si nos preguntamos si está mal o no comer carne, mentir a un amigo o comprar productos procedentes de fábricas donde se explota a los trabajadores, probablemente tengamos una fuerte intuición moral sobre el tema. Pero confiar únicamente en nuestra intuición moral tiene sus problemas.
 
-Históricamente, la gente tenía creencias que ahora consideramos moralmente horribles. En las sociedades occidentales, antes se creía firmemente que era intuitivamente obvio que las personas de color y las mujeres tenían menos derechos que los hombres blancos, que la homosexualidad era mala y que era permisible poseer esclavos. Ahora vemos que estas intuiciones morales estaban muy equivocadas. Esta trayectoria histórica nos da motivos para preocuparnos por la posibilidad de que nosotros, en la era moderna, también seamos responsables, sin saberlo, de graves errores a gran escala. Sería una coincidencia muy afortunada que la generación presente fuera la primera cuyas intuiciones fueran perfectamente correctas desde el punto de vista moral[^2].
+Históricamente, la gente tenía creencias que ahora consideramos moralmente horribles. En las sociedades occidentales, antes se creía firmemente que era intuitivamente obvio que las personas de color y las mujeres tenían menos derechos que los hombres blancos, que la homosexualidad era mala y que era permisible poseer esclavos. Ahora vemos que estas intuiciones morales estaban muy equivocadas. Esta trayectoria histórica nos da motivos para preocuparnos por la posibilidad de que nosotros, en la era moderna, también seamos responsables, sin saberlo, de graves errores a gran escala. Sería una coincidencia muy afortunada que la generación presente fuera la primera cuyas intuiciones fueran perfectamente correctas desde el punto de vista moral.[^2]
 
 Además, la gente tiene intuiciones morales contradictorias, y necesitamos una forma de resolver estos desacuerdos. Consideramos que el proyecto de la filosofía moral consiste en reflexionar sobre nuestras intuiciones morales contradictorias y desarrollar una teoría que nos diga qué debemos hacer y por qué. Esto nos permitirá identificar qué juicios morales actuales son erróneos, permitiéndonos progresar moralmente y actuar de forma más ética.
 
@@ -32,7 +32,7 @@ Uno de los intentos más destacados e influyentes de crear una teoría de este t
 
 Aunque la historia no puede decirnos directamente qué teoría moral es la correcta, el razonamiento moral utilitarista tiene un sólido historial de contribución al progreso moral colectivo de la humanidad, lo que sugiere que al menos puede haber algo moralmente saludable en estas ideas. Los utilitaristas clásicos de los siglos <abbr>XVIII</abbr> y <abbr>XIX</abbr> tenían actitudes sociales y políticas muy adelantadas a su tiempo: como reformador social progresista, [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham) defendió cuestiones como la separación de la Iglesia y el Estado; la abolición de la esclavitud y de la pena de muerte; regulaciones jurídicas para proteger a los criminales y a los animales no humanos del trato cruel;[^3] y la despenalización de la homosexualidad.[^4] De hecho, sus manuscritos sobre la homosexualidad eran tan liberales que su editor los ocultó al público tras la muerte de Bentham. Sólo se publicaron dos siglos más tarde.
 
-[John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) defendió la provisión de asistencia social a los pobres y la libertad de expresión. Fue el segundo diputado del Parlamento británico en reclamar el sufragio femenino[^5] y abogó por la igualdad de género en general. En su ensayo <cite>[@Mill1869SubjectionOfWomen]</cite>,[^6] Mill sostenía que
+[John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) defendió la provisión de asistencia social a los pobres y la libertad de expresión. Fue el segundo diputado del Parlamento británico en reclamar el sufragio femenino[^5] y abogó por la igualdad de género en general. En su ensayo {{< cite "-Mill1869SubjectionOfWomen" >}},[^6] Mill sostenía que
 
 > el principio que regula las relaciones sociales existentes entre los dos sexos —la subordinación jurídica de un sexo al otro— es moralmente incorrecto en sí mismo, y actualmente uno de los principales obstáculos para el mejoramiento humano; y que debería ser sustituido por un principio de perfecta igualdad, que no admita ningún poder o privilegio por una de las partes, ni incapacidad por la otra.[^7]
 
@@ -87,48 +87,50 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
 
 ### Introducción
 
-- [@Crashcourse2016UtilitarismoCrashCourse].
-- [@Lazari-Radek2017UtilitarianismVeryShort].
-- [@Bykvist2010UtilitarianismGuidePerplexed].
-- [@2023WhatIsUtilitarianism].
+- {{< cite Crashcourse2016UtilitarianismCrashCourse >}}
+- {{< cite "Lazari-Radek2017UtilitarianismVeryShort" >}}
+- {{< cite Bykvist2010UtilitarianismGuidePerplexed >}}
+- {{< cite Appiah2022WhatIsUtilitarianism >}}
 
 ### Los Clásicos
 
-- [@Bentham2017IntroductionToPrinciples].
-- [@Mill2005Utilitarianism].
-- [@Sidgwick2011MethodsOfEthics].
+- {{< cite Bentham2017IntroductionToPrinciples >}}
+- {{< cite Mill2005Utilitarianism >}}
+- {{< cite Sidgwick2011MethodsOfEthics >}}
 
 ### Más información
 
-- [@Driver2022HistoriaDelUtilitarismo].
-- [@Schultz2017FelicidadVidaDeLosFilósofos].
-- [@Crimmins2013BloomsburyEncyclopediaUtilitarianism].
-- [@Parfit2011WhatMatters].
-- [@Ng1990WelfarismUtilitarianismRehabilitation].
+- {{< cite Driver2022HistoryOfUtilitarianism >}}
+- {{< cite Schultz2017HappinessPhilosophersLives >}}
+- {{< cite Crimmins2013BloomsburyEncyclopediaUtilitarianism >}}
+- {{< cite Parfit2011WhatMatters >}}
+- {{< cite Ng1990WelfarismUtilitarianismRehabilitation >}}
 
 [^1]: *Mòzǐ* 32: 1, C. trad. Fraser.
 
-[^2]: Para más detalles, véase [@Williams2015PosibilidadOngoingMoral].
+[^2]: Para más detalles, véase {{< cite Williams2015PossibilityOngoingMoral >}}.
 
-[^3]: Por ejemplo, Bentham comentó sobre la cuestión de la protección de los animales: "La pregunta no es: ¿Pueden *razonar*? ni ¿Pueden *conversar*? Si no ¿Pueden *sufrir*?"
+[^3]:
 
-    [@Bentham2017IntroductionToPrinciples, pp. 143–4|291]
+    Por ejemplo, Bentham comentó sobre la cuestión de la protección de los animales: "La pregunta no es: ¿Pueden *razonar*? ni ¿Pueden *conversar*? Si no ¿Pueden *sufrir*?"
+
+    {{< cite Bentham2017IntroductionToPrinciples "pp. 143–4|291" >}}
 
     "¿Por qué la ley habría de negar su protección a un ser sensible? Ya llegará el momento en que la humanidad extenderá su manto sobre todo lo que respira. Hemos comenzado por atender a la condición de los esclavos; terminaremos por aliviar la de todos los animales que asisten nuestros trabajos o satisfacen nuestras necesidades."
 
-    [@Bentham1838PrinciplesOfPenal, p. 162]
+    {{< cite Bentham1838PrinciplesOfPenal "p. 162" >}}
 
-[^4]: Cfr. [@Bentham2017IntroductionToPrinciples]; y [@CamposBoralevi1984BenthamOppressed].
+[^4]: Cfr. {{< cite Bentham2017IntroductionToPrinciples >}}; y {{< cite CamposBoralevi1984BenthamOppressed >}}.
 
 [^5]: Parlamento del Reino Unido, [The 1866 Women's Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
 
-[^6]: Mill atribuye muchas de las ideas de *El sometimiento de la mujer* a su esposa, [Harriet Taylor Mill](https://altruismoeficaz.net/autores/harriet-taylor-mill). Véase [@Mill2016Autobiography, p. 166].
+[^6]: Mill atribuye muchas de las ideas de *El sometimiento de la mujer* a su esposa, [Harriet Taylor Mill](https://altruismoeficaz.net/autores/harriet-taylor-mill). Véase {{< cite Mill2016Autobiography "p. 166" >}}
 
-[^7]: [@Mill1869SubjectionOfWomen, p. 1].
+[^7]: {{< cite Mill1869SubjectionOfWomen "p. 1" >}}
 
-[^8]: Sobre la pobreza extrema véase [@Singer2009LifeYouCan].
+[^8]: Sobre la pobreza extrema véase {{< cite Singer2009LifeYouCan >}}
 
-    Sobre la cría intensiva de animales véase [@Singer2023AnimalLiberationNow].
+    Sobre la cría intensiva de animales véase {{< cite Singer2023AnimalLiberationNow >}}
 
 [^9]: Esto es más claro en un contexto de población fija, donde las acciones individuales no afectan el número o la identidad de las personas. Para casos más complejos, véase el debate sobre la [ética de la población](./etica-de-la-poblacion.md) en el capítulo 5.
 

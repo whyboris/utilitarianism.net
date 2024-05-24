@@ -24,7 +24,7 @@
         {{ end }}
       </ol>
 
-      {{ if not (eq .Site.Language.Lang "de") }}
+      {{ if eq .Site.Language.Lang "en" }}
 
       <span class="footer-heading large-gap">Study Guides</span>
 
@@ -45,7 +45,7 @@
 
       <a href="/{{ i18n "link.acting" }}">{{ i18n "menu.acting" }}</a>
 
-      {{ if not (eq .Site.Language.Lang "de") }}
+      {{ if eq .Site.Language.Lang "en" }}
 
       <a href="/utilitarian-quotes">Utilitarian Quotes</a>
       <a href="/utilitarian-thinkers">Utilitarian Thinkers</a>
@@ -53,7 +53,7 @@
       <a href="/books">Utilitarian Books</a>
       <a href="/about">About Us</a>
 
-      {{ else }}
+      {{ else if eq .Site.Language.Lang "de" }}
 
       <a href="/{{ i18n "link.famine-affluence-morality" }}">{{ i18n "menu.famine-affluence-morality-long" }}</a>
 

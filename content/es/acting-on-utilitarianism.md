@@ -7,7 +7,8 @@ draft: false
 menu: "acting"
 weight: 5
 ---
-> Crea toda la felicidad que seas capaz de crear; elimina toda la miseria que seas capaz de eliminar. Cada día te permitirá, te invitará a añadir algo al placer de los demás, o a disminuir algo de sus penas."_ \
+
+> _Crea toda la felicidad que seas capaz de crear; elimina toda la miseria que seas capaz de eliminar. Cada día te permitirá, te invitará a añadir algo al placer de los demás, o a disminuir algo de sus penas."_ \
 > \- [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham)[^1]
 
 {{< TOC >}}
@@ -24,11 +25,11 @@ A lo largo de este artículo, utilizamos expresiones como "hacer el bien" y "ten
 
 ## Oportunidades para ayudar a los demás
 
-La riqueza y la renta están distribuidas de forma muy desigual en todo el mundo. Los miembros de la clase media de países ricos como EE. UU. y el Reino Unido ganan 50 veces más que los 750 millones de personas más pobres del mundo, lo que los ubica en el 5 % más rico de la población mundial.[^2] Esta disparidad de la riqueza significa que los ciudadanos acomodados de las naciones prósperas tienen grandes oportunidades de beneficiar a los demás.
+La riqueza y la renta están distribuidas de forma muy desigual en todo el mundo. Los miembros de la clase media de países ricos como EE. UU. y el Reino Unido ganan 50 veces más que los 750 millones de personas más pobres del mundo, lo que los ubica en el 5 % más rico de la población mundial.[^2] Esta disparidad de la riqueza significa que los ciudadanos acomodados de las naciones prósperas tienen grandes oportunidades de beneficiar a los demás.
 
 ![Distribución mundial de la renta](./imagenes/actuar-conforme-al-utilitarismo/figura-1.png)
 
-> _Ganar más de $29.000 al año te sitúa en el 5 % más rico de la población mundial._ Cf. [@GivingWhatWeCan2019HowRichAm].
+> _Ganar más de $29.000 al año te sitúa en el 5 % más rico de la población mundial._ Cf. {{< cite GivingWhatWeCan2019HowRichAm >}}.
 
 La riqueza y la renta exhiben lo que los economistas llaman _utilidad marginal decreciente_.[^3] La idea es simple: el grado en que aumenta el bienestar de una persona que recibe mayores ingresos depende de sus ingresos actuales. Aunque las personas más ricas dicen estar más satisfechas con su vida en general, cuanto más rico se es, menos bienestar se obtiene con una misma cantidad adicional de dinero. Un agricultor pobre de Kenia se beneficiará mucho más de recibir un dólar extra que un miembro de la clase media de un país rico.
 
@@ -38,7 +39,7 @@ Dada la utilidad marginal decreciente del dinero, el flagelo de la desigualdad m
 
 El utilitarismo implica que ayudar a los demás debe ser una parte central de nuestras vidas. Además, el utilitarismo nos insta a utilizar nuestros recursos no sólo para hacer el bien, sino para hacer el mayor bien posible. Si no conseguimos producir el mejor resultado posible, morirá más gente de la que tenía que morir o sufrirá daños mayores de los que tenía que sufrir. Si pensamos que los graves daños que sufren otras personas en este mundo son lo suficientemente urgentes como para que tengamos el deber de utilizar parte de nuestros recursos para impedir que ocurran, ese mismo deber nos exige utilizar esos recursos de forma que ayuden lo máximo posible.
 
-¿Cuánto debemos sacrificar en beneficio de los demás? Tratándose de ciudadanos acomodados de los países ricos, el utilitarismo dirá que deben donar una parte sustancial de sus recursos para ayudar a los demás. Sin embargo, los utilitaristas reconocen que, a la hora de decidir cuánto hay que donar, es importante no consentir que lo mejor sea enemigo de lo bueno. Sería un error donar tanto a corto plazo que luego nos sintiéramos miserables y nos agotáramos. En la práctica, la mayoría de los utilitaristas intentan calcular un nivel de sacrificio que les resulte sostenible a largo plazo; para los [utilitaristas centrados en las donaciones](https://80000hours.org/articles/earning-to-give/), suele estar entre el 10 % y el 50 % de sus ingresos brutos.
+¿Cuánto debemos sacrificar en beneficio de los demás? Tratándose de ciudadanos acomodados de los países ricos, el utilitarismo dirá que deben donar una parte sustancial de sus recursos para ayudar a los demás. Sin embargo, los utilitaristas reconocen que, a la hora de decidir cuánto hay que donar, es importante no consentir que lo mejor sea enemigo de lo bueno. Sería un error donar tanto a corto plazo que luego nos sintiéramos miserables y nos agotáramos. En la práctica, la mayoría de los utilitaristas intentan calcular un nivel de sacrificio que les resulte sostenible a largo plazo; para los [utilitaristas centrados en las donaciones](https://80000hours.org/articles/earning-to-give/), suele estar entre el 10 % y el 50 % de sus ingresos brutos.
 
 ## El altruismo eficaz
 
@@ -69,11 +70,11 @@ Dado que algunos problemas morales pueden ser mucho más importantes que otros, 
 
 Como se explica en el capítulo [Utilitarismo y ética práctica](./utilitarismo-y-etica-practica.md#cosmopolitismo), los utilitaristas apoyan el cosmopolitismo, según el cual la distancia geográfica entre un actor y el beneficiario potencial de su ayuda no es moralmente relevante en sí misma. El cosmopolitismo implica que debemos buscar intervenciones eficaces para ayudar a los demás, con independencia de su nacionalidad, de su lugar de residencia o de su procedencia.
 
-Sobre esta base, se puede considerar la salud y el desarrollo globales como una causa especialmente prioritaria para los utilitaristas.[^12] Los esfuerzos en este ámbito tienen un gran historial de mejoras en la vida de la gente, lo que hace que esta causa parezca especialmente tratable. Durante la mayor parte de la historia de la humanidad, lo normal era que aproximadamente dos de cada cinco niños murieran antes de cumplir los cinco años, en gran parte por causas evitables. Gracias a la mejora de las condiciones de salubridad y al acceso a la atención médica, desde entonces hemos avanzado enormemente en la lucha contra la mortalidad infantil, y las tasas mundiales descendieron a solo el 4,5 % en 2015.[^13]
+Sobre esta base, se puede considerar la salud y el desarrollo globales como una causa especialmente prioritaria para los utilitaristas.[^12] Los esfuerzos en este ámbito tienen un gran historial de mejoras en la vida de la gente, lo que hace que esta causa parezca especialmente tratable. Durante la mayor parte de la historia de la humanidad, lo normal era que aproximadamente dos de cada cinco niños murieran antes de cumplir los cinco años, en gran parte por causas evitables. Gracias a la mejora de las condiciones de salubridad y al acceso a la atención médica, desde entonces hemos avanzado enormemente en la lucha contra la mortalidad infantil, y las tasas mundiales descendieron a solo el 4,5 % en 2015.[^13]
 
 <iframe src="https://ourworldindata.org/grapher/global-child-mortality-timeseries" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-Sin embargo, este progreso no es motivo para dormirnos en los laureles, ya que aún nos queda mucho camino por recorrer: una tasa de mortalidad infantil del 4,5 % sigue significando que alrededor de 15.000 niños mueren cada día en todo el mundo.[^14] Afortunadamente, podemos ayudar a disminuir esta cifra aún más. Las mejores intervenciones en salud y desarrollo globales son increíblemente costo-eficaces: [GiveWell](https://www.givewell.org/), una organización líder que realiza evaluaciones exhaustivas de organizaciones benéficas, calcula que las organizaciones benéficas que recomienda pueden evitar la muerte de un niño por malaria por menos de 5.000 dólares mediante el suministro de medicamentos preventivos.[^15]
+Sin embargo, este progreso no es motivo para dormirnos en los laureles, ya que aún nos queda mucho camino por recorrer: una tasa de mortalidad infantil del 4,5 % sigue significando que alrededor de 15.000 niños mueren cada día en todo el mundo.[^14] Afortunadamente, podemos ayudar a disminuir esta cifra aún más. Las mejores intervenciones en salud y desarrollo globales son increíblemente costo-eficaces: [GiveWell](https://www.givewell.org/), una organización líder que realiza evaluaciones exhaustivas de organizaciones benéficas, calcula que las organizaciones benéficas que recomienda pueden evitar la muerte de un niño por malaria por menos de 5.000 dólares mediante el suministro de medicamentos preventivos.[^15]
 
 Otras formas de ayudar a los más pobres, costo-eficaces y respaldadas por evidencia sólida, son la administración de tratamientos de desparasitación, la distribución de mosquiteras contra la malaria, la fortificación con vitamina A y las transferencias de dinero.[^16] Todas estas intervenciones ofrecen oportunidades increíbles de mejorar el bienestar de los demás a un costo muy bajo para nosotros.
 
@@ -96,7 +97,7 @@ Sin embargo, a pesar de la magnitud del problema, el bienestar animal en las gra
 
 ![Estadísticas sobre animales](./imagenes/actuar-conforme-al-utilitarismo/figura-2.png)
 
-En EE. UU., sólo se donan unas pocas decenas de millones de dólares filantrópicos al año a organizaciones que se centran en mejorar la vida de los animales de granja. La cantidad gastada es ínfima en comparación con otras causas relacionadas con los animales: hay 3.000 veces más animales en los criaderos intensivos que mascotas callejeras, pero los esfuerzos para combatir la cría intensiva de animales reciben una quincuagésima parte de los fondos destinados a ayudar a esos animales domésticos.[^22]
+En EE. UU., sólo se donan unas pocas decenas de millones de dólares filantrópicos al año a organizaciones que se centran en mejorar la vida de los animales de granja. La cantidad gastada es ínfima en comparación con otras causas relacionadas con los animales: hay 3.000 veces más animales en los criaderos intensivos que mascotas callejeras, pero los esfuerzos para combatir la cría intensiva de animales reciben una quincuagésima parte de los fondos destinados a ayudar a esos animales domésticos.[^22]
 
 ### Reducción del riesgo existencial
 
@@ -119,7 +120,7 @@ Por lo tanto, la extinción de la especie humana privaría irreversiblemente a l
 
 Trabajar para que el futuro a largo plazo de la humanidad sea bueno no sólo es muy importante, sino que también está muy desatendido. Las personas del futuro no pueden influir en las decisiones que tomamos hoy en nuestros sistemas económicos y políticos; no participan en los mercados ni tienen voto. En esencia, los individuos del futuro no tienen voz. En este contexto, no es de extrañar que nuestra generación desatienda sistemáticamente los intereses y el bienestar de los muchos individuos que existirán en el futuro.
 
-Para un análisis detallado de los riesgos existenciales y la importancia moral del futuro a largo plazo de la humanidad, recomendamos <cite>[@Ord2020PrecipiceExistentialRisk]</cite>.
+Para un análisis detallado de los riesgos existenciales y la importancia moral del futuro a largo plazo de la humanidad, recomendamos <cite>{{< cite -Ord2020PrecipiceExistentialRisk >}}</cite>.
 
 ## Caminos hacia el impacto
 
@@ -131,13 +132,13 @@ Como se señala en el capítulo [Utilitarismo y ética práctica](./utilitarismo
 
 En forma de eslogan, la recomendación utilitarista para ayudar a los demás con nuestro dinero es "donar más y mejor". Donar más se explica por sí mismo. Donar mejor significa encontrar las organizaciones que hacen el mejor uso de nuestras donaciones y donarles nuestro dinero.
 
-Ya hemos visto que los ciudadanos de los países prósperos forman parte del pequeño porcentaje más rico de la población del planeta. Haciendo pequeños sacrificios, los ricos tienen el poder de mejorar radicalmente la vida de los demás. Debido a las desigualdades extremas en riqueza e ingreso, podemos hacer mucho más bien donando dinero a los más necesitados que gastándolo en nosotros.[^30] Afortunadamente, cada vez más personas ricas reconocen la posición única en la que se encuentran y deciden donar una mayor parte de sus recursos en beneficio de los demás. Por ejemplo, [Giving What We Can](https://www.givingwhatwecan.org/) es una creciente comunidad de personas que se han [comprometido a donar al menos el 10 % de sus ingresos](https://www.givingwhatwecan.org/pledge/) durante el resto de sus vidas a donde consideren que el dinero tendrá el mayor impacto.[^31] Más de 9.000 personas han firmado el compromiso, lo que se traduce en donaciones colectivas de miles de millones de dólares a lo largo de sus vidas.
+Ya hemos visto que los ciudadanos de los países prósperos forman parte del pequeño porcentaje más rico de la población del planeta. Haciendo pequeños sacrificios, los ricos tienen el poder de mejorar radicalmente la vida de los demás. Debido a las desigualdades extremas en riqueza e ingreso, podemos hacer mucho más bien donando dinero a los más necesitados que gastándolo en nosotros.[^30] Afortunadamente, cada vez más personas ricas reconocen la posición única en la que se encuentran y deciden donar una mayor parte de sus recursos en beneficio de los demás. Por ejemplo, [Giving What We Can](https://www.givingwhatwecan.org/) es una creciente comunidad de personas que se han [comprometido a donar al menos el 10 % de sus ingresos](https://www.givingwhatwecan.org/pledge/) durante el resto de sus vidas a donde consideren que el dinero tendrá el mayor impacto.[^31] Más de 9.000 personas han firmado el compromiso, lo que se traduce en donaciones colectivas de miles de millones de dólares a lo largo de sus vidas.
 
-Sin embargo, donar más no sirve de mucho si el dinero no se gasta bien. Algunas formas de ayudar tienen un impacto mucho mayor que otras. La mayoría de la gente cree que la eficacia de las mejores organizaciones benéficas difiere de la media sólo en un 50 % aproximadamente.[^32] Sin embargo, contrariamente a lo que podría parecer, las organizaciones benéficas más costo-eficaces son decenas o incluso cientos de veces más eficaces que las organizaciones benéficas típicas.[^33] Debido a estas enormes diferencias entre organizaciones benéficas, decidir dónde donar es sumamente importante; hacer el mayor bien posible requiere que tomemos esta decisión con mucho cuidado.
+Sin embargo, donar más no sirve de mucho si el dinero no se gasta bien. Algunas formas de ayudar tienen un impacto mucho mayor que otras. La mayoría de la gente cree que la eficacia de las mejores organizaciones benéficas difiere de la media sólo en un 50 % aproximadamente.[^32] Sin embargo, contrariamente a lo que podría parecer, las organizaciones benéficas más costo-eficaces son decenas o incluso cientos de veces más eficaces que las organizaciones benéficas típicas.[^33] Debido a estas enormes diferencias entre organizaciones benéficas, decidir dónde donar es sumamente importante; hacer el mayor bien posible requiere que tomemos esta decisión con mucho cuidado.
 
-Para donar mejor, se pueden seguir las recomendaciones de organizaciones como [GiveWell](https://www.givewell.org/), que realiza evaluaciones de organizaciones benéficas excepcionalmente exhaustivas. La estimación más probable según GiveWell es que las organizaciones benéficas más costo-eficaces que trabajan en salud global pueden salvar la vida de un niño por menos de 5.000 dólares.[^34] Donando el 10 % de sus ingresos anuales, una persona acomodada salvará la vida de un niño cada año, y decenas de vidas a lo largo de su vida. Y si esa persona se centrara en causas más importantes, es plausible que pudiera tener un impacto todavía mayor.
+Para donar mejor, se pueden seguir las recomendaciones de organizaciones como [GiveWell](https://www.givewell.org/), que realiza evaluaciones de organizaciones benéficas excepcionalmente exhaustivas. La estimación más probable según GiveWell es que las organizaciones benéficas más costo-eficaces que trabajan en salud global pueden salvar la vida de un niño por menos de 5.000 dólares.[^34] Donando el 10 % de sus ingresos anuales, una persona acomodada salvará la vida de un niño cada año, y decenas de vidas a lo largo de su vida. Y si esa persona se centrara en causas más importantes, es plausible que pudiera tener un impacto todavía mayor.
 
-Quizá resulte sorprendente que asumir un compromiso personal significativo de ayudar a los demás implique sacrificar mucho menos de lo que uno podría haber pensado en un primer momento. Los estudios sugieren que, aunque existe una correlación positiva entre ingresos y felicidad, no es tan fuerte como cabría pensar. En EE. UU., por ejemplo, una reducción del 10 % de los ingresos se asocia a un descenso de sólo el 1 % en una escala que mide la satisfacción con la vida.[^35] Además, no hay ninguna certeza de que donar el 10 % equivalga a una pérdida del 10 % de los ingresos. Hay datos (contradictorios) que sugieren que gastar dinero en los demás puede mejorar nuestro bienestar tanto o más que gastarlo en nosotros mismos,[^36] así que ni siquiera está claro que donar el 10 % de los ingresos sea un sacrificio personal.[^37]
+Quizá resulte sorprendente que asumir un compromiso personal significativo de ayudar a los demás implique sacrificar mucho menos de lo que uno podría haber pensado en un primer momento. Los estudios sugieren que, aunque existe una correlación positiva entre ingresos y felicidad, no es tan fuerte como cabría pensar. En EE. UU., por ejemplo, una reducción del 10 % de los ingresos se asocia a un descenso de sólo el 1 % en una escala que mide la satisfacción con la vida.[^35] Además, no hay ninguna certeza de que donar el 10 % equivalga a una pérdida del 10 % de los ingresos. Hay datos (contradictorios) que sugieren que gastar dinero en los demás puede mejorar nuestro bienestar tanto o más que gastarlo en nosotros mismos,[^36] así que ni siquiera está claro que donar el 10 % de los ingresos sea un sacrificio personal.[^37]
 
 ### Elección de carrera profesional
 
@@ -167,109 +168,108 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
 
 ### General
 
-- [@Singer1993PracticalEthics].
-- [@Lazari-Radek2017UtilitarianismVeryShort, chap. 6].
+- {{< cite Singer1993PracticalEthics >}}.
+- {{< cite "Lazari-Radek2017UtilitarianismVeryShort" "chap. 6" >}}.
 
 ### Altruismo eficaz
 
-- [@MacAskill2017EffectiveAltruismIntroduction].[^40]
-- [@MacAskill2015DoingGoodBetter].
-- [@MacAskill2018WhatAreMost].
-- [@Singer2023WhyAndHow].
+- {{< cite MacAskill2017EffectiveAltruismIntroduction >}}.[^40]
+- {{< cite MacAskill2015DoingGoodBetter >}}.
+- {{< cite MacAskill2018WhatAreMost >}}.
+- {{< cite Singer2023WhyAndHow >}}.
 - Sitios web y organizaciones relevantes para el altruismo eficaz:
   - [Biblioteca Altruismo Eficaz](https://www.altruismoeficaz.net/): Sitio web que ofrece recursos en línea sobre el altruismo eficaz.
   - [GiveWell](https://www.givewell.org/): Evaluador de organizaciones benéficas cuyo objetivo es encontrar oportunidades de donación excepcionales.
   - [80.000 Horas](https://80000hours.org/): Organización sin ánimo de lucro dedicada a la investigación y a ayudar a personas con talento a maximizar el impacto social de sus carreras profesionales.
-  - [Giving What We Can](https://www.givingwhatwecan.org/): Comunidad de personas que se han comprometido a donar el 10 % de sus ingresos a lo largo de su vida a organizaciones benéficas eficaces.
+  - [Giving What We Can](https://www.givingwhatwecan.org/): Comunidad de personas que se han comprometido a donar el 10 % de sus ingresos a lo largo de su vida a organizaciones benéficas eficaces.
   - [Charity Entrepreneurship](https://www.charityentrepreneurship.com/): Incubadora de organizaciones benéficas que ayuda a poner en marcha múltiples organizaciones benéficas de gran impacto cada año.
 - Podcasts sobre altruismo eficaz y utilitarismo:
   - [Effective altruism: an introduction](https://80000hours.org/podcast/effective-altruism-an-introduction/). Colección de diez episodios del pódcast de 80.000 Horas.
-  - [@Harris2021DoingGoodConversation].
-  - [@Harris2016WhatMoralProgress].
+  - {{< cite Harris2021DoingGoodConversation >}}.
+  - {{< cite Harris2016WhatMoralProgress >}}.
   - [Utilitarian Podcast](https://podcasts.apple.com/us/podcast/utilitarian/id1529734932). Pódcast sobre utilitarismo presentado por Gus Docker.
-
 
 ### Salud y desarrollo globales
 
-- [@Singer2009LifeYouCan1].
-- [@Ord2019MoralImperativeCosteffectiveness].
-- [@Unger1996LivingHighLetting].
+- {{< cite Singer2009LifeYouCan1 >}}.
+- {{< cite Ord2019MoralImperativeCosteffectiveness >}}.
+- {{< cite Unger1996LivingHighLetting >}}.
 
 ### Bienestar animal en las granjas
 
-- [@Sebo2020ConsequentialismNonhumanAnimals].
-- [@Wiblin2021LewisBollardBig].
-- [@Whittlestone2017AnimalWelfare].
+- {{< cite Sebo2020ConsequentialismNonhumanAnimals >}}.
+- {{< cite Wiblin2021LewisBollardBig >}}.
+- {{< cite Whittlestone2017AnimalWelfare >}}.
 
 ### Riesgos existenciales
 
-- [@Ord2020PrecipiceExistentialRisk].
-- [@Bostrom2013ExistentialRiskPrevention].
+- {{< cite Ord2020PrecipiceExistentialRisk >}}.
+- {{< cite Bostrom2013ExistentialRiskPrevention >}}.
 
-[^1]: Consejos de Bentham a una joven en 1830. [@Bentham2002DeontologyTogetherTable, p. xix].
+[^1]: Consejos de Bentham a una joven en 1830. {{< cite Bentham2002DeontologyTogetherTable "p. xix" >}}.
 [^2]:
     Se estima que 734 millones de personas vivían en la pobreza extrema en 2015, lo que significa que ganaban menos de 1,90 dólares al día (a precios de 2011). Así, unos ingresos anuales de 35.000 dólares corresponden a 50 veces los ingresos anuales de una persona que vive justo por debajo del umbral de la pobreza extrema.
 
-    The World Bank, *Poverty & Inequality Indicators**. [Agregación regional que usa la paridad del poder adquisitivo (PPA) del 2011 y una línea de pobreza de $1.9/día](https://pip.worldbank.org/poverty-calculator).
+    The World Bank, _Poverty & Inequality Indicators_. [Agregación regional que usa la paridad del poder adquisitivo (PPA) del 2011 y una línea de pobreza de $1.9/día](https://pip.worldbank.org/poverty-calculator).
 
-[^3]: Cf. [@Drupp2018DiscountingDisentangled].
-[^4]: [@GiveWell2010YourDonationCan].
-[^5]: [@GiveWell2013MassDistributionLonglasting].
+[^3]: Cf. {{< cite Drupp2018DiscountingDisentangled >}}.
+[^4]: {{< cite GiveWell2010YourDonationCan >}}.
+[^5]: {{< cite GiveWell2013MassDistributionLonglasting >}}.
 [^6]:
     En 2013, Peter Singer dio una [charla TED sobre altruismo eficaz](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=es).
 
-    Para una introducción más detallada y reciente sobre el altruismo eficaz, véase [@MacAskill2017EffectiveAltruismIntroduction].
-[^7]: Para una discusión filosófica detallada del altruismo eficaz, véanse los 16 artículos incluidos en [@Greaves2019EffectiveAltruismPhilosophical].
+    Para una introducción más detallada y reciente sobre el altruismo eficaz, véase {{< cite MacAskill2017EffectiveAltruismIntroduction >}}.
+[^7]: Para una discusión filosófica detallada del altruismo eficaz, véanse los 16 artículos incluidos en {{< cite Greaves2019EffectiveAltruismPhilosophical >}}.
 [^8]:
     "Es cierto que el altruismo eficaz tiene algunas similitudes con el utilitarismo: es maximizador, se centra principalmente en mejorar el bienestar, muchos miembros de la comunidad hacen sacrificios significativos con el fin de tener un mayor impacto, y muchos miembros de la comunidad se definen como utilitaristas."
 
-    [@MacAskill2019DefinitionEffectiveAltruism].
+    {{< cite MacAskill2019DefinitionEffectiveAltruism >}}.
 
-[^9]: Véase [@MacAskill2019DefinitionEffectiveAltruism].
+[^9]: Véase {{< cite MacAskill2019DefinitionEffectiveAltruism >}}.
 [^10]:
     El altruismo eficaz "es compatible con el igualitarismo, con el prioritarismo y, dado que no afirma que el bienestar sea lo único valioso, con puntos de vista que asignan valor a bienes no bienestaristas."
 
-    [@MacAskill2019DefinitionEffectiveAltruism].
+    {{< cite MacAskill2019DefinitionEffectiveAltruism >}}.
 
-[^11]: [@Parfit2011WhatMattersVolumec, pp. 436-437].
-[^12]: Por ejemplo, el libro de Peter Singer <cite>[@Singer2009LifeYouCan1]</cite> (la edición actualizada del décimo aniversario se puede descargar gratuitamente) defiende la importancia ética de mejorar la salud global y el desarrollo internacional.
-[^13]: [@Roser2013ChildAndInfant].
-[^14]: [@Roser2013ChildAndInfant].
-[^15]: [@GiveWell2010YourDollarGoes].
-[^16]: [@Givewell2023OurTopCharities].
-[^17]: [@Bentham2017IntroductionToPrinciples, pp. 143-144].
+[^11]: {{< cite Parfit2011WhatMattersVolumec "pp. 436-437" >}}.
+[^12]: Por ejemplo, el libro de Peter Singer <cite>{{< cite -Singer2009LifeYouCan1 >}}</cite> (la edición actualizada del décimo aniversario se puede descargar gratuitamente) defiende la importancia ética de mejorar la salud global y el desarrollo internacional.
+[^13]: {{< cite Roser2013ChildAndInfant >}}.
+[^14]: {{< cite Roser2013ChildAndInfant >}}.
+[^15]: {{< cite GiveWell2010YourDollarGoes >}}.
+[^16]: {{< cite Givewell2023OurTopCharities >}}.
+[^17]: {{< cite Bentham2017IntroductionToPrinciples  "pp. 143-144" >}}.
 [^18]: Como se explica en el capítulo [Utilitarismo y ética práctica](./utilitarismo-y-etica-practica.md#especismo), dar la misma consideración moral a todos los animales no implica necesariamente que debamos tratarlos a todos por igual.
-[^19]: [@Sanders2018GlobalAnimalSlaughter].
-[^20]: [@Anthis2019GlobalFarmedFactory].
-[^21]: [@Simcikas2019CorporateCampaignsAffect].
-[^22]: Cf. [@AnimalCharityEvaluators2016WhyFarmedAnimals].
+[^19]: {{< cite Sanders2018GlobalAnimalSlaughter >}}.
+[^20]: {{< cite Anthis2019GlobalFarmedFactory >}}.
+[^21]: {{< cite Simcikas2019CorporateCampaignsAffect >}}.
+[^22]: Cf. {{< cite AnimalCharityEvaluators2016WhyFarmedAnimals >}}.
 [^23]:
-    [@Parfit1984ReasonsPersons, p. 454].
+    {{< cite Parfit1984ReasonsPersons "p. 454" >}}.
 
     Nótese que esto no es técnicamente exacto. Algunas distopías concebibles (que contienen enorme sufrimiento) serían incluso peores que la extinción humana.
 
-[^24]: Para un debate sobre el largoplacismo y sus supuestos subyacentes, véase [@Greaves2021CaseStrongLongtermism].
+[^24]: Para un debate sobre el largoplacismo y sus supuestos subyacentes, véase {{< cite Greaves2021CaseStrongLongtermism >}}.
 [^25]:
-    [@Ord2020PrecipiceExistentialRisk, p. 37].
+    {{< cite Ord2020PrecipiceExistentialRisk "p. 37" >}}.
 
     Nos centraremos en el riesgo de extinción como el ejemplo más sencillo, pero también se pueden imaginar situaciones en las que la humanidad sobreviva, pero con su potencial a largo plazo permanentemente mermado.
 
-[^26]: Cf. [@Bostrom2003AstronomicalWasteOpportunity].
-[^27]: Cf. [@Beckstead2013OverwhelmingImportanceShaping, sec. 3: The case for shaping the far future].
-[^28]: [@Roser2019ShortHistoryOf].
-[^29]: Cf. [@Bostrom2013ExistentialRiskPrevention].
-[^30]: Cf. [@MacAskill2015DoingGoodBetter, chap. 1].
-[^31]: Téngase en cuenta que el profesor William MacAskill, coautor de este sitio web, es cofundador de Giving What We Can.
-[^32]: [@Caviola2020DonorsVastlyUnderestimate].
+[^26]: Cf. {{< cite Bostrom2003AstronomicalWasteOpportunity >}}.
+[^27]: Cf. {{< cite Beckstead2013OverwhelmingImportanceShaping "sec. 3: The case for shaping the far future" >}}.
+[^28]: {{< cite Roser2019ShortHistoryOf >}}.
+[^29]: Cf. {{< cite Bostrom2013ExistentialRiskPrevention >}}.
+[^30]: Cf. {{< cite MacAskill2015DoingGoodBetter "chap. 1" >}}.
+[^31]: Téngase en cuenta que el profesor William MacAskill, coautor de este sitio web, es cofundador de _Giving What We Can_.
+[^32]: {{< cite Caviola2020DonorsVastlyUnderestimate >}}.
 [^33]:
-    [@Givewell2019YourDollarGoesa].
+    {{< cite Givewell2019YourDollarGoesa >}}.
 
-    [@Ord2013MoralImperativeCosteffectiveness].
+    {{< cite Ord2013MoralImperativeCosteffectiveness >}}.
 
-[^34]: [@GiveWell2010YourDollarGoes].
-[^35]: [@Stevenson2013SubjectiveWellbeingIncome].
-[^36]: [@Dunn2011IfMoneyDoesn].
-[^37]: Para más detalles, véase [@MacAskill2018GivingIsnDemanding].
+[^34]: {{< cite GiveWell2010YourDollarGoes >}}.
+[^35]: {{< cite Stevenson2013SubjectiveWellbeingIncome >}}.
+[^36]: {{< cite Dunn2011IfMoneyDoesn >}}.
+[^37]: Para más detalles, véase {{< cite MacAskill2018GivingIsnDemanding >}}.
 [^38]: Téngase en cuenta que el profesor William MacAskill, coautor de este sitio web, es cofundador de 80.000 Horas.
-[^39]: Cf. [@Todd2014WeReviewed60].
-[^40]: Tenga en cuenta que el profesor William MacAskill, coautor de este sitio web, es el autor de varios de los recursos enumerados sobre altruismo eficaz. Además, es cofundador tanto de 80.000 Horas como de Giving What We Can.
+[^39]: Cf. {{< cite Todd2014WeReviewed60 >}}.
+[^40]: Tenga en cuenta que el profesor William MacAskill, coautor de este sitio web, es el autor de varios de los recursos enumerados sobre altruismo eficaz. Además, es cofundador tanto de 80.000 Horas como de _Giving What We Can_.

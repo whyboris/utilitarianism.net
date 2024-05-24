@@ -1,14 +1,12 @@
 ---
-title: "An Introduction to Utilitarianism"
+title: "Una introducción al utilitarismo"
 slug: "libro-de-texto"
-book: "An Introduction to Utilitarianism"
+book: "Una introducción al utilitarismo"
 year: " " # hack so `single.html` displays properly
-author: "Richard Yetter Chappell, Darius Meissner, and William MacAskill"
+author: "Richard Yetter Chappell, Darius Meissner y William MacAskill"
 date: 2023-01-29
 ---
 
-This is an online textbook aiming to provide a concise, accessible, and engaging introduction to modern utilitarianism, targeted at the undergraduate level.
-
-For a high-school level introduction, see [Utilitarianism: Simply Explained](/utilitarianism-for-high-school-students/).
+Este es un libro de texto en línea que tiene como objetivo proporcionar una introducción concisa, accesible y estimulante al utilitarismo moderno de nivel universitario.
 
 {{< textbook-contents >}}

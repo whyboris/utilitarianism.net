@@ -65,6 +65,7 @@ A huge **thank you** to the numerous creators and contributors that make buildin
 - [fdir](https://github.com/thecodrr/fdir) for the fastest way to crawl a directory
 - [bestzip](https://github.com/nfriedly/node-bestzip) for zipping the finished files into one
 - [serve](https://github.com/vercel/serve) for previewing the final build
+- [hugo-cite](https://github.com/loup-brun/hugo-cite) for making citations easy to work with
 
 This is not a complete list, there are too many others to list 🙇‍♂️
 

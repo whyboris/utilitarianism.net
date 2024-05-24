@@ -9,7 +9,7 @@
 [site.footer]
   other = "Este sitio web ha sido co-creado por William MacAskill, profesor asociado de Filosofía en la Universidad de Oxford"
 [site.logo-path]
-  other = "/img/Utilitarianism-Website-Logo.svg" # not translated — PS
+  other = "/img/Utilitarianism-Website-Logo.es.svg"
 [site.logo-alt]
   other = "Logo del sitio web Utilitarismo.net"
 [text.left-quote]
@@ -25,7 +25,7 @@
 [menu.textbook]
   other = "Aprender sobre utilitarismo"
 [link.textbook]
-  other = "libro de texto"
+  other = "libro-de-texto"
 [menu.core-articles]
   other = "Artículos principales"
 [menu.about]
@@ -49,7 +49,7 @@
 [link.objections]
   other = "objeciones-al-utilitarismo"
 [link.specific-objections]
-  other = "objeciones-al-utilitarismo#objeciones-especificas-al-utilitarismo"
+  other = "objeciones/#objeciones-específicas-al-utilitarismo"
 [cite.accessed]
   other = "visitado" # should be ‘visitada’ if what is visited is a feminine noun — PS
 [cite.book-title]
@@ -96,3 +96,5 @@
   other = "Reproducir grabación de audio del contenido"
 [pdf.download]
   other = "Descargar como PDF"
+[apa_retrieved_from]
+  other = "Obtenido de"

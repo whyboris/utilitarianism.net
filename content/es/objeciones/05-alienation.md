@@ -6,7 +6,7 @@ date: 2023-01-29
 type: "page"
 draft: false
 menu: ["objections"]
-weight: 5
+weight: 205
 page: 5
 description: "Las teorías morales abstractas amenazan con alienarnos de mucho de lo que valoramos. Este artículo explora dos posibles defensas del utilitarismo contra esta acusación. Una recomienda adoptar motivaciones distintas de las explícitamente utilitaristas. La otra argumenta que las preocupaciones adecuadamente concretas pueden subsumirse en motivaciones utilitaristas más generales."
 gradientTop: "#5F3091"
@@ -69,21 +69,21 @@ Sería profundamente alienante para una teoría moral invalidar la abrumadora ma
 
 ## Recursos y Más información
 
-- [@Chappell2020RightWrongMakers].
-- [@Maguire2020AlienationObjectionTo].
-- [@Pettit1986RestrictiveConsequentialism].
-- [@Railton1984AlienationConsequentialismDemands].
-- [@Stocker1976SchizophreniaModernEthical].
-- [@Williams1981PersonsCharacterMorality].
+- {{< cite Chappell2020RightWrongMakers >}}.
+- {{< cite Maguire2020AlienationObjectionTo >}}.
+- {{< cite Pettit1986RestrictiveConsequentialism >}}.
+- {{< cite Railton1984AlienationConsequentialismDemands >}}.
+- {{< cite Stocker1976SchizophreniaModernEthical >}}.
+- {{< cite Williams1981PersonsCharacterMorality >}}.
 
-[^1]: Este ejemplo está adaptado de [@Stocker1976SchizophreniaModernEthical, p. 462]. Por supuesto, si quisieras animar a tu amigo, te abstendrías de expresar en voz alta un pensamiento tan insensible. Pero parece bastante malo incluso _pensar_ de ese modo.
-[^2]: [@Williams1981PersonsCharacterMorality, p. 18].
-[^3]: [@Railton1984AlienationConsequentialismDemands, p. 153].
-[^4]: [@Railton1984AlienationConsequentialismDemands, p. 151].
-[^5]: [@Stocker1976SchizophreniaModernEthical].
+[^1]: Este ejemplo está adaptado de {{< cite Stocker1976SchizophreniaModernEthical "p. 462" >}}. Por supuesto, si quisieras animar a tu amigo, te abstendrías de expresar en voz alta un pensamiento tan insensible. Pero parece bastante malo incluso _pensar_ de ese modo.
+[^2]: {{< cite Williams1981PersonsCharacterMorality "p. 18" >}}.
+[^3]: {{< cite Railton1984AlienationConsequentialismDemands "p. 153" >}}.
+[^4]: {{< cite Railton1984AlienationConsequentialismDemands "p. 151" >}}.
+[^5]: {{< cite Stocker1976SchizophreniaModernEthical >}}.
 [^6]: Esto está relacionado con la distinción estándar del [utilitarismo multinivel](../elementos-y-tipos-de-utilitarismo.md#utilitarismo-multinivel-y-utilitarismo-de-un-solo-nivel) entre el _criterio de corrección_ y el _procedimiento de decisión_, pero difiere sutilmente de esa distinción. Los utilitaristas multinivel señalan que las heurísticas (como respetar los derechos) podrían ayudarnos a alcanzar mejor los objetivos utilitaristas, pero se trata de un mero cambio de estrategia, no de un cambio en lo que quieren en última instancia. Los utilitaristas sofisticados van más allá, adoptando objetivos no utilitaristas o deseos intrínsecos cuando ello puede dar buenos resultados. Esto introduce una desconexión entre la teoría y la _motivación_ que no se da necesariamente en el utilitarismo multinivel ordinario.
-[^7]: [@Chappell2020RightWrongMakers].
-[^8]: [@Chappell2015ValueReceptacles].
+[^7]: {{< cite Chappell2020RightWrongMakers >}}.
+[^8]: {{< cite Chappell2015ValueReceptacles >}}.
 [^9]: En términos más generales, la estrategia de subsunción puede extenderse a cualquier bien de bienestar que el utilitarista reconozca como de valor intrínseco. Dependiendo de su [teoría del bienestar](../teorias-del-bienestar.md), esto podría incluir sólo la felicidad, sólo la satisfacción del deseo, o cualquier número de bienes supuestamente objetivos como la amistad, el conocimiento, etc.
-[^10]: [@Railton1984AlienationConsequentialismDemands, p. 144]. Obsérvese que Railton utiliza el ejemplo del tenista en un contexto diferente (y con un contraste de motivación diferente) a cómo lo empleamos aquí.
-[^11]: [@Pettit1986RestrictiveConsequentialism].
+[^10]: {{< cite Railton1984AlienationConsequentialismDemands "p. 144" >}}. Obsérvese que Railton utiliza el ejemplo del tenista en un contexto diferente (y con un contraste de motivación diferente) a cómo lo empleamos aquí.
+[^11]: {{< cite Pettit1986RestrictiveConsequentialism >}}.

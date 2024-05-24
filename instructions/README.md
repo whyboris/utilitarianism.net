@@ -158,31 +158,25 @@ All languages are accessible during development, each has its own link when you 
 - German: `just build-de`
 - Spanish: `just build-es`
 
-_Note:_ PDF filenames in German have some replacements: `ü` -> `ue`, `ß` -> `ss`, `ä` -> `a`, while `“` & `„` are removed -- all so that PDFs are accessible when the link is clicked. See `move-pdf.js` and `PDF.html` (both of which need identical replacement rules).
+_Note:_ PDF filenames in German have some replacements: `ü` -> `ue`, `ß` -> `ss`, `ä` -> `a`, `ó` -> `o`, `É` -> `E`, `é` -> `e`, `í` -> `i`; while `“` & `„` are removed -- all so that PDFs are accessible when the link is clicked. See `move-pdf.js` and `PDF.html` (both of which need identical replacement rules).
 
 ### Bibliography
 
-This note is for posterity, in case we want to return to this functionality:
+For our _Spanish_ version of the website, we generate citations with `hugo-cite` automatically, but we need the `bib` file:
 
-We experimented with using a `.bib` file for automatic insertion of works cited (for example see [stable.bib](https://github.com/tlon-team/babel-refs/tree/main/bib)).
-
-We can use `pandoc` to convert `stable.bib` to `bib.json` with this command:
+Copy [stable.bib](https://github.com/tlon-team/babel-refs/tree/main/bib) to your computer and use `pandoc` to convert `stable.bib` to `bib.json` with this command:
 
 ```sh
 pandoc stable.bib -t csljson -o bib.json
 ```
 
-Place the file in `/content` and refer to it from each page that needs citations: add this line to the _front matter_: `bibFile: content/bib.json`
+Place the file in `/assets`, and run `npm run fix-bib` which will generate `bib2.json` for easier use by our system.
 
-For more details, see [hugo-cite](https://github.com/loup-brun/hugo-cite)
-
-For simplicity of use, instead of installing the submodule, just copy over the files:
+We used the code from [hugo-cite](https://github.com/loup-brun/hugo-cite). Just these two files were copied from the above repository and `cite.html` was modified heavily for our use case:
 
 - `layouts/shortcodes/cite.html`
-- `layouts/shortcodes/bibliography.html`
 - `layouts/partials/bibliography/apa-style.html`
-- `layouts/partials/bibliography/bibliography-list.html`
 
-You'll need to mess with CSS and the templates to get the output we want.
+Citations originally came from _TLON_ as `[@Singer1972]`; we can search and replace `\[@(.+?)\]` _RegEx_ with `{{< cite $1 >}}` and then fix any page references (e.g. after the citation shortcode include any string `"chap. 3"`)
 
 [^1]: If you see an error while Pagefind is being installed, something like [Error: tar xvf exited with 128](https://github.com/CloudCannon/pagefind/issues/66#issuecomment-1237313541) try using _Powershell_ when running `npm install`

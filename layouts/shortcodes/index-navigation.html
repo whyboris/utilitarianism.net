@@ -16,7 +16,7 @@
       <a href="/{{ i18n "link.acting" }}">{{ i18n "menu.acting" }}</a>
     </li>
 
-    {{ if not (eq .Site.Language.Lang "de") }}
+    {{ if eq .Site.Language.Lang "en" }}
 
     <li>
       <a href="/guest-essays">Guest Essays</a>
@@ -34,7 +34,7 @@
       <a href="/books">Utilitarian Books</a>
     </li>
 
-    {{ else }}
+    {{ else if eq .Site.Language.Lang "de" }}
 
     <li>
       <a href="/{{ i18n "link.famine-affluence-morality" }}">{{ i18n "menu.famine-affluence-morality-long" }}</a>

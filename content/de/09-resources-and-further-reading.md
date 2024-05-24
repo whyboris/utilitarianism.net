@@ -484,4 +484,4 @@ Ressourcen für den [Studienführer: Peter Singers „Hunger, Wohlstand und Mora
 - Peter Unger (1996). _Living High and Letting Die: Our Illusion of Innocence_. Oxford University Press.
 
 [^1]:
-     N. B.: Professor William MacAskill ist Mitverfasser dieser Website und der Autor mehrerer der aufgeführten Ressourcen über Effektiven Altruismus. Außerdem ist er Mitgründer von 80,000 Hours und Giving What We Can.
+     N. B.: Professor William MacAskill ist Mitverfasser dieser Website und der Autor mehrerer der aufgeführten Ressourcen über Effektiven Altruismus. Außerdem ist er Mitgründer von _80,000 Hours_ und _Giving What We Can_.

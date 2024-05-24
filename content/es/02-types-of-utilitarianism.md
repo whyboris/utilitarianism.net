@@ -20,6 +20,7 @@ Como se explica en [Capitulo 1: Introducción al utilitarismo](./introduccion-al
 ## La definición de utilitarismo
 
 Las teorías utilitaristas comparten cuatro elementos definitorios:
+
 1. consecuencialismo
 2. bienestarismo
 3. imparcialidad
@@ -71,7 +72,7 @@ Aunque todos los puntos de vista plausibles reconocen que el bienestar es import
 
 El utilitarismo está comprometido con una concepción de _imparcialidad_ que se basa en la _igual consideración de intereses_:
 
-> **La _imparcialidad_ es la perspectiva de que una cantidad dada de bienestar es igualmente valiosa sin importar *de quién* sea.**
+> **La _imparcialidad_ es la perspectiva de que una cantidad dada de bienestar es igualmente valiosa sin importar _de quién_ sea.**
 
 Como afirma el filósofo utilitarista [Henry Sidgwick](https://altruismoeficaz.net/autores/henry-sidgwick): "el bien de una persona cualquiera no es más importante desde el punto de vista... del universo que el bien de cualquier otra.“[^4] Los utilitaristas valoran por igual el bienestar de todos, independientemente de su nacionalidad, sexo, lugar o época en que vivan, o incluso de su especie. Según el utilitarismo, _en principio_ ni siquiera se debe privilegiar el bienestar de uno mismo o de la propia familia sobre el de extraños lejanos (aunque puede haber buenas razones _prácticas_ para hacerlo).[^5]
 
@@ -158,11 +159,11 @@ Dadas nuestras limitaciones cognitivas y epistémicas, no podemos prever todas l
 
 > **El utilitarismo de expectativas es la perspectiva según la cual deberíamos promover el _bienestar esperado_.**
 
-El utilitarismo de expectativas sostiene que debemos elegir las acciones con el mayor _valor esperado_.[^20] El valor esperado de una acción es la suma del valor de cada uno de los resultados potenciales multiplicado por la probabilidad de que se produzca ese resultado. Este enfoque sigue la [teoría de la utilidad esperada](https://altruismoeficaz.net/temas/utilidad-esperada), la teoría más aceptada sobre cómo tomar decisiones racionales en condiciones de incertidumbre. Así, por ejemplo, según el utilitarismo de expectativas, deberíamos elegir un 10% de probabilidades de salvar 1000 vidas frente a un 50% de probabilidades de salvar 150 vidas, porque la primera opción salva 100 vidas esperadas (= 10% x 1000 vidas), mientras que la segunda salva 75 vidas esperadas (= 50% x 150 vidas). Esto nos da una explicación de la elección _racional_ desde un punto de vista moral.
+El utilitarismo de expectativas sostiene que debemos elegir las acciones con el mayor _valor esperado_.[^20] El valor esperado de una acción es la suma del valor de cada uno de los resultados potenciales multiplicado por la probabilidad de que se produzca ese resultado. Este enfoque sigue la [teoría de la utilidad esperada](https://altruismoeficaz.net/temas/utilidad-esperada), la teoría más aceptada sobre cómo tomar decisiones racionales en condiciones de incertidumbre. Así, por ejemplo, según el utilitarismo de expectativas, deberíamos elegir un 10 % de probabilidades de salvar 1000 vidas frente a un 50 % de probabilidades de salvar 150 vidas, porque la primera opción salva 100 vidas esperadas (= 10 % x 1000 vidas), mientras que la segunda salva 75 vidas esperadas (= 50 % x 150 vidas). Esto nos da una explicación de la elección _racional_ desde un punto de vista moral.
 
 El utilitarismo objetivo, por el contrario, considera que el grado en que debemos realizar una acción depende del bienestar que _de hecho_ producirá. El contraste entre ambas posiciones puede ilustrarse mediante un experimento mental:
 
-> **El tratamiento arriesgado:** Una paciente tiene una rinorrea crónica que la dejará, si no se trata, con un bienestar ligeramente inferior para el resto de su vida. El único tratamiento para su enfermedad es muy arriesgado, con sólo un 1% de probabilidades de éxito. Si tiene éxito, el tratamiento la curará por completo, pero en caso contrario provocará su muerte. El médico le administra el tratamiento, éste tiene éxito y la paciente se cura.
+> **El tratamiento arriesgado:** Una paciente tiene una rinorrea crónica que la dejará, si no se trata, con un bienestar ligeramente inferior para el resto de su vida. El único tratamiento para su enfermedad es muy arriesgado, con sólo un 1 % de probabilidades de éxito. Si tiene éxito, el tratamiento la curará por completo, pero en caso contrario provocará su muerte. El médico le administra el tratamiento, éste tiene éxito y la paciente se cura.
 
 La acción del médico, por pura casualidad y contra todo pronóstico, ha tenido el mejor resultado para la paciente, y no tratarla la habría dejado en una peor situación. Por tanto, según el utilitarismo objetivo, el médico ha actuado correctamente. Sin embargo, actuó mal desde la perspectiva del utilitarismo de las expectativas. Las consecuencias esperadas de administrar el tratamiento, con sus abrumadoras probabilidades de matarla, eran mucho peores para la paciente que no administrarle ningún tratamiento. La decisión del médico resultó ser inmensamente afortunada, pero fue extremadamente imprudente e irracional dada la información de que disponía.
 
@@ -238,162 +239,162 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 
 ### Consecuencialismo
 
-- [@Driver2012Consequentialism].
-- [@Scheffler1994RejectionConsequentialismPhilosophical].
-- [@Sinnott-Armstrong2003Consequentialism].
+- {{< cite Driver2012Consequentialism >}}.
+- {{< cite Scheffler1994RejectionConsequentialismPhilosophical >}}.
+- {{< cite "Sinnott-Armstrong2003Consequentialism" >}}.
 
-### Welfarism & Theories of Well-Being (El bienestar y las teorías del bienestar).
+### Welfarism & Theories of Well-Being (El bienestar y las teorías del bienestar)
 
-- [@Crisp2001Wellbeing].
-- [@Holtug2003WelfarismVeryIdea].
-- [@Kagan1992LimitsWellbeing].
+- {{< cite Crisp2001Wellbeing >}}.
+- {{< cite Holtug2003WelfarismVeryIdea >}}.
+- {{< cite Kagan1992LimitsWellbeing >}}.
 
 ### Imparcialidad
 
-- [@Goodin1988WhatSpecialOur].
-- [@Jollimore2002Impartiality].
+- {{< cite Goodin1988WhatSpecialOur >}}.
+- {{< cite Jollimore2002Impartiality >}}.
 
 ### Agregationism
 
-- [@Broome1991WeighingGoodsEquality, ch. 4, 10].
-- [@Bykvist2010UtilitarianismGuidePerplexed].
-- [@Norcross1997ComparingHarmsHeadaches].
+- {{< cite Broome1991WeighingGoodsEquality "chap. 4, 10" >}}.
+- {{< cite Bykvist2010UtilitarianismGuidePerplexed >}}.
+- {{< cite Norcross1997ComparingHarmsHeadaches >}}.
 
 ### Hedonismo
 
-- [@Crisp2006HedonismReconsidered].
-- [@Feldman2004PleasureGoodLife].
-- [@Kagan1992LimitsWellbeing].
-- [@Moen2016ArgumentForHedonism].
-- [@Moore2004Hedonism].
+- {{< cite Crisp2006HedonismReconsidered >}}.
+- {{< cite Feldman2004PleasureGoodLife >}}.
+- {{< cite Kagan1992LimitsWellbeing >}}.
+- {{< cite Moen2016ArgumentForHedonism >}}.
+- {{< cite Moore2004Hedonism >}}.
 
 ### Ética de la población
 
-- [@Arrhenius2006RepugnantConclusion].
-- [@Arrhenius2000FutureGenerationsChallenge].
-- [@Greaves2017PopulationAxiology].
-- [@Gustafsson2022OurIntuitiveGrasp].
-- [@Huemer2008DefenceRepugnance].
-- [@Parfit1984ReasonsPersons].
+- {{< cite Arrhenius2006RepugnantConclusion >}}.
+- {{< cite Arrhenius2000FutureGenerationsChallenge >}}.
+- {{< cite Greaves2017PopulationAxiology >}}.
+- {{< cite Gustafsson2022OurIntuitiveGrasp >}}.
+- {{< cite Huemer2008DefenceRepugnance >}}.
+- {{< cite Parfit1984ReasonsPersons >}}.
 
 ### Utilitarismo maximizador, satisfaccionista y escalar
 
-- [@Bradley2006AgainstSatisficingConsequentialism].
-- [@Chappell2020DeonticPluralismAnd].
-- [@Chappell2019WillpowerSatisficing].
-- [@Norcross2020MoralityByDegrees].
-- [@NorcrossScalarApproachUtilitarianism].
-- [@Sinhababu2018ScalarConsequentialismRight].
+- {{< cite Bradley2006AgainstSatisficingConsequentialism >}}.
+- {{< cite Chappell2020DeonticPluralismAnd >}}.
+- {{< cite Chappell2019WillpowerSatisficing >}}.
+- {{< cite Norcross2020MoralityByDegrees >}}.
+- {{< cite NorcrossScalarApproachUtilitarianism >}}.
+- {{< cite Sinhababu2018ScalarConsequentialismRight >}}.
 
 ### Utilitarismo de expectativas frente a utilitarismo objetivo
 
-- [@Crisp1997RoutledgePhilosophyGuidebook, pp. 99–101].
-- [@Graham2021SubjectiveVersusObjective].
-- [@Jackson1991DecisiontheoreticConsequentialismNearest].
+- {{< cite Crisp1997RoutledgePhilosophyGuidebook "pp. 99–101" >}}.
+- {{< cite Graham2021SubjectiveVersusObjective >}}.
+- {{< cite Jackson1991DecisiontheoreticConsequentialismNearest >}}.
 
 ### El utilitarismo multinivel frente al utilitarismo de un solo nivel
 
-- [@Crisp1997RoutledgePhilosophyGuidebook, pp. 105–112].
-- [@Hare1981MoralThinkingIts]
-- [@Railton1984AlienationConsequentialismDemands].
+- {{< cite Crisp1997RoutledgePhilosophyGuidebook "pp. 105–112" >}}.
+- {{< cite Hare1981MoralThinkingIts >}}.
+- {{< cite Railton1984AlienationConsequentialismDemands >}}.
 
 ### Utilitarismo global y utilitarismo híbrido
 
-- [@Mcelwee2019AmbitionsOfConsequentialism].
-- [@Chappell2012FittingnessSoleNormative].
-- [@Chappell2024ConsequentialismCoreAnd].
-- [@Ord2009ActionApplyingConsequentialism].
-- [@Pettit2000GlobalConsequentialism].
+- {{< cite Mcelwee2019AmbitionsOfConsequentialism >}}.
+- {{< cite Chappell2012FittingnessSoleNormative >}}.
+- {{< cite Chappell2024ConsequentialismCoreAnd >}}.
+- {{< cite Ord2009ActionApplyingConsequentialism >}}.
+- {{< cite Pettit2000GlobalConsequentialism >}}.
 
 [^1]: Algunos otros casos en los que las etiquetas pueden inducir a error: el té de hierbas no es un tipo de té; una flor de plástico no es un tipo de flor; y el lémur volador no es un lémur y no vuela.
 [^2]:
     Por ejemplo, Hooker escribe: "La viabilidad de esta defensa del consecuencialismo de las reglas contra la objeción de incoherencia puede depender en parte de cuál se supone que sea el argumento a favor del consecuencialismo de las reglas. La defensa parece menos viable si el argumento a favor del consecuencialismo de las reglas parte de un compromiso con la evaluación consecuencialista. Pues partir de tal compromiso se asemeja demasiado a partir de un compromiso predominante de maximizar el bien esperado. La defensa contra la objeción de incoherencia parece mucho más sólida, sin embargo, si el argumento a favor del consecuencialismo de las reglas es que esta teoría moral es mejor que cualquier otra para especificar una justificación imparcial de reglas morales intuitivamente plausibles."
 
-    [@Hooker1990Ruleconsequentialism].
+    {{< cite Hooker1990Ruleconsequentialism >}}.
 
 [^3]: Asignar valor adicional a las distribuciones del bienestar (por ejemplo, a las más equitativas) va más allá del bienestarismo, ya que implica que hay algo intrínsecamente valioso que es diferente del bienestar mismo.
-[^4]: [@Sidgwick1874MethodsEthics, p. 186].
+[^4]: {{< cite Sidgwick1874MethodsEthics "p. 186" >}}.
 [^5]: Para una discusión más detallada, véase [La objeción de las obligaciones especiales](./objeciones-al-utilitarismo/obligaciones-especiales.md).
 
 [^6]: En principio, otros métodos de agregación (como la multiplicación o algo más complejo) son concebibles. Pero aquí nos centramos en la forma aditiva del agregacionismo, ya que es, con mucho, el punto de vista más común.
 [^7]: Esta definición se aplica a un contexto de población fija, en el que las acciones individuales no afectan al número o la identidad de las personas. Hay teorías agregacionistas que difieren en el modo de lidiar con los contextos de población variable. Se trata de una cuestión técnica, relevante para el debate sobre la [ética de la población](./etica-de-la-poblacion.md) del capítulo 5.
 [^8]: Derek Parfit argumenta además que los principios antiagregativos recomiendan elecciones implausibles que, cuando se repiten un número suficiente de veces en la población, empeoran la situación de todos.
 
-    [@Parfit2003JustifiabilityEachPerson, pp. 368–390].
+    {{< cite Parfit2003JustifiabilityEachPerson "pp. 368–390" >}}.
 
 [^8a]:
     Técnicamente, una tercera posibilidad sería reducir el número de vidas negativas. De hecho, muchos utilitaristas apoyan la eutanasia (voluntaria), basándose en el reconocimiento de que una vida de sufrimiento puede ser peor que ninguna vida.
 
-    Véase, por ejemplo, [@Singer1993PracticalEthics, ch. 7].
+    Véase, por ejemplo, {{< cite Singer1993PracticalEthics "chap. 7" >}}.
 
 [^9]:
     La noción de vida positiva, crucial para la perspectiva total, solo tiene sentido en relación con un punto cero en la escala del bienestar. Este punto cero es el umbral a partir del cual la vida se vuelve "digna de ser vivida". Una "vida neutra", en el nivel 0 de bienestar, no es ni "digna de ser vivida" ni "no digna de ser vivida". Puede ser una vida sin valor ni disvalor, o una vida con exactamente tanto valor como disvalor.
 
-    Para más información sobre las sutilezas del concepto de vida "digna de ser vivida", véase [@Broome2004WeighingLives, pp. 66–68].
+    Para más información sobre las sutilezas del concepto de vida "digna de ser vivida", véase {{< cite Broome2004WeighingLives "pp. 66–68" >}}.
 
 [^10]:
     Pero nótese que no coincide directamente con lo que Bentham y Mill entendían por utilitarismo. Por ejemplo, Bentham decía que las acciones deben evaluarse "según la tendencia" por la que aumentan o disminuyen el bienestar. Del mismo modo, Mill sostenía que "las acciones son correctas en la medida en que tienden a promover la felicidad, incorrectas en la medida en que tienden a producir lo contrario de la felicidad".
 
-    [@Bentham1789IntroductionPrinciplesMorals, ch. 1].
+    {{< cite Bentham1789IntroductionPrinciplesMorals "chap. 1" >}}.
 
-    [@Mill2022Utilitarianism, ch. 1].
+    {{< cite Mill2022Utilitarianism "chap. 1" >}}.
 
 [^11]: La censura puede concebirse como una actitud (de desaprobación moral) o como una acción (que expresa tal desaprobación). Para los utilitaristas, las acciones de censura son como cualquier otra acción, en el sentido de que sólo deben realizarse si sirven para promover el bienestar. Censurar en exceso tendría malas consecuencias, porque desanimaría a la gente a intentarlo siquiera. En lugar de eso, normalmente deberíamos elogiar a las personas que dan pasos en la dirección correcta. Sobre la evaluación moral de las actitudes, véase más adelante la discusión sobre el utilitarismo global frente al híbrido.
 [^12]:
-    [@Railton1988HowThinkingAbout, p. 407].
+    {{< cite Railton1988HowThinkingAbout "p. 407" >}}.
 
-    [@Norcross2020MoralityByDegrees].
+    {{< cite Norcross2020MoralityByDegrees >}}.
 
 [^13]:
-    Para una discusión de este punto de vista, véase [@Pettit1984SatisficingConsequentialism].
+    Para una discusión de este punto de vista, véase {{< cite Pettit1984SatisficingConsequentialism >}}.
 
-[^14]: En particular, los enfoques tradicionales del utilitarismo de suficiencia tienen dificultades para ofrecer una especificación no arbitraria del umbral que hay que cruzar para hacer el bien en cantidad "suficiente", y son vulnerables a la objeción de que permiten la obstaculización gratuita del bien por encima de este umbral. Ambas objeciones se abordan en [@Chappell2019WillpowerSatisficing].
-[^15]: Véase, por ejemplo, [@Chappell2020DeonticPluralismAnd].
-[^16]: [@Norcross2020MoralityByDegrees].
+[^14]: En particular, los enfoques tradicionales del utilitarismo de suficiencia tienen dificultades para ofrecer una especificación no arbitraria del umbral que hay que cruzar para hacer el bien en cantidad "suficiente", y son vulnerables a la objeción de que permiten la obstaculización gratuita del bien por encima de este umbral. Ambas objeciones se abordan en {{< cite Chappell2019WillpowerSatisficing >}}.
+[^15]: Véase, por ejemplo, {{< cite Chappell2020DeonticPluralismAnd >}}.
+[^16]: {{< cite Norcross2020MoralityByDegrees >}}.
 [^17]:
-Neil Sinhababu propone una forma de consecuencialismo escalar que considera que lo correcto y lo incorrecto son en sí mismos cuestiones de grado, pero el punto límite entre ambos depende del contexto de la conversación y no de algo moralmente fundamental (o, de hecho, genuinamente significativo en modo alguno). En consecuencia, parece una variante meramente verbal de la definición que utilizamos aquí.
+    Neil Sinhababu propone una forma de consecuencialismo escalar que considera que lo correcto y lo incorrecto son en sí mismos cuestiones de grado, pero el punto límite entre ambos depende del contexto de la conversación y no de algo moralmente fundamental (o, de hecho, genuinamente significativo en modo alguno). En consecuencia, parece una variante meramente verbal de la definición que utilizamos aquí.
 
-     [@Sinhababu2018ScalarConsequentialismRight].
+    {{< cite Sinhababu2018ScalarConsequentialismRight >}}.
 
-[^18]: [@Chappell2020DeonticPluralismAnd].
-[^19]: [@Jackson1991DecisiontheoreticConsequentialismNearest].
+[^18]: {{< cite Chappell2020DeonticPluralismAnd >}}.
+[^19]: {{< cite Jackson1991DecisiontheoreticConsequentialismNearest >}}.
 [^20]: En línea con la explicación anterior del bienestarismo, los utilitaristas de cualquier tipo entienden el "valor" en términos de bienestar.
 [^21]:
-    [@Bales1971ActutilitarianismAccountRightmaking].
+    {{< cite Bales1971ActutilitarianismAccountRightmaking >}}.
 
-    Para un análisis del punto de vista multinivel en el contexto del _utilitarismo_ de Mill, véase [@Crisp1997RoutledgePhilosophyGuidebook, pp. 105–112].
+    Para un análisis del punto de vista multinivel en el contexto del _utilitarismo_ de Mill, véase {{< cite Crisp1997RoutledgePhilosophyGuidebook "pp. 105–112" >}}.
 
 [^22]:
-    [@Hare1981MoralThinkingIts].
+    {{< cite Hare1981MoralThinkingIts >}}.
 
-    [@Railton1984AlienationConsequentialismDemands].
+    {{< cite Railton1984AlienationConsequentialismDemands >}}.
 
 [^23]:
     Jeremy Bentham rechazó el utilitarismo de un solo nivel, escribiendo que "no es de esperar que este proceso [el cálculo de las consecuencias esperadas] deba seguirse estrictamente antes de cada juicio moral."
 
-    [@Bentham1789IntroductionPrinciplesMorals, ch. 4].
+    {{< cite Bentham1789IntroductionPrinciplesMorals "chap. 4" >}}.
 
     Henry Sidgwick está de acuerdo: escribe que "el fin que da el criterio de rectitud no tiene por qué ser siempre el fin al que conscientemente aspiramos; y si la experiencia demuestra que la felicidad general se alcanzará mejor si los hombres actúan frecuentemente por motivos distintos de la pura filantropía universal, esos otros motivos son preferibles según los principios utilitaristas".
 
-    [@Sidgwick1874MethodsEthics, bk. 4, ch. 1].
+    {{< cite Sidgwick1874MethodsEthics "bk. 4, ch. 1" >}}.
 
-[^24]: [@Sinnott-Armstrong2003Consequentialism].
+[^24]: {{< cite Sinnott-Armstrong2003Consequentialism >}}.
 [^25]:
-Los defensores del consecuencialismo global lo han presentado como una desviación del consecuencialismo de los actos tradicional, pero esta afirmación ha sido objeto de controversia. Para la defensa del consecuencialismo global como un enfoque diferente, véase:
+    Los defensores del consecuencialismo global lo han presentado como una desviación del consecuencialismo de los actos tradicional, pero esta afirmación ha sido objeto de controversia. Para la defensa del consecuencialismo global como un enfoque diferente, véase:
 
-    [@Pettit2000GlobalConsequentialism].
+    {{< cite Pettit2000GlobalConsequentialism >}}.
 
-    [@Ord2009ActionApplyingConsequentialism].
+    {{< cite Ord2009ActionApplyingConsequentialism >}}.
 
     Para críticas, véase:
 
-    [@Mcelwee2019AmbitionsOfConsequentialism].
+    {{< cite Mcelwee2019AmbitionsOfConsequentialism >}}.
 
-    [@Chappell2012FittingnessSoleNormative].
+    {{< cite Chappell2012FittingnessSoleNormative >}}.
 
     Este último artículo sostiene que el consecuencialismo global se entiende mejor como una variante meramente verbal del consecuencialismo de los actos.
 
-[^26]: [@Driver2001ConsequentialistTheoryOf].
-[^27]: [@Hurka2001VirtueViceValue].
-[^28]: Esto refleja la distinción de Parfit entre razones "derivadas del estado" y razones "derivadas del objeto". [@Parfit2011WhatMattersVolume, p. 50].
-[^29]: Para una mayor defensa de este punto de vista, véase [@Chappell2024ConsequentialismCoreAnd].
+[^26]: {{< cite Driver2001ConsequentialistTheoryOf >}}.
+[^27]: {{< cite Hurka2001VirtueViceValue >}}.
+[^28]: Esto refleja la distinción de Parfit entre razones "derivadas del estado" y razones "derivadas del objeto". {{< cite Parfit2011WhatMattersVolume "p. 50" >}}.
+[^29]: Para una mayor defensa de este punto de vista, véase {{< cite Chappell2024ConsequentialismCoreAnd >}}.

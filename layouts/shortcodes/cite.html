@@ -1,0 +1,75 @@
+{{/*
+  Original: https://github.com/loup-brun/hugo-cite/blob/master/layouts/shortcodes/cite.html
+
+  This file was copied from original and heavily modified (simplified)
+
+  Example uses:
+    {{< cite -Singer1972 >}}          --- results in a short reference
+    {{< cite Singer1972 >}}           --- results in full reference
+    {{< cite Singer1972 "pp. 2-3" >}} --- results in full reference followed by `pp. 2-3` ("suffix")
+
+  Update `apa-style.html` template to make references display differently
+
+*/}}
+
+{{ $bibPath := "bib2.json" }}
+{{ $styleFile := "bibliography/apa-style.html" }}
+
+{{ $key := "" }}
+{{ $short := false }}
+{{ $suffix := "" }}
+
+{{ if lt (len .Params) 1 }}
+  <span style="background-color: #f00; color: #fff;">{{ "you used the {{< cite >}} shortcode incorrectly, see `cite.html`" }}</span>
+
+{{ else }}
+
+  {{/*  For short version of citation check if starts with `-`  */}}
+  {{ $key = (.Get 0) }} {{/*  e.g. "Singer1972"  */}}
+
+  {{ if hasPrefix (.Get 0) "-" }}
+    {{ $short = true }}
+    {{ $key = $key | replaceRE "^-(.+)" "$1" }}
+  {{ end }}
+
+  {{ $suffix = string (.Get 1) }} {{/*  grab the suffix string  */}}
+
+  {{/* -------------------- Load the `bib.json` file ------------------------ */}}
+  {{ $bibliography := dict }}
+  {{ with resources.Get $bibPath }}
+    {{ $bibliography = . | transform.Unmarshal }}
+  {{ else }}
+    {{ errorf "Unable to get resource %q" $bibPath }}
+  {{ end }}
+  {{/*  --- file loaded ---  */}}
+
+  {{- $reference := index $bibliography $key -}}
+
+  {{ if eq $reference nil }}
+
+    {{ $errMsg := printf "key `%s` not found in `bib2.json`" $key }}
+    <span style="background-color: #f00; color: #fff;">{{ $errMsg }}</span>
+
+  {{ else }}
+
+    {{ if $short }} {{/* <---- !!! whenever a citation is prepended with `-` for "short" */}}
+
+      {{ if $reference.URL }}
+        <a href="{{$reference.URL}}">
+          <i>{{- title $reference.title -}}</i>
+        </a>
+      {{ else }}
+        <i>{{- title $reference.title -}}</i>
+      {{ end }}
+
+    {{ else }}
+      {{ partial $styleFile $reference }} {{/* <----- !!! THE CITATION STRING OUTPUT !!! */}}
+    {{ end }}
+
+    {{ if $suffix }}
+      {{- $suffix -}} {{/* Add the suffix string, e.g. `pp. 12-13` */}}
+    {{- end -}}
+
+  {{ end }}
+
+{{- end -}}

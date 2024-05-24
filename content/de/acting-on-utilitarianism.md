@@ -306,7 +306,7 @@ Um so viel Gutes wie möglich zu tun, spenden Utilitaristen oft Geld an wirksame
      MacAskill, W. (2014). _[Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Random House. Kapitel 1.
 
 [^30]:
-     N. B.: Professor William MacAskill, Mitverfasser dieser Website, ist Mitgründer von Giving What We Can.
+     N. B.: Professor William MacAskill, Mitverfasser dieser Website, ist Mitgründer von _Giving What We Can_.
 
 [^31]:
      Caviola, L., Schubert, S., Teperman, E., Moss, D., Greenberg, S., & Faber, N. (2020). [Donors vastly underestimate differences in charities’ effectiveness.](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/122268/Caviola%20et%20al._2020_JDM.pdf) _Judgment and Decision Making_. 15(4): 509–516.
@@ -334,4 +334,4 @@ Um so viel Gutes wie möglich zu tun, spenden Utilitaristen oft Geld an wirksame
      Vgl. Todd, B. (2017). [We reviewed over 60 studies about what makes for a dream job. Here’s what we found](https://80000hours.org/career-guide/job-satisfaction/). _80,000 Hours_.
 
 [^39]:
-     N. B.: Professor William MacAskill ist Mitverfasser dieser Website und der Autor mehrerer der aufgeführten Ressourcen über Effektiven Altruismus. Außerdem ist er Mitgründer von 80,000 Hours und Giving What We Can.
+     N. B.: Professor William MacAskill ist Mitverfasser dieser Website und der Autor mehrerer der aufgeführten Ressourcen über Effektiven Altruismus. Außerdem ist er Mitgründer von 80,000 Hours und _Giving What We Can_.

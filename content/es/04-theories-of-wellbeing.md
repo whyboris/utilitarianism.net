@@ -73,9 +73,9 @@ Nozick sugiere que no deberías conectarte a la máquina de experiencias, a pesa
 
 Si la felicidad fuera el único bien básico del bienestar, no importaría que nuestras experiencias sean reales o generadas por la máquina de experiencias sin nuestra intervención (o la de otros). Por consiguiente, si preferimos no conectarnos a la máquina, eso sugiere que valoramos otras cosas además de la felicidad, como la autonomía y las relaciones.
 
-Una forma en que los hedonistas han intentado resistir este argumento es cuestionar la fiabilidad de las intuiciones evocadas por el experimento mental. En algunos casos, la reticencia a conectarse a la máquina puede deberse a una preocupación pragmática ante la posibilidad de que la tecnología falle;[^14] en otros, puede haber razones morales que nos lleven a permanecer desconectados (por ejemplo, para ayudar a los demás en el mundo real), aunque eso signifique sacrificar nuestra propia felicidad. Por último, muchos han argumentado que nuestras respuestas al experimento mental reflejan un [sesgo del *statu quo*](https://altruismoeficaz.net/temas/sesgo-del-statu-quo): si le dices a la gente que _ya_ está en la máquina de experiencias, es mucho más probable que quiera _permanecer_ conectada.[^15]
+Una forma en que los hedonistas han intentado resistir este argumento es cuestionar la fiabilidad de las intuiciones evocadas por el experimento mental. En algunos casos, la reticencia a conectarse a la máquina puede deberse a una preocupación pragmática ante la posibilidad de que la tecnología falle;[^14] en otros, puede haber razones morales que nos lleven a permanecer desconectados (por ejemplo, para ayudar a los demás en el mundo real), aunque eso signifique sacrificar nuestra propia felicidad. Por último, muchos han argumentado que nuestras respuestas al experimento mental reflejan un [sesgo del _statu quo_](https://altruismoeficaz.net/temas/sesgo-del-statu-quo): si le dices a la gente que _ya_ está en la máquina de experiencias, es mucho más probable que quiera _permanecer_ conectada.[^15]
 
-Sin embargo, incluso después de tener en cuenta estos factores de confusión, muchos rechazarán intuitivamente la sugerencia de que una máquina de experiencias pueda proporcionarles todo lo que realmente quieren de la vida. Imaginemos que la persona A vive una vida feliz y plena en el mundo real, cuya experiencia subjetiva se "graba" de algún modo y luego se "reproduce" en B (que está conectado a una máquina de experiencias desde su nacimiento), con el agregado de un acceso extra de leve placer al final.[^16] El hedonismo implica que B tiene la mejor vida de los dos, pero a muchos esto les parecerá inverosímil. Nótese que esta intuición no puede explicarse tan fácilmente como derivada de confusiones pragmáticas o morales, o del mero sesgo del *statu quo*.
+Sin embargo, incluso después de tener en cuenta estos factores de confusión, muchos rechazarán intuitivamente la sugerencia de que una máquina de experiencias pueda proporcionarles todo lo que realmente quieren de la vida. Imaginemos que la persona A vive una vida feliz y plena en el mundo real, cuya experiencia subjetiva se "graba" de algún modo y luego se "reproduce" en B (que está conectado a una máquina de experiencias desde su nacimiento), con el agregado de un acceso extra de leve placer al final.[^16] El hedonismo implica que B tiene la mejor vida de los dos, pero a muchos esto les parecerá inverosímil. Nótese que esta intuición no puede explicarse tan fácilmente como derivada de confusiones pragmáticas o morales, o del mero sesgo del _statu quo_.
 
 Roger Crisp aconseja a los hedonistas que consideren que estas intuiciones son _útiles_ más que _fidedignas_:
 
@@ -151,7 +151,7 @@ Esta preocupación podría llevarnos a adoptar una perspectiva _híbrida_, segú
 
 El hedonismo, las teorías del deseo y las teorías de la lista objetiva del bienestar coinciden en gran medida en la práctica. Esto se debe a que tendemos a desear cosas que (normalmente) valen la pena objetivamente y a que tendemos a ser más felices cuando conseguimos lo que deseamos. También tendemos a modificar nuestros deseos en función de nuestra experiencia de lo que nos hace sentir bien. En consecuencia, los defensores de una teoría del bienestar determinada podrían intentar desacreditar a sus competidores sugiriendo que los valores de la competencia (ya sean el placer, la satisfacción del deseo o los bienes objetivos) tienen un valor meramente _instrumental_, que tiende a producir, o a acompañar, lo que _realmente_ importa.
 
-![](./imagenes/teorias-del-bienestar/figura-1.png)
+![Teorías del bienestar](./imagenes/teorias-del-bienestar/figura-1.png)
 
 Aun así, recurriendo a experimentos mentales simplificados (con máquinas de experiencias, preferencias cambiantes, etc.), podemos desgranar cuidadosamente las implicaciones de las distintas teorías del bienestar y formarnos un juicio ponderado sobre qué teoría nos parece más plausible.
 
@@ -181,114 +181,114 @@ El próximo capítulo aborda la _ética de la población_, y cómo evaluar resul
 
 ### Introducción
 
-- [@Crisp2001Wellbeing].
-- [@Kagan1992LimitsWellbeing].
-- [@Lin2022WellBeingPartOne].
-- [@Lin2022WellBeingPartTwo].
-- [@Parfit1984WhatMakesSomeone].
+- {{< cite Crisp2001Wellbeing >}}.
+- {{< cite Kagan1992LimitsWellbeing >}}.
+- {{< cite Lin2022WellBeingPartOne >}}.
+- {{< cite Lin2022WellBeingPartTwo >}}.
+- {{< cite Parfit1984WhatMakesSomeone >}}.
 
 ### Bienestarismo
 
-- [@Holtug2003WelfarismVeryIdea].
-- [@Moore1996WelfarismMoralTheory].
+- {{< cite Holtug2003WelfarismVeryIdea >}}.
+- {{< cite Moore1996WelfarismMoralTheory >}}.
 
 ### Hedonismo
 
-- [@Moore2004Hedonism].
-- [@Moen2016ArgumentForHedonism].
-- [@Labukt2012HedonicToneHeterogeneity].
-- [@Crisp2006HedonismReconsidered].
-- [@Feldman2004PleasureGoodLife].
+- {{< cite Moore2004Hedonism >}}.
+- {{< cite Moen2016ArgumentForHedonism >}}.
+- {{< cite Labukt2012HedonicToneHeterogeneity >}}.
+- {{< cite Crisp2006HedonismReconsidered >}}.
+- {{< cite Feldman2004PleasureGoodLife >}}.
 
 ### Teorías del deseo
 
-- [@Heathwood2015DesireFulfilmentTheory].
-- [@Singer1993AboutEthics].
-- [@Heathwood2006DesireSatisfactionismAnd].
-- [@Murphy1999SimpleDesireFulfillment].
-- [@Rabinowicz1996ValueBasedPreferences].
+- {{< cite Heathwood2015DesireFulfilmentTheory >}}.
+- {{< cite Singer1993AboutEthics >}}.
+- {{< cite Heathwood2006DesireSatisfactionismAnd >}}.
+- {{< cite Murphy1999SimpleDesireFulfillment >}}.
+- {{< cite Rabinowicz1996ValueBasedPreferences >}}.
 
 ### Teorías de la lista objetiva
 
-- [@Fletcher2013FreshStartFor].
-- [@Griffin1988WellbeingItsMeaning].
-- [@Lin2014PluralismAboutWell].
+- {{< cite Fletcher2013FreshStartFor >}}.
+- {{< cite Griffin1988WellbeingItsMeaning >}}.
+- {{< cite Lin2014PluralismAboutWell >}}.
 
-[^1]: [@Bentham1826TheoriePeinesEt, bk. 3, chap. 1].
-[^2]: Para un panorama más detallado de las teorías del bienestar, véase [@Crisp2001Wellbeing].
+[^1]: {{< cite Bentham1826TheoriePeinesEt "bk. 3, ch. 1" >}}.
+[^2]: Para un panorama más detallado de las teorías del bienestar, véase {{< cite Crisp2001Wellbeing >}}.
 [^3]:
-    Esta clasificación tripartita está muy extendida en la literatura, siguiendo a [@Parfit1984WhatMakesSomeone]. Sin embargo, ha sido criticada: [@Woodard2013ClassifyingTheoriesOf].
+    Esta clasificación tripartita está muy extendida en la literatura, siguiendo a {{< cite Parfit1984WhatMakesSomeone >}}. Sin embargo, ha sido criticada: {{< cite Woodard2013ClassifyingTheoriesOf >}}.
 
-[^4]: Para una exposición y discusión más detallada del hedonismo, véase [@Moore2004Hedonism].
+[^4]: Para una exposición y discusión más detallada del hedonismo, véase {{< cite Moore2004Hedonism >}}.
 [^5]: El hedonismo sobre el bienestar no debe confundirse con el _hedonismo psicológico_, la dudosa afirmación empírica de que los seres humanos siempre persiguen lo que les proporcionará la mayor felicidad.
 [^6]: Este punto de vista se conoce como _[egoísmo ético](https://altruismoeficaz.net/temas/egoismo)_.
-[^7]: Cf. [@Sinhababu2015EpistemicArgumentFor], y su ensayo invitado, [Naturalistic Arguments for Ethical Hedonism](https://utilitarianism.net/guest-essays/naturalistic-arguments-for-ethical-hedonism/).
+[^7]: Cf. {{< cite Sinhababu2015EpistemicArgumentFor >}}, y su ensayo invitado, [Naturalistic Arguments for Ethical Hedonism](https://utilitarianism.net/guest-essays/naturalistic-arguments-for-ethical-hedonism/).
 [^8]:
     Para controlar esto, imaginemos una sociedad de sádicos utilitaristas que están restringidos moralmente en su sadismo de manera estricta: nunca permitirían dañar a otro a menos que ello causara mayores beneficios netos a otros (incluidos ellos mismos). Podríamos incluso imaginar que están dispuestos a someterse ellos mismos a torturas si ello beneficia a un número suficiente de personas. (Quizá echen a suertes la elección de la víctima, en una analogía sádica de la _Lotería de la supervivencia_ de John Harris.) Cuando se estipula que los sádicos tienen conciencia moral de este modo, puede ser más fácil aceptar que su placer sádico cuenta como un bien en sí mismo.
 
-    [@Harris1975SurvivalLottery].
+    {{< cite Harris1975SurvivalLottery >}}.
 
 [^9]: A menos que valoremos más la simplicidad del utilitarismo hedonista que dar cabida a estas intuiciones.
-[^10]: Esta descripción fue adaptada de [@Nozick2003AnarchyStateUtopia, p. 42].
+[^10]: Esta descripción fue adaptada de {{< cite Nozick1974AnarchyStateAnd "p. 42" >}}.
 [^11]: Por supuesto, uno podría estar de acuerdo con el punto general de Nozick al considerar la vida en la máquina de experiencias como superior al menos a _algunas_ vidas “reales” (por ejemplo, algunas vidas infelices), de modo que “conectarse" podría ser aconsejable en algunas circunstancias.
-[^12]: [@Nozick2003AnarchyStateUtopia, p. 43].
+[^12]: {{< cite Nozick1974AnarchyStateAnd "p. 43" >}}.
 [^13]:
     Nozick afirmaba además que queremos vivir "en contacto con la realidad", pero no está claro que haya ninguna pérdida de bienestar por vivir e interactuar con otros en un mundo virtual compartido como el representado en _[The Matrix](https://es.wikipedia.org/wiki/The_Matrix)_. Un mundo virtual compartido podría, a diferencia de la máquina de experiencias, satisfacer muchos de nuestros valores y deseos no hedónicos, como tener amigos y relaciones afectivas.
 
-    [@Nozick2003AnarchyStateUtopia, p. 45].
+    {{< cite Nozick1974AnarchyStateAnd "p. 45" >}}.
 
-[^14]: [@Weijers2014NozickExperienceMachine]. De manera desconcertante, muchos encuestados informaron que preferirían la conexión a la máquina de experiencias al elegir por otra persona, incluso cuando no elegirían esto para sí mismos.
+[^14]: {{< cite Weijers2014NozickExperienceMachine >}}. De manera desconcertante, muchos encuestados informaron que preferirían la conexión a la máquina de experiencias al elegir por otra persona, incluso cuando no elegirían esto para sí mismos.
 [^15]:
     Entre otros, esta sugerencia ha sido realizada por
 
-    [@Kolber1994MentalStatismExperience].
+    {{< cite Kolber1994MentalStatismExperience >}}.
 
-    [@Greene2001PsychologicalPerspectiveNozick].
+    {{< cite Greene2001PsychologicalPerspectiveNozick >}}.
 
-    [@deBrigard2010IfYouIt].
+    {{< cite deBrigard2010IfYouIt >}}.
 
 [^16]:
-    Adaptado de [@Crisp2006HedonismReconsidered, pp. 635–636].
+    Adaptado de {{< cite Crisp2006HedonismReconsidered "pp. 635–636" >}}.
 
-    Las ventajas de los juicios en tercera persona sobre los valores relativos de las vidas dentro y fuera de la máquina de experiencias, para evitar mejor las objeciones, es algo que también destaca [@Lin2016HowToUse].
+    Las ventajas de los juicios en tercera persona sobre los valores relativos de las vidas dentro y fuera de la máquina de experiencias, para evitar mejor las objeciones, es algo que también destaca {{< cite Lin2016HowToUse >}}.
 
-[^17]: [@Crisp2001Wellbeing]. Véase también [@Crisp2006HedonismReconsidered, p. 637].
+[^17]: {{< cite Crisp2001Wellbeing >}}. Véase también {{< cite Crisp2006HedonismReconsidered "p. 637" >}}.
 [^18]: Probablemente también desean su propia felicidad, por supuesto, que cuadra mejor con el escenario (ii). Pero el hecho de que, no obstante, prefieran la perspectiva (i) a la (ii) sugiere que (i) es el resultado que mejor satisface sus deseos _en general_.
 [^19]: Por otro lado, la objeción de los “placeres malvados” que afectaba al hedonismo parecería aplicarse con igual fuerza a las teorías del deseo, ya que estas teorías también implican que el placer sádico puede beneficiar a quien lo experimenta (si es algo que la persona desea).
-[^20]: Esta es la sugerencia de Parfit en <cite>[@Parfit1984ReasonsPersons]</cite>. Para una restricción alternativa basada en la _atracción genuina_, véase [@Heathwood2019WhichDesiresAre].
-[^21]: Según argumenta [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) en su libro de 1859, <cite>[@Mill1859Liberty]</cite>.
+[^20]: Esta es la sugerencia de Parfit en {{< cite -Parfit1984ReasonsPersons >}}. Para una restricción alternativa basada en la _atracción genuina_, véase {{< cite Heathwood2019WhichDesiresAre >}}.
+[^21]: Según argumenta [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) en su libro de 1859, {{< cite -Mill1859Liberty >}}.
 [^22]:
-    [@Rawls1971TheoryJustice, p. 432].
+    {{< cite Rawls1971TheoryJustice "p. 432" >}}.
 
     Algunos teóricos del deseo podrían restringir el enfoque a deseos "calientes", que presentan sus objetos como algo que es de algún modo atractivo para el sujeto, en contraste con las meras motivaciones compulsivas. Pero el contraejemplo puede adaptarse para abarcar la perspectiva del deseo "caliente" de la siguiente manera: supongamos además que el agente sufre de una grave pérdida de memoria, por lo que ni siquiera aprecia cuándo se satisface este deseo. Aún así, es lo que quiere que ocurra, hasta el punto de que preferiría contar hierba (sin darse cuenta) a hacer una pausa para tomar un medicamento que le devolviera el funcionamiento cognitivo y la capacidad de disfrutar (sin generar nuevos deseos más fuertes). De nuevo, esta preferencia parece patológica y del tipo que debe ser ignorada por el bien del sujeto.
 
 [^23]:
     Chris Heathwood subraya además la importancia de tener en cuenta la satisfacción de los deseos del agente a lo largo de toda su vida. A veces valdrá la pena frustrar un deseo para promover mejor otros. Pero podemos dar por sentado que los deseos reales de la persona se satisfacen al máximo dejándola contar distraidamente la hierba.
 
-    [@Heathwood2005ProblemDefectiveDesires].
+    {{< cite Heathwood2005ProblemDefectiveDesires >}}.
 
-[^24]: Adaptado de [@Parfit1984ReasonsPersons, p. 497]. Parfit estipula que el agente tiene garantizado un suministro de droga para toda la vida, y que la droga en cuestión no plantea ningún riesgo para la salud ni efectos secundarios adversos aparte de la adicción extrema.
+[^24]: Adaptado de {{< cite Parfit1984ReasonsPersons "p. 497" >}}. Parfit estipula que el agente tiene garantizado un suministro de droga para toda la vida, y que la droga en cuestión no plantea ningún riesgo para la salud ni efectos secundarios adversos aparte de la adicción extrema.
 [^25]: Ponderados según la fuerza de cada deseo. Por ejemplo, uno puede estar mejor en términos netos si tiene un deseo muy fuerte satisfecho y dos muy débiles frustrados.
 [^26]: Es decir, el mejor futuro en términos del _bienestar de este individuo_. Aún podría tener razones morales para elegir un futuro diferente, ya que ser profesor o bombero seguramente ayudaría más a los demás. Pero incluso la afirmación limitada de que la drogadicción es lo mejor _para este individuo_ parecerá contraintuitiva a muchos.
 [^27]: Los deseos pasados de evitar este resultado tendrían hasta cierto punto un efecto negativo, a menos que se incorpore un "requisito de concurrencia" según el cual sólo cuentan los deseos que existen _al mismo tiempo_ que su satisfacción. Las perspectivas que incorporan este requisito tienen, pues, aún más dificultades para evitar la implicación de que tales satisfacciones de deseo inducidas pueden anular fácilmente las preferencias presentes de la persona.
 [^28]: Esta teoría es temporalmente relativa porque una vez que se ha hecho la elección relevante, la elección futura, que antes era contingente, puede dejar de serlo en cualquier decisión restante, en cuyo caso ya no se descontará. Si, por ejemplo, una persona se vuelve drogadicta satisfecha, el necesitarista puede decir _ahora_ que eso es lo mejor, aunque _antes_ de tomar la decisión hubiera desaconsejado hacerlo (basándose en los deseos previos de la persona). Esto genera una incoherencia temporal incómoda, ya que nuestro teórico parece comprometido con afirmaciones como "Ahora sería malo para ti hacerte drogadicto, pero si sigues adelante y lo haces, ello será, por el contrario, bueno para ti."
 [^29]: Simplemente "puede", porque mucho depende de los detalles. Es perfectamente posible que convertirse en un profesor muy satisfecho también satisfaga mejor _otros_ deseos que uno tiene (en ambos resultados), en cuyo caso incluso el necesitarista podría llegar a la conclusión de que este cambio sería lo mejor para uno en general, a pesar de no dar ningún peso intrínseco al deseo contingente de ser profesor (y dar todo el peso al deseo pasado, y por tanto no contingente, de ser bombero). Pero habrá al menos algunos casos en los que impedir el cambio resulte contraintuitivo debido al descuento.
 [^30]:
-    Entre los teóricos de la lista objetiva se incluyen [@Finnis1980NaturalLawNatural]. [@Griffin1988WellbeingItsMeaning]. [@Fletcher2013FreshStartFor]. [@Lin2014PluralismAboutWell].
+    Entre los teóricos de la lista objetiva se incluyen {{< cite Finnis1980NaturalLawNatural >}}. {{< cite Griffin1988WellbeingItsMeaning >}}. {{< cite Fletcher2013FreshStartFor >}}. {{< cite Lin2014PluralismAboutWell >}}.
 
     Para una visión general y discusión del pluralismo de valores, incluidas las teorías de la lista objetiva, véase
-    [@Mason2006ValuePluralism].
-    [@Lin2015MonismAndPluralism].
+    {{< cite Mason2006ValuePluralism >}}.
+    {{< cite Lin2015MonismAndPluralism >}}.
 
 [^31]: Como memorizar la guía telefónica u otros datos triviales no parece tener ningún valor, es mejor restringirse al conocimiento _significativo_, o al conocimiento de verdades _importantes_.
 [^32]: Recordemos nuestro contraste entre la persona A (con una vida excelente) y la persona B, que experimenta una "repetición" pasiva de la vida de A, con un acceso extra de placer al final. Aunque la vida de B contiene más placer, la vida de A contendrá más valor global si también contamos las relaciones amorosas, los logros, etc., como bienes básicos de bienestar. Aunque la vida de B contiene las mismas experiencias _de_ relaciones amorosas, logros, etc., que la de A, es una "repetición" pasiva, que no involucra elecciones o interacciones reales. Por lo tanto, la vida de B no incluye ninguno de los logros o relaciones reales de A.
-[^33]: Para una exploración del estado actual de las relaciones entre las teorías del bienestar y los puntos de vista metaéticos, véase [@Fletcher2021DearPrudenceNature, chap. 7].
+[^33]: Para una exploración del estado actual de las relaciones entre las teorías del bienestar y los puntos de vista metaéticos, véase {{< cite Fletcher2021DearPrudenceNature "chap. 7" >}}.
 [^34]: Los [expresivistas](https://www.rep.routledge.com/articles/thematic/expressivism/v-1) podrían ofrecer una glosa antirrealista de lo que "realmente importa". Pero entonces pueden extender con la misma comodidad esta glosa al tipo de "objetividad" de primer orden postulada por las teorías de la lista objetiva.
-[^35]: Cf.  [@Bedke2010MightAllNormativity].
+[^35]: Cf.  {{< cite Bedke2010MightAllNormativity >}}.
 [^36]: En efecto, sería menos "misterioso" negar la realidad del valor y afirmar que la valoración subjetiva es _todo lo que hay_ en las inmediaciones. Pero esto sería una forma de nihilismo: que _S_ valore _p_ es un hecho puramente descriptivo de la psicología de _S_. No hay nada inherentemente cargado de valor en esto, a menos que afirmemos además que la valoración subjetiva es algo que realmente _importa_ de alguna manera. Y entonces volvemos a atribuir valor real, con todo el misterio que ello implica.
 [^37]:
     Como escribe Peter Railton: "lo que es intrínsecamente valioso para una persona debe tener una conexión con lo que encontraría convincente o atractivo en algún grado, al menos si fuera racional y consciente. Sería una concepción intolerablemente alienada del bien de alguien imaginar que pudiera dejar de comprometerlo de algún modo."
 
-    [@Railton2003FactsAndValues, p. 47].
+    {{< cite Railton2003FactsAndValues "p. 47" >}}.
 
-[^38]: Tal vez el punto de vista híbrido más conocido se encuentre en  [@Kagan2009WellBeingAs].
+[^38]: Tal vez el punto de vista híbrido más conocido se encuentre en  {{< cite Kagan2009WellBeingAs >}}.
