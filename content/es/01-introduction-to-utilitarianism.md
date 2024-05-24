@@ -8,7 +8,6 @@ weight: 1
 description: "Este capítulo presenta el utilitarismo y sus principales costos y beneficios como teoría moral."
 gradientTop: "#0c3b5b"
 gradientBottom: "#236d9f"
-bibFile: "content/bib.json"
 ---
 
 > *"La tarea del benevolente es sin duda tratar diligentemente de promover el beneficio del mundo y eliminar el daño al mundo y tomar esto como modelo en todo el mundo. ¿Beneficia a la gente? Hazlo. ¿No beneficia a la gente? Detente.*

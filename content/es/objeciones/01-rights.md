@@ -11,7 +11,6 @@ page: 1
 description: "A muchos les parece objetable que el utilitarismo autorice, aparentemente, violaciones flagrantes de derechos en ciertos escenarios hipotéticos, en los que se sacrifica a inocentes en aras del bien mayor. Este artículo explora las mejores maneras en que los utilitaristas podrían responder a esta objeción."
 gradientTop: "#1F1E70"
 gradientBottom: "#371E87"
-bibFile: "content/bib.json"
 ---
 
 {{< TOC >}}

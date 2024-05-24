@@ -9,7 +9,6 @@ weight: 4
 description: "Explora las tres principales teorías del bienestar, o lo que hace que una vida sea buena para el individuo que la vive: el hedonismo, la teoría del deseo y la teoría de la lista objetiva."
 gradientTop: "#084BC7"
 gradientBottom: "#1B7CCC"
-bibFile: "content/bib.json"
 ---
 
 > _"¿A qué se atribuirá el carácter de la utilidad, sino a lo que es fuente de placer?"_

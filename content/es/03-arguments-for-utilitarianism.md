@@ -9,7 +9,6 @@ weight: 3
 description: "Este capítulo explica el equilibrio reflexivo como metodología moral y presenta varios argumentos a favor del utilitarismo respecto de los enfoques morales no consecuencialistas."
 gradientTop: "#012147"
 gradientBottom: "#084BC7"
-bibFile: "content/bib.json"
 ---
 
 {{< TOC >}}

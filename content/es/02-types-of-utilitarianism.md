@@ -9,7 +9,6 @@ weight: 2
 description: "Tras definir el utilitarismo, este capítulo ofrece un análisis detallado de sus cuatro elementos clave (consecuencialismo, bienestarismo, imparcialidad y agregacionismo). Explica la diferencia entre utilitarismo maximizador, satisfaccionista y escalar, y otras distinciones importantes entre las teorías utilitaristas."
 gradientTop: "#236d9f"
 gradientBottom: "#012147"
-bibFile: "content/bib.json"
 ---
 
 {{< TOC >}}

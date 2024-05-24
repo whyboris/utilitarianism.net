@@ -11,7 +11,6 @@ page: 4
 description: "Al ordenarnos elegir imparcialmente el mejor resultado, incluso a un costo significativo para nosotros, el utilitarismo puede parecer una teoría increíblemente exigente. Esta página explora si esta característica del utilitarismo es objetable y, de ser así, cómo podrían responder mejor los defensores de esta teoría."
 gradientTop: "#430A4A"
 gradientBottom: "#5F3091"
-bibFile: "content/bib.json"
 ---
 
 > _El utilitarismo no nos pide que seamos moralmente perfectos. Nos pide que nos enfrentemos a nuestras limitaciones morales y que hagamos todo lo humanamente posible para superarlas._

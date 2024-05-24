@@ -48,32 +48,14 @@
 
 {{- $totalRefs := len $keys -}}
 
-
-{{/* -------------------- BEGIN Bibliography path -------------------- */}}
-{{- $bibliographyPath := "" }}
-
-{{/* Default: check for a JSON file in the leaf bundle. */}}
-{{- $pageResource := $.Page.Resources.GetMatch "*bib*.json" -}}
-{{- if $pageResource }}
-{{- $constructedBibResource := printf "content/%s%s" $.Page.File.Dir $pageResource.Name }}
-{{- $bibliographyPath = $constructedBibResource }}
-{{- end }}
-
-{{- /* If a `bibFile` is specified in the page front-matter, it takes precedence
-  over a page resource. */ -}}
-{{- /* `specifiedBib` must be relative to project root */ -}}
-{{- if $.Page.Params.bibFile }}
-{{- $bibliographyPath = $.Page.Params.bibFile -}}
-{{- end }}
-
-{{- if gt (len $bibliographyPath) 0 -}}{{/* Begin Bibliography Loop */}}
-
+{{/* -------------------- Load the `bib.json` file ------------------------ */}}
+{{ $bibPath := "/bib.json" }}
 {{ $bibliography := dict }}
-{{ with resources.Get $bibliographyPath }}
+{{ with resources.Get $bibPath }}
   {{ $bibliography = . | transform.Unmarshal }}
+{{ else }}
+  {{ errorf "Unable to get resource %q" $bibPath }}
 {{ end }}
-{{/*  {{- $bibliography := getJSON $bibliographyPath -}}  */}}
-{{- /* -------------------- END Bibliography path -------------------- */ -}}
 
 {{- range $keyIndex, $key := $keys -}}   {{- /* Range over citation keys */ -}}
 
@@ -89,10 +71,10 @@
       {{ if $short }} {{/* <---- !!! whenever a citation is prepended with `-` for "short" */}}
         {{ if $reference.URL }}
           <a href="{{$reference.URL}}">
-            <i>{{- $reference.title -}}</i>
+            <i>{{- title $reference.title -}}</i>
           </a>
         {{ else }}
-          <i>{{- $reference.title -}}</i>
+          <i>{{- title $reference.title -}}</i>
         {{ end }}
       {{ else }}
         {{ partial "bibliography/apa-style.html" $reference }} {{/* <----- !!! THE CITATION STRING OUTPUT !!! */}}
@@ -112,8 +94,6 @@
         <span style="background-color: #f00; color: #fff;">{{- $errorNoMatchingKey -}}</span>
       {{- end }}
 
-    {{- end }}
-
-  {{- end -}} {{/* End Bibliography Loop */ -}}
+  {{- end }}
 
 {{- end -}} {{- /* END loop over keys*/ -}}

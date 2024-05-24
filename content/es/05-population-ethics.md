@@ -9,7 +9,6 @@ weight: 5
 description: "La ética de la población aborda cuestiones como el peso de las nuevas vidas en relación con el de las ya existentes, y el modo de equilibrar la cantidad y la calidad de vida (cuando se comparan poblaciones de distinto tamaño). En este capítulo se analizan cinco grandes enfoques de la ética de la población: la perspectiva total, la perspectiva promedio, las teorías del valor variable, las teorías del nivel crítico (y del rango crítico) y las perspectivas centradas en las personas afectadas."
 gradientTop: "#1B7CCC"
 gradientBottom: "#089FD1"
-bibFile: "content/bib.json"
 ---
 
 ## Introducción

@@ -6,7 +6,6 @@ date: 2023-01-29
 draft: false
 menu: "acting"
 weight: 5
-bibFile: "content/bib.json"
 ---
 
 > _Crea toda la felicidad que seas capaz de crear; elimina toda la miseria que seas capaz de eliminar. Cada día te permitirá, te invitará a añadir algo al placer de los demás, o a disminuir algo de sus penas."_ \

@@ -9,7 +9,6 @@ weight: 6
 description: "El utilitarismo tiene importantes implicaciones sobre cómo debemos pensar en llevar una vida ética. A pesar de no dar ningún peso intrínseco a las restricciones deónticas, en la práctica apoya muchas prohibiciones y virtudes de sentido común. Su principal diferencia práctica radica en su énfasis en hacer el bien positivamente, de forma más amplia y eficiente de lo que la gente suele priorizar."
 gradientTop: "#089FD1"
 gradientBottom: "#305D9C"
-bibFile: "content/bib.json"
 ---
 
 > ¿Debemos extender nuestra preocupación a todos los seres capaces de sentir placer y dolor cuyos sentimientos se ven afectados por nuestra conducta? ¿O debemos limitar nuestra perspectiva a la felicidad humana? El primer punto de vista es el adoptado por... la escuela utilitarista... [P]arece arbitrario e irrazonable excluir del objetivo final, así concebido, cualquier placer de cualquier ser sintiente.

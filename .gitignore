@@ -12,7 +12,7 @@ dist
 
 **/.DS_store
 
-content/bib.json
+assets/bib.json
 
 images/Global-Income-Distribution/.ipynb_checkpoints
 images/Global-Income-Distribution/*.svg
