@@ -12,6 +12,7 @@
     "start": "hugo serve",
     "build": "just build",
     "search": "pagefind --site public",
+    "fix-bib": "node scripts/fixbib.js",
     "pdf-en":   "cd pdf && website2pdf --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer --safe-title --output-dir ./temp -s http://localhost:1313/sitemap.xml && npm run move-pdf",
     "pdf-es":   "cd pdf && website2pdf --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer --safe-title --output-dir ./temp -s http://localhost:1314/sitemap.xml && npm run move-pdf",
     "pdf-de":   "cd pdf && website2pdf --marginTop 50px --marginBottom 50px --marginLeft 40px --marginRight 40px --display-header-footer --safe-title --output-dir ./temp -s http://localhost:1315/sitemap.xml && npm run move-pdf",

@@ -1,86 +1,75 @@
 {{/*
   Original: https://github.com/loup-brun/hugo-cite/blob/master/layouts/shortcodes/cite.html
 
-  This file was copied and modified (simplified)
+  This file was copied from original and heavily modified (simplified)
 
-  Note: adding `-` in front of a reference only prints the title (e.g. {{< cite "-Singer1972" >}})
+  Example uses:
+    {{< cite -Singer1972 >}}          --- results in a short reference
+    {{< cite Singer1972 >}}           --- results in full reference
+    {{< cite Singer1972 "pp. 2-3" >}} --- results in full reference followed by `pp. 2-3` ("suffix")
+
+  Update `apa-style.html` template to make references display differently
 
 */}}
 
-{{ $errorMissingValue := "1 or 2 values must be supplied with this shortcode. You provided %d params. The first is required and should match an ID in the CSL-JSON bibliography file, the second is optional, and should be a page number or range of page numbers. Example: {{< cite \"Faure 1909\" \"304\" >}}" }}
-{{ $errorMissingNamedParams := "You must at least provide a citation key. It is required and should match an ID in the CSL-JSON bibliography file. Example: {{< cite key=\"Faure 1909\" >}}" }}
-{{ $defaultErrString := "No matching key was found for `%s` in the references. Please make sure to provide an available ID in your `bib.json` file." -}}
+{{ $bibPath := "bib2.json" }}
+{{ $styleFile := "bibliography/apa-style.html" }}
 
 {{ $key := "" }}
-{{ $keys := slice "" ";" }}
-{{ $keySeparator := ";" }}
-
-{{ $pages := "" }}
 {{ $short := false }}
+{{ $suffix := "" }}
 
-{{/* -------------------- Handle positional params ------------------------ */}}
 {{ if lt (len .Params) 1 }}
-  {{ errorf $errorMissingValue (len .Params) }}
+  <span style="background-color: #f00; color: #fff;">{{ "you used the {{< cite >}} shortcode incorrectly, see `cite.html`" }}</span>
+
 {{ else }}
-  {{ $key = (.Get 0) | replaceRE "^-(.+)" "$1" }}
-  {{ $keys = split $key $keySeparator }}
 
   {{/*  For short version of citation check if starts with `-`  */}}
+  {{ $key = (.Get 0) }} {{/*  e.g. "Singer1972"  */}}
+
   {{ if hasPrefix (.Get 0) "-" }}
     {{ $short = true }}
+    {{ $key = $key | replaceRE "^-(.+)" "$1" }}
   {{ end }}
 
-  {{/*  grab the pages string  */}}
-  {{ $pages = string (.Get 1) }}
+  {{ $suffix = string (.Get 1) }} {{/*  grab the suffix string  */}}
 
-  {{ $totalRefs := len $keys }}
+  {{/* -------------------- Load the `bib.json` file ------------------------ */}}
+  {{ $bibliography := dict }}
+  {{ with resources.Get $bibPath }}
+    {{ $bibliography = . | transform.Unmarshal }}
+  {{ else }}
+    {{ errorf "Unable to get resource %q" $bibPath }}
+  {{ end }}
+  {{/*  --- file loaded ---  */}}
 
-{{/* -------------------- Load the `bib.json` file ------------------------ */}}
-{{ $bibPath := "/bib.json" }}
-{{ $bibliography := dict }}
-{{ with resources.Get $bibPath }}
-  {{ $bibliography = . | transform.Unmarshal }}
-{{ else }}
-  {{ errorf "Unable to get resource %q" $bibPath }}
-{{ end }}
+  {{- $reference := index $bibliography $key -}}
 
-{{- range $keyIndex, $key := $keys -}}   {{- /* Range over citation keys */ -}}
+  {{ if eq $reference nil }}
 
-  {{- range where $bibliography "id" "eq" $key -}}
-    {{- $currentRef := . -}}
+    {{ $errMsg := printf "key `%s` not found in `bib2.json`" $key }}
+    <span style="background-color: #f00; color: #fff;">{{ $errMsg }}</span>
 
-      {{/* Add to the collection of cited references */}}
-      {{- $.Page.Scratch.SetInMap "citedBib" $key $currentRef -}}
+  {{ else }}
 
-      {{- $reference := . -}}
+    {{ if $short }} {{/* <---- !!! whenever a citation is prepended with `-` for "short" */}}
 
-
-      {{ if $short }} {{/* <---- !!! whenever a citation is prepended with `-` for "short" */}}
-        {{ if $reference.URL }}
-          <a href="{{$reference.URL}}">
-            <i>{{- title $reference.title -}}</i>
-          </a>
-        {{ else }}
+      {{ if $reference.URL }}
+        <a href="{{$reference.URL}}">
           <i>{{- title $reference.title -}}</i>
-        {{ end }}
+        </a>
       {{ else }}
-        {{ partial "bibliography/apa-style.html" $reference }} {{/* <----- !!! THE CITATION STRING OUTPUT !!! */}}
+        <i>{{- title $reference.title -}}</i>
       {{ end }}
 
-      {{/*  Below is only to add pages at the end of the reference  */}}
-      {{ if $pages }}
-        {{- $pages -}}
-      {{- end -}}
-      {{/*  End of inserting page numbers  */}}
+    {{ else }}
+      {{ partial $styleFile $reference }} {{/* <----- !!! THE CITATION STRING OUTPUT !!! */}}
+    {{ end }}
 
-      {{- if lt (add 1 $keyIndex) $totalRefs -}};&#32;{{- end -}}
+    {{ if $suffix }}
+      {{- $suffix -}} {{/* Add the suffix string, e.g. `pp. 12-13` */}}
+    {{- end -}}
 
-      {{- else -}} {{- /* Did not find reference with matching key */ -}}
-        {{- $particularKeyErr := printf $defaultErrString $key -}}
-        {{- $errorNoMatchingKey := $particularKeyErr -}}
-        <span style="background-color: #f00; color: #fff;">{{- $errorNoMatchingKey -}}</span>
-      {{- end }}
+  {{ end }}
 
-  {{- end }}
-
-{{- end -}} {{- /* END loop over keys*/ -}}
+{{- end -}}

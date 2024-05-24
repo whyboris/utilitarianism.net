@@ -170,7 +170,7 @@ Copy [stable.bib](https://github.com/tlon-team/babel-refs/tree/main/bib) to your
 pandoc stable.bib -t csljson -o bib.json
 ```
 
-Place the file in `/assets`, and you are done.
+Place the file in `/assets`, and run `npm run fix-bib` which will generate `bib2.json` for easier use by our system.
 
 We used the code from [hugo-cite](https://github.com/loup-brun/hugo-cite). Just these two files were copied from the above repository and `cite.html` was modified heavily for our use case:
 
