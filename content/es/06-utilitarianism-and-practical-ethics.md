@@ -196,16 +196,16 @@ El siguiente capítulo analiza algunas teorías rivales importantes que pueden s
 - {{< cite Mackie1984RightsUtilityAnd >}}.
 - {{< cite Pettit1986RestrictiveConsequentialism >}}.
 
-[^1]: {{< cite Sidgwick1907MethodsEthics, p. 414 >}}.
+[^1]: {{< cite Sidgwick1907MethodsEthics "p. 414" >}}.
 [^2]: Para un análisis de las exigencias de la moral en el contexto de la mitigación de la pobreza global, véase {{< cite Singer2009LifeYouCan >}}.
 [^3]: {{< cite GiveWell2010YourDollarGoes >}}.
 [^4]: {{< cite Berman2018ImpedimentsEffectiveAltruism >}}.
 [^5]: Los argumentos a favor de la neutralidad respecto a las causas se exponen en {{< cite SentiencePolitics2016BenefitsCauseneutrality >}}.
 [^6]: {{< cite Ord2013MoralImperativeCosteffectiveness >}}.
 [^7]: Cf. {{< cite Singer1981ExpandingCircleEthics >}}.
-[^8]: {{< cite Singer2011PracticalEthics, p. 50 >}}.
-[^9]: Cf. {{< cite MacAskill2015DoingGoodBetter, chap. 1 >}}.
-[^10]: {{< cite Singer2002AnimalLiberation, p. 9 >}}. De hecho, hay evidencia psicológica que sugiere que el especismo va de la mano de otras actitudes discriminatorias como el racismo, el sexismo y la homofobia: Cf. {{< cite Caviola2019MoralStandingAnimals >}}.
+[^8]: {{< cite Singer2011PracticalEthics "p. 50" >}}.
+[^9]: Cf. {{< cite MacAskill2015DoingGoodBetter "chap. 1" >}}.
+[^10]: {{< cite Singer2002AnimalLiberation "p. 9" >}}. De hecho, hay evidencia psicológica que sugiere que el especismo va de la mano de otras actitudes discriminatorias como el racismo, el sexismo y la homofobia: Cf. {{< cite Caviola2019MoralStandingAnimals >}}.
 [^11]: Por ejemplo, véase {{< cite Low2012CambridgeDeclarationConsciousness >}}.
 [^12]: {{< cite Tomasik2019HowManyWild >}}.
 [^13]:
@@ -214,7 +214,7 @@ El siguiente capítulo analiza algunas teorías rivales importantes que pueden s
     Para profundizar en este tema recomendamos esta entrevista a la investigadora Persis Eskander: {{< cite Wiblin2019AnimalsWildOften >}}.
 [^15]: {{< cite Adams2008LongtermAstrophysicalProcesses >}}.
 [^16]: Para un debate sobre esta idea y sus supuestos subyacentes, véase {{< cite Beckstead2013OverwhelmingImportanceShaping >}}.
-[^17]: Cf. {{< cite Greaves2021CaseStrongLongtermism, sec. 4.1 >}}.
+[^17]: Cf. {{< cite Greaves2021CaseStrongLongtermism "sec. 4.1" >}}.
 [^18]: Para un análisis detallado de los riesgos existenciales y la importancia moral del futuro a largo plazo de la humanidad, véase {{< cite Ord2020PrecipiceExistentialRisk >}}.
 [^19]: Para un artículo clásico sobre la importancia de reducir el riesgo existencial, véase {{< cite Bostrom2013ExistentialRiskPrevention >}}.
 [^20]: Nótese que el profesor William MacAskill, coautor de este sitio web, también es coautor de este artículo.
