@@ -7,46 +7,35 @@
 
 */}}
 
-{{- $errorMissingValue := "1 or 2 values must be supplied with this shortcode. You provided %d params. The first is required and should match an ID in the CSL-JSON bibliography file, the second is optional, and should be a page number or range of page numbers. Example: {{< cite \"Faure 1909\" \"304\" >}}" -}}
-{{- $errorMissingNamedParams := "You must at least provide a citation key. It is required and should match an ID in the CSL-JSON bibliography file. Example: {{< cite key=\"Faure 1909\" >}}" -}}
+{{ $errorMissingValue := "1 or 2 values must be supplied with this shortcode. You provided %d params. The first is required and should match an ID in the CSL-JSON bibliography file, the second is optional, and should be a page number or range of page numbers. Example: {{< cite \"Faure 1909\" \"304\" >}}" }}
+{{ $errorMissingNamedParams := "You must at least provide a citation key. It is required and should match an ID in the CSL-JSON bibliography file. Example: {{< cite key=\"Faure 1909\" >}}" }}
 
-{{- $defaultErrString := "No matching key was found for `%s` in the references. Please make sure to provide an available ID in your `bib.json` file." -}}
+{{ $defaultErrString := "No matching key was found for `%s` in the references. Please make sure to provide an available ID in your `bib.json` file." -}}
 
 {{/* Set variables*/}}
-{{- $key := "" -}}
-{{- $keys := slice "" ";" -}}
-{{- $pages := slice "" ";" -}}
-{{- $keySeparator := ";" -}}
+{{ $key := "" }}
+{{ $keys := slice "" ";" }}
+{{ $pages := slice "" ";" }}
+{{ $keySeparator := ";" }}
 
 {{ $short := false }}
 
-{{/* -------------------- Named/Positional Params -------------------- */}}
-{{- if .IsNamedParams }}
-  {{/* -------------------- (a) Named -------------------------------- */}}
-  {{- if not (.Get "key") -}}
-    {{- errorf $errorMissingNamedParams -}}
-  {{- else -}}
-    {{- $key = .Get "key" -}}
-    {{- $pages = split (.Get "pages" | string) ";" -}}
-  {{- end -}}
-{{- else -}}
-  {{/* -------------------- (b) Positional --------------------------- */}}
-  {{- if lt (len .Params) 1 -}}
-    {{- errorf $errorMissingValue (len .Params) -}}
-  {{- else -}}
-  {{- $key = (.Get 0) | replaceRE "^-(.+)" "$1" -}}
-  {{ $keys = split $key $keySeparator -}}
+{{/* -------------------- Handle positional params ------------------------ */}}
+{{ if lt (len .Params) 1 }}
+  {{ errorf $errorMissingValue (len .Params) }}
+{{ else }}
+  {{ $key = (.Get 0) | replaceRE "^-(.+)" "$1" }}
+  {{ $keys = split $key $keySeparator }}
+
+  {{/*  For short version of citation check if starts with `-`  */}}
+  {{ if hasPrefix (.Get 0) "-" }}
+    {{ $short = true }}
+  {{ end }}
 
   {{/*  grab the pages string  */}}
-  {{- $pages = string (.Get 1) -}}
+  {{ $pages = string (.Get 1) }}
 
-  {{/*  For short version of citation  */}}
-  {{- if (findRE "^-(.+)" (.Get 0) 1) -}}
-    {{ $short = true }}
-  {{- end -}}
-{{- end -}}
-
-{{- $totalRefs := len $keys -}}
+  {{ $totalRefs := len $keys }}
 
 {{/* -------------------- Load the `bib.json` file ------------------------ */}}
 {{ $bibPath := "/bib.json" }}
