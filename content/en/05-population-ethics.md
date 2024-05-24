@@ -87,7 +87,7 @@ In world A, everyone’s well-being is very high. World A+ contains (i) one popu
 
 #### Attacking the Alternatives
 
-A final response is to note that counterintuitive implications are by no means unique to the total view. Several impossibility theorems prove that it's _logically_ _impossible_ for any population ethical theory to satisfy every intuitively desirable principle and axiom.[^22] One such axiom is to avoid the repugnant conclusion. However, some philosophers argue that avoiding the repugnant conclusion is not worth the theoretical costs of giving up other axioms or fundamental principles. Accepting the repugnant conclusion provides an easy response to the impossibility theorems since the total view is consistent with all the other axioms of these theorems.[^23] In light of this, a growing number of ethicists have come to accept and defend the repugnant conclusion and the total view.[^24]
+A final response is to note that counterintuitive implications are by no means unique to the total view. Several impossibility theorems prove that it's _logically_ _impossible_ for any population ethical theory to satisfy every intuitively desirable principle and axiom.[^19] One such axiom is to avoid the repugnant conclusion. However, some philosophers argue that avoiding the repugnant conclusion is not worth the theoretical costs of giving up other axioms or fundamental principles. Accepting the repugnant conclusion provides an easy response to the impossibility theorems since the total view is consistent with all the other axioms of these theorems.[^20] In light of this, a growing number of ethicists have come to accept and defend the repugnant conclusion and the total view.[^21]
 
 To evaluate this comparative claim, we must consider the merits (and demerits) of the competing views. Philosophers have proposed several alternatives to the total view that seek to avoid (at least the original version of) the repugnant conclusion. These theories include the _average view_, _variable value theories_, _critical level and range theories,_ and _person-affecting views_.
 
@@ -97,7 +97,7 @@ According to the _average view_ of population ethics:
 
 > **One outcome is better than another if and only if it contains greater average well-being.**
 
-Since the average view aims only to improve the _average well-being level_, it disregards—in contrast to the total view—the number of individuals that exist.[^25] Consequently, the average view is represented by a simple value function, with average well-being level Q:
+Since the average view aims only to improve the _average well-being level_, it disregards—in contrast to the total view—the number of individuals that exist.[^22] Consequently, the average view is represented by a simple value function, with average well-being level Q:
 
 **Value<sub>average view</sub> = Q**
 
@@ -105,9 +105,9 @@ The average view avoids the repugnant conclusion because it entails that reducti
 
 However, the average view has very little support among moral philosophers since it suffers from severe problems.
 
-First, consider a world inhabited by a single person enduring excruciating suffering. The average view entails that we could improve this world by creating a million new people whose lives were also filled with excruciating suffering, if the suffering of the new people was ever-so-slightly less bad than the suffering of the original person.[^26]
+First, consider a world inhabited by a single person enduring excruciating suffering. The average view entails that we could improve this world by creating a million new people whose lives were also filled with excruciating suffering, if the suffering of the new people was ever-so-slightly less bad than the suffering of the original person.[^23]
 
-Second, the average view entails the _sadistic conclusion_:[^27]
+Second, the average view entails the _sadistic conclusion_:[^24]
 
 > **It can sometimes be better to create lives with negative well-being than to create lives with positive well-being from the same starting point, all else equal.**
 
@@ -121,17 +121,17 @@ Third, the average view prefers arbitrarily small populations over very large po
 
 To compromise between the total and average views, some philosophers have proposed _variable value_ _theories_. According to these theories, the marginal value of creating additional people diminishes—the larger the existing population, the smaller the value of adding another person.
 
-The simplest variable value theories may be represented by the following value function, with number of individuals N and average quality of life Q:[^28]
+The simplest variable value theories may be represented by the following value function, with number of individuals N and average quality of life Q:[^25]
 
 > **Value<sub>variable value</sub> = Q \* f(N)**
 
-This diminishing marginal value allows variable value theories to avoid some of the weaknesses of the total and average views. For instance, Hilary Greaves writes that:[^29]
+This diminishing marginal value allows variable value theories to avoid some of the weaknesses of the total and average views. For instance, Hilary Greaves writes that:[^26]
 
 > Arguably, [the average view] is intuitively less plausible for small populations: if there are otherwise only ten persons who will ever live, for instance, it (perhaps) seems more worthwhile to add an additional person with a given positive well-being level than if there are already 100 billion persons.
 
-At first glance, it's an attractive feature of variable value theories that they approximate the total view at small population sizes and the average view at large population sizes since they may thereby avoid the repugnant conclusion.[^30]
+At first glance, it's an attractive feature of variable value theories that they approximate the total view at small population sizes and the average view at large population sizes since they may thereby avoid the repugnant conclusion.[^27]
 
-However, variable value theories face problems of their own. First, in approximating the average view at large population sizes, they risk susceptibility to the same objections. So, to avoid approving of adding (above-average) negative lives to the world, variable value theorists must invoke an asymmetry according to which only the value of positive lives diminishes but not the disvalue of negative lives. Adding negative lives to a world always makes the world non-instrumentally worse, on such a view, even if it happens to improve the average. However, such an asymmetry leads to an analogue of what Parfit calls the _absurd conclusion_:[^31] that a population considered to be good, with many happy and few miserable lives, can be turned into a population considered to be bad merely by proportionally increasing the number of both positive and negative lives.[^32] To escape this objection, variable value theorists must allow additional good lives to sometimes _compensate_ for additional bad lives, without introducing further unintended consequences that undermine their view. This is no easy task.[^33]
+However, variable value theories face problems of their own. First, in approximating the average view at large population sizes, they risk susceptibility to the same objections. So, to avoid approving of adding (above-average) negative lives to the world, variable value theorists must invoke an asymmetry according to which only the value of positive lives diminishes but not the disvalue of negative lives. Adding negative lives to a world always makes the world non-instrumentally worse, on such a view, even if it happens to improve the average. However, such an asymmetry leads to an analogue of what Parfit calls the _absurd conclusion_:[^28] that a population considered to be good, with many happy and few miserable lives, can be turned into a population considered to be bad merely by proportionally increasing the number of both positive and negative lives.[^29] To escape this objection, variable value theorists must allow additional good lives to sometimes _compensate_ for additional bad lives, without introducing further unintended consequences that undermine their view. This is no easy task.[^30]
 
 ## Critical Level and Critical Range Theories
 
@@ -139,7 +139,7 @@ According to critical level theories:
 
 > **Adding an individual makes an outcome better to the extent that their well-being exceeds some critical level.**
 
-Consequently, an outcome can be made worse not only by bringing into existence an individual with negative well-being, but also if their well-being is positive yet below the critical level.[^34]
+Consequently, an outcome can be made worse not only by bringing into existence an individual with negative well-being, but also if their well-being is positive yet below the critical level.[^31]
 
 The total value of an outcome, according to critical level theories, can be represented by the following value function, with number of individuals N, average quality of life Q, and critical level α:
 
@@ -149,60 +149,60 @@ By looking at this value function, we may observe that the total view of populat
 
 Critical level theories avoid the repugnant conclusion if their critical level is greater than the well-being level that makes a life “barely worth living”. This follows from the definition of critical level theories since only adding people whose welfare exceeds the critical level can compensate for reductions in the average quality of life.
 
-However, a positive critical level entails an especially appalling version of the sadistic conclusion, which gets worse the higher the chosen critical level.[^35] This is because it implies that it's preferable for a world to contain individuals with negative well-being—lives not worth living, such as lives of constant torture—than to contain vastly more individuals with lives that are worth living yet below the critical level. Graphically illustrated, critical level theories counterintuitively imply that world A (with a sufficiently large population) is _worse_ than world B.
+However, a positive critical level entails an especially appalling version of the sadistic conclusion, which gets worse the higher the chosen critical level.[^32] This is because it implies that it's preferable for a world to contain individuals with negative well-being—lives not worth living, such as lives of constant torture—than to contain vastly more individuals with lives that are worth living yet below the critical level. Graphically illustrated, critical level theories counterintuitively imply that world A (with a sufficiently large population) is _worse_ than world B.
 
 ![Critical level theory](/img/population-ethics-5.svg "Critical level theory")
 
-To avoid this unacceptable result, we may move to a _critical range_ theory,[^36] according to which:
+To avoid this unacceptable result, we may move to a _critical range_ theory,[^33] according to which:
 
 > **Adding an individual makes an outcome better to the extent that their well-being exceeds the upper end of a _critical range_, and makes an outcome worse to the extent that their well-being falls below the lower limit of the critical range.**
 
 By setting the lower limit of the critical range to include all neutral lives that are neither good nor bad for the person living them, critical range theories can avoid the sadistic conclusion. And by setting the upper limit of the range at the point where lives become clearly worthwhile, these theories avoid the repugnant conclusion.
 
-What about lives that fall within the critical range? Life within this range may strike us as _meh_:[^37] neither good nor bad, but also not precisely equal to _zero_ in value, either. After all, some meh lives (those toward the upper end of the range) are better than others (those toward the lower end), so it cannot be that adding any life in this range results in an equally valuable outcome. Instead, the outcome’s value must be _incomparable_ or _on a par_ with that of the prior state: neither better, nor worse, nor precisely equal in value.[^38] Note that it may be better to add an upper-range meh life to the world than to add a lower-range meh life, even though adding _either_ life is merely “meh”, or results in an outcome that is incomparable with the world in which neither life is added.[^39]
+What about lives that fall within the critical range? Life within this range may strike us as _meh_:[^34] neither good nor bad, but also not precisely equal to _zero_ in value, either. After all, some meh lives (those toward the upper end of the range) are better than others (those toward the lower end), so it cannot be that adding any life in this range results in an equally valuable outcome. Instead, the outcome’s value must be _incomparable_ or _on a par_ with that of the prior state: neither better, nor worse, nor precisely equal in value.[^35] Note that it may be better to add an upper-range meh life to the world than to add a lower-range meh life, even though adding _either_ life is merely “meh”, or results in an outcome that is incomparable with the world in which neither life is added.[^36]
 
-To further develop this view (along lines suggested by Johan Gustafsson), we may think of the value of a life as having two dimensions.[^40] In addition to the familiar negative-vs-positive dimension, there is a second dimension of what we might call _value blur_. When there is zero blur, the resulting values are perfectly precise and comparable: any positive life, however barely so, then constitutes an intrinsic improvement to the world. But as we increase blur, the resulting value becomes increasingly “meh”, or _incomparable_. If life's value had infinite blur, then _all_ lives would be meh. (We will consider such a view in the next section.) Alternatively, if we think that life's value admits of just moderate blur, then sufficient positive (or negative) value may overcome this blurriness to qualify the life in question as one that would be in itself good (or bad) to add to the world.
+To further develop this view (along lines suggested by Johan Gustafsson), we may think of the value of a life as having two dimensions.[^37] In addition to the familiar negative-vs-positive dimension, there is a second dimension of what we might call _value blur_. When there is zero blur, the resulting values are perfectly precise and comparable: any positive life, however barely so, then constitutes an intrinsic improvement to the world. But as we increase blur, the resulting value becomes increasingly “meh”, or _incomparable_. If life's value had infinite blur, then _all_ lives would be meh. (We will consider such a view in the next section.) Alternatively, if we think that life's value admits of just moderate blur, then sufficient positive (or negative) value may overcome this blurriness to qualify the life in question as one that would be in itself good (or bad) to add to the world.
 
-The key implication of this critical range theory (with moderate value blur) is that an intrinsically good life must contain _significantly_ more welfare than an intrinsically bad life, because between these two levels there is a moderate range of lives that are meh, as illustrated below:[^41]
+The key implication of this critical range theory (with moderate value blur) is that an intrinsically good life must contain _significantly_ more welfare than an intrinsically bad life, because between these two levels there is a moderate range of lives that are meh, as illustrated below:[^38]
 
 ![Critical range theory](/img/population-ethics-6.svg "Critical range theory")
 
-The resulting view, while theoretically complex, seems less susceptible to severe objections than the other views we've surveyed. In particular, it can simultaneously avoid both the repugnant conclusion and the sadistic conclusion. But it cannot accommodate the strong “anti-repugnance” intuition that the idyllic world A is strictly _better_ than the repugnant world Z.[^42] Critical range theories instead regard the two worlds as incomparable, due to the immense value blur introduced by all those meh lives in world Z.
+The resulting view, while theoretically complex, seems less susceptible to severe objections than the other views we've surveyed. In particular, it can simultaneously avoid both the repugnant conclusion and the sadistic conclusion. But it cannot accommodate the strong “anti-repugnance” intuition that the idyllic world A is strictly _better_ than the repugnant world Z.[^39] Critical range theories instead regard the two worlds as incomparable, due to the immense value blur introduced by all those meh lives in world Z.
 
 ## Person-Affecting Views and the Procreative Asymmetry
 
-All of the theories discussed above—the total view, the average view, variable value theories, and critical level and range theories—are _impersonal theories_.[^43]
+All of the theories discussed above—the total view, the average view, variable value theories, and critical level and range theories—are _impersonal theories_.[^40]
 
 |   **Impersonal theories**    | **Value function (value of a particular state of the world)** |
 | :--------------------------: | :-----------------------------------------------------------: |
 |          Total view          |                          **N \* Q**                           |
 |         Average view         |                             **Q**                             |
 |    Variable value theory     |                         **f(N) \* Q**                         |
-|  Critical level theory[^44]  |                       **N \* (Q - α)**                        |
+|  Critical level theory[^41]  |                       **N \* (Q - α)**                        |
 
 > **N** = number of persons; **Q** = average well-being level; **α** = critical level; **f()** = strictly increasing and strictly concave function with a horizontal asymptote
 
-Impersonal theories imply that creating an additional person with a (sufficiently) good life makes the world better, other things being equal.[^45] However, some people reject this implication. They say that there are no moral reasons to bring into existence additional people—at least no reasons based on the well-being these people would enjoy if created. Jan Narveson put this idea in slogan form: “We are in favour of making people happy, but neutral about making happy people”.[^46] _Person-affecting views_ of population ethics attempt to capture this intuition of neutrality, and are especially common among non-consequentialists.[^47]
+Impersonal theories imply that creating an additional person with a (sufficiently) good life makes the world better, other things being equal.[^42] However, some people reject this implication. They say that there are no moral reasons to bring into existence additional people—at least no reasons based on the well-being these people would enjoy if created. Jan Narveson put this idea in slogan form: “We are in favour of making people happy, but neutral about making happy people”.[^43] _Person-affecting views_ of population ethics attempt to capture this intuition of neutrality, and are especially common among non-consequentialists.[^44]
 
 To this end, standard person-affecting views accept the _person-affecting restriction_:
 
-> **An outcome cannot be better (or worse) than another unless it is better (or worse) _for_ someone.**[^48]
+> **An outcome cannot be better (or worse) than another unless it is better (or worse) _for_ someone.**[^45]
 
-At first glance, this principle sounds eminently plausible. When considering only fixed-population cases, it amounts to an expression of _[welfarism](/types-of-utilitarianism#welfarism)_: the view that well-being is the only value. But problems arise when comparing outcomes in which different people exist, especially if combined with the principle of _Existence Incomparability_:[^49]
+At first glance, this principle sounds eminently plausible. When considering only fixed-population cases, it amounts to an expression of _[welfarism](/types-of-utilitarianism#welfarism)_: the view that well-being is the only value. But problems arise when comparing outcomes in which different people exist, especially if combined with the principle of _Existence Incomparability_:[^46]
 
 > **If a person exists in one outcome but not the other, it is not possible to compare their well-being across these outcomes.**
 
-According to this principle, since the value of existence and non-existence are assumed to be incomparable, existing cannot be better (or worse) for you. When combined with the person-affecting restriction, we get the result that your existence likewise cannot make the outcome better (or worse). But we commonly think that lives of unrelenting suffering would be worse than not existing at all. And an outcome containing additional suffering lives would surely be, in that respect, a worse outcome.[^50]
+According to this principle, since the value of existence and non-existence are assumed to be incomparable, existing cannot be better (or worse) for you. When combined with the person-affecting restriction, we get the result that your existence likewise cannot make the outcome better (or worse). But we commonly think that lives of unrelenting suffering would be worse than not existing at all. And an outcome containing additional suffering lives would surely be, in that respect, a worse outcome.[^47]
 
 To accommodate these intuitions, person-affecting theorists must allow that _intrinsically bad states_ (like undeserved suffering) can count as _non-comparative harms_. Even if, strictly speaking, we cannot compare existence to non-existence, we can certainly hold that a life of unrelenting suffering is _bad for you_. The person-affecting restriction can then be tweaked to specify that one outcome can be worse than another if _either_ it's worse for someone _or_ it's bad for someone (while the alternative is not).
 
-Generalizing this reasoning would lead us to similarly hold that intrinsically _good_ states (or positive welfare) can count as a non-comparative benefit of existence.[^50a] But this result would rob the person-affecting view of its distinctiveness. It could easily end up coinciding with the total view, for example, and endorsing the repugnant conclusion on behalf of the multitudes in world Z who would each receive a tiny non-comparative benefit from getting to exist.
+Generalizing this reasoning would lead us to similarly hold that intrinsically _good_ states (or positive welfare) can count as a non-comparative benefit of existence.[^48] But this result would rob the person-affecting view of its distinctiveness. It could easily end up coinciding with the total view, for example, and endorsing the repugnant conclusion on behalf of the multitudes in world Z who would each receive a tiny non-comparative benefit from getting to exist.
 
 Many person-affecting theorists wish to avoid this result and instead endorse the _procreative asymmetry_, according to which:
 
 > **It is bad to create people with negative well-being, but not good to create people with positive well-being, all else equal.**
 
-While many find this principle intuitive,[^51] it's notoriously difficult to provide a principled basis for it.[^52] The procreative asymmetry also has several deeply problematic implications, stemming from its failure to consider positive lives to be a good thing.
+While many find this principle intuitive,[^49] it's notoriously difficult to provide a principled basis for it.[^50] The procreative asymmetry also has several deeply problematic implications, stemming from its failure to consider positive lives to be a good thing.
 
 The simplest such view holds that positive lives make _no difference in value_ to the outcome. But this falsely implies that creating lives with low positive welfare is just as good as creating an equal number of lives at a high welfare level. For example, consider the choice between creating either of two worlds inhabited by different sets of future people. In world A<sub>1</sub>, everyone has a wonderful life. In world A<sub>2</sub>, all people have lives that are much worse than in A<sub>1</sub> yet still positive.
 
@@ -210,7 +210,7 @@ The simplest such view holds that positive lives make _no difference in value_ t
 
 Clearly, we should prefer world A<sub>1</sub> over A<sub>2</sub>. However, the simplest version of the procreative asymmetry implies that both worlds are equally good—because they are not good at all.
 
-In cases involving comparisons to empty worlds, the simple procreative asymmetry sometimes yields verdicts that seem even more misguided. Consider the following choice between world A and world B:[^53]
+In cases involving comparisons to empty worlds, the simple procreative asymmetry sometimes yields verdicts that seem even more misguided. Consider the following choice between world A and world B:[^51]
 
 > **In world A, all but a few people have excellent lives. But some people suffer from an extremely rare disease that makes life not worth living. In world B, no people exist.**
 
@@ -218,19 +218,19 @@ In cases involving comparisons to empty worlds, the simple procreative asymmetry
 
 Most people would prefer world A over an empty world B. But the simple procreative asymmetry would seem, perversely, to favor the empty world B since it counts the many good lives in world A for nothing while the few bad lives dominate the decision. On this view, there are no worthwhile trade-offs between good and bad lives. It would be better, supposedly, to have no lives at all.
 
-To help address these problems, we may consider a more complex person-affecting view—one analogous to the critical range theory, discussed above, but with infinite value blur, yielding the result that _all_ (positive) lives are “meh”.[^54] On such a view, it's better to create a flourishing life than a mediocre one (so A<sub>1</sub> is indeed better than A<sub>2</sub>, at least if they contain the exact same number of people), but _either_ choice is merely on a par with creating neither.
+To help address these problems, we may consider a more complex person-affecting view—one analogous to the critical range theory, discussed above, but with infinite value blur, yielding the result that _all_ (positive) lives are “meh”.[^52] On such a view, it's better to create a flourishing life than a mediocre one (so A<sub>1</sub> is indeed better than A<sub>2</sub>, at least if they contain the exact same number of people), but _either_ choice is merely on a par with creating neither.
 
-But this brings us to a deeper problem with the procreative asymmetry, which is that it has trouble accounting for the idea that _we should be positively glad that the world (with all its worthwhile lives) exists_.[^54a] Granted, the immense incomparability introduced by all the putatively “meh” lives in A at least blocks the perverse conclusion that we must outright prefer the empty world B. Even so, holding the two worlds to be incomparable or “on a par” also seems wrong.
+But this brings us to a deeper problem with the procreative asymmetry, which is that it has trouble accounting for the idea that _we should be positively glad that the world (with all its worthwhile lives) exists_.[^53] Granted, the immense incomparability introduced by all the putatively “meh” lives in A at least blocks the perverse conclusion that we must outright prefer the empty world B. Even so, holding the two worlds to be incomparable or “on a par” also seems wrong.
 
 We should recognize that A is better. But to do that, we must reject the strict procreative asymmetry and hold that there is an upper limit to the “critical range” of lives that are merely meh. And this is independently plausible. After all, when thinking about what makes some possible universe _good_, the most obvious answer is that it contains a predominance of awesome, flourishing lives. How could that _not_ be better than a barren rock? Any view that denies this verdict is arguably too nihilistic and divorced from humanistic values to be worth taking seriously.
 
-We may also raise more theoretical objections to such a view. Person-affecting views typically fall afoul of one or more of the following problems:[^55]
+We may also raise more theoretical objections to such a view. Person-affecting views typically fall afoul of one or more of the following problems:[^54]
 
 1. having moral rankings change when “irrelevant alternatives” are introduced (such as preferring A to B when they are the only choices, but then B over A when an inferior option C is also available);
 2. having cyclical orderings of value (saying that A is better than B, B is better than C, and C is better than A);
 3. saying that all outcomes that differ even slightly in how many people exist are incomparable.
 
-For all these reasons, utilitarians are largely united in rejecting person-affecting views, even as they continue to debate which impersonal theory provides the best way forward.[^55a]
+For all these reasons, utilitarians are largely united in rejecting person-affecting views, even as they continue to debate which impersonal theory provides the best way forward.[^55]
 
 ## Practical Implications of Population Ethical Theories
 
@@ -385,7 +385,7 @@ The next chapter discusses the most important implications of utilitarianism for
 
 [^17]: Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press. Chapter 19.
 [^18]: At least on standard assumptions. As we will see below, this no longer follows if, in addition to the standard trichotomy of value relations (being _greater than_, _lesser than_, and _precisely equal_), there is a fourth relation of being _on a par_. For then, B might be better than A+, while _both_ A+ and B are merely on a par with A.
-[^22]:
+[^19]:
     Gustaf Arrhenius (2000). [An Impossibility Theorem for Welfarist Axiologies](https://doi.org/10.1017/S0266267100000249). _Economics and Philosophy_. 16(2), 247–266.
 
     Gustaf Arrhenius (2011). [The Impossibility of a Satisfactory Population Ethics](https://doi.org/10.1142/9789814368018_0001). In Ehtibar N. Dzhafarov and Lacey Perry (eds.), _Descriptive and Normative Approaches to Human Behavior_. Singapore: World Scientific Publishing Co. 1–26.
@@ -396,70 +396,70 @@ The next chapter discusses the most important implications of utilitarianism for
 
     Yew-Kwang Ng (1989). [What Should We Do About Future Generations? Impossibility of Parfit's Theory X](https://doi.org/10.1017/S0266267100002406). _Economics and Philosophy_. 5(2), 235–253.
 
-[^23]: Greaves, H. (2017). [Population Axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
-[^24]:
+[^20]: Greaves, H. (2017). [Population Axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
+[^21]:
     E.g. Tännsjö, T. (2002). [Why We Ought to Accept the Repugnant Conclusion](https://doi.org/10.1017/S0953820800003642). _Utilitas_, 14(3): 339–59.
     Huemer, M. (2008). [In Defence of Repugnance](https://doi.org/10.1093/mind/fzn079). _Mind_. 117(468): 899–933.
 
-[^25]: Note that the average and total views _always_ agree on the ranking of outcomes when these outcomes contain the same number of individuals. In such cases, both theories are said to be “extensionally equivalent”.
-[^26]: This is a variation on the _Hell Three_ case from Parfit (1984), p. 422.
-[^27]:
+[^22]: Note that the average and total views _always_ agree on the ranking of outcomes when these outcomes contain the same number of individuals. In such cases, both theories are said to be “extensionally equivalent”.
+[^23]: This is a variation on the _Hell Three_ case from Parfit (1984), p. 422.
+[^24]:
     Definition adapted from Arrhenius, G. (2000). [An Impossibility Theorem for Welfarist Axiologies](https://doi.org/10.1017/S0266267100000249). _Economics and Philosophy_. 16(2): 247–266.
 
     Note that this label is misleading. Whereas the previous objection noted how the average view sometimes favours the addition of miserable lives (which does seem sadistic), the so-called "sadistic conclusion" instead objects to the claim that adding a small number of negative-welfare lives may be _less bad_ than adding a vast number of moderately-positive ones to an otherwise very happy world. Insofar as this comparative judgment stems from evaluating (some) positive-welfare lives negatively, rather than negative-welfare lives positively, the "sadism" label seems a misnomer.
 
-[^28]:
+[^25]:
     Where **f** is is a strictly increasing and strictly concave function with a horizontal asymptote. That is, as N increases, **f(N)** increases at a diminishing pace, and never surpasses a certain limit.
 
     Cf. Hurka, T. (1983). [Value and Population Size](https://doi.org/10.1086/292462). _Ethics_, 93(3): 496–507.
 
     Ng, Y. (1989). [What Should We Do About Future Generations?](https://doi.org/10.1017/S0266267100002406). _Economics and Philosophy_. 5(2): 235–253.
 
-[^29]: Greaves, H. (2017). [Population Axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
-[^30]:
+[^26]: Greaves, H. (2017). [Population Axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
+[^27]:
     They may avoid the repugnant conclusion since the total value of a population is subject to an upper limit if the value of additional lives diminishes asymptotically.
 
     Cf. Greaves, H. (2017). [Population Axiology](https://doi.org/10.1111/phc3.12442). _Philosophy Compass_. 12(11).
 
-[^31]: Parfit, D. (1984). Chapter 18: The Absurd Conclusion, in _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press.
-[^32]: Consider a good world with one billion happy people and a single miserable person. Imagine we repeatedly increase the numbers of happy and miserable people by the same factor—ten billion happy people and ten miserable people; one hundred billion happy people and one hundred miserable people, etc. For a sufficiently large population, every time we increase its size in this way, the world gets worse (according to these asymmetric theories) until we eventually reach an overall bad world.
-[^33]: For one such attempt, see section 7.2.2 of Chappell, R.Y. (2021). _[Parfit's Ethics](https://philpapers.org/rec/CHAPE-5)_. Cambridge: Cambridge University Press.
-[^34]: The critical level is generally assumed to be non-negative, that is either positive or zero. A negative critical level would implausibly attribute positive value to (some) negative lives.
-[^35]: Cf. Broome, J. (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press, p. 213–214.
-[^36]:
+[^28]: Parfit, D. (1984). Chapter 18: The Absurd Conclusion, in _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press.
+[^29]: Consider a good world with one billion happy people and a single miserable person. Imagine we repeatedly increase the numbers of happy and miserable people by the same factor—ten billion happy people and ten miserable people; one hundred billion happy people and one hundred miserable people, etc. For a sufficiently large population, every time we increase its size in this way, the world gets worse (according to these asymmetric theories) until we eventually reach an overall bad world.
+[^30]: For one such attempt, see section 7.2.2 of Chappell, R.Y. (2021). _[Parfit's Ethics](https://philpapers.org/rec/CHAPE-5)_. Cambridge: Cambridge University Press.
+[^31]: The critical level is generally assumed to be non-negative, that is either positive or zero. A negative critical level would implausibly attribute positive value to (some) negative lives.
+[^32]: Cf. Broome, J. (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press, p. 213–214.
+[^33]:
     Blackorby, C., Bossert, W. and Donaldson, D. (1996). [Quasi-Orderings and Population Ethics](https://doi.org/10.1007/BF00183348). _Social Choice and Welfare_, 13 (2): 129–50.
 
     Rabinowicz, W. (2009). [Broome and the Intuition of Neutrality](https://dx.doi.org/10.1111/j.1533-6077.2009.00174.x). _Philosophical Issues_, 19 (1): 389–411.
 
     Gustafsson, J. (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
 
-[^37]: While philosophers do not typically use this colloquial term, it may be helpful to imagine someone who, when asked whether the world is improved by adding a barely-worth-living life, shrugs their shoulders and responds, “meh”.
-[^38]: Cf. Chang, R. (2002). [The possibility of parity](https://dx.doi.org/10.1086/339673). _Ethics_, 112 (4): 659–688.
-[^39]: One may, for example, get this result by thinking of the critical range as representing a range within which it's _indeterminate where the critical level lies_. Or one may consider it a range of _reasonable pluralism_, such that one could permissibly treat any point in this range as the critical level when forming personal preferences about which lives to add (or not) to the world. On either approach, we can then _supervaluate_, and hold that population X is (truly, determinately, or objectively) better than Y just if this evaluation would follow from _all_ critical level theories where the critical level falls within the specified range.
-[^40]:
+[^34]: While philosophers do not typically use this colloquial term, it may be helpful to imagine someone who, when asked whether the world is improved by adding a barely-worth-living life, shrugs their shoulders and responds, “meh”.
+[^35]: Cf. Chang, R. (2002). [The possibility of parity](https://dx.doi.org/10.1086/339673). _Ethics_, 112 (4): 659–688.
+[^36]: One may, for example, get this result by thinking of the critical range as representing a range within which it's _indeterminate where the critical level lies_. Or one may consider it a range of _reasonable pluralism_, such that one could permissibly treat any point in this range as the critical level when forming personal preferences about which lives to add (or not) to the world. On either approach, we can then _supervaluate_, and hold that population X is (truly, determinately, or objectively) better than Y just if this evaluation would follow from _all_ critical level theories where the critical level falls within the specified range.
+[^37]:
     Gustafsson speaks of "undistinguishedness" in place of our term "value blur". See:
 
     Gustafsson, J. (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
 
-[^41]: The following illustration is adapted from p.92 of Gustafsson, J. (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
-[^42]:
+[^38]: The following illustration is adapted from p.92 of Gustafsson, J. (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
+[^39]:
     This may prove especially problematic if the critical range is symmetric, such that slightly negative lives also qualify as meh (rather than bad). Most would think the idyllic world A should be strictly better than a world "Z-" containing a vast number of slightly negative lives, but symmetric critical range theories will struggle to deliver this verdict. Cf. Gustafsson (2020), p. 95, who claims that this is not a terrible bullet to bite if the personal/well-being value of such a life is also blurry, and so “meh” (in our terminology) rather than bad _for the person living it_.
 
     Gustafsson, J. (2020). [Population axiology and the possibility of a fourth category of absolute value](https://doi.org/10.1017/S0266267119000087). _Economics & Philosophy_, 36: 81–110.
 
-[^43]: Here we use the term “impersonal” simply to contrast with the (narrow) person-affecting view. So even an impersonal theory (on our usage) can take the value of a state of affairs to be grounded in facts about what is good for particular people, e.g. if one holds that a happy existence can constitute a non-comparative benefit, parallel to how a miserable existence constitutes a non-comparative harm.
-[^44]:
+[^40]: Here we use the term “impersonal” simply to contrast with the (narrow) person-affecting view. So even an impersonal theory (on our usage) can take the value of a state of affairs to be grounded in facts about what is good for particular people, e.g. if one holds that a happy existence can constitute a non-comparative benefit, parallel to how a miserable existence constitutes a non-comparative harm.
+[^41]:
     The critical range theories we've discussed are more difficult to capture in a numerical formula. But if we put aside any lives that fall within the critical range, we might approximate the remaining overall value by separately summing the positive and negative welfare levels, to the extent that they exceed their respective ends of the critical range. So, using positive and negative subscripts to denote the respective numbers (N), averages (Q), and critical boundary points (α) for these two subpopulations, we can write the value function as: <strong>N<sub>+</sub> \* (Q<sub>+</sub> - α<sub>+</sub>) + N<sub>-</sub> \* (Q<sub>-</sub> - α<sub>-</sub>)</strong>.
 
     Alternatively, we might think of the value of the world as itself indeterminate or corresponding to a numerical range, as given by all the possible critical level theories corresponding to the critical range, i.e.: everything from <strong>N \* (Q - α<sub>-</sub>) </strong>to <strong>N \* (Q - α<sub>+</sub>)</strong>. On this approach, the value of the repugnant world Z, for example, would be indeterminate across an immense range of values stemming from _extremely negative_ to _extremely positive_, because <strong>N</strong> is unimaginably huge whereas the sign of <strong>(Q - α)</strong> is indeterminate, given the range of candidate critical levels <strong>α</strong>.
 
-[^45]: On the total view, adding a person with positive well-being is always good, all else equal. The same is true for variable value theories, though for a large pre-existing population the marginal value of an additional life being added may be low. On the average view, adding a person is good, other things being equal, if the person’s well-being exceeds the existing average; similarly, it is good on critical level (and range) theories, if the person’s well-being exceeds the critical level (or range).
-[^46]:
+[^42]: On the total view, adding a person with positive well-being is always good, all else equal. The same is true for variable value theories, though for a large pre-existing population the marginal value of an additional life being added may be low. On the average view, adding a person is good, other things being equal, if the person’s well-being exceeds the existing average; similarly, it is good on critical level (and range) theories, if the person’s well-being exceeds the critical level (or range).
+[^43]:
     Narveson, J. (1973). [Moral Problems of Population](https://doi.org/10.5840/monist197357134). _The Monist_. 57(1), 62–86, p. 80.
 
     To put pressure on the slogan, consider the limited appeal of its negative-welfare analogue: “We are opposed to making people miserable, but neutral about making miserable people.” As this section goes on to discuss, the viability of person-affecting approaches to population ethics crucially depends upon validating a radical asymmetry between positive and negative lives.
 
-[^47]:
+[^44]:
     For instance, see:
 
     Finneron-Burns, E. (2017). [What’s wrong with human extinction?](https://doi.org/10.1080/00455091.2016.1278150). _Canadian Journal of Philosophy_, 47(2-3): 327–343.
@@ -472,27 +472,27 @@ The next chapter discusses the most important implications of utilitarianism for
 
     Roberts, M.A. (2004). [Person-Based Consequentialism and the Procreation Obligation](https://doi.org/10.1007/978-1-4020-2473-3_7), in J. Ryberg and T. Tännsjö (eds.) _The Repugnant Conclusion_. Library Of Ethics And Applied Philosophy. 15: 99–128.
 
-[^48]: At least, it cannot be better or worse in terms of well-being.
-[^49]:
+[^45]: At least, it cannot be better or worse in terms of well-being.
+[^46]:
     Cf. Arrhenius, G. (2000). Chapter 8, [Future Generations: A Challenge for Moral Theory](http://uu.diva-portal.org/smash/get/diva2:170236/FULLTEXT01). PhD thesis, Uppsala.
 
     Heyd, D. (1988). [Procreation and Value: Can Ethics Deal With Futurity Problems?](https://doi.org/10.1007/BF02380074). _Philosophia_, 18: 151–170.
 
-[^50]: Cf. Parfit's “wretched child” case. Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press, p. 391.
-[^50a]:
+[^47]: Cf. Parfit's “wretched child” case. Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press, p. 391.
+[^48]:
     McMahan, Jeff (2013). [Causing People to Exist and Saving People’s Lives](https://doi.org/10.1007/s10892-012-9139-1). _The Journal of Ethics_, 17 (1-2): 5–35.
 
     McMahan, J. (2009). [Asymmetries in the Morality of Causing People to Exist](https://doi.org/10.1007/978-1-4020-5697-0_3). In David Wasserman and Melinda Roberts (eds.), _Harming Future Persons_. Springer.
-[^51]: Though one of the coauthors of this chapter has argued elsewhere that “it is thought to be ‘intuitive’ primarily because it has been implicitly confused with other, more plausible theses.” See Chappell, R.Y. (2017). [Rethinking the Asymmetry](https://doi.org/10.1080/00455091.2016.1250203). _Canadian Journal of Philosophy_, 47 (2): 167–177.
-[^52]: McMahan, J. (2009). [Asymmetries in the Morality of Causing People to Exist](https://doi.org/10.1007/978-1-4020-5697-0_3). In David Wasserman and Melinda Roberts (eds.), _Harming Future Persons_. Springer.
-[^53]: Case description adapted from Beckstead, N. (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/file/d/0B8P94pg6WYCIc0lXSUVYS1BnMkE/view?resourcekey=0-nk6wM1QIPl0qWVh2z9FG4Q)_. PhD Dissertation, Rutgers University.
-[^54]: A major challenge for such a view would be to explain how to render this value blur compatible with the asymmetry, so that miserable lives are appropriately recognized as bad (not merely meh).
-[^54a]: At least on the assumption that good lives predominate over miserable ones. E.g., a person in world A should be glad that that world exists.
-[^55]:
+[^49]: Though one of the coauthors of this chapter has argued elsewhere that “it is thought to be ‘intuitive’ primarily because it has been implicitly confused with other, more plausible theses.” See Chappell, R.Y. (2017). [Rethinking the Asymmetry](https://doi.org/10.1080/00455091.2016.1250203). _Canadian Journal of Philosophy_, 47 (2): 167–177.
+[^50]: McMahan, J. (2009). [Asymmetries in the Morality of Causing People to Exist](https://doi.org/10.1007/978-1-4020-5697-0_3). In David Wasserman and Melinda Roberts (eds.), _Harming Future Persons_. Springer.
+[^51]: Case description adapted from Beckstead, N. (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/file/d/0B8P94pg6WYCIc0lXSUVYS1BnMkE/view?resourcekey=0-nk6wM1QIPl0qWVh2z9FG4Q)_. PhD Dissertation, Rutgers University.
+[^52]: A major challenge for such a view would be to explain how to render this value blur compatible with the asymmetry, so that miserable lives are appropriately recognized as bad (not merely meh).
+[^53]: At least on the assumption that good lives predominate over miserable ones. E.g., a person in world A should be glad that that world exists.
+[^54]:
     Arrhenius, G. (2000). Chapter 8, [Future Generations: A Challenge for Moral Theory](http://uu.diva-portal.org/smash/get/diva2:170236/FULLTEXT01). PhD thesis, Uppsala.
 
     Ord, T. (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing. See especially note 25 of the Appendices.
-[^55a]:
+[^55]:
     Another possibility would be some form of _hybrid_ view combining an impersonal theory with additional person-affecting reasons to prioritize the interests of existing individuals. This would help to block “replaceability” worries—i.e., that impersonal views make it too easy to justify (killing and) replacing existing lives with “better” ones—without the extreme implications of pure person-affecting views.
 
     For a fascinating discussion of some of the complexities of adjudicating tradeoffs between ordinary harms and benefits and the noncomparative good of bringing someone into (happy) existence, see:
