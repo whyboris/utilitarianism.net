@@ -58,21 +58,14 @@ El utilitarismo tiene importantes implicaciones sobre cómo debemos pensar en ll
 
 Hay muchos problemas graves en el mundo de hoy. Por desgracia, como nuestros recursos son escasos, no podemos resolver todos los problemas del mundo al mismo tiempo. Además, no todas las formas de ayudar a los demás son igualmente eficaces. Según el utilitarismo, debemos elegir cuidadosamente en qué problemas trabajar y con qué medios, basándonos en cómo podemos mejorar más la vida de todos, contando a cada uno por igual. Esto implica tomarse en serio la cuestión de cómo podemos emplear mejor nuestro tiempo y nuestro dinero para ayudar a los demás.
 
-Algunos proyectos morales parecen especialmente urgentes desde el punto de vista utilitarista, como [luchar contra la pobreza extrema](./actuar-conforme-al-utilitarismo.md#salud-y-desarrollo-globales), [reducir el sufrimiento de los animales en los criaderos intensivos](./actuar-conforme-al-utilitarismo.md#bienestar-animal-en-las-granjas) y, en particular, [garantizar que el futuro a largo plazo vaya lo mejor posible](./actuar-conforme-al-utilitarismo.md#reduccion-del-riesgo-existencial). Las personas que existirán en el futuro superan con creces a las que están vivas hoy, y es posible que podamos realizar acciones que afecten a su bienestar.
+Algunos proyectos morales parecen especialmente urgentes desde el punto de vista utilitarista, como [luchar contra la pobreza extrema](/actuar-conforme-al-utilitarismo#salud-y-desarrollo-globales), [reducir el sufrimiento de los animales en los criaderos intensivos](/actuar-conforme-al-utilitarismo#bienestar-animal-en-las-granjas) y, en particular, [garantizar que el futuro a largo plazo vaya lo mejor posible](/actuar-conforme-al-utilitarismo#reducción-del-riesgo-existencial). Las personas que existirán en el futuro superan con creces a las que están vivas hoy, y es posible que podamos realizar acciones que afecten a su bienestar.
 Por lo tanto, una preocupación clave para los utilitaristas es promover el bienestar no sólo de la generación actual, sino de todas las generaciones venideras.
 
-Abordar estos problemas puede involucrar [donar generosamente a organizaciones benéficas eficaces](./actuar-conforme-al-utilitarismo.md#donaciones-a-organizaciones-beneficas), [elegir una carrera profesional sobre la base de cómo ayudar a los demás lo máximo posible](./actuar-conforme-al-utilitarismo.md#eleccion-de-carrera-profesional), y [animar a otras personas a hacer lo propio](./actuar-conforme-al-utilitarismo.md#promocion).
+Abordar estos problemas puede involucrar [donar generosamente a organizaciones benéficas eficaces](/actuar-conforme-al-utilitarismo#donaciones-a-organizaciones-benéficas), [elegir una carrera profesional sobre la base de cómo ayudar a los demás lo máximo posible](/actuar-conforme-al-utilitarismo#elección-de-carrera-profesional), y [animar a otras personas a hacer lo propio](/actuar-conforme-al-utilitarismo#promoción).
 
 <center>
 {{< small-button url="actuar-conforme-al-utilitarismo" text="Leer: Actuar conforme al utilitarismo" >}}
 </center>
-
-<br>
-<br>
-
-### Pensadores utilitaristas
-
-{{< all-thinkers true >}}
 
 </div>
 
@@ -101,7 +94,7 @@ Este sitio web ha sido escrito por [Richard Yetter Chappell](http://yetterchappe
 
 Nos enorgullece contar con el apoyo de destacados académicos, como los de las universidades de Harvard, Princeton y Nueva York.
 
-Más información [sobre nosotros](./sobre-nosotros.md).
+Más información [sobre nosotros](/sobre-nosotros).
 
 </div>
 
