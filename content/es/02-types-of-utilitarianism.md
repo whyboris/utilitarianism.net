@@ -342,7 +342,7 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 
 [^11]: La censura puede concebirse como una actitud (de desaprobación moral) o como una acción (que expresa tal desaprobación). Para los utilitaristas, las acciones de censura son como cualquier otra acción, en el sentido de que sólo deben realizarse si sirven para promover el bienestar. Censurar en exceso tendría malas consecuencias, porque desanimaría a la gente a intentarlo siquiera. En lugar de eso, normalmente deberíamos elogiar a las personas que dan pasos en la dirección correcta. Sobre la evaluación moral de las actitudes, véase más adelante la discusión sobre el utilitarismo global frente al híbrido.
 [^12]:
-    {{< cite Railton1988HowThinkingAbout 407 >}}.
+    {{< cite Railton1988HowThinkingAbout "p. 407" >}}.
 
     {{< cite Norcross2020MoralityByDegrees >}}.
 
@@ -363,7 +363,7 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 [^21]:
     {{< cite Bales1971ActutilitarianismAccountRightmaking >}}.
 
-    Para un análisis del punto de vista multinivel en el contexto del _utilitarismo_ de Mill, véase {{< cite Crisp1997RoutledgePhilosophyGuidebook "105–112" >}}.
+    Para un análisis del punto de vista multinivel en el contexto del _utilitarismo_ de Mill, véase {{< cite Crisp1997RoutledgePhilosophyGuidebook "pp. 105–112" >}}.
 
 [^22]:
     {{< cite Hare1981MoralThinkingIts >}}.
@@ -397,5 +397,5 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 
 [^26]: {{< cite Driver2001ConsequentialistTheoryOf >}}.
 [^27]: {{< cite Hurka2001VirtueViceValue >}}.
-[^28]: Esto refleja la distinción de Parfit entre razones "derivadas del estado" y razones "derivadas del objeto". {{< cite Parfit2011WhatMattersVolume "50" >}}.
+[^28]: Esto refleja la distinción de Parfit entre razones "derivadas del estado" y razones "derivadas del objeto". {{< cite Parfit2011WhatMattersVolume "p. 50" >}}.
 [^29]: Para una mayor defensa de este punto de vista, véase {{< cite Chappell2024ConsequentialismCoreAnd >}}.
