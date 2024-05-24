@@ -162,7 +162,7 @@ _Note:_ PDF filenames in German have some replacements: `ü` -> `ue`, `ß` -> `s
 
 ### Bibliography
 
-For our _Spanish_ version of the website, we use this functionality:
+For our _Spanish_ version of the website, we generate citations with `hugo-cite` automatically, but we need the `bib` file:
 
 Copy [stable.bib](https://github.com/tlon-team/babel-refs/tree/main/bib) to your computer and use `pandoc` to convert `stable.bib` to `bib.json` with this command:
 
@@ -170,15 +170,13 @@ Copy [stable.bib](https://github.com/tlon-team/babel-refs/tree/main/bib) to your
 pandoc stable.bib -t csljson -o bib.json
 ```
 
-Place the file in `/content` and refer to it from each page that needs citations: add this line to the _front matter_: `bibFile: content/bib.json`
+Place the file in `/assets`, and you are done.
 
-For more details, see [hugo-cite](https://github.com/loup-brun/hugo-cite)
-
-These two files were copied from the above repository and `cite.html` was modified for our use:
+We used the code from [hugo-cite](https://github.com/loup-brun/hugo-cite). Just these two files were copied from the above repository and `cite.html` was modified heavily for our use case:
 
 - `layouts/shortcodes/cite.html`
 - `layouts/partials/bibliography/apa-style.html`
 
-For citations, search and replace `\[@(.+?)\]` _RegEx_ with `{{< cite $1 >}}` and then fix any page references (e.g. `p 1-5`)
+Citations originally came from _TLON_ as `[@Singer1972]`; we can search and replace `\[@(.+?)\]` _RegEx_ with `{{< cite $1 >}}` and then fix any page references (e.g. after the citation shortcode include any string `"chap. 3"`)
 
 [^1]: If you see an error while Pagefind is being installed, something like [Error: tar xvf exited with 128](https://github.com/CloudCannon/pagefind/issues/66#issuecomment-1237313541) try using _Powershell_ when running `npm install`
