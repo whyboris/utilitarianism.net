@@ -13,7 +13,7 @@
 */}}
 
 {{ $bibPath := "bib2.json" }}
-{{ $styleFile := "bibliography/apa-style.html" }}
+{{ $styleFile := "apa-style.html" }}
 
 {{ $key := "" }}
 {{ $short := false }}
@@ -39,7 +39,7 @@
   {{ with resources.Get $bibPath }}
     {{ $bibliography = . | transform.Unmarshal }}
   {{ else }}
-    {{ errorf "Unable to get resource %q" $bibPath }}
+    <span style="background-color: #f00; color: #fff;">{{ printf "%q not loaded" $bibPath }}</span>
   {{ end }}
   {{/*  --- file loaded ---  */}}
 
@@ -47,7 +47,7 @@
 
   {{ if eq $reference nil }}
 
-    {{ $errMsg := printf "key `%s` not found in `bib2.json`" $key }}
+    {{ $errMsg := printf "key `%s` not found in `%s`" $key $bibPath }}
     <span style="background-color: #f00; color: #fff;">{{ $errMsg }}</span>
 
   {{ else }}
