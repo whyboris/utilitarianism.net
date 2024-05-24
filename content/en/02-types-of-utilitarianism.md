@@ -122,7 +122,7 @@ Classical utilitarianism accepts a population ethical theory known as the _total
 
 > **One outcome is better than another if and only if it contains greater total well-being.**
 
-The total view implies that we can improve the world in two ways:[^8a] either we can improve the quality of life of existing people, or we can increase the number of people living positive lives.[^9] In practice, there are often trade-offs between making existing people happier and creating additional happy people. On a planet with limited resources, adding more people to an already large population may at some point diminish the quality of life of everyone else severely enough that total well-being decreases.
+The total view implies that we can improve the world in two ways:[^9] either we can improve the quality of life of existing people, or we can increase the number of people living positive lives.[^10] In practice, there are often trade-offs between making existing people happier and creating additional happy people. On a planet with limited resources, adding more people to an already large population may at some point diminish the quality of life of everyone else severely enough that total well-being decreases.
 
 The total view’s foremost practical implication is [giving great importance](/utilitarianism-and-practical-ethics/#longtermism-expanding-the-moral-circle-across-time) to ensuring the long-term flourishing of civilization. Since the total well-being enjoyed by all future people is potentially enormous, according to the total view, the [mitigation of existential risks](/acting-on-utilitarianism#existential-risk-reduction)—which threaten to destroy this immense future value—is one of the principal moral issues facing humanity.
 
@@ -141,27 +141,27 @@ After selecting your preferred theory of well-being and population ethics view, 
 
 Utilitarianism is most often stated in its maximizing form: that, within any set of options, the action that produces the most well-being is right, and all other actions are wrong.
 
-Though this is the most common statement of utilitarianism,[^10] it may be misleading in some respects. Utilitarians agree that you _ideally_ ought to choose whatever action would best promote overall well-being. That’s what you have the _most_ moral reason to do. But they do not recommend _blaming_ you every time you fall short of this ideal.[^11] As a result, many utilitarians consider it misleading to take their claims about what _ideally ought_ to be done as providing an account of moral "rightness" or "obligation" in the ordinary sense.[^12]
+Though this is the most common statement of utilitarianism,[^11] it may be misleading in some respects. Utilitarians agree that you _ideally_ ought to choose whatever action would best promote overall well-being. That’s what you have the _most_ moral reason to do. But they do not recommend _blaming_ you every time you fall short of this ideal.[^12] As a result, many utilitarians consider it misleading to take their claims about what _ideally ought_ to be done as providing an account of moral "rightness" or "obligation" in the ordinary sense.[^13]
 
 To further illustrate this, suppose that Sophie could save no-one, or save 999 people at great personal sacrifice, or save 1,000 people at even greater personal sacrifice. From a utilitarian perspective, the most important thing is that Sophie saves either the 999 people or the 1,000 people rather than saving no-one; the difference between Sophie’s saving 999 people and 1,000 people is comparatively small. However, on the maximizing form of utilitarianism, both saving no-one and saving the 999 people would simply be labeled as “wrong”. While we might well accept a maximizing account of what agents _ideally ought_ to do, there are further moral claims to make in addition.
 
-_[Satisficing utilitarianism](https://plato.stanford.edu/entries/consequentialism/#ConWhoLimDemMor)_ instead holds that, within any set of options, an action is right if and only if it produces _enough_ well-being.[^13] This proposal has its own problems and has not yet found wide support.[^14] In the case given in the previous paragraph, we still want to say there is good reason to save the 1,000 people over the 999 people; labeling both actions as _right_ would risk ignoring the important moral difference between these two options. So while we may be drawn to a satisficing account of what agents are _obliged_ to do in order to meet minimal moral standards,[^15] this view, too, requires supplementation.
+_[Satisficing utilitarianism](https://plato.stanford.edu/entries/consequentialism/#ConWhoLimDemMor)_ instead holds that, within any set of options, an action is right if and only if it produces _enough_ well-being.[^14] This proposal has its own problems and has not yet found wide support.[^15] In the case given in the previous paragraph, we still want to say there is good reason to save the 1,000 people over the 999 people; labeling both actions as _right_ would risk ignoring the important moral difference between these two options. So while we may be drawn to a satisficing account of what agents are _obliged_ to do in order to meet minimal moral standards,[^16] this view, too, requires supplementation.
 
 Instead, it's more popular among leading utilitarians today to endorse a form of _scalar utilitarianism_, which may be defined as follows:
 
-> **Scalar utilitarianism is the view that moral evaluation is a matter of degree: the more that an act would promote well-being, the more moral reason one has to perform that act.**[^16]
+> **Scalar utilitarianism is the view that moral evaluation is a matter of degree: the more that an act would promote well-being, the more moral reason one has to perform that act.**[^17]
 
-On this view, there is no fundamental, sharp distinction between ‘right’ and ‘wrong’ actions, just a continuous scale from morally better to worse.[^17]
+On this view, there is no fundamental, sharp distinction between ‘right’ and ‘wrong’ actions, just a continuous scale from morally better to worse.[^18]
 
-Philosophers have traditionally conceived of maximizing, satisficing, and scalar utilitarianism as competing views. But more recently, one of the authors (Chappell) has argued that utilitarians could fruitfully accept all three, by constructing _multiple_ different senses of ‘should’ or ‘right’.[^18] On Chappell's "deontic pluralism" view, (i) maximizers are correct to hold that Sophie _ideally_ should save all 1,000 people; (ii) satisficers may be correct to hold that saving 999 is _minimally acceptable_ in a way that saving no-one is not; and (iii) scalar utilitarians are correct to hold that it’s ultimately a matter of degree, and that the gain from saving 999 rather than zero dwarfs the gain from saving 1,000 rather than 999.
+Philosophers have traditionally conceived of maximizing, satisficing, and scalar utilitarianism as competing views. But more recently, one of the authors (Chappell) has argued that utilitarians could fruitfully accept all three, by constructing _multiple_ different senses of ‘should’ or ‘right’.[^19] On Chappell's "deontic pluralism" view, (i) maximizers are correct to hold that Sophie _ideally_ should save all 1,000 people; (ii) satisficers may be correct to hold that saving 999 is _minimally acceptable_ in a way that saving no-one is not; and (iii) scalar utilitarians are correct to hold that it’s ultimately a matter of degree, and that the gain from saving 999 rather than zero dwarfs the gain from saving 1,000 rather than 999.
 
 ### Expectational Utilitarianism Versus Objective Utilitarianism
 
-Given our cognitive and epistemic limitations, we cannot foresee all the consequences of our actions. Many philosophers have held that what we ought to do depends on what we (should) believe at the time of action. The most prominent example of this kind of account is _expectational utilitarianism_.[^19]
+Given our cognitive and epistemic limitations, we cannot foresee all the consequences of our actions. Many philosophers have held that what we ought to do depends on what we (should) believe at the time of action. The most prominent example of this kind of account is _expectational utilitarianism_.[^20]
 
 > **Expectational utilitarianism is the view we should promote _expected_ well-being.**
 
-Expectational utilitarianism states we should choose the actions with the highest _expected value_.[^20] The expected value of an action is the sum of the value of each of the potential outcomes multiplied by the probability of that outcome occurring. This approach follows [expected utility theory](https://plato.stanford.edu/entries/rationality-normative-utility/), the most widely-accepted theory of rational decision making under uncertainty. So, for example, according to expectational utilitarianism we should choose a 10% chance of saving 1,000 lives over a 50% chance of saving 150 lives, because the former option saves an expected 100 lives (= 10% x 1,000 lives) whereas the latter option saves an expected 75 lives (= 50% x 150 lives). This provides an account of _rational_ choice from a moral point of view.
+Expectational utilitarianism states we should choose the actions with the highest _expected value_.[^21] The expected value of an action is the sum of the value of each of the potential outcomes multiplied by the probability of that outcome occurring. This approach follows [expected utility theory](https://plato.stanford.edu/entries/rationality-normative-utility/), the most widely-accepted theory of rational decision making under uncertainty. So, for example, according to expectational utilitarianism we should choose a 10% chance of saving 1,000 lives over a 50% chance of saving 150 lives, because the former option saves an expected 100 lives (= 10% x 1,000 lives) whereas the latter option saves an expected 75 lives (= 50% x 150 lives). This provides an account of _rational_ choice from a moral point of view.
 
 _Objective utilitarianism_, by contrast, takes the extent to which we ought to perform an action to depend on the well-being it would _in fact_ produce. The contrast between the two views may be illustrated using a thought experiment:
 
@@ -169,13 +169,13 @@ _Objective utilitarianism_, by contrast, takes the extent to which we ought to p
 
 The doctor’s action has—as a matter of pure chance and against overwhelming odds—led to the best outcome for the patient, and not treating the patient would have left her worse off. Thus, according to objective utilitarianism, the doctor has acted rightly. However, the action was wrong from the perspective of expectational utilitarianism. The expected value of giving the treatment, with its overwhelming odds of killing her, are much worse for the patient than not treating her at all. The doctor’s decision turned out to be immensely fortunate, but it was extremely reckless and irrational given their available information.
 
-When there is a conflict in this way between which act would be _actually_ best versus which would be _expectably_ best, is there a fact of the matter as to which act is “really” right? Many philosophers are drawn to the view that this is a merely verbal dispute. We can talk about the actually-best option as being “objectively right”, and the expectably-best option as “subjectively right”, and each of these concepts might have a legitimate theoretical role.[^20a] For example, subjective rightness seems more apt to guide agents, since in real life we are often uncertain what consequences will actually result from our actions. Subjective rightness is also relevant to assessing the quality of an agent's decision-making. (We think poorly of the reckless doctor, for example.) But we should presumably _prefer_ that the actually-best outcome be realized, and so will be _glad_ that the doctor did as they "objectively ought", even if they acted subjectively wrongly. Objective rightness thus tracks _what a fully informed, morally ideal spectator would want you to do_.
+When there is a conflict in this way between which act would be _actually_ best versus which would be _expectably_ best, is there a fact of the matter as to which act is “really” right? Many philosophers are drawn to the view that this is a merely verbal dispute. We can talk about the actually-best option as being “objectively right”, and the expectably-best option as “subjectively right”, and each of these concepts might have a legitimate theoretical role.[^22] For example, subjective rightness seems more apt to guide agents, since in real life we are often uncertain what consequences will actually result from our actions. Subjective rightness is also relevant to assessing the quality of an agent's decision-making. (We think poorly of the reckless doctor, for example.) But we should presumably _prefer_ that the actually-best outcome be realized, and so will be _glad_ that the doctor did as they "objectively ought", even if they acted subjectively wrongly. Objective rightness thus tracks _what a fully informed, morally ideal spectator would want you to do_.
 
-On this understanding, objective and expectational utilitarianism aren't truly _rival_ views at all. Objective utilitarianism tells us which choices are objectively preferable, and expectational utilitarianism tells us how to make _rational_ moral decisions under conditions of uncertainty.[^20b] Their respective claims are mutually compatible.
+On this understanding, objective and expectational utilitarianism aren't truly _rival_ views at all. Objective utilitarianism tells us which choices are objectively preferable, and expectational utilitarianism tells us how to make _rational_ moral decisions under conditions of uncertainty.[^23] Their respective claims are mutually compatible.
 
 ### Multi-level Utilitarianism Versus Single-level Utilitarianism
 
-In the literature on utilitarianism, a useful distinction is made between a _criterion of rightness_ and a _decision procedure_. A criterion of rightness tells us what it takes for an action (or rule, policy, etc.) to be right or wrong. A decision procedure is something that we use when thinking about what to do.[^21]
+In the literature on utilitarianism, a useful distinction is made between a _criterion of rightness_ and a _decision procedure_. A criterion of rightness tells us what it takes for an action (or rule, policy, etc.) to be right or wrong. A decision procedure is something that we use when thinking about what to do.[^24]
 
 Utilitarians believe that their moral theory is the correct criterion of rightness (at least in the sense of what “ideally ought” to be done, as discussed above). However, they almost universally discourage using utilitarianism as a decision procedure to guide our everyday actions. This would involve deliberately trying to promote aggregate well-being by constantly calculating the expected consequences of our day-to-day actions. But it would be absurd to figure out what breakfast cereal to buy at the grocery store by thinking through all the possible consequences of buying different cereal brands to determine which one best contributes to overall well-being. The decision is low stakes, and not worth spending a lot of time on.
 
@@ -183,11 +183,11 @@ The view that treats utilitarianism as both a criterion of rightness and a decis
 
 > **Multi-level utilitarianism is the view that individuals should usually follow tried-and-tested rules of thumb, or _heuristics_, rather than trying to calculate which action will produce the most well-being.**
 
-According to multi-level utilitarianism we should, under most circumstances, follow a set of simple moral heuristics—do not lie, steal, kill etc.—expecting that this will lead to the best outcomes overall. Often, we should use the commonsense moral norms and laws of our society as rules of thumb to guide our actions. Following these norms and laws usually leads to good outcomes, because they are based on society’s experience of what promotes overall well-being. The fact that honesty, integrity, keeping promises, and sticking to the law generally have good consequences explains why in practice [utilitarians value such things highly](/utilitarianism-and-practical-ethics/#respecting-commonsense-moral-norms), and use them to guide their everyday actions.[^22]
+According to multi-level utilitarianism we should, under most circumstances, follow a set of simple moral heuristics—do not lie, steal, kill etc.—expecting that this will lead to the best outcomes overall. Often, we should use the commonsense moral norms and laws of our society as rules of thumb to guide our actions. Following these norms and laws usually leads to good outcomes, because they are based on society’s experience of what promotes overall well-being. The fact that honesty, integrity, keeping promises, and sticking to the law generally have good consequences explains why in practice [utilitarians value such things highly](/utilitarianism-and-practical-ethics/#respecting-commonsense-moral-norms), and use them to guide their everyday actions.[^25]
 
-In contrast, to our knowledge no one has ever defended single-level utilitarianism, including the classical utilitarians.[^23] Deliberately calculating the expected consequences of our actions is error-prone and risks falling into decision paralysis.
+In contrast, to our knowledge no one has ever defended single-level utilitarianism, including the classical utilitarians.[^26] Deliberately calculating the expected consequences of our actions is error-prone and risks falling into decision paralysis.
 
-Sometimes, philosophers claim that multi-level utilitarianism is incoherent. But this is not true. Consider the following metaphor provided by Walter Sinnott-Armstrong: The laws of physics govern the flight of a golf ball, but a golfer does not need to calculate physical forces while planning shots.[^24] Similarly, multi-level utilitarians regard utilitarianism as governing the rightness of actions, but they do not need to calculate expected consequences to make decisions. To the extent that following the heuristics recommended by multi-level utilitarianism results in better outcomes, the theory succeeds.
+Sometimes, philosophers claim that multi-level utilitarianism is incoherent. But this is not true. Consider the following metaphor provided by Walter Sinnott-Armstrong: The laws of physics govern the flight of a golf ball, but a golfer does not need to calculate physical forces while planning shots.[^27] Similarly, multi-level utilitarians regard utilitarianism as governing the rightness of actions, but they do not need to calculate expected consequences to make decisions. To the extent that following the heuristics recommended by multi-level utilitarianism results in better outcomes, the theory succeeds.
 
 A common objection to multi-level utilitarianism is that it is _[self-effacing](/objections-to-utilitarianism/abusability/#is-utilitarianism-self-effacing)_. A theory is said to be (partially) self-effacing if it (sometimes) directs its adherents to follow a different theory. Multi-level utilitarianism often forbids using the utilitarian criterion when we make decisions, and instead recommends acting in accordance with non-utilitarian heuristics. However, there is nothing inconsistent about saying that your criterion of moral rightness comes apart from the decision procedure it recommends, and it does not mean that the theory fails.
 
@@ -203,23 +203,23 @@ Insofar as you share the fundamental utilitarian concern with promoting well-bei
 
 Most discussions of utilitarianism revolve around act utilitarianism and its criterion of right action. But we can just as well consider the tendency of other things—like motives, rules, character traits, policies and social institutions—to promote well-being. Since utilitarianism is fundamentally concerned with promoting well-being, we should not merely want to perform those _actions_ that promote well-being. We should also want the motives, rules, traits, policies, institutions, and so on, that promote well-being.
 
-This aspect of utilitarianism has sometimes been overlooked, so those who seek to highlight its applicability to things besides just actions sometimes adopt the label “global utilitarianism” to emphasize this point:[^25]
+This aspect of utilitarianism has sometimes been overlooked, so those who seek to highlight its applicability to things besides just actions sometimes adopt the label “global utilitarianism” to emphasize this point:[^28]
 
 > **Global utilitarianism is the view that the utilitarian standards of moral evaluation apply to anything of interest.**
 
 Global utilitarianism assesses the moral nature of, for example, a particular character trait, such as kindness or loyalty, based on the consequences that trait has for the well-being of others—just as act utilitarianism morally evaluates actions. This broad focus can help the view to explain or accommodate certain supposedly “non-consequentialist” intuitions. For instance, it captures the understanding that morality is not just about choosing the right acts but is also about following certain rules and developing a virtuous character.
 
-All utilitarians should agree with this much. But there is a further question regarding whether this direct utilitarian evaluation is _exhaustive_ of moral assessment, or whether there is a role for other (albeit less important) kinds of moral evaluation to be made in addition. For example, must utilitarians understand _virtue_ directly as a matter of character traits that tend to promote well-being,[^26] or could they appeal to a looser but more intuitive connection (such as representing a positive orientation towards the good)?[^27]
+All utilitarians should agree with this much. But there is a further question regarding whether this direct utilitarian evaluation is _exhaustive_ of moral assessment, or whether there is a role for other (albeit less important) kinds of moral evaluation to be made in addition. For example, must utilitarians understand _virtue_ directly as a matter of character traits that tend to promote well-being,[^29] or could they appeal to a looser but more intuitive connection (such as representing a positive orientation towards the good)?[^30]
 
 A challenge for _pure_ global utilitarianism is that it fails to capture all of the moral evaluations that we intuitively want to be able to make. For example, imagine a world in which moral disapproval was reliably counterproductive: if you blamed someone for doing X, that would just make them stubbornly do X even more in future. Since we only want people to do more good acts, would it follow that only good acts, and not bad ones, were blame-_worthy_?
 
-Here it's important to distinguish two claims. One is the direct utilitarian assessment that it would be good to blame people for doing good acts, and not for doing bad ones, since that would yield the best results (in the imagined scenario). But a second—distinct—claim is that only bad acts are truly blame-_worthy_ in the sense of intrinsically _meriting_ moral disapproval.[^28] Importantly, these two claims are compatible. We may hold _both_ that gratuitous torture (for example) warrants moral disapproval, _and_ that it would be a bad idea to express such disapproval if doing so would just make things worse.
+Here it's important to distinguish two claims. One is the direct utilitarian assessment that it would be good to blame people for doing good acts, and not for doing bad ones, since that would yield the best results (in the imagined scenario). But a second—distinct—claim is that only bad acts are truly blame-_worthy_ in the sense of intrinsically _meriting_ moral disapproval.[^31] Importantly, these two claims are compatible. We may hold _both_ that gratuitous torture (for example) warrants moral disapproval, _and_ that it would be a bad idea to express such disapproval if doing so would just make things worse.
 
 This argument may lead one to endorse a form of _hybrid utilitarianism_, which we define as follows:
 
 > **Hybrid utilitarianism is the view that, while one ought always to promote overall well-being, the moral quality of an aim or intention can depend on factors other than whether it promotes overall well-being.**
 
-In particular, hybrid utilitarians may understand virtue and praise-worthiness as concerning whether the target individual _intends_ good results, in contrast to global utilitarian evaluation of whether the target’s intentions _produce_ good results. When the two come into conflict, we should prefer to achieve good results than to merely intend them—so in this sense the hybrid utilitarian agrees with much that the global utilitarian wants to say. Hybridists just hold that there is more to say in addition.[^29] For example, if someone is unwittingly anti-reliable at achieving their goals (that is, they reliably achieve the _opposite_ of what they intend, without realizing it), it would clearly be _unfortunate_ were they to sincerely aim at promoting the general good, and we should stop them from having this aim if we can. But their good intentions may be genuinely _virtuous_ and admirable nonetheless.
+In particular, hybrid utilitarians may understand virtue and praise-worthiness as concerning whether the target individual _intends_ good results, in contrast to global utilitarian evaluation of whether the target’s intentions _produce_ good results. When the two come into conflict, we should prefer to achieve good results than to merely intend them—so in this sense the hybrid utilitarian agrees with much that the global utilitarian wants to say. Hybridists just hold that there is more to say in addition.[^32] For example, if someone is unwittingly anti-reliable at achieving their goals (that is, they reliably achieve the _opposite_ of what they intend, without realizing it), it would clearly be _unfortunate_ were they to sincerely aim at promoting the general good, and we should stop them from having this aim if we can. But their good intentions may be genuinely _virtuous_ and admirable nonetheless.
 
 Purists may object that hybrid utilitarianism is not “really” a form of utilitarianism. And, indeed, it's a hybrid view, combining utilitarian claims (about what matters and what ought to be done) with claims about virtue, praise- and blame-worthiness that go beyond direct utilitarian evaluation. But so long as these further claims do not conflict with any of the core utilitarian claims about what matters and what ought to be done, there would seem no barrier to combining both kinds of claims into a unified view. This may prove a relief for those otherwise drawn to utilitarianism, but who find pure global utilitarian claims about virtue and blameworthiness to be intuitively implausible or incomplete.
 
@@ -331,56 +331,56 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 
     Parfit, D. (2003). [Justifiability to each person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio_, 16(4): 368–390.
 
-[^8a]:
+[^9]:
     Technically, a third possibility would be to reduce the number of negative lives. Indeed, many utilitarians support (voluntary) euthanasia, based on the recognition that a life of suffering may be worse than no life at all.
 
     See, e.g., Singer, P. (2011). Chapter 7: Taking Life: Humans, _Practical Ethics_, 3rd ed. Cambridge University Press.
 
-[^9]:
+[^10]:
     The notion of a positive life, which is crucial for the total view, only makes sense relative to a zero point on the well-being scale. This zero point is the threshold above which life becomes “worth living”. A “neutral life”, at well-being level 0, is neither “worth living” nor “not worth living”. This may be either a life with no value or disvalue, or a life with exactly as much value as disvalue.
 
     For discussion of the subtleties surrounding the concept of a life “worth living”, see Broome, J. (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press, pp. 66–68.
 
-[^10]:
+[^11]:
     But note that it does not straightforwardly match what Bentham and Mill meant by utilitarianism. For example, Bentham said that actions should be evaluated “according to the tendency” by which they increase or decrease well-being. Similarly, Mill argued that “actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness”.
 
     Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.), p. 7.
 
     Mill, J. S. (1863). _[Utilitarianism](https://www.earlymoderntexts.com/assets/pdfs/mill1863.pdf)_. Bennett, J. (ed.), p. 5.
 
-[^11]: Blame can be thought of as either an attitude (of moral disapproval) or an action (expressing such disapproval). Blaming actions are, for utilitarians, like any other action in that they should only be performed if they serve to promote well-being. Excessive blame would likely have bad consequences, because it discourages people from even trying. Instead, we should usually praise people who take steps in the right direction. On the moral assessment of attitudes, see the discussion of global vs hybrid utilitarianism below.
-[^12]:
+[^12]: Blame can be thought of as either an attitude (of moral disapproval) or an action (expressing such disapproval). Blaming actions are, for utilitarians, like any other action in that they should only be performed if they serve to promote well-being. Excessive blame would likely have bad consequences, because it discourages people from even trying. Instead, we should usually praise people who take steps in the right direction. On the moral assessment of attitudes, see the discussion of global vs hybrid utilitarianism below.
+[^13]:
     Railton, P. (1988). [How Thinking about Character and Utilitarianism Might Lead to Rethinking the Character of Utilitarianism](https://dx.doi.org/10.1111/j.1475-4975.1988.tb00135.x). _Midwest Studies in Philosophy_ 13 (1): 398-416, p.407.
 
     Norcross, A. (2020). _[Morality by Degrees: Reasons Without Demands](https://philpapers.org/rec/NORMBD)_. Oxford University Press.
 
-[^13]:
+[^14]:
     For a discussion of this view, see Slote, M. & Pettit, P. (1984). [Satisficing Consequentialism](https://www.princeton.edu/~ppettit/papers/1984/Satisficing%20Consequentialism.pdf). _Proceedings of the Aristotelian Society_, Supplementary Volumes. 58: 139–163 & 165–176.
 
-[^14]: In particular, traditional satisficing accounts struggle to offer a non-arbitrary specification of the threshold for doing “enough” good, and are vulnerable to the objection that they permit the gratuitous prevention of goodness above this threshold. Both objections are addressed in Chappell, R.Y. (2019). [Willpower Satisficing](https://dx.doi.org/10.1111/nous.12213). _Noûs_ 53(2): 251–265.
-[^15]: See, e.g., Chappell, R.Y. (2020). [Deontic Pluralism and the Right Amount of Good](https://philpapers.org/rec/CHADPA-8). In Douglas W. Portmore (ed.), _The Oxford Handbook of Consequentialism_. Oxford University Press. pp. 498–512.
-[^16]: Norcross, A. (2020). _[Morality by Degrees: Reasons Without Demands](https://philpapers.org/rec/NORMBD)_. Oxford University Press.
-[^17]:
+[^15]: In particular, traditional satisficing accounts struggle to offer a non-arbitrary specification of the threshold for doing “enough” good, and are vulnerable to the objection that they permit the gratuitous prevention of goodness above this threshold. Both objections are addressed in Chappell, R.Y. (2019). [Willpower Satisficing](https://dx.doi.org/10.1111/nous.12213). _Noûs_ 53(2): 251–265.
+[^16]: See, e.g., Chappell, R.Y. (2020). [Deontic Pluralism and the Right Amount of Good](https://philpapers.org/rec/CHADPA-8). In Douglas W. Portmore (ed.), _The Oxford Handbook of Consequentialism_. Oxford University Press. pp. 498–512.
+[^17]: Norcross, A. (2020). _[Morality by Degrees: Reasons Without Demands](https://philpapers.org/rec/NORMBD)_. Oxford University Press.
+[^18]:
     Sinhababu (2018) advances a form of scalar consequentialism that takes right and wrong to themselves be matters of degree, but the boundary point between the two is determined by conversational context rather than anything morally fundamental (or indeed genuinely significant in any way). As a result, this seems to be a merely verbal variant on the definition that we use here.
 
     Sinhababu, N. (2018). [Scalar Consequentialism the Right Way](https://link.springer.com/article/10.1007%2Fs11098-017-0998-y). _Philosophical Studies_. 175: 3131–3144.
 
-[^18]: Chappell, R.Y. (2020). [Deontic Pluralism and the Right Amount of Good](https://philpapers.org/rec/CHADPA-8). In Douglas W. Portmore (ed.), _The Oxford Handbook of Consequentialism_. Oxford University Press. pp. 498-512.
-[^19]: Jackson, F. (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.
-[^20]: In line with the above explanation of welfarism, utilitarians of any type understand “value” in terms of well-being.
-[^20a]: Compare the analogous distinction between what is prudentially rational versus what is objectively best for you. Obviously, both of these normative concepts have a role to play in philosophical reflections about the perspective of self-interest. There's no inherent barrier to using the term "ought" in relation to _either_ normative role, subjective or objective, so long as one is clear about which meaning is intended.
-[^20b]: These are both genuine normative properties. We can ask which option has the normative property of being _what a fully informed, morally ideal spectator would want the agent to do_. And we can ask which option has the normative property of being _instrumentally rational, relative to the correct moral goals, given the evidence available to the agent_. Someone who thinks there is a real dispute between the two must think that there is some _third_ normative property, of being _what you really ought to do_, that might coincide with just one of the above two properties. If we doubt that there is any such third property, then there is nothing more to dispute. We just need to be clear about which of the above two properties we mean to pick out with our "ought" talk.
-[^21]:
+[^19]: Chappell, R.Y. (2020). [Deontic Pluralism and the Right Amount of Good](https://philpapers.org/rec/CHADPA-8). In Douglas W. Portmore (ed.), _The Oxford Handbook of Consequentialism_. Oxford University Press. pp. 498-512.
+[^20]: Jackson, F. (1991). [Decision-theoretic consequentialism and the nearest and dearest objection](https://dx.doi.org/10.1086/293312). _Ethics_, 101(3): 461–482.
+[^21]: In line with the above explanation of welfarism, utilitarians of any type understand “value” in terms of well-being.
+[^22]: Compare the analogous distinction between what is prudentially rational versus what is objectively best for you. Obviously, both of these normative concepts have a role to play in philosophical reflections about the perspective of self-interest. There's no inherent barrier to using the term "ought" in relation to _either_ normative role, subjective or objective, so long as one is clear about which meaning is intended.
+[^23]: These are both genuine normative properties. We can ask which option has the normative property of being _what a fully informed, morally ideal spectator would want the agent to do_. And we can ask which option has the normative property of being _instrumentally rational, relative to the correct moral goals, given the evidence available to the agent_. Someone who thinks there is a real dispute between the two must think that there is some _third_ normative property, of being _what you really ought to do_, that might coincide with just one of the above two properties. If we doubt that there is any such third property, then there is nothing more to dispute. We just need to be clear about which of the above two properties we mean to pick out with our "ought" talk.
+[^24]:
     Bales, R. E. (1971). [Act-Utilitarianism: Account of Right-Making Characteristics or Decision-Making Procedure?](https://www.jstor.org/stable/20009403) _American Philosophical Quarterly_. 8(3): 257–265.
 
     For a discussion of the multi-level view in the context of Mill’s _Utilitarianism_, see Crisp, R. (1997). _[Routledge Philosophy Guidebook to Mill on Utilitarianism](https://philpapers.org/rec/CRIRPG-2)_. Abingdon: Routledge, pp. 105–112.
 
-[^22]:
+[^25]:
     Hare, R. M. (1981). [Moral Thinking: Its Levels, Method, and Point](https://doi.org/10.1093/0198246609.001.0001). Oxford: Oxford University Press.
 
     Railton, P. (1984). [Alienation, consequentialism, and the demands of morality](https://www.jstor.org/stable/2265273). _Philosophy and Public Affairs_. 13(2): 134–171.
 
-[^23]:
+[^26]:
     Jeremy Bentham rejected single-level utilitarianism, writing that “it is not to be expected that this process [of calculating expected consequences] should be strictly pursued previously to every moral judgment.”
 
     Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.), p. 23.
@@ -389,8 +389,8 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 
     Sidgwick, H. (1874). _[The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf)_. Bennett, J. (ed.), p. 201.
 
-[^24]: Sinnott-Armstrong, W. (2019). [Consequentialism](https://plato.stanford.edu/archives/sum2019/entries/consequentialism/), _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
-[^25]:
+[^27]: Sinnott-Armstrong, W. (2019). [Consequentialism](https://plato.stanford.edu/archives/sum2019/entries/consequentialism/), _The Stanford Encyclopedia of Philosophy_. Zalta, E. N. (ed.).
+[^28]:
     Advocates of global consequentialism have framed it as marking a departure from traditional act consequentialism, but there has been subsequent dispute over this claim. For advocacy of global consequentialism as a distinct view, see:
 
     Pettit, P. & Smith, M. (2000). [Global Consequentialism](https://philarchive.org/archive/PETGC), in Brad Hooker, Elinor Mason & Dale Miller (eds.), _Morality, Rules and Consequences: A Critical Reader_. Edinburgh University Press.
@@ -405,7 +405,7 @@ The next chapter discusses arguments for utilitarianism, and for consequentialis
 
     The latter argues that Global Consequentialism is best understood as a merely verbal variant of Act Consequentialism.
 
-[^26]: Driver, J. (2001). Chapter Four: A Consequentialist Theory of Virtue. _[Uneasy Virtue](https://doi.org/10.1017/CBO9780511498770)_. Cambridge University Press, 63–83.
-[^27]: Hurka, T. (2001). _[Virtue, Vice, and Value](https://doi.org/10.1093/0195137167.001.0001)_. Oxford University Press.
-[^28]: This mirrors Parfit's distinction between 'state-given' vs 'object-given' reasons. See Parfit, D. (2011) _On What Matters_, vol 1. Oxford University Press, p. 50.
-[^29]: For further defense of this view, see Chappell, R.Y. Consequentialism: Core and Expansion, forthcoming in D. Copp, C. Rosati, and T. Rulli (eds.) _The Oxford Handbook of Normative Ethics_.
+[^29]: Driver, J. (2001). Chapter Four: A Consequentialist Theory of Virtue. _[Uneasy Virtue](https://doi.org/10.1017/CBO9780511498770)_. Cambridge University Press, 63–83.
+[^30]: Hurka, T. (2001). _[Virtue, Vice, and Value](https://doi.org/10.1093/0195137167.001.0001)_. Oxford University Press.
+[^31]: This mirrors Parfit's distinction between 'state-given' vs 'object-given' reasons. See Parfit, D. (2011) _On What Matters_, vol 1. Oxford University Press, p. 50.
+[^32]: For further defense of this view, see Chappell, R.Y. Consequentialism: Core and Expansion, forthcoming in D. Copp, C. Rosati, and T. Rulli (eds.) _The Oxford Handbook of Normative Ethics_.
