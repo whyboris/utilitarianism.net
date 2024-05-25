@@ -1,10 +1,18 @@
 {{/*
   Original: https://github.com/loup-brun/hugo-cite/blob/master/layouts/partials/bibliography/apa-style.html
 
-  This file was not modified from its original form as of May 2024
+  This file was heavily modified for our preference
 */}}
 
-{{/* BEGIN author -------------------------------------------------- */}}
+{{/* ------------------- ICON ------------------------------ */}}
+{{ define "icon" }}
+  <div class="list-icon">
+    {{ . }}
+  </div>
+{{ end }}
+
+
+{{/* -------------------- AUTHOR --------------------------- */}}
 {{- define "authorPart" }}
   {{- $authors := .author }}
   {{- if $authors -}}
@@ -32,9 +40,12 @@
   {{- else -}}{{/* Fallback if no authors are specified */}}
     ({{- i18n "apa_no_author_abbr" | default "n.a." | upper -}}).
   {{- end -}}
-{{- end -}}{{/* END author */}}
+{{- end -}}
 
-{{/* BEGIN editor -------------------------------------------------- */}}
+
+
+
+{{/* -------------------- EDITOR ---------------------------------- */}}
 {{- define "editorPart" }}
   {{- $editors := .editor }}
   {{- if $editors -}}
@@ -57,9 +68,11 @@
   {{ if eq $totalEditors (add $editorIndex 2) -}}&#32;&amp;&#32;{{ end -}}{{/* Last name has ampersand */}}
   {{- end -}}
   {{- end -}}
-{{- end -}}{{/* END editor */}}
+{{- end -}}
 
-{{/* BEGIN issued (year of publication) ------------------------------- */}}
+
+
+{{/* -------------------- ISSUED (YEAR OF PUBLICATION) --------- */}}
 {{- define "issuedPart" }}
   {{- if and (isset . "issued") (isset .issued "date-parts") -}}
     {{/* range of dates */}}
@@ -74,9 +87,11 @@
   {{- else }}
   ({{ i18n "apa_no_date_abbr" | default "n.d." }}){{/* no date */}}
   {{- end }}
-{{- end }}{{/* END issued */}}
+{{- end }}
 
-{{/* BEGIN full issued (year, month day) ----------------------------- */}}
+
+
+{{/* -------------------- FULL ISSUED (YEAR, MONTH, DAY) -------------- */}}
 {{- define "issuedFullPart" }}
   {{- if and (isset . "issued") (isset .issued "date-parts") -}}
     (<span itemprop="datePublished">
@@ -93,9 +108,12 @@
   {{- else }}
   (s.d.){{/* no date */}}
   {{- end }}
-{{- end }}{{/* END issued */}}
+{{- end }}
 
-{{/* BEGIN SMIPLE DOI -------------------------------------------------- */}}
+
+
+
+{{/* -------------------- Simple DOI part ----------------------------- */}}
 {{- define "SimpleDOIPart" }}
   {{- if .DOI }}
   <a href="https://doi.org/{{ .DOI }}"
@@ -103,9 +121,10 @@
      itemtype="https://schema.org/URL">https://doi.org/{{- .DOI -}}</a>
   {{- end -}}
 {{- end -}}
-{{- /* END DOI*/ -}}
 
-{{/* BEGIN DOI  -------------------------------------------------- */}}
+
+
+{{/* -------------------- DOI part ------------------------------------ */}}
 {{- define "DOIPart" }}
   {{- if .DOI }}
   <a href="https://doi.org/{{ .DOI }}"
@@ -120,9 +139,9 @@
       itemtype="https://schema.org/URL">{{ .URL }}</a>
   {{- end -}}
 {{- end -}}
-{{- /* END DOI*/ -}}
 
-{{/* BEGIN ArchivalID  -------------------------------------------------- */}}
+
+{{/* -------------------- ArchivalID  ---------------------------- */}}
 {{- define "ArchivalID" }}
   {{ if isset . "archive" -}}&#32;{{ i18n "archive_available_from" | default "Available from" }}
     <meta itemprop="Organization" itemtype="http://schema.org/Organization" itemscope>
@@ -130,29 +149,35 @@
     {{- if isset . "archive_location" -}}&#32; ({{- echoParam . "archive_location" -}}){{- end }}.
   {{- end }}
 {{- end -}}
-{{- /* END ArchivalID */ -}}
 
-{{/* -------------------- BEGIN TYPES -------------------- */}}
-{{/* -------------------- BEGIN BOOK TYPE -------------------- */}}
+
+
+
+
+
+{{/* ==================== BOOK ==================== */}}
 {{- if eq .type "book" -}}
-📚
+
+{{ template "icon" "📘"}}
+
   {{- if .author -}}
-  {{- template "authorPart" . -}}
-  &#32;
+    {{- template "authorPart" . -}}
+    &#32;
   {{- else if .editor -}}{{/* Display editors if no authors*/}}
-  {{- template "editorPart" . -}}
-  &#32;
+    {{- template "editorPart" . -}}
+    &#32;
   {{- end -}}
+
   {{- template "issuedPart" . }}.
   &#32;
-  {{- if .title -}}
-  <span itemprop="name">
+
+  {{/*  Make title into URL if exists  */}}
+  {{ if .title }}
     {{ if .URL }}<a href="{{ .URL }}">{{ end }}
-    <i>{{/* italicize title */}}
-      {{- title .title | markdownify -}}
-      {{- if .subtitle }}: {{ .subtitle | markdownify }}{{- end -}}
-    </i>{{if .URL }}</a>{{ end }}</span>{{/* close to avoid space */}}
-  {{- end -}}
+    <i>{{ title .title }}{{ if .subtitle }}: {{ .subtitle }}{{ end }}</i>
+    {{if .URL }}</a>{{ end }}
+  {{ end }}
+
   {{- if or (isset . "edition") (isset . "page") }} (
   {{- with .edition -}}
   <span>{{ . }}</span>
@@ -173,13 +198,13 @@
     {{- template "SimpleDOIPart" . -}}
   {{ end }}
 
-{{/* -------------------- END BOOK TYPE -------------------- */}}
 
-{{/* -------------------- BEGIN CHAPTER TYPE -------------------- */}}
+
+{{/* ==================== CHAPTER ==================== */}}
 {{- else if eq .type "chapter" -}}
-<span itemscope
-      itemtype="https://schema.org/Chapter"
-      data-type="chapter">📖
+
+  {{ template "icon" "📖"}}
+
   {{ template "authorPart" . }}
   &#32;
   {{- template "issuedPart" . }}.
@@ -226,14 +251,14 @@
   {{- end }}
 
   {{- template "DOIPart" . -}}
-</span>
-{{/* -------------------- END CHAPTER TYPE -------------------- */}}
 
-{{/* -------------------- BEGIN ARTICLE TYPE -------------------- */}}
+
+
+{{/* ==================== ARTICLE ==================== */}}
 {{- else if or (eq .type "article-journal") (eq .type "article") -}}
-<span itemscope
-      itemtype="https://schema.org/Article"
-      data-type="article">📃
+
+  {{ template "icon" "📃" }}
+
   {{- template "authorPart" . }}
   &#32;
   {{- template "issuedPart" . }}.
@@ -264,12 +289,14 @@
   {{- end -}}
 
   {{- template "DOIPart" . -}}
-</span>
-{{/* -------------------- END ARTICLE TYPE -------------------- */}}
 
-{{/* -------------------- BEGIN WEBPAGE TYPE -------------------- */}}
+
+
+{{/* ==================== WEBPAGE ==================== */}}
 {{- else if eq .type "webpage" -}}
-🕸
+
+  {{ template "icon" "💻" }}
+
   {{- template "authorPart" . -}}
 
   {{- template "issuedPart" . -}}.
@@ -283,13 +310,13 @@
     </i>
   {{ end }}
 
-{{/* -------------------- END WEBPAGE TYPE -------------------- */}}
 
-{{/* -------------------- BEGIN THESIS TYPE -------------------- */}}
+
+{{/* ==================== THESIS ==================== */}}
 {{- else if eq .type "thesis" -}}
-<span itemscope
-      itemtype="https://schema.org/Thesis"
-      data-type="thesis">🔥
+
+  {{ template "icon" "🎓" }}
+
   {{- template "authorPart" . }}
   &#32;
   {{- template "issuedPart" . }}.
@@ -314,14 +341,14 @@
   {{- end }}
   {{- template "ArchivalID" . -}}
   {{- template "DOIPart" . -}}
-</span>
-{{/* -------------------- END THESIS TYPE -------------------- */}}
 
-{{/* -------------------- BEGIN REPORT TYPE -------------------- */}}
+
+
+{{/* ==================== REPORT ==================== */}}
 {{- else if eq .type "report" -}}
-<span itemscope
-      itemtype="https://schema.org/Report"
-      data-type="report">📜
+
+  {{ template "icon" "📜" }}
+
   {{- template "authorPart" . }}
   &#32;
   {{- template "issuedPart" . }}.
@@ -347,8 +374,8 @@
   {{- end }}
   {{- template "ArchivalID" . -}}
   {{- template "DOIPart" . -}}
-</span>
-{{/* -------------------- END REPORT TYPE -------------------- */}}
+
+{{/* ------------------------------------------------ */}}
 
 {{/* -------------------- ALL ELSE -------------------- */}}
 {{- else -}}

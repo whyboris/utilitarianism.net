@@ -57,3 +57,12 @@ h1 {
     }
   }
 }
+
+.list-icon {
+  background: white;
+  display: inline;
+  padding-right: 10px;
+  pointer-events: none;
+  position: absolute;
+  transform: translateX(-34px);
+}
