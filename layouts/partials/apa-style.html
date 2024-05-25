@@ -4,7 +4,7 @@
   This file was not modified from its original form as of May 2024
 */}}
 
-{{/* BEGIN author */}}
+{{/* BEGIN author -------------------------------------------------- */}}
 {{- define "authorPart" }}
   {{- $authors := .author }}
   {{- if $authors -}}
@@ -18,7 +18,7 @@
 
         {{/*  TODO: figure out all the commas / spacing -- need a comma before `&` */}}
       {{- if and (gt $totalAuthors 1) (lt (add $authorIndex 2) $totalAuthors) -}},&#32;{{- end -}}
-      {{- if eq $totalAuthors (add $authorIndex 2) -}},&#32;&amp;&#32;{{ end -}}{{/* Last name has ampersand */}}
+      {{- if eq $totalAuthors (add $authorIndex 2) -}}&#32;&amp;&#32;{{ end -}}{{/* Last name has ampersand */}}
     {{- end -}}
 
   {{ else }}
@@ -34,7 +34,7 @@
   {{- end -}}
 {{- end -}}{{/* END author */}}
 
-{{/* BEGIN editor */}}
+{{/* BEGIN editor -------------------------------------------------- */}}
 {{- define "editorPart" }}
   {{- $editors := .editor }}
   {{- if $editors -}}
@@ -59,7 +59,7 @@
   {{- end -}}
 {{- end -}}{{/* END editor */}}
 
-{{/* BEGIN issued (year of publication) */}}
+{{/* BEGIN issued (year of publication) ------------------------------- */}}
 {{- define "issuedPart" }}
   {{- if and (isset . "issued") (isset .issued "date-parts") -}}
     {{/* range of dates */}}
@@ -76,7 +76,7 @@
   {{- end }}
 {{- end }}{{/* END issued */}}
 
-{{/* BEGIN full issued (year, month day) */}}
+{{/* BEGIN full issued (year, month day) ----------------------------- */}}
 {{- define "issuedFullPart" }}
   {{- if and (isset . "issued") (isset .issued "date-parts") -}}
     (<span itemprop="datePublished">
@@ -95,7 +95,17 @@
   {{- end }}
 {{- end }}{{/* END issued */}}
 
-{{/* BEGIN DOI */}}
+{{/* BEGIN SMIPLE DOI -------------------------------------------------- */}}
+{{- define "SimpleDOIPart" }}
+  {{- if .DOI }}
+  <a href="https://doi.org/{{ .DOI }}"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/{{- .DOI -}}</a>
+  {{- end -}}
+{{- end -}}
+{{- /* END DOI*/ -}}
+
+{{/* BEGIN DOI  -------------------------------------------------- */}}
 {{- define "DOIPart" }}
   {{- if .DOI }}
   <a href="https://doi.org/{{ .DOI }}"
@@ -112,7 +122,7 @@
 {{- end -}}
 {{- /* END DOI*/ -}}
 
-{{/* BEGIN ArchivalID */}}
+{{/* BEGIN ArchivalID  -------------------------------------------------- */}}
 {{- define "ArchivalID" }}
   {{ if isset . "archive" -}}&#32;{{ i18n "archive_available_from" | default "Available from" }}
     <meta itemprop="Organization" itemtype="http://schema.org/Organization" itemscope>
@@ -125,9 +135,7 @@
 {{/* -------------------- BEGIN TYPES -------------------- */}}
 {{/* -------------------- BEGIN BOOK TYPE -------------------- */}}
 {{- if eq .type "book" -}}
-<span itemscope
-      itemtype="https://schema.org/Book"
-      data-type="book">📚
+📚
   {{- if .author -}}
   {{- template "authorPart" . -}}
   &#32;
@@ -139,10 +147,11 @@
   &#32;
   {{- if .title -}}
   <span itemprop="name">
+    {{ if .URL }}<a href="{{ .URL }}">{{ end }}
     <i>{{/* italicize title */}}
       {{- title .title | markdownify -}}
       {{- if .subtitle }}: {{ .subtitle | markdownify }}{{- end -}}
-    </i></span>{{/* close to avoid space */}}
+    </i>{{if .URL }}</a>{{ end }}</span>{{/* close to avoid space */}}
   {{- end -}}
   {{- if or (isset . "edition") (isset . "page") }} (
   {{- with .edition -}}
@@ -153,21 +162,17 @@
   <meta itemprop="numberOfPages" content="{{ .page }}">
   {{- end -}}
   ){{- end -}}.
-  {{ if isset . "publisher-place" -}}
-  <meta itemprop="contentLocation"
-        value="{{- echoParam . "publisher-place" -}}">
-  {{- end -}}
-  {{- with .publisher -}}&#32;
-  <span itemprop="publisher"
-             itemtype="http://schema.org/Organization"
-             itemscope="">
-    <span itemprop="name">
-      {{- . -}}
-    </span></span>.
-  {{- end }}
 
-  {{- template "DOIPart" . -}}
-</span>
+  {{ if isset . "publisher-place" -}}
+    {{- echoParam . "publisher-place" -}}:
+  {{- end -}}
+
+  {{- with .publisher -}}&#32;{{- . -}}.{{- end }}
+
+  {{ if not .URL }}
+    {{- template "SimpleDOIPart" . -}}
+  {{ end }}
+
 {{/* -------------------- END BOOK TYPE -------------------- */}}
 
 {{/* -------------------- BEGIN CHAPTER TYPE -------------------- */}}
@@ -264,15 +269,20 @@
 
 {{/* -------------------- BEGIN WEBPAGE TYPE -------------------- */}}
 {{- else if eq .type "webpage" -}}
-<span itemscope
-      itemtype="https://schema.org/WebPage"
-      data-type="webpage">🕸
+🕸
   {{- template "authorPart" . -}}
 
   {{- template "issuedPart" . -}}.
 
   {{- template "DOIPart" . -}}
-</span>
+
+
+  {{ if isset . "container-title"}}
+    <i>
+      {{ echoParam . "container-title" }}
+    </i>
+  {{ end }}
+
 {{/* -------------------- END WEBPAGE TYPE -------------------- */}}
 
 {{/* -------------------- BEGIN THESIS TYPE -------------------- */}}
