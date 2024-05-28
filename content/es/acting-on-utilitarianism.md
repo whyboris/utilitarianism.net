@@ -27,7 +27,7 @@ A lo largo de este artículo, utilizamos expresiones como "hacer el bien" y "ten
 
 La riqueza y la renta están distribuidas de forma muy desigual en todo el mundo. Los miembros de la clase media de países ricos como EE. UU. y el Reino Unido ganan 50 veces más que los 750 millones de personas más pobres del mundo, lo que los ubica en el 5 % más rico de la población mundial.[^2] Esta disparidad de la riqueza significa que los ciudadanos acomodados de las naciones prósperas tienen grandes oportunidades de beneficiar a los demás.
 
-![Distribución mundial de la renta](/imagenes/actuar-conforme-al-utilitarismo/figura-1.png)
+![Distribución mundial de la renta](/img/World-Income-Distribution.svg)
 
 > _Ganar más de $29.000 al año te sitúa en el 5 % más rico de la población mundial._ Cf. {{< cite GivingWhatWeCan2019HowRichAm >}}.
 
@@ -95,7 +95,7 @@ En tercer lugar, podemos mejorar significativamente la vida de los animales de g
 
 Sin embargo, a pesar de la magnitud del problema, el bienestar animal en las granjas está muy desatendido.
 
-![Estadísticas sobre animales](/imagenes/actuar-conforme-al-utilitarismo/figura-2.png)
+![Estadísticas sobre animales](/img/Animal-Statistics.png)
 
 En EE. UU., sólo se donan unas pocas decenas de millones de dólares filantrópicos al año a organizaciones que se centran en mejorar la vida de los animales de granja. La cantidad gastada es ínfima en comparación con otras causas relacionadas con los animales: hay 3.000 veces más animales en los criaderos intensivos que mascotas callejeras, pero los esfuerzos para combatir la cría intensiva de animales reciben una quincuagésima parte de los fondos destinados a ayudar a esos animales domésticos.[^22]
 
