@@ -2,16 +2,16 @@
 
 This folder contains source files to re-create images when needed (for a new translation or any other reason).
 
-## Population Ethics
+## Population Ethics & Equality
 
-Use _Adobe Illustrator_ to edit the file. When saving:
+Use _Adobe Illustrator_ to edit the file. When generating new images:
 
 1. File -> Save As -> Save as type `svg`
 2. Click "Use Artboards"
 3. Profile `SVG 1.1`
 4. Fonts _Type_ `Convert to outline`
 
-After saving, `Optimize` the SVG (see section below)
+After saving, [`Optimize`](#optimize-svg) the SVG (see section below)
 
 ## Global Income Distribution
 
@@ -27,7 +27,7 @@ The folder `Global-Income-Distribution` contains all the data needed to re-creat
 
 When _Jupyter Lab_ starts, open the `Global-Income-Distribution.ipynb` file and execute all the cells. The last one generates `Global-Income-Distribution.svg`
 
-After saving, `Optimize` the SVG (see section below)
+After saving, [`Optimize`](#optimize-svg) the SVG (see section below)
 
 ## Optimize SVG
 
