@@ -19,7 +19,7 @@ El utilitarismo nos ordena promover el bienestar general. Pero no podemos estar 
 
 ## La objeción epistémica al consecuencialismo
 
-El artículo <cite>{{< cite Lenman2000ConsequentialismCluelessness >}}</cite> de James Lenman presenta una influyente _objeción epistémica_ contra el [consecuencialismo](/elementos-y-tipos-de-utilitarismo#consecuencialismo) (y por lo tanto, por extensión, contra el utilitarismo). Podemos reconstruir el argumento aproximadamente de la siguiente manera:
+El artículo {{< cite -Lenman2000ConsequentialismCluelessness >}} de James Lenman presenta una influyente _objeción epistémica_ contra el [consecuencialismo](/elementos-y-tipos-de-utilitarismo#consecuencialismo) (y por lo tanto, por extensión, contra el utilitarismo). Podemos reconstruir el argumento aproximadamente de la siguiente manera:
 
 > P1. No tenemos la menor idea de cuáles serán los efectos a largo plazo de cualquiera de nuestras acciones.
 >
