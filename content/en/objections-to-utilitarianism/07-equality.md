@@ -19,7 +19,7 @@ gradientBottom: "#260380"
 
 Some argue that utilitarianism conflicts with the ideal of equality. Suppose, for example, that you could choose between two possible distributions of well-being, Equality and Inequality: Equality has 1,000 people at well-being level 45, while Inequality has 500 people at 80 well-being and another 500 people at 20 well-being.
 
-![Utilitarianism and equality - objections to utilitarianism](/img/equality1.png "Utilitarianism and equality - objections to utilitarianism")
+![Utilitarianism and equality - objections to utilitarianism](/img/equality1.svg "Utilitarianism and equality - objections to utilitarianism")
 
 By the lights of utilitarianism, only the sum total of well-being determines the goodness of an outcome: it does not matter how that well-being is distributed across people. Since the sum total of well-being is greater in Inequality than in Equality, the unequal outcome is preferable according to utilitarianism.
 
@@ -47,7 +47,7 @@ This confusion that Greene describes may mislead our intuitions in the choice be
 
 If we specify the original example in money, and use the standard economic measure of the rate of diminishing returns to money,[^2] then we should represent the choice between Equality and Inequality as follows: In Equality 1,000 people get $13,500, while in Inequality 500 people get $10,000 and 500 people get $50,000.
 
-![Utilitarianism and equality - objections to utilitarianism](/img/equality2.jpg "Utilitarianism and equality - objections to utilitarianism")
+![Utilitarianism and equality - objections to utilitarianism](/img/equality2.svg "Utilitarianism and equality - objections to utilitarianism")
 
 Put in these terms, we think it's no longer intuitively obvious that the utilitarian choice, favoring Inequality over Equality, is the wrong one. Everyone would agree that some level of inequality can be justified by greater total well-being; how exactly to make this trade-off is tricky, and it's not obvious that utilitarianism gets the wrong answer.
 
@@ -59,9 +59,9 @@ We can also show that the alternatives to the utilitarian distribution of well-b
 
 To see this, suppose that you can choose between one of two options for distributions of well-being, Safe Bet and Risky Gamble: In Safe Bet both Abel and Beth are guaranteed 45 well-being. In Risky Gamble a fair coin is tossed. If it lands heads, Abel receives 80 well-being and Beth receives 20 well-being. If it lands tails, Beth receives 80 well-being and Abel receives 20 well-being.
 
-![Utilitarianism and equality - objections to utilitarianism](/img/equality3.jpg "Utilitarianism and equality - objections to utilitarianism")
+![Utilitarianism and equality - objections to utilitarianism](/img/equality3.svg "Utilitarianism and equality - objections to utilitarianism")
 
-We can stipulate that both Abel and Beth would rationally prefer Risky Gamble over Safe Bet. They do so because their expected well-being in Risky Gamble is 50 (=(80+20) x 50%), which is higher than the expected well-being in Safe Bet of 45.[^5] So, if we follow ex ante Pareto then we should prefer Risky Gamble to Safe Bet. However, Risky Gamble results in an unequal outcome. Those who preferred Equality to Inequality must therefore also prefer Safe Bet to Risky Gamble. They must do so even though doing so is against the best interests of all parties concerned.
+We can stipulate that both Abel and Beth would rationally prefer Risky Gamble over Safe Bet. They do so because their expected well-being in Risky Gamble is 50 <span class="no-wrap">(=(80+20) x 50%)</span>, which is higher than the expected well-being in Safe Bet of 45.[^5] So, if we follow ex ante Pareto then we should prefer Risky Gamble to Safe Bet. However, Risky Gamble results in an unequal outcome. Those who preferred Equality to Inequality must therefore also prefer Safe Bet to Risky Gamble. They must do so even though doing so is against the best interests of all parties concerned.
 
 This argument has been developed formally by the economist John Harsanyi, who proved it in his utilitarian aggregation theorem.[^6]
 

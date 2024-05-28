@@ -94,7 +94,7 @@ Aun así, al fin y al cabo no hay garantía de que las creencias verdaderas sean
 
 [^4]: Aunque, de nuevo, es interesante considerar cómo se enfrentan a esta objeción las distintas teorías. Muchas son tan vagas que dejan mucho espacio para interpretaciones al servicio del interés propio, por lo que también parecerían fácilmente explotables por actores malintencionados.
 
-[^5]: Como escribe [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) en el capítulo 2 de <cite>{{< cite Mill2014Utilitarismo >}}</cite>, "No hay dificultad en demostrar que cualquier norma ética funciona mal, si suponemos que la idiotez universal va unida a ella."
+[^5]: Como escribe [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) en el capítulo 2 de {{< cite -Mill2014Utilitarismo >}}, "No hay dificultad en demostrar que cualquier norma ética funciona mal, si suponemos que la idiotez universal va unida a ella."
 
 [^6]: O tal vez como una “[mentira para los niños](https://es.wikipedia.org/wiki/Mentira_para_los_ni%C3%B1os)” simplificada.
 

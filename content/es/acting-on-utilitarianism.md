@@ -120,7 +120,7 @@ Por lo tanto, la extinción de la especie humana privaría irreversiblemente a l
 
 Trabajar para que el futuro a largo plazo de la humanidad sea bueno no sólo es muy importante, sino que también está muy desatendido. Las personas del futuro no pueden influir en las decisiones que tomamos hoy en nuestros sistemas económicos y políticos; no participan en los mercados ni tienen voto. En esencia, los individuos del futuro no tienen voz. En este contexto, no es de extrañar que nuestra generación desatienda sistemáticamente los intereses y el bienestar de los muchos individuos que existirán en el futuro.
 
-Para un análisis detallado de los riesgos existenciales y la importancia moral del futuro a largo plazo de la humanidad, recomendamos <cite>{{< cite -Ord2020PrecipiceExistentialRisk >}}</cite>.
+Para un análisis detallado de los riesgos existenciales y la importancia moral del futuro a largo plazo de la humanidad, recomendamos {{< cite -Ord2020PrecipiceExistentialRisk >}}.
 
 ## Caminos hacia el impacto
 
@@ -232,7 +232,7 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
     {{< cite MacAskill2019DefinitionEffectiveAltruism >}}.
 
 [^11]: {{< cite Parfit2011WhatMattersVolumec "pp. 436-437" >}}.
-[^12]: Por ejemplo, el libro de Peter Singer <cite>{{< cite -Singer2009LifeYouCan1 >}}</cite> (la edición actualizada del décimo aniversario se puede descargar gratuitamente) defiende la importancia ética de mejorar la salud global y el desarrollo internacional.
+[^12]: Por ejemplo, el libro de Peter Singer {{< cite -Singer2009LifeYouCan1 >}} (la edición actualizada del décimo aniversario se puede descargar gratuitamente) defiende la importancia ética de mejorar la salud global y el desarrollo internacional.
 [^13]: {{< cite Roser2013ChildAndInfant >}}.
 [^14]: {{< cite Roser2013ChildAndInfant >}}.
 [^15]: {{< cite GiveWell2010YourDollarGoes >}}.
