@@ -57,3 +57,18 @@ h1 {
     }
   }
 }
+
+ul {
+  .list-icon {
+    display: inline;
+  }
+}
+
+.list-icon {
+  background: white;
+  display: none;
+  padding-right: 10px;
+  pointer-events: none;
+  position: absolute;
+  transform: translateX(-34px);
+}

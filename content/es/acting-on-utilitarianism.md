@@ -27,7 +27,7 @@ A lo largo de este artículo, utilizamos expresiones como "hacer el bien" y "ten
 
 La riqueza y la renta están distribuidas de forma muy desigual en todo el mundo. Los miembros de la clase media de países ricos como EE. UU. y el Reino Unido ganan 50 veces más que los 750 millones de personas más pobres del mundo, lo que los ubica en el 5 % más rico de la población mundial.[^2] Esta disparidad de la riqueza significa que los ciudadanos acomodados de las naciones prósperas tienen grandes oportunidades de beneficiar a los demás.
 
-![Distribución mundial de la renta](./imagenes/actuar-conforme-al-utilitarismo/figura-1.png)
+![Distribución mundial de la renta](/img/World-Income-Distribution.svg)
 
 > _Ganar más de $29.000 al año te sitúa en el 5 % más rico de la población mundial._ Cf. {{< cite GivingWhatWeCan2019HowRichAm >}}.
 
@@ -47,7 +47,7 @@ Muchos utilitaristas realizan sacrificios personales considerables debido a su c
 
 Los partidarios del altruismo eficaz intentan averiguar, de entre todos los usos posibles de nuestros recursos, cuáles son los más beneficiosos, considerados imparcialmente, y actúan en consecuencia. Así definido, el altruismo eficaz es tanto un proyecto de investigación que busca cómo hacer el mayor bien como un proyecto práctico que intenta aplicar las mejores conjeturas que tenemos sobre cómo hacer el mayor bien.[^7]
 
-Aunque el utilitarismo y el altruismo eficaz comparten ciertas similitudes,[^8] son distintos y difieren en aspectos importantes.[^9] A diferencia del utilitarismo, el altruismo eficaz no exige que [sacrifiquemos nuestros propios intereses](./objeciones-al-utilitarismo/exigencia.md) siempre que hacerlo suponga un mayor beneficio para los demás. A diferencia del utilitarismo, el altruismo eficaz no afirma que siempre deberíamos tratar de maximizar el bienestar, [independientemente de los medios que utilicemos para lograrlo](./objeciones-al-utilitarismo/derechos.md). Por último, a diferencia del utilitarismo, el altruismo eficaz no equipara el bien con la suma total del bienestar.[^10] Por estas y otras razones, muchos miembros de la comunidad del altruismo eficaz no son utilitaristas, y en su lugar suelen dar cierta importancia a una serie de teorías éticas no utilitaristas.
+Aunque el utilitarismo y el altruismo eficaz comparten ciertas similitudes,[^8] son distintos y difieren en aspectos importantes.[^9] A diferencia del utilitarismo, el altruismo eficaz no exige que [sacrifiquemos nuestros propios intereses](/objeciones/exigencia/) siempre que hacerlo suponga un mayor beneficio para los demás. A diferencia del utilitarismo, el altruismo eficaz no afirma que siempre deberíamos tratar de maximizar el bienestar, [independientemente de los medios que utilicemos para lograrlo](/objeciones/derechos/). Por último, a diferencia del utilitarismo, el altruismo eficaz no equipara el bien con la suma total del bienestar.[^10] Por estas y otras razones, muchos miembros de la comunidad del altruismo eficaz no son utilitaristas, y en su lugar suelen dar cierta importancia a una serie de teorías éticas no utilitaristas.
 
 A pesar de estas diferencias, los utilitaristas suelen mostrar entusiasmo por el altruismo eficaz. La razón principal es que, de todas las comunidades, el movimiento del altruismo eficaz es el que más se acerca a la aplicación de las ideas y valores utilitaristas fundamentales al mundo real.
 
@@ -57,7 +57,7 @@ Los miembros del movimiento del altruismo eficaz suelen descomponer el problema 
 
 ## Priorización de causas
 
-Para averiguar cuáles son las acciones más eficaces, primero tenemos que saber en qué causas centrarnos. Los utilitaristas son [imparciales respecto a las causas](./utilitarismo-y-etica-practica.md#imparcialidad-respecto-a-las-causas), lo que significa que pretenden contribuir a las causas en las que esperan tener el mayor impacto. ¿Qué causas promoverían más eficazmente el bienestar si se les prestara más atención? El intento de responder a esta pregunta se denomina "priorización de causas".
+Para averiguar cuáles son las acciones más eficaces, primero tenemos que saber en qué causas centrarnos. Los utilitaristas son [imparciales respecto a las causas](/utilitarismo-y-etica-practica#imparcialidad-respecto-a-las-causas), lo que significa que pretenden contribuir a las causas en las que esperan tener el mayor impacto. ¿Qué causas promoverían más eficazmente el bienestar si se les prestara más atención? El intento de responder a esta pregunta se denomina "priorización de causas".
 
 Dado que algunos problemas morales pueden ser mucho más importantes que otros, elegir en qué causa centrarse puede ser el factor que determine, más que ningún otro, cuánto bien hará una persona a lo largo de su vida. Sin embargo, el mundo es complejo y nos enfrentamos a una gran incertidumbre sobre cuáles son las mejores formas de hacer el bien. Esta incertidumbre provoca un desacuerdo razonable sobre cuáles son las mejores causas en las que trabajar. Pero la comunidad del altruismo eficaz ha [hecho algunos progresos](https://altruismoeficaz.net/temas/marco-itd) en la definición de tres causas sociales que parecen especialmente apremiantes: (i) la salud y el desarrollo globales, (ii) el bienestar animal en las granjas, y (iii) la reducción del riesgo existencial.
 
@@ -68,7 +68,7 @@ Dado que algunos problemas morales pueden ser mucho más importantes que otros, 
 > – Derek Parfit[^11]
 { .align-author-right }
 
-Como se explica en el capítulo [Utilitarismo y ética práctica](./utilitarismo-y-etica-practica.md#cosmopolitismo), los utilitaristas apoyan el cosmopolitismo, según el cual la distancia geográfica entre un actor y el beneficiario potencial de su ayuda no es moralmente relevante en sí misma. El cosmopolitismo implica que debemos buscar intervenciones eficaces para ayudar a los demás, con independencia de su nacionalidad, de su lugar de residencia o de su procedencia.
+Como se explica en el capítulo [Utilitarismo y ética práctica](/utilitarismo-y-etica-practica#cosmopolitismo), los utilitaristas apoyan el cosmopolitismo, según el cual la distancia geográfica entre un actor y el beneficiario potencial de su ayuda no es moralmente relevante en sí misma. El cosmopolitismo implica que debemos buscar intervenciones eficaces para ayudar a los demás, con independencia de su nacionalidad, de su lugar de residencia o de su procedencia.
 
 Sobre esta base, se puede considerar la salud y el desarrollo globales como una causa especialmente prioritaria para los utilitaristas.[^12] Los esfuerzos en este ámbito tienen un gran historial de mejoras en la vida de la gente, lo que hace que esta causa parezca especialmente tratable. Durante la mayor parte de la historia de la humanidad, lo normal era que aproximadamente dos de cada cinco niños murieran antes de cumplir los cinco años, en gran parte por causas evitables. Gracias a la mejora de las condiciones de salubridad y al acceso a la atención médica, desde entonces hemos avanzado enormemente en la lucha contra la mortalidad infantil, y las tasas mundiales descendieron a solo el 4,5 % en 2015.[^13]
 
@@ -87,7 +87,7 @@ Otras formas de ayudar a los más pobres, costo-eficaces y respaldadas por evide
 
 Mejorar el bienestar de los animales de granja debería ser una alta prioridad moral para los utilitaristas. El argumento para llegar a esta conclusión es sencillo: primero, los animales importan moralmente; segundo, los humanos causan una enorme cantidad de sufrimiento innecesario a los animales en los criaderos intensivos; tercero, hay formas fáciles de reducir el número de animales de granja y la gravedad de su sufrimiento. Examinaremos estas premisas una por una.
 
-En primer lugar, como se explica en el capítulo [Utilitarismo y ética práctica](./utilitarismo-y-etica-practica.md#especismo), los utilitaristas rechazan el especismo: la discriminación contra quienes no pertenecen a una determinada especie. Desde la óptica del utilitarismo, debemos dar la misma consideración moral al bienestar de todos los individuos, independientemente de la especie a la que pertenezcan.[^18]
+En primer lugar, como se explica en el capítulo [Utilitarismo y ética práctica](/utilitarismo-y-etica-practica#especismo), los utilitaristas rechazan el especismo: la discriminación contra quienes no pertenecen a una determinada especie. Desde la óptica del utilitarismo, debemos dar la misma consideración moral al bienestar de todos los individuos, independientemente de la especie a la que pertenezcan.[^18]
 
 En segundo lugar, nos encontramos en una situación sin precedentes históricos, en la que cada año los seres humanos matan alrededor de 70.000 millones de animales terrestres para alimentarse.[^19] La gran mayoría de ellos pasan su vida en criaderos intensivos en condiciones horrendas,[^20] hacinados, sin luz natural ni estímulos, y en riesgo constante de desarrollar dolencias como huesos debilitados o rotos, infecciones y fallo de órganos. La vida de la mayoría termina prematuramente cuando son sacrificados como alimento. Estos animales que sufren se encuentran probablemente entre las criaturas en peor situación de este planeta.
 
@@ -95,7 +95,7 @@ En tercer lugar, podemos mejorar significativamente la vida de los animales de g
 
 Sin embargo, a pesar de la magnitud del problema, el bienestar animal en las granjas está muy desatendido.
 
-![Estadísticas sobre animales](./imagenes/actuar-conforme-al-utilitarismo/figura-2.png)
+![Estadísticas sobre animales](/img/Animal-Statistics.png)
 
 En EE. UU., sólo se donan unas pocas decenas de millones de dólares filantrópicos al año a organizaciones que se centran en mejorar la vida de los animales de granja. La cantidad gastada es ínfima en comparación con otras causas relacionadas con los animales: hay 3.000 veces más animales en los criaderos intensivos que mascotas callejeras, pero los esfuerzos para combatir la cría intensiva de animales reciben una quincuagésima parte de los fondos destinados a ayudar a esos animales domésticos.[^22]
 
@@ -106,7 +106,7 @@ En EE. UU., sólo se donan unas pocas decenas de millones de dólares filantróp
 > — Derek Parfit[^23]
 { .align-author-right }
 
-El capítulo [Utilitarismo y ética práctica](./utilitarismo-y-etica-practica.md#largoplacismo) introdujo el _largoplacismo fuerte_, según el cual el determinante más importante del valor de nuestras acciones presentes es cómo afectan al futuro a largo plazo. El largoplacismo fuerte se deriva del utilitarismo —y de muchos otros puntos de vista morales— si asumimos que algunas de nuestras acciones pueden influir significativamente en el futuro a largo plazo y que podemos estimar sus efectos positivos y negativos.[^24]
+El capítulo [Utilitarismo y ética práctica](/utilitarismo-y-etica-practica#largoplacismo) introdujo el _largoplacismo fuerte_, según el cual el determinante más importante del valor de nuestras acciones presentes es cómo afectan al futuro a largo plazo. El largoplacismo fuerte se deriva del utilitarismo —y de muchos otros puntos de vista morales— si asumimos que algunas de nuestras acciones pueden influir significativamente en el futuro a largo plazo y que podemos estimar sus efectos positivos y negativos.[^24]
 
 Desde el punto de vista del largoplacismo, los problemas morales más importantes son aquellos que nos ofrecen la posibilidad de ejercer la mayor influencia positiva en las generaciones futuras. En concreto, deberían preocuparnos mucho los _riesgos existenciales_ (como una guerra nuclear total, un cambio climático extremo o una pandemia artificial), que se definen del siguiente modo:
 
@@ -126,7 +126,7 @@ Para un análisis detallado de los riesgos existenciales y la importancia moral 
 
 ¿Cuál es la mejor manera de abordar las causas más importantes? En general, hay tres cursos de acción con el mayor impacto. En primer lugar, podemos donar dinero a organizaciones benéficas. En segundo lugar, podemos trabajar en una carrera profesional que ayude a otras personas. Por último, pero no menos importante, podemos alentar a otras personas a que también participen en estas acciones.
 
-Como se señala en el capítulo [Utilitarismo y ética práctica](./utilitarismo-y-etica-practica.md#respetar-las-normas-morales-de-sentido-comun), aunque los utilitaristas aceptan la obligación de intentar hacer el mayor bien posible, en la práctica casi siempre deben evitar violar prohibiciones morales de sentido común como las que prohíben mentir o matar. Por lo tanto, un buen utilitarista haría mejor en general actuando de acuerdo con las virtudes morales de sentido común como la integridad, la honradez, el cumplimiento de la ley y la justicia y [no tratando de evaluar cada acción en términos utilitaristas](./elementos-y-tipos-de-utilitarismo.md#utilitarismo-multinivel-y-utilitarismo-de-un-solo-nivel) caso por caso.
+Como se señala en el capítulo [Utilitarismo y ética práctica](/utilitarismo-y-etica-practica#respetar-las-normas-morales-de-sentido-comun), aunque los utilitaristas aceptan la obligación de intentar hacer el mayor bien posible, en la práctica casi siempre deben evitar violar prohibiciones morales de sentido común como las que prohíben mentir o matar. Por lo tanto, un buen utilitarista haría mejor en general actuando de acuerdo con las virtudes morales de sentido común como la integridad, la honradez, el cumplimiento de la ley y la justicia y [no tratando de evaluar cada acción en términos utilitaristas](/elementos-y-tipos-de-utilitarismo#utilitarismo-multinivel-y-utilitarismo-de-un-solo-nivel) caso por caso.
 
 ### Donaciones a organizaciones benéficas
 
@@ -238,7 +238,7 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
 [^15]: {{< cite GiveWell2010YourDollarGoes >}}.
 [^16]: {{< cite Givewell2023OurTopCharities >}}.
 [^17]: {{< cite Bentham2017IntroductionToPrinciples  "pp. 143-144" >}}.
-[^18]: Como se explica en el capítulo [Utilitarismo y ética práctica](./utilitarismo-y-etica-practica.md#especismo), dar la misma consideración moral a todos los animales no implica necesariamente que debamos tratarlos a todos por igual.
+[^18]: Como se explica en el capítulo [Utilitarismo y ética práctica](/utilitarismo-y-etica-practica#especismo), dar la misma consideración moral a todos los animales no implica necesariamente que debamos tratarlos a todos por igual.
 [^19]: {{< cite Sanders2018GlobalAnimalSlaughter >}}.
 [^20]: {{< cite Anthis2019GlobalFarmedFactory >}}.
 [^21]: {{< cite Simcikas2019CorporateCampaignsAffect >}}.

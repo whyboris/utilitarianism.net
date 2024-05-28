@@ -19,13 +19,13 @@ gradientBottom: "#260380"
 
 Algunos argumentan que el utilitarismo entra en conflicto con el ideal de igualdad. Supongamos, por ejemplo, que se puede elegir entre dos posibles distribuciones de bienestar, _igualdad_ y _desigualdad_: en _igualdad_ hay 1000 personas con un nivel de bienestar de 45, mientras que en _desigualdad_ hay 500 personas con un nivel de bienestar de 80 y otras 500 personas con un nivel de bienestar de 20.
 
-![Utilitarismo e igualdad — objeciones al utilitarismo](../imagenes/igualdad/figura-1.png)
+![Utilitarismo e igualdad — objeciones al utilitarismo](/img/equality1.png)
 
 Desde el punto de vista del utilitarismo, sólo la suma total de bienestar determina el valor de un resultado: no importa cómo se distribuya ese bienestar entre las personas. Dado que la suma total del bienestar es mayor en _desigualdad_ que en _igualdad_, el resultado desigual es preferible según el utilitarismo.
 
 Algunos filósofos cuestionan la teoría utilitarista con respecto a esta elección, alegando que la distribución igualitaria del bienestar en _igualdad_ proporciona una razón para elegir esta opción. Desde este punto de vista, el bienestar total no es lo único que importa, sino también la igualdad en la distribución. La igualdad, se afirma, es una consideración moral importante que los utilitaristas pasan por alto.
 
-Los defensores del utilitarismo podrían [responder a esta objeción de cuatro maneras](./objeciones-al-utilitarismo#formas-generales-de-responder-a-las-objeciones-al-utilitarismo). Las examinaremos una por una.
+Los defensores del utilitarismo podrían [responder a esta objeción de cuatro maneras](/objeciones#formas-generales-de-responder-a-las-objeciones-al-utilitarismo). Las examinaremos una por una.
 
 ## Acomodar la intuición
 
@@ -47,19 +47,19 @@ Esta confusión que describe Greene puede introducir errores en nuestras intuici
 
 Si especificamos el ejemplo original en términos de dinero y utilizamos la medida económica estándar de la tasa de rendimientos decrecientes del dinero,[^2] deberíamos representar la elección entre _igualdad_ y _desigualdad_ de la siguiente manera: en _igualdad_, 1000 personas obtienen $13.500, mientras que en _desigualdad_, 500 personas obtienen $10.000 y 500 personas obtienen $50.000.
 
-![Utilitarismo e igualdad — objeciones al utilitarismo](../imagenes/igualdad/figura-2.png)
+![Utilitarismo e igualdad — objeciones al utilitarismo](/img/equality2.jpg)
 
 Pensamos que, expresada en estos términos, ya no es intuitivamente obvio que la opción utilitarista, que favorece _desigualdad_ frente a _igualdad_, sea la equivocada. Todo el mundo estaría de acuerdo en que un cierto nivel de desigualdad puede estar justificado en aras de un mayor bienestar total; la comparación de estos casos es algo complicado, y no es obvio que el utilitarismo ofrezca una respuesta equivocada.
 
 ## Atacar las alternativas
 
-La tercera línea de respuesta es _atacar las alternativas disponibles_ al utilitarismo para mostrar que tienen implicaciones aún más contraintuitivas. Por ejemplo, el [igualitarismo](../alternativas-cercanas-al-utilitarismo.md#igualitarismo-y-justicia-distributiva) está sujeto a la _objeción de igualar hacia abajo_ que permite perjudicar a los ricos (sin beneficiar a nadie) ya que eso tiene el efecto de aumentar la igualdad.[^3] Si no creemos que haya nada bueno en _igualar hacia abajo_, entonces nuestro juicio apoya el punto de vista utilitarista de que la igualdad sólo es valiosa instrumentalmente: valiosa cuando y porque sirve para promover el bienestar general.[^4]
+La tercera línea de respuesta es _atacar las alternativas disponibles_ al utilitarismo para mostrar que tienen implicaciones aún más contraintuitivas. Por ejemplo, el [igualitarismo](/alternativas-cercanas-al-utilitarismo#igualitarismo-y-justicia-distributiva) está sujeto a la _objeción de igualar hacia abajo_ que permite perjudicar a los ricos (sin beneficiar a nadie) ya que eso tiene el efecto de aumentar la igualdad.[^3] Si no creemos que haya nada bueno en _igualar hacia abajo_, entonces nuestro juicio apoya el punto de vista utilitarista de que la igualdad sólo es valiosa instrumentalmente: valiosa cuando y porque sirve para promover el bienestar general.[^4]
 
-También podemos demostrar que las alternativas a la distribución utilitarista del bienestar infringen un principio llamado _[Pareto ex ante](../argumentos-a-favor-del-utilitarismo.md#pareto-ex-ante)_: en una elección entre dos apuestas, si todo el mundo prefiere racionalmente la apuesta A a la apuesta B, entonces la apuesta A es mejor que la apuesta B.
+También podemos demostrar que las alternativas a la distribución utilitarista del bienestar infringen un principio llamado _[Pareto ex ante](/argumentos-a-favor-del-utilitarismo#pareto-ex-ante)_: en una elección entre dos apuestas, si todo el mundo prefiere racionalmente la apuesta A a la apuesta B, entonces la apuesta A es mejor que la apuesta B.
 
 Para ver esto, supongamos que se puede elegir entre una de dos opciones de distribución del bienestar, _apuesta segura_ y _apuesta arriesgada_: En _apuesta segura_, tanto Able como Beth tienen garantizado un nivel 45 de bienestar. En _apuesta arriesgada_, se lanza una moneda al aire. Si sale cara, Able recibe 80 de bienestar y Beth 20 de bienestar. Si sale cruz, Beth recibe 80 de bienestar y Able 20 de bienestar.
 
-![Utilitarismo e igualdad — objeciones al utilitarismo](../imagenes/igualdad/figure-3.png)
+![Utilitarismo e igualdad — objeciones al utilitarismo](/img/equality3.jpg)
 
 Podemos estipular que tanto Able como Beth preferirían racionalmente _apuesta arriesgada_ frente a _apuesta segura_. Esto se debe a que su expectativa de bienestar en la apuesta arriesgada es de 50 ($(80+20) \times 50\percent$), que es mayor que la expectativa de bienestar en la apuesta segura de 45.[^5] Por lo tanto, si seguimos el modelo de Pareto _ex ante_, deberíamos preferir la apuesta arriesgada a la apuesta segura. Sin embargo, la apuesta arriesgada produce un resultado desigual. Los que prefirieron _igualdad_ frente a _desigualdad_ también deben preferir _apuesta segura_ frente _apuesta arriesgada_. Y deben hacerlo aunque ello vaya en contra de los intereses de todas las partes implicadas.
 
@@ -86,6 +86,6 @@ Por último, los defensores del utilitarismo pueden, una vez más, aceptar que e
 [^1]: {{< cite Greene2013MoralTribes "chap. 10" >}}.
 [^2]: Cf. {{< cite Drupp2018DiscountingDisentangled >}}.
 [^3]: {{< cite Parfit1997EqualityPriority >}}.
-[^4]: Aunque esto deja abierta la elección entre el enfoque utilitarista de la [igual consideración de intereses](../elementos-y-tipos-de-utilitarismo.md#imparcialidad-y-igual-consideracion-de-intereses) y el enfoque [prioritarista](../alternativas-cercanas-al-utilitarismo.md#prioritarismo) de dar un peso extra a los intereses de los menos favorecidos.
+[^4]: Aunque esto deja abierta la elección entre el enfoque utilitarista de la [igual consideración de intereses](/elementos-y-tipos-de-utilitarismo#imparcialidad-y-igual-consideracion-de-intereses) y el enfoque [prioritarista](/alternativas-cercanas-al-utilitarismo#prioritarismo) de dar un peso extra a los intereses de los menos favorecidos.
 [^5]: De hecho, la forma estándar de definir una magnitud de bienestar es en términos de decisiones racionales en condiciones de incertidumbre. Desde este punto de vista, que un resultado proporcione 100 de bienestar significa que uno, por ejemplo, debería ser indiferente entre ese resultado y una probabilidad del 50 % de 200 de bienestar o de 0 de bienestar.
 [^6]: Cf. {{< cite Harsanyi1955CardinalWelfareIndividualistic >}}.

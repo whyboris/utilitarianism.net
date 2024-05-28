@@ -5,7 +5,7 @@ authors: "Chappell, R.Y. y Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 4
+weight: 104
 description: "Explora las tres principales teorías del bienestar, o lo que hace que una vida sea buena para el individuo que la vive: el hedonismo, la teoría del deseo y la teoría de la lista objetiva."
 gradientTop: "#084BC7"
 gradientBottom: "#1B7CCC"
@@ -49,7 +49,7 @@ Los críticos del hedonismo cuestionan la primera afirmación señalando casos d
 
 ### La objeción de los "placeres malvados"
 
-Los críticos suelen rechazar la afirmación hedonista de que toda felicidad es buena y todo sufrimiento, malo. Pensemos en un sádico que siente placer al dañar a otros sin su consentimiento. Los hedonistas pueden admitir que el sadismo no consentido suele ser _en general_ perjudicial, ya que es improbable que el placer del sádico supere el sufrimiento de su víctima. Esto justifica claramente la desaprobación del sadismo no consentido en la práctica, especialmente si se adopta una [perspectiva utilitarista multinivel](/tipos-de-utilitarismo#utilitarismo-multinivel-y-utilitarismo-de-un-solo-nivel). Según este punto de vista, podríamos suponer que encontrar las raras excepciones a esta regla tendría poco valor práctico, mientras que el riesgo de [permitir erróneamente acciones dañinas](/objeciones-al-utilitarismo/abusabilidad/) significa que sería mejor establecer una prohibición general de dañar a otros sin su consentimiento.
+Los críticos suelen rechazar la afirmación hedonista de que toda felicidad es buena y todo sufrimiento, malo. Pensemos en un sádico que siente placer al dañar a otros sin su consentimiento. Los hedonistas pueden admitir que el sadismo no consentido suele ser _en general_ perjudicial, ya que es improbable que el placer del sádico supere el sufrimiento de su víctima. Esto justifica claramente la desaprobación del sadismo no consentido en la práctica, especialmente si se adopta una [perspectiva utilitarista multinivel](/tipos-de-utilitarismo#utilitarismo-multinivel-y-utilitarismo-de-un-solo-nivel). Según este punto de vista, podríamos suponer que encontrar las raras excepciones a esta regla tendría poco valor práctico, mientras que el riesgo de [permitir erróneamente acciones dañinas](/objeciones/abusabilidad/) significa que sería mejor establecer una prohibición general de dañar a otros sin su consentimiento.
 
 Con todo, podríamos preguntarnos en un plano puramente teórico: ¿qué pasaría si hubiera _muchos_ sádicos que se regocijaran colectivamente en el sufrimiento de una sola alma torturada? Si el placer conjunto de estos sádicos supera el sufrimiento de la persona, entonces el utilitarismo hedonista implica que se trata de un buen resultado y que los sádicos actúan correctamente al torturar a su víctima. Pero eso parece erróneo.
 
@@ -151,7 +151,7 @@ Esta preocupación podría llevarnos a adoptar una perspectiva _híbrida_, segú
 
 El hedonismo, las teorías del deseo y las teorías de la lista objetiva del bienestar coinciden en gran medida en la práctica. Esto se debe a que tendemos a desear cosas que (normalmente) valen la pena objetivamente y a que tendemos a ser más felices cuando conseguimos lo que deseamos. También tendemos a modificar nuestros deseos en función de nuestra experiencia de lo que nos hace sentir bien. En consecuencia, los defensores de una teoría del bienestar determinada podrían intentar desacreditar a sus competidores sugiriendo que los valores de la competencia (ya sean el placer, la satisfacción del deseo o los bienes objetivos) tienen un valor meramente _instrumental_, que tiende a producir, o a acompañar, lo que _realmente_ importa.
 
-![Teorías del bienestar](./imagenes/teorias-del-bienestar/figura-1.png)
+![Teorías del bienestar](/img/theories-of-well-being.png)
 
 Aun así, recurriendo a experimentos mentales simplificados (con máquinas de experiencias, preferencias cambiantes, etc.), podemos desgranar cuidadosamente las implicaciones de las distintas teorías del bienestar y formarnos un juicio ponderado sobre qué teoría nos parece más plausible.
 
@@ -171,7 +171,9 @@ Las teorías del bienestar que compiten entre sí coinciden casi siempre en la p
 
 El próximo capítulo aborda la _ética de la población_, y cómo evaluar resultados en los que pueden existir diferentes números de personas.
 
-{{< next-page-textbook title="Ética de la población" url="/etica-de-la-poblacion" >}}
+{{< next-page-textbook >}}
+
+---
 
 {{< how-to-cite >}}
 

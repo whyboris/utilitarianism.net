@@ -5,7 +5,7 @@ authors: "MacAskill, W., Meissner, D., y Chappell, R.Y."
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 2
+weight: 102
 description: "Tras definir el utilitarismo, este capítulo ofrece un análisis detallado de sus cuatro elementos clave (consecuencialismo, bienestarismo, imparcialidad y agregacionismo). Explica la diferencia entre utilitarismo maximizador, satisfaccionista y escalar, y otras distinciones importantes entre las teorías utilitaristas."
 gradientTop: "#236d9f"
 gradientBottom: "#012147"
@@ -15,7 +15,7 @@ gradientBottom: "#012147"
 
 ## Introducción
 
-Como se explica en [Capitulo 1: Introducción al utilitarismo](./introduccion-al-utilitarismo.md), la idea central del utilitarismo es que debemos querer mejorar el bienestar de todos tanto como sea posible. Las teorías utilitaristas comparten cuatro elementos: el consecuencialismo, el bienestarismo, la imparcialidad y el agregacionismo. El utilitarismo clásico se distingue porque acepta dos elementos adicionales: en primer lugar, el hedonismo como [teoría del bienestar](./teorias-del-bienestar.md); en segundo lugar, la perspectiva total como [ética de la población](./etica-de-la-poblacion.md). Existen otras distinciones importantes entre las teorías utilitaristas: podemos distinguir el utilitarismo escalar del utilitarismo maximizador o de suficiencia, el utilitarismo de expectativas del utilitarismo objetivo, el utilitarismo multinivel del utilitarismo de un solo nivel, y el utilitarismo global del utilitarismo híbrido.
+Como se explica en [Capitulo 1: Introducción al utilitarismo](/introduccion-al-utilitarismo/), la idea central del utilitarismo es que debemos querer mejorar el bienestar de todos tanto como sea posible. Las teorías utilitaristas comparten cuatro elementos: el consecuencialismo, el bienestarismo, la imparcialidad y el agregacionismo. El utilitarismo clásico se distingue porque acepta dos elementos adicionales: en primer lugar, el hedonismo como [teoría del bienestar](/teorias-del-bienestar/); en segundo lugar, la perspectiva total como [ética de la población](/etica-de-la-poblacion/). Existen otras distinciones importantes entre las teorías utilitaristas: podemos distinguir el utilitarismo escalar del utilitarismo maximizador o de suficiencia, el utilitarismo de expectativas del utilitarismo objetivo, el utilitarismo multinivel del utilitarismo de un solo nivel, y el utilitarismo global del utilitarismo híbrido.
 
 ## La definición de utilitarismo
 
@@ -42,7 +42,7 @@ El utilitarismo es una forma de _[consecuencialismo](https://altruismoeficaz.net
 
 Desde esta perspectiva, lo único que importa en última instancia, desde un punto de vista moral, es producir buenos resultados. Por lo tanto, para evaluar la conveniencia de realizar una acción, debemos fijarnos en sus consecuencias generales, más que en cualquiera de sus otras características (como el _tipo_ de acción que es). Por ejemplo, cuando romper una promesa tiene malas consecuencias —como suele ocurrir—, los consecuencialistas se oponen a ello. Sin embargo, romper una promesa no se considera algo malo en sí mismo. En casos excepcionales, romper una promesa puede ser la mejor acción desde el punto de vista moral, como cuando es necesario para salvar una vida. El fin en este caso justifica los medios.
 
-Los rivales del consecuencialismo ofrecen explicaciones alternativas de lo que moralmente se debe hacer que dependen de características distintas del valor del resultado. Por ejemplo, según la [deontología](https://altruismoeficaz.net/temas/deontologia), la moral consiste en seguir un sistema de reglas, como "No mentir" o "No robar". Y según la [ética de la virtud](https://altruismoeficaz.net/temas/etica-de-la-virtud), la moral consiste fundamentalmente en tener un carácter virtuoso. Gran parte del atractivo del consecuencialismo puede provenir de la convicción de que _hacer del mundo un lugar mejor_ es [sencillamente más importante](./argumentos-a-favor-del-utilitarismo.md#lo-que-importa-fundamentalmente) que cualquiera de estos objetivos morales alternativos.
+Los rivales del consecuencialismo ofrecen explicaciones alternativas de lo que moralmente se debe hacer que dependen de características distintas del valor del resultado. Por ejemplo, según la [deontología](https://altruismoeficaz.net/temas/deontologia), la moral consiste en seguir un sistema de reglas, como "No mentir" o "No robar". Y según la [ética de la virtud](https://altruismoeficaz.net/temas/etica-de-la-virtud), la moral consiste fundamentalmente en tener un carácter virtuoso. Gran parte del atractivo del consecuencialismo puede provenir de la convicción de que _hacer del mundo un lugar mejor_ es [sencillamente más importante](/argumentos-a-favor-del-utilitarismo#lo-que-importa-fundamentalmente) que cualquiera de estos objetivos morales alternativos.
 
 #### Consecuencialismo directo e indirecto: explicación de la diferencia entre el utilitarismo de los actos y el utilitarismo de las reglas
 
@@ -54,7 +54,7 @@ Según el consecuencialismo indirecto, deberíamos evaluar el estatus moral de u
 
 En nuestra definición de consecuencialismo, sólo la versión directa es una posición genuinamente consecuencialista, y el utilitarismo/consecuencialismo de las reglas, a pesar de su nombre, no es un tipo de consecuencialismo.[^1] Como argumenta Brad Hooker, el principal consecuencialista de las reglas del mundo, no es plausible sostener que el consecuencialismo de las reglas esté motivado por el compromiso consecuencialista de que los resultados sean lo mejor posible: el argumento a favor del consecuencialismo de las reglas es, más bien, que justifica imparcialmente reglas morales intuitivamente plausibles.[^2] Esto marca una importante diferencia con las teorías consecuencialistas fundacionales.
 
-Aunque el utilitarismo de los actos sólo evalúa las acciones (y no las reglas) en términos de "corrección", también reconoce la importancia de comprometerse firmemente con reglas morales conocidas. Reglas como "no mentir" y "no matar" se consideran directrices útiles que [casi siempre deberíamos seguir en la práctica](./utilitarismo-y-etica-practica.md#respetar-las-normas-morales-de-sentido-comun), precisamente para que nuestras acciones tengan mejores resultados y eviten causar daño. Para más información y aclaraciones, véase la sección sobre el “[utilitarismo multinivel](./elementos-y-tipos-de-utilitarismo.md#utilitarismo-multinivel-versus-utilitarismo-de-un-solo-nivel)" más adelante.
+Aunque el utilitarismo de los actos sólo evalúa las acciones (y no las reglas) en términos de "corrección", también reconoce la importancia de comprometerse firmemente con reglas morales conocidas. Reglas como "no mentir" y "no matar" se consideran directrices útiles que [casi siempre deberíamos seguir en la práctica](/utilitarismo-y-etica-practica#respetar-las-normas-morales-de-sentido-comun), precisamente para que nuestras acciones tengan mejores resultados y eviten causar daño. Para más información y aclaraciones, véase la sección sobre el “[utilitarismo multinivel](/elementos-y-tipos-de-utilitarismo#utilitarismo-multinivel-versus-utilitarismo-de-un-solo-nivel)" más adelante.
 
 ### Bienestarismo
 
@@ -64,9 +64,9 @@ Los consecuencialistas difieren en lo que consideran el _bien_ que hay que promo
 
 En concreto, el bienestarismo sostiene que el bienestar positivo es el único bien intrínseco y que el bienestar negativo es el único mal intrínseco. Los filósofos utilizan el término "bienestar" para describir todo lo que es _en sí mismo_ bueno para alguien, en contraposición a lo que es tan solo _instrumentalmente_ bueno. Por ejemplo, el dinero puede comprar muchas cosas útiles y, por tanto, es instrumentalmente bueno para uno, pero tener dinero no constituye _en sí mismo_ bienestar.
 
-Las distintas [teorías del bienestar](./teorias-del-bienestar.md) consideran que los componentes básicos del bienestar son cosas diferentes. Las tres teorías principales son el _[hedonismo](./teorias-del-bienestar.md#hedonismo)_, las _[teorías del deseo](./teorias-del-bienestar.md#teorias-del-deseo)_ y las _[teorías de la lista objetiva](./teorias-del-bienestar.md#teorias-de-lista-objetiva)_.
+Las distintas [teorías del bienestar](/teorias-del-bienestar/) consideran que los componentes básicos del bienestar son cosas diferentes. Las tres teorías principales son el _[hedonismo](/teorias-del-bienestar#hedonismo)_, las _[teorías del deseo](/teorias-del-bienestar#teorias-del-deseo)_ y las _[teorías de la lista objetiva](/teorias-del-bienestar#teorias-de-lista-objetiva)_.
 
-Aunque todos los puntos de vista plausibles reconocen que el bienestar es importante, algunos filósofos rechazan el bienestarismo porque alegan que hay, además, otras cosas importantes. Por ejemplo, los [igualitaristas](./alternativas-cercanas-al-utilitarismo.md#egalitarismo-y-justicia-distributiva) pueden sostener que la desigualdad es intrínsecamente mala, aunque beneficie a algunos y no perjudique a nadie. Otros podrían sostener que el [valor ambiental](./alternativas-cercanas-al-utilitarismo.md#valor-ambiental) y el [valor estético](./alternativas-cercanas-al-utilitarismo.md#valor-estetico) deben tenerse en cuenta además del bienestar. Los bienestaristas afirman que estas otras cosas sólo importan en la medida en que contribuyen al bienestar de alguien.
+Aunque todos los puntos de vista plausibles reconocen que el bienestar es importante, algunos filósofos rechazan el bienestarismo porque alegan que hay, además, otras cosas importantes. Por ejemplo, los [igualitaristas](/alternativas-cercanas-al-utilitarismo#egalitarismo-y-justicia-distributiva) pueden sostener que la desigualdad es intrínsecamente mala, aunque beneficie a algunos y no perjudique a nadie. Otros podrían sostener que el [valor ambiental](/alternativas-cercanas-al-utilitarismo#valor-ambiental) y el [valor estético](/alternativas-cercanas-al-utilitarismo#valor-estetico) deben tenerse en cuenta además del bienestar. Los bienestaristas afirman que estas otras cosas sólo importan en la medida en que contribuyen al bienestar de alguien.
 
 ### Imparcialidad e igual consideración de intereses
 
@@ -76,7 +76,7 @@ El utilitarismo está comprometido con una concepción de _imparcialidad_ que se
 
 Como afirma el filósofo utilitarista [Henry Sidgwick](https://altruismoeficaz.net/autores/henry-sidgwick): "el bien de una persona cualquiera no es más importante desde el punto de vista... del universo que el bien de cualquier otra.“[^4] Los utilitaristas valoran por igual el bienestar de todos, independientemente de su nacionalidad, sexo, lugar o época en que vivan, o incluso de su especie. Según el utilitarismo, _en principio_ ni siquiera se debe privilegiar el bienestar de uno mismo o de la propia familia sobre el de extraños lejanos (aunque puede haber buenas razones _prácticas_ para hacerlo).[^5]
 
-No todos los filósofos están de acuerdo en que la imparcialidad sea una característica esencial de la moral. Pueden sostener que se nos permite, o incluso se nos exige, ser _[parciales](./alternativas-cercanas-al-utilitarismo.md#egoismo-y-parcialismo)_ hacia un grupo concreto, como nuestros amigos y familiares. O pueden proponer una concepción alternativa de la "imparcialidad" que no exija la igual consideración de intereses. Por ejemplo, el _[prioritarismo](./alternativas-cercanas-al-utilitarismo.md#prioritarismo)_ da más peso a los intereses de los más desfavorecidos, sean quienes sean.
+No todos los filósofos están de acuerdo en que la imparcialidad sea una característica esencial de la moral. Pueden sostener que se nos permite, o incluso se nos exige, ser _[parciales](/alternativas-cercanas-al-utilitarismo#egoismo-y-parcialismo)_ hacia un grupo concreto, como nuestros amigos y familiares. O pueden proponer una concepción alternativa de la "imparcialidad" que no exija la igual consideración de intereses. Por ejemplo, el _[prioritarismo](/alternativas-cercanas-al-utilitarismo#prioritarismo)_ da más peso a los intereses de los más desfavorecidos, sean quienes sean.
 
 ### Agregacionismo
 
@@ -86,7 +86,7 @@ El último elemento común del utilitarismo es el _agregaciónismo_, que definim
 
 Cuando se combina con el bienestarismo y la imparcialidad, el agregacionismo implica que podemos "sumar" de forma significativa el bienestar de los distintos individuos y utilizar este total para determinar qué compensaciones corresponde hacer. Por ejemplo, el utilitarismo afirma que mejorar cinco vidas en cierta medida es cinco veces mejor que mejorar una vida en la misma medida.
 
-Algunos filósofos niegan cualquier forma de agregacionismo. Pueden creer, por ejemplo, que los pequeños beneficios obtenidos por muchas personas no pueden compensar los grandes beneficios obtenidos por unas pocas personas. Para ilustrar esta creencia, supongamos que nos enfrentamos a la disyuntiva de salvar la vida de una persona determinada o evitar que un gran grupo de personas sufra dolores de cabeza leves. Un [antiagregacionista](./objeciones-al-utilitarismo/separacion-de-las-personas.md#intuiciones-antiagregativas) podría sostener que salvar la vida es moralmente más importante que evitar los dolores de cabeza, _sin importar el número de dolores de cabeza evitados_. Los utilitaristas razonarían que si hay suficientes personas cuyos dolores de cabeza se pueden evitar, entonces el bienestar total generado por la prevención de los dolores de cabeza es mayor que el bienestar total de salvar la vida, por lo que se deberían evitar los dolores de cabeza.[^8] El número de dolores de cabeza que tenemos que aliviar para que sea mejor que salvar una vida podría ser, en la práctica, _extremadamente_ alto, pero los utilitaristas, no obstante, creen que existe _algún_ número de dolores de cabeza tal que justifica esta compensación.
+Algunos filósofos niegan cualquier forma de agregacionismo. Pueden creer, por ejemplo, que los pequeños beneficios obtenidos por muchas personas no pueden compensar los grandes beneficios obtenidos por unas pocas personas. Para ilustrar esta creencia, supongamos que nos enfrentamos a la disyuntiva de salvar la vida de una persona determinada o evitar que un gran grupo de personas sufra dolores de cabeza leves. Un [antiagregacionista](/objeciones/separacion-de-las-personas#intuiciones-antiagregativas) podría sostener que salvar la vida es moralmente más importante que evitar los dolores de cabeza, _sin importar el número de dolores de cabeza evitados_. Los utilitaristas razonarían que si hay suficientes personas cuyos dolores de cabeza se pueden evitar, entonces el bienestar total generado por la prevención de los dolores de cabeza es mayor que el bienestar total de salvar la vida, por lo que se deberían evitar los dolores de cabeza.[^8] El número de dolores de cabeza que tenemos que aliviar para que sea mejor que salvar una vida podría ser, en la práctica, _extremadamente_ alto, pero los utilitaristas, no obstante, creen que existe _algún_ número de dolores de cabeza tal que justifica esta compensación.
 
 En la práctica, muchas personas y políticos responsables parecen avalar este tipo de compensaciones. Por ejemplo, permitir que los coches circulen rápido por las carreteras aumenta el número de personas que mueren en accidentes. Establecer límites de velocidad excesivamente bajos salvaría vidas a costa de incomodar a muchos conductores. La mayoría de la gente demuestra un compromiso implícito con el agregacionismo cuando juzga que es peor imponer muchas molestias de este tipo en aras de salvar unas pocas vidas.
 
@@ -98,11 +98,11 @@ La teoría utilitarista más antigua y prominente es el _utilitarismo clásico_,
 
 > **El utilitarismo clásico es la teoría de que siempre se debe promover la suma total de la felicidad sobre el sufrimiento.**
 
-El utilitarismo clásico se distingue de la familia utilitarista más amplia porque acepta dos elementos adicionales: en primer lugar, el _[hedonismo](./teorias-del-bienestar.md#hedonismo)_, la perspectiva de que el bienestar consiste sólo en experiencias conscientes; y en segundo lugar, la _[perspectiva total](./etica-de-la-poblacion.md#la-perspectiva-total)_ como ética de la población, según la cual un resultado es mejor que otro si y sólo si contiene una mayor suma total de bienestar, donde el bienestar puede aumentarse ya sea mejorando las vidas de las personas existentes o creando nuevas personas con buenas vidas.
+El utilitarismo clásico se distingue de la familia utilitarista más amplia porque acepta dos elementos adicionales: en primer lugar, el _[hedonismo](/teorias-del-bienestar#hedonismo)_, la perspectiva de que el bienestar consiste sólo en experiencias conscientes; y en segundo lugar, la _[perspectiva total](/etica-de-la-poblacion#la-perspectiva-total)_ como ética de la población, según la cual un resultado es mejor que otro si y sólo si contiene una mayor suma total de bienestar, donde el bienestar puede aumentarse ya sea mejorando las vidas de las personas existentes o creando nuevas personas con buenas vidas.
 
 ### Teorías del bienestar: el hedonismo
 
-_→ Artículo principal: [Teorías del bienestar](./teorias-del-bienestar.md)_
+_→ Artículo principal: [Teorías del bienestar](/teorias-del-bienestar/)_
 
 El utilitarismo clásico acepta el _hedonismo_ como teoría del bienestar, que definimos de la siguiente manera:
 
@@ -110,11 +110,11 @@ El utilitarismo clásico acepta el _hedonismo_ como teoría del bienestar, que d
 
 Los hedonistas éticos creen que las únicas cosas buenas en sí mismas son las experiencias de estados conscientes positivos, como el disfrute y el placer, y que las únicas cosas malas en sí mismas son las experiencias de estados conscientes negativos, como la infelicidad y el dolor. Los filósofos suelen utilizar _felicidad_ y _sufrimiento_ como abreviaturas de las expresiones _experiencia consciente positiva_ y _experiencia consciente negativa_, respectivamente.
 
-Analizamos los argumentos a favor y en contra del hedonismo —y de sus dos principales rivales, las _teorías del deseo_ y las _teorías de la lista objetiva_— en el capítulo [Teorías del bienestar](./teorias-del-bienestar.md).
+Analizamos los argumentos a favor y en contra del hedonismo —y de sus dos principales rivales, las _teorías del deseo_ y las _teorías de la lista objetiva_— en el capítulo [Teorías del bienestar](/teorias-del-bienestar/).
 
 ### Ética de la población: la perspectiva total
 
-_→ Artículo principal: [Ética de la población](./etica-de-la-poblacion.md)_
+_→ Artículo principal: [Ética de la población](/etica-de-la-poblacion/)_
 
 El utilitarismo clásico acepta una teoría ética de la población conocida como la _perspectiva total_, que sostiene que:
 
@@ -122,9 +122,9 @@ El utilitarismo clásico acepta una teoría ética de la población conocida com
 
 La perspectiva total implica que podemos mejorar el mundo de dos maneras:[^9] podemos mejorar la calidad de vida de las personas existentes, o podemos aumentar el número de personas que viven una vida positiva.[^10] En la práctica, a menudo hay que elegir entre hacer más felices a las personas existentes o crear más personas felices. En un planeta con recursos limitados, añadir más gente a una población ya de por sí numerosa puede, en algún momento, disminuir la calidad de vida de todos los demás lo suficiente como para que el bienestar total disminuya.
 
-La principal consecuencia práctica de la perspectiva total es [dar gran importancia](./utilitarismo-y-etica-practica.md#largoplacismo) a garantizar la prosperidad de la civilización a largo plazo. Dado que el bienestar total del que disfrutarán todas las personas futuras es potencialmente enorme, la [mitigación de los riesgos existenciales](./actuar-conforme-al-utilitarismo.md#reduccion-de-riesgos-existenciales) —que amenazan con destruir este inmenso valor futuro— es, según la perspectiva total, una de las principales cuestiones morales a las que se enfrenta la humanidad.
+La principal consecuencia práctica de la perspectiva total es [dar gran importancia](/utilitarismo-y-etica-practica#largoplacismo) a garantizar la prosperidad de la civilización a largo plazo. Dado que el bienestar total del que disfrutarán todas las personas futuras es potencialmente enorme, la [mitigación de los riesgos existenciales](/actuar-conforme-al-utilitarismo#reduccion-de-riesgos-existenciales) —que amenazan con destruir este inmenso valor futuro— es, según la perspectiva total, una de las principales cuestiones morales a las que se enfrenta la humanidad.
 
-Las alternativas a la perspectiva total en la ética de la población incluyen la _perspectiva promedio_, las _teorías del valor variable_, las _teorías del nivel (y rango) crítico,_ y las _perspectivas centradas en las personas afectadas_. Explicamos y analizamos estas teorías en el capítulo sobre la [ética de la población](./etica-de-la-poblacion.md).
+Las alternativas a la perspectiva total en la ética de la población incluyen la _perspectiva promedio_, las _teorías del valor variable_, las _teorías del nivel (y rango) crítico,_ y las _perspectivas centradas en las personas afectadas_. Explicamos y analizamos estas teorías en el capítulo sobre la [ética de la población](/etica-de-la-poblacion/).
 
 ## Otras distinciones entre teorías utilitaristas
 
@@ -179,13 +179,13 @@ El punto de vista que trata el utilitarismo como un criterio de corrección tant
 
 > **El utilitarismo multinivel es la perspectiva según la cual las personas deberían seguir reglas generales avaladas por la experiencia, o _heurísticas_, en lugar de intentar calcular qué acción producirá el máximo bienestar.**
 
-Según el utilitarismo multinivel, en la mayoría de las circunstancias deberíamos seguir una serie de heurísticas morales sencillas: no mentir, no robar, no matar, etc., con la expectativa de que ello conduzca a los mejores resultados generales. A menudo, deberíamos utilizar las normas de la moral de sentido común y las leyes de nuestra sociedad como reglas empíricas para guiar nuestras acciones. Seguir estas normas y leyes suele conducir a buenos resultados, porque se basan en la experiencia de la sociedad sobre lo que promueve el bienestar general. El hecho de que la honradez, la integridad, el cumplimiento de las promesas y el apego a la ley tengan generalmente buenas consecuencias explica por qué en la práctica [los utilitaristas valoran mucho esas cosas](./utilitarismo-y-etica-practica.md#respetar-las-normas-morales-de-sentido-comun), y las utilizan para guiar sus acciones cotidianas.[^23]
+Según el utilitarismo multinivel, en la mayoría de las circunstancias deberíamos seguir una serie de heurísticas morales sencillas: no mentir, no robar, no matar, etc., con la expectativa de que ello conduzca a los mejores resultados generales. A menudo, deberíamos utilizar las normas de la moral de sentido común y las leyes de nuestra sociedad como reglas empíricas para guiar nuestras acciones. Seguir estas normas y leyes suele conducir a buenos resultados, porque se basan en la experiencia de la sociedad sobre lo que promueve el bienestar general. El hecho de que la honradez, la integridad, el cumplimiento de las promesas y el apego a la ley tengan generalmente buenas consecuencias explica por qué en la práctica [los utilitaristas valoran mucho esas cosas](/utilitarismo-y-etica-practica#respetar-las-normas-morales-de-sentido-comun), y las utilizan para guiar sus acciones cotidianas.[^23]
 
 En cambio, que sepamos, nadie ha defendido nunca el utilitarismo de un solo nivel, ni siquiera los utilitaristas clásicos.[^24] Calcular deliberadamente las consecuencias esperadas de nuestras acciones es propenso a errores y se corre el riesgo de caer en la parálisis de la decisión.
 
 A veces, los filósofos sostienen que el utilitarismo multinivel es incoherente. Pero esto no es cierto. Consideremos la siguiente metáfora de Walter Sinnott-Armstrong: las leyes de la física rigen el vuelo de una pelota de golf, pero un golfista no necesita calcular las fuerzas físicas al planificar los golpes.[^25] De forma similar, los utilitaristas multinivel consideran que el utilitarismo rige la corrección de las acciones, pero no necesitan calcular las consecuencias esperadas para tomar decisiones. En la medida en que seguir la heurística recomendada por el utilitarismo multinivel produce mejores resultados, la teoría tiene éxito.
 
-Una objeción común al utilitarismo multinivel es que _[recomienda su propia desaparición](./objeciones-al-utilitarismo/abusabilidad.md#recomienda-el-utilitarismo-su-propia-desaparicion)_. Se dice que una teoría recomienda (parcialmente) su propia desaparición si (a veces) exige a sus seguidores que sigan una teoría diferente. El utilitarismo multinivel a menudo prohíbe utilizar el criterio utilitarista cuando tomamos decisiones, y en su lugar recomienda actuar de acuerdo con heurísticas no utilitaristas. Sin embargo, no hay nada incoherente en decir que su criterio de corrección moral se separa del procedimiento de decisión que recomienda, y no significa que la teoría fracase.
+Una objeción común al utilitarismo multinivel es que _[recomienda su propia desaparición](/objeciones/abusabilidad#recomienda-el-utilitarismo-su-propia-desaparicion)_. Se dice que una teoría recomienda (parcialmente) su propia desaparición si (a veces) exige a sus seguidores que sigan una teoría diferente. El utilitarismo multinivel a menudo prohíbe utilizar el criterio utilitarista cuando tomamos decisiones, y en su lugar recomienda actuar de acuerdo con heurísticas no utilitaristas. Sin embargo, no hay nada incoherente en decir que su criterio de corrección moral se separa del procedimiento de decisión que recomienda, y no significa que la teoría fracase.
 
 ### La diferencia entre el utilitarismo multinivel y el utilitarismo de las reglas
 
@@ -225,11 +225,13 @@ Todas las teorías éticas pertenecientes a la familia utilitarista comparten cu
 
 Dentro de esta familia, hay muchas variantes de teorías utilitaristas. La más destacada es el utilitarismo clásico. Esta teoría se distingue por su aceptación del hedonismo como teoría del bienestar y la perspectiva total como ética de la población.
 
-Existen otras distinciones entre las teorías utilitaristas: podemos distinguir el utilitarismo escalar del utilitarismo maximizador y de suficiencia, el utilitarismo de expectativas del utilitarismo objetivo, el utilitarismo multinivel del utilitarismo de un solo nivel, y el utilitarismo híbrido del utilitarismo global puro. Estas distinciones pueden marcar una diferencia significativa en cuanto a la plausibilidad de la teoría resultante y a su vulnerabilidad frente a [diversas objeciones](./objeciones-al-utilitarismo/obligaciones-especiales.md).
+Existen otras distinciones entre las teorías utilitaristas: podemos distinguir el utilitarismo escalar del utilitarismo maximizador y de suficiencia, el utilitarismo de expectativas del utilitarismo objetivo, el utilitarismo multinivel del utilitarismo de un solo nivel, y el utilitarismo híbrido del utilitarismo global puro. Estas distinciones pueden marcar una diferencia significativa en cuanto a la plausibilidad de la teoría resultante y a su vulnerabilidad frente a [diversas objeciones](/objeciones/obligaciones-especiales/).
 
 En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del consecuencialismo más ampliamente.
 
-{{< next-page-textbook title="Argumentos-a-favor-del-utilitarismo" url="/arguments-for-utilitarianism" >}}
+{{< next-page-textbook >}}
+
+---
 
 {{< how-to-cite >}}
 
@@ -314,10 +316,10 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 
 [^3]: Asignar valor adicional a las distribuciones del bienestar (por ejemplo, a las más equitativas) va más allá del bienestarismo, ya que implica que hay algo intrínsecamente valioso que es diferente del bienestar mismo.
 [^4]: {{< cite Sidgwick1874MethodsEthics "p. 186" >}}.
-[^5]: Para una discusión más detallada, véase [La objeción de las obligaciones especiales](./objeciones-al-utilitarismo/obligaciones-especiales.md).
+[^5]: Para una discusión más detallada, véase [La objeción de las obligaciones especiales](/objeciones/obligaciones-especiales/).
 
 [^6]: En principio, otros métodos de agregación (como la multiplicación o algo más complejo) son concebibles. Pero aquí nos centramos en la forma aditiva del agregacionismo, ya que es, con mucho, el punto de vista más común.
-[^7]: Esta definición se aplica a un contexto de población fija, en el que las acciones individuales no afectan al número o la identidad de las personas. Hay teorías agregacionistas que difieren en el modo de lidiar con los contextos de población variable. Se trata de una cuestión técnica, relevante para el debate sobre la [ética de la población](./etica-de-la-poblacion.md) del capítulo 5.
+[^7]: Esta definición se aplica a un contexto de población fija, en el que las acciones individuales no afectan al número o la identidad de las personas. Hay teorías agregacionistas que difieren en el modo de lidiar con los contextos de población variable. Se trata de una cuestión técnica, relevante para el debate sobre la [ética de la población](/etica-de-la-poblacion/) del capítulo 5.
 [^8]: Derek Parfit argumenta además que los principios antiagregativos recomiendan elecciones implausibles que, cuando se repiten un número suficiente de veces en la población, empeoran la situación de todos.
 
     {{< cite Parfit2003JustifiabilityEachPerson "pp. 368–390" >}}.
