@@ -151,7 +151,7 @@ Esta preocupación podría llevarnos a adoptar una perspectiva _híbrida_, segú
 
 El hedonismo, las teorías del deseo y las teorías de la lista objetiva del bienestar coinciden en gran medida en la práctica. Esto se debe a que tendemos a desear cosas que (normalmente) valen la pena objetivamente y a que tendemos a ser más felices cuando conseguimos lo que deseamos. También tendemos a modificar nuestros deseos en función de nuestra experiencia de lo que nos hace sentir bien. En consecuencia, los defensores de una teoría del bienestar determinada podrían intentar desacreditar a sus competidores sugiriendo que los valores de la competencia (ya sean el placer, la satisfacción del deseo o los bienes objetivos) tienen un valor meramente _instrumental_, que tiende a producir, o a acompañar, lo que _realmente_ importa.
 
-![Teorías del bienestar](./imagenes/teorias-del-bienestar/figura-1.png)
+![Teorías del bienestar](/imagenes/teorias-del-bienestar/figura-1.png)
 
 Aun así, recurriendo a experimentos mentales simplificados (con máquinas de experiencias, preferencias cambiantes, etc.), podemos desgranar cuidadosamente las implicaciones de las distintas teorías del bienestar y formarnos un juicio ponderado sobre qué teoría nos parece más plausible.
 
