@@ -27,7 +27,7 @@ Muy pocas personas, incluidos los filósofos utilitaristas, viven su vida en per
 
 Para mucha gente, estas obligaciones extremas del utilitarismo parecen absurdas a primera vista. Según la moral de sentido común, se nos permite gastar la mayor parte de nuestros ingresos en nosotros, nuestros seres queridos y nuestros proyectos personales. La caridad, según el sentido común, es buena y loable, pero no obligatoria.
 
-Los partidarios del utilitarismo podrían [responder a esta objeción de cuatro maneras](./objeciones-al-utilitarismo#formas-generales-de-responder-a-las-objeciones-al-utilitarismo). Las examinaremos una por una.
+Los partidarios del utilitarismo podrían [responder a esta objeción de cuatro maneras](/objeciones#formas-generales-de-responder-a-las-objeciones-al-utilitarismo). Las examinaremos una por una.
 
 ## Acomodar la intuición
 
@@ -49,7 +49,7 @@ De hecho, en el utilitarismo [escalar o de suficiencia](../elementos-y-tipos-de-
 
 La segunda forma de responder consiste en argumentar que las intuiciones ordinarias de exigencia _presuponen_ una perspectiva no consecuencialista (en vez de brindarle apoyo independiente). Al exigir a quienes son ricos en términos comparativos que hagan mucho para ayudar a los menos afortunados, el utilitarismo les impone costos no triviales. Pero comparemos esto con los daños sufridos por los menos afortunados si los ricos hacen menos (o no hacen nada) para ayudarlos. Estos daños superan con creces los costos que el utilitarismo impondría a los ricos. Así pues, los utilitaristas pueden argumentar que son los puntos de vista _no utilitaristas_ los que son "demasiado exigentes", ya que imponen mayores costos generales y imponen esos costos a quienes son menos capaces de soportarlos.
 
-David Sobel desarrolla este argumento en <cite>{{< cite Sobel2007ImpotenceDemandingnessObjection >}}</cite>:[^3]
+David Sobel desarrolla este argumento en <cite>{{< cite -Sobel2007ImpotenceDemandingnessObjection >}}</cite>:[^3]
 
 > Consideremos el caso de Joe y Sally. Joe tiene dos riñones sanos y puede vivir una vida decente pero reducida con uno solo. Sally necesita uno de los riñones de Joe para vivir. A pesar de que la transferencia daría lugar a una situación globalmente mejor, la objeción de la exigencia sostiene que se le exige tanto a Joe al pedirle que renuncie a un riñón que es algo que moralmente le está permitido no hacer. La magnitud del costo para Joe hace que la supuesta exigencia moral de que entregue el riñón no sea razonable o, al menos, no sea realmente moralmente obligatoria para Joe. El consecuencialismo, nos dicen nuestras intuiciones, es demasiado exigente con Joe cuando le exige sacrificar un riñón para Sally.
 >

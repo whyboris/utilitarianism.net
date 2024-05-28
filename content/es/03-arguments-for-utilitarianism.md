@@ -15,7 +15,7 @@ gradientBottom: "#084BC7"
 
 ## Introducción: metodología moral y equilibrio reflexivo
 
-Nadie puede _probar_ una teoría moral. Como respuesta a los argumentos que se ofrezcan, se puede siempre rechazar alguna de sus premisas, si se está dispuesto a aceptar los costos de hacerlo. Diferentes teorías ofrecen diferentes ventajas. En este capítulo se exponen algunas de las consideraciones más importantes a favor del utilitarismo. Una perspectiva completa debe considerar también los costos del utilitarismo (o las ventajas de sus competidores), lo que se aborda en el capítulo [Objeciones al utilitarismo](./objeciones-al-utilitarismo). Se podrá entonces decidir qué teoría moral parece la mejor o la más plausible en términos generales.
+Nadie puede _probar_ una teoría moral. Como respuesta a los argumentos que se ofrezcan, se puede siempre rechazar alguna de sus premisas, si se está dispuesto a aceptar los costos de hacerlo. Diferentes teorías ofrecen diferentes ventajas. En este capítulo se exponen algunas de las consideraciones más importantes a favor del utilitarismo. Una perspectiva completa debe considerar también los costos del utilitarismo (o las ventajas de sus competidores), lo que se aborda en el capítulo [Objeciones al utilitarismo](/objeciones). Se podrá entonces decidir qué teoría moral parece la mejor o la más plausible en términos generales.
 
 Para ello, los filósofos morales suelen emplear la metodología del _equilibrio reflexivo_,[^1] que consiste en equilibrar dos grandes tipos de evidencia aplicada a las teorías morales:
 
@@ -28,7 +28,7 @@ Como veremos, los argumentos a favor del utilitarismo descansan abrumadoramente 
 
 No hay una respuesta neutra, que no implique tomar partido, a cómo se deben resolver esos conflictos.[^2] Hace falta tener criterio, y personas diferentes pueden tener una disposición a reaccionar de manera diferente dependiendo de su temperamento filosófico. Por regla general, las personas con un temperamento que favorece la _teorización sistemática_ se sienten más atraídas por el utilitarismo ([y perspectivas afines](./alternativas-cercanas-al-utilitarismo.md)), mientras que quienes se aferran a las intuiciones del sentido común son menos propensos a dejarse influir por sus virtudes teóricas. De modo que considerar los argumentos que se exponen a continuación puede hacer algo más que arrojar luz sobre el utilitarismo; también puede ayudar al lector a discernir su propio temperamento filosófico.
 
-Aunque nuestra presentación se centra en el utilitarismo, vale la pena señalar que muchos de los argumentos que se exponen a continuación también podrían utilizarse para apoyar [otras formas de consecuencialismo bienestarista](./alternativas-cercanas-al-utilitarismo.md) (del mismo modo que muchas de las [objeciones al utilitarismo](./objeciones-al-utilitarismo) también se aplican a estos puntos de vista relacionados). Este capítulo explora los argumentos a favor del utilitarismo y los puntos de vista estrechamente relacionados frente a los enfoques morales no consecuencialistas.
+Aunque nuestra presentación se centra en el utilitarismo, vale la pena señalar que muchos de los argumentos que se exponen a continuación también podrían utilizarse para apoyar [otras formas de consecuencialismo bienestarista](./alternativas-cercanas-al-utilitarismo.md) (del mismo modo que muchas de las [objeciones al utilitarismo](/objeciones) también se aplican a estos puntos de vista relacionados). Este capítulo explora los argumentos a favor del utilitarismo y los puntos de vista estrechamente relacionados frente a los enfoques morales no consecuencialistas.
 
 ## Argumentos a favor del utilitarismo
 
@@ -128,7 +128,7 @@ Por ello, es poco probable que los argumentos genealógicos hagan cambiar de opi
 
 El utilitarismo puede apoyarse en varios argumentos teóricos, siendo quizá el más sólido su capacidad para capturar _lo que fundamentalmente importa_. Sus principales competidores, por el contrario, parecen basarse en distinciones dudosas —como las distinción entre "hacer" y "permitir"— y en el sesgo del _statu quo_. Al menos, así es como lo ven las personas que simpatizan con el enfoque utilitarista. Dada la flexibilidad inherente al equilibrio reflexivo, es poco probable que estos argumentos hagan cambiar de opinión a un opositor convencido. Para aquellos lectores que encuentren el enfoque utilitarista de la ética profundamente inaceptable, esperamos que este capítulo pueda al menos ayudarlos a comprender mejor el atractivo que _otros_ pueden ver en esta teoría.
 
-Por muy sólidos que sean los argumentos a favor del utilitarismo, el veredicto final sobre la teoría dependerá también de su capacidad para rebatir [las influyentes objeciones que los críticos han formulado en su contra](./objeciones-al-utilitarismo).
+Por muy sólidos que sean los argumentos a favor del utilitarismo, el veredicto final sobre la teoría dependerá también de su capacidad para rebatir [las influyentes objeciones que los críticos han formulado en su contra](/objeciones).
 
 El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se considera bueno para una persona.
 
@@ -217,7 +217,7 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
 [^30]:
     Sin embargo, esto no significa que el utilitarismo aspire a la igualdad perfecta en los resultados materiales o incluso en el bienestar. Joshua Greene señala que "un mundo en el que todos obtienen el mismo resultado hagan lo que hagan es un mundo ocioso en el que la gente tiene pocos incentivos para hacer algo. Así pues, la forma de maximizar la felicidad no es decretar que todo el mundo sea igual de feliz, sino animar a la gente a comportarse de forma que maximice la felicidad. Cuando medimos nuestro éxito moral, contamos la felicidad de todos por igual, pero tener éxito implica casi con toda seguridad la desigualdad tanto de la riqueza material como de la felicidad. Esa desigualdad no es ideal, pero se justifica porque, sin ella, las cosas serían peores en general.
 
-    {{< cite Greene2013MoralTribes "p. 163" >}}. Véase también [la objeción de igualdad al utilitarismo](./objeciones-al-utilitarismo/igualdad.md).
+    {{< cite Greene2013MoralTribes "p. 163" >}}. Véase también [la objeción de igualdad al utilitarismo](/objeciones/igualdad.md).
 
 [^31]: En la práctica, el fenómeno psicológico de la _aversión a la pérdida_ significa que alguien puede sentirse _más molesto_ por lo que percibe como una "pérdida" que por lo que percibe como la mera "no obtención un beneficio". Estos sentimientos negativos pueden reducir aún más su bienestar, convirtiendo el juicio de que "la pérdida es peor" en una especie de profecía que acarrea su propio cumplimiento. Pero esto depende de fenómenos psicológicos contingentes que generan daños _adicionales_; no es que la pérdida sea _en sí misma_ peor.
 [^32]: {{< cite Bostrom2006ReversalTestEliminating >}}.

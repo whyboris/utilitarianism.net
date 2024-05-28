@@ -25,7 +25,7 @@ A veces, producir el mejor resultado exige vulnerar restricciones morales que pr
 
 A primera vista, parece que el utilitarismo tiene que responder a la pregunta con un "Sí, el médico debe matar a Chuck". Es mejor que sobrevivan cinco personas a que sobreviva sólo una. Pero según la moral de sentido común y prácticamente cualquier otra teoría moral, la respuesta es "No, no mates a Chuck". Matar a Chuck sería considerado monstruoso desde el punto de vista moral. El utilitarismo parece ser la rara excepción que afirma lo contrario. Esta aparente implicación se toma a menudo como un argumento en contra de que el utilitarismo sea la teoría moral correcta.
 
-Los partidarios del utilitarismo podrían [responder a esta objeción de cuatro maneras](./objeciones-al-utilitarismo#formas-generales-de-responder-a-las-objeciones-al-utilitarismo). Las examinaremos una por una.
+Los partidarios del utilitarismo podrían [responder a esta objeción de cuatro maneras](/objeciones#formas-generales-de-responder-a-las-objeciones-al-utilitarismo). Las examinaremos una por una.
 
 ## Acomodar la intuición
 

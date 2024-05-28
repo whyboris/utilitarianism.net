@@ -41,7 +41,7 @@ Importa mucho si existe o no una diferencia moral intrínseca entre hacer daño 
 
 ## Exigencia
 
-El utilitarismo es una teoría ética muy [exigente](./objeciones-al-utilitarismo/exigencia.md): sostiene que siempre que puedas hacer más para ayudar a otras personas que para ayudarte a ti mismo, deberías hacerlo.[^2] Por ejemplo, si pudieras sacrificar tu vida para salvar la de muchas otras personas, entonces, en igualdad de condiciones, según el utilitarismo, deberías hacerlo.
+El utilitarismo es una teoría ética muy [exigente](/objeciones/exigencia.md): sostiene que siempre que puedas hacer más para ayudar a otras personas que para ayudarte a ti mismo, deberías hacerlo.[^2] Por ejemplo, si pudieras sacrificar tu vida para salvar la de muchas otras personas, entonces, en igualdad de condiciones, según el utilitarismo, deberías hacerlo.
 
 Aunque son raras las ocasiones en las que sacrificar la propia vida es lo mejor, el utilitarismo mantiene su nivel de exigencia en el mundo actual. Por ejemplo, [donando a una organización benéfica de salud global muy eficaz](./actuar-conforme-al-utilitarismo.md#donar-a-organizaciones-beneficas) puedes salvar la vida de un niño por sólo unos miles de dólares.[^3] Siempre que el beneficio que otros reciban de tales donaciones supere lo que tú ganarías guardándote el dinero para ti —como es casi seguro que ocurra, si eres un ciudadano típico de un país rico—, deberías donarlo. De hecho, probablemente deberías donar la mayor parte de tus ingresos de por vida. Según el utilitarismo, sólo es realmente justificable gastar dinero en uno mismo —por ejemplo, en ir al cine o en comprar ropa bonita— si se piensa que este gasto haría más bien que cualquier donación posible. Se trata de un listón muy alto.
 

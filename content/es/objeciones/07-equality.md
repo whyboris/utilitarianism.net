@@ -25,7 +25,7 @@ Desde el punto de vista del utilitarismo, sólo la suma total de bienestar deter
 
 Algunos filósofos cuestionan la teoría utilitarista con respecto a esta elección, alegando que la distribución igualitaria del bienestar en _igualdad_ proporciona una razón para elegir esta opción. Desde este punto de vista, el bienestar total no es lo único que importa, sino también la igualdad en la distribución. La igualdad, se afirma, es una consideración moral importante que los utilitaristas pasan por alto.
 
-Los defensores del utilitarismo podrían [responder a esta objeción de cuatro maneras](./objeciones-al-utilitarismo#formas-generales-de-responder-a-las-objeciones-al-utilitarismo). Las examinaremos una por una.
+Los defensores del utilitarismo podrían [responder a esta objeción de cuatro maneras](/objeciones#formas-generales-de-responder-a-las-objeciones-al-utilitarismo). Las examinaremos una por una.
 
 ## Acomodar la intuición
 
