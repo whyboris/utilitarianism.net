@@ -2,7 +2,7 @@
 
 This folder contains source files to re-create images when needed (for a new translation or any other reason).
 
-## Population Ethics
+## Population Ethics & Equality
 
 Use _Adobe Illustrator_ to edit the file. When generating new images:
 
