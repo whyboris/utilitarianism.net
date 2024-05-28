@@ -89,7 +89,7 @@ All plausible theories should agree that overall consequences are _among_ the co
 
 ## Conclusion
 
-There is reason to doubt whether concerns about cluelessness really present an _objection_ to utilitarianism at all. Cluelessness may just be a sad implication of the circumstances in which we find ourselves. But considerations of expected value, mediated via plausible heuristics, may continue to guide us nonetheless. We might reasonably take near-term expected value at face value, even if we've no idea about the long-term consequences of the acts in question. Moreover, even if long-term cluelessness swamps near-term expected value, there may still be some options—like working to reduce existential risk—that have appreciably positive long-run expected value. So utilitarianism need not leave us entirely clueless about [how to act](/acting-on-utilitarianism), after all.
+There is reason to doubt whether concerns about cluelessness really present an _objection_ to utilitarianism at all. Cluelessness may just be a sad implication of the circumstances in which we find ourselves. But considerations of expected value, mediated via plausible heuristics, may continue to guide us nonetheless. We might reasonably take near-term expected value at face value, even if we've no idea about the long-term consequences of the acts in question. Moreover, even if long-term cluelessness swamps near-term expected value, there may still be some options—like working to reduce existential risk—that have appreciably positive long-run expected value. So utilitarianism does not leave us entirely clueless about [how to act](/acting-on-utilitarianism), after all.
 
 {{< next-page-objection >}}
 

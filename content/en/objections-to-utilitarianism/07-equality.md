@@ -31,9 +31,9 @@ Proponents of utilitarianism might [respond to this objection in four ways](/obj
 
 The first response to this objection is to point out that utilitarians accept that equality is an extremely important guiding concept in our everyday decision making. The difference is merely that utilitarians value equality because of its instrumental benefits, rather than because it is intrinsically important.
 
-Utilitarians care deeply about equality largely because most goods exhibit _diminishing marginal utility_. This means that the more an individual already has of a particular good, such as money or nice clothes, the less they benefit from having even more of it. This provides a strong instrumental reason for utilitarians to care about equality in distributing goods. The diminishing marginal utility of goods implies that we can often increase overall well-being by redistributing from the haves to the have-nots. Also, excessive inequality between people may cause social conflict and be bad for society in the long run. This provides an additional reason to prefer equal distributions of wealth among people.
+Utilitarians care deeply about equality largely because most goods exhibit _diminishing marginal utility_. This means that the more an individual already has of a particular good, such as money or nice clothes, the less they benefit from having even more of it. This provides a strong instrumental reason for utilitarians to care about equality in distributing goods. The diminishing marginal utility of goods implies that we can often increase overall well-being by redistributing from the haves to the have-nots. Also, excessive inequality between people may cause social conflict and harm society in the long run. This provides an additional reason to prefer equal distributions of wealth among people.
 
-As a practical matter, many utilitarians use their time and money to improve the lives of the most disadvantaged groups in the world, trying to create a more equitable world for all.
+As a practical matter, many utilitarians use their time and money to improve the lives of the most disadvantaged, trying to create a more equitable world for all.
 
 ## Debunking the Intuition
 
@@ -49,7 +49,7 @@ If we specify the original example in money, and use the standard economic measu
 
 ![Utilitarianism and equality - objections to utilitarianism](/img/equality2.jpg "Utilitarianism and equality - objections to utilitarianism")
 
-We think that, put in these terms, it's no longer intuitively obvious that the utilitarian choice, favoring Inequality over Equality, is the wrong one. Everyone would agree that some level of inequality can be justified by greater total well-being; how exactly to make this trade-off is tricky, and it's not obvious that utilitarianism gets the wrong answer.
+Put in these terms, we think it's no longer intuitively obvious that the utilitarian choice, favoring Inequality over Equality, is the wrong one. Everyone would agree that some level of inequality can be justified by greater total well-being; how exactly to make this trade-off is tricky, and it's not obvious that utilitarianism gets the wrong answer.
 
 ## Rivals Fare No Better
 
@@ -63,7 +63,7 @@ To see this, suppose that you can choose between one of two options for distribu
 
 We can stipulate that both Abel and Beth would rationally prefer Risky Gamble over Safe Bet. They do so because their expected well-being in Risky Gamble is 50 (=(80+20) x 50%), which is higher than the expected well-being in Safe Bet of 45.[^5] So, if we follow ex ante Pareto then we should prefer Risky Gamble to Safe Bet. However, Risky Gamble results in an unequal outcome. Those who preferred Equality to Inequality must therefore also prefer Safe Bet to Risky Gamble. They must do so even though doing so is against the best interests of all parties concerned.
 
-This objection has been developed formally by the economist John Harsanyi, who proved it in his utilitarian aggregation theorem.[^6]
+This argument has been developed formally by the economist John Harsanyi, who proved it in his utilitarian aggregation theorem.[^6]
 
 ## Biting the Bullet
 

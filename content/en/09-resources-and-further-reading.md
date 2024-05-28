@@ -428,12 +428,14 @@ Resources for [Acting on Utilitarianism](/acting-on-utilitarianism)
 
 ### Effective Altruism
 
-- William MacAskill (2019). [Effective Altruism](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7205d104c7bf5cc8f1dca/1539776611190/Effective+Altruism+-+Introduction.pdf). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.).
+- William MacAskill (forthcoming). [Effective Altruism](https://drive.google.com/file/d/1xs22x9UIuvym--MfAUtQsZ-GVqTqXeEs/view). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.).[^40]
 - William MacAskill (2015). _[Doing Good Better: Effective Altruism and How You Can Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Penguin Random House.
 - William MacAskill (2018). [What Are the Most Important Moral Problems of Our Time?](https://www.ted.com/talks/will_macaskill_what_are_the_most_important_moral_problems_of_our_time) _TED_.
 - Peter Singer (2013). [The Why and How of Effective Altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en). _TED_.
+- Richard Y. Chappell (2024). [Why Not Effective Altruism?](https://philpapers.org/rec/CHAWNE). _Public Affairs Quarterly_ 38 (1): 3-21.
 - Websites and organizations relevant to effective altruism:
   - [Effectivealtruism.org](https://www.effectivealtruism.org/): Website providing online resources about effective altruism.
+  - [Effective Altruism Forum](https://forum.effectivealtruism.org/): An online forum for discussing issues related to effective altruism.
   - [GiveWell](https://www.givewell.org/): Charity evaluator aiming to find outstanding giving opportunities.
   - [80,000 Hours](https://80000hours.org/): Research non-profit aiming to help talented individuals maximize the social impact of their careers.
   - [Giving What We Can](https://www.givingwhatwecan.org/): Community of people having pledged to give 10% of their lifetime earnings to effective charities.
@@ -442,7 +444,7 @@ Resources for [Acting on Utilitarianism](/acting-on-utilitarianism)
   - [Effective Altruism: An Introduction](https://80000hours.org/podcast/effective-altruism-an-introduction/). _80,000 Hours Podcast_.
   - William MacAskill (2020). [Doing Good](https://samharris.org/podcasts/228-doing-good/). _Making Sense Podcast with Sam Harris_.
   - Peter Singer (2016). [What is Moral Progress?](https://samharris.org/podcasts/what-is-moral-progress/). _Making Sense Podcast with Sam Harris_.
-  - Gus Docker. [Utilitarian Podcast](https://podcasts.apple.com/us/podcast/utilitarian/id1529734932).
+  - Peter Singer & Kasia de Lazari Radek (2024) [Lives Well Lived](https://podcasts.apple.com/us/podcast/lives-well-lived/id1743702376)
 
 ### Global Health and Development
 

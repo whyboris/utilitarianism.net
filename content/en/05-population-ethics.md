@@ -33,17 +33,17 @@ According to the _total view_ of population ethics:
 
 > **One outcome is better than another if and only if it contains greater total well-being.**[^3]
 
-Importantly, one population may have greater total well-being than another in virtue of having more people. One way to calculate this total is to multiply the number of individuals (N) with their average quality of life (Q).[^4] We can, therefore, represent the total view by the following value function:
+Importantly, one population may have greater total well-being than another in virtue of having more people. One way to calculate this total is to multiply the number of individuals (N) by their average quality of life (Q).[^4] We can, therefore, represent the total view by the following value function:
 
 **Value<sub>total view</sub> = N \* Q**
 
-Consider a hypothetical world A with 100 inhabitants (N<sub>A</sub>) at average well-being level 10 (Q<sub>A</sub>) and another hypothetical world B with 200 inhabitants (N<sub>B</sub>) at well-being level 5 (Q<sub>B</sub>). On the total view, worlds A and B are equally good because they both have 1,000 units of well-being (N<sub>A</sub> \* Q<sub>A</sub> = N<sub>B</sub> \* Q<sub>B</sub> = 1,000).
+Consider a hypothetical world A with 100 inhabitants (N<sub>A</sub>) at an average well-being level 10 (Q<sub>A</sub>) and another hypothetical world B with 200 inhabitants (N<sub>B</sub>) at well-being level 5 (Q<sub>B</sub>). On the total view, worlds A and B are equally good because they both have 1,000 units of well-being (N<sub>A</sub> \* Q<sub>A</sub> = N<sub>B</sub> \* Q<sub>B</sub> = 1,000).
 
-When making such comparisons between hypothetical worlds in population ethics, these worlds are often illustrated graphically. The width of the following graphs represents the number of people, and the height represents their average well-being level. Consequently, the graphs’ area—width times height—represents the total welfare in the hypothetical worlds. Illustrated graphically, worlds A and B are equally valuable, according to the total view, since their graphs have the same area.
+When comparing hypothetical worlds in population ethics, these worlds are often illustrated graphically. The width of the following graphs represents the number of people, and the height represents their average well-being level. Consequently, the graphs’ area—width times height—represents the total welfare in the hypothetical worlds. Illustrated graphically, worlds A and B are equally valuable, according to the total view, since their graphs have the same area.
 
 ![Total View](/img/population-ethics-1.svg "Total View")
 
-The total view implies that we can improve the world in two ways: either we can improve the quality of life of existing people, or we can increase the number of people living positive lives.[^5] The total view makes no distinction between whether the additional well-being would come to people who already exist or to entirely new people. For example, the total view regards having a child that lives a happy and fulfilled life as something that makes the world better, all else equal, since it adds to the total well-being.[^6] Importantly, the claim is not that having the child might make the world better in virtue of enriching the lives of others; instead, it's that having the child is good in itself. How good it is to bring a new person into existence depends on how much better or worse that person’s life is than a “neutral life”. According to this view, happy people are good and having more of a good thing, other things being equal, makes an outcome better.
+The total view implies that we can improve the world in two ways: either we can improve the quality of life of existing people, or we can increase the number of people living positive lives.[^5] The total view makes no distinction between whether the additional well-being would come to people who already exist or to entirely new people. For example, the total view regards having a child who lives a happy and fulfilled life as something that makes the world better, all else equal, since it adds to the total well-being.[^6] Importantly, the claim is not that having the child might make the world better in virtue of enriching the lives of others; instead, it's that having the child is good in itself. How good it is to bring a new person into existence depends on how much better or worse that person’s life is than a “neutral life”. According to this view, happy people are good and having more of a good thing, other things being equal, makes an outcome better.
 
 In practice, there might be trade-offs between making existing people happier and creating additional happy people. For example, you might think that, on a planet with limited resources, adding more people to an already large population may at some point diminish the quality of life of everyone else severely enough that total well-being decreases. It's an open empirical question whether our world has reached the population size at which adding a person increases or decreases overall well-being.[^7]
 
@@ -77,13 +77,13 @@ Third, we may mistakenly imagine ourselves as part of the populations being comp
 
 #### Tolerating the Intuition
 
-Proponents of the total view may “bite the bullet” and simply accept that world Z is better than world A. They may point out that, while initially counterintuitive, this conclusion is based on the compelling goal to create a world with as much total well-being as possible. On the total view, reductions in the average well-being level of a population can be more than compensated for by adding sufficiently many lives that are worth living. Since lives worth living are (one would naturally think) an inherently good thing, it seems rhetorically overblown to call this implication “repugnant”.
+Proponents of the total view may “bite the bullet” and simply accept that world Z is better than world A. They may point out that, while initially counterintuitive, this conclusion is based on the compelling goal of creating a world with as much total well-being as possible. On the total view, reductions in the average well-being level of a population can be more than compensated for by adding sufficiently many lives that are worth living. Since lives worth living are (one would naturally think) an inherently good thing, it seems rhetorically overblown to call this implication “repugnant”.
 
 Indeed, it turns out to be remarkably difficult to avoid the repugnant conclusion. Strong arguments, such as Parfit's “mere addition paradox”,[^17] entail the repugnant conclusion without assuming the total view to begin with. Consider the choice between the following three worlds, A, A+, and B.
 
 ![Mere Addition Paradox](/img/population-ethics-3.svg "Mere Addition Paradox")
 
-In world A, everyone’s well-being is very high. World A+ contains (i) one population group that is identical to the A population in terms of population size and average well-being, and (ii) a second group of the same size but with slightly lower well-being. Most people would agree that A+ is not worse than A (and may even be better) since, intuitively, merely adding people with lives worth living (without thereby harming anyone else) cannot make an outcome worse. Now consider world B with the same overall population size as A+. The average well-being in B is slightly higher than in A+ but lower than in A. When we compare worlds A+ and B, it seems that B must be better. Not only are the average _and_ total welfare in B higher than in A+, but well-being is also more equally distributed. Yet, if B is better than A+, and A+ is not worse than A, it follows that B must be better than A.[^18] Repeating this process—comparing world B with B+ and C etc.—leads to world Z with an enormous number of people with lives barely worth living. Following the above reasoning, world Z must be better than world A: the repugnant conclusion.
+In world A, everyone’s well-being is very high. World A+ contains (i) one population group that is identical to the A population in terms of population size and average well-being, and (ii) a second group of the same size but with slightly lower well-being. Most people would agree that A+ is not worse than A (and may even be better) since, intuitively, merely adding people with lives worth living (without thereby harming anyone else) cannot make an outcome worse. Now consider world B, which has the same overall population size as A+. The average well-being in B is slightly higher than in A+ but lower than in A. When we compare worlds A+ and B, it seems that B must be better. Not only are the average _and_ total welfare in B higher than in A+, but well-being is also more equally distributed. Yet, if B is better than A+, and A+ is not worse than A, it follows that B must be better than A.[^18] Repeating this process—comparing world B with B+ and C etc.—leads to world Z with an enormous number of people with lives barely worth living. Following the above reasoning, world Z must be better than world A: the repugnant conclusion.
 
 #### Attacking the Alternatives
 
@@ -115,7 +115,7 @@ Adding a small number of tortured, miserable people to a population diminishes t
 
 ![Average view and the sadistic conclusion](/img/population-ethics-4.svg "Average view and the sadistic conclusion")
 
-Third, the average view prefers arbitrarily small populations over very large populations, as long as the average well-being was higher. For example, a world with a single, extremely happy individual would be favored to a world with ten billion people, all of whom are extremely happy but just ever-so-slightly less happy than that single person.
+Third, the average view prefers arbitrarily small populations over very large populations, as long as the average well-being is higher. For example, a world with a single, extremely happy individual would be favored to a world with ten billion people, all of whom are extremely happy but just ever-so-slightly less happy than that single person.
 
 ## Variable Value Theories
 
@@ -182,13 +182,13 @@ All of the theories discussed above—the total view, the average view, variable
 
 > **N** = number of persons; **Q** = average well-being level; **α** = critical level; **f()** = strictly increasing and strictly concave function with a horizontal asymptote
 
-Impersonal theories imply that creating an additional person with a (sufficiently) good life makes the world better, other things being equal.[^42] However, some people reject this implication. They say that there are no moral reasons to bring into existence additional people—at least no reasons based on the well-being these people would enjoy if created. Jan Narveson put this idea in slogan form: “We are in favour of making people happy, but neutral about making happy people”.[^43] _Person-affecting views_ of population ethics attempt to capture this intuition of neutrality, and are especially common among non-consequentialists.[^44]
+Impersonal theories imply that creating an additional person with a (sufficiently) good life makes the world better, other things being equal.[^42] However, some people reject this implication. They say that there are no moral reasons to bring additional people into existence—at least no reasons based on the well-being these people would enjoy if created. Jan Narveson put this idea in slogan form: “We are in favor of making people happy, but neutral about making happy people”.[^43] _Person-affecting views_ of population ethics attempt to capture this intuition of neutrality, and are especially common among non-consequentialists.[^44]
 
 To this end, standard person-affecting views accept the _person-affecting restriction_:
 
 > **An outcome cannot be better (or worse) than another unless it is better (or worse) _for_ someone.**[^45]
 
-At first glance, this principle sounds eminently plausible. When considering only fixed-population cases, it amounts to an expression of _[welfarism](/types-of-utilitarianism#welfarism)_: the view that well-being is the only value. But problems arise when comparing outcomes in which different people exist, especially if combined with the principle of _Existence Incomparability_:[^46]
+At first glance, this principle sounds eminently plausible. When considering only fixed-population cases, it amounts to an expression of _[welfarism](/types-of-utilitarianism#welfarism)_: the view that well-being is the only value. But problems arise when comparing outcomes in which different people exist, especially if combined with the principle of _existence incomparability_:[^46]
 
 > **If a person exists in one outcome but not the other, it is not possible to compare their well-being across these outcomes.**
 
@@ -218,7 +218,7 @@ In cases involving comparisons to empty worlds, the simple procreative asymmetry
 
 Most people would prefer world A over an empty world B. But the simple procreative asymmetry would seem, perversely, to favor the empty world B since it counts the many good lives in world A for nothing while the few bad lives dominate the decision. On this view, there are no worthwhile trade-offs between good and bad lives. It would be better, supposedly, to have no lives at all.
 
-To help address these problems, we may consider a more complex person-affecting view—one analogous to the critical range theory, discussed above, but with infinite value blur, yielding the result that _all_ (positive) lives are “meh”.[^52] On such a view, it's better to create a flourishing life than a mediocre one (so A<sub>1</sub> is indeed better than A<sub>2</sub>, at least if they contain the exact same number of people), but _either_ choice is merely on a par with creating neither.
+To help address these problems, we may consider a more complex person-affecting view—one analogous to the critical range theory, discussed above, but with infinite value blur, yielding the result that _all_ (positive) lives are “meh”.[^52] On such a view, it's better to create a flourishing life than a mediocre one (so A<sub>1</sub> is indeed better than A<sub>2</sub>, at least if they contain the exact same number of people). However, _either_ choice is merely on a par with creating neither.
 
 But this brings us to a deeper problem with the procreative asymmetry, which is that it has trouble accounting for the idea that _we should be positively glad that the world (with all its worthwhile lives) exists_.[^53] Granted, the immense incomparability introduced by all the putatively “meh” lives in A at least blocks the perverse conclusion that we must outright prefer the empty world B. Even so, holding the two worlds to be incomparable or “on a par” also seems wrong.
 
@@ -227,18 +227,18 @@ We should recognize that A is better. But to do that, we must reject the strict 
 We may also raise more theoretical objections to such a view. Person-affecting views typically fall afoul of one or more of the following problems:[^54]
 
 1. having moral rankings change when “irrelevant alternatives” are introduced (such as preferring A to B when they are the only choices, but then B over A when an inferior option C is also available);
-2. having cyclical orderings of value (saying that A is better than B, B is better than C, and C is better than A);
+2. having cyclical orderings of value (saying that A is better than B, B is better than C, and C is better than A); and
 3. saying that all outcomes that differ even slightly in how many people exist are incomparable.
 
 For all these reasons, utilitarians are largely united in rejecting person-affecting views, even as they continue to debate which impersonal theory provides the best way forward.[^55]
 
 ## Practical Implications of Population Ethical Theories
 
-Population ethics is a field of great importance for real-world decision-making. In particular, which population ethical view we adopt shapes the importance we should assign to preserving and improving the long-term future of humanity. If human civilization persists, and perhaps one day spreads to the stars, there could be an inconceivably large number of future people with good lives. Their existence and well-being depend in part on the choices we make today: especially how many resources we, the current generation, invest in [preventing existential risks](/acting-on-utilitarianism#existential-risk-reduction), which threaten the continued survival and long-term flourishing of humankind.[^56]
+Population ethics is a field of great importance for real-world decision-making. In particular, which population ethical view we adopt shapes the importance we should assign to preserving and improving the long-term future of humanity. If human civilization persists, and perhaps one day spreads to the stars, there could be an inconceivably large number of future people with good lives. Their existence and well-being depend in part on the choices we make today: especially how many resources we, the current generation, invest in [preventing existential risks](/acting-on-utilitarianism#existential-risk-reduction) that threaten the continued survival and long-term flourishing of humankind.[^56]
 
 The total well-being enjoyed by all future people is potentially enormous. Consequently, on the total view, the disvalue of losing our future is immense, and the mitigation of existential risks becomes correspondingly important. The same conclusion also holds for critical level (or range) theories, assuming that the average well-being of future generations exceeds the critical level (or range).[^57]
 
-Even on the average view, there is reason to expect the long-term future to make a big difference to the overall value of the world. Human welfare has improved dramatically in recent centuries due to technological, social, and moral progress. Consequently, our generation is driving up the all-time average of well-being among humans who have yet existed.[^58] Further scientific and medical breakthroughs will likely continue to improve the average quality of life in the future. Therefore, even on the average view, it should be a priority to avoid existential risks by virtue of the large future gains in average well-being. The same is true for variable value theories, as they tend to approximate the average view for large populations.[^59]
+Even on the average view, there is reason to expect the long-term future to make a big difference to the overall value of the world. Human welfare has improved dramatically in recent centuries due to technological, social, and moral progress. Consequently, our generation is driving up the average of well-being to date.[^58] Further scientific and medical breakthroughs will likely continue to improve the average quality of life in the future. Therefore, even on the average view, it should be a priority to avoid existential risks by virtue of the large future gains in average well-being. The same is true for variable value theories, as they tend to approximate the average view for large populations.[^59]
 
 Proponents of standard person-affecting views (with a strict procreative asymmetry) are sceptical of the claim that reducing existential risk is of enormous importance. They would still think that reducing these risks has some value because this reduces the risk of death for those alive today. But they would not regard the absence of future generations as an intrinsic moral loss. However, while these strict asymmetric views may not be concerned about the prospect of human extinction, they may seriously worry about the possibility of a dystopian future containing many miserable lives. Averting such a negative future would be critically important on these views.[^60] Others might be drawn to a weaker (and correspondingly more plausible) version of the asymmetry, according to which we do have some reason to create flourishing lives, but _stronger_ reason to help existing people or to avoid lives of negative well-being. On these moderate views, ensuring that the future goes well would still be very important since so many lives are at stake.
 
@@ -339,7 +339,7 @@ The next chapter discusses the most important implications of utilitarianism for
 
     For discussion of the subtleties surrounding the concept of a life “worth living”, see Broome, J. (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press, pp. 66–68.
 [^6]: Stronger still: on the total view, it would be intrinsically _better_ to create a new person at welfare level 100 than to improve an existing person's well-being from level 1 to 100.
-[^7]: For an exploration of whether the world is overpopulated or underpopulated, see Ord, T. (2014). [Overpopulation or Underpopulation?](http://amirrorclear.net/files/overpopulation-or-underpopulation.pdf), in Goldin, I. _[Is the World Full?](doi.org/10.1093/acprof:oso/9780199677771.001.0001)_. Oxford: Oxford University Press.
+[^7]: For an exploration of whether the world is overpopulated or underpopulated, see Ord, T. (2014). [Overpopulation or Underpopulation?](http://amirrorclear.net/files/overpopulation-or-underpopulation.pdf), in Goldin, I. _[Is the Planet Full?](doi.org/10.1093/acprof:oso/9780199677771.001.0001)_. Oxford: Oxford University Press.
 [^8]:
     Reducing existential risk is a priority not just for the total view but for a wide variety of moral views. However, for the total view there is an especially large amount of value at stake with preserving the long-term flourishing of civilization.
 
@@ -361,7 +361,7 @@ The next chapter discusses the most important implications of utilitarianism for
 
     Arrhenius, G. (2003). The Very Repugnant Conclusion. In Krister Segerberg & Ryszard Sliwinski (eds.), _Logic, Law, Morality: Thirteen Essays in Practical Philosophy in Honour of Lennart Åqvist_. Uppsala, pp. 29–44.
 
-[^11]: Geir Asheim et al. (2021). [What Should We Agree on about the Repugnant Conclusion?](https://doi.org/10.1017/S095382082100011X). _Utilitas_. 1–5.
+[^11]: Stéphane Zuber et al. (2021). [What Should We Agree on about the Repugnant Conclusion?](https://doi.org/10.1017/S095382082100011X). _Utilitas_. 379–83.
 [^12]:
     Broome, J. (2004). _[Weighing Lives](https://doi.org/10.1093/019924376X.001.0001)_. Oxford: Oxford University Press.
 
@@ -480,7 +480,7 @@ The next chapter discusses the most important implications of utilitarianism for
 
 [^47]: Cf. Parfit's “wretched child” case. Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press, p. 391.
 [^48]:
-    McMahan, Jeff (2013). [Causing People to Exist and Saving People’s Lives](https://doi.org/10.1007/s10892-012-9139-1). _The Journal of Ethics_, 17 (1-2): 5–35.
+    McMahan, Jeff (2013). [Causing People to Exist and Saving People’s Lives](https://doi.org/10.1007/s10892-012-9139-1). _The Journal of Ethics_, 17: 5–35.
 
     McMahan, J. (2009). [Asymmetries in the Morality of Causing People to Exist](https://doi.org/10.1007/978-1-4020-5697-0_3). In David Wasserman and Melinda Roberts (eds.), _Harming Future Persons_. Springer.
 [^49]: Though one of the coauthors of this chapter has argued elsewhere that “it is thought to be ‘intuitive’ primarily because it has been implicitly confused with other, more plausible theses.” See Chappell, R.Y. (2017). [Rethinking the Asymmetry](https://doi.org/10.1080/00455091.2016.1250203). _Canadian Journal of Philosophy_, 47 (2): 167–177.
@@ -505,7 +505,7 @@ The next chapter discusses the most important implications of utilitarianism for
     Anthis, J. & Paez, E. (2021). [Moral circle expansion: A promising strategy to impact the far future](https://doi.org/10.1016/j.futures.2021.102756). _Futures_, 130.
 
 [^57]: This assumption is plausible: with continued technological, social, and moral progress, the average quality of life in the future will likely increase further, as it has for hundreds of years. Only an implausibly high critical level—on which even the value of the average life in the present generation is negative—may render invalid the conclusion that existential risk reduction should be a priority.
-[^58]: Although the suffering on factory farms might mean that our generation is driving _down_ the average well-being among sentient creatures who have yet existed. But technological improvements, particularly the development of [cultivated meat](https://gfi.org/science/the-science-of-cultivated-meat/) and other animal product alternatives, could render factory farming a temporary phenomenon.
+[^58]: Although the suffering on factory farms might mean that our generation is driving _down_ the average well-being among sentient creatures, once you consider all the suffering-filled animal lives we have created. But technological improvements, particularly the development of [cultivated meat](https://gfi.org/science/the-science-of-cultivated-meat/) and other animal product alternatives, could render factory farming a temporary phenomenon.
 [^59]: If what counts as a “large” population is much greater than the current population, this further increases the importance assigned by variable values theories to avoiding existential risks since they approximate the total view for small populations.
 [^60]:
     For instance, Althaus & Gloor (2018) argue that reducing risks of astronomical future suffering should be an ethical priority.
