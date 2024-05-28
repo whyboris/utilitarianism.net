@@ -20,7 +20,7 @@ mp3: "https://www.buzzsprout.com/2357046/14940230-8-7-der-gleichheits-einwand.mp
 
 Einige argumentieren, dass der Utilitarismus mit dem Ideal der Gleichheit in Konflikt steht. Nehmen wir zum Beispiel an, wir könnten zwischen zwei möglichen Verteilungen von Wohlergehen wählen: _Gleichheit_ und _Ungleichheit_: Bei _Gleichheit_ haben 1.000 Menschen ein Wohlergehen von 45, während bei _Ungleichheit_ 500 Menschen ein Wohlergehen von 80 und weitere 500 Menschen ein Wohlergehen von 20 haben.
 
-![Utilitarianism and equality - objections to utilitarianism](/img/equality1.de.png "Utilitarianism and equality - objections to utilitarianism")
+![Utilitarianism and equality - objections to utilitarianism](/img/equality1.de.svg "Utilitarianism and equality - objections to utilitarianism")
 
 Im Sinne des Utilitarismus bestimmt nur die Gesamtsumme des Wohlergehens die Güte eines Ergebnisses: Die Verteilung von Wohlergehen zwischen Menschen spielt keine Rolle. Da die Gesamtsumme des Wohlergehens bei _Ungleichheit_ größer ist als bei _Gleichheit_, ist das ungleiche Ergebnis dem Utilitarismus nach vorzuziehen.
 
@@ -48,7 +48,7 @@ Diese von Greene beschriebene Verwirrung kann unsere Intuition bei der Wahl zwis
 
 Wenn wir das ursprüngliche Beispiel in Geld ausdrücken und das ökonomische Standardmaß des abnehmenden Grenzertrags von Geld anwenden,[^2] dann sollten wir die Wahl zwischen _Gleichheit_ und _Ungleichheit_ wie folgt darstellen: Bei _Gleichheit_ erhalten 1.000 Personen 13.500 Dollar, während bei _Ungleichheit_ 500 Personen 10.000 Dollar und 500 Personen 50.000 Dollar erhalten.
 
-![Utilitarianism and equality - objections to utilitarianism](/img/equality2.de.jpg "Utilitarianism and equality - objections to utilitarianism")
+![Utilitarianism and equality - objections to utilitarianism](/img/equality2.de.svg "Utilitarianism and equality - objections to utilitarianism")
 
 Wir sind der Meinung, dass es, so präsentiert, nicht mehr intuitiv offensichtlich ist, dass die utilitaristische Entscheidung, _Ungleichheit_ gegenüber _Gleichheit_ zu bevorzugen, die falsche ist. Jeder würde zustimmen, dass ein gewisses Maß an Ungleichheit durch ein höheres Gesamtwohlergehen gerechtfertigt werden kann; wie genau dieser Zielkonflikt auszuloten ist, ist schwierig, und es ist nicht offensichtlich, dass der Utilitarismus die falsche Wahl trifft.
 
@@ -60,7 +60,7 @@ Wir können auch zeigen, dass Alternativen zur utilitaristischen Verteilung von 
 
 Um dies zu veranschaulichen, nehmen wir an, dass wir zwischen zwei Verteilungen von Wohlergehen wählen können: einem sicheren Ergebnis und einem riskanten Spiel: Bei dem sicheren Ergebnis sind sowohl Abel als auch Beth 45 Einheiten Wohlergehen garantiert. Beim riskanten Spiel erfolgt ein fairer Münzwurf. Bei Kopf erhält Abel 80 Einheiten Wohlergehen, während Beth nur 20 Einheiten erhält. Bei Zahl erhält Beth die 80 Einheiten Wohlergehen und Abel die 20 Einheiten.
 
-![Utilitarianism and equality - objections to utilitarianism](/img/equality3.de.png "Utilitarianism and equality - objections to utilitarianism")
+![Utilitarianism and equality - objections to utilitarianism](/img/equality3.de.svg "Utilitarianism and equality - objections to utilitarianism")
 
 Wir können davon ausgehen, dass sowohl Abel als auch Beth aus rationalen Gründen das riskante Spiel dem sicheren Ergebnis vorziehen würden. Sie tun dies, weil ihr erwartetes Wohlergehen beim riskanten Spiel 50 (= (80+20) x 50 %) beträgt, was höher ist als das erwartete Wohlergehen bei einem sicheren Ergebnis von 45.[^5] Wenn wir also ex ante Pareto folgen, sollten wir das riskante Spiel gegenüber dem sicheren Ergebnis vorziehen. Letzteres führt jedoch zu einem ungleichen Ergebnis. Diejenigen, die _Gleichheit_ gegenüber _Ungleichheit_ bevorzugt haben, müssen daher auch das sichere Ergebnis gegenüber dem riskanten Spiel bevorzugen. Sie müssen dies tun, auch wenn dies gegen die Interessen aller Beteiligten verstößt.
 
