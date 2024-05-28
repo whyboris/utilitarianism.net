@@ -4,7 +4,9 @@
   This file was heavily modified for our preference
 */}}
 
-{{/* ------------------- ICON ------------------------------ */}}
+{{/*
+MARK: -------------------------- Icon ---------------------------------
+*/}}
 {{ define "icon" }}
   <span class="list-icon">
     {{- . -}}
@@ -12,7 +14,9 @@
 {{ end }}
 
 
-{{/* -------------------- AUTHOR --------------------------- */}}
+{{/*
+MARK: -------------------------- Author ---------------------------------
+*/}}
 {{- define "authorPart" }}
   {{- $authors := .author }}
   {{- if $authors -}}
@@ -43,9 +47,9 @@
 {{- end -}}
 
 
-
-
-{{/* -------------------- EDITOR ---------------------------------- */}}
+{{/*
+MARK: -------------------------- Editor ---------------------------------
+*/}}
 {{- define "editorPart" }}
   {{- $editors := .editor }}
   {{- if $editors -}}
@@ -71,8 +75,9 @@
 {{- end -}}
 
 
-
-{{/* -------------------- ISSUED (YEAR OF PUBLICATION) --------- */}}
+{{/*
+MARK: -------------------------- Issued (YYYY) ---------------------------------
+*/}}
 {{- define "issuedPart" }}
   {{- if and (isset . "issued") (isset .issued "date-parts") -}}
     {{/* range of dates */}}
@@ -90,8 +95,9 @@
 {{- end }}
 
 
-
-{{/* -------------------- FULL ISSUED (YEAR, MONTH, DAY) -------------- */}}
+{{/*
+MARK: -------------------------- Full Issued (Y,M,D) ---------------------------------
+*/}}
 {{- define "issuedFullPart" }}
   {{- if and (isset . "issued") (isset .issued "date-parts") -}}
     (<span itemprop="datePublished">
@@ -111,9 +117,9 @@
 {{- end }}
 
 
-
-
-{{/* -------------------- Simple DOI part ----------------------------- */}}
+{{/*
+MARK: -------------------------- Simple DOI part ---------------------------------
+*/}}
 {{- define "SimpleDOIPart" }}
   {{- if .DOI }}
   <a href="https://doi.org/{{ .DOI }}"
@@ -123,8 +129,9 @@
 {{- end -}}
 
 
-
-{{/* -------------------- DOI part ------------------------------------ */}}
+{{/*
+MARK: -------------------------- DOI part ---------------------------------
+*/}}
 {{- define "DOIPart" }}
   {{- if .DOI }}
   <a href="https://doi.org/{{ .DOI }}"
@@ -141,7 +148,9 @@
 {{- end -}}
 
 
-{{/* -------------------- ArchivalID  ---------------------------- */}}
+{{/*
+MARK: -------------------------- ArchivalID ---------------------------------
+*/}}
 {{- define "ArchivalID" }}
   {{ if isset . "archive" -}}&#32;{{ i18n "archive_available_from" | default "Available from" }}
     <meta itemprop="Organization" itemtype="http://schema.org/Organization" itemscope>
@@ -151,11 +160,9 @@
 {{- end -}}
 
 
-
-
-
-
-{{/* ==================== BOOK ==================== */}}
+{{/*
+MARK: -------------------------- Book ---------------------------------
+*/}}
 {{- if eq .type "book" -}}
 
 {{ template "icon" "📘"}}
@@ -199,8 +206,9 @@
   {{ end }}
 
 
-
-{{/* ==================== CHAPTER ==================== */}}
+{{/*
+MARK: -------------------------- Chapter ---------------------------------
+*/}}
 {{- else if eq .type "chapter" -}}
 
   {{ template "icon" "📖"}}
@@ -253,8 +261,9 @@
   {{- template "DOIPart" . -}}
 
 
-
-{{/* ==================== ARTICLE ==================== */}}
+{{/*
+MARK: -------------------------- Article ---------------------------------
+*/}}
 {{- else if or (eq .type "article-journal") (eq .type "article") -}}
 
   {{ template "icon" "📃" }}
@@ -291,8 +300,9 @@
   {{- template "DOIPart" . -}}
 
 
-
-{{/* ==================== WEBPAGE ==================== */}}
+{{/*
+MARK: -------------------------- Webpage ---------------------------------
+*/}}
 {{- else if eq .type "webpage" -}}
 
   {{ template "icon" "💻" }}
@@ -311,8 +321,9 @@
   {{ end }}
 
 
-
-{{/* ==================== THESIS ==================== */}}
+{{/*
+MARK: -------------------------- Ph.D. Thesis ---------------------------------
+*/}}
 {{- else if eq .type "thesis" -}}
 
   {{ template "icon" "🎓" }}
@@ -343,8 +354,9 @@
   {{- template "DOIPart" . -}}
 
 
-
-{{/* ==================== REPORT ==================== */}}
+{{/*
+MARK: -------------------------- Report ---------------------------------
+*/}}
 {{- else if eq .type "report" -}}
 
   {{ template "icon" "📜" }}
@@ -375,9 +387,10 @@
   {{- template "ArchivalID" . -}}
   {{- template "DOIPart" . -}}
 
-{{/* ------------------------------------------------ */}}
 
-{{/* -------------------- ALL ELSE -------------------- */}}
+{{/*
+MARK: -------------------------- etc ---------------------------------
+*/}}
 {{- else -}}
   <span style="background-color: #f00; color: #fff;">TEMPLATE NOT FOUND</span>
 {{- end -}}
