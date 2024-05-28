@@ -4,15 +4,16 @@ slug: "introduccion-al-utilitarismo"
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 1
+weight: 101
 description: "Este capítulo presenta el utilitarismo y sus principales costos y beneficios como teoría moral."
 gradientTop: "#0c3b5b"
 gradientBottom: "#236d9f"
 ---
 
-> *"La tarea del benevolente es sin duda tratar diligentemente de promover el beneficio del mundo y eliminar el daño al mundo y tomar esto como modelo en todo el mundo. ¿Beneficia a la gente? Hazlo. ¿No beneficia a la gente? Detente.*
+> _"La tarea del benevolente es sin duda tratar diligentemente de promover el beneficio del mundo y eliminar el daño al mundo y tomar esto como modelo en todo el mundo. ¿Beneficia a la gente? Hazlo. ¿No beneficia a la gente? Detente."_
 >
 > — Mòzǐ[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 
@@ -82,6 +83,14 @@ Todas las teorías utilitaristas comparten cuatro elementos clave: consecuencial
 La ética utilitarista tiene una tradición intelectual que abarca siglos, durante los cuales ha suscitado muchos debates encendidos. Los críticos del utilitarismo acusan a la teoría de no tener en cuenta los derechos y de ser excesivamente exigente, entre otras objeciones. Sus defensores responden que la teoría tiene virtudes teóricas atractivas y ofrece una explicación convincente de lo que importa fundamentalmente. Si los dilemas morales se resolvieran tras un velo de ignorancia para minimizar el riesgo de sesgos, sería racional que todos los implicados apoyaran las recomendaciones utilitaristas. Es necesario examinar de cerca estos argumentos enfrentados para llegar a una opinión informada sobre esta polémica teoría moral.
 
 En el capítulo siguiente se analizan más a fondo los cuatro elementos de las teorías utilitaristas y se presentan diversas variantes del utilitarismo.
+
+{{< next-page-textbook >}}
+
+---
+
+{{< how-to-cite >}}
+
+{{< button >}}
 
 ## Recursos y más información
 

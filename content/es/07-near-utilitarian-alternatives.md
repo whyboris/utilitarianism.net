@@ -5,7 +5,7 @@ authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 7
+weight: 107
 description: "Hay varias maneras de rechazar aspectos del utilitarismo sin dejar de estar de acuerdo con la idea central de la teoría (al menos en la práctica). Este capítulo explora una serie de teorías cercanas al utilitarismo para demostrar la solidez de sus recomendaciones prácticas. Incluso alguien que considera que la teoría es técnicamente falsa puede tener buenas razones para estar de acuerdo, en buena medida, con sus veredictos prácticos."
 gradientTop: "#305D9C"
 gradientBottom: "#1F2A70"
@@ -121,7 +121,9 @@ Pero se trata de un abanico de opiniones bastante reducido. Por el contrario, es
 
 El siguiente capítulo analiza varias de las objeciones más importantes al utilitarismo y las respuestas a estas objeciones.
 
-{{< next-page-textbook title="Objeciones al utilitarismo y respuestas" mp="/objeciones-al-utilitarismo" >}}
+{{< next-page-textbook >}}
+
+---
 
 {{< how-to-cite >}}
 

@@ -5,7 +5,7 @@ authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 6
+weight: 106
 description: "El utilitarismo tiene importantes implicaciones sobre cómo debemos pensar en llevar una vida ética. A pesar de no dar ningún peso intrínseco a las restricciones deónticas, en la práctica apoya muchas prohibiciones y virtudes de sentido común. Su principal diferencia práctica radica en su énfasis en hacer el bien positivamente, de forma más amplia y eficiente de lo que la gente suele priorizar."
 gradientTop: "#089FD1"
 gradientBottom: "#305D9C"
@@ -147,7 +147,9 @@ Aunque los utilitaristas deben tratar de dedicar vidas a hacer el mayor bien pos
 
 El siguiente capítulo analiza algunas teorías rivales importantes que pueden solaparse significativamente con el utilitarismo en la práctica.
 
-{{< next-page-textbook title="Alternativas-casi-utilitaristas" url="/alternativas-casi-utilitaristas" >}}
+{{< next-page-textbook >}}
+
+---
 
 {{< how-to-cite >}}
 

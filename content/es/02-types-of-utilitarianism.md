@@ -5,7 +5,7 @@ authors: "MacAskill, W., Meissner, D., y Chappell, R.Y."
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 2
+weight: 102
 description: "Tras definir el utilitarismo, este capítulo ofrece un análisis detallado de sus cuatro elementos clave (consecuencialismo, bienestarismo, imparcialidad y agregacionismo). Explica la diferencia entre utilitarismo maximizador, satisfaccionista y escalar, y otras distinciones importantes entre las teorías utilitaristas."
 gradientTop: "#236d9f"
 gradientBottom: "#012147"
@@ -229,7 +229,9 @@ Existen otras distinciones entre las teorías utilitaristas: podemos distinguir 
 
 En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del consecuencialismo más ampliamente.
 
-{{< next-page-textbook title="Argumentos-a-favor-del-utilitarismo" url="/arguments-for-utilitarianism" >}}
+{{< next-page-textbook >}}
+
+---
 
 {{< how-to-cite >}}
 

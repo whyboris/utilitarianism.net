@@ -5,7 +5,7 @@ authors: "Chappell, R.Y. y Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 4
+weight: 104
 description: "Explora las tres principales teorías del bienestar, o lo que hace que una vida sea buena para el individuo que la vive: el hedonismo, la teoría del deseo y la teoría de la lista objetiva."
 gradientTop: "#084BC7"
 gradientBottom: "#1B7CCC"
@@ -171,7 +171,9 @@ Las teorías del bienestar que compiten entre sí coinciden casi siempre en la p
 
 El próximo capítulo aborda la _ética de la población_, y cómo evaluar resultados en los que pueden existir diferentes números de personas.
 
-{{< next-page-textbook title="Ética de la población" url="/etica-de-la-poblacion" >}}
+{{< next-page-textbook >}}
+
+---
 
 {{< how-to-cite >}}
 
