@@ -137,13 +137,13 @@ Variabler-Wert-Theorien haben jedoch ihre eigenen Probleme. Erstens besteht bei 
 
 Nach den Kritisches-Level-Theorien gilt:
 
-Das Hinzufügen einer Person ist in dem Maß eine Verbesserung, in dem ihr Wohlergehen ein bestimmtes kritisches Niveau überschreitet.
+> **Das Hinzufügen einer Person ist in dem Maß eine Verbesserung, in dem ihr Wohlergehen ein bestimmtes kritisches Niveau überschreitet.**
 
 Folglich kann ein Ergebnis nicht nur dadurch verschlechtert werden, dass ein Individuum mit negativem Wohlergehen ins Leben gerufen wird, sondern auch, wenn sein Wohlergehen positiv ist, aber unter dem kritischen Niveau liegt.[^34]
 
 Der Gesamtwert eines Ergebnisses kann nach der Kritisches-Level-Theorie durch die folgende Wertfunktion dargestellt werden, wobei die Anzahl der Individuen N, die durchschnittliche Lebensqualität Q und die kritische Schwelle α berücksichtigt werden:
 
-Wert<sub>kritisches Level</sub> = N * (Q - **α**)
+**Wert<sub>kritisches Level</sub> = N \* (Q - α)**
 
 Wenn wir diese Wertfunktion betrachten, können wir feststellen, dass die Gesamtansicht der Populationsethik einfach eine Kritisches-Level-Theorie mit einem kritischen Level von Null (α = 0) ist. Kritisches-Level-Theorien, einschließlich der Gesamtansicht, stimmen darin überein, dass der Wert des Hinzufügens eines Individuums zur Welt nur vom Wohlergehen dieses Individuums abhängt und — im Gegensatz zur Durchschnittsansicht und den Variabler-Wert-Theorien — nicht von der Anzahl der vorhandenen Personen oder ihrem Wohlergehen.
 
@@ -151,9 +151,11 @@ Kritisches-Level-Theorien vermeiden die abstoßende Schlussfolgerung, wenn ihr k
 
 Ein positiver kritischer Wert führt jedoch zu einer besonders schrecklichen Version der sadistischen Schlussfolgerung, die umso schlimmer wird, je höher der gewählte kritische Wert ist.[^35] Das liegt daran, dass es für eine Welt besser ist, Individuen mit negativem Wohlergehen zu haben — ein Leben, das nicht lebenswert ist, wie zum Beispiel ein Leben in ständiger Folter — als viel mehr Individuen mit einem Leben, das lebenswert ist, aber unterhalb der kritischen Schwelle liegt. Grafisch veranschaulicht führt die Kritisches-Level-Theorie kontraintuitiv dazu, dass Welt A (mit einer ausreichend großen Bevölkerung) _schlechter_ ist als Welt B.
 
+![Critical level theory](/img/population-ethics-5.svg "Critical level theory")
+
 Um dieses inakzeptable Ergebnis zu vermeiden, können wir zu einer Kritische-Spanne-Theorie übergehen,[^36] die besagt:
 
-Das Hinzufügen einer Person verbessert ein Ergebnis in dem Maße, in dem ihr Wohlergehen das obere Ende einer _kritischen Spanne_ überschreitet, und verschlechtert ein Ergebnis in dem Maße, in dem ihr Wohlergehen unter die untere Grenze der kritischen Spanne fällt.
+> **Das Hinzufügen einer Person verbessert ein Ergebnis in dem Maße, in dem ihr Wohlergehen das obere Ende einer _kritischen Spanne_ überschreitet, und verschlechtert ein Ergebnis in dem Maße, in dem ihr Wohlergehen unter die untere Grenze der kritischen Spanne fällt.**
 
 Indem die untere Grenze des kritischen Bereichs so festgelegt wird, dass sie alle neutralen Leben einschließt, die für die Personen, die sie leben, weder gut noch schlecht sind, können die Kritische-Spanne-Theorien die sadistische Schlussfolgerung vermeiden. Und indem man die obere Grenze des Bereichs an dem Punkt ansetzt, an dem Leben eindeutig lohnenswert wird, vermeiden diese Theorien die abstoßende Schlussfolgerung.
 
@@ -163,7 +165,7 @@ Um diese Sichtweise weiterzuentwickeln, können wir uns den Wert eines Lebens in
 
 Die wichtigste Implikation dieser Kritische-Spanne-Theorie (mit moderater Wertunschärfe) ist, dass ein intrinsisch gutes Leben _deutlich_ mehr Wohlergehen beinhalten muss als ein intrinsisch schlechtes Leben, weil es zwischen diesen beiden Stufen eine moderate Bandbreite von Leben gibt, die so lala sind, wie unten dargestellt:[^41]
 
-![Critical range theory](/img/population-ethics-6.de.png "Critical range theory")
+![Critical level theory](/img/population-ethics-6.de.png "Critical level theory")
 
 Die daraus resultierende Sichtweise ist zwar theoretisch komplex, scheint aber weniger anfällig für schwerwiegende Einwände zu sein als die anderen von uns untersuchten Sichtweisen. Insbesondere kann sie gleichzeitig sowohl die abstoßende als auch die sadistische Schlussfolgerung vermeiden. Es ist jedoch anzumerken, dass sie nicht der starken „Anti-abstoßende Schlussfolgerung“-Intuition gerecht wird, dass die idyllische Welt A unbedingt besser ist als die abstoßende Welt Z.[^42] Kritische-Spanne-Theorien betrachten die beiden Welten stattdessen als unvergleichbar, was auf die immense Wertunschärfe zurückzuführen ist, die durch all die so lala-Leben in Welt Z entsteht.
 
@@ -185,11 +187,11 @@ Nicht personenbezogene Theorien gehen davon aus, dass, wenn wir alles andere kon
 
 Zu diesem Zweck akzeptieren die gängigen personenbezogenen Ansichten die _personenbezogene Einschränkung_:
 
-Ein Ergebnis kann nur dann besser (oder schlechter) als ein anderes sein, wenn es für jemanden besser (oder schlechter) ist.[^48]
+> **Ein Ergebnis kann nur dann besser (oder schlechter) als ein anderes sein, wenn es für jemanden besser (oder schlechter) ist.**[^48]
 
 Auf den ersten Blick klingt dieses Prinzip sehr plausibel. Betrachtet man nur Fälle mit fixer Bevölkerung, ist es ein Ausdruck des _[Welfarismus](/arten-des-utilitarismus/#welfarismus)_: die Ansicht, dass Wohlergehen der einzige Wert ist. Aber es ergeben sich Probleme, wenn man Ergebnisse vergleicht, bei denen verschiedene Menschen existieren, insbesondere wenn man es mit dem Prinzip der _Unvergleichbarkeit der Existenz_ kombiniert:[^49]
 
-Wenn eine Person in einem Fall existiert, aber nicht in einem anderen, ist es nicht möglich, ihr Wohlergehen zwischen diesen Fällen zu vergleichen.
+> **Wenn eine Person in einem Fall existiert, aber nicht in einem anderen, ist es nicht möglich, ihr Wohlergehen zwischen diesen Fällen zu vergleichen.**
 
 Da der Wert von Existenz und Nichtexistenz als unvergleichbar angenommen wird, kann die Existenz nicht besser (oder schlechter) für einen selbst sein. In Verbindung mit der personenbezogenen Einschränkung ergibt sich, dass zu existieren ein Ergebnis ebenfalls nicht besser (oder schlechter) machen kann. Aber wir denken gemeinhin, dass ein Leben in ständigem Leid schlimmer wäre, als gar nicht zu existieren. Und ein Ergebnis, das zusätzliche trostlose Leben enthält, wäre in dieser Hinsicht sicherlich ein schlechteres Ergebnis.[^50]
 
@@ -199,17 +201,21 @@ Eine Verallgemeinerung dieser Argumentation würde dazu führen, dass auch intri
 
 Viele personenbezogene Theoretiker wollen dieses Ergebnis vermeiden und befürworten stattdessen die _Fortpflanzungsasymmetrie_, die besagt:
 
-Es ist schlecht, Menschen mit negativem Wohlergehen zu schaffen, aber (unter sonst gleichen Bedingungen)  nicht gut, Menschen mit positivem Wohlergehen zu schaffen.
+> **Es ist schlecht, Menschen mit negativem Wohlergehen zu schaffen, aber (unter sonst gleichen Bedingungen)  nicht gut, Menschen mit positivem Wohlergehen zu schaffen.**
 
 Während viele dieses Prinzip intuitiv finden,[^52]  ist es bekanntermaßen schwierig, eine prinzipielle Grundlage dafür zu liefern.[^53] Die Fortpflanzungsasymmetrie hat auch mehrere äußerst problematische Implikationen, die sich aus dem Versäumnis ergeben, positives Leben als eine gute Sache zu betrachten.
 
 Die einfachste dieser Ansichten besagt, dass positive Leben _keinen Unterschied im Wert_ eines Ergebnisses machen. Dies impliziert jedoch fälschlicherweise, dass die Schaffung von Leben mit geringem positivem Wohlergehen genauso gut ist wie die Schaffung einer gleichen Anzahl von Leben mit einem hohen Wohlergehen-Niveau. Betrachten wir zum Beispiel die Wahl zwischen zwei Welten, die von unterschiedlichen Gruppen zukünftiger Menschen bewohnt werden. In Welt A<sub>1</sub> hat jeder ein wunderbares Leben. In Welt A<sub>2</sub> haben alle Menschen ein Leben, das viel schlechter ist als in A<sub>1</sub>, aber immer noch positiv ist.
 
+![Person affecting views and the asymmetry](/img/population-ethics-7.svg "Person affecting views and the asymmetry")
+
 Es ist klar, dass wir Welt A<sub>1</sub> Welt A<sub>2</sub> vorziehen sollten. Die einfachste Version der reproduktiven Asymmetrie impliziert jedoch, dass beide Welten gleich gut sind — weil sie beide überhaupt nicht gut sind.
 
 In Fällen, in denen es um Vergleiche mit leeren Welten geht, führt die einfache Fortpflanzungsasymmetrie manchmal zu Urteilen, die noch abwegiger erscheinen. Betrachten wir die folgende Wahl zwischen Welt A und Welt B:[^54]
 
-In Welt A haben bis auf wenige Ausnahmen alle Menschen ein ausgezeichnetes Leben. Aber einige Menschen leiden an einer extrem seltenen Krankheit, die das Leben nicht lebenswert macht. In Welt B gibt es keine Menschen.
+> **In Welt A haben bis auf wenige Ausnahmen alle Menschen ein ausgezeichnetes Leben. Aber einige Menschen leiden an einer extrem seltenen Krankheit, die das Leben nicht lebenswert macht. In Welt B gibt es keine Menschen.**
+
+![Person affecting views and the asymmetry](/img/population-ethics-8.svg "Person affecting views and the asymmetry")
 
 Die meisten Menschen würden Welt A einer leeren Welt B vorziehen. Aber die einfache Version der Fortpflanzungsasymmetrie scheint perverserweise die leere Welt B zu begünstigen, da die vielen guten Leben in Welt A nichts zählen, während die wenigen schlechten Leben die Entscheidung dominieren. Aus dieser Sicht gibt es keine sinnvollen Abwägungen zwischen guten und schlechten Leben. Angeblich wäre es besser, es existierten überhaupt keine Leben.
 
