@@ -39,7 +39,7 @@ En cambio, el utilitarismo _trata_ las [cosas no sintientes](/alternativas-cerca
 
 Supongamos que te enfrentas a una emergencia médica, pero sólo tienes medicamentos suficientes para salvar a un adulto o a dos niños. Dos niños y una farmacéutica adulta están al borde de la muerte, y otros tres niños están gravemente enfermos y morirían antes de que nadie pudiera acudir en su ayuda. Si salvas a la farmacéutica, podrá fabricar más medicamentos a tiempo para salvar a los otros tres niños gravemente enfermos (aunque no a tiempo para salvar a los dos que ya están a punto de morir). Si salvas a los dos niños, todos los demás morirán. ¿Qué debes hacer?
 
-![Favoritismo instrumental](/img/instrumental-favoritism.png)
+![Favoritismo instrumental](/img/instrumental-favoritism.es.png)
 
 Desde un punto de vista utilitarista, la respuesta es sencilla: hay que salvar a la farmacéutica, y así salvar a _cuatro_ individuos (incluidos tres niños), en lugar de salvar sólo a dos niños. No importa si se salva a una persona _directamente_ (dándole la medicina tú mismo) o _indirectamente_ (permitiendo que la farmacéutica le dé la medicina); lo único que importa es que se salva.
 
@@ -75,14 +75,14 @@ Pero puede haber otras objeciones, estrechamente relacionadas, que la gente a ve
 
 ## Recursos y más información
 
-- {{< cite Kerstein2019TreatingPersonsAs >}}.
-- {{< cite Parfit2011WhatMattersVolume "chap. 9: Merely as a means" >}}.
+- {{< cite Kerstein2019TreatingPersonsAs >}}
+- {{< cite Parfit2011WhatMattersVolume "chap. 9: Merely as a means" >}}
 
 [^1]: En sentido estricto, esta objeción se aplica a todas las teorías consecuencialistas (agregativas). Las respuestas que ofrecemos en nombre del utilitarismo en este artículo se aplicarían igualmente en defensa de otras teorías consecuencialistas.
-[^2]: {{< cite Kant1785GrundlegungZurMetaphysik "p. 429|10" >}}.
+[^2]: {{< cite Kant1785GrundlegungZurMetaphysik "p. 429|10" >}}
 [^3]: Específicamente, estarían dispuestos a sacrificar bienes que sumaran una pérdida de valor de bienestar igual o menor, para aliviar esta carga.
-[^4]: Cf. {{< cite Parfit2011WhatMattersVolume "chap. 9: Merely as a means" >}}.
-[^5]: {{< cite Kamm1998AreThereIrrelevant "p. 147" >}}.
+[^4]: Cf. {{< cite Parfit2011WhatMattersVolume "chap. 9: Merely as a means" >}}
+[^5]: {{< cite Kamm1998AreThereIrrelevant "p. 147" >}}
 [^6]: En sentido estricto, sus intereses tienen la misma importancia, pero si su esperanza de vida restante es menor que la de los niños (y, por tanto, está en juego un menor bienestar futuro), el valor intrínseco de su vida futura puede ser _menor_ que el de los que aún tienen más tiempo de vida.
 [^7]: Gracias a Toby Ord por sugerir esta variante.
 [^8]: Por ejemplo, pueden afirmar que no se debe tratar a las personas de un modo que no consientan o que no puedan consentir razonablemente.

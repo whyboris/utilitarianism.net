@@ -99,34 +99,34 @@ Hay razones para dudar de que la incertidumbre radical constituya realmente una 
 
 ## Recursos y Más información
 
-- {{< cite "Burch-Brown2014CluesConsequentialists" >}}.
-- {{< cite Greaves2016Cluelessness >}}.
-- {{< cite Lenman2000ConsequentialismCluelessness >}}.
-- {{< cite Mogensen2020MaximalCluelessness >}}.
-- {{< cite Mogensen2021ParalysisArgument >}}.
-- {{< cite Thorstad2020HeuristicsCluelessAgents >}}.
+- {{< cite "Burch-Brown2014CluesConsequentialists" >}}
+- {{< cite Greaves2016Cluelessness >}}
+- {{< cite Lenman2000ConsequentialismCluelessness >}}
+- {{< cite Mogensen2020MaximalCluelessness >}}
+- {{< cite Mogensen2021ParalysisArgument >}}
+- {{< cite Thorstad2020HeuristicsCluelessAgents >}}
 
 [^1]: Es decir, las consideraciones que cuentan a favor de actuar de una manera y no de otra.
-[^2]: Adaptado de {{< cite Lenman2000ConsequentialismCluelessness "p. 344" >}}.
-[^3]: {{< cite Greaves2016Cluelessness "p. 314" >}}.
-[^4]: {{< cite Lenman2000ConsequentialismCluelessness "p. 363" >}}.
-[^5]: Véase {{< cite Lenman2000ConsequentialismCluelessness "pp. 353-359" >}}.
+[^2]: Adaptado de {{< cite Lenman2000ConsequentialismCluelessness "p. 344" >}}
+[^3]: {{< cite Greaves2016Cluelessness "p. 314" >}}
+[^4]: {{< cite Lenman2000ConsequentialismCluelessness "p. 363" >}}
+[^5]: Véase {{< cite Lenman2000ConsequentialismCluelessness "pp. 353-359" >}}
 [^6]:
     Lenman ofrece cuatro objeciones en total. La cuarta presupone la segunda, por lo que se aborda en nuestra respuesta a esa objeción. La tercera objeta que necesitamos distinguir dos razones muy diferentes para juzgar que un acto carece de valor esperado: (i) podríamos _saber_ que no hay diferencia, o (ii) podríamos _no tener la menor idea_ de si es increíblemente bueno o increíblemente malo. Dado que estos dos estados epistémicos son tan diferentes, razona Lenman, no tiene sentido tratarlos de la misma manera.
 
     Es cierto que se trata de una diferencia significativa. Pero es un error asumir que cualquier cosa moralmente significativa debe cambiar la forma en que evaluamos los _actos_, cuando a menudo las _actitudes_ son más adecuadas para reflejar dicha importancia. Sentiríamos mucha más angustia y ambivalencia —y desearíamos que hubiera más información disponible— en un caso de "incertidumbre total" de alto riesgo que en un caso de "cero conocido". Esto parece suficiente para reflejar la diferencia.
 
-[^7]: {{< cite Greaves2016Cluelessness "sec. IV" >}}.
-[^8]: {{< cite Greaves2016Cluelessness "sec. V" >}}. Véase también {{< cite Mogensen2020MaximalCluelessness >}}.
-[^9]: Para una exploración sobre si el mundo está superpoblado o infrapoblado, véase {{< cite Ord2014OverpopulationUnderpopulation >}}.
+[^7]: {{< cite Greaves2016Cluelessness "sec. IV" >}}
+[^8]: {{< cite Greaves2016Cluelessness "sec. V" >}} Véase también {{< cite Mogensen2020MaximalCluelessness >}}
+[^9]: Para una exploración sobre si el mundo está superpoblado o infrapoblado, véase {{< cite Ord2014OverpopulationUnderpopulation >}}
 
 [^10]:
-    Para una defensa relacionada de la "racionalidad procedimental" de confiar en las heurísticas ante una situación de incertidumbre radical, véase {{< cite Thorstad2020HeuristicsCluelessAgents >}}.
+    Para una defensa relacionada de la "racionalidad procedimental" de confiar en las heurísticas ante una situación de incertidumbre radical, véase {{< cite Thorstad2020HeuristicsCluelessAgents >}}
 
     Que valga la pena evaluar las inquietudes relativas a la superpoblación más a fondo dependerá de factores como (i) cuántos recursos están en juego (es plausible que una organización que dona miles de millones de dólares tenga más razones para investigar que un particular que dona cientos de dólares) y (ii) lo tratable que parezca la incertidumbre, o cuál es el valor de la información que se espera de una investigación más exhaustiva. Para un pequeño donante con pocas posibilidades de resolver rápidamente su incertidumbre, a menudo lo más razonable será ignorar por completo la incertidumbre radical.
 
-[^11]: {{< cite Lenman2000ConsequentialismCluelessness "p. 356" >}}.
-[^12]: {{< cite Lenman2000ConsequentialismCluelessness "p. 360" >}}.
+[^11]: {{< cite Lenman2000ConsequentialismCluelessness "p. 356" >}}
+[^12]: {{< cite Lenman2000ConsequentialismCluelessness "p. 360" >}}
 [^13]:
      Por ejemplo, un 10 % de probabilidades de salvar un millón de vidas es mejor en términos esperados que salvar una vida con seguridad, aunque esta última opción tenga un 90 % de probabilidades de producir un resultado mejor. Lo que importa son las magnitudes y probabilidades exactas, y no lo que es "más probable" que sea mejor (por poco que sea).
 
@@ -134,7 +134,7 @@ Hay razones para dudar de que la incertidumbre radical constituya realmente una 
      Una característica importante de la maximización del valor esperado es que no podemos esperar que ninguna alternativa que podamos identificar subjetivamente tenga mejores resultados en el límite (es decir, imaginando que decisiones similares se repiten un número suficiente de veces, en diferentes mundos posibles de ser necesario).
 
 [^15]:
-     Una propuesta interesante es que deberíamos tener _grados de creencia imprecisos_ que cubran una amplia gama de dogmas que parezcan razonables. Una de las preocupaciones de este tipo de propuestas es que podrían implicar que tenemos tantas razones para apoyar a la _Fundación por la Malaria_ como a la _Fundación contra la Malaria_, lo que puede socavar la aparente razonabilidad de los supuestos de los que se parte. Cf. {{< cite Mogensen2020MaximalCluelessness >}}.
+     Una propuesta interesante es que deberíamos tener _grados de creencia imprecisos_ que cubran una amplia gama de dogmas que parezcan razonables. Una de las preocupaciones de este tipo de propuestas es que podrían implicar que tenemos tantas razones para apoyar a la _Fundación por la Malaria_ como a la _Fundación contra la Malaria_, lo que puede socavar la aparente razonabilidad de los supuestos de los que se parte. Cf. {{< cite Mogensen2020MaximalCluelessness >}}
 
 [^16]:
     Resulta sorprendente que incluso Lenman admita que “es muy plausible que las consecuencias invisibles de la acción también importen”, aunque añada que “no hay ninguna razón clara para suponer que esta importancia sea moralmente relevante, así como tampoco son cuestiones de preocupación moral las consecuencias, visibles o no, de los terremotos o de los impactos de meteoritos (aunque ciertamente pueden importar enormemente). No hay nada particularmente irrazonable en ello. Se trata simplemente de decir, por ejemplo, que los crímenes de Hitler, aunque fueron algo terrible, no son algo que podamos plantear sensatamente en la discusión sobre las deficiencias o excelencias morales de [alguien que salvó la vida de un antepasado lejano de Hitler]” ({{< cite Lenman2000ConsequentialismCluelessness "p. 364" >}}).
@@ -146,4 +146,4 @@ Hay razones para dudar de que la incertidumbre radical constituya realmente una 
 [^17]:
     A menos que se interprete en el sentido de que ya no se exija orientación donde no es posible. Si bien es cierto que está bien tener razones relativas a los hechos que exceden nuestro alcance epistémico, una versión más convincente de la premisa podría simplemente afirmar que las razones relativas a la evidencia deben estar dentro de nuestro alcance epistémico. Pero entonces se corre el riesgo de caer en una mera tautología: por definición, las "razones relativas a la evidencia" postuladas por cualquier teoría —incluido el consecuencialismo— serán epistémicamente accesibles (suponiendo que "evidencia" y "acceso epistémico" vayan juntos). La cuestión, en cambio, es qué razones relativas a la evidencia (si las hay) implica la teoría que tenemos.
 
-[^18]: Aunque hay algunas razones para pensar que las dificultades prácticas pueden ser aún peores para los no consecuencialistas. Véase {{< cite Mogensen2021ParalysisArgument >}}.
+[^18]: Aunque hay algunas razones para pensar que las dificultades prácticas pueden ser aún peores para los no consecuencialistas. Véase {{< cite Mogensen2021ParalysisArgument >}}

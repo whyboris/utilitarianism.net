@@ -43,7 +43,7 @@
   {{ end }}
   {{/*  --- file loaded ---  */}}
 
-  {{- $reference := index $bibliography $key -}}
+  {{ $reference := index $bibliography $key }}
 
   {{ if eq $reference nil }}
 
@@ -62,14 +62,14 @@
         <i>{{- title $reference.title -}}</i>
       {{ end }}
 
-    {{ else }}
-      {{ partial $styleFile $reference }} {{/* <----- !!! THE CITATION STRING OUTPUT !!! */}}
-    {{ end }}
-
-    {{ if $suffix }}
-      {{- $suffix -}} {{/* Add the suffix string, e.g. `pp. 12-13` */}}
+    {{- else -}}
+      {{- partial $styleFile $reference -}} {{/* <----- !!! THE CITATION STRING OUTPUT !!! */}}
     {{- end -}}
 
-  {{ end }}
+    {{ if $suffix }}
+      {{- $suffix -}}. {{/* Add the suffix string, e.g. `pp. 12-13` */}}
+    {{- end -}}
+
+  {{- end -}}
 
 {{- end -}}

@@ -71,26 +71,26 @@ Frente a quienes insisten en la parcialidad en un nivel teórico fundamental, lo
 
 ## Recursos y más información
 
-- {{< cite Everett2018CostsOfBeing >}}.
-- {{< cite Goodin1988WhatSpecialOur >}}.
-- {{< cite Jackson1991DecisiontheoreticConsequentialismNearest >}}.
-- {{< cite "Lazari-Radek2012ObjectivityEthicsUnity" >}}.
-- {{< cite Parfit1984ReasonsPersons >}}.
+- {{< cite Everett2018CostsOfBeing >}}
+- {{< cite Goodin1988WhatSpecialOur >}}
+- {{< cite Jackson1991DecisiontheoreticConsequentialismNearest >}}
+- {{< cite "Lazari-Radek2012ObjectivityEthicsUnity" >}}
+- {{< cite Parfit1984ReasonsPersons >}}
 
 [^1]: Las "capacidades personales" mencionadas aquí podrían incluir la salud mental, la fuerza de voluntad, la motivación moral, etc.: básicamente cualquier cosa que le permita a uno ser eficaz en la consecución de sus objetivos, en contraste con cosas como la depresión, el agotamiento, etc., que cabría esperar que reduzcan significativamente la capacidad para lograr resultados.
-[^2]: {{< cite Goodin1988WhatSpecialOur >}}. Véase también {{< cite Jackson1991DecisiontheoreticConsequentialismNearest >}}.
-[^3]: {{< cite Parfit1984ReasonsPersons >}}.
+[^2]: {{< cite Goodin1988WhatSpecialOur >}} Véase también {{< cite Jackson1991DecisiontheoreticConsequentialismNearest >}}
+[^3]: {{< cite Parfit1984ReasonsPersons >}}
 [^4]:
     Además, puede haber costos de reputación para los utilitaristas que no dan prioridad a los miembros de su familia, lo que podría invertir el valor esperado a largo plazo de actuar así, una vez que se tiene en cuenta el riesgo de una reacción social adversa. Actuar de una forma que se considera errónea es socialmente arriesgado, lo que da a los utilitaristas razones prácticas adicionales para pensarlo dos veces antes de infringir las normas ampliamente aceptadas de "obligación especial".
 
-    Véase {{< cite Everett2018CostsOfBeing >}}.
+    Véase {{< cite Everett2018CostsOfBeing >}}
 
 [^5]:
     Esto está estrechamente relacionado con la objeción de la "esquizofrenia moral" al utilitarismo sofisticado, discutida en el artículo sobre [la objeción de la alienación](/alienacion#utilitarismo-sofisticado). Sin embargo, la objeción que nos ocupa aquí parece más débil. La objeción de la alienación se refería a cosas que el utilitarismo supuestamente no valoraba _en absoluto_. Mientras que, en este caso, el utilitarismo ciertamente valora el bienestar de un hijo; la cuestión es sólo si hay alguna justificación para una preocupación _incluso mayor_. Parece intrínsecamente más difícil tener una confianza firme en tales cuestiones de grado.
-[^6]: {{< cite "Lazari-Radek2012ObjectivityEthicsUnity" >}}.
-[^7]: {{< cite Parfit1984ReasonsPersons "p. 97" >}}.
+[^6]: {{< cite "Lazari-Radek2012ObjectivityEthicsUnity" >}}
+[^7]: {{< cite Parfit1984ReasonsPersons "p. 97" >}}
 [^8]:
-    {{< cite Parfit1984ReasonsPersons "p. 103" >}}.
+    {{< cite Parfit1984ReasonsPersons "p. 103" >}}
 
     Como señala Parfit, una revisión mínima prohibiría temporalmente la parcialidad precisamente en este tipo de situaciones en las que una mayor cooperación redundara en el interés de _todos_ (siempre que se espere que un número suficiente de personas cooperen de igual modo). Esta revisión mínima puede parecer _ad hoc_ si la parcialidad es _fundamental_ para la ética, pero tiene mucho más sentido en los enfoques utilitaristas que consideran la parcialidad como algo justificado meramente desde un punto de vista instrumental.
 
