@@ -218,33 +218,39 @@ MARK: -------------------------- Chapter ---------------------------------
   {{- template "issuedPart" . }}.
   &#32;
   {{- if .title -}}
-  <span itemprop="name">
     {{- title .title | markdownify -}}
-    {{- if .subtitle }}: {{ .subtitle | markdownify }}{{- end -}}
-  </span>.
+    {{- if .subtitle }}: {{ .subtitle | markdownify }}{{- end -}}.
   {{- end -}}
 
   {{- if isset . "container-title" -}}
-  &#32;{{- i18n "apa_in" | default "In" -}}&#32;
-  {{- if .editor -}}
-  {{- template "editorPart" . }} (Eds.),&#32;
+    &#32;{{- i18n "apa_in" | default "In" -}}&#32;
+
+    {{- if .editor -}}
+      {{- template "editorPart" . }} (Eds.),&#32;
+    {{- end -}}
+
+
+    <i>{{/* italicize title */}}
+      {{- $tempTitle := echoParam . "container-title" -}}
+      {{ title $tempTitle -}}
+    </i>.
   {{- end -}}
 
-  <span itemprop="about">
-    <i>{{/* italicize title */}}
-      {{- $lol := echoParam . "container-title" -}}
-      {{ title $lol }}
-    </i></span>.{{/* close to avoid space */}}
+  {{- if or (isset . "edition") (isset . "page") -}}
+    &#32;(
+
+    {{- if isset . "edition" -}}
+      {{ .edition }}
+      {{- if isset . "page" -}}, {{ end -}}
+    {{- end -}}
+
+    {{- if isset . "page" -}}
+      pp.&#32;{{ replace .page "-" "–" }}
+    {{- end -}}
+
+    )
   {{- end -}}
-  {{- if or (isset . "edition") (isset . "page") -}}&#32;(
-  {{- if isset . "edition" -}}
-  <span itemprop="workExample">{{ .edition }}</span>
-  {{- if isset . "page" -}}, {{ end -}}
-  {{- end -}}
-  {{- if isset . "page" -}}
-  <span>pp.&#32;{{ replace .page "-" "–" }}</span>
-  {{- end -}}
-  ){{- end -}}.
+
   {{ if isset . "publisher-place" -}}
   <meta itemprop="contentLocation"
         value="{{- echoParam . "publisher-place" -}}">
