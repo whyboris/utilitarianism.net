@@ -30,7 +30,7 @@ Wealth and income are distributed extremely unequally across the globe. Middle-c
 
 ![World income distribution](/img/World-Income-Distribution.svg "World income distribution")
 
-> _Earning above 31,000 $ per year puts you in the richest 5% of the world population._ Cf. _Giving What We Can_ (2024). [How Rich Am I?](https://www.givingwhatwecan.org/how-rich-am-i?income=31000&countryCode=USA&numAdults=1&numChildren=0).
+> _Earning above 30,000 $ per year puts you in the richest 5% of the world population._ Cf. _Giving What We Can_ (2024). [How Rich Am I?](https://www.givingwhatwecan.org/how-rich-am-i?income=30330&countryCode=USA&numAdults=1&numChildren=0).
 
 Wealth and income exhibit what economists call _diminishing marginal utility_.[^3] The idea is simple: How much an individual’s well-being is increased by receiving a higher income depends on their current income. While richer people report being more satisfied with their lives overall, the richer you become, the less well-being you get from additional money. An additional dollar benefits a poor farmer in Kenya much more than it benefits a middle-class member of a rich country.
 
