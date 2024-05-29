@@ -334,7 +334,7 @@ MARK: -------------------------- Webpage ---------------------------------
 
   {{- if isset . "container-title" -}}
     <i>
-      {{ echoParam . "container-title" }}
+      {{ echoParam . "container-title" -}}
     </i>
   {{- end -}}.
 
@@ -350,24 +350,20 @@ MARK: -------------------------- Ph.D. Thesis ---------------------------------
   &#32;
   {{- template "issuedPart" . }}.
   &#32;
+
   {{- if .title -}}
-  <span itemprop="name">
     <i>{{- .title | markdownify -}}</i>
-  </span>
   {{- end -}}
-{{- if isset . "genre" -}}<span itemprop="inSupportOf">&nbsp;({{- echoParam . "genre" -}})</span>
-    {{- end -}}.&#32;
-{{- if isset . "publisher-place" -}}
-  <meta itemprop="locationCreated"
-        value="{{- echoParam . "publisher-place" -}}">
-  {{- end -}}
+
+  {{- if isset . "genre" -}}
+    &nbsp;({{- echoParam . "genre" -}})
+  {{- end -}}.&#32;
+
   {{- with .publisher -}}
-  <span itemprop="publisher"
-        itemtype="http://schema.org/EducationalOrganization"
-        itemscope>
-    <span itemprop="name">{{- . -}}{{- end -}}
-    </span>{{ if isset . "publisher-place" -}},&#32; <span itemprop="location">{{- echoParam . "publisher-place" -}}</span></span>.
+    {{- . -}}{{- end -}}
+    {{ if isset . "publisher-place" -}},&#32;{{- echoParam . "publisher-place" -}}.
   {{- end }}
+
   {{- template "ArchivalID" . -}}
   {{- template "DOIPart" . -}}
 
