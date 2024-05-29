@@ -121,7 +121,7 @@ Pero se trata de un abanico de opiniones bastante reducido. Por el contrario, es
 
 El siguiente capítulo analiza varias de las objeciones más importantes al utilitarismo y las respuestas a estas objeciones.
 
-{{< next-page-textbook >}}
+{{< next-page-textbook objections="true" >}}
 
 ---
 
