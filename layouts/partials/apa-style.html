@@ -133,9 +133,7 @@ MARK: -------------------------- Simple DOI part -------------------------------
 */}}
 {{- define "SimpleDOIPart" }}
   {{- if .DOI }}
-  <a href="https://doi.org/{{ .DOI }}"
-     itemprop="identifier"
-     itemtype="https://schema.org/URL">https://doi.org/{{- .DOI -}}</a>
+    <a href="https://doi.org/{{ .DOI }}">https://doi.org/{{- .DOI -}}</a>
   {{- end -}}
 {{- end -}}
 
@@ -154,18 +152,6 @@ MARK: -------------------------- DOI part ---------------------------------
     {{- i18n "apa_retrieved_from" | default "Retrieved from" -}}&#32;
     <a href="{{ .URL }}">{{ .URL }}</a>
   {{- end -}}
-{{- end -}}
-
-
-{{/*
-MARK: -------------------------- ArchivalID ---------------------------------
-*/}}
-{{- define "ArchivalID" }}
-  {{ if isset . "archive" -}}&#32;{{ i18n "archive_available_from" | default "Available from" }}
-    <meta itemprop="Organization" itemtype="http://schema.org/Organization" itemscope>
-    <span itemprop="name">{{- echoParam . "archive" -}}</span>.
-    {{- if isset . "archive_location" -}}&#32; ({{- echoParam . "archive_location" -}}){{- end }}.
-  {{- end }}
 {{- end -}}
 
 
@@ -222,8 +208,7 @@ MARK: -------------------------- Chapter ---------------------------------
   {{- template "issuedPart" . }}.
   &#32;
   {{- if .title -}}
-    {{- title .title | markdownify -}}
-    {{- if .subtitle }}: {{ .subtitle | markdownify }}{{- end -}}.
+    {{- title .title | markdownify -}}.
   {{- end -}}
 
   {{- if isset . "container-title" -}}
@@ -351,22 +336,21 @@ MARK: -------------------------- Ph.D. Thesis ---------------------------------
   {{- template "issuedPart" . }}.
   &#32;
 
-  {{- if .title -}}
-    <i>{{- .title | markdownify -}}</i>
-  {{- end -}}
-
-  {{- if isset . "genre" -}}
-    &nbsp;({{- echoParam . "genre" -}})
-  {{- end -}}.&#32;
+  {{- template "titleWithUrl" . -}}.&#32;
 
   {{- with .publisher -}}
-    {{- . -}}{{- end -}}
-    {{ if isset . "publisher-place" -}},&#32;{{- echoParam . "publisher-place" -}}.
-  {{- end }}
+    {{- . -}}
+  {{- end -}}
 
-  {{- template "ArchivalID" . -}}
-  {{- template "DOIPart" . -}}
+  {{ if isset . "publisher-place" -}}
+    ,&#32;{{- echoParam . "publisher-place" -}}.
+  {{- else -}}
+    .
+  {{- end -}}
 
+  {{- if not (and .title .URL) -}}
+    {{- template "DOIPart" . -}}
+  {{- end -}}
 
 {{/*
 MARK: -------------------------- Report ---------------------------------
@@ -398,7 +382,7 @@ MARK: -------------------------- Report ---------------------------------
       {{- . -}}{{- end -}}
     </span> {{ if isset . "publisher-place" -}}:&#32; <span itemprop="location">{{- echoParam . "publisher-place" -}}</span></span>.
   {{- end }}
-  {{- template "ArchivalID" . -}}
+
   {{- template "DOIPart" . -}}
 
 
