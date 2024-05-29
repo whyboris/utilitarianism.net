@@ -268,188 +268,188 @@ En el siguiente capítulo se analizan las implicaciones más importantes del uti
 
 ### Debates generales sobre la ética de la población
 
-- {{< cite Arrhenius2000PopulationAxiology >}}.
-- {{< cite Chappell2023PopulationEthics >}}.
-- {{< cite Greaves2017PopulationAxiology >}}.
-- {{< cite Parfit1984PartFourFuture >}}.
+- {{< cite Arrhenius2000PopulationAxiology >}}
+- {{< cite Chappell2023PopulationEthics >}}
+- {{< cite Greaves2017PopulationAxiology >}}
+- {{< cite Parfit1984PartFourFuture >}}
 
 ### La perspectiva total y la conclusión repugnante
 
-- {{< cite Arrhenius2006RepugnantConclusion >}}.
-- {{< cite Arrhenius2003VeryRepugnantConclusion >}}.
-- {{< cite Gustafsson2022OurIntuitiveGrasp >}}.
-- {{< cite Spears2021RepugnantConclusions >}}.
-- {{< cite Huemer2008DefenceRepugnance >}}.
-- {{< cite Tannsjo2002WhyWeOught >}}.
-- {{< cite Zuber2021WhatShouldWe >}}.
+- {{< cite Arrhenius2006RepugnantConclusion >}}
+- {{< cite Arrhenius2003VeryRepugnantConclusion >}}
+- {{< cite Gustafsson2022OurIntuitiveGrasp >}}
+- {{< cite Spears2021RepugnantConclusions >}}
+- {{< cite Huemer2008DefenceRepugnance >}}
+- {{< cite Tannsjo2002WhyWeOught >}}
+- {{< cite Zuber2021WhatShouldWe >}}
 
 ### Teorías del valor variable
 
-- {{< cite Sider1991MightTheoryBe >}}.
-- {{< cite Hurka1983ValuePopulationSize >}}.
+- {{< cite Sider1991MightTheoryBe >}}
+- {{< cite Hurka1983ValuePopulationSize >}}
 
 ### Teorías del nivel crítico y del rango crítico
 
-- {{< cite Blackorby1995IntertemporalPopulationEthics >}}.
-- {{< cite Blackorby2005PopulationIssuesSocialchoice >}}.
-- {{< cite Broome2004WeighingLives >}}.
-- {{< cite Gustafsson2020PopulationAxiologyAnd >}}.
+- {{< cite Blackorby1995IntertemporalPopulationEthics >}}
+- {{< cite Blackorby2005PopulationIssuesSocialchoice >}}
+- {{< cite Broome2004WeighingLives >}}
+- {{< cite Gustafsson2020PopulationAxiologyAnd >}}
 
 ### Intuición de neutralidad
 
-- {{< cite McMahan2013CausingPeopleExist >}}.
-- {{< cite Rabinowicz2009BroomeIntuitionNeutrality >}}.
-- {{< cite Bykvist2007BenefitsComingExistence >}}.
-- {{< cite Broome2005ShouldWeValue >}}.
-- {{< cite Harman2004CanWeHarm >}}.
+- {{< cite McMahan2013CausingPeopleExist >}}
+- {{< cite Rabinowicz2009BroomeIntuitionNeutrality >}}
+- {{< cite Bykvist2007BenefitsComingExistence >}}
+- {{< cite Broome2005ShouldWeValue >}}
+- {{< cite Harman2004CanWeHarm >}}
 
 ### Las perspectivas centradas en las personas afectadas y la asimetría
 
-- {{< cite Arrhenius2009CanPersonAffecting >}}.
-- {{< cite Cohen2020ActualistExplanationOf >}}.
-- {{< cite Frick2014MakingPeopleHappy >}}.
-- {{< cite Frick2020ConditionalReasonsAnd >}}.
-- {{< cite Hare2007VoicesAnotherWorld >}}.
-- {{< cite Narveson1973MoralProblemsPopulation >}}.
-- {{< cite Parsons2002AxiologicalActualism >}}.
-- {{< cite Roberts2002NewWayOf >}}.
+- {{< cite Arrhenius2009CanPersonAffecting >}}
+- {{< cite Cohen2020ActualistExplanationOf >}}
+- {{< cite Frick2014MakingPeopleHappy >}}
+- {{< cite Frick2020ConditionalReasonsAnd >}}
+- {{< cite Hare2007VoicesAnotherWorld >}}
+- {{< cite Narveson1973MoralProblemsPopulation >}}
+- {{< cite Parsons2002AxiologicalActualism >}}
+- {{< cite Roberts2002NewWayOf >}}
 
 ### Implicaciones prácticas de la ética de la población
 
-- {{< cite Ord2020PrecipiceExistentialRisk >}}.
-- {{< cite Althaus2019ReducingRisksAstronomical >}}.
-- {{< cite Beckstead2013OverwhelmingImportanceShaping >}}.
-- {{< cite MacAskill2022WhatWeOwe >}}.
+- {{< cite Ord2020PrecipiceExistentialRisk >}}
+- {{< cite Althaus2019ReducingRisksAstronomical >}}
+- {{< cite Beckstead2013OverwhelmingImportanceShaping >}}
+- {{< cite MacAskill2022WhatWeOwe >}}
 
 ### teoremas de imposibilidad en la ética de la población
 
-- {{< cite Arrhenius2000ImpossibilityTheoremWelfarist >}}.
-- {{< cite Kitcher2000ParfitsPuzzle >}}.
-- {{< cite Carlson1998MereAdditionTwo >}}.
-- {{< cite Ng1989WhatShouldWe >}}.
+- {{< cite Arrhenius2000ImpossibilityTheoremWelfarist >}}
+- {{< cite Kitcher2000ParfitsPuzzle >}}
+- {{< cite Carlson1998MereAdditionTwo >}}
+- {{< cite Ng1989WhatShouldWe >}}
 
 [^1]: Cuando hablamos de poblaciones, nos referimos a poblaciones totales: no sólo a cuántas personas están vivas en un momento específico, sino a todas las personas a lo largo de todo el tiempo.
-[^2]: Otros autores, siguiendo a Derek Parfit, hablan a veces de una "perspectiva centrada en las personas afectadas amplia" que admite razones (no instrumentales) para añadir vidas felices. (Véase {{< cite Parfit1984ReasonsPersons >}}.) Para facilitar la expresión, en este artículo utilizamos "persona" en el sentido _estrecho_ más distintivo que rechaza esta idea.
+[^2]: Otros autores, siguiendo a Derek Parfit, hablan a veces de una "perspectiva centrada en las personas afectadas amplia" que admite razones (no instrumentales) para añadir vidas felices. (Véase {{< cite Parfit1984ReasonsPersons >}}) Para facilitar la expresión, en este artículo utilizamos "persona" en el sentido _estrecho_ más distintivo que rechaza esta idea.
 [^3]: A lo largo de este artículo, utilizamos los términos "calidad de vida" y "bienestar" indistintamente. Estos términos se utilizan para describir cuán buena o mala es la vida de una persona en su totalidad, y no sólo su bienestar en un momento determinado. Además, conceptos como "unidades de bienestar" y "niveles de bienestar" son simplificaciones utilizadas a título ilustrativo y no implican que en la práctica podamos medir el bienestar con precisión.
 [^4]: Un método alternativo consiste en sumar los niveles de bienestar de todos los individuos.
 [^5]:
     La noción de vida positiva, crucial para la perspectiva total, sólo tiene sentido en relación con un punto cero en la escala de bienestar. Este punto cero es el umbral a partir del cual la vida se vuelve "digna de ser vivida". Una "vida neutra", en el nivel 0 de bienestar, no es ni "digna de ser vivida" ni "no digna de ser vivida". Puede ser una vida sin valor ni disvalor, o una vida con exactamente tanto valor como disvalor.
 
-    Para más información sobre las sutilezas del concepto de vida "digna de ser vivida", véase {{< cite Broome2004WeighingLives "pp. 66–68" >}}.
+    Para más información sobre las sutilezas del concepto de vida "digna de ser vivida", véase {{< cite Broome2004WeighingLives "pp. 66–68" >}}
 
 [^6]: Más fuerte aún: desde la perspectiva total, sería intrínsecamente _mejor_ crear una nueva persona en el nivel de bienestar 100 que mejorar el bienestar de una persona existente del nivel 1 al 100.
-[^7]: Para una análisis de la cuestión de si el mundo está superpoblado o subpoblado, véase {{< cite Ord2014OverpopulationUnderpopulation >}}.
+[^7]: Para una análisis de la cuestión de si el mundo está superpoblado o subpoblado, véase {{< cite Ord2014OverpopulationUnderpopulation >}}
 [^8]:
     Reducir el riesgo existencial es una prioridad no sólo para la perspectiva total, sino para una amplia variedad de perspectivas morales. Sin embargo, para la perspectiva total, preservar la prosperidad a largo plazo de la civilización tiene un valor especialmente importante.
 
-    {{< cite Ord2020PrecipiceExistentialRisk "chap. 2" >}}.
+    {{< cite Ord2020PrecipiceExistentialRisk "chap. 2" >}}
 
 [^9]:
     Aunque Parfit merece el reconocimiento por plantear el debate filosófico en torno a la conclusión repugnante, podría decirse que Henry Sidgwick se percató de ello mucho antes, al escribir que "el punto hasta el cual, según los principios utilitaristas, debe alentarse el aumento de la población, no es aquel en el que la felicidad media es la mayor posible... sino aquel en el que la felicidad alcanza su máximo".
 
-    {{< cite Sidgwick1907MethodsEthics "p. 418" >}}.
+    {{< cite Sidgwick1907MethodsEthics "p. 418" >}}
 
 [^10]:
-    Esta formulación está tomada de {{< cite Greaves2017PopulationAxiology >}}.
+    Esta formulación está tomada de {{< cite Greaves2017PopulationAxiology >}}
 
     La formulación original más larga de Parfit era la siguiente: "Para cualquier población posible de al menos diez mil millones de personas, todas con una calidad de vida muy alta, debe haber alguna población imaginable mucho mayor cuya existencia, si las demás cosas son iguales, sería mejor aunque sus miembros tengan vidas apenas dignas de ser vividas."
 
-    {{< cite Parfit1984ReasonsPersons "p. 342" >}}.
+    {{< cite Parfit1984ReasonsPersons "p. 342" >}}
 
     La perspectiva total implica además la _conclusión muy repugnante_, según la cual un número suficiente de vidas apenas dignas de ser vividas puede pesar más que cualquier número de vidas adicionales arbitrariamente miserables.
 
-    {{< cite Arrhenius2003VeryRepugnantConclusion >}}.
+    {{< cite Arrhenius2003VeryRepugnantConclusion >}}
 
-[^11]: {{< cite Zuber2021WhatShouldWe >}}.
+[^11]: {{< cite Zuber2021WhatShouldWe >}}
 [^12]:
-    {{< cite Broome2004WeighingLives >}}.
+    {{< cite Broome2004WeighingLives >}}
 
-    {{< cite Huemer2008DefenceRepugnance >}}.
+    {{< cite Huemer2008DefenceRepugnance >}}
 
-    {{< cite Gustafsson2022OurIntuitiveGrasp >}}.
+    {{< cite Gustafsson2022OurIntuitiveGrasp >}}
 
 [^13]:
-    {{< cite Ryberg1996IsTheRepugnant >}}.
+    {{< cite Ryberg1996IsTheRepugnant >}}
 
-    {{< cite Taennsjoe1992WhoAreThe >}}.
+    {{< cite Taennsjoe1992WhoAreThe >}}
 
-    {{< cite Mackie1985ParfitSPopulation >}}.
+    {{< cite Mackie1985ParfitSPopulation >}}
 
-[^14]: Así caracterizaba Parfit en ocasiones el "repugnante" mundo Z, por ejemplo en {{< cite Parfit2004OverpopulationQualityLife >}}.
-[^15]: {{< cite Hutchinson2014EthicsOfExtending >}}.
+[^14]: Así caracterizaba Parfit en ocasiones el "repugnante" mundo Z, por ejemplo en {{< cite Parfit2004OverpopulationQualityLife >}}
+[^15]: {{< cite Hutchinson2014EthicsOfExtending >}}
 [^16]:
-    {{< cite Tannsjo2002WhyWeOught >}}.
+    {{< cite Tannsjo2002WhyWeOught >}}
 
-    {{< cite Huemer2008DefenceRepugnance >}}.
+    {{< cite Huemer2008DefenceRepugnance >}}
 
-[^17]: {{< cite Parfit1984ReasonsPersons "chap. 19" >}}.
+[^17]: {{< cite Parfit1984ReasonsPersons "chap. 19" >}}
 [^18]: Al menos bajo supuestos normales. Como veremos más adelante, esto ya no se sigue si, además de la tricotomía estándar de las relaciones de valor (ser _mayor que_, _menor que_ y _precisamente igual_), existe una cuarta relación de estar _a la par_. La razón es que B podría ser mejor que A+, mientras que _tanto_ A+ como B están meramente a la par de A.
 [^19]:
-    {{< cite Spears2021RepugnantConclusions >}}.
+    {{< cite Spears2021RepugnantConclusions >}}
 
-    {{< cite Spears2018WhyRepugnantConclusion >}}.
+    {{< cite Spears2018WhyRepugnantConclusion >}}
 
 [^20]: Para ver cómo se aplica esto a la _perspectiva promedio_, por ejemplo, basta con suponer que tenemos una población base que contiene un sufrimiento inmenso. Añadir una vasta población de vidas apenas positivas puede entonces hacer más para elevar el promedio que añadir un número moderado de vidas excelentes.
-[^21]: {{< cite Spears2021RepugnantConclusions "p. 28" >}}.
+[^21]: {{< cite Spears2021RepugnantConclusions "p. 28" >}}
 [^22]:
-    {{< cite Arrhenius2000ImpossibilityTheoremWelfarist >}}.
+    {{< cite Arrhenius2000ImpossibilityTheoremWelfarist >}}
 
-    {{< cite Arrhenius2011ImpossibilitySatisfactoryPopulation >}}.
+    {{< cite Arrhenius2011ImpossibilitySatisfactoryPopulation >}}
 
-    {{< cite Kitcher2000ParfitsPuzzle >}}.
+    {{< cite Kitcher2000ParfitsPuzzle >}}
 
-    {{< cite Carlson1998MereAdditionTwo >}}.
+    {{< cite Carlson1998MereAdditionTwo >}}
 
-    {{< cite Ng1989WhatShouldWe >}}.
+    {{< cite Ng1989WhatShouldWe >}}
 
-[^23]: {{< cite Greaves2017PopulationAxiology >}}.
+[^23]: {{< cite Greaves2017PopulationAxiology >}}
 [^24]:
-    Por ejemplo, {{< cite Tannsjo2002WhyWeOught >}}.
+    Por ejemplo, {{< cite Tannsjo2002WhyWeOught >}}
 
-    {{< cite Huemer2008DefenceRepugnance >}}.
+    {{< cite Huemer2008DefenceRepugnance >}}
 
 [^25]: Obsérvese que las perspectivas promedio y total _siempre_ coinciden en la clasificación de los resultados cuando éstos contienen el mismo número de individuos. En tales casos, se dice que ambas teorías son "extensionalmente equivalentes".
-[^26]: Se trata de una variación del caso _Infierno tres_ de {{< cite Parfit1984ReasonsPersons "p. 422" >}}.
+[^26]: Se trata de una variación del caso _Infierno tres_ de {{< cite Parfit1984ReasonsPersons "p. 422" >}}
 [^27]:
-    Definición adaptada de {{< cite Arrhenius2000ImpossibilityTheoremWelfarist >}}.
+    Definición adaptada de {{< cite Arrhenius2000ImpossibilityTheoremWelfarist >}}
 
     Nótese que esta etiqueta es engañosa. Mientras que la objeción anterior señalaba cómo la perspectiva promedio a veces favorece la adición de vidas miserables (lo que parece sádico), la llamada "conclusión sádica" se opone en cambio a la afirmación de que añadir un pequeño número de vidas de bienestar negativo puede ser _menos malo_ que añadir un gran número de vidas moderadamente positivas a un mundo por lo demás muy feliz. En la medida en que este juicio comparativo se deriva de evaluar negativamente (algunas) vidas de bienestar positivo, en lugar de positivamente vidas de bienestar negativo, la etiqueta de "sadismo" parece un término equivocado.
 
 [^28]:
     Donde **f** es una función estrictamente creciente y estrictamente cóncava con asíntota horizontal. Es decir, a medida que N aumenta, **f(N)** aumenta a un ritmo decreciente, y nunca supera un cierto límite.
 
-    Cf. {{< cite Hurka1983ValuePopulationSize >}}.
+    Cf. {{< cite Hurka1983ValuePopulationSize >}}
 
-    {{< cite Ng1989WhatShouldWe >}}.
+    {{< cite Ng1989WhatShouldWe >}}
 
-[^29]: {{< cite Greaves2017PopulationAxiology >}}.
+[^29]: {{< cite Greaves2017PopulationAxiology >}}
 [^30]:
     Pueden evitar la conclusión repugnante ya que el valor total de una población está sujeto a un límite superior si el valor de las vidas adicionales disminuye asintóticamente.
 
-    Cf. {{< cite Greaves2017PopulationAxiology >}}.
+    Cf. {{< cite Greaves2017PopulationAxiology >}}
 
-[^31]: {{< cite Parfit1984ReasonsPersons "chap. 18" >}}.
+[^31]: {{< cite Parfit1984ReasonsPersons "chap. 18" >}}
 [^32]: Consideremos un mundo bueno con mil millones de personas felices y una sola persona miserable. Imaginemos que aumentamos repetidamente el número de personas felices y miserables de acuerdo con un mismo factor: diez mil millones de personas felices y diez personas miserables, cien mil millones de personas felices y cien personas miserables, etc. Para una población suficientemente grande, cada vez que aumentamos su tamaño de esta manera, el mundo empeora (según estas teorías asimétricas) hasta que finalmente llegamos a un mundo globalmente malo.
-[^33]: Para un intento de este tipo, véase la sección 7.2.2 de {{< cite Chappell2021ParfitEthics >}}.
+[^33]: Para un intento de este tipo, véase la sección 7.2.2 de {{< cite Chappell2021ParfitEthics >}}
 [^34]: Generalmente se supone que el nivel crítico no es negativo, es decir, es positivo o cero. Un nivel crítico negativo atribuiría inverosímilmente un valor positivo a (algunas) vidas negativas.
-[^35]: Cf. {{< cite Broome2004WeighingLives "pp. 213–214" >}}.
+[^35]: Cf. {{< cite Broome2004WeighingLives "pp. 213–214" >}}
 [^36]:
-    {{< cite Blackorby1996QuasiOrderingsAnd >}}.
+    {{< cite Blackorby1996QuasiOrderingsAnd >}}
 
-    {{< cite Rabinowicz2009BroomeIntuitionNeutrality >}}.
+    {{< cite Rabinowicz2009BroomeIntuitionNeutrality >}}
 
-    {{< cite Gustafsson2020PopulationAxiologyAnd >}}.
+    {{< cite Gustafsson2020PopulationAxiologyAnd >}}
 
-[^37]: Cf. {{< cite Chang2002PossibilityParity >}}.
+[^37]: Cf. {{< cite Chang2002PossibilityParity >}}
 [^38]: Uno puede, por ejemplo, obtener este resultado pensando en el rango crítico como la representación de un rango dentro del cual es _indeterminado donde se encuentra el nivel crítico_. O se puede considerar un rango de _pluralismo razonable_, de modo que se pueda tratar cualquier punto de este rango como el nivel crítico a la hora de formar preferencias personales sobre qué vidas añadir (o no) al mundo. En cualquiera de los dos enfoques, podemos entonces _supervaluar_, y sostener que la población X es (verdadera, determinada u objetivamente) mejor que Y sólo si esta evaluación se siguiera de _todas_ las teorías de nivel crítico en las que el nivel crítico cae dentro del rango especificado.
 [^39]:
-    Gustafsson desarrolla un punto de vista en esta línea, aunque con una terminología diferente a la que usamos aquí (por ejemplo, usando "indistinción" en lugar de " borrosidad del valor"). Véase: {{< cite Gustafsson2020PopulationAxiologyAnd >}}.
+    Gustafsson desarrolla un punto de vista en esta línea, aunque con una terminología diferente a la que usamos aquí (por ejemplo, usando "indistinción" en lugar de " borrosidad del valor"). Véase: {{< cite Gustafsson2020PopulationAxiologyAnd >}}
 
-[^40]: La siguiente ilustración está adaptada de {{< cite Gustafsson2020PopulationAxiologyAnd "p. 92" >}}.
+[^40]: La siguiente ilustración está adaptada de {{< cite Gustafsson2020PopulationAxiologyAnd "p. 92" >}}
 [^41]:
     Esto puede resultar especialmente problemático si el rango crítico es simétrico, de forma que las vidas ligeramente negativas también se califican como mediocres (en lugar de malas). La mayoría pensaría que el mundo A idílico debería ser estrictamente mejor que un mundo "Z-" que contuviera un gran número de vidas ligeramente negativas, pero las teorías del rango crítico simétrico tendrán dificultades para alcanzar este veredicto. Cf. {{< cite -Gustafsson2020PopulationAxiologyAnd "p. 95" >}}, que afirma que esto no es una implicación muy difícil de tolerar si el valor personal/bienestar de tal vida es también borroso, y por lo tanto "mediocre" (en nuestra terminología) en lugar de malo _para la persona que lo vive_.
 
-    {{< cite Gustafsson2020PopulationAxiologyAnd >}}.
+    {{< cite Gustafsson2020PopulationAxiologyAnd >}}
 
 [^42]: Aquí usamos el término "impersonal" simplemente para contrastar con la perspectiva centrada en las personas estrecha. Por tanto, incluso una teoría impersonal (según nuestro uso) puede considerar que el valor de un estado de cosas se basa en hechos sobre lo que es bueno para determinadas personas, por ejemplo, si uno sostiene que una existencia feliz puede constituir un beneficio no comparativo, de forma paralela a cómo una existencia miserable constituye un daño no comparativo.
 [^43]:
@@ -459,66 +459,66 @@ En el siguiente capítulo se analizan las implicaciones más importantes del uti
 
 [^44]: Según la perspectiva total, añadir una persona con bienestar positivo siempre es bueno, en igualdad de condiciones. Lo mismo ocurre con las teorías del valor variable, aunque para una población preexistente grande el valor marginal de una vida adicional añadida puede ser bajo. En la perspectiva promedio, añadir una persona es bueno, en igualdad de condiciones, si su bienestar supera el promedio; del mismo modo, en las teorías del nivel crítico (y del intervalo), es bueno si su bienestar supera el nivel (o el intervalo) crítico.
 [^45]:
-    {{< cite Narveson1973MoralProblemsPopulation "p. 80" >}}.
+    {{< cite Narveson1973MoralProblemsPopulation "p. 80" >}}
 
     Para ejercer presión sobre el eslogan, considérese el atractivo limitado de su análogo de bienestar negativo: "Nos oponemos a hacer desgraciada a la gente, pero somos neutrales respecto de hacer gente desgraciada". Como se analiza a continuación en esta sección, la viabilidad de los enfoques de la ética de la población centrados en las personas afectadas depende crucialmente de la validación de una asimetría radical entre vidas positivas y negativas.
 
 [^46]:
     Por ejemplo, véase:
 
-    {{< cite Finneron-Burns2017WhatWrongHuman >}}.
+    {{< cite Finneron-Burns2017WhatWrongHuman >}}
 
-    {{< cite Narveson1967UtilitarianismNewGenerations >}}.
+    {{< cite Narveson1967UtilitarianismNewGenerations >}}
 
-    {{< cite Narveson1973MoralProblemsPopulation >}}.
+    {{< cite Narveson1973MoralProblemsPopulation >}}
 
-    {{< cite Roberts2002NewWayOf >}}.
+    {{< cite Roberts2002NewWayOf >}}
 
-    {{< cite Roberts2004PersonBasedConsequentialism >}}.
+    {{< cite Roberts2004PersonBasedConsequentialism >}}
 
 [^47]: Al menos, no puede ser mejor o peor en términos de bienestar.
 [^48]:
-    Cf. {{< cite Arrhenius2000FutureGenerationsChallenge "chap. 8" >}}.
+    Cf. {{< cite Arrhenius2000FutureGenerationsChallenge "chap. 8" >}}
 
-    {{< cite Heyd1988ProcreationAndValue >}}.
+    {{< cite Heyd1988ProcreationAndValue >}}
 
-[^49]: Cf. el caso del "niño desgraciado" de Parfit. {{< cite Parfit1984ReasonsPersons "p. 391" >}}.
+[^49]: Cf. el caso del "niño desgraciado" de Parfit. {{< cite Parfit1984ReasonsPersons "p. 391" >}}
 [^50]:
-    {{< cite McMahan2013CausingPeopleExist >}}.
+    {{< cite McMahan2013CausingPeopleExist >}}
 
-    {{< cite Mcmahan2009AsymmetriesInMorality >}}.
-[^51]: Aunque uno de los coautores de este capítulo ha argumentado en otro lugar que "se piensa que es 'intuitivo' principalmente porque se ha confundido implícitamente con otras tesis más plausibles." Véase {{< cite Chappell2018RethinkingAsymmetry >}}.
-[^52]: {{< cite Mcmahan2009AsymmetriesInMorality >}}.
-[^53]: La descripción del caso se ha adaptado de {{< cite Beckstead2013OverwhelmingImportanceShaping >}}.
+    {{< cite Mcmahan2009AsymmetriesInMorality >}}
+[^51]: Aunque uno de los coautores de este capítulo ha argumentado en otro lugar que "se piensa que es 'intuitivo' principalmente porque se ha confundido implícitamente con otras tesis más plausibles." Véase {{< cite Chappell2018RethinkingAsymmetry >}}
+[^52]: {{< cite Mcmahan2009AsymmetriesInMorality >}}
+[^53]: La descripción del caso se ha adaptado de {{< cite Beckstead2013OverwhelmingImportanceShaping >}}
 [^54]: Un desafío importante para tal punto de vista sería explicar cómo hacer que esta borrosidad del valor sea compatible con la asimetría, de modo que las vidas miserables sean reconocidas apropiadamente como malas (no meramente mediocres).
 [^55]: Al menos bajo el supuesto de que las vidas buenas predominan sobre las miserables. Por ejemplo, una persona en el mundo A debería alegrarse de que ese mundo exista.
-[^56]: {{< cite Ord2020PrecipiceExistentialRisk >}}. Véase especialmente la nota 25 de los Apéndices.
+[^56]: {{< cite Ord2020PrecipiceExistentialRisk >}} Véase especialmente la nota 25 de los Apéndices.
 [^57]:
     Otra posibilidad sería algún tipo de perspectiva _híbrida_ que combinara una teoría impersonal con razones adicionales centradas en las personas afectadas para dar prioridad a los intereses de los individuos existentes. Esto ayudaría a bloquear los problemas de la "remplazabilidad" —es decir, que las perspectivas impersonales hacen que sea demasiado fácil justificar que se (maten y) remplacen las vidas existentes por otras "mejores"— sin las implicaciones extremas de las perspectivas centradas en las personas afectadas.
 
     Para un debate fascinante sobre algunas de las complejidades de establecer compensaciones entre daños y beneficios ordinarios y el bien no comparativo de crear una nueva vida (feliz), véase:
 
-    {{< cite McMahan2013CausingPeopleExist >}}.
+    {{< cite McMahan2013CausingPeopleExist >}}
 
 [^58]:
     Además de la reducción del riesgo existencial, otra estrategia prometedora para mejorar el futuro a largo plazo es la "ampliación del círculo moral": aumentar la preocupación moral por los miembros de algunos grupos periféricos para incluir, idealmente, a todos los seres sintientes.
 
-    {{< cite Anthis2021MoralCircleExpansion >}}.
+    {{< cite Anthis2021MoralCircleExpansion >}}
 
 [^59]: Esta suposición es plausible: con el continuo progreso tecnológico, social y moral, la calidad de vida media en el futuro probablemente seguirá aumentando, como lo ha hecho durante cientos de años. Sólo un nivel crítico irrazonablemente alto, según el cual incluso el valor de la vida media en la generación presente fuera negativo, podría invalidar la conclusión de que la reducción del riesgo existencial debería ser una prioridad.
 
 [^60]: Aunque el sufrimiento en los criaderos intensivos de animales podría significar que nuestra generación está _reduciendo_ el bienestar medio entre las criaturas sintientes que han existido hasta ahora. Pero las mejoras tecnológicas, en particular el desarrollo de la [carne cultivada](https://altruismoeficaz.net/temas/carne-cultivada) y otras alternativas a los productos de origen animal, podrían hacer de la cría intensiva de animales un fenómeno temporal.
 [^61]: Si lo que cuenta como población "grande" es mucho mayor que la población actual, esto aumenta aún más la importancia que asignan las teorías del valor variable a evitar riesgos existenciales, ya que se aproximan a la perspectiva total para poblaciones pequeñas.
 [^62]:
-    Por ejemplo, David Althaus y Lukas Gloor argumentan que reducir los riesgos de sufrimiento futuro astronómico debería ser una prioridad ética. {{< cite Althaus2019ReducingRisksAstronomical >}}.
+    Por ejemplo, David Althaus y Lukas Gloor argumentan que reducir los riesgos de sufrimiento futuro astronómico debería ser una prioridad ética. {{< cite Althaus2019ReducingRisksAstronomical >}}
 
 [^63]:
     Hilary Greaves y Toby Ord argumentan que (dado un enfoque plausible para lidiar con la incertidumbre moral), a medida que crece el número esperado de vidas futuras, esto "nos empuja sistemáticamente a elegir la opción preferida por la perspectiva total y las perspectivas del nivel crítico, incluso si asignamos una baja credibilidad a esas teorías."
 
-    {{< cite Greaves2017MoralUncertaintyPopulation >}}.
+    {{< cite Greaves2017MoralUncertaintyPopulation >}}
 
     Véase también:
 
-    {{< cite MacAskill2019PracticalEthicsGiven "chap. 8" >}}.
+    {{< cite MacAskill2019PracticalEthicsGiven "chap. 8" >}}
 
-    {{< cite Ord2020AppendixBPopulation >}}.
+    {{< cite Ord2020AppendixBPopulation >}}

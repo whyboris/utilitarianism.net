@@ -117,7 +117,7 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
 
 [^1]: _Mòzǐ_ 32: 1, C. trad. Fraser.
 
-[^2]: Para más detalles, véase {{< cite Williams2015PossibilityOngoingMoral >}}.
+[^2]: Para más detalles, véase {{< cite Williams2015PossibilityOngoingMoral >}}
 
 [^3]:
 
@@ -129,7 +129,7 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
 
     {{< cite Bentham1838PrinciplesOfPenal "p. 162" >}}
 
-[^4]: Cfr. {{< cite Bentham2017IntroductionToPrinciples >}}; y {{< cite CamposBoralevi1984BenthamOppressed >}}.
+[^4]: Cfr. {{< cite Bentham2017IntroductionToPrinciples >}}; y {{< cite CamposBoralevi1984BenthamOppressed >}}
 
 [^5]: Parlamento del Reino Unido, [The 1866 Women's Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
 

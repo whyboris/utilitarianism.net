@@ -77,22 +77,22 @@ Por último, los defensores del utilitarismo pueden simplemente aceptar que la m
 
 ## Recursos y Más información
 
-- {{< cite Berkey2016DemandingnessOfMorality >}}.
-- {{< cite Bykvist2010UtilitarianismGuidePerplexed "chap. 7: ¿Es el utilitarismo demasiado exigente?" >}}.
-- {{< cite Kagan1982DoesConsequentialismDemand >}}.
-- {{< cite "Lazari-Radek2014PointViewUniverse" "pp. 317–336" >}}.
-- {{< cite Singer1972FamineAffluenceMorality >}}.
-- {{< cite Sobel2007ImpotenceDemandingnessObjection >}}.
-- {{< cite Wolf1982MoralSaints >}}.
+- {{< cite Berkey2016DemandingnessOfMorality >}}
+- {{< cite Bykvist2010UtilitarianismGuidePerplexed "chap. 7: ¿Es el utilitarismo demasiado exigente?" >}}
+- {{< cite Kagan1982DoesConsequentialismDemand >}}
+- {{< cite "Lazari-Radek2014PointViewUniverse" "pp. 317–336" >}}
+- {{< cite Singer1972FamineAffluenceMorality >}}
+- {{< cite Sobel2007ImpotenceDemandingnessObjection >}}
+- {{< cite Wolf1982MoralSaints >}}
 
-[^1]: Cf. {{< cite Wolf1982MoralSaints >}}.
-[^2]: {{< cite Givewell2022AgainstMalariaFoundation >}}.
-[^3]: {{< cite Sobel2007ImpotenceDemandingnessObjection "p. 3" >}}.
+[^1]: Cf. {{< cite Wolf1982MoralSaints >}}
+[^2]: {{< cite Givewell2022AgainstMalariaFoundation >}}
+[^3]: {{< cite Sobel2007ImpotenceDemandingnessObjection "p. 3" >}}
 [^4]:
     Sobel continúa: "¿Qué debe entender la objeción sobre las exigencias de una teoría moral para que eso tenga sentido? Hay una respuesta obvia que ha atraído incluso a críticos prominentes de la objeción — que los costos de lo que una teoría moral requiere son más exigentes que los costos de lo que una teoría moral permite que le ocurra al que no recibe ayuda, manteniendo constante el tamaño del costo. La importancia moral de la distinción entre los costos que una teoría moral exige y los costos que permite debe estar ya establecida antes de que la objeción cobre fuerza. Pero esto supone que la ruptura decisiva con el consecuencialismo se produjo ya antes de que sintamos el atractivo de las intuiciones que evoca la objeción."
 
     Parece, pues, que no hay motivos _neutrales_ para considerar que el utilitarismo es "más exigente" que las teorías morales rivales, al menos en el sentido de imponer costos excesivamente grandes a los agentes. Sólo se puede llegar a este veredicto cargando los dados en contra del utilitarismo, al definir implícitamente la "exigencia" de tal manera que sólo se tome plenamente en cuenta una cierta subclase de costos.
 
-[^5]: {{< cite Singer1972FamineAffluenceMorality "p. 231" >}}.
+[^5]: {{< cite Singer1972FamineAffluenceMorality "p. 231" >}}
 
-[^6]: {{< cite Greene2013MoralTribes "p. 284" >}}.
+[^6]: {{< cite Greene2013MoralTribes "p. 284" >}}

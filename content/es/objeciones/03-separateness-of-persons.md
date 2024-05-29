@@ -112,46 +112,46 @@ Hemos visto que la objeción de la "separación de las personas" al utilitarismo
 
 ## Recursos y más información
 
-- {{< cite Brink2020ConsequentialismSeparatenessOf >}}.
-- {{< cite Chappell2021ParfitEthics "sec. 3.2" >}}.
-- {{< cite Chappell2015ValueReceptacles >}}.
-- {{< cite Cohen2011RescuingConservatismDefense >}}.
-- {{< cite Dickert2015ScopeInsensitivityLimits >}}.
-- {{< cite Nozick1974AnarchyStateAnd >}}.
-- {{< cite Parfit2003JustifiabilityEachPerson >}}.
-- {{< cite Frankel2010UtilitarianismAggregationQuestion >}}.
-- {{< cite Rawls1971TheoryJustice >}}.
-- {{< cite Scanlon1998WhatWeOwe >}}.
+- {{< cite Brink2020ConsequentialismSeparatenessOf >}}
+- {{< cite Chappell2021ParfitEthics "sec. 3.2" >}}
+- {{< cite Chappell2015ValueReceptacles >}}
+- {{< cite Cohen2011RescuingConservatismDefense >}}
+- {{< cite Dickert2015ScopeInsensitivityLimits >}}
+- {{< cite Nozick1974AnarchyStateAnd >}}
+- {{< cite Parfit2003JustifiabilityEachPerson >}}
+- {{< cite Frankel2010UtilitarianismAggregationQuestion >}}
+- {{< cite Rawls1971TheoryJustice >}}
+- {{< cite Scanlon1998WhatWeOwe >}}
 
-[^1]: {{< cite Rawls1971TheoryJustice "p. 27" >}}.
+[^1]: {{< cite Rawls1971TheoryJustice "p. 27" >}}
 [^2]:
     R.M. Hare insiste en el desafío: "Preocuparse por alguien es buscar su bien, o tratar de promover sus intereses; y preocuparse por igual por todas las personas es buscar igualmente su bien, o dar la misma importancia a sus intereses, que es exactamente lo que exige el utilitarismo. Hacer esto es tratar los intereses de los demás de la misma manera que una persona prudente trata sus propios intereses, presentes y futuros… Hacer esto no es dejar de 'insistir en la separación de las personas'". Véase:
 
-    {{< cite Hare1984RightsUtilityAnd "p. 107" >}}.
+    {{< cite Hare1984RightsUtilityAnd "p. 107" >}}
 
-[^3]: {{< cite Brink2020ConsequentialismSeparatenessOf >}}.
-[^4]: {{< cite Nozick1974AnarchyStateAnd "p. 33" >}}.
+[^3]: {{< cite Brink2020ConsequentialismSeparatenessOf >}}
+[^4]: {{< cite Nozick1974AnarchyStateAnd "p. 33" >}}
 [^5]: Aunque otra línea de respuesta interesante sería apelar a un argumento de [velo de la ignorancia](/argumentos-a-favor-del-utilitarismo#el-velo-de-la-ignorancia). Mientras que el individuo que resulta perjudicado no es compensado por el perjuicio _en el momento_, cada individuo debería estar dispuesto _por adelantado_ (es decir, desde detrás del velo de la ignorancia) a aceptar compensaciones utilitaristas, ya que ésta es la mejor manera de maximizar su propio bienestar, en términos esperados.
-[^6]: {{< cite Lazari-Radek2017UtilitarianismVeryShort "p. 82" >}}.
+[^6]: {{< cite Lazari-Radek2017UtilitarianismVeryShort "p. 82" >}}
 [^7]:
     Brink señala que la propia visión igualitaria de Rawls a menudo requiere sacrificios no compensados de los ricos.
-    {{< cite Brink2020ConsequentialismSeparatenessOf "p. 387" >}}.
+    {{< cite Brink2020ConsequentialismSeparatenessOf "p. 387" >}}
 
-[^8]: {{< cite Singer2011PracticalEthics "p. 106" >}}.
-[^9]: Los siguientes párrafos están tomados directamente de {{< cite Chappell2015ValueReceptacles >}}.
-[^10]: Cf. {{< cite Cohen2011RescuingConservatismDefense >}}.
-[^11]: {{< cite Chappell2015ValueReceptacles "p. 328" >}}.
+[^8]: {{< cite Singer2011PracticalEthics "p. 106" >}}
+[^9]: Los siguientes párrafos están tomados directamente de {{< cite Chappell2015ValueReceptacles >}}
+[^10]: Cf. {{< cite Cohen2011RescuingConservatismDefense >}}
+[^11]: {{< cite Chappell2015ValueReceptacles "p. 328" >}}
 [^12]: El "pluralismo de valores" se utiliza a menudo para referirse a la idea de múltiples _tipos_ o clases de valores distintos. Pero la forma relevante de pluralismo para garantizar la no fungibilidad es, en cambio, el pluralismo de _casos_. Los intereses de Bob y Sally pueden ser valores de la misma _clase_ (es decir, valor de bienestar), pero son valores individuales (o “casos” de valor) distintos en el sentido de que es apropiado tener un deseo intrínseco _separado_ para cada uno. Esto contrasta con el dinero, donde distintos billetes de 20 dólares no son _distintamente_ valiosos: sería extraño desear cada billete por separado, en lugar de tener un único deseo general de "más dinero" que cualquier billete de 20 dólares podría satisfacer igualmente bien.
-[^13]: {{< cite Nagel1978JustificationOfEquality >}}. Reimpreso en {{< cite Nagel1979MortalQuestions "p. 123" >}}.
-[^14]: {{< cite Scanlon1998WhatWeOwe >}}.
-[^15]: Esta es una cita del resumen conciso del experimento mental de Derek Parfit, en {{< cite Parfit2003JustifiabilityEachPerson " p. 375" >}}.
-[^16]: Las siguientes subsecciones se extraen directamente de la sección 3.2 de {{< cite Chappell2021ParfitEthics >}}.
+[^13]: {{< cite Nagel1978JustificationOfEquality >}} Reimpreso en {{< cite Nagel1979MortalQuestions "p. 123" >}}
+[^14]: {{< cite Scanlon1998WhatWeOwe >}}
+[^15]: Esta es una cita del resumen conciso del experimento mental de Derek Parfit, en {{< cite Parfit2003JustifiabilityEachPerson " p. 375" >}}
+[^16]: Las siguientes subsecciones se extraen directamente de la sección 3.2 de {{< cite Chappell2021ParfitEthics >}}
 [^17]:
-    {{< cite Parfit2003JustifiabilityEachPerson >}}.
+    {{< cite Parfit2003JustifiabilityEachPerson >}}
 
     ¿Qué pasa si los observadores se encuentran en una situación aún peor? Entonces la explicación de Parfit falla, pero él podría sugerir sin problemas en este caso que mejorar ligeramente la suerte de miles de millones de individuos en peor situación realmente debería ser prioritario respecto a ofrecer un gran alivio a un solo individuo que ya está en una situación mejor que la de estos otros.
 
-[^18]: {{< cite Dickert2015ScopeInsensitivityLimits >}}.
-[^19]: {{< cite Parfit2003JustifiabilityEachPerson "p. 385" >}}.
-[^20]: Este texto sigue tomando directamente de la sección 3.2 de {{< cite Chappell2021ParfitEthics >}}.
+[^18]: {{< cite Dickert2015ScopeInsensitivityLimits >}}
+[^19]: {{< cite Parfit2003JustifiabilityEachPerson "p. 385" >}}
+[^20]: Este texto sigue tomando directamente de la sección 3.2 de {{< cite Chappell2021ParfitEthics >}}
 [^21]: Hay formas de imaginar el caso en las que esto no sería así. Por ejemplo, si imaginamos que damos los minutos extra de vida a cada persona en su lecho de muerte, los primeros minutos podrían carecer desproporcionadamente de valor, en comparación con un minuto de vida más representativo. Para probar adecuadamente los principios de agregación, debemos imaginar una situación en la que se cumpla el supuesto de independencia, por ejemplo, suponiendo que los minutos extra se conceden a las personas en algún momento anterior de su vida, antes de que aparezca la enfermedad mortal. De este modo, queda más claro que, en algunos casos, un solo minuto puede tener un valor significativo, al ser justo lo que el beneficiario necesitaba para completar algún proyecto vital importante.
