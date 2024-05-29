@@ -180,10 +180,14 @@ MARK: -------------------------- Book ---------------------------------
 
   {{/*  Make title into URL if exists  */}}
   {{ if .title }}
+
     {{ if .URL }}<a href="{{ .URL }}">{{ end }}
+
     <i>{{ title .title }}{{ if .subtitle }}: {{ .subtitle }}{{ end }}</i>
-    {{if .URL }}</a>{{ end }}
-  {{ end }}
+
+    {{- if .URL }}</a>{{ end }}
+
+  {{- end -}}
 
   {{- if or (isset . "edition") (isset . "page") }} (
   {{- with .edition -}}
@@ -328,12 +332,11 @@ MARK: -------------------------- Webpage ---------------------------------
 
   {{- template "DOIPart" . -}}
 
-
-  {{ if isset . "container-title"}}
+  {{- if isset . "container-title" -}}
     <i>
       {{ echoParam . "container-title" }}
     </i>
-  {{ end }}
+  {{- end -}}.
 
 
 {{/*
