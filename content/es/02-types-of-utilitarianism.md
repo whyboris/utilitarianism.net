@@ -82,7 +82,7 @@ No todos los filósofos están de acuerdo en que la imparcialidad sea una caract
 
 El último elemento común del utilitarismo es el _agregaciónismo_, que definimos como sigue:
 
-> **El agregacionismo es la perspectiva de que el valor de un resultado está determinado por la *suma*[^6] del valor de las vidas que contiene.**[^7]
+> **El agregacionismo es la perspectiva de que el valor de un resultado está determinado por la _suma_[^6] del valor de las vidas que contiene.**[^7]
 
 Cuando se combina con el bienestarismo y la imparcialidad, el agregacionismo implica que podemos "sumar" de forma significativa el bienestar de los distintos individuos y utilizar este total para determinar qué compensaciones corresponde hacer. Por ejemplo, el utilitarismo afirma que mejorar cinco vidas en cierta medida es cinco veces mejor que mejorar una vida en la misma medida.
 
@@ -241,72 +241,72 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 
 ### Consecuencialismo
 
-- {{< cite Driver2012Consequentialism >}}.
-- {{< cite Scheffler1994RejectionConsequentialismPhilosophical >}}.
-- {{< cite "Sinnott-Armstrong2003Consequentialism" >}}.
+- {{< cite Driver2012Consequentialism >}}
+- {{< cite Scheffler1994RejectionConsequentialismPhilosophical >}}
+- {{< cite "Sinnott-Armstrong2003Consequentialism" >}}
 
 ### Welfarism & Theories of Well-Being (El bienestar y las teorías del bienestar)
 
-- {{< cite Crisp2001Wellbeing >}}.
-- {{< cite Holtug2003WelfarismVeryIdea >}}.
-- {{< cite Kagan1992LimitsWellbeing >}}.
+- {{< cite Crisp2001Wellbeing >}}
+- {{< cite Holtug2003WelfarismVeryIdea >}}
+- {{< cite Kagan1992LimitsWellbeing >}}
 
 ### Imparcialidad
 
-- {{< cite Goodin1988WhatSpecialOur >}}.
-- {{< cite Jollimore2002Impartiality >}}.
+- {{< cite Goodin1988WhatSpecialOur >}}
+- {{< cite Jollimore2002Impartiality >}}
 
 ### Agregationism
 
-- {{< cite Broome1991WeighingGoodsEquality "chap. 4, 10" >}}.
-- {{< cite Bykvist2010UtilitarianismGuidePerplexed >}}.
-- {{< cite Norcross1997ComparingHarmsHeadaches >}}.
+- {{< cite Broome1991WeighingGoodsEquality "chap. 4, 10" >}}
+- {{< cite Bykvist2010UtilitarianismGuidePerplexed >}}
+- {{< cite Norcross1997ComparingHarmsHeadaches >}}
 
 ### Hedonismo
 
-- {{< cite Crisp2006HedonismReconsidered >}}.
-- {{< cite Feldman2004PleasureGoodLife >}}.
-- {{< cite Kagan1992LimitsWellbeing >}}.
-- {{< cite Moen2016ArgumentForHedonism >}}.
-- {{< cite Moore2004Hedonism >}}.
+- {{< cite Crisp2006HedonismReconsidered >}}
+- {{< cite Feldman2004PleasureGoodLife >}}
+- {{< cite Kagan1992LimitsWellbeing >}}
+- {{< cite Moen2016ArgumentForHedonism >}}
+- {{< cite Moore2004Hedonism >}}
 
 ### Ética de la población
 
-- {{< cite Arrhenius2006RepugnantConclusion >}}.
-- {{< cite Arrhenius2000FutureGenerationsChallenge >}}.
-- {{< cite Greaves2017PopulationAxiology >}}.
-- {{< cite Gustafsson2022OurIntuitiveGrasp >}}.
-- {{< cite Huemer2008DefenceRepugnance >}}.
-- {{< cite Parfit1984ReasonsPersons >}}.
+- {{< cite Arrhenius2006RepugnantConclusion >}}
+- {{< cite Arrhenius2000FutureGenerationsChallenge >}}
+- {{< cite Greaves2017PopulationAxiology >}}
+- {{< cite Gustafsson2022OurIntuitiveGrasp >}}
+- {{< cite Huemer2008DefenceRepugnance >}}
+- {{< cite Parfit1984ReasonsPersons >}}
 
 ### Utilitarismo maximizador, satisfaccionista y escalar
 
-- {{< cite Bradley2006AgainstSatisficingConsequentialism >}}.
-- {{< cite Chappell2020DeonticPluralismAnd >}}.
-- {{< cite Chappell2019WillpowerSatisficing >}}.
-- {{< cite Norcross2020MoralityByDegrees >}}.
-- {{< cite NorcrossScalarApproachUtilitarianism >}}.
-- {{< cite Sinhababu2018ScalarConsequentialismRight >}}.
+- {{< cite Bradley2006AgainstSatisficingConsequentialism >}}
+- {{< cite Chappell2020DeonticPluralismAnd >}}
+- {{< cite Chappell2019WillpowerSatisficing >}}
+- {{< cite Norcross2020MoralityByDegrees >}}
+- {{< cite NorcrossScalarApproachUtilitarianism >}}
+- {{< cite Sinhababu2018ScalarConsequentialismRight >}}
 
 ### Utilitarismo de expectativas frente a utilitarismo objetivo
 
-- {{< cite Crisp1997RoutledgePhilosophyGuidebook "pp. 99–101" >}}.
-- {{< cite Graham2021SubjectiveVersusObjective >}}.
-- {{< cite Jackson1991DecisiontheoreticConsequentialismNearest >}}.
+- {{< cite Crisp1997RoutledgePhilosophyGuidebook "pp. 99–101" >}}
+- {{< cite Graham2021SubjectiveVersusObjective >}}
+- {{< cite Jackson1991DecisiontheoreticConsequentialismNearest >}}
 
 ### El utilitarismo multinivel frente al utilitarismo de un solo nivel
 
-- {{< cite Crisp1997RoutledgePhilosophyGuidebook "pp. 105–112" >}}.
-- {{< cite Hare1981MoralThinkingIts >}}.
-- {{< cite Railton1984AlienationConsequentialismDemands >}}.
+- {{< cite Crisp1997RoutledgePhilosophyGuidebook "pp. 105–112" >}}
+- {{< cite Hare1981MoralThinkingIts >}}
+- {{< cite Railton1984AlienationConsequentialismDemands >}}
 
 ### Utilitarismo global y utilitarismo híbrido
 
-- {{< cite Mcelwee2019AmbitionsOfConsequentialism >}}.
-- {{< cite Chappell2012FittingnessSoleNormative >}}.
-- {{< cite Chappell2024ConsequentialismCoreAnd >}}.
-- {{< cite Ord2009ActionApplyingConsequentialism >}}.
-- {{< cite Pettit2000GlobalConsequentialism >}}.
+- {{< cite Mcelwee2019AmbitionsOfConsequentialism >}}
+- {{< cite Chappell2012FittingnessSoleNormative >}}
+- {{< cite Chappell2024ConsequentialismCoreAnd >}}
+- {{< cite Ord2009ActionApplyingConsequentialism >}}
+- {{< cite Pettit2000GlobalConsequentialism >}}
 
 [^1]: Algunos otros casos en los que las etiquetas pueden inducir a error: el té de hierbas no es un tipo de té; una flor de plástico no es un tipo de flor; y el lémur volador no es un lémur y no vuela.
 [^2]:
