@@ -118,6 +118,17 @@ MARK: -------------------------- Full Issued (Y,M,D) ---------------------------
 
 
 {{/*
+MARK: -------------------------- Title with URL ---------------------------------
+*/}}
+{{- define "titleWithUrl" -}}
+  {{- if and .title .URL -}}
+    <a href="{{.URL}}">{{- title .title -}}</a>
+  {{- else if .title -}}
+    {{- title .title -}}
+  {{- end -}}
+{{- end -}}
+
+{{/*
 MARK: -------------------------- Simple DOI part ---------------------------------
 */}}
 {{- define "SimpleDOIPart" }}
@@ -138,12 +149,10 @@ MARK: -------------------------- DOI part ---------------------------------
      itemprop="identifier"
      itemtype="https://schema.org/URL">https://doi.org/{{- .DOI -}}</a>
   {{ else if and .title .URL  }}
-    <a href="{{.URL}}">{{ title .title }}</a>
+    <a href="{{.URL}}">{{ title .title }}</a>.
   {{- else if .URL }}&#32;
     {{- i18n "apa_retrieved_from" | default "Retrieved from" -}}&#32;
-    <a href="{{ .URL }}"
-      itemprop="identifier"
-      itemtype="https://schema.org/URL">{{ .URL }}</a>
+    <a href="{{ .URL }}">{{ .URL }}</a>
   {{- end -}}
 {{- end -}}
 
@@ -178,16 +187,7 @@ MARK: -------------------------- Book ---------------------------------
   {{- template "issuedPart" . }}.
   &#32;
 
-  {{/*  Make title into URL if exists  */}}
-  {{ if .title }}
-
-    {{ if .URL }}<a href="{{ .URL }}">{{ end }}
-
-    <i>{{ title .title }}{{ if .subtitle }}: {{ .subtitle }}{{ end }}</i>
-
-    {{- if .URL }}</a>{{ end }}
-
-  {{- end -}}
+  {{- template "titleWithUrl" . -}}
 
   {{- if or (isset . "edition") (isset . "page") }} (
   {{- with .edition -}}
