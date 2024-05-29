@@ -165,7 +165,7 @@ Para profundizar en este punto de vista, podemos pensar que el valor de una vida
 
 La implicación clave de esta teoría del rango crítico (con una borrosidad del valor moderada) es que una vida intrínsecamente buena debe contener _significativamente_ más bienestar que una vida intrínsecamente mala, porque entre estos dos niveles hay un rango moderado de vidas que son mediocres, como se ilustra a continuación:[^40]
 
-![Teoría del rango crítico](/img/population-ethics-6.svg)
+![Teoría del rango crítico](/img/population-ethics-6.es.png)
 
 El punto de vista resultante, aunque teóricamente complejo, parece menos susceptible de objeciones severas que los otros puntos de vista que hemos estudiado. En particular, puede evitar simultáneamente tanto la conclusión repugnante como la conclusión sádica. Pero vale la pena señalar que no puede dar cabida a la fuerte intuición "antirrepugnancia" de que el mundo idílico A es estrictamente _mejor_ que el mundo repugnante Z.[^41] En su lugar, las teorías críticas del rango consideran que los dos mundos son incomparables, debido a la inmensa borrosidad del valor introducida por todas esas vidas mediocres en el mundo Z.
 

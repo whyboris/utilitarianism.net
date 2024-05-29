@@ -95,7 +95,7 @@ En tercer lugar, podemos mejorar significativamente la vida de los animales de g
 
 Sin embargo, a pesar de la magnitud del problema, el bienestar animal en las granjas está muy desatendido.
 
-![Estadísticas sobre animales](/img/Animal-Statistics.png)
+![Estadísticas sobre animales](/img/Animal-Statistics.es.png)
 
 En EE. UU., sólo se donan unas pocas decenas de millones de dólares filantrópicos al año a organizaciones que se centran en mejorar la vida de los animales de granja. La cantidad gastada es ínfima en comparación con otras causas relacionadas con los animales: hay 3.000 veces más animales en los criaderos intensivos que mascotas callejeras, pero los esfuerzos para combatir la cría intensiva de animales reciben una quincuagésima parte de los fondos destinados a ayudar a esos animales domésticos.[^22]
 
