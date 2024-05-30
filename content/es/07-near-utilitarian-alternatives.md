@@ -67,7 +67,7 @@ Se puede aceptar el bienestarismo y, sin embargo, rechazar el utilitarismo por c
 
 ### Prioritarismo
 
-Según el prioritarismo, "beneficiar a una persona es tanto más importante cuanto peor es su situación.“[^7] Al igual que el igualitarismo, el prioritarismo implica que es mejor proporcionar un beneficio determinado —por ejemplo, un aumento extra de felicidad— a los más desfavorecidos que a los más acomodados. Pero mientras que el igualitarismo implica que hay _algo_ bueno en "igualar hacia abajo", o en reducir la desigualdad sólo perjudicando a los que están en una mejor situación, el prioritarismo (al igual que el utilitarismo) evita afirmar que haya algo bueno en perjudicar a algunos en ausencia de beneficios compensatorios para los demás.
+Según el prioritarismo, "beneficiar a una persona es tanto más importante cuanto peor es su situación.”[^7] Al igual que el igualitarismo, el prioritarismo implica que es mejor proporcionar un beneficio determinado —por ejemplo, un aumento extra de felicidad— a los más desfavorecidos que a los más acomodados. Pero mientras que el igualitarismo implica que hay _algo_ bueno en "igualar hacia abajo", o en reducir la desigualdad sólo perjudicando a los que están en una mejor situación, el prioritarismo (al igual que el utilitarismo) evita afirmar que haya algo bueno en perjudicar a algunos en ausencia de beneficios compensatorios para los demás.
 
 Se trata de una diferencia teórica sutil pero importante. Los igualitaristas valoran la _igualdad per se_, que podría promoverse _reduciendo_ el bienestar. Los prioritaristas defienden el bienestarismo: valoran sólo el bienestar, pero se apartan del utilitarismo al dar más peso a los intereses de los más desfavorecidos.
 

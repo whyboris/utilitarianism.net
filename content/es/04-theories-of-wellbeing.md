@@ -11,7 +11,7 @@ gradientTop: "#084BC7"
 gradientBottom: "#1B7CCC"
 ---
 
-> _"¿A qué se atribuirá el carácter de la utilidad, sino a lo que es fuente de placer?"_
+> _¿A qué se atribuirá el carácter de la utilidad, sino a lo que es fuente de placer?_
 >
 > –[Jeremy Bentham](/utilitarismo/jeremy-bentham)[^1]
 { .align-author-right }

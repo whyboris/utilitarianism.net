@@ -11,10 +11,10 @@ gradientTop: "#089FD1"
 gradientBottom: "#305D9C"
 ---
 
-> ¿Debemos extender nuestra preocupación a todos los seres capaces de sentir placer y dolor cuyos sentimientos se ven afectados por nuestra conducta? ¿O debemos limitar nuestra perspectiva a la felicidad humana? El primer punto de vista es el adoptado por... la escuela utilitarista... [P]arece arbitrario e irrazonable excluir del objetivo final, así concebido, cualquier placer de cualquier ser sintiente.
+> _¿Debemos extender nuestra preocupación a todos los seres capaces de sentir placer y dolor cuyos sentimientos se ven afectados por nuestra conducta? ¿O debemos limitar nuestra perspectiva a la felicidad humana? El primer punto de vista es el adoptado por... la escuela utilitarista... [P]arece arbitrario e irrazonable excluir del objetivo final, así concebido, cualquier placer de cualquier ser sintiente._
 >
 > – [Henry Sidgwick](https://altruismoeficaz.net/autores/henry-sidgwick)[^1]
-{ .align-author-right }
+{ .align-author-right }l
 
 {{< TOC >}}
 
@@ -26,7 +26,7 @@ En el artículo [Actuar conforme al utilitarismo](/actuar-conforme-al-utilitaris
 
 ## ¿Hay diferencia entre hacer daño y permitirlo?
 
-> _Una persona puede causar un mal a los demás no sólo por sus acciones, sino también por su inacción, y en ambos casos es responsable justificadamente ante ellos por el daño causado."_
+> _Una persona puede causar un mal a los demás no sólo por sus acciones, sino también por su inacción, y en ambos casos es responsable justificadamente ante ellos por el daño causado._
 >
 > – [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill), {{< cite -Mill1859Liberty >}}
 { .align-author-right }
@@ -105,7 +105,7 @@ Discutimos las implicaciones de rechazar el especismo para la acción ética en 
 
 Desde la perspectiva utilitarista, la gente del otro lado del planeta no importa menos que la gente más cercana geográficamente. Del mismo modo, el utilitarismo considera que el bienestar de las generaciones futuras no es menos importante que el bienestar de los que viven hoy simplemente porque aquellas estén lejos en el tiempo.
 
-Que aparentemente estemos en una en una etapa tan temprana de la historia de la civilización es un hecho sorprendente. Tenemos 5000 años de historia, pero ¿cuántos años nos quedan por delante? Si sólo duramos tanto como una especie típica de mamífero, aún nos quedarían 200.000 años. Pero los humanos no somos mamíferos típicos y, si logramos preservar nuestra especie, aún nos quedan mil millones de años hasta que la Tierra deje de ser habitable,[^15] y otros planetas y sistemas solares seguirán existiendo durante billones de años. Incluso desde la perspectiva más conservadora, hemos progresado a lo largo de una pequeña fracción de la historia. Si la saga de la humanidad fuera una novela, aún estaríamos en la primera página.
+Que aparentemente estemos en una en una etapa tan temprana de la historia de la civilización es un hecho sorprendente. Tenemos 5000 años de historia, pero ¿cuántos años nos quedan por delante? Si sólo duramos tanto como una especie típica de mamífero, aún nos quedarían 200 000 años. Pero los humanos no somos mamíferos típicos y, si logramos preservar nuestra especie, aún nos quedan mil millones de años hasta que la Tierra deje de ser habitable,[^15] y otros planetas y sistemas solares seguirán existiendo durante billones de años. Incluso desde la perspectiva más conservadora, hemos progresado a lo largo de una pequeña fracción de la historia. Si la saga de la humanidad fuera una novela, aún estaríamos en la primera página.
 
 El número de personas que podría haber en el futuro supera astronómicamente al de las personas de la generación presente. Esto sugiere que, para ayudar a la gente en general, la principal preocupación no debería ser meramente ayudar a la generación presente, sino asegurar que el futuro a largo plazo sea el mejor posible.[^16] Esta idea se conoce como _largoplacismo fuerte_:
 

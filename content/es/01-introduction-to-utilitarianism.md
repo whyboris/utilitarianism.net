@@ -10,7 +10,7 @@ gradientTop: "#0c3b5b"
 gradientBottom: "#236d9f"
 ---
 
-> _"La tarea del benevolente es sin duda tratar diligentemente de promover el beneficio del mundo y eliminar el daño al mundo y tomar esto como modelo en todo el mundo. ¿Beneficia a la gente? Hazlo. ¿No beneficia a la gente? Detente."_
+> _La tarea del benevolente es sin duda tratar diligentemente de promover el beneficio del mundo y eliminar el daño al mundo y tomar esto como modelo en todo el mundo. ¿Beneficia a la gente? Hazlo. ¿No beneficia a la gente? Detente._
 >
 > — Mòzǐ[^1]
 { .align-author-right }
@@ -55,7 +55,7 @@ Todas las teorías éticas de la familia utilitarista comparten cuatro elementos
 
 1. **Consecuencialismo:** uno debe siempre promover los buenos resultados.
 2. **Bienestarismo:** el valor de un resultado está totalmente determinado por el bienestar de los individuos que lo integran.
-3. **Imparcialidad:** una cantidad dada de bienestar es igualmente valiosa sin importar _de quié_ sea el bienestar.
+3. **Imparcialidad:** una cantidad dada de bienestar es igualmente valiosa sin importar _de quién_ sea el bienestar.
 4. **Agregacionismo**: el valor de un resultado está determinado por la _suma_ del valor de las vidas que contiene.[^12]
 
 [Los rivales del utilitarismo](/alternativas-cercanas-al-utilitarismo) son teorías que niegan uno o más de los cuatro elementos anteriores. Por ejemplo, podrían sostener que las acciones pueden ser intrínsecamente correctas o incorrectas independientemente de sus consecuencias, o que otras cosas además del bienestar pueden contribuir al valor de un resultado, o que la moral nos permite ser parciales con nuestros amigos y familiares, o que deberíamos hacer lo que más beneficie al miembro más desfavorecido de la sociedad.
@@ -101,7 +101,7 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
 - {{< cite Bykvist2010UtilitarianismGuidePerplexed >}}
 - {{< cite Appiah2022WhatIsUtilitarianism >}}
 
-### Los Clásicos
+### Los clásicos
 
 - {{< cite Bentham2017IntroductionToPrinciples >}}
 - {{< cite Mill2005Utilitarianism >}}
@@ -143,7 +143,7 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
 
 [^9]: Esto es más claro en un contexto de población fija, donde las acciones individuales no afectan el número o la identidad de las personas. Para casos más complejos, véase el debate sobre la [ética de la población](/etica-de-la-poblacion/) en el capítulo 5.
 
-[^10]: Sin embargo, cuando los economistas utilizan el término “[utilidad](https://es.wikipedia.org/wiki/Utilidad_(econom%C3%ADa))" suelen referirse, en cambio, a la representación numérica de las [preferencias de un individuo](/teorias-del-bienestar/).
+[^10]: Sin embargo, cuando los economistas utilizan el término “[utilidad](https://es.wikipedia.org/wiki/Utilidad_(econom%C3%ADa))” suelen referirse, en cambio, a la representación numérica de las [preferencias de un individuo](/teorias-del-bienestar/).
 
 [^11]: Utilizamos "felicidad" para referirnos a experiencias conscientes placenteras. [Capítulo 4: Teorías del bienestar](/teorias-del-bienestar/) explora si el bienestar puede implicar algo más que esto.
 

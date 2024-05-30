@@ -83,7 +83,7 @@ De hecho, resulta muy difícil evitar la conclusión repugnante. Argumentos sól
 
 En el mundo A, el bienestar de todos es muy alto. El mundo A+ contiene (i) un grupo de población idéntico al de la población A en cuanto al tamaño de la población y al bienestar promedio y (ii) un segundo grupo del mismo tamaño pero con un bienestar ligeramente inferior. La mayoría de la gente estaría de acuerdo en que A+ no es peor que A (e incluso podría ser mejor), ya que, intuitivamente, añadir meramente personas con vidas dignas de ser vividas (sin perjudicar con ello a ningún otro) no puede empeorar un resultado. Consideremos ahora el mundo B, con la misma población total que A+. El bienestar medio en B es ligeramente superior al de A+, pero inferior al de A. Si comparamos los mundos A+ y B, parece que B debe ser mejor. No sólo el bienestar medio _y_ total en B son mayores que en A+, sino que además el bienestar está distribuido de forma más equitativa. Sin embargo, si B es mejor que A+, y A+ no es peor que A, se deduce que B debe ser mejor que A.[^18] La repetición de este proceso —comparando el mundo B con B+ y C, etc.— conduce al mundo Z con un enorme número de personas con vidas apenas dignas de ser vividas. Siguiendo el razonamiento anterior, el mundo Z debe ser mejor que el mundo A: la conclusión repugnante.
 
-Los artículos recientes de Dean Spears y Mark Budolfson defienden de forma diferente que una versión ampliada de la conclusión repugnante es ineludible:[^19] los autores sostienen que _todas_ las teorías plausibles implican que a veces es mejor añadir un gran número de vidas ligeramente positivas a una población existente que añadir un número menor de vidas extremadamente positivas.[^20] A partir de este resultado, concluyen que "la conclusión repugnante no proporciona ninguna orientación metodológica para la teoría o la formulación de políticas, porque no discrimina entre las diferentes teorías.“[^21] Los críticos podrían responder que estos nuevos veredictos —que consisten en añadir personas a poblaciones existentes— no son tan intuitivamente problemáticos como la conclusión repugnante original.
+Los artículos recientes de Dean Spears y Mark Budolfson defienden de forma diferente que una versión ampliada de la conclusión repugnante es ineludible:[^19] los autores sostienen que _todas_ las teorías plausibles implican que a veces es mejor añadir un gran número de vidas ligeramente positivas a una población existente que añadir un número menor de vidas extremadamente positivas.[^20] A partir de este resultado, concluyen que "la conclusión repugnante no proporciona ninguna orientación metodológica para la teoría o la formulación de políticas, porque no discrimina entre las diferentes teorías.”[^21] Los críticos podrían responder que estos nuevos veredictos —que consisten en añadir personas a poblaciones existentes— no son tan intuitivamente problemáticos como la conclusión repugnante original.
 
 #### Atacar las alternativas
 
@@ -127,7 +127,7 @@ Las teorías del valor variable más simples pueden representarse mediante la si
 
 Este valor marginal decreciente permite a las teorías del valor variable evitar algunos de los puntos débiles de las perspectivas total y promedio. Por ejemplo, Hilary Greaves escribe que:[^29]
 
-> Podría decirse que [la perspectiva promedio] es intuitivamente menos plausible para poblaciones pequeñas: si por lo demás sólo hay diez personas que vivirán alguna vez, por ejemplo, parece (quizás) mejor añadir una persona más con un nivel de bienestar positivo determinado que si ya hay 100.000 millones de personas.
+> Podría decirse que [la perspectiva promedio] es intuitivamente menos plausible para poblaciones pequeñas: si por lo demás sólo hay diez personas que vivirán alguna vez, por ejemplo, parece (quizás) mejor añadir una persona más con un nivel de bienestar positivo determinado que si ya hay 100 000 millones de personas.
 
 A primera vista, una característica atractiva de las teorías del valor variable es que se aproximan a la perspectiva total con poblaciones pequeñas y a la perspectiva promedio con poblaciones grandes, ya que así pueden evitar la conclusión repugnante.[^30]
 
@@ -182,7 +182,7 @@ Todas las teorías discutidas más arriba —la perspectiva total, la perspectiv
 
 > **N** = número de personas; **Q** = nivel promedio de bienestar; **α** = nivel crítico; **f()** = función estrictamente creciente y estrictamente cóncava con asíntota horizontal
 
-Las teorías impersonales implican que crear una persona más con una vida (suficientemente) buena hace que el mundo sea mejor, en igualdad de condiciones.[^44] Sin embargo, algunas personas rechazan esta implicación. Afirman que no hay razones morales para crear más personas, al menos no razones basadas en el bienestar que estas personas disfrutarían si fueran creadas. Jan Narveson expresó esta idea en forma de eslogan: "Estamos a favor de hacer feliz a la gente, pero somos neutrales respecto de hacer gente feliz.“[^45] Las perspectivas centradas en las personas afectadas intentan recoger esta intuición de neutralidad y son especialmente comunes entre los no consecuencialistas.[^46]
+Las teorías impersonales implican que crear una persona más con una vida (suficientemente) buena hace que el mundo sea mejor, en igualdad de condiciones.[^44] Sin embargo, algunas personas rechazan esta implicación. Afirman que no hay razones morales para crear más personas, al menos no razones basadas en el bienestar que estas personas disfrutarían si fueran creadas. Jan Narveson expresó esta idea en forma de eslogan: "Estamos a favor de hacer feliz a la gente, pero somos neutrales respecto de hacer gente feliz.”[^45] Las perspectivas centradas en las personas afectadas intentan recoger esta intuición de neutralidad y son especialmente comunes entre los no consecuencialistas.[^46]
 
 Con este fin, las perspectivas centradas en las personas afectadas aceptan la _restricción de las personas afectadas_:
 
@@ -230,7 +230,7 @@ También podemos formular objeciones más teóricas a tal punto de vista. Por ej
 2. que haya ordenaciones cíclicas del valor (decir que A es mejor que B, B es mejor que C y C es mejor que A);
 3. que impliquen que todos los resultados que difieren incluso ligeramente en el número de personas que existen son incomparables.
 
-Por todas estas razones, los utilitaristas rechazan en gran medida las perspectivas centradas en las personas afectadas, aunque siguen debatiendo qué teoría impersonal es la más adecuada[^57].
+Por todas estas razones, los utilitaristas rechazan en gran medida las perspectivas centradas en las personas afectadas, aunque siguen debatiendo qué teoría impersonal es la más adecuada.[^57]
 
 ## Implicaciones prácticas de las teorías éticas de la población
 
@@ -295,7 +295,7 @@ En el siguiente capítulo se analizan las implicaciones más importantes del uti
 - {{< cite Broome2004WeighingLives >}}
 - {{< cite Gustafsson2020PopulationAxiologyAnd >}}
 
-### Intuición de neutralidad
+### La intuición de neutralidad
 
 - {{< cite McMahan2013CausingPeopleExist >}}
 - {{< cite Rabinowicz2009BroomeIntuitionNeutrality >}}
@@ -321,7 +321,7 @@ En el siguiente capítulo se analizan las implicaciones más importantes del uti
 - {{< cite Beckstead2013OverwhelmingImportanceShaping >}}
 - {{< cite MacAskill2022WhatWeOwe >}}
 
-### teoremas de imposibilidad en la ética de la población
+### Teoremas de imposibilidad en la ética de la población
 
 - {{< cite Arrhenius2000ImpossibilityTheoremWelfarist >}}
 - {{< cite Kitcher2000ParfitsPuzzle >}}

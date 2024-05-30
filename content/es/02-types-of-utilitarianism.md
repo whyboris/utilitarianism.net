@@ -54,7 +54,7 @@ Según el consecuencialismo indirecto, deberíamos evaluar el estatus moral de u
 
 En nuestra definición de consecuencialismo, sólo la versión directa es una posición genuinamente consecuencialista, y el utilitarismo/consecuencialismo de las reglas, a pesar de su nombre, no es un tipo de consecuencialismo.[^1] Como argumenta Brad Hooker, el principal consecuencialista de las reglas del mundo, no es plausible sostener que el consecuencialismo de las reglas esté motivado por el compromiso consecuencialista de que los resultados sean lo mejor posible: el argumento a favor del consecuencialismo de las reglas es, más bien, que justifica imparcialmente reglas morales intuitivamente plausibles.[^2] Esto marca una importante diferencia con las teorías consecuencialistas fundacionales.
 
-Aunque el utilitarismo de los actos sólo evalúa las acciones (y no las reglas) en términos de "corrección", también reconoce la importancia de comprometerse firmemente con reglas morales conocidas. Reglas como "no mentir" y "no matar" se consideran directrices útiles que [casi siempre deberíamos seguir en la práctica](/utilitarismo-y-etica-practica#respetar-las-normas-morales-de-sentido-comun), precisamente para que nuestras acciones tengan mejores resultados y eviten causar daño. Para más información y aclaraciones, véase la sección sobre el “[utilitarismo multinivel](/elementos-y-tipos-de-utilitarismo#utilitarismo-multinivel-versus-utilitarismo-de-un-solo-nivel)" más adelante.
+Aunque el utilitarismo de los actos sólo evalúa las acciones (y no las reglas) en términos de "corrección", también reconoce la importancia de comprometerse firmemente con reglas morales conocidas. Reglas como "no mentir" y "no matar" se consideran directrices útiles que [casi siempre deberíamos seguir en la práctica](/utilitarismo-y-etica-practica#respetar-las-normas-morales-de-sentido-comun), precisamente para que nuestras acciones tengan mejores resultados y eviten causar daño. Para más información y aclaraciones, véase la sección sobre el “[utilitarismo multinivel](/elementos-y-tipos-de-utilitarismo#utilitarismo-multinivel-versus-utilitarismo-de-un-solo-nivel)” más adelante.
 
 ### Bienestarismo
 
@@ -74,7 +74,7 @@ El utilitarismo está comprometido con una concepción de _imparcialidad_ que se
 
 > **La _imparcialidad_ es la perspectiva de que una cantidad dada de bienestar es igualmente valiosa sin importar _de quién_ sea.**
 
-Como afirma el filósofo utilitarista [Henry Sidgwick](https://altruismoeficaz.net/autores/henry-sidgwick): "el bien de una persona cualquiera no es más importante desde el punto de vista... del universo que el bien de cualquier otra.“[^4] Los utilitaristas valoran por igual el bienestar de todos, independientemente de su nacionalidad, sexo, lugar o época en que vivan, o incluso de su especie. Según el utilitarismo, _en principio_ ni siquiera se debe privilegiar el bienestar de uno mismo o de la propia familia sobre el de extraños lejanos (aunque puede haber buenas razones _prácticas_ para hacerlo).[^5]
+Como afirma el filósofo utilitarista [Henry Sidgwick](https://altruismoeficaz.net/autores/henry-sidgwick): "el bien de una persona cualquiera no es más importante desde el punto de vista... del universo que el bien de cualquier otra.”[^4] Los utilitaristas valoran por igual el bienestar de todos, independientemente de su nacionalidad, sexo, lugar o época en que vivan, o incluso de su especie. Según el utilitarismo, _en principio_ ni siquiera se debe privilegiar el bienestar de uno mismo o de la propia familia sobre el de extraños lejanos (aunque puede haber buenas razones _prácticas_ para hacerlo).[^5]
 
 No todos los filósofos están de acuerdo en que la imparcialidad sea una característica esencial de la moral. Pueden sostener que se nos permite, o incluso se nos exige, ser _[parciales](/alternativas-cercanas-al-utilitarismo#egoismo-y-parcialismo)_ hacia un grupo concreto, como nuestros amigos y familiares. O pueden proponer una concepción alternativa de la "imparcialidad" que no exija la igual consideración de intereses. Por ejemplo, el _[prioritarismo](/alternativas-cercanas-al-utilitarismo#prioritarismo)_ da más peso a los intereses de los más desfavorecidos, sean quienes sean.
 
@@ -245,7 +245,7 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 - {{< cite Scheffler1994RejectionConsequentialismPhilosophical >}}
 - {{< cite "Sinnott-Armstrong2003Consequentialism" >}}
 
-### Welfarism & Theories of Well-Being (El bienestar y las teorías del bienestar)
+### Bienestarismo y teorías del bienestar
 
 - {{< cite Crisp2001Wellbeing >}}
 - {{< cite Holtug2003WelfarismVeryIdea >}}
@@ -256,7 +256,7 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 - {{< cite Goodin1988WhatSpecialOur >}}
 - {{< cite Jollimore2002Impartiality >}}
 
-### Agregationism
+### Agregacionismo
 
 - {{< cite Broome1991WeighingGoodsEquality "chap. 4, 10" >}}
 - {{< cite Bykvist2010UtilitarianismGuidePerplexed >}}

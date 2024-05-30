@@ -45,7 +45,7 @@ Además, un utilitarista podría argumentar que nuestras intuiciones en la elecc
 
 Esta confusión que describe Greene puede introducir errores en nuestras intuiciones al tener que elegir entre _igualdad_ y _desigualdad_ porque estamos acostumbrados intuitivamente a pensar en los bienes como si tuvieran utilidad marginal decreciente. Si los números en la hipotética elección entre _igualdad_ y _desigualdad_ representaran niveles de bienes y no de bienestar, el utilitarista elegiría el resultado igualitarista. Sin embargo, sería un error aplicar este razonamiento al comparar distribuciones de bienestar, ya que el bienestar no presenta una utilidad marginal decreciente. Por definición, una unidad de bienestar es igual de valiosa para la persona que la recibe, independientemente de su nivel de bienestar. Así que debemos tener esto en cuenta en nuestras intuiciones.
 
-Si especificamos el ejemplo original en términos de dinero y utilizamos la medida económica estándar de la tasa de rendimientos decrecientes del dinero,[^2] deberíamos representar la elección entre _igualdad_ y _desigualdad_ de la siguiente manera: en _igualdad_, 1000 personas obtienen $13.500, mientras que en _desigualdad_, 500 personas obtienen $10.000 y 500 personas obtienen $50.000.
+Si especificamos el ejemplo original en términos de dinero y utilizamos la medida económica estándar de la tasa de rendimientos decrecientes del dinero,[^2] deberíamos representar la elección entre _igualdad_ y _desigualdad_ de la siguiente manera: en _igualdad_, 1000 personas obtienen $13 500, mientras que en _desigualdad_, 500 personas obtienen $10 000 y 500 personas obtienen $50 000.
 
 ![Utilitarismo e igualdad — objeciones al utilitarismo](/img/equality2.es.svg)
 
