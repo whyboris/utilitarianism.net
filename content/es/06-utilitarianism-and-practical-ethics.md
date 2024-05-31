@@ -14,7 +14,7 @@ gradientBottom: "#305D9C"
 > _¿Debemos extender nuestra preocupación a todos los seres capaces de sentir placer y dolor cuyos sentimientos se ven afectados por nuestra conducta? ¿O debemos limitar nuestra perspectiva a la felicidad humana? El primer punto de vista es el adoptado por... la escuela utilitarista... [P]arece arbitrario e irrazonable excluir del objetivo final, así concebido, cualquier placer de cualquier ser sintiente._
 >
 > – [Henry Sidgwick](https://altruismoeficaz.net/autores/henry-sidgwick)[^1]
-{ .align-author-right }l
+{ .align-author-right }
 
 {{< TOC >}}
 
