@@ -178,7 +178,7 @@ To do the most good they can, utilitarians often donate money to effective chari
 
 ### Effective Altruism
 
-- William MacAskill (forthcoming). [Effective Altruism](https://drive.google.com/file/d/1xs22x9UIuvym--MfAUtQsZ-GVqTqXeEs/view). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.).[^40]
+- William MacAskill (forthcoming). [Effective Altruism](https://www.williammacaskill.com/s/MacAskill_Effective_Altruism-1.pdf). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.).[^40]
 - William MacAskill (2015). _[Doing Good Better: Effective Altruism and How You Can Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Penguin Random House.
 - William MacAskill (2018). [What Are the Most Important Moral Problems of Our Time?](https://www.ted.com/talks/will_macaskill_what_are_the_most_important_moral_problems_of_our_time) _TED_.
 - Peter Singer (2013). [The Why and How of Effective Altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en). _TED_.
@@ -223,7 +223,7 @@ To do the most good they can, utilitarians often donate money to effective chari
 [^6]:
     In 2013, Peter Singer gave a [TED talk on effective altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en).
 
-    For a more detailed and recent introduction to effective altruism, see MacAskill, W. (forthcoming). [Effective Altruism](https://drive.google.com/file/d/1xs22x9UIuvym--MfAUtQsZ-GVqTqXeEs/view). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.). For a response to criticisms, see Chappell (2024) [Why Not Effective Altruism?](https://philpapers.org/rec/CHAWNE). _Public Affairs Quarterly_ 38 (1): 3-21.
+    For a more detailed and recent introduction to effective altruism, see MacAskill, W. (forthcoming). [Effective Altruism](https://www.williammacaskill.com/s/MacAskill_Effective_Altruism-1.pdf). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.). For a response to criticisms, see Chappell (2024) [Why Not Effective Altruism?](https://philpapers.org/rec/CHAWNE). _Public Affairs Quarterly_ 38 (1): 3-21.
 [^7]: For a detailed philosophical discussion of effective altruism, see the 16 articles included in Greaves, H. & Pummer, T. (2019). _[Effective Altruism: Philosophical Issues](https://doi.org/10.1093/oso/9780198841364.001.0001)_. Oxford: Oxford University Press.
 [^8]:
     “It is true that effective altruism has some similarities with utilitarianism: it is maximising, it is primarily focused on improving wellbeing, many members of the community make significant sacrifices in order to do more good, and many members of the community self-describe as utilitarians.”
@@ -263,7 +263,7 @@ To do the most good they can, utilitarians often donate money to effective chari
 [^27]: Cf. Nick Beckstead (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/file/d/0B8P94pg6WYCIc0lXSUVYS1BnMkE/view?resourcekey=0-nk6wM1QIPl0qWVh2z9FG4Q)_. PhD Dissertation, Rutgers University. Section 3: The Case for Shaping the Far Future.
 [^28]: Roser, M. (2019). [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts). _Our World In Data_.
 [^29]: Cf. Bostrom, N. (2013). [Existential Risks as a Global Priority](https://www.existential-risk.org/concept.html). _Global Policy_. 4(1): 15–31.
-[^30]: Cf. MacAskill, W. (2014). _[Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Random House. Chapter 1.
+[^30]: Cf. MacAskill, W. (2014). _[Doing Good Better: Effective Altruism and How You Can Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Random House. Chapter 1.
 [^31]: Note that William MacAskill, coauthor of this website, is a cofounder of _Giving What We Can_.
 [^32]: Caviola, L., Schubert, S., Teperman, E., Moss, D., Greenberg, S., & Faber, N. (2020). [Donors vastly underestimate differences in charities’ effectiveness.](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/122268/Caviola%20et%20al._2020_JDM.pdf) _Judgment and Decision Making_. 15(4): 509–516.
 [^33]:

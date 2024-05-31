@@ -428,7 +428,7 @@ Resources for [Acting on Utilitarianism](/acting-on-utilitarianism)
 
 ### Effective Altruism
 
-- William MacAskill (forthcoming). [Effective Altruism](https://drive.google.com/file/d/1xs22x9UIuvym--MfAUtQsZ-GVqTqXeEs/view). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.).[^40]
+- William MacAskill (forthcoming). [Effective Altruism](https://www.williammacaskill.com/s/MacAskill_Effective_Altruism-1.pdf). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.).[^40]
 - William MacAskill (2015). _[Doing Good Better: Effective Altruism and How You Can Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Penguin Random House.
 - William MacAskill (2018). [What Are the Most Important Moral Problems of Our Time?](https://www.ted.com/talks/will_macaskill_what_are_the_most_important_moral_problems_of_our_time) _TED_.
 - Peter Singer (2013). [The Why and How of Effective Altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en). _TED_.
