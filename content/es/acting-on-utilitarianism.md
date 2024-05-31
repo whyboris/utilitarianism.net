@@ -7,9 +7,7 @@ draft: false
 menu: "acting"
 weight: 5
 ---
-
-> _Crea toda la felicidad que seas capaz de crear; elimina toda la miseria que seas capaz de eliminar. Cada día te permitirá, te invitará a añadir algo al placer de los demás, o a disminuir algo de sus penas."_ \
-> \- [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham)[^1]
+> _Crea toda la felicidad que seas capaz de crear; elimina toda la miseria que seas capaz de eliminar. Cada día te permitirá, te invitará a añadir algo al placer de los demás, o a disminuir algo de sus penas._ \
 
 {{< TOC >}}
 
@@ -63,7 +61,7 @@ Dado que algunos problemas morales pueden ser mucho más importantes que otros, 
 
 ### Salud y desarrollo globales
 
-> _”Algo que importa mucho es que nosotros, los ricos, hayamos permitido gran parte del sufrimiento y muchas de las muertes prematuras de las personas más pobres del mundo que podríamos haber evitado muy fácilmente."_
+> _Algo que importa mucho es que nosotros, los ricos, hayamos permitido gran parte del sufrimiento y muchas de las muertes prematuras de las personas más pobres del mundo que podríamos haber evitado muy fácilmente._
 >
 > – Derek Parfit[^11]
 { .align-author-right }
@@ -80,7 +78,7 @@ Otras formas de ayudar a los más pobres, costo-eficaces y respaldadas por evide
 
 ### Bienestar animal en las granjas
 
-> _La pregunta no es ‘¿Pueden **razonar**?’, ni ‘¿Pueden **hablar**?’, sino ‘¿Pueden **sufrir**?’ ¿Por qué debería la ley negar su protección a cualquier ser sensible?… Llegará el momento en que la humanidad extenderá su manto sobre todo lo que respire."_
+> _La pregunta no es ‘¿Pueden **razonar**?’, ni ‘¿Pueden **hablar**?’, sino ‘¿Pueden **sufrir**?’ ¿Por qué debería la ley negar su protección a cualquier ser sensible?… Llegará el momento en que la humanidad extenderá su manto sobre todo lo que respire._
 >
 > – [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham)[^17]
 { .align-author-right }
@@ -101,7 +99,7 @@ En EE. UU., sólo se donan unas pocas decenas de millones de dólares filantróp
 
 ### Reducción del riesgo existencial
 
-> Los utilitaristas clásicos... afirmarían, como Sidgwick, que la destrucción de la humanidad sería con mucho el mayor de todos los crímenes concebibles. La gravedad de este crimen residiría en la enorme reducción de la suma posible de felicidad."
+> Los utilitaristas clásicos... afirmarían, como Sidgwick, que la destrucción de la humanidad sería con mucho el mayor de todos los crímenes concebibles. La gravedad de este crimen residiría en la enorme reducción de la suma posible de felicidad.
 >
 > — Derek Parfit[^23]
 { .align-author-right }

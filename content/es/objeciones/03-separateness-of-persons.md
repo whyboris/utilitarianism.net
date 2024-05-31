@@ -36,7 +36,7 @@ Los utilitaristas pueden responder que no sólo debemos ayudar a los demás por 
 
 ## Fungibilidad
 
-Una preocupación más profunda es que podría parecer que el utilitarismo trata a los individuos como totalmente fungibles o remplazables sin remordimiento. Según la caracterización de Peter Singer, “[e]s como si los seres sintientes fueran receptáculos de algo valioso, y no importara si un receptáculo se rompe mientras haya otro al que pueda transferirse su contenido sin que se derrame nada."[^8]
+Una preocupación más profunda es que podría parecer que el utilitarismo trata a los individuos como totalmente fungibles o remplazables sin remordimiento. Según la caracterización de Peter Singer, “[e]s como si los seres sintientes fueran receptáculos de algo valioso, y no importara si un receptáculo se rompe mientras haya otro al que pueda transferirse su contenido sin que se derrame nada.”[^8]
 
 Para hacer más vívido el problema, imaginemos que Connie, una consecuencialista, tiene ante sí a dos personas envenenadas y el antídoto suficiente para salvar a una de ellas.[^9] Supongamos que, ante sus rostros suplicantes, pero consciente de que salvar a una u otra persona no influye en el bienestar total, Connie se siente completamente _indiferente_ acerca de su elección. Es como si tuviera que elegir entre un billete de 20 dólares o dos de diez.
 
