@@ -8,7 +8,7 @@ description: "Utilitarismo.net es un libro de texto de acceso abierto con ensayo
 <div class="homepage-center">
 
 {{< quote
-     text="El precepto central del utilitarismo es que debemos mejorar el mundo tanto como podamos. Esto significa que, en la medida de nuestras posibilidades, debemos conseguir un mundo en el que cada individuo tenga el mayor nivel de bienestar posible."
+     text="El precepto central del utilitarismo es que debemos mejorar el mundo tanto como podamos. Esto significa que, en la medida de nuestras posibilidades, debemos construir un mundo en el que cada individuo tenga el mayor nivel de bienestar posible."
      author="Peter Singer"
      link="https://altruismoeficaz.net/autores/peter-singer" >}}
 
@@ -19,9 +19,9 @@ description: "Utilitarismo.net es un libro de texto de acceso abierto con ensayo
 
 # ¿Qué es el utilitarismo?
 
-El _utilitarismo_ no es un único punto de vista, sino una familia de teorías éticas relacionadas. Lo que estas teorías tienen en común es que se centran en conseguir las mejores consecuencias para el mundo mejorando las vidas de todos los seres sintientes. El utilitarismo sostiene que debemos dar la misma consideración moral al bienestar de todos los individuos, independientemente de características como su sexo, raza, nacionalidad o incluso especie.[^1]
+El _utilitarismo_ no es un único punto de vista, sino una familia de teorías éticas relacionadas. Lo que estas teorías tienen en común es que se centran en producir las mejores consecuencias para el mundo mejorando las vidas de todos los seres sintientes. El utilitarismo sostiene que debemos dar la misma consideración moral al bienestar de todos los individuos, independientemente de características como su sexo, raza, nacionalidad o aun especie.[^1]
 
-La versión original y más influyente del utilitarismo es el _utilitarismo clásico_, expresado por primera vez en los escritos de [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham) y [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill). El utilitarismo clásico sostiene que lo que hace que la vida de alguien vaya bien se basa en las experiencias subjetivas conscientes que tiene. Una buena vida está llena de experiencias conscientes positivas como el disfrute, la felicidad y la satisfacción, mientras que una mala vida contiene muchas experiencias conscientes negativas como el sufrimiento y el dolor. El utilitarismo clásico sostiene que debemos actuar de modo que el mundo contenga la mayor suma total de experiencias positivas menos experiencias negativas.
+La versión original y más influyente del utilitarismo es el _utilitarismo clásico_, expresado por primera vez en los escritos de [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham) y [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill). El utilitarismo clásico sostiene que lo que hace que la vida de las personas sea buena se basa en sus experiencias subjetivas conscientes. Una vida buena está llena de experiencias conscientes positivas como el placer, la felicidad y la satisfacción, mientras que una vida mala comprende muchas experiencias conscientes negativas como el sufrimiento y el dolor. El utilitarismo clásico sostiene que debemos contribuir con nuestros actos a aumentar en el mundo el total que resulta de la suma de las experiencias positivas menos las negativas.
 
 <center>
 {{< small-button url="introduccion-al utilitarismo" text="Continuar leyendo: Introducción al utilitarismo" >}}
