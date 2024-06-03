@@ -155,7 +155,7 @@ MARK: -------------------------- Book ---------------------------------
 
   {{- if or (isset . "edition") (isset . "page") }} (
     {{- with .edition -}}
-      {{ . }}
+      {{ title . }}
     {{- end -}}
     {{- if and (isset . "edition") (isset . "page") -}}
       ,
