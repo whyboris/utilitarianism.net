@@ -268,9 +268,9 @@ MARK: -------------------------- Webpage ---------------------------------
   {{- template "issuedPart" . -}}.
 
   {{- if isset . "container-title" -}}
-    <i>
+    <i><a href="{{ .URL }}">
       {{ echoParam . "container-title" -}}
-    </i>
+    </a></i>
   {{- end -}}.
 
 

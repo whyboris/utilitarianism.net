@@ -13,7 +13,6 @@ gradientTop: "#571B9E"
 gradientBottom: "#430A4A"
 ---
 
-
 {{< TOC >}}
 
 ## Introducción

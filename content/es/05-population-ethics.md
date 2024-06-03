@@ -11,6 +11,8 @@ gradientTop: "#1B7CCC"
 gradientBottom: "#089FD1"
 ---
 
+{{< TOC >}}
+
 ## Introducción
 
 Los utilitaristas están de acuerdo en que si el número de personas existentes se mantiene constante, debemos promover la _suma total del bienestar_ en esa población fija.[^1] En el mundo real, sin embargo, la población no permanece fija. Tenemos la posibilidad de aumentar la población, por ejemplo, teniendo hijos. Si estas personas adicionales tienen una buena vida, ¿es esa una forma de mejorar el mundo? Esta pregunta pertenece al ámbito de la _ética de la población_, que trata de los problemas morales que surgen cuando nuestras acciones influyen en la identidad y el número de las personas que nacen, y en la calidad de vida tienen.
