@@ -55,21 +55,30 @@
 
       {{ else if eq .Site.Language.Lang "de" }}
 
-      <a href="/{{ i18n "link.famine-affluence-morality" }}">{{ i18n "menu.famine-affluence-morality-long" }}</a>
+      <a href='/{{ i18n "link.famine-affluence-morality" }}'>{{ i18n "menu.famine-affluence-morality-long" }}</a>
 
       {{ end }}
 
       {{ if .Site.Menus.guest }}
 
-      <span class="footer-heading large-gap">Guest Essays</span>
+        <span class="footer-heading large-gap">Guest Essays</span>
 
-      {{ range first 10 .Site.Menus.guest.Sort.ByWeight }}
-        <a href="{{ .URL }}">
-          {{ with .Page }}
-            {{ .Title }}
-          {{ end }}
-        </a>
+        {{ range first 10 .Site.Menus.guest.Sort.ByWeight }}
+          <a href="{{ .URL }}">
+            {{ with .Page }}
+              {{ .Title }}
+            {{ end }}
+          </a>
+        {{ end }}
+
       {{ end }}
+
+      {{ if eq .Site.Language.Lang "es" }}
+          <a href="https://utilitarianism.net">Original en Inglés</a>
+      {{ end }}
+
+      {{ if eq .Site.Language.Lang "de" }}
+          <a href="https://utilitarianism.net">Englisches Original</a>
       {{ end }}
 
     </div>
