@@ -78,7 +78,7 @@ Por último, los defensores del utilitarismo pueden simplemente aceptar que la m
 ## Recursos y Más información
 
 - {{< cite Berkey2016DemandingnessOfMorality >}}
-- {{< cite Bykvist2010UtilitarianismGuidePerplexed "chap. 7: ¿Es el utilitarismo demasiado exigente?" >}}
+- {{< cite Bykvist2010UtilitarianismGuidePerplexed "cap. 7: ¿Es el utilitarismo demasiado exigente?" >}}
 - {{< cite Kagan1982DoesConsequentialismDemand >}}
 - {{< cite "Lazari-Radek2014PointViewUniverse" "pp. 317–336" >}}
 - {{< cite Singer1972FamineAffluenceMorality >}}

@@ -7,7 +7,10 @@ draft: false
 menu: "acting"
 weight: 5
 ---
-> _Crea toda la felicidad que seas capaz de crear; elimina toda la miseria que seas capaz de eliminar. Cada día te permitirá, te invitará a añadir algo al placer de los demás, o a disminuir algo de sus penas._ \
+> _Crea toda la felicidad que seas capaz de crear; elimina toda la miseria que seas capaz de eliminar. Cada día te permitirá, te invitará a añadir algo al placer de los demás, o a disminuir algo de sus penas._
+>
+> – [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham)[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 
@@ -167,7 +170,7 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
 ### General
 
 - {{< cite Singer1993PracticalEthics >}}
-- {{< cite "Lazari-Radek2017UtilitarianismVeryShort" "chap. 6" >}}
+- {{< cite "Lazari-Radek2017UtilitarianismVeryShort" "cap. 6" >}}
 
 ### Altruismo eficaz
 
@@ -256,7 +259,7 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
 [^27]: Cf. {{< cite Beckstead2013OverwhelmingImportanceShaping "sec. 3: The case for shaping the far future" >}}
 [^28]: {{< cite Roser2019ShortHistoryOf >}}
 [^29]: Cf. {{< cite Bostrom2013ExistentialRiskPrevention >}}
-[^30]: Cf. {{< cite MacAskill2015DoingGoodBetter "chap. 1" >}}
+[^30]: Cf. {{< cite MacAskill2015DoingGoodBetter "cap. 1" >}}
 [^31]: Téngase en cuenta que el profesor William MacAskill, coautor de este sitio web, es cofundador de _Giving What We Can_.
 [^32]: {{< cite Caviola2020DonorsVastlyUnderestimate >}}
 [^33]:

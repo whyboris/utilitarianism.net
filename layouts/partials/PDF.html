@@ -52,7 +52,7 @@
     />
   </a>
 
-{{ if not .Params.hideaudio }}
+{{ if not (or .Params.hideAudio site.Params.hideAudio) }}
 
   <div id="audio-icon" onclick="togglePlayOrPause()" class="mp3" title="{{ i18n "mp3.play" }}">
     <img

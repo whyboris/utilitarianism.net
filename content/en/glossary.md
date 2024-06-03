@@ -4,7 +4,7 @@ authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 draft: false
 weight: 1
-hideaudio: true
+hideAudio: true
 ---
 
 This page provides an overview with brief descriptions of key utilitarian terms and relevant links.

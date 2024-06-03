@@ -55,18 +55,17 @@ MARK: -------------------------- Editor ---------------------------------
   {{- if $editors -}}
   {{- $totalEditors := len $editors -}}
   {{- range $editorIndex, $editor := $editors -}}
-  <span itemprop="editor" itemscope itemtype="https://schema.org/Person">
-    {{- with $editor.family -}}
-    <span itemprop="familyName">{{ . }}</span>
-    {{- end -}}
-    {{- with $editor.given -}},&#32;
-    <meta itemprop="givenName" content="{{ . }}" />
-    {{ substr . 0 1 }}.
-    {{- end -}}{{/* First letter (initial). */}}
-    {{- with $editor.secondInitial -}}&#32;
-    <meta itemprop="additionalName" content="{{ . }}" />
-    {{- substr . 0 1 -}}.{{- end -}}
-  </span>
+
+  {{- with $editor.family -}}
+    {{ . }}
+  {{- end -}}
+
+  {{- with $editor.given -}},&#32;
+  {{ substr . 0 1 }}.
+  {{- end -}}{{/* First letter (initial). */}}
+  {{- with $editor.secondInitial -}}&#32;
+  {{- substr . 0 1 -}}.{{- end -}}
+
   {{- if and (gt $totalEditors 1) (lt (add $editorIndex 2) $totalEditors) -}},&#32;
   {{ end -}}
   {{ if eq $totalEditors (add $editorIndex 2) -}}&#32;&amp;&#32;{{ end -}}{{/* Last name has ampersand */}}
@@ -81,14 +80,14 @@ MARK: -------------------------- Issued (YYYY) ---------------------------------
 {{- define "issuedPart" }}
   {{- if and (isset . "issued") (isset .issued "date-parts") -}}
     {{/* range of dates */}}
-    (<span itemprop="datePublished">
+    (
     {{- range $index, $dateParts := (index .issued "date-parts") -}}
-    {{- if gt $index 0 -}}, {{ end -}}{{/* Separate other years by comma */}}
-    {{- range first 1 $dateParts -}}{{/* First element in date-part is the year */}}
-    {{- . -}}
+      {{- if gt $index 0 -}}, {{ end -}}{{/* Separate other years by comma */}}
+        {{- range first 1 $dateParts -}}{{/* First element in date-part is the year */}}
+        {{- . -}}
+      {{- end -}}
     {{- end -}}
-    {{- end -}}
-    </span>)
+    )
   {{- else }}
   ({{ i18n "apa_no_date_abbr" | default "n.d." }}){{/* no date */}}
   {{- end }}
@@ -100,17 +99,19 @@ MARK: -------------------------- Full Issued (Y,M,D) ---------------------------
 */}}
 {{- define "issuedFullPart" }}
   {{- if and (isset . "issued") (isset .issued "date-parts") -}}
-    (<span itemprop="datePublished">
+    (
     {{- range (index .issued "date-parts") -}}
-    {{- index . 0 -}}{{/* year */}}
-    {{- if (index . 1) -}}
-    ,&#32;{{- index . 1 -}}{{/* month */}}
-    {{- end }}
-    {{- with index . 2 -}}
-    /{{- . }}{{/* day */}}
+      {{- index . 0 -}}{{/* year */}}
+
+      {{- if (index . 1) -}}
+        ,&#32;{{- index . 1 -}}{{/* month */}}
+      {{- end }}
+
+      {{- with index . 2 -}}
+        /{{- . }}{{/* day */}}
+      {{- end -}}
     {{- end -}}
-    {{- end -}}
-    </span>)
+    )
   {{- else }}
   (s.d.){{/* no date */}}
   {{- end }}
@@ -121,36 +122,11 @@ MARK: -------------------------- Full Issued (Y,M,D) ---------------------------
 MARK: -------------------------- Title with URL ---------------------------------
 */}}
 {{- define "titleWithUrl" -}}
-  {{- if and .title .URL -}}
-    <a href="{{.URL}}">{{- title .title -}}</a>
+  {{ $tempUrl := partial "apa-url.html" . }}
+  {{- if $tempUrl -}}
+    <a href="{{ $tempUrl }}">{{- title .title -}}</a>
   {{- else if .title -}}
     {{- title .title -}}
-  {{- end -}}
-{{- end -}}
-
-{{/*
-MARK: -------------------------- Simple DOI part ---------------------------------
-*/}}
-{{- define "SimpleDOIPart" }}
-  {{- if .DOI }}
-    <a href="https://doi.org/{{ .DOI }}">https://doi.org/{{- .DOI -}}</a>
-  {{- end -}}
-{{- end -}}
-
-
-{{/*
-MARK: -------------------------- DOI part ---------------------------------
-*/}}
-{{- define "DOIPart" }}
-  {{- if .DOI }}
-  <a href="https://doi.org/{{ .DOI }}"
-     itemprop="identifier"
-     itemtype="https://schema.org/URL">https://doi.org/{{- .DOI -}}</a>
-  {{ else if and .title .URL  }}
-    <a href="{{.URL}}">{{ title .title }}</a>.
-  {{- else if .URL }}&#32;
-    {{- i18n "apa_retrieved_from" | default "Retrieved from" -}}&#32;
-    <a href="{{ .URL }}">{{ .URL }}</a>
   {{- end -}}
 {{- end -}}
 
@@ -173,27 +149,25 @@ MARK: -------------------------- Book ---------------------------------
   {{- template "issuedPart" . }}.
   &#32;
 
-  {{- template "titleWithUrl" . -}}
+  <i>
+    {{- template "titleWithUrl" . -}}
+  </i>
 
   {{- if or (isset . "edition") (isset . "page") }} (
-  {{- with .edition -}}
-  <span>{{ . }}</span>
-  {{- end -}}
-  {{- if and (isset . "edition") (isset . "page") -}}, {{ end -}}
-  {{- if isset . "page" -}}
-  <meta itemprop="numberOfPages" content="{{ .page }}">
-  {{- end -}}
-  ){{- end -}}.
+    {{- with .edition -}}
+      {{ title . }}
+    {{- end -}}
+    {{- if and (isset . "edition") (isset . "page") -}}
+      ,
+    {{ end -}}
+    )
+  {{- end -}}.
 
   {{ if isset . "publisher-place" -}}
     {{- echoParam . "publisher-place" -}}:
   {{- end -}}
 
   {{- with .publisher -}}&#32;{{- . -}}.{{- end }}
-
-  {{ if not .URL }}
-    {{- template "SimpleDOIPart" . -}}
-  {{ end }}
 
 
 {{/*
@@ -207,9 +181,8 @@ MARK: -------------------------- Chapter ---------------------------------
   &#32;
   {{- template "issuedPart" . }}.
   &#32;
-  {{- if .title -}}
-    {{- title .title | markdownify -}}.
-  {{- end -}}
+
+  {{ template "titleWithUrl" . }}
 
   {{- if isset . "container-title" -}}
     &#32;{{- i18n "apa_in" | default "In" -}}&#32;
@@ -217,7 +190,6 @@ MARK: -------------------------- Chapter ---------------------------------
     {{- if .editor -}}
       {{- template "editorPart" . }} (Eds.),&#32;
     {{- end -}}
-
 
     <i>{{/* italicize title */}}
       {{- $tempTitle := echoParam . "container-title" -}}
@@ -240,20 +212,9 @@ MARK: -------------------------- Chapter ---------------------------------
     )
   {{- end -}}
 
-  {{ if isset . "publisher-place" -}}
-  <meta itemprop="contentLocation"
-        value="{{- echoParam . "publisher-place" -}}">
-  {{- end -}}
   {{- with .publisher -}}
-    &#32;<span itemprop="publisher"
-               itemtype="http://schema.org/Organization"
-               itemscope="">
-      <span itemprop="name">
-      {{- . -}}
-      </span></span>.
+    &#32;{{- . -}}.
   {{- end }}
-
-  {{- template "DOIPart" . -}}
 
 
 {{/*
@@ -268,11 +229,7 @@ MARK: -------------------------- Article ---------------------------------
   {{- template "issuedPart" . }}.
   &#32;
 
-  {{ if and .title .URL }}
-    <a href="{{ .URL }}">{{ title .title }}</a>
-  {{ else if .title }}
-    {{ title .title }}
-  {{ end }}
+  {{- template "titleWithUrl" . -}}
 
   {{- if isset . "container-title" -}}
 
@@ -298,11 +255,6 @@ MARK: -------------------------- Article ---------------------------------
     &#32;{{ replace .page "-" "–"}}.
   {{- end -}}
 
-  {{/*  only show DOI if URL has not been added to the title above  */}}
-  {{- if not (and .title .URL) -}}
-    {{- template "DOIPart" . -}}
-  {{- end -}}
-
 
 {{/*
 MARK: -------------------------- Webpage ---------------------------------
@@ -315,12 +267,10 @@ MARK: -------------------------- Webpage ---------------------------------
 
   {{- template "issuedPart" . -}}.
 
-  {{- template "DOIPart" . -}}
-
   {{- if isset . "container-title" -}}
-    <i>
+    <i><a href="{{ .URL }}">
       {{ echoParam . "container-title" -}}
-    </i>
+    </a></i>
   {{- end -}}.
 
 
@@ -348,9 +298,6 @@ MARK: -------------------------- Ph.D. Thesis ---------------------------------
     .
   {{- end -}}
 
-  {{- if not (and .title .URL) -}}
-    {{- template "DOIPart" . -}}
-  {{- end -}}
 
 {{/*
 MARK: -------------------------- Report ---------------------------------
@@ -363,27 +310,20 @@ MARK: -------------------------- Report ---------------------------------
   &#32;
   {{- template "issuedPart" . }}.
   &#32;
-  {{- if .title -}}
-  <span itemprop="name">
-    <i>{{- .title | markdownify -}}</i>
-  </span>
-  {{- end -}}
-  {{- if isset . "number" -}}<span itemprop="reportNumber">&nbsp;({{- echoParam . "number" -}})</span>
-    {{- end -}}.&nbsp;
-  {{- if isset . "publisher-place" -}}
-  <meta itemprop="contentLocation"
-        value="{{- echoParam . "publisher-place" -}}">
-  {{- end -}}
-  {{- with .publisher -}}
-  <span itemprop="Organization"
-        itemtype="http://schema.org/Organization"
-        itemscope>
-    <span itemprop="name">
-      {{- . -}}{{- end -}}
-    </span> {{ if isset . "publisher-place" -}}:&#32; <span itemprop="location">{{- echoParam . "publisher-place" -}}</span></span>.
-  {{- end }}
 
-  {{- template "DOIPart" . -}}
+  {{- if .title -}}
+    <i>{{- template "titleWithUrl" . -}}</i>
+  {{- end -}}
+
+  {{- if isset . "number" -}}
+    &nbsp;({{- echoParam . "number" -}})
+  {{- end -}}.&nbsp;
+
+  {{- with .publisher -}}
+    {{- . -}}{{- end -}}
+    {{ if isset . "publisher-place" -}}:&#32;
+    {{- echoParam . "publisher-place" -}}.
+  {{- end }}
 
 
 {{/*

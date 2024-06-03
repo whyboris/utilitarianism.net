@@ -258,7 +258,7 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 
 ### Agregacionismo
 
-- {{< cite Broome1991WeighingGoodsEquality "chap. 4, 10" >}}
+- {{< cite Broome1991WeighingGoodsEquality "cap. 4, 10" >}}
 - {{< cite Bykvist2010UtilitarianismGuidePerplexed >}}
 - {{< cite Norcross1997ComparingHarmsHeadaches >}}
 
@@ -327,7 +327,7 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 [^9]:
     Técnicamente, una tercera posibilidad sería reducir el número de vidas negativas. De hecho, muchos utilitaristas apoyan la eutanasia (voluntaria), basándose en el reconocimiento de que una vida de sufrimiento puede ser peor que ninguna vida.
 
-    Véase, por ejemplo, {{< cite Singer1993PracticalEthics "chap. 7" >}}
+    Véase, por ejemplo, {{< cite Singer1993PracticalEthics "cap. 7" >}}
 
 [^10]:
     La noción de vida positiva, crucial para la perspectiva total, solo tiene sentido en relación con un punto cero en la escala del bienestar. Este punto cero es el umbral a partir del cual la vida se vuelve "digna de ser vivida". Una "vida neutra", en el nivel 0 de bienestar, no es ni "digna de ser vivida" ni "no digna de ser vivida". Puede ser una vida sin valor ni disvalor, o una vida con exactamente tanto valor como disvalor.
@@ -337,9 +337,9 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 [^11]:
     Pero nótese que no coincide directamente con lo que Bentham y Mill entendían por utilitarismo. Por ejemplo, Bentham decía que las acciones deben evaluarse "según la tendencia" por la que aumentan o disminuyen el bienestar. Del mismo modo, Mill sostenía que "las acciones son correctas en la medida en que tienden a promover la felicidad, incorrectas en la medida en que tienden a producir lo contrario de la felicidad".
 
-    {{< cite Bentham1789IntroductionPrinciplesMorals "chap. 1" >}}
+    {{< cite Bentham1789IntroductionPrinciplesMorals "cap. 1" >}}
 
-    {{< cite Mill2022Utilitarianism "chap. 1" >}}
+    {{< cite Mill2022Utilitarianism "cap. 1" >}}
 
 [^12]: La censura puede concebirse como una actitud (de desaprobación moral) o como una acción (que expresa tal desaprobación). Para los utilitaristas, las acciones de censura son como cualquier otra acción, en el sentido de que sólo deben realizarse si sirven para promover el bienestar. Censurar en exceso tendría malas consecuencias, porque desanimaría a la gente a intentarlo siquiera. En lugar de eso, normalmente deberíamos elogiar a las personas que dan pasos en la dirección correcta. Sobre la evaluación moral de las actitudes, véase más adelante la discusión sobre el utilitarismo global frente al híbrido.
 [^13]:
@@ -374,7 +374,7 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 [^24]:
     Jeremy Bentham rechazó el utilitarismo de un solo nivel, escribiendo que "no es de esperar que este proceso [el cálculo de las consecuencias esperadas] deba seguirse estrictamente antes de cada juicio moral."
 
-    {{< cite Bentham1789IntroductionPrinciplesMorals "chap. 4" >}}
+    {{< cite Bentham1789IntroductionPrinciplesMorals "cap. 4" >}}
 
     Henry Sidgwick está de acuerdo: escribe que "el fin que da el criterio de rectitud no tiene por qué ser siempre el fin al que conscientemente aspiramos; y si la experiencia demuestra que la felicidad general se alcanzará mejor si los hombres actúan frecuentemente por motivos distintos de la pura filantropía universal, esos otros motivos son preferibles según los principios utilitaristas".
 

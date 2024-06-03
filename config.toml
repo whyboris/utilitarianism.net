@@ -29,6 +29,7 @@ enableRobotsTXT = true
     weight = 2
     [languages.es.params]
       pdfString = "_Utilitarismo_net"
+      hideAudio = true
     [languages.es.services]
       [languages.es.services.googleAnalytics]
         ID = 'G-ADD-ID'

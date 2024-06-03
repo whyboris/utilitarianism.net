@@ -75,7 +75,7 @@ En artículos separados, discutimos las siguientes críticas al utilitarismo:
 
 ## Recursos y más información
 
-- {{< cite Lazari-Radek2017UtilitarianismVeryShort "chap. 4: Objections" >}}
+- {{< cite Lazari-Radek2017UtilitarianismVeryShort "cap. 4: Objections" >}}
 - {{< cite Smart1973Utilitarianism >}}
 
 [^1]:{{< cite Lazari-Radek2017UtilitarianismVeryShort >}}, prólogo.

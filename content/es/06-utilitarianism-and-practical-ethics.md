@@ -204,7 +204,7 @@ El siguiente capítulo analiza algunas teorías rivales importantes que pueden s
 [^6]: {{< cite Ord2013MoralImperativeCosteffectiveness >}}
 [^7]: Cf. {{< cite Singer1981ExpandingCircleEthics >}}
 [^8]: {{< cite Singer2011PracticalEthics "p. 50" >}}
-[^9]: Cf. {{< cite MacAskill2015DoingGoodBetter "chap. 1" >}}
+[^9]: Cf. {{< cite MacAskill2015DoingGoodBetter "cap. 1" >}}
 [^10]: {{< cite Singer2002AnimalLiberation "p. 9" >}} De hecho, hay evidencia psicológica que sugiere que el especismo va de la mano de otras actitudes discriminatorias como el racismo, el sexismo y la homofobia: Cf. {{< cite Caviola2019MoralStandingAnimals >}}
 [^11]: Por ejemplo, véase {{< cite Low2012CambridgeDeclarationConsciousness >}}
 [^12]: {{< cite Tomasik2019HowManyWild >}}

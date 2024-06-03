@@ -1,0 +1,11 @@
+{{ $urlString := "" }}
+
+{{ if .DOI }}
+  {{ $urlString = (print "https://doi.org/" .DOI) }}
+{{ else if .URL }}
+  {{ $urlString = .URL }}
+{{ else if .ISBN }}
+  {{ $urlString = (print "https://worldcat.org/search?q=" .ISBN )}}
+{{ end }}
+
+{{ return $urlString }}

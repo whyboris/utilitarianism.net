@@ -162,7 +162,7 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
     Véase también {{< cite Goodin1995UtilitarianismPublicPhilosophy >}}
 
 [^6]:
-    Peter Singer sostiene, en relación con lo anterior, que "llegamos rápidamente al utilitarismo de las preferencias como posición inicial una vez que el aspecto universal de la ética es aplicado a decisiones pre-éticas simples." ({{< cite Singer1993PracticalEthics "chap. 1" >}})
+    Peter Singer sostiene, en relación con lo anterior, que "llegamos rápidamente al utilitarismo de las preferencias como posición inicial una vez que el aspecto universal de la ética es aplicado a decisiones pre-éticas simples." ({{< cite Singer1993PracticalEthics "cap. 1" >}})
 [^7]: {{< cite Smart1956ExtremeRestrictedUtilitarianism >}}
 [^8]:
     El experimento mental del "velo de la ignorancia" fue desarrollado originalmente por Vickrey y Harsanyi, aunque hoy en día se asocia más a menudo con John Rawls, que acuñó el término y modificó el experimento para llegar a conclusiones diferentes. En concreto, Rawls apeló a una versión en la que además se ignoran las probabilidades relativas de acabar en varias posiciones, para bloquear las implicaciones utilitaristas y argumentar en su lugar a favor de una posición "maximin" que da prioridad léxica al aumento del bienestar de los más desfavorecidos.
@@ -212,7 +212,7 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
     En una línea similar, Derek Parfit escribió que "Algunos nos preguntamos qué parte de nuestra riqueza debemos dar los ricos a los más pobres. Pero esa pregunta supone erróneamente que nuestra riqueza es nuestra. Esta riqueza es legalmente nuestra. Pero los más pobres tienen derechos morales mucho más fuertes sobre parte de esa riqueza. Deberíamos transferir a estas personas... al menos el diez por ciento de lo que ganamos." ({{< cite Parfit2011WhatMattersVolumec "pp. 436–437" >}})
 
 [^29]:
-    Sobre el tema del sacrificio, John Stuart Mill escribió que "La moral utilitarista sí reconoce en el ser humano el poder de sacrificar su mayor bien por el bien de los demás. Sólo se niega a admitir que el sacrificio sea en sí mismo un bien. Un sacrificio que no aumenta, o tiende a aumentar, la suma total de la felicidad, lo considera un desperdicio". ({{< cite Mill2014Utilitarismo "chap. 2" >}})
+    Sobre el tema del sacrificio, John Stuart Mill escribió que "La moral utilitarista sí reconoce en el ser humano el poder de sacrificar su mayor bien por el bien de los demás. Sólo se niega a admitir que el sacrificio sea en sí mismo un bien. Un sacrificio que no aumenta, o tiende a aumentar, la suma total de la felicidad, lo considera un desperdicio". ({{< cite Mill2014Utilitarismo "cap. 2" >}})
 
 [^30]:
     Sin embargo, esto no significa que el utilitarismo aspire a la igualdad perfecta en los resultados materiales o incluso en el bienestar. Joshua Greene señala que "un mundo en el que todos obtienen el mismo resultado hagan lo que hagan es un mundo ocioso en el que la gente tiene pocos incentivos para hacer algo. Así pues, la forma de maximizar la felicidad no es decretar que todo el mundo sea igual de feliz, sino animar a la gente a comportarse de forma que maximice la felicidad. Cuando medimos nuestro éxito moral, contamos la felicidad de todos por igual, pero tener éxito implica casi con toda seguridad la desigualdad tanto de la riqueza material como de la felicidad. Esa desigualdad no es ideal, pero se justifica porque, sin ella, las cosas serían peores en general.

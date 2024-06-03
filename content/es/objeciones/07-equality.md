@@ -83,7 +83,7 @@ Por último, los defensores del utilitarismo pueden, una vez más, aceptar que e
 - {{< cite Temkin1993Inequality >}}
 - {{< cite Temkin2003EqualityPriorityWhat >}}
 
-[^1]: {{< cite Greene2013MoralTribes "chap. 10" >}}
+[^1]: {{< cite Greene2013MoralTribes "cap. 10" >}}
 [^2]: Cf. {{< cite Drupp2018DiscountingDisentangled >}}
 [^3]: {{< cite Parfit1997EqualityPriority >}}
 [^4]: Aunque esto deja abierta la elección entre el enfoque utilitarista de la [igual consideración de intereses](/elementos-y-tipos-de-utilitarismo#imparcialidad-y-igual-consideracion-de-intereses) y el enfoque [prioritarista](/alternativas-cercanas-al-utilitarismo#prioritarismo) de dar un peso extra a los intereses de los menos favorecidos.
