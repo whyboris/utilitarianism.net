@@ -130,15 +130,6 @@ MARK: -------------------------- Title with URL --------------------------------
   {{- end -}}
 {{- end -}}
 
-{{/*
-MARK: -------------------------- Simple DOI part ---------------------------------
-*/}}
-{{- define "SimpleDOIPart" }}
-  {{- if .DOI }}
-    <a href="https://doi.org/{{ .DOI }}">https://doi.org/{{- .DOI -}}</a>
-  {{- end -}}
-{{- end -}}
-
 
 {{/*
 MARK: -------------------------- DOI part ---------------------------------
@@ -173,7 +164,9 @@ MARK: -------------------------- Book ---------------------------------
   {{- template "issuedPart" . }}.
   &#32;
 
-  {{- template "titleWithUrl" . -}}
+  <i>
+    {{- template "titleWithUrl" . -}}
+  </i>
 
   {{- if or (isset . "edition") (isset . "page") }} (
     {{- with .edition -}}
@@ -191,10 +184,6 @@ MARK: -------------------------- Book ---------------------------------
 
   {{- with .publisher -}}&#32;{{- . -}}.{{- end }}
 
-  {{ if not .URL }}
-    {{- template "SimpleDOIPart" . -}}
-  {{ end }}
-
 
 {{/*
 MARK: -------------------------- Chapter ---------------------------------
@@ -207,9 +196,8 @@ MARK: -------------------------- Chapter ---------------------------------
   &#32;
   {{- template "issuedPart" . }}.
   &#32;
-  {{- if .title -}}
-    {{- title .title | markdownify -}}.
-  {{- end -}}
+
+  {{ template "titleWithUrl" . }}
 
   {{- if isset . "container-title" -}}
     &#32;{{- i18n "apa_in" | default "In" -}}&#32;
@@ -242,8 +230,6 @@ MARK: -------------------------- Chapter ---------------------------------
   {{- with .publisher -}}
     &#32;{{- . -}}.
   {{- end }}
-
-  {{- template "DOIPart" . -}}
 
 
 {{/*
@@ -282,11 +268,6 @@ MARK: -------------------------- Article ---------------------------------
 
   {{- if isset . "page" -}}
     &#32;{{ replace .page "-" "–"}}.
-  {{- end -}}
-
-  {{/*  only show DOI if URL has not been added to the title above  */}}
-  {{- if not (and .title .URL) -}}
-    {{- template "DOIPart" . -}}
   {{- end -}}
 
 
@@ -334,9 +315,6 @@ MARK: -------------------------- Ph.D. Thesis ---------------------------------
     .
   {{- end -}}
 
-  {{- if not (and .title .URL) -}}
-    {{- template "DOIPart" . -}}
-  {{- end -}}
 
 {{/*
 MARK: -------------------------- Report ---------------------------------
