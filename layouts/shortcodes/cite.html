@@ -54,13 +54,13 @@
 
     {{ if $short }} {{/* <---- !!! whenever a citation is prepended with `-` for "short" */}}
 
-      {{ if $reference.URL }}
+      {{- if $reference.URL -}}
         <a href="{{$reference.URL}}">
           <i>{{- title $reference.title -}}</i>
         </a>
-      {{ else }}
+      {{- else -}}
         <i>{{- title $reference.title -}}</i>
-      {{ end }}
+      {{- end -}}
 
     {{- else -}}
       {{- partial $styleFile $reference -}} {{/* <----- !!! THE CITATION STRING OUTPUT !!! */}}
