@@ -32,7 +32,7 @@ enableRobotsTXT = true
       hideAudio = true
     [languages.es.services]
       [languages.es.services.googleAnalytics]
-        ID = 'G-ADD-ID'
+        ID = 'G-7TNPPTSZQV'
   [languages.de]
     contentDir = 'content/de'
     languageCode = "de-DE"
