@@ -1,9 +1,9 @@
 {{ $urlString := "" }}
 
-{{ if .URL }}
-  {{ $urlString = .URL }}
-{{ else if .DOI }}
+{{ if .DOI }}
   {{ $urlString = (print "https://doi.org/" .DOI) }}
+{{ else if .URL }}
+  {{ $urlString = .URL }}
 {{ else if .isbn }}
   {{ $urlString = (print "https://worldcat.org/search?q=" .isbn )}}
 {{ end }}
