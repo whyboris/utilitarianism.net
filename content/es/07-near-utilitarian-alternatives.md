@@ -174,7 +174,7 @@ El siguiente capítulo analiza varias de las objeciones más importantes al util
 
     Esto supone que el prioritarismo adopta una forma _ex post_. Para objeciones al prioritarismo _ex ante_, véase {{< cite Gustafsson2022ExAntePrioritarianism >}}
 [^10]: {{< cite Greene2001IntuitionsDecliningMarginal >}}
-[^11]: Cf. {{< cite Greene2013MoralTribes "chap. 10" >}}
+[^11]: Cf. {{< cite Greene2013MoralTribes "cap. 10" >}}
 [^12]: Nótese que no se trata de la afirmación empírica de que la felicidad tendría mayores beneficios (instrumentales) para la persona más desfavorecida, por ejemplo, por inducirle un estado de ánimo más positivo. Eso puede ser cierto o no, pero si lo fuera, lo tendrían en cuenta incluso los utilitaristas tradicionales. No: los utilitaristas de bienes básicos decrecientes hacen la afirmación normativa más radical de que la misma cantidad de placer _constituye_ inherentemente un mayor beneficio _intrínseco_ para la persona más desfavorecida. El placer _en sí mismo_ supone una mayor diferencia para su bienestar, en el sentido de que tenemos razones prudenciales para preferir con más fuerza un aumento de tamaño fijo de nuestro placer o felicidad cuando estamos peor.
 [^13]: Una posible excepción podría ser que, si se diera una prioridad _extrema_ a los más desfavorecidos, esto podría llevar a destinar recursos de forma ineficiente a poblaciones de difícil acceso o difíciles de ayudar para obtener beneficios mínimos, cuando los utilitaristas recomendarían en cambio utilizar esos recursos para obtener mayores beneficios para un mayor número de personas (posiblemente en una situación ligeramente mejor).
 [^14]:
