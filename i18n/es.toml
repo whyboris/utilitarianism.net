@@ -98,3 +98,5 @@
   other = "Reproducir grabación de audio del contenido"
 [pdf.download]
   other = "Descargar como PDF"
+[toc]
+  other = "Índice"

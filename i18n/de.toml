@@ -98,3 +98,5 @@
   other = "Audioversion abspielen"
 [pdf.download]
   other = "Als PDF speichern"
+[toc]
+  other = "Inhaltsverzeichnis"

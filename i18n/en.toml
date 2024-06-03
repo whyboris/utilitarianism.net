@@ -98,3 +98,5 @@
   other = "Play audio recording of content"
 [pdf.download]
   other = "Download as PDF"
+[toc]
+  other = "Table of Contents"
