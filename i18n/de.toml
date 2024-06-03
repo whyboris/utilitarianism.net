@@ -56,6 +56,8 @@
   other = "Einführung in den Utilitarismus"
 [cite.and]
   other = " und" # note the space before `und` is on purpose
+[cite.in]
+  other = "In" # used "In R.Y. Chappell, ..."
 [cite.how-to-cite]
   other = "Diese Seite zitieren"
 [cite.editors-abbreviation]
