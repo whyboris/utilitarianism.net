@@ -1,7 +1,7 @@
 ---
 title: "Alternativas cercanas al utilitarismo"
 slug: "alternativas-cercanas-al-utilitarismo"
-authors: "Chappell, R.Y. and Meissner, D."
+authors: "Chappell, R.Y. y Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "main"

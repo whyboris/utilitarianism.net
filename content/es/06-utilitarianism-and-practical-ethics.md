@@ -1,7 +1,7 @@
 ---
 title: "Utilitarismo y ética práctica"
 slug: "utilitarismo-y-etica-practica"
-authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
+authors: "MacAskill, W., Meissner, D., y Chappell, R.Y."
 date: 2023-01-29
 draft: false
 menu: "main"
