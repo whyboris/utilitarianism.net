@@ -160,6 +160,15 @@ All languages are accessible during development, each has its own link when you 
 
 _Note:_ PDF filenames in German have some replacements: `ü` -> `ue`, `ß` -> `ss`, `ä` -> `a`, `ó` -> `o`, `É` -> `E`, `é` -> `e`, `í` -> `i`; while `“` & `„` are removed -- all so that PDFs are accessible when the link is clicked. See `move-pdf.js` and `PDF.html` (both of which need identical replacement rules).
 
+### Audio
+
+Until the audio is ready and set up, we can set `hideAudio` to be true in `config.toml`
+
+```toml
+    [languages.es.params]
+      hideAudio = true
+```
+
 ### Bibliography
 
 For our _Spanish_ version of the website, we generate citations with `hugo-cite` automatically, but we need the `bib` file:

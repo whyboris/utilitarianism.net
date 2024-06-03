@@ -4,7 +4,7 @@ date: 2023-01-29
 draft: false
 menu: "quotes"
 weight: 1
-hideaudio: true
+hideAudio: true
 ---
 
 {{< TOC unordered="true">}}
