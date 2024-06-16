@@ -19,6 +19,7 @@
   {{ $myVar11 := replace $myVar10 "É" "E" }}
   {{ $myVar12 := replace $myVar11 "é" "e" }}
   {{ $myVar13 := replace $myVar12 "í" "i" }}
+  {{ $myVar14 := replace $myVar13 "á" "a" }}
 
 <div id="player-container" class="audio-player">
 
@@ -43,7 +44,7 @@
 
 <div class="pdf-download">
 
-  <a href="/pdf/{{ $myVar13 }}.pdf">
+  <a href="/pdf/{{ $myVar14 }}.pdf">
     <img
       src="/img/pdf.svg"
       class="pdf-icon"
