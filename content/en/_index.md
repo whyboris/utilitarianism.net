@@ -34,7 +34,7 @@ The original and most influential version of utilitarianism is _classical utilit
 
 <div class="homepage-center">
 
-## Introduction to Utilitarianism: An Online Textbook
+## An Introduction to Utilitarianism: An Online Textbook
 
 This website aims to provide a concise, accessible and engaging introduction to modern utilitarianism, functioning as an online textbook targeted at the undergraduate level. The content of this website aims to be understandable to a broad audience, avoiding philosophical jargon where possible and providing definitions where necessary.
 
@@ -98,7 +98,7 @@ Addressing these problems may involve [donating generously to effective charitie
 
 ## Who We Are
 
-This website was written by [Richard Yetter Chappell](http://yetterchappell.net/Richard/), [Darius Meissner](https://www.linkedin.com/in/darius-meissner/), and [William MacAskill](http://www.williammacaskill.com/). Richard is an Associate Professor in Philosophy at the University of Miami and holds a PhD from Princeton University. Darius holds a degree in Philosophy, Politics and Economics from the University of Oxford and currently studies for a graduate degree at Georgetown University. William is an Associate Professor in Philosophy and Senior Research Fellow at the [Global Priorities Institute](https://globalprioritiesinstitute.org/) at the University of Oxford.
+This website was written by [Richard Yetter Chappell](http://yetterchappell.net/Richard/), [Darius Meissner](https://www.linkedin.com/in/darius-meissner/), and [William MacAskill](http://www.williammacaskill.com/). Richard is an Associate Professor in Philosophy at the University of Miami and holds a PhD from Princeton University. Darius holds a degree in Philosophy, Politics and Economics from the University of Oxford and an M.A. in Security Studies from Georgetown University. William is an Associate Professor in Philosophy and Senior Research Fellow at the [Global Priorities Institute](https://globalprioritiesinstitute.org/) at the University of Oxford.
 
 We're proud to have secured [endorsements](/about#endorsements) from prominent scholars, including at Harvard University, Princeton University, and New York University.
 
