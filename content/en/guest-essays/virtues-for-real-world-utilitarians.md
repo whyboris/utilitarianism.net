@@ -170,7 +170,7 @@ _A longer version of this article can be found [here](https://psyarxiv.com/w52zm
      text="Lucius Caviola"
      noabout=true >}}
 
-[**Lucius Caviola**](http://luciuscaviola.com/) is an experimental psychologist at Harvard University with a PhD from the University of Oxford. He studies the moral biases that prevent us from maximizing social welfare and develops strategies that could help us improve.
+[**Lucius Caviola**](http://luciuscaviola.com/) is a Senior Research Fellow at the Global Priorities Institute, University of Oxford. He specializes in moral psychology and is the co-author of _Effective Altruism and the Human Mind_ (Oxford University Press, 2024).
 
 ---
 
