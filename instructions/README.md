@@ -40,7 +40,7 @@ _Please read:_ **Terminal** is a tool you use to make your computer execute comm
          - `scoop install hugo-extended@0.124.0`
       - _Chocolatey_ (alternative)
          - Install [Chocolatey](https://chocolatey.org/), then
-         - `choco install hugo-extended --version=0.124.0`
+         - `choco install hugo-extended --version=0.134.0`
 3. Install [Just](https://github.com/casey/just)
    - _Mac_: `brew install just`
    - _Windows_: `scoop install just`
