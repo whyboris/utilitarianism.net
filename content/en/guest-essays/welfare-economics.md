@@ -111,6 +111,8 @@ Even short of accepting the compelling utilitarian result shown in the previous 
 - TÄNNSJÖ, Torbjörn (1998). _Hedonistic Utilitarianism_. Edinburgh: Edinburgh University Press/Columbia University Press.
 - WATSON, John B. (1913). Psychology as the behaviorist views it. _Psychological Review,_ 20.2: 158-177. [https://doi.org/10.1037/h0074428](https://psycnet.apa.org/doi/10.1037/h0074428)
 
+{{< guest-essays true >}}
+
 [^1]:
      For simplicity, I ignore in this paper the possible divergences between utility/preference and happiness/welfare, as may be due to: ignorance or imperfect foresight, a concern for others, irrationality; see Ng (1999) for details.
 
