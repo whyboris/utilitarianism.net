@@ -41,11 +41,11 @@ More precisely, implementing EUM involves three things:
 
 We can think of EUM via a “skyscraper” model, which represents the relative likelihood of different events as the relative area in a square. The decision between charities A and B above can be represented as:
 
-![Image 1](/img/guest/image1.png "Image 1")
+![Image 1](/img/guest/maximization1.png "Image 1")
 
 Utilities, then, behave like an extra dimension. We multiply our two-dimensional square base by a utility, which acts like “height,” to create a three-dimensional object—one that looks like a skyscraper.
 
-![Image 2](/img/guest/image2.png "Image 2")
+![Image 2](/img/guest/maximization2.png "Image 2")
 
 In this model, possible outcomes can be represented as three-dimensional skyscrapers. The base size of each skyscraper represents its relative probability, and its height represents value: how good it would be if this outcome were realized. Each action maps to a cityscape representing the full range of possible outcomes associated with the action. According to EUM, we should choose the action with the greatest total volume in its cityscape, regardless of how condensed or dispersed a form this takes.
 
@@ -102,7 +102,7 @@ To see this, consider **Case 1**:
 
 In this case, it seems intuitively plausible that we should prefer C, just as EUM recommends. Importantly, we don’t think that choosing C “predictably loses”: a 50% chance of winning represents decent odds. In the two-dimensional skyscraper diagram below, the blue-shaded area represents the expected utility of a choice and the gray-shaded area represents no utility. (Note that the composite skyscraper for C is obtained by combining the two possible outcomes, taking 50% of the weighting from each.)
 
-![Image 3](/img/guest/image3.png "Image 3")
+![Image 3](/img/guest/maximization3.png "Image 3")
 
 Next, consider **Case 2**:
 
@@ -112,7 +112,7 @@ Next, consider **Case 2**:
 
 As before, it seems reasonable to prefer E over D: it has greater expected value, and the chance of success—at 50%—remains tolerably high.
 
-![Image 4](/img/guest/image4.png "Image 4")
+![Image 4](/img/guest/maximization4.png "Image 4")
 
 Now let us consider **Case 3**:
 
@@ -122,7 +122,7 @@ Now let us consider **Case 3**:
 
 While F offers a higher expected value, you might not like the idea of a 75% chance of saving no one at all. But even if you don't trust the guidance of expected value, we can argue that if you prefer C to A, and E to D, you should prefer F to A.
 
-![Image 5](/img/guest/image5.png "Image 5")
+![Image 5](/img/guest/maximization5.png "Image 5")
 
 The probability of saving 15 lives with F can be represented as a single probability, 25%, or as two separate coin flips. We can break this up into two separate choices for illustration.
 
@@ -132,7 +132,7 @@ Now, I offer you a second bet, analogous to **Case 2**. Your ticket, while origi
 
 We're already supposing that you prefer E over D. So you take the bet. By sequentially choosing C, then E, you have effectively chosen F over A.
 
-![Image 6](/img/guest/image6.png "Image 6")
+![Image 6](/img/guest/maximization6.png "Image 6")
 
 Choosing F predictably loses, because we only get double heads 25% of the time. But framed as sequential choices, this becomes more palatable and intuitive. This is because choosing F is the same as choosing E-_given-the-first-coin-is-heads._ And you were already willing to bet on the first coin landing heads, in preferring C to A.
 
@@ -160,7 +160,7 @@ The captain is still a gambling man, so he offers up option B as well. Rather th
 
 Suppose the pirate captain chooses _ball 1_ as the specific ball that, if chosen, saves all 1000 people. Bob is saved if ball 1 is picked because everyone is saved. Now suppose we instead save Bob if ball 2 is picked, and everyone else if ball 1 is picked, and no one if balls 3-100 are picked. Similar to the coin flip situation above, Bob shouldn't care what ball saves him; he has a 1% chance of being saved in both cases because the odds of a particular ball being chosen is identical for all balls.
 
-![Image 7](/img/guest/image7.png "Image 7")
+![Image 7](/img/guest/maximization7.png "Image 7")
 
 Similarly, we can move other people to different balls with the underlying odds and payoffs staying the same: Sally to ball 3, John to ball 4, and so on. We have 1000 people on the island and 100 balls, so we repeat this procedure until there are 10 people for each ball. Let’s call this option B’ (pronounced bee-prime).
 
