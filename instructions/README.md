@@ -26,7 +26,7 @@ _Please read:_ **Terminal** is a tool you use to make your computer execute comm
    - _Mac_: you can use the default _terminal_ that comes with the OS
       - or consider [Hyper](https://hyper.is)
    - _Windows_: you can use _Git Bash_ which is installed when you install _git_ or _Powershell_ that is part of the OS
-      - or consider [FluentTerminal](https://github.com/felixse/FluentTerminal) or [Tabby](https://github.com/Eugeny/tabby))
+      - or consider [FluentTerminal](https://github.com/felixse/FluentTerminal) or [Tabby](https://github.com/Eugeny/tabby)
       - if some installation below fails, you may need to try the command using _Powershell_
          - _unlikely_, but if you see an error about "administrator" something, try running _Powershell_ as an _administrator_ (right-click the icon in the _Start_ menu and "Run as administrator")
 
@@ -37,7 +37,7 @@ _Please read:_ **Terminal** is a tool you use to make your computer execute comm
    - _Windows_:
       - _Scoop_ (recommended)
          - Install [Scoop](https://scoop.sh/), then
-         - `scoop install hugo-extended@0.124.0`
+         - `scoop install hugo-extended@0.134.0`
       - _Chocolatey_ (alternative)
          - Install [Chocolatey](https://chocolatey.org/), then
          - `choco install hugo-extended --version=0.134.0`
