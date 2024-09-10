@@ -10,7 +10,7 @@ weight: 15
 layout: "book"
 image: "/img/essays/buddhism.jpg"
 imageCaption: "Utilitarianism and Voting"
-summary: This article ...
+summary: "This essay discusses the value of voting from a utilitarian perspective. It explores how to estimate the chance of casting a decisive vote, how to think about the stakes of an election, and whether we can reliably identify which candidate is better."
 ---
 
 {{< guest-disclaimer >}}
@@ -100,7 +100,7 @@ So far, we have assumed that you, the voter, are utilitarian in your values. If 
 
 > _Some argue that if you are a pure altruist (you value a random stranger’s interests equally with your own), then the expected benefit of voting can still be larger than the cost (in terms of the time & effort it takes to vote). This is correct. The probability of affecting the outcome is very small, but if it happens, you’ll have a large total effect on society, since the President affects a lot. However... This only works if you are way more altruistic than, I believe, any actual human being is. I think the typical human values his own life at least thousands of times more than that of a stranger, and maybe millions or billions of times more._
 
-Of course, this worry does not necessarily undermine the _moral_ case for voting. But it threatens to undermine the _rational _case for voting, since it suggests that no one will actually have the relatively impartial motivational profile the argument assumes.
+Of course, this worry does not necessarily undermine the _moral_ case for voting. But it threatens to undermine the _rational_ case for voting, since it suggests that no one will actually have the relatively impartial motivational profile the argument assumes.
 
 Since you’re currently reading an essay on utilitarianism.net, you may be somewhat more optimistic about the possibility of pure altruism than Huemer is. But even if we grant that no human being is perfectly altruistic all of the time, I believe that people often strive to (and sometimes do) engage in politics in broadly altruistic ways, which are reflective of giving equal consideration to everyone’s interests.
 

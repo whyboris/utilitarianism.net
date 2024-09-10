@@ -10,7 +10,7 @@ weight: 13
 layout: "book"
 image: "/img/essays/buddhism.jpg"
 imageCaption: "Expected Utility Maximization"
-summary: This article ...
+summary: "Expected Utility Maximization directs us to weigh the value associated with each possible outcome by its probability, yielding an overall expected value. This essay explains Expected Utility Maximization as a decision theory and defends its most distinctive feature: that it can advise us to choose options that will predictably lose."
 ---
 
 {{< guest-disclaimer >}}
@@ -198,11 +198,9 @@ We often don’t like to think about it because thinking of trade-offs brings to
 
 Expected Utility Maximization is about achieving consistency and harmony in your decisions and dispositions. You could coherently value any number of different things. But once you've determined that you'd rather take a 50% shot at Y than a certainty of X, you've already decided that you value Y at least twice as much as X. And if you'd rather have a 50% shot at Z than a certainty of Y, you value Z at least twice as much as Y. At this point, your values no longer make sense if you suddenly prefer the certainty of X over a 25% shot at Z.
 
-If you simply [value everyone's well-being equally](https://www.utilitarianism.net/types-of-utilitarianism/#impartiality-and-the-equal-consideration-of-interests), as utilitarianism does, then [maximizing expected well-being](https://www.utilitarianism.net/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism) is one plausible approach to acting in the face of uncertainty (though it comes with a variety of theoretical difficulties that haven’t been discussed here).[^6] But even if your values differ from those of utilitarians, you may still find that you seek to maximize the expectation of _some_ or other (possibly quite rich and complicated) set of values, or else you fail to have coherent values at all.
+If you simply [value everyone's well-being equally](https://www.utilitarianism.net/types-of-utilitarianism/#impartiality-and-the-equal-consideration-of-interests), as utilitarianism does, then [maximizing expected well-being](https://www.utilitarianism.net/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism) is one plausible approach to acting in the face of uncertainty (though it comes with a variety of theoretical difficulties that haven’t been discussed here).[^6] But even if your values differ from those of utilitarians, you may still find that you seek to maximize the expectation of _some_ or other (possibly quite rich and complicated) set of values, or else you fail to have coherent values at all.[^7]
 
 ---
-
-[^7]
 
 <h2>About the Authors</h2>
 

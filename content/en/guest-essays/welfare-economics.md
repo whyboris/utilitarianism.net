@@ -10,7 +10,7 @@ weight: 14
 layout: "book"
 image: "/img/essays/buddhism.jpg"
 imageCaption: "Welfare Economics and Interpersonal Utility Comparisons"
-summary: This article ...
+summary: "Many students of economics and philosophy have been puzzled by whether utility is cardinally or only ordinally measurable, and whether interpersonal comparisons of utility are possible in principle and in practice. This essay attempts to answer these questions, using simple arguments understandable by most students in economics and philosophy."
 ---
 
 {{< guest-disclaimer >}}
@@ -93,23 +93,23 @@ Even short of accepting the compelling utilitarian result shown in the previous 
 
 ## References
 
-- ARGENZIANO, Rossella & Itzhak GILBOA (2019). Perception-theoretic foundations of weighted Utilitarianism. _The Economic Journal_, **129** (_May_), 1511–1528 DOI: 10.1111/ecoj.12622
-- CHOMSKY, N. (1959). A review of BF Skinner's Verbal Behavior. _Language_, _35_(1): 26-58.
-- DOMINKO, M. & VERBIČ, M. (2019). The economics of subjective well-being: A bibliometric analysis. _Journal of Happiness Studies_, 20(6): 1973–1994. https://doi.org/10.1007/s10902-018-0022-z
-- EASTERLIN, Richard A. (1974). Does economic growth improve the human lot? Some empirical evidence. In _Nations and Households in Economic Growth: Essays in Honor of Moses Abramovitz_  (pp. 89-125). Academic press.
-- EDGEWORTH, Francis Y. (1881). _Mathematical Psychics: An Essay on the Application of Mathematics to the Moral Sciences_. London: C. Kegan Paul & Co.
-- NG, Yew-Kwang (1975). Bentham or Bergson? Finite sensibility, utility functions, and social welfare functions. _Review of Economic Studies_, 42:545-70.
-- NG, Yew-Kwang (1999). Utility, informed preference, or happiness? Following Harsanyi's argument to its logical conclusion. _Social Choice and Welfare_, 16(2): 197-216.
-- NG, Yew-Kwang （2022). _Happiness: Concept, Measurement, and Promotion_, Springer, **open access** at: [https://link.springer.com/book/10.1007/978-981-33-4972-8](https://link.springer.com/book/10.1007/978-981-33-4972-8)
-- NG, [Yew-Kwang](https://www.worldscientific.com/doi/10.1142/S0217590824450012) (2024). [Utilitarianism: Overcoming the difficulty of interpersonal comparison](https://www.worldscientific.com/doi/full/10.1142/S0217590824450012), _[Singapore Economic Review](https://www.worldscientific.com/worldscinet/ser)_, online published only so far.
+- Argenziano, Rossella & Itzhak Gilboa (2019). Perception-theoretic foundations of weighted Utilitarianism. _The Economic Journal_, **129** (_May_), 1511–1528 DOI: 10.1111/ecoj.12622
+- Chomsky, N. (1959). A review of BF Skinner's Verbal Behavior. _Language_, _35_(1): 26-58.
+- Dominko, M. & Verbič, M. (2019). The economics of subjective well-being: A bibliometric analysis. _Journal of Happiness Studies_, 20(6): 1973–1994. https://doi.org/10.1007/s10902-018-0022-z
+- Easterlin, Richard A. (1974). Does economic growth improve the human lot? Some empirical evidence. In _Nations and Households in Economic Growth: Essays in Honor of Moses Abramovitz_  (pp. 89-125). Academic press.
+- Edgeworth, Francis Y. (1881). _Mathematical Psychics: An Essay on the Application of Mathematics to the Moral Sciences_. London: C. Kegan Paul & Co.
+- Ng, Yew-Kwang (1975). Bentham or Bergson? Finite sensibility, utility functions, and social welfare functions. _Review of Economic Studies_, 42:545-70.
+- Ng, Yew-Kwang (1999). Utility, informed preference, or happiness? Following Harsanyi's argument to its logical conclusion. _Social Choice and Welfare_, 16(2): 197-216.
+- Ng, Yew-Kwang (2022). _Happiness: Concept, Measurement, and Promotion_, Springer, **open access** at: [https://link.springer.com/book/10.1007/978-981-33-4972-8](https://link.springer.com/book/10.1007/978-981-33-4972-8)
+- Ng, [Yew-Kwang](https://www.worldscientific.com/doi/10.1142/S0217590824450012) (2024). [Utilitarianism: Overcoming the difficulty of interpersonal comparison](https://www.worldscientific.com/doi/full/10.1142/S0217590824450012), _[Singapore Economic Review](https://www.worldscientific.com/worldscinet/ser)_, online published only so far.
 - [https://doi.org/10.1142/S0217590824450012](https://doi.org/10.1142/S0217590824450012)
-- NG, Yew-Kwang & SINGER, Peter (1981). An argument for utilitarianism, _Canadian Journal of Philosophy_, 11: 229-239.
-- PARETO, Vilfredo (1906/1971). _Manual of Political Economy_ (trans A.S. Schwier, 1971).
-- ROBBINS, Lionel (1932). _An Essay on the Nature and Significance of Economic Science._ Macmillan, London.
-- ROBBINS, Lionel (1938). Interpersonal comparison of utility: a comment, _Economic Journal_, 48: 635-641.
--  SKINNER, Burrhus Frederick (1957)._Verbal Behavior._ Acton, Massachusetts: Copley Publishing Group. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-1-58390-021-5](https://en.wikipedia.org/wiki/Special:BookSources/978-1-58390-021-5).
-- TÄNNSJÖ, Torbjörn (1998). _Hedonistic Utilitarianism_. Edinburgh: Edinburgh University Press/Columbia University Press.
-- WATSON, John B. (1913). Psychology as the behaviorist views it. _Psychological Review,_ 20.2: 158-177. [https://doi.org/10.1037/h0074428](https://psycnet.apa.org/doi/10.1037/h0074428)
+- Ng, Yew-Kwang & Singer, Peter (1981). An argument for utilitarianism, _Canadian Journal of Philosophy_, 11: 229-239.
+- Pareto, Vilfredo (1906/1971). _Manual of Political Economy_ (trans A.S. Schwier, 1971).
+- Robbins, Lionel (1932). _An Essay on the Nature and Significance of Economic Science._ Macmillan, London.
+- Robbins, Lionel (1938). Interpersonal comparison of utility: a comment, _Economic Journal_, 48: 635-641.
+- Skinner, Burrhus Frederick (1957)._Verbal Behavior._ Acton, Massachusetts: Copley Publishing Group. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-1-58390-021-5](https://en.wikipedia.org/wiki/Special:BookSources/978-1-58390-021-5).
+- Tännsjö, Torbjörn (1998). _Hedonistic Utilitarianism_. Edinburgh: Edinburgh University Press/Columbia University Press.
+- Watson, John B. (1913). Psychology as the behaviorist views it. _Psychological Review,_ 20.2: 158-177. [https://doi.org/10.1037/h0074428](https://psycnet.apa.org/doi/10.1037/h0074428)
 
 {{< guest-essays true >}}
 
