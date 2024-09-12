@@ -10,7 +10,7 @@ menu: "guest"
 weight: 3
 image: "/img/essays/expected-utility.jpg"
 imageCaption: "Moral Psychology and Utilitarianism"
-summary: "Expected Utility Maximization directs us to weigh the value associated with each possible outcome by its probability, yielding an overall expected value. This essay explains Expected Utility Maximization as a decision theory and defends its most distinctive feature: that it can advise us to choose options that will predictably lose."
+summary: "This essay ..."
 ---
 
 {{< guest-disclaimer >}}
@@ -20,7 +20,6 @@ summary: "Expected Utility Maximization directs us to weigh the value associated
 According to [utilitarianism](https://utilitarianism.net/introduction-to-utilitarianism/), we should improve the lives of humans [and other sentient beings](https://utilitarianism.net/guest-essays/utilitarianism-and-nonhuman-animals/) as much as possible. As an abstract ideal, utilitarianism has a natural appeal and may even sound like simple common sense. But utilitarianism has some implications—some merely theoretical, some very practical—that are [counter-intuitive](https://utilitarianism.net/objections-to-utilitarianism/). When utilitarianism runs counter to our moral intuitions, is that because of a problem with utilitarianism or with our moral intuitions?
 
 In this article, we discuss the different[^1][^2] ways in which human moral psychology and behavior deviate from what utilitarianism prescribes. We focus on psychological deviations from key aspects of utilitarianism: [impartiality](https://utilitarianism.net/types-of-utilitarianism/#impartiality-and-the-equal-consideration-of-interests), [maximization](https://utilitarianism.net/types-of-utilitarianism/#reconstructing-rightness-maximizing-satisficing-and-scalar-utilitarianism), [consequentialism](https://utilitarianism.net/types-of-utilitarianism/#consequentialism), and [aggregate-welfarist values](https://utilitarianism.net/types-of-utilitarianism/#welfarism). Finally, we consider the normative implications of psychological science for utilitarianism. We conclude that the science of morality cannot show that utilitarianism is correct but that it can cast doubt on certain intuitive arguments against utilitarianism.
-
 
 ## Deviations from Impartiality
 
