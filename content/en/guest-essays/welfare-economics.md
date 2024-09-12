@@ -2,7 +2,7 @@
 title: "Welfare Economics and Interpersonal Utility Comparisons"
 book: "Welfare Economics and Interpersonal Utility Comparisons"
 date: 2024-09-01
-author: Yew-Kwang Ng
+author: "Yew-Kwang Ng"
 authors: "Yew-Kwang Ng"
 draft: false
 layout: "book"

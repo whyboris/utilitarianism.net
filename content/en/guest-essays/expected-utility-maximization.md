@@ -2,7 +2,7 @@
 title: "Expected Utility Maximization"
 book: "Expected Utility Maximization"
 date: 2024-09-01
-author: Joe Carlsmith & Vikram Balasubramanian
+author: "Joe Carlsmith & Vikram Balasubramanian"
 authors: "Carlsmith J., Balasubramanian, V."
 draft: false
 layout: "book"

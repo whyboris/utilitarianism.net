@@ -2,7 +2,7 @@
 title: "Utilitarianism and Voting"
 book: "Utilitarianism and Voting"
 date: 2024-09-01
-author: Zach Barnett
+author: "Zach Barnett"
 authors: "Barnett, Z."
 draft: false
 layout: "book"

@@ -2,7 +2,7 @@
 title: "The Time-Relative Account of Interests"
 book: "The Time-Relative Account of Interests"
 date: 2023-09-01
-author: Jeff McMahan
+author: "Jeff McMahan"
 authors: "McMahan, J."
 draft: false
 layout: "book"

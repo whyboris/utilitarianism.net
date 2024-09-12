@@ -2,7 +2,7 @@
 title: "Buddhism and Utilitarianism"
 book: "Buddhism and Utilitarianism"
 date: 2023-01-29
-author: Calvin Baker
+author: "Calvin Baker"
 authors: "Baker, C."
 draft: false
 layout: "book"
@@ -10,7 +10,7 @@ menu: "guest"
 weight: 8
 image: "/img/essays/buddhism.jpg"
 imageCaption: "Buddhism and Utilitarianism"
-summary: This article analyses the extent to which elements of utilitarianism can be found within (i) the Early Buddhist tradition, and (ii) classical Indian Mahāyāna Buddhism. It then explores a Buddhist perspective on well-being, and concludes by comparing Engaged Buddhism to effective altruism.
+summary: "This article analyses the extent to which elements of utilitarianism can be found within (i) the Early Buddhist tradition, and (ii) classical Indian Mahāyāna Buddhism. It then explores a Buddhist perspective on well-being, and concludes by comparing Engaged Buddhism to effective altruism."
 ---
 
 {{< guest-disclaimer >}}
