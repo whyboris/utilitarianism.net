@@ -24,6 +24,10 @@
   padding: 0 !important;
   text-align: left;
 
+  .footnote-backref {
+    display: none;
+  }
+
   a {
     word-break: break-word;
   }
