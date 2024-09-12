@@ -5,9 +5,9 @@ date: 2023-01-29
 author: Stefan Schubert & Lucius Caviola
 authors: "Schubert, S., & Caviola, L."
 draft: false
+layout: "book"
 menu: "guest"
 weight: 3
-layout: "book"
 image: "/img/essays/real-world.jpg"
 imageCaption: "Virtues for Real-World Utilitarians"
 summary: This article discusses how utilitarians should go about applying their philosophy in the real world. It argues that utilitarians should cultivate a set of utilitarian virtues, including moderate altruism, moral expansiveness, effectiveness-focus, truth-seeking, collaborativeness, and determination.
