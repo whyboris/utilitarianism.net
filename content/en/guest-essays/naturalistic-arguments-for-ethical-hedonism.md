@@ -6,7 +6,7 @@ author: Neil Sinhababu
 authors: "Sinhababu, N."
 draft: false
 menu: "guest"
-weight: 6
+weight: 12
 layout: "book"
 image: "/img/essays/hedonism.jpg"
 imageCaption: "Naturalistic Arguments for Ethical Hedonism"

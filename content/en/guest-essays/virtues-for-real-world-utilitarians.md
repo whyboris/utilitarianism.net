@@ -6,7 +6,7 @@ author: Stefan Schubert & Lucius Caviola
 authors: "Schubert, S., & Caviola, L."
 draft: false
 menu: "guest"
-weight: 2
+weight: 3
 layout: "book"
 image: "/img/essays/real-world.jpg"
 imageCaption: "Virtues for Real-World Utilitarians"

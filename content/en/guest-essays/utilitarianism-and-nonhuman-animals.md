@@ -6,7 +6,7 @@ author: Jeff Sebo
 authors: "Sebo, J."
 draft: false
 menu: "guest"
-weight: 1
+weight: 2
 layout: "book"
 image: "/img/essays/animals.jpg"
 imageCaption: "Utilitarianism and Nonhuman Animals"

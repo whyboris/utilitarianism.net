@@ -6,7 +6,7 @@ author: Calvin Baker
 authors: "Baker, C."
 draft: false
 menu: "guest"
-weight: 3
+weight: 8
 layout: "book"
 image: "/img/essays/buddhism.jpg"
 imageCaption: "Buddhism and Utilitarianism"

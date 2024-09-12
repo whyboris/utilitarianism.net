@@ -6,7 +6,7 @@ author: Sharon Hewitt Rawlette
 authors: "Rawlette, S.H."
 draft: false
 menu: "guest"
-weight: 5
+weight: 13
 layout: "book"
 image: "/img/essays/feeling-of-value.jpg"
 imageCaption: "The Feeling of Value Book"
