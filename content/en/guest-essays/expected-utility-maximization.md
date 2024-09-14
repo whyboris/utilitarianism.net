@@ -21,7 +21,7 @@ This essay was adapted (with permission) from two of [Joe Carlsmith's essays on 
 
 ## On Expected Utility
 
-Decision theories aim to tell us how to respond to uncertainty; in particular, how to make our decisions in a coherent and consistent manner across similar situations. [Expected Utility Maximization](https://plato.stanford.edu/entries/rationality-normative-utility/) (EUM) directs us to weigh the potential value (or _utility_) of an outcome by its _probability_, yielding an expected value (or _expected utility_). If we take [impartial](https://www.utilitarianism.net/types-of-utilitarianism/#impartiality-and-the-equal-consideration-of-interests) [welfarism](https://www.utilitarianism.net/types-of-utilitarianism/#welfarism) to constitute the relevant values, then applying EUM as a decision theory leads us to [expectational utilitarianism](https://www.utilitarianism.net/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism). But the underlying decision theory is more general, and could also be applied to other, non-utilitarian values. This essay explains Expected Utility Maximization as a decision theory and defends its most distinctive feature: that it can advise us to choose options that will predictably lose.
+Decision theories aim to tell us how to respond to uncertainty; in particular, how to make our decisions in a coherent and consistent manner across similar situations. [Expected Utility Maximization](https://plato.stanford.edu/entries/rationality-normative-utility/) (EUM) directs us to weigh the potential value (or _utility_) of an outcome by its _probability_, yielding an expected value (or _expected utility_). If we take [impartial](/types-of-utilitarianism/#impartiality-and-the-equal-consideration-of-interests) [welfarism](/types-of-utilitarianism/#welfarism) to constitute the relevant values, then applying EUM as a decision theory leads us to [expectational utilitarianism](/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism). But the underlying decision theory is more general, and could also be applied to other, non-utilitarian values. This essay explains Expected Utility Maximization as a decision theory and defends its most distinctive feature: that it can advise us to choose options that will predictably lose.
 
 Intuitively, we understand that any decision comes with pros and cons, which have a certain probability of occurring. As implied by the name, EUM tells the decisionmaker to choose the decision that has the greatest expected value. We calculate the expected value by adding up the value of each decision-path and multiplying by the probability of the event occurring.
 
@@ -65,7 +65,7 @@ However, in real-life scenarios, we can’t repeat things infinitely many times,
 
 The basic argument for EUM is that it [does well in the long run](https://plato.stanford.edu/entries/rationality-normative-utility/#LonRunArg), but this isn't guaranteed: sometimes failures are correlated. Recall Charity B's oral medication: it's not that it saves everyone in 1% of trials. Rather, there's a 1% chance that it _always_ works, and a 99% chance that it _never_ does. In the latter case, people could choose B over and over, and never save anyone.
 
-In other cases, repetition is not even an option. Consider the decision of [what career to pursue](https://www.utilitarianism.net/acting-on-utilitarianism/#career-choice) if your goal is to do the most good. Sure, you can change careers, but only a limited number of times. You only have one life. One shot. And it can be difficult to get real-world feedback about the actual value of your career, so decisions to change careers often rest on ambiguous evidence.
+In other cases, repetition is not even an option. Consider the decision of [what career to pursue](/acting-on-utilitarianism/#career-choice) if your goal is to do the most good. Sure, you can change careers, but only a limited number of times. You only have one life. One shot. And it can be difficult to get real-world feedback about the actual value of your career, so decisions to change careers often rest on ambiguous evidence.
 
 So, you could choose to spend your life working on curing a rare genetic disease, working in finance to “[earn to give](https://80000hours.org/articles/earning-to-give/)”, or working for Oxfam. These all have different utilities and different probabilities of actually making a difference. You might not ever find a cure for the disease or become a successful stockbroker who can donate a lot of money.
 
@@ -86,7 +86,7 @@ Let’s continue to use the following example throughout the next section:
 >
 > Choice B: Save all 1,000 lives with a 1% chance.
 
-One reason it might be right to choose B (even if you predictably lose), is because the payoff if you win _is just that important_. One thousand lives, while hard to conceptualize, is 1,000 times more important than one life. A career spent [working to prevent existential risks](https://utilitarianism.net/acting-on-utilitarianism/#existential-risk-reduction)—even when the probability of catastrophe is low—can be worthwhile because the future is _[that precious](https://joecarlsmith.com/2021/03/22/on-future-people-looking-back-at-21st-century-longtermism)_ and the cost of catastrophe is _that high_.
+One reason it might be right to choose B (even if you predictably lose), is because the payoff if you win _is just that important_. One thousand lives, while hard to conceptualize, is 1,000 times more important than one life. A career spent [working to prevent existential risks](/acting-on-utilitarianism/#existential-risk-reduction)—even when the probability of catastrophe is low—can be worthwhile because the future is _[that precious](https://joecarlsmith.com/2021/03/22/on-future-people-looking-back-at-21st-century-longtermism)_ and the cost of catastrophe is _that high_.
 
 It’s a hard bullet to bite, so in the next sections, we’ll provide some tools for bringing this argument into focus.
 
@@ -170,13 +170,13 @@ In skyscraper terms, what we’re doing here is taking floors off of the top of 
 
 ### What would everyone prefer?
 
-Here’s a final argument for B over A, analogous to [the “veil of ignorance”](https://utilitarianism.net/arguments-for-utilitarianism/#the-veil-of-ignorance). Suppose that 1,000 people are drowning. Option A saves one random person with certainty, and option B saves everyone with a 1% chance.
+Here’s a final argument for B over A, analogous to [the “veil of ignorance”](/arguments-for-utilitarianism/#the-veil-of-ignorance). Suppose that 1,000 people are drowning. Option A saves one random person with certainty, and option B saves everyone with a 1% chance.
 
 Under A, each person has a 0.1% chance of surviving, whereas under B, each individual has a 1% chance of being saved. So everyone drowning wants you to choose B: it maximizes their individual chances of survival.
 
 In this scenario, choosing option B is surely the correct choice. Choosing A—saving a random person’s life at the cost of making everyone 10 times less likely to survive—no longer sounds so heroic.
 
-This argument doesn't apply if it is fixed in advance which of the 1,000 people option A would save. _That_ person would then be straightforwardly better off under A. But there are reasons to think that version of the case is distorting. After all, it shouldn't really matter _who_ is saved. Giving everyone an equal 1/1,000 chance of being the one saved cannot be morally _worse_ than giving all of the chances to one arbitrary person—to think otherwise would violate the [equal consideration of interests](https://www.utilitarianism.net/types-of-utilitarianism/#impartiality-and-the-equal-consideration-of-interests). And we've seen that a 1% chance of saving all 1,000 lives is better than giving a 1/1,000 chance to each. So we should judge that B is also better than saving an identified individual.
+This argument doesn't apply if it is fixed in advance which of the 1,000 people option A would save. _That_ person would then be straightforwardly better off under A. But there are reasons to think that version of the case is distorting. After all, it shouldn't really matter _who_ is saved. Giving everyone an equal 1/1,000 chance of being the one saved cannot be morally _worse_ than giving all of the chances to one arbitrary person—to think otherwise would violate the [equal consideration of interests](/types-of-utilitarianism/#impartiality-and-the-equal-consideration-of-interests). And we've seen that a 1% chance of saving all 1,000 lives is better than giving a 1/1,000 chance to each. So we should judge that B is also better than saving an identified individual.
 
 ### Taking Responsibility
 
@@ -194,11 +194,11 @@ Still, most of the work—including generating these sorts of intuitions—is on
 
 It can be illuminating to understand your choices as always “taking a stance,” such that having values and beliefs is not some sort of optional thing you just sometimes do, when the world makes it convenient, but rather a thing that you are _always_ doing, with every movement of your mind and body.[^5]
 
-We often don’t like to think about it because thinking of trade-offs brings to mind the sacrifice in our choices. This is especially poignant when we think of the value we get from our personal resources and money compared to [what someone in dire poverty might gain](https://www.utilitarianism.net/acting-on-utilitarianism/#global-health-and-development) from the same resources.
+We often don’t like to think about it because thinking of trade-offs brings to mind the sacrifice in our choices. This is especially poignant when we think of the value we get from our personal resources and money compared to [what someone in dire poverty might gain](/acting-on-utilitarianism/#global-health-and-development) from the same resources.
 
 Expected Utility Maximization is about achieving consistency and harmony in your decisions and dispositions. You could coherently value any number of different things. But once you've determined that you'd rather take a 50% shot at Y than a certainty of X, you've already decided that you value Y at least twice as much as X. And if you'd rather have a 50% shot at Z than a certainty of Y, you value Z at least twice as much as Y. At this point, your values no longer make sense if you suddenly prefer the certainty of X over a 25% shot at Z.
 
-If you simply [value everyone's well-being equally](https://www.utilitarianism.net/types-of-utilitarianism/#impartiality-and-the-equal-consideration-of-interests), as utilitarianism does, then [maximizing expected well-being](https://www.utilitarianism.net/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism) is one plausible approach to acting in the face of uncertainty (though it comes with a variety of theoretical difficulties that haven’t been discussed here).[^6] But even if your values differ from those of utilitarians, you may still find that you seek to maximize the expectation of _some_ or other (possibly quite rich and complicated) set of values, or else you fail to have coherent values at all.[^7]
+If you simply [value everyone's well-being equally](/types-of-utilitarianism/#impartiality-and-the-equal-consideration-of-interests), as utilitarianism does, then [maximizing expected well-being](/types-of-utilitarianism/#expectational-utilitarianism-versus-objective-utilitarianism) is one plausible approach to acting in the face of uncertainty (though it comes with a variety of theoretical difficulties that haven’t been discussed here).[^6] But even if your values differ from those of utilitarians, you may still find that you seek to maximize the expectation of _some_ or other (possibly quite rich and complicated) set of values, or else you fail to have coherent values at all.[^7]
 
 ---
 
@@ -233,7 +233,7 @@ Vikram Balasubramanian studies Philosophy at Trinity College Dublin as a U.S.-Ir
      Slovic, P. (2007). "If I look at the mass I will never act": Psychic numbing and genocide. _Judgment and Decision Making_, 2(2), 79–95. https://doi.org/10.1017/S1930297500000061
 
 [^3]:
-     Though note that these substantive [aggregationist](https://www.utilitarianism.net/types-of-utilitarianism/#aggregationism) value claims go beyond the formal structure of EUM as a (value-neutral) decision theory.
+     Though note that these substantive [aggregationist](/types-of-utilitarianism/#aggregationism) value claims go beyond the formal structure of EUM as a (value-neutral) decision theory.
 
 [^4]:
      You might even wish to consider the likelihood that your theory of chance that you used to determine probabilities is correct, [as some philosophers have suggested](https://www.jstor.org/stable/25177165).
