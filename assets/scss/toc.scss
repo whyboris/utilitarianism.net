@@ -97,6 +97,16 @@
   }
 }
 
+.show-last-ol {
+  ol {
+    li {
+      ol {
+        display: block !important;
+      }
+    }
+  }
+}
+
 .ol-to-ul-hack {
   nav {
     ol {

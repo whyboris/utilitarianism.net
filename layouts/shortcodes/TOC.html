@@ -1,4 +1,6 @@
-<div class='table-of-contents {{ if .Get "unordered" }}ol-to-ul-hack{{ end }}'>
+<div class='table-of-contents
+            {{ if .Get "unordered" }}ol-to-ul-hack{{ end }}
+            {{ if .Get "showAll"   }}show-last-ol{{ end }}'>
   <span>{{ i18n "toc" }}</span>
   {{ .Page.TableOfContents }}
 </div>

@@ -7,7 +7,7 @@
   <h2>Guest Essays</h2>
 
   <div class="guest-essay-container homepage-guest-essay-container">
-    {{ range first 10 .Site.Menus.guest.Sort.ByWeight }}
+    {{ range .Site.Menus.guest.Sort.ByWeight }}
       <a href="{{ .URL }}">
         {{ with .Page }}
           <div class="guest-essay">

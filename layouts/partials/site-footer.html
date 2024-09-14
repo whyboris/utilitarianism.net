@@ -63,7 +63,7 @@
 
         <span class="footer-heading large-gap">Guest Essays</span>
 
-        {{ range first 10 .Site.Menus.guest.Sort.ByWeight }}
+        {{ range .Site.Menus.guest.Sort.ByWeight }}
           <a href="{{ .URL }}">
             {{ with .Page }}
               {{ .Title }}
