@@ -28,46 +28,68 @@ Kontakt mit uns kann über die folgende E-Mail-Adresse aufgenommen werden: conta
 ## Vermerke
 
 {{< endorsement
-     link="https://www.appiah.net/" image="/img/about/Kwame-Anthony-Appiah.jpg" text="Kwame Anthony Appiah" >}}
+     link="https://www.appiah.net/"
+     image="/img/about/Kwame-Anthony-Appiah.jpg"
+     text="Kwame Anthony Appiah" >}}
 
 „Ich werde meine Studierenden definitiv auf diese ausgesprochen nützliche Ressource verweisen. Seit die moderne Version des Utilitarismus im 19. Jahrhundert erarbeitet worden ist, war der Enthusiasmus für ihn unter Moralphilosophen mal größer, mal kleiner; die Wichtigkeit der utilitaristischen Tradition für die Bereitstellung ausgearbeiteter, allgemeiner Theorien darüber, was wir tun sollten, war dabei seit jeher klar. Diese Website bietet eine übersichtliche Einführung zu den wichtigen Beiträgen des Utilitarismus und den Herausforderungen, vor denen er heute steht.“
 
 {{< prof
-     name="Kwame Anthony Appiah" link="https://www.appiah.net/" uni="New York University" >}}
+     name="Kwame Anthony Appiah"
+     link="https://www.appiah.net/"
+     uni="New York University" >}}
 
 {{< endorsement
-     link="https://www.joshua-greene.net/" image="/img/about/Joshue-Greene.jpg" text="Joshua Greene" >}}
+     link="https://www.joshua-greene.net/"
+     image="/img/about/Joshue-Greene.jpg"
+     text="Joshua Greene" >}}
 
 „Utilitarianism.net ist das Online-Gesicht des Utilitarismus und ein Portal zu einem Gefilde voller weltverändernder Ideen. Die utilitaristische Denkschule hat den menschlichen Fortschritt seit Jahrhunderten vorangetrieben. Dennoch wird diese Philosophie weithin missverstanden. Utilitarianism.net ist nicht nur die einladendste und aufschlussreichste Quelle zum Thema Utilitarismus für Studierende; seine aktualisierten historischen Einträge, rigorosen dialektischen Erklärungen und Anwendungen auf reale Probleme machen die Website auch für erfahrene Wissenschaftler zu einer fantastischen Ressource.“
 
 {{< prof
-     name="Joshua Greene" link="https://www.joshua-greene.net/" uni="Harvard University" >}}
+     name="Joshua Greene"
+     link="https://www.joshua-greene.net/"
+     uni="Harvard University" >}}
 
 {{< endorsement
-     link="https://en.wikipedia.org/wiki/Katarzyna_de_Lazari-Radek" image="/img/about/Katarzyna-de-Lazari-Radek.jpg" credit="Bartosz Kałużny" text="Katarzyna de Lazari-Radek" >}}
+     link="https://en.wikipedia.org/wiki/Katarzyna_de_Lazari-Radek"
+     image="/img/about/Katarzyna-de-Lazari-Radek.jpg"
+     credit="Bartosz Kałużny"
+     text="Katarzyna de Lazari-Radek" >}}
 
 „Noch nie war es so einfach, sich Wissen anzueignen wie in der Ära des weit verbreiteten Internetzugangs. Utilitarianism.net ist das Ergebnis der Arbeit und des Engagements vieler großer Philosophen aus aller Welt. Es ist ein Projekt, das hilft, eine der wichtigsten und interessantesten ethischen Theorien auf zugängliche, aber nicht vereinfachte Weise zu verstehen.“
 
 {{< prof
-     name="Katarzyna de Lazari-Radek" link="https://en.wikipedia.org/wiki/Katarzyna_de_Lazari-Radek" uni="University of Łódź" >}}
+     name="Katarzyna de Lazari-Radek"
+     link="https://en.wikipedia.org/wiki/Katarzyna_de_Lazari-Radek"
+     uni="University of Łódź" >}}
 
 {{< endorsement
-     link="https://www.princeton.edu/~ppettit/" image="/img/about/Philip-Pettit.jpg" text="Philip Pettit" >}}
+     link="https://www.princeton.edu/~ppettit/"
+     image="/img/about/Philip-Pettit.jpg"
+     text="Philip Pettit" >}}
 
 „Dies ist die perfekte Einführung in den Utilitarismus: umfassend, kritisch und geeignet als Grundlage für Diskussionen im Seminarraum und für den öffentlichen Diskurs.“
 
 {{< prof
-     name="Philip Pettit" link="https://www.princeton.edu/~ppettit/" uni="Princeton University / Australian National University" >}}
+     name="Philip Pettit"
+     link="https://www.princeton.edu/~ppettit/"
+     uni="Princeton University / Australian National University" >}}
 
 <br>
 
 {{< endorsement
-     link="https://petersinger.info/" image="/img/about/Peter-Singer-photo-credit-Alletta-Vaandering.jpg" credit="Alletta Vaandering" text="Peter Singer" >}}
+     link="https://petersinger.info/"
+     image="/img/about/Peter-Singer-photo-credit-Alletta-Vaandering.jpg"
+     credit="Alletta Vaandering"
+     text="Peter Singer" >}}
 
 „Utilitarianism.net ist die beste Anlaufstelle für klare, vollständige und faire Darstellungen dessen, was der Utilitarismus ist, die Argumente für ihn, die wichtigsten Einwände gegen ihn, spezielle Themen wie die Populationsethik und was es heißt, sein Leben als Utilitaristin zu führen. Als Leserinnen und Leser werden Sie auch Denker entdecken, die ihnen unbekannt waren, wie die frühe Utilitaristin Susanna Newcome. Ich empfehle utilitarianism.net all meinen an normativer Ethik interessierten Studierenden.“
 
 {{< prof
-     name="Peter Singer" link="https://petersinger.info/" uni="Princeton University" >}}
+     name="Peter Singer"
+     link="https://petersinger.info/"
+     uni="Princeton University" >}}
 
 ---
 

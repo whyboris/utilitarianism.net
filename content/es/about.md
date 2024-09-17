@@ -23,7 +23,7 @@ Agradecemos a Boris Yakubchik —y anteriormente a James Aung— por el diseño 
 
 Las personas que han contribuido a este sitio web con revisiones y sugerencias son demasiadas para ser mencionadas aquí, pero les estamos agradecidos a todas ellas. Merecen una mención especial Bella Forristal, Tomi Francis, Georgiana Gilgallon, Johan Gustafsson, Lucy Hampton, Stefan Schubert, Neil Sinhababu y Pablo Stafforini, por sus numerosos y detallados comentarios.
 
-Para contactarte con nosotros, puedes escribirnos a contact[at]utilitarismo.net
+Para contactarte con nosotros, puedes escribirnos a contact[at]utilitarianism.net
 
 ## Avales
 
