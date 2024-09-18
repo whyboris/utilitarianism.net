@@ -73,6 +73,12 @@
 
       {{ end }}
 
+      {{ if eq .Site.Language.Lang "en" }}
+        <span class="footer-heading large-gap">Translations</span>
+        <a href="https://utilitarismo.net">Spanish - utilitarismo.net</a>
+        <a href="https://utilitarismus.net">German - utilitarismus.net</a>
+      {{ end }}
+
       {{ if eq .Site.Language.Lang "es" }}
         <a href="/sobre-nosotros/">Sobre nosotros</a>
         <a href="https://utilitarianism.net">Original en Inglés</a>
