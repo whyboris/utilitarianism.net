@@ -7,7 +7,9 @@
 
 <div class="thinker essay-author">
   <img
-    loading="lazy" 
+    {{ if not .Site.Params.pdf }}
+      loading="lazy"
+    {{ end }}
     src="{{ .Get "image" }}"
     alt="{{ .Get "text" }}"
     title="{{ .Get "text" }}"
