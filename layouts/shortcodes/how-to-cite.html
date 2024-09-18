@@ -8,8 +8,10 @@
       {{/* NOTE: no space after D.^^^^^^^^^^^^^^^^^^^^^ for Oxford comma */}}
     {{ end }}
 
-    (2023). {{ .Page.Title }}. {{ i18n "cite.in" }} R.Y. Chappell, D. Meissner{{ i18n "cite.and" }} W. MacAskill
-    {{/* NOTE: no space intentionally for for Oxford comma ^^^ */}}
+    ({{ .Page.Date.Year }}).
+    {{ .Page.Title }}.
+    {{ i18n "cite.in" }} R.Y. Chappell, D. Meissner{{ i18n "cite.and" }} W. MacAskill
+    {{/* NOTE: no space intentionally for for Oxford comma ^^^^^^^^^^ */}}
 
     ({{ i18n "cite.editors-abbreviation" }}),
     <em> {{ i18n "cite.book-title" }}, </em>
