@@ -44,9 +44,28 @@ This website aims to provide a concise, accessible and engaging introduction to 
      text="This is the perfect introduction to utilitarianism: comprehensive, critical and accessible as a basis for classroom discussion or public debate."
      author="Prof. Philip Pettit, Princeton / ANU" >}}
 
+<div class="books small-book" style="margin-bottom: 30px">
+
+  <div style="flex: 1">
+
+<p style="text-align: center; margin-top: 50px">
+Since October 2024 this textbook is also available in print form
+</p>
+
 <center>
 {{< small-button url="about#endorsements" text="View Academic Endorsements" inverted=true >}}
 </center>
+
+</div>
+
+  {{< book
+    image="/img/books/utilitarianism.jpg"
+    text="An Introduction to Utilitarianism (2024)"
+    link="https://hackettpublishing.com/introduction-to-utilitarianism"
+  >}}
+
+</div>
+
 
 </div>
 
