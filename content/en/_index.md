@@ -36,27 +36,15 @@ The original and most influential version of utilitarianism is _classical utilit
 
 ## An Introduction to Utilitarianism: An Online Textbook
 
-This website aims to provide a concise, accessible and engaging introduction to modern utilitarianism, functioning as an online textbook targeted at the undergraduate level. The content of this website aims to be understandable to a broad audience, avoiding philosophical jargon where possible and providing definitions where necessary.
-
-{{< index-navigation >}}
-
-{{< quote
-     text="This is the perfect introduction to utilitarianism: comprehensive, critical and accessible as a basis for classroom discussion or public debate."
-     author="Prof. Philip Pettit, Princeton / ANU" >}}
-
 <div class="books small-book" style="margin-bottom: 30px">
 
   <div style="flex: 1">
 
-<p style="text-align: center; margin-top: 50px">
-Since October 2024 this textbook is also available in print form
-</p>
+This website aims to provide a concise, accessible and engaging introduction to modern utilitarianism, functioning as an online textbook targeted at the undergraduate level. The content of this website aims to be understandable to a broad audience, avoiding philosophical jargon where possible and providing definitions where necessary.
 
-<center>
-{{< small-button url="about#endorsements" text="View Academic Endorsements" inverted=true >}}
-</center>
+A print edition of this textbook is [available from Hackett Publishing](https://hackettpublishing.com/introduction-to-utilitarianism)
 
-</div>
+  </div>
 
   {{< book
     image="/img/books/utilitarianism.jpg"
@@ -66,6 +54,15 @@ Since October 2024 this textbook is also available in print form
 
 </div>
 
+{{< index-navigation >}}
+
+{{< quote
+     text="This is the perfect introduction to utilitarianism: comprehensive, critical and accessible as a basis for classroom discussion or public debate."
+     author="Prof. Philip Pettit, Princeton / ANU" >}}
+
+<center>
+{{< small-button url="about#endorsements" text="View Academic Endorsements" inverted=true >}}
+</center>
 
 </div>
 
