@@ -36,7 +36,23 @@ The original and most influential version of utilitarianism is _classical utilit
 
 ## An Introduction to Utilitarianism: An Online Textbook
 
+<div class="books small-book" style="margin-bottom: 30px">
+
+  <div style="flex: 1">
+
 This website aims to provide a concise, accessible and engaging introduction to modern utilitarianism, functioning as an online textbook targeted at the undergraduate level. The content of this website aims to be understandable to a broad audience, avoiding philosophical jargon where possible and providing definitions where necessary.
+
+A print edition of this textbook is [available from Hackett Publishing](https://hackettpublishing.com/introduction-to-utilitarianism)
+
+  </div>
+
+  {{< book
+    image="/img/books/utilitarianism.svg"
+    text="An Introduction to Utilitarianism (2024)"
+    link="https://hackettpublishing.com/introduction-to-utilitarianism"
+  >}}
+
+</div>
 
 {{< index-navigation >}}
 

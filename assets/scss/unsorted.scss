@@ -135,60 +135,6 @@ h1 {
   margin: 10px;
 }
 
-.books {
-  column-gap: 30px;
-  display: flex;
-  flex-wrap: wrap;
-  row-gap: 30px;
-
-  .book {
-    border-radius: 5px;
-    height: 415px;
-    overflow: hidden;
-    position: relative;
-    width: 260px;
-
-    font-size: 1vw; // hack to make the box-shadow stay proportional on screen resize
-    box-shadow: 0.3em 1em 1.5em rgba(0, 0, 0, 0.3);
-
-    transition-property: transform;
-    transition-duration: 500ms;
-
-    &:hover {
-      transform: scale(1.05)
-    }
-
-    img {
-      display: block;
-    }
-
-    .clickable {
-      height:100%;
-      left: 0;
-      position:absolute;
-      top:0;
-      width:100%;
-      z-index: 1;
-    }
-
-    .book-overlay {
-      background: linear-gradient(90deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.3) 1%, rgba(255,255,255,.4) 2%, rgba(255, 255, 255, 0.5) 4%, rgba(0,0,0,.3) 6%, rgba(255,255,255,.4) 10%, rgba(255,255,255,0) 100%);
-      box-sizing: border-box;
-      height: 100%;
-      opacity: 0.2;
-      position: absolute;
-      width:100%;
-    }
-  }
-}
-
-.book-outline {
-  .book {
-    box-sizing: border-box;
-    border: 1px solid $gray-ddd;
-  }
-}
-
 .read-more {
   text-align: right;
   transform: translate(-30px, 0px);
