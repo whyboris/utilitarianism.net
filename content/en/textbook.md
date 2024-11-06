@@ -20,7 +20,7 @@ For a high-school level introduction, see [Utilitarianism: Simply Explained](/ut
   </div>
 
   {{< book
-    image="/img/books/utilitarianism.jpg"
+    image="/img/books/utilitarianism.svg"
     text="An Introduction to Utilitarianism (2024)"
     link="https://hackettpublishing.com/introduction-to-utilitarianism"
   >}}

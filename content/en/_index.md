@@ -47,7 +47,7 @@ A print edition of this textbook is [available from Hackett Publishing](https://
   </div>
 
   {{< book
-    image="/img/books/utilitarianism.jpg"
+    image="/img/books/utilitarianism.svg"
     text="An Introduction to Utilitarianism (2024)"
     link="https://hackettpublishing.com/introduction-to-utilitarianism"
   >}}
