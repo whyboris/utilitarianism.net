@@ -9,6 +9,7 @@ menu: ["thinker"]
 weight: 2
 layout: "book"
 image: "/img/thinkers/Susanna-Newcome.jpg"
+description: "A short biography of Susanna Newcome and her contributions to Utilitarianism"
 gradientTop: "#440f50"
 gradientBottom: "#b15b86"
 ---

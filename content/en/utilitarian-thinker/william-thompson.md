@@ -9,6 +9,7 @@ menu: "thinker"
 weight: 4
 layout: "book"
 image: "/img/thinkers/William-Thompson.jpg"
+description: "A short biography of William Thompson and his contributions to Utilitarianism"
 gradientTop: "#0F2027"
 gradientBottom: "#2C5364"
 ---

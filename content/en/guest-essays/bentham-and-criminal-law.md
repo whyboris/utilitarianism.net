@@ -11,6 +11,7 @@ weight: 14
 image: "/img/essays/criminal-law.jpg"
 imageCaption: "Bentham and Criminal Law"
 summary: "Jeremy Bentham (1748-1832) sought to design a set of legal and political institutions that would conform to the ‘principle of utility’, i.e. produce the most happiness. This article presents a survey of his famous work, An Introduction to the Principles of Morals and Legislation, and discusses Bentham’s thinking about what utilitarian criminal law would look like."
+description: "This article presents a survey of Jeremy Bentham's famous work, An Introduction to the Principles of Morals and Legislation, and discusses his thinking about what utilitarian criminal law would look like."
 ---
 
 {{< guest-disclaimer >}}

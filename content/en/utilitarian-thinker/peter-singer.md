@@ -9,6 +9,7 @@ menu: "thinker"
 weight: 9
 layout: "book"
 image: "/img/thinkers/Peter-Singer.jpg"
+description: "A short biography of Peter Singer and his contributions to Utilitarianism"
 gradientTop: "#95524a"
 gradientBottom: "#c9d5e5"
 ---

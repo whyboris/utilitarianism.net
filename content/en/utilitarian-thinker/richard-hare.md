@@ -9,6 +9,7 @@ menu: ["thinker"]
 weight: 8
 layout: "book"
 image: "/img/thinkers/Richard-M-Hare.jpg"
+description: "A short biography of Richard M. Hare and his contributions to Utilitarianism"
 gradientTop: "#0f0c29"
 gradientBottom: "#302b63"
 ---

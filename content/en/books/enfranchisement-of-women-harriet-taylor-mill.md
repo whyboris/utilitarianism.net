@@ -8,6 +8,7 @@ image: "/img/books/enfranchisement-of-women.jpg"
 gradientTop: "#315b71"
 gradientBottom: "#824608"
 menu: ["book"]
+description: "Enfranchisement of Women by Harriet Taylor Mill. Full text, read free online."
 weight: -6
 ---
 

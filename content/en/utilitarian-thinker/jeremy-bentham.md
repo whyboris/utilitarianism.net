@@ -9,6 +9,7 @@ menu: ["thinker"]
 weight: 3
 layout: "book"
 image: "/img/thinkers/Jeremy-Bentham.jpg"
+description: "A short biography of Jeremy Bentham and his contributions to Utilitarianism"
 gradientTop: "#514fe1"
 gradientBottom: "#6d59a5"
 ---
