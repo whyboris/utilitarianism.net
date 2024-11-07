@@ -11,6 +11,7 @@ weight: 3
 image: "/img/essays/real-world.jpg"
 imageCaption: "Virtues for Real-World Utilitarians"
 summary: "This article discusses how utilitarians should go about applying their philosophy in the real world. It argues that utilitarians should cultivate a set of utilitarian virtues, including moderate altruism, moral expansiveness, effectiveness-focus, truth-seeking, collaborativeness, and determination."
+description: "Essay about applying utilitarian philosophy in the real world, cultivating utilitarian virtues, moderate altruism, moral expansiveness, effectiveness-focus, truth-seeking, collaborativeness, and determination"
 ---
 
 {{< guest-disclaimer >}}
