@@ -38,7 +38,7 @@ The original and most influential version of utilitarianism is _classical utilit
 
 <div class="books small-book" style="margin-bottom: 30px">
 
-  <div style="flex: 1">
+  <div class="book-mobile">
 
 This website aims to provide a concise, accessible and engaging introduction to modern utilitarianism, functioning as an online textbook targeted at the undergraduate level. The content of this website aims to be understandable to a broad audience, avoiding philosophical jargon where possible and providing definitions where necessary.
 

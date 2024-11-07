@@ -4,6 +4,10 @@
   flex-wrap: wrap;
   row-gap: 30px;
 
+  .book-mobile {
+    flex: 1;
+  }
+
   .book {
     border-radius: 5px;
     height: 415px;
@@ -57,5 +61,13 @@
   .book {
     height: 223px;
     width: 140px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .books {
+    .book-mobile {
+      flex: unset;
+    }
   }
 }

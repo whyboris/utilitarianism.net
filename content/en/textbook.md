@@ -10,7 +10,7 @@ date: 2023-01-29
 
 <div class="books" style="margin-bottom: 30px">
 
-  <div style="flex: 1">
+  <div class="book-mobile">
 
 This is an online textbook aiming to provide a concise, accessible, and engaging introduction to modern utilitarianism, targeted at the undergraduate level.
 
