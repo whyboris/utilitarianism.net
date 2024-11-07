@@ -12,6 +12,7 @@ type: _default
 layout: book
 gradientTop: "#0c3b5b"
 gradientBottom: "#295573"
+description: "Study guide for Peter Singer's Famine, Affluence, and Morality (1972)"
 ---
 
 {{< TOC >}}

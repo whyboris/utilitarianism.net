@@ -9,6 +9,7 @@ menu: ["thinker"]
 weight: 6
 layout: "book"
 image: "/img/thinkers/Harriet-Taylor-Mill.jpg"
+description: "A short biography of Harriet Taylor Mill and her contributions to Utilitarianism"
 gradientTop: "#295270"
 gradientBottom: "#524175"
 ---

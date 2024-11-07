@@ -4,6 +4,7 @@ slug: "textbook"
 book: "An Introduction to Utilitarianism"
 year: " " # hack so `single.html` displays properly
 author: "Richard Yetter Chappell, Darius Meissner, and William MacAskill"
+description: "An Introduction to Utilitarianism is an online textbook aiming to provide a concise, accessible, and engaging introduction to modern utilitarianism, targeted at the undergraduate level"
 date: 2023-01-29
 ---
 

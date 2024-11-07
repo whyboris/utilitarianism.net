@@ -9,6 +9,7 @@ menu: ["thinker"]
 weight: 1
 layout: "book"
 image: "/img/thinkers/Mozi.jpg"
+description: "A short biography of Mozi and his contributions to Utilitarianism"
 gradientTop: "#555136"
 gradientBottom: "#8e8b46"
 ---

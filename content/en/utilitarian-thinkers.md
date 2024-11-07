@@ -5,6 +5,7 @@ draft: false
 menu: "thinkers"
 weight: 1
 hideAudio: true
+description: "Utilitarian thinkers through the ages, from Mozi, Bentham, Mill, Sidgwick, to Peter Singer"
 ---
 
 Utilitarian ideas go back in part to the works of philosophers in ancient China, including Mozi, and ancient Greece, including Epicurus.[^1] Utilitarianism was further developed, refined and promoted in the late 18th and early 19th century by the classical utilitarians, Jeremy Bentham, John Stuart Mill, and Henry Sidgwick.

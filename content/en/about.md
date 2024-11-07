@@ -4,6 +4,7 @@ slug: "about"
 date: 2023-01-29
 draft: false
 weight: 1
+description: "About Utilitarianism.net - it serves as a textbook introduction to utilitarianism. It provides a concise, accessible and engaging introduction to modern utilitarianism."
 hidepdf: true
 ---
 

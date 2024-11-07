@@ -108,6 +108,7 @@ After adding a document it will likely need some manual fixes:
 ## Miscellaneous Notes
 
 - Consult _Hugo_ [documentation](https://gohugo.io/documentation/) if you have trouble, or reach out to Boris with questions.
+- The `description:` field in the _frontmatter_ (metadata at the top of most `.md` files) is used for the `<meta name="description">` and is important for _SEO_ (Search Engine Optimization)
 - We have a shortcode that will generate the table of contents: `{{< TOC >}}`
 - _Front matter_ includes `authors: ` which will be used in the _"How to Cite This Page"_ section of each page.
   - if the field is absent, the default three authors will be listed

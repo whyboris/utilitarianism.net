@@ -11,6 +11,7 @@ weight: 1
 image: "/img/essays/climate-change.jpg"
 imageCaption: "Utilitarianism and Climate Change"
 summary: "How does utilitarianism direct us to respond to climate change? This essay explores the harms caused by carbon emissions, how the cost-effectiveness of reducing emissions compares to other global priorities, and what both individuals and governments ought to do in light of these facts."
+description: "Essay about climate change and utilitarianism exploring harms caused by carbon emissions, cost-effectiveness of reducing emissions, and actions to take for individuals and governments"
 ---
 
 {{< guest-disclaimer >}}

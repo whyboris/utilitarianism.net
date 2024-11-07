@@ -9,6 +9,7 @@ menu: ["thinker"]
 weight: 7
 layout: "book"
 image: "/img/thinkers/Henry-Sidgwick.jpg"
+description: "A short biography of Henry Sidgwick and his contributions to Utilitarianism"
 gradientTop: "#093028"
 gradientBottom: "#237A57"
 ---

@@ -11,6 +11,7 @@ weight: 10
 image: "/img/essays/expected-utility.jpg"
 imageCaption: "Expected Utility Maximization"
 summary: "Expected Utility Maximization directs us to weigh the value associated with each possible outcome by its probability, yielding an overall expected value. This essay explains Expected Utility Maximization as a decision theory and defends its most distinctive feature: that it can advise us to choose options that will predictably lose."
+description: "Essay about Expected Utility Maximization and expected value calculations as a decision theory with respect to Utilitarianism"
 ---
 
 {{< guest-disclaimer >}}

@@ -5,6 +5,7 @@ date: 2023-01-29
 draft: false
 weight: 1
 hideAudio: true
+description: "Glossary and descriptions of key terms related to utilitarianism"
 ---
 
 This page provides an overview with brief descriptions of key utilitarian terms and relevant links.

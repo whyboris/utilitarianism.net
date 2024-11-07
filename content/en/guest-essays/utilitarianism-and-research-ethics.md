@@ -11,6 +11,7 @@ weight: 6
 image: "/img/essays/research-ethics.jpg"
 imageCaption: "Utilitarianism and Research Ethics"
 summary: "This essay questions common assumptions about the philosophical foundations of research ethics. It argues that (I) utilitarianism can account for many core research ethics norms, (II) Kantian ethics may conflict with many core research ethics norms, and (III) a more utilitarian outlook would improve contemporary research ethics in concrete ways."
+description: "Utilitarianism and research ethics essay exploring core research ethics norms and how a utilitarian outlook would improve contemporary research ethics in concrete ways"
 ---
 
 {{< guest-disclaimer >}}

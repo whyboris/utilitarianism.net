@@ -5,6 +5,7 @@ draft: false
 menu: "quotes"
 weight: 1
 hideAudio: true
+description: "A collection of quotes about Utilitarianism by utilitarian thinkers"
 ---
 
 {{< TOC unordered="true">}}

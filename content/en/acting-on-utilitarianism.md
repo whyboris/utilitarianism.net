@@ -4,6 +4,7 @@ authors: "MacAskill, W. and Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "acting"
+description: "Acting on Utilitarianism. What does utilitarianism actually mean in practice? What concrete actions does it say we should take? This article explains what it means to live an ethical life from the perspective of utilitarianism."
 weight: 5
 ---
 

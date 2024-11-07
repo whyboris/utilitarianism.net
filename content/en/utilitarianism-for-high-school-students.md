@@ -12,6 +12,7 @@ type: _default
 layout: book
 gradientTop: "#0c3b5b"
 gradientBottom: "#295573"
+description: "Utilitarianism simply explained - a study guide for high school students"
 ---
 
 {{< TOC >}}

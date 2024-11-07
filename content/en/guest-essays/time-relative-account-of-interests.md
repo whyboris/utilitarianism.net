@@ -11,6 +11,7 @@ weight: 5
 image: "/img/essays/time-relative.jpg"
 imageCaption: "The Time-Relative Account of Interests"
 summary: "The utilitarian goal of promoting everyone's interests is complicated by the Parfitian view that one's self-interest across time is a matter of degree (based on psychological connectedness) rather than all-or-nothing identity. This essay introduces and explores the Time-Relative Account of Interests, which uniquely captures key intuitions about the relative misfortune of death at different stages of life."
+description: "Utilitarianism essay explores the Time-Relative Account of Interests capturing key intuitions about the relative misfortune of death at different stages of life."
 ---
 
 {{< guest-disclaimer >}}

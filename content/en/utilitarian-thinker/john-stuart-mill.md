@@ -9,6 +9,7 @@ menu: ["thinker"]
 layout: "book"
 weight: 5
 image: "/img/thinkers/John-Stuart-Mill.jpg"
+description: "A short biography of John Stuart Mill and his contributions to Utilitarianism"
 gradientTop: "#ad5389"
 gradientBottom: "#3c1053"
 ---

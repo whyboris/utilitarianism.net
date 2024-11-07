@@ -11,6 +11,7 @@ weight: 2
 image: "/img/essays/animals.jpg"
 imageCaption: "Utilitarianism and Nonhuman Animals"
 summary: "This essay advances three claims about utilitarianism and nonhuman animals. Utilitarianism plausibly implies, first, that all vertebrates and many invertebrates morally matter, but that some of these animals might matter more than others; second, that we should attempt to both promote animal welfare and respect animal rights in practice; and third, that we should prioritize farmed and wild animals and work to support them."
+description: "Essay about utilitarianism and nonhuman animals: all vertebrates morally matter; we should promote animal welfare; and we should  prioritize farmed and wild animals"
 ---
 
 {{< guest-disclaimer >}}
