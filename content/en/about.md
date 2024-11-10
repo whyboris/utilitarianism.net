@@ -10,14 +10,16 @@ hidepdf: true
 
 ## Our Purpose
 
-This website serves as a textbook introduction to utilitarianism at the undergraduate level. It provides a concise, accessible and engaging introduction to modern utilitarianism. The content of this website aims to be understandable to a broad audience, avoiding philosophical jargon where possible and providing definitions where necessary.
+This **peer-reviewed, open-access textbook** introduces modern utilitarianism in a concise and engaging way, making it both accessible for undergraduates and informative for advanced readers. To be understandable to a broad audience, it avoids philosophical jargon where possible and provides definitions where necessary.
+
+Released in October 2024, the print edition of this textbook is [available from Hackett Publishing](https://hackettpublishing.com/introduction-to-utilitarianism), featuring all the [core textbook chapters](/textbook) from this website.
 
 ## Who We Are
 
-This website was written in collaboration by [Richard Yetter Chappell](http://yetterchappell.net/Richard/), [Darius Meissner](https://www.linkedin.com/in/darius-meissner/), and [William MacAskill](http://www.williammacaskill.com/).
+This textbook was written in collaboration by [Richard Yetter Chappell](http://yetterchappell.net/Richard/), [Darius Meissner](https://www.linkedin.com/in/darius-meissner/), and [William MacAskill](http://www.williammacaskill.com/).
 
-- Richard is an Associate Professor in Philosophy at the University of Miami. He is the author of _[Parfit's Ethics](https://doi.org/10.1017/9781108582377)_, and received his PhD from Princeton University in 2012. Richard also writes _[Good Thoughts](https://rychappell.substack.com/)_, a newsletter about consequentialism in theory and practice, which you can follow to receive updates about utilitarianism.net (and related topics).
-- Darius specializes in emerging technology policy and is based in Washington, DC. He earned his master's in Security Studies from Georgetown University and a bachelor’s in Philosophy, Politics, and Economics from the University of Oxford.
+- Richard is an Associate Professor in Philosophy at the University of Miami. He is the author of _[Parfit's Ethics](https://doi.org/10.1017/9781108582377)_, and received his PhD from Princeton University in 2012. Richard also writes _[Good Thoughts](https://www.goodthoughts.blog/)_, a newsletter about consequentialism in theory and practice, which you can follow to receive updates about utilitarianism.net (and related topics).
+- Darius specializes in emerging technology policy and is based in Washington, DC. He earned his Master's in Security Studies from Georgetown University and a Bachelor’s in Philosophy, Politics, and Economics from the University of Oxford.
 - William is an Associate Professor in Philosophy and Senior Research Fellow at the [Global Priorities Institute](https://globalprioritiesinstitute.org/) at the University of Oxford. He is the author of _[Doing Good Better: Effective Altruism and a Radical New Way to Make a Difference](http://www.williammacaskill.com/book)_ and _[What We Owe The Future](https://whatweowethefuture.com/)_.
 
 Thanks to Boris Yakubchik—and previously, James Aung—for website design and management.
