@@ -6,6 +6,10 @@
 
   .book-mobile {
     flex: 1;
+
+    p:first-child {
+      margin-top: 0;
+    }
   }
 
   .book {
@@ -64,7 +68,7 @@
   }
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 550px) {
   .books {
     .book-mobile {
       flex: unset;
