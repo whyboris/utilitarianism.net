@@ -3,6 +3,10 @@ title: "What is Utilitarianism?"
 description: "Utilitarianism.net is a peer-reviewed, open-access academic textbook featuring guest essays, study guides, and other resources"
 ---
 
+<div class="dark-background" style="height: 40px; background-color: #0fb2c1">
+
+</div>
+
 <div class="homepage-center">
 
 # What Is Utilitarianism?
