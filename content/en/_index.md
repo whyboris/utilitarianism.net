@@ -3,11 +3,9 @@ title: "What is Utilitarianism?"
 description: "Utilitarianism.net is a peer-reviewed, open-access academic textbook featuring guest essays, study guides, and other resources"
 ---
 
-<div class="dark-background" style="height: 40px; background-color: #0fb2c1">
+<div class="dark-background">
 
-</div>
-
-<div class="homepage-center">
+  <div class="homepage-center">
 
 # What Is Utilitarianism?
 
@@ -17,17 +15,15 @@ Utilitarians want all lives to go as well as possible, counting everyone's well-
 {{< small-button url="introduction-to-utilitarianism" text="Continue reading: An Introduction to Utilitarianism" >}}
 </center>
 
+  </div>
+
 </div>
 
-<div class="dark-background">
-
-<div class="homepage-center">
+<div class="homepage-center" style="position: relative">
 
 ## An Introduction to Utilitarianism
 
-<div class="books small-book" style="margin-bottom: 30px">
-
-  <div class="book-mobile">
+  <div class="book-text">
 
 This **peer-reviewed, open-access textbook** introduces modern utilitarianism in a concise and engaging way, making it both accessible for undergraduates and informative for advanced readers. It avoids philosophical jargon where possible and provides definitions where necessary.
 
@@ -35,15 +31,23 @@ The 2024 print edition of this textbook is [available from Hackett Publishing](h
 
   </div>
 
+  <div class="books book-homepage" style="margin-bottom: 30px">
+
   {{< book
     image="/img/books/utilitarianism.svg"
     text="An Introduction to Utilitarianism (2024)"
     link="https://hackettpublishing.com/introduction-to-utilitarianism"
   >}}
 
-</div>
+  </div>
 
 {{< index-navigation >}}
+
+</div>
+
+<div class="dark-background">
+
+  <div class="homepage-center">
 
 {{< quote
      text="This is the perfect introduction to utilitarianism: comprehensive, critical and accessible as a basis for classroom discussion or public debate."
@@ -53,9 +57,10 @@ The 2024 print edition of this textbook is [available from Hackett Publishing](h
 {{< small-button url="about#endorsements" text="View Academic Endorsements" inverted=true >}}
 </center>
 
-</div>
+  </div>
 
 </div>
+
 
 <div class="homepage-center">
 
