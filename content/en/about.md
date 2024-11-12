@@ -24,7 +24,7 @@ This textbook was written in collaboration by [Richard Yetter Chappell](http://y
 
 Thanks to Boris Yakubchik—and previously, James Aung—for website design and management.
 
-This website has benefited from review and suggestions from too many people to list, but we are grateful to them all. Special mention to Bella Forristal, Tomi Francis, Georgiana Gilgallon, Johan Gustafsson, Lucy Hampton, Stefan Schubert, Neil Sinhababu, and Pablo Stafforini, for their many detailed comments.
+This textbook has benefited from review and suggestions from too many people to list, but we are grateful to them all. Special mention to Bella Forristal, Tomi Francis, Georgiana Gilgallon, Johan Gustafsson, Lucy Hampton, Stefan Schubert, Neil Sinhababu, and Pablo Stafforini, for their many detailed comments.
 
 You can get in touch with us at contact[at]utilitarianism.net
 

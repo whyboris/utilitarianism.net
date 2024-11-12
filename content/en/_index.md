@@ -112,6 +112,7 @@ Addressing these problems may involve [donating generously to effective charitie
 </div>
 
 <div class="homepage-center">
+
 ## Utilitarian Thinkers
 
 {{< all-thinkers true >}}
