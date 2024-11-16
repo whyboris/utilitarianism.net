@@ -96,7 +96,7 @@ You can get in touch with us at contact[at]utilitarianism.net
 
 ---
 
-This website was launched from [Queen's Lane Coffee House](http://www.qlcoffeehouse.com/) in Oxford, where [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham) first discovered utilitarianism:
+This textbook was launched from [Queen's Lane Coffee House](http://www.qlcoffeehouse.com/) in Oxford, where [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham) first discovered utilitarianism:
 
 ![Queen's Lane Coffee House](/img/about/Queens-Lane-Coffee-House.jpg "Queen's Lane Coffee House")
 

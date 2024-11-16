@@ -9,11 +9,11 @@ description: "An Introduction to Utilitarianism is a peer-reviewed, open-access 
 date: 2023-01-29
 ---
 
-<div class="books" style="margin-bottom: 30px">
+<div class="books book-textbook-book" style="margin-bottom: 30px">
 
-  <div class="book-mobile">
+  <div class="book-textbook">
 
-This **peer-reviewed, open-access textbook** introduces modern utilitarianism in a concise and engaging way, making it both accessible for undergraduates and informative for advanced readers. For a high-school level introduction, see [Utilitarianism: Simply Explained](/utilitarianism-for-high-school-students/). It avoids philosophical jargon where possible and provides definitions where necessary.
+This **peer-reviewed, open-access textbook** introduces modern utilitarianism in a concise and engaging way, making it both accessible for undergraduates and informative for advanced readers.[^1]
 
 The 2024 print edition of this textbook is [available from Hackett Publishing](https://hackettpublishing.com/introduction-to-utilitarianism), featuring all the core textbook chapters from this website.
 
@@ -28,3 +28,5 @@ The 2024 print edition of this textbook is [available from Hackett Publishing](h
 </div>
 
 {{< textbook-contents >}}
+
+[^1]: For a high-school level introduction, see [Utilitarianism: Simply Explained](/utilitarianism-for-high-school-students/). It avoids philosophical jargon where possible and provides definitions where necessary.
