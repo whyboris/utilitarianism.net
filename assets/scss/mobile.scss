@@ -230,6 +230,16 @@
     }
   }
 
+  .two-quotes {
+    .quote:first-child {
+      border-right: 0 !important;
+    }
+
+    blockquote {
+      width: 100% !important;
+    }
+  }
+
   li {
     word-break: break-word; // for long URL in References, at least on Nir Eyal's essay - else page scrolls sideways
   }
