@@ -5,11 +5,11 @@ description: "Utilitarianism.net is a peer-reviewed, open-access academic textbo
 
 <div class="dark-background">
 
-  <div class="homepage-center">
+  <div class="homepage-center homepage-important">
 
 # What Is Utilitarianism?
 
-Utilitarians want all lives to go as well as possible, counting everyone's well-being equally. On this view, what matters most is bringing about the best overall consequences by improving the lives of sentient beings—regardless of their gender, race, nationality, or even [species](/guest-essays/utilitarianism-and-nonhuman-animals#the-moral-status-of-animals).[^1]
+Utilitarians want all lives to go as well as possible, counting everyone's well-being equally. On this view, what matters most is bringing about the best overall consequences by improving the lives of sentient beings—regardless of their gender, race, nationality, or even [species](/guest-essays/utilitarianism-and-nonhuman-animals#the-moral-status-of-animals).
 
 <center>
 {{< small-button url="introduction-to-utilitarianism" text="Continue reading: An Introduction to Utilitarianism" >}}
@@ -142,5 +142,3 @@ We're proud to have secured [endorsements](/about#endorsements) from prominent s
 Read more [about us](/about).
 
 </div>
-
-[^1]: Of course, individuals of different species may differ drastically in their capacity to suffer or flourish: a typical human or dolphin may have vastly more well-being at stake in their lives than a typical mouse or chicken. The point is just that an equal amount of suffering matters equally no matter who it is that experiences it.

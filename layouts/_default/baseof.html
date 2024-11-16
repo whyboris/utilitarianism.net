@@ -31,7 +31,9 @@
       {{ block "pdf-hacking" . }}{{ partialCached "pdf-script" . }}{{ end }}
     {{ end }}
 
-    {{ block "footnotes-script" . }}{{ partial "footnotes-script" . }}{{ end }}
+    {{ if not .IsHome }}
+      {{ block "footnotes-script" . }}{{ partial "footnotes-script" . }}{{ end }}
+    {{ end }}
 
   </body>
 </html>

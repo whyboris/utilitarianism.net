@@ -50,6 +50,13 @@
     }
   }
 
+  .homepage-important {
+    p {
+      font-size: 18px;
+      font-style: italic;
+    }
+  }
+
   .dark-background {
     background-color: $dark-blue;
     color: white;
