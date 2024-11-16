@@ -3,7 +3,7 @@ title: "What is Utilitarianism?"
 description: "Utilitarianism.net is a peer-reviewed, open-access academic textbook featuring guest essays, study guides, and other resources"
 ---
 
-<div class="dark-background">
+
 
   <div class="homepage-center homepage-important">
 
@@ -17,7 +17,7 @@ Utilitarians want all lives to go as well as possible, counting everyone's well-
 
   </div>
 
-</div>
+<div class="dark-background">
 
 <div class="homepage-center" style="position: relative">
 
@@ -45,22 +45,23 @@ The 2024 print edition of this textbook is [available from Hackett Publishing](h
 
 </div>
 
-<div class="dark-background">
-
-  <div class="homepage-center">
+  <div class="homepage-center two-quotes">
 
 {{< quote
-     text="This is the perfect introduction to utilitarianism: comprehensive, critical and accessible as a basis for classroom discussion or public debate."
+     text="This textbook is the perfect introduction to utilitarianism: comprehensive, critical and accessible as a basis for classroom discussion or public debate."
      author="Prof. Philip Pettit, Princeton / ANU" >}}
 
-<center>
+{{< quote
+     text="This is a truly excellent book…No other book on utilitarianism—and perhaps no other book in normative ethics—is so clear, comprehensive, and convincing."
+     author="Prof. Neil Sinhababu, NUS" >}}
+
+<div class="center">
 {{< small-button url="about#endorsements" text="View Academic Endorsements" inverted=true >}}
-</center>
+</div>
 
   </div>
 
 </div>
-
 
 <div class="homepage-center">
 

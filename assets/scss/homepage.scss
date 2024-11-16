@@ -17,7 +17,7 @@
     padding: 30px 20px;
 
     .temp-navigation-hack {
-      background: #0b3b5b08;
+      background: white;
       border-radius: 5px;
       box-shadow: 0px 5px 10px -3px inset #999999;
       color: $dark-blue;
@@ -52,9 +52,31 @@
         margin-top: 36px;
       }
     }
+
+  }
+
+  .two-quotes {
+    display: flex;
+    flex-wrap: wrap;
+
+    .quote:first-child {
+      border-right: 1px solid white;
+    }
+
+    blockquote {
+      box-sizing: border-box;
+      display: inline-block;
+      width: 50%;
+    }
+
+    .center {
+      margin: 30px auto;
+    }
   }
 
   .homepage-important {
+    padding: 50px 30px;
+
     p {
       font-size: 18px;
     }
