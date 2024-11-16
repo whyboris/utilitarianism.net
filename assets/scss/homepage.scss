@@ -17,7 +17,7 @@
     padding: 30px 20px;
 
     .temp-navigation-hack {
-      background: #fdfdfd;
+      background: #0b3b5b08;
       border-radius: 5px;
       box-shadow: 0px 5px 10px -3px inset #999999;
       color: $dark-blue;
@@ -47,13 +47,16 @@
           color: $very-light-blue;
         }
       }
+
+      .other-content-heading {
+        margin-top: 36px;
+      }
     }
   }
 
   .homepage-important {
     p {
       font-size: 18px;
-      font-style: italic;
     }
   }
 
