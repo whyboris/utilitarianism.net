@@ -23,21 +23,19 @@ Utilitarians want all lives to go as well as possible, counting everyone's well-
 
 ## An Introduction to Utilitarianism
 
-  <div class="book-text">
+  <div class="books books-hack">
 
-This **peer-reviewed, open-access textbook** introduces modern utilitarianism in a concise and engaging way, making it both accessible for undergraduates and informative for advanced readers. It avoids philosophical jargon where possible and provides definitions where necessary.
-
-The 2024 print edition of this textbook is [available from Hackett Publishing](https://hackettpublishing.com/introduction-to-utilitarianism), featuring all the [core textbook chapters](/textbook) from this website.
-
-  </div>
-
-  <div class="books book-homepage" style="margin-bottom: 30px">
-
+<div class="book-nudge">
   {{< book
     image="/img/books/utilitarianism.svg"
     text="An Introduction to Utilitarianism (2024)"
     link="https://hackettpublishing.com/introduction-to-utilitarianism"
   >}}
+</div>
+
+This **peer-reviewed, open-access textbook** introduces modern utilitarianism in a concise and engaging way, making it both accessible for undergraduates and informative for advanced readers. It avoids philosophical jargon where possible and provides definitions where necessary.
+
+The 2024 print edition of this textbook is [available from Hackett Publishing](https://hackettpublishing.com/introduction-to-utilitarianism), featuring all the [core textbook chapters](/textbook) from this website.
 
   </div>
 
