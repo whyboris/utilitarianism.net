@@ -13,7 +13,7 @@ date: 2023-01-29
 
   <div class="book-textbook">
 
-This **peer-reviewed, open-access textbook** introduces modern utilitarianism in a concise and engaging way, making it both accessible for undergraduates and informative for advanced readers.[^1]
+This **peer-reviewed, open-access textbook** introduces modern utilitarianism in a concise and engaging way, making it both accessible for undergraduates and informative for advanced readers.[^1] It avoids philosophical jargon where possible and provides definitions where necessary.
 
 The 2024 print edition of this textbook is [available from Hackett Publishing](https://hackettpublishing.com/introduction-to-utilitarianism), featuring all the core textbook chapters from this website.
 
@@ -29,4 +29,4 @@ The 2024 print edition of this textbook is [available from Hackett Publishing](h
 
 {{< textbook-contents >}}
 
-[^1]: For a high-school level introduction, see [Utilitarianism: Simply Explained](/utilitarianism-for-high-school-students/). It avoids philosophical jargon where possible and provides definitions where necessary.
+[^1]: For a high-school level introduction, see [Utilitarianism: Simply Explained](/utilitarianism-for-high-school-students/).
