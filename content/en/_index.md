@@ -4,7 +4,7 @@ description: "Utilitarianism.net is a peer-reviewed, open-access academic textbo
 ---
 
 
-<div class="dark-background">
+<div class="dark-background" style="background: linear-gradient(180deg, #0c3b5b 0%, #236d9f 100%);">
 
 <div class="homepage-center">
 <center>
