@@ -4,10 +4,20 @@ description: "Utilitarianism.net is a peer-reviewed, open-access academic textbo
 ---
 
 
+<div class="dark-background">
 
-  <div class="homepage-center homepage-important">
+<div class="homepage-center">
+<center>
 
 # What Is Utilitarianism?
+
+</center>
+</div>
+
+</div>
+
+
+<div class="homepage-center homepage-important">
 
 Utilitarians want all lives to go as well as possible, counting everyone's well-being equally. On this view, what matters most is bringing about the best overall consequences by improving the lives of sentient beings—regardless of their gender, race, nationality, or even [species](/guest-essays/utilitarianism-and-nonhuman-animals#the-moral-status-of-animals).
 
@@ -103,8 +113,8 @@ Addressing these problems may involve [donating generously to effective charitie
 <div class="homepage-center">
 
 {{< quote
-     text="The sentiment to which [the utilitarian] appeals is generalized benevolence, that is, the disposition to seek happiness, or… good consequences, for all mankind, or perhaps for all sentient beings."
-     author="J.J.C. Smart" >}}
+     text="Utilitarianism is a great idea with an awful name. It is, in my opinion, the most underrated and misunderstood idea in all of moral and political philosophy."
+     author="Joshua Greene" >}}
 
 </div>
 
@@ -123,8 +133,8 @@ Addressing these problems may involve [donating generously to effective charitie
 <div class="homepage-center">
 
 {{< quote
-     text="Utilitarianism is a great idea with an awful name. It is, in my opinion, the most underrated and misunderstood idea in all of moral and political philosophy."
-     author="Joshua Greene" >}}
+     text="The sentiment to which [the utilitarian] appeals is generalized benevolence, that is, the disposition to seek happiness, or… good consequences, for all mankind, or perhaps for all sentient beings."
+     author="J.J.C. Smart" >}}
 
 </div>
 
