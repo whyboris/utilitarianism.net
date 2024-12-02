@@ -6,18 +6,19 @@ description: "Utilitarianism.net is a peer-reviewed, open-access academic textbo
 
 <div class="dark-background" style="background: linear-gradient(180deg, #0c3b5b 0%, #236d9f 100%);">
 
-<div class="homepage-center">
-<center>
+<div class="homepage-center book-header">
 
-# What Is Utilitarianism?
+<h1 class="title"> An Introduction to Utilitarianism</h1>
+<span class="subtitle" style="margin-bottom: 16px">From Theory to Practice</span>
 
-</center>
 </div>
 
 </div>
 
 
 <div class="homepage-center homepage-important">
+
+<h2>What is Utilitarianism?</h2>
 
 Utilitarians want all lives to go as well as possible, counting everyone's well-being equally. On this view, what matters most is bringing about the best overall consequences by improving the lives of sentient beings—regardless of their gender, race, nationality, or even [species](/guest-essays/utilitarianism-and-nonhuman-animals#the-moral-status-of-animals).
 
@@ -31,7 +32,7 @@ Utilitarians want all lives to go as well as possible, counting everyone's well-
 
 <div class="homepage-center" style="position: relative">
 
-## An Introduction to Utilitarianism
+## Textbook overview
 
   <div class="books books-hack">
 
