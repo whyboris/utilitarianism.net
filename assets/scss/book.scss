@@ -4,10 +4,6 @@
   flex-wrap: wrap;
   row-gap: 30px;
 
-  .book-textbook {
-    flex: 1;
-  }
-
   .book {
     border-radius: 5px;
     height: 415px;
@@ -63,14 +59,6 @@
   }
 }
 
-.book-textbook-book {
-  .book {
-    height: 284px !important;
-    width: 178px !important;
-    max-width: unset !important;
-  }
-}
-
 .book-homepage {
   position: absolute;
   top: 45px;
@@ -93,13 +81,5 @@
   .book {
     height: 223px;
     width: 140px;
-  }
-}
-
-@media only screen and (max-width: 550px) {
-  .books {
-    .book-textbook {
-      flex: unset;
-    }
   }
 }
