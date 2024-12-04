@@ -30,6 +30,10 @@
       font-size: 22px;
     }
 
+    .subtitle {
+      font-size: 18px;
+    }
+
     .author {
       margin-top: 16px;
       font-size: 16px;
@@ -226,7 +230,38 @@
     }
   }
 
+  .books-hack {
+    .book-nudge {
+      transform: none !important;
+
+      .book {
+        margin-left: 20px;
+        margin-right: 10px;
+      }
+    }
+  }
+
+  .two-quotes {
+    .quote:first-child {
+      border-right: 0 !important;
+    }
+
+    blockquote {
+      width: 100% !important;
+    }
+  }
+
   li {
     word-break: break-word; // for long URL in References, at least on Nir Eyal's essay - else page scrolls sideways
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .books-hack {
+    .book-nudge {
+      .book {
+        margin-right: 0;
+      }
+    }
   }
 }

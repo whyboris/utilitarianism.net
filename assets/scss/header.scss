@@ -10,6 +10,10 @@
 
   .nudge-down {
     transform: translate(0, 10px);
+
+    & > a {
+      font-weight: bold;
+    }
   }
 
   .i18n-icon {

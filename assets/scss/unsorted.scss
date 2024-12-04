@@ -285,6 +285,12 @@ hr {
     font-size: 30px;
   }
 
+  .subtitle {
+    display: block;
+    font-size: 26px;
+    margin-bottom: 40px;
+  }
+
   .author {
     display: block;
     margin-top: 20px;
@@ -422,4 +428,9 @@ hr {
     text-align: right;
     font-size: 16px !important;
   }
+}
+
+.font-hack {
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }

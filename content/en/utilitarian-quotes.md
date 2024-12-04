@@ -276,7 +276,7 @@ _→ [Article on Peter Singer’s life and ideas](/utilitarian-thinker/peter-sin
 
 ## Others
 
-- **Śāntidevak**
+- <span class="font-hack">Śāntidevak</span>
 
   - If a bodhisattva does not make a sincere, unwavering effort in thought, word, and deed to stop all the present and future pain and suffering of all sentient beings, and to bring about all present and future pleasure and happiness, or does not seek the collection of conditions for that, or does not strive to prevent what is opposed to that, or does not bring about small pain and suffering as a way of preventing great pain and suffering, or does not abandon a small benefit in order to accomplish a greater benefit, if he neglects to do these things even for a moment, he undergoes a downfall.[^106]
 

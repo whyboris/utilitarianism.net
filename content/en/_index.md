@@ -3,35 +3,46 @@ title: "What is Utilitarianism?"
 description: "Utilitarianism.net is a peer-reviewed, open-access academic textbook featuring guest essays, study guides, and other resources"
 ---
 
-<div class="dark-background">
 
-<div class="homepage-center">
-<br />
+<div class="dark-background" style="background: linear-gradient(180deg, #0c3b5b 0%, #236d9f 100%);">
+
+<div class="homepage-center book-header">
+
+<h1 class="title"> An Introduction to Utilitarianism</h1>
+<span class="subtitle" style="margin-bottom: 10px">From Theory to Practice</span>
+
 </div>
 
 </div>
 
-<div class="homepage-center">
 
-# What Is Utilitarianism?
+<div class="homepage-center homepage-important">
 
-Utilitarians want all lives to go as well as possible, counting everyone's well-being equally. On this view, what matters most is bringing about the best overall consequences by improving the lives of sentient beings—regardless of their gender, race, nationality, or even [species](/guest-essays/utilitarianism-and-nonhuman-animals#the-moral-status-of-animals).[^1]
+<h2>What is Utilitarianism?</h2>
+
+Utilitarians want all lives to go as well as possible, counting everyone's well-being equally. On this view, what matters most is bringing about the best overall consequences by improving the lives of sentient beings—regardless of their gender, race, nationality, or even [species](/guest-essays/utilitarianism-and-nonhuman-animals#the-moral-status-of-animals).
 
 <center>
-{{< small-button url="introduction-to-utilitarianism" text="Continue reading: An Introduction to Utilitarianism" >}}
+{{< small-button url="introduction-to-utilitarianism" text="Chapter 1: Introduction to Utilitarianism" >}}
 </center>
 
-</div>
+  </div>
 
 <div class="dark-background">
 
-<div class="homepage-center">
+<div class="homepage-center" style="position: relative">
 
-## An Introduction to Utilitarianism
+## Textbook overview
 
-<div class="books small-book" style="margin-bottom: 30px">
+  <div class="books books-hack">
 
-  <div class="book-mobile">
+<div class="book-nudge">
+  {{< book
+    image="/img/books/utilitarianism.svg"
+    text="An Introduction to Utilitarianism (2024)"
+    link="https://hackettpublishing.com/introduction-to-utilitarianism"
+  >}}
+</div>
 
 This **peer-reviewed, open-access textbook** introduces modern utilitarianism in a concise and engaging way, making it both accessible for undergraduates and informative for advanced readers. It avoids philosophical jargon where possible and provides definitions where necessary.
 
@@ -39,25 +50,25 @@ The 2024 print edition of this textbook is [available from Hackett Publishing](h
 
   </div>
 
-  {{< book
-    image="/img/books/utilitarianism.svg"
-    text="An Introduction to Utilitarianism (2024)"
-    link="https://hackettpublishing.com/introduction-to-utilitarianism"
-  >}}
-
-</div>
-
 {{< index-navigation >}}
 
+</div>
+
+  <div class="homepage-center two-quotes">
+
 {{< quote
-     text="This is the perfect introduction to utilitarianism: comprehensive, critical and accessible as a basis for classroom discussion or public debate."
+     text="This textbook is the perfect introduction to utilitarianism: comprehensive, critical and accessible as a basis for classroom discussion or public debate."
      author="Prof. Philip Pettit, Princeton / ANU" >}}
 
-<center>
-{{< small-button url="about#endorsements" text="View Academic Endorsements" inverted=true >}}
-</center>
+{{< quote
+     text="This is a truly excellent book…No other book on utilitarianism—and perhaps no other book in normative ethics—is so clear, comprehensive, and convincing."
+     author="Prof. Neil Sinhababu, NUS" >}}
 
+<div class="center">
+{{< small-button url="about#endorsements" text="View Academic Endorsements" inverted=true >}}
 </div>
+
+  </div>
 
 </div>
 
@@ -103,14 +114,15 @@ Addressing these problems may involve [donating generously to effective charitie
 <div class="homepage-center">
 
 {{< quote
-     text="The sentiment to which [the utilitarian] appeals is generalized benevolence, that is, the disposition to seek happiness, or… good consequences, for all mankind, or perhaps for all sentient beings."
-     author="J.J.C. Smart" >}}
+     text="Utilitarianism is a great idea with an awful name. It is, in my opinion, the most underrated and misunderstood idea in all of moral and political philosophy."
+     author="Joshua Greene" >}}
 
 </div>
 
 </div>
 
 <div class="homepage-center">
+
 ## Utilitarian Thinkers
 
 {{< all-thinkers true >}}
@@ -122,8 +134,8 @@ Addressing these problems may involve [donating generously to effective charitie
 <div class="homepage-center">
 
 {{< quote
-     text="Utilitarianism is a great idea with an awful name. It is, in my opinion, the most underrated and misunderstood idea in all of moral and political philosophy."
-     author="Joshua Greene" >}}
+     text="The sentiment to which [the utilitarian] appeals is generalized benevolence, that is, the disposition to seek happiness, or… good consequences, for all mankind, or perhaps for all sentient beings."
+     author="J.J.C. Smart" >}}
 
 </div>
 
@@ -140,5 +152,3 @@ We're proud to have secured [endorsements](/about#endorsements) from prominent s
 Read more [about us](/about).
 
 </div>
-
-[^1]: Of course, individuals of different species may differ drastically in their capacity to suffer or flourish: a typical human or dolphin may have vastly more well-being at stake in their lives than a typical mouse or chicken. The point is just that an equal amount of suffering matters equally no matter who it is that experiences it.

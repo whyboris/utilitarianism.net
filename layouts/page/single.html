@@ -24,6 +24,10 @@
   >
     <h1 class="title" data-pagefind-meta="title">{{ .Title }}</h1>
 
+    {{ if isset .Params "subtitle" }}
+      <span class="subtitle">{{ .Params.subtitle }}</span>
+    {{ end }}
+
     {{ if isset .Params "year" }}
       <span class="author">{{ .Params.author }}</span>
       <span class="year">{{ .Params.year }}</span>

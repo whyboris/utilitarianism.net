@@ -15,23 +15,12 @@
     margin: 0 auto;
     max-width: 850px;
     padding: 30px 20px;
-  }
-
-  .dark-background {
-    background-color: $dark-blue;
-    color: white;
-
-    ::selection {
-      background: $oxford-blue;
-    }
-    ::-moz-selection {
-      background: $oxford-blue;
-    }
 
     .temp-navigation-hack {
       background: white;
-      color: $dark-blue;
       border-radius: 5px;
+      box-shadow: 0px 5px 10px -3px inset #999999;
+      color: $dark-blue;
 
       span {
         font-weight: bold;
@@ -58,6 +47,61 @@
           color: $very-light-blue;
         }
       }
+
+      .other-content-heading {
+        margin-top: 36px;
+      }
+    }
+
+  }
+
+  .two-quotes {
+    display: flex;
+    flex-wrap: wrap;
+
+    .quote:first-child {
+      border-right: 1px solid white;
+    }
+
+    blockquote {
+      box-sizing: border-box;
+      display: inline-block;
+      width: 50%;
+    }
+
+    .center {
+      margin: 30px auto;
+    }
+  }
+
+  .homepage-important {
+    padding: 50px 30px 50px;
+
+    p {
+      font-size: 18px;
+    }
+  }
+
+  .dark-background {
+    background-color: $dark-blue;
+    color: white;
+
+    ::selection {
+      background: $oxford-blue;
+    }
+    ::-moz-selection {
+      background: $oxford-blue;
+    }
+
+    .littlefoot-footnote__host {
+      .footnote-number {
+        background: $dark-blue;
+        color: white;
+      }
+
+      p {
+        color: black;
+      }
     }
 
     blockquote {
@@ -72,6 +116,18 @@
 
     a {
       color: white;
+    }
+  }
+}
+
+@media only screen and (max-width: $breakpoint-tablet) {
+  .homepage-body {
+    .homepage-center {
+      padding: 40px 20px 30px;
+    }
+
+    .homepage-important {
+      padding: 20px 30px 50px;
     }
   }
 }
