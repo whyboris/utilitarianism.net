@@ -75,7 +75,7 @@
   }
 
   .homepage-important {
-    padding: 50px 30px;
+    padding: 50px 30px 50px;
 
     p {
       font-size: 18px;
@@ -116,6 +116,18 @@
 
     a {
       color: white;
+    }
+  }
+}
+
+@media only screen and (max-width: $breakpoint-tablet) {
+  .homepage-body {
+    .homepage-center {
+      padding: 40px 20px 30px;
+    }
+
+    .homepage-important {
+      padding: 20px 30px 50px;
     }
   }
 }
