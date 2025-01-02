@@ -120,6 +120,9 @@
     }
 
     li {
+      display: list-item;
+      list-style-position: inside;
+      list-style: circle;
       padding-left: 20px;
     }
 
