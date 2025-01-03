@@ -7,7 +7,7 @@ authors: "Barnett, Z."
 draft: false
 layout: "book"
 menu: "guest"
-weight: 9
+weight: 90
 image: "/img/essays/voting.jpg"
 imageCaption: "Utilitarianism and Voting"
 summary: "This essay discusses the value of voting from a utilitarian perspective. It explores how to estimate the chance of casting a decisive vote, how to think about the stakes of an election, and whether we can reliably identify which candidate is better."

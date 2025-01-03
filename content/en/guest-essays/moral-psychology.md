@@ -7,11 +7,11 @@ authors: "Caviola, L. & Greene, J."
 draft: false
 layout: "book"
 menu: "guest"
-weight: 3
+weight: 30
 image: "/img/essays/moral-psychology.jpg"
 imageCaption: "Moral Psychology and Utilitarianism"
 summary: "As an abstract ideal, utilitarianism may sound like simple common sense. But utilitarianism has some implications that are counterintuitive. This essay explores how psychological biases can explain anti-utilitarian intuitions."
-description: "Essay exploring Utilitarianism, its counterintuitive implications and how psychological biases can explain anti-utilitarian intuitions."
+description: "Essay exploring Utilitarianism, its counterintuitive implications and how psychological biases can explain anti-utilitarian intuitions. Moral psychology."
 ---
 
 {{< guest-disclaimer >}}

@@ -7,7 +7,7 @@ authors: "Eyal, N."
 draft: false
 layout: "book"
 menu: "guest"
-weight: 6
+weight: 60
 image: "/img/essays/research-ethics.jpg"
 imageCaption: "Utilitarianism and Research Ethics"
 summary: "This essay questions common assumptions about the philosophical foundations of research ethics. It argues that (I) utilitarianism can account for many core research ethics norms, (II) Kantian ethics may conflict with many core research ethics norms, and (III) a more utilitarian outlook would improve contemporary research ethics in concrete ways."

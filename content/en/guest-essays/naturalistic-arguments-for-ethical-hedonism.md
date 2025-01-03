@@ -7,7 +7,7 @@ authors: "Sinhababu, N."
 draft: false
 layout: "book"
 menu: "guest"
-weight: 12
+weight: 120
 image: "/img/essays/hedonism.jpg"
 imageCaption: "Naturalistic Arguments for Ethical Hedonism"
 summary: "Many deny that objective and universal moral truth exists. Many more deny that it can be empirically discovered within natural reality. The arguments in this essay seek to empirically discover objective and universal moral truth in natural reality. This truth is that pleasure is goodness."

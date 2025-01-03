@@ -7,7 +7,7 @@ authors: "Yew-Kwang Ng"
 draft: false
 layout: "book"
 menu: "guest"
-weight: 11
+weight: 110
 image: "/img/essays/welfare-economics.jpg"
 imageCaption: "Welfare Economics and Interpersonal Utility Comparisons"
 summary: "Many students of economics and philosophy have been puzzled by whether utility is cardinally or only ordinally measurable, and whether interpersonal comparisons of utility are possible in principle and in practice. This essay attempts to answer these questions, using simple arguments."

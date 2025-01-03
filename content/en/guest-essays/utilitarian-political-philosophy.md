@@ -7,7 +7,7 @@ authors: "Schultz-Bergin, M."
 draft: false
 layout: "book"
 menu: "guest"
-weight: 16
+weight: 65
 image: "/img/essays/political-philosophy.jpg"
 imageCaption: "Utilitarian Political Philosophy"
 summary: "This essay explores how utilitarianism can make sense of core political concepts (like rights, authority, and justice) while maintaining its fundamental commitment to promoting well-being. The result is a distinctive and attractive approach to political philosophy that combines pragmatic attention to consequences with robust protections for individual liberty."
