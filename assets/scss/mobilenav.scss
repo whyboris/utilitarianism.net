@@ -121,9 +121,19 @@
 
     li {
       display: list-item;
+      font-size: 14px;
       list-style-position: inside;
       list-style: circle;
-      padding-left: 20px;
+      margin-left: 35px;
+      padding-left: 0px;
+
+      &::marker {
+        color: $very-light-blue;
+      }
+
+      a {
+        vertical-align: middle;
+      }
     }
 
     li:last-child {

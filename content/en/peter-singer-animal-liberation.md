@@ -1,18 +1,18 @@
 ---
 title: "Study Guide: Peter Singer's Animal Liberation"
 slug: "peter-singer-animal-liberation"
-book: "Study Guide: Peter Singer's Animal Liberation"
+book: "Study Guide: Peter Singer's 'Animal Liberation' All Animals are Equal"
 authors: "Chappell, R.Y."
-menuTitle: "Animal Liberation"
+menuTitle: "Animal Liberation: All Animals are Equal"
 date: 2025-01-01
 draft: false
 menu: "guide"
-weight: 3
+weight: 2
 type: _default
 layout: book
 gradientTop: "#0c3b5b"
 gradientBottom: "#295573"
-description: "Study guide for Peter Singer's Animal Liberation (1975)"
+description: "Study guide for Peter Singer's Animal Liberation (1975) All Animals are Equal"
 ---
 
 {{< TOC >}}
