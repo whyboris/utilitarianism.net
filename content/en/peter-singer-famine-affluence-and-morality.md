@@ -3,7 +3,7 @@ title: "Study Guide: Peter Singer's 'Famine, Affluence, and Morality'"
 slug: "peter-singer-famine-affluence-and-morality"
 book: "Study Guide: Peter Singer's 'Famine, Affluence, and Morality'"
 authors: "Chappell, R.Y. and Meissner, D."
-menuTitle: "Famine, Affluence, and Morality"
+menuTitle: "Peter Singer's Famine, Affluence, and Morality"
 date: 2023-01-29
 draft: false
 menu: "guide"
