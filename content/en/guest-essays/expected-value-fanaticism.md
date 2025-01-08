@@ -210,7 +210,7 @@ To understand why Stochastic Dominance and Separability are jointly inconsistent
 Table 8
 
 | No. of flips | 1 | 2 | 3 | … |
-| :---- | :---: | ----- | ----- | :---: |
+| :---- | :---: | :---: | :---: | :---: |
 | **Probability** | 1/2 | 1/4 | 1/8 | … |
 | *St. Petersburg* | 2 | 4 | 8 | … |
 | *St. Petersburg<sub>-</sub>* | 1 | 3 | 7 | … |
@@ -257,7 +257,7 @@ Table 10
 | St. Petersburg & St. Petersburg | 4 | 8 | 16 | … | 4 | 8 | 16 | … |
 | St. Petersburg<sup>-</sup> & St. Petersburg<sup>-</sup> | 4 | 8 | 16 | … | 4 | 8 | 16 | … |
 
-Let’s go through the argument again. By Stochastic Dominance, St. Petersburg is better than St. Petersburg*\-.* By Separability, St. Petersburg & St. Petersburg must then be better than St. Petersburg<sup>-</sup> & St. Petersburg<sup>-</sup>. However, St. Petersburg & St. Petersburg is stochastically equivalent to St. Petersburg<sup>-</sup> & St. Petersburg<sup>-</sup>, which implies that they should be equally good. Yet they cannot be equally good when St. Petersburg & St. Petersburg is also better than St. Petersburg<sup>-</sup> & St. Petersburg*\-.* This contradiction shows that Stochastic Dominance and Separability cannot both hold.[^14]
+Let’s go through the argument again. By Stochastic Dominance, St. Petersburg is better than St. Petersburg<sup>-</sup>. By Separability, St. Petersburg & St. Petersburg must then be better than St. Petersburg<sup>-</sup> & St. Petersburg<sup>-</sup>. However, St. Petersburg & St. Petersburg is stochastically equivalent to St. Petersburg<sup>-</sup> & St. Petersburg<sup>-</sup>, which implies that they should be equally good. Yet they cannot be equally good when St. Petersburg & St. Petersburg is also better than St. Petersburg<sup>-</sup> & St. Petersburg<sup>-</sup>. This contradiction shows that Stochastic Dominance and Separability cannot both hold.[^14]
 
 Recall that Stochastic Dominance and Simple Separability together entail fanaticism. However, we have just seen that Stochastic Dominance and a generalization of Simple Separability are inconsistent together. Yet whatever reasoning supports Simple Separability should also justify its generalization.[^15] Unless there is a special reason to endorse Simple Separability that does not also apply to its generalized form, one has no grounds for accepting Simple Separability if one rejects Separability. Moreover, Stochastic Dominance shows that Separability is wrong. Therefore, without such a unique justification for Simple Separability, we can reject the argument for fanaticism based on Stochastic Dominance and Simple Separability.
 
@@ -274,7 +274,7 @@ To understand why Stochastic Dominance and Negative Reflection are inconsistent 
 Table 11
 
 | No. of flips | 1 | 2 | 3 | … |
-| :---- | :---: | ----- | ----- | :---: |
+| :---- | :---: | :---: | :---: | :---: |
 | **Probability** | 1/2 | 1/4 | 1/8 | … |
 | *St. Petersburg* | 2 | 4 | 8 | … |
 | *St. Petersburg</sup>+</sup>* | 3 | 5 | 9 | … |
