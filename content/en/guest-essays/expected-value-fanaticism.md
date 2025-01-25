@@ -362,6 +362,8 @@ We have seen how fanaticism follows from various plausible principles. However, 
 * Tarsney, C. (2020). Exceeding expectations: Stochastic dominance as a general decision theory. Global Priorities Institute Working Paper No. 3–2020. [*https://globalprioritiesinstitute.org/christian-tarsney-exceeding-expectations-stochastic-dominance-as-a-general-decision-theory/*](https://globalprioritiesinstitute.org/christian-tarsney-exceeding-expectations-stochastic-dominance-as-a-general-decision-theory/)
 * Wilkinson, H. (2022). In defence of fanaticism. *Ethics 132*(2), 445–477.
 
+{{< guest-essays true >}}
+
 [^1]:  This case is from [Carlsmith and Balasubramanian (2024)](https://www.utilitarianism.net/guest-essays/expected-utility-maximization/).
 
 [^2]:  Expected utility theory with a bounded utility function can avoid this implication (more on bounded utilities later).
