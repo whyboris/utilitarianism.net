@@ -1,13 +1,13 @@
 ---
 title: "Utilitarianism: Simply Explained"
+slug: "utilitarianism-for-high-school-students"
 book: "Utilitarianism: Simply Explained"
-menuTitle: "Utilitarianism: Simply Explained"
 authors: "Chappell, R.Y."
+menuTitle: "Utilitarianism: Simply Explained"
 date: 2023-01-29
-updated: 2022, Sept 5th - in sync with website
 draft: false
 menu: "guide"
-weight: 2
+weight: 3
 type: _default
 layout: book
 gradientTop: "#0c3b5b"
