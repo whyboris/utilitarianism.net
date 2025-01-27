@@ -26,7 +26,7 @@ Consider the following example. Charity A saves the life of one person with cert
 
 Expected Utility Maximization can give counterintuitive recommendations in cases that involve tiny probabilities of great value. Instead of choosing Charity A, Expected Utility Maximization would also direct us to choose Charity C, which gives a 0.1% chance of saving 10,000 people, as Charity C also saves 10 lives in expectation. We can keep lowering the probability of saving any lives at all as long as we compensate for this by increasing the number of lives potentially saved—Expected Utility Maximization would still advise us to choose these options over Charity A.[^2] For example, Expected Utility Maximization would advise us to choose Charity Z, which gives probability 10<sup>-26</sup> of saving octillion (10<sup>27</sup>) lives, over Charity A. Choosing Charity Z means we would be letting someone die for a minuscule probability of saving (a great number of) lives. Many find this implication deeply counterintuitive.
 
-Consider another case (*Devil at Your Deathbed*).[^3] You are down to your last year of life when the devil shows up with an offer: he will give you ten happy years instead, with a 0.999 probability (otherwise immediate death). You accept the offer. Then he comes back offering a hundred years of happy life—10 times as long—with a 0.9992 probability—just 0.1% lower. You accept again. After some 50,000 such trades, you end up with a 0.999<sup>50,000</sup> probability of 10<sup>50,000</sup> years of happy life. With a chance of success less than one in 1021, you predictably die soon thereafter—even though you could have chosen, for example, ten billion years of happy life with an over 0.99 probability of success.
+Consider another case (*Devil at Your Deathbed*).[^3] You are down to your last year of life when the devil shows up with an offer: he will give you ten happy years instead, with a 0.999 probability (otherwise immediate death). You accept the offer. Then he comes back offering a hundred years of happy life—10 times as long—with a 0.999<sup>2</sup> probability—just 0.1% lower. You accept again. After some 50,000 such trades, you end up with a 0.999<sup>50,000</sup> probability of 10<sup>50,000</sup> years of happy life. With a chance of success less than one in 10<sup>21</sup>, you predictably die soon thereafter—even though you could have chosen, for example, ten billion years of happy life with an over 0.99 probability of success.
 
 This is an example of what is called *fanaticism* in decision theory. Informally, fanaticism is the idea that tiny probabilities of great value can matter a great deal in practical decision-making. More formally, it states that
 
@@ -203,9 +203,9 @@ To understand why Stochastic Dominance and Separability are jointly inconsistent
 
 > **St. Petersburg Games**. A fair coin is flipped until a heads appears.
 >
-> *St. Petersburg*: Gives 2n happy lives, where 𝑛 is the number of coin flips.
+> *St. Petersburg*: Gives 2<sup>n</sup> happy lives, where 𝑛 is the number of coin flips.
 >
-> *St. Petersburg<sup>-</sup >*: Gives 2n-1 happy lives, where 𝑛 is the number of coin flips.
+> *St. Petersburg<sup>-</sup>*: Gives 2<sup>n-1</sup> happy lives, where 𝑛 is the number of coin flips.
 
 Table 8
 
@@ -217,9 +217,9 @@ Table 8
 
 Both versions of this game have infinite expected value (or utility):
 
-> St. Petersburg: 1/22+1/44+1/88 . . .=1+1+1 . . .= ∞
+> St. Petersburg: 1/2 × 2 + 1/4 × 4 + 1/8 × 8 . . . = 1 + 1 + 1 . . . = ∞
 >
-> St. Petersburg<sup>-</sup>: 1/21+1/43+1/87 . . .=1/2+3/4+7/8 . . .= ∞
+> St. Petersburg<sup>-</sup>: 1/2 × 1 + 1/4 × 3 +1/8 × 7 . . . = 1/2 + 3/4 + 7/8 . . . = ∞
 
 St. Petersburg<sup>-</sup> has the same probability distribution as the standard St. Petersburg game, yet the outcomes are worse. It is clear that St. Petersburg is preferable to St. Petersburg<sup>-</sup>; indeed, this follows from Stochastic Dominance.
 
@@ -228,7 +228,7 @@ Next, by Separability, combining two instances of St. Petersburg (one here on Ea
 However, it is possible to set up the games in such a way that St. Petersburg & St. Petersburg is stochastically equivalent to St. Petersburg<sup>-</sup> & St. Petersburg<sup>-</sup>: they give the same probabilities of the same outcomes. Concretely, in this setup, the outcomes of the two St. Petersburg games depend on flipping a dime, whereas the outcomes of the two St. Petersburg<sup>-</sup> games depend on flipping the same dime and a penny (see Table 9).
 
 **Correlated St. Petersburg Games**: A dime is flipped repeatedly until it lands heads. A penny is flipped once. Both coins are fair.
-*Earth and Kepler St. Petersburg.* Each game gives 2n happy lives, where 𝑛 is the number of flips with the dime.
+*Earth and Kepler St. Petersburg.* Each game gives 2<sup>n</sup> happy lives, where 𝑛 is the number of flips with the dime.
 *Earth St. Petersburg<sup>-</sup>.* If the penny comes up heads, the game gives one happy life.
 Otherwise, it gives twice as many happy lives as St. Petersburg, minus one.
 *Kepler St. Petersburg<sup>-</sup>.* If the penny comes up tails, the game gives one happy life. Otherwise, it gives twice as many happy lives as St. Petersburg, minus one.
@@ -268,8 +268,10 @@ Next, recall how Stochastic Dominance, Negative Reflection and Background Indepe
 To understand why Stochastic Dominance and Negative Reflection are inconsistent if fanaticism is true, let’s consider the following variations of the St. Petersburg game:
 
 > **St. Petersburg Games**. A fair coin is flipped until a heads appears.
-> *St. Petersburg*: Gives 2n happy lives, where 𝑛 is the number of coin flips.
-> *St. Petersburg</sup>+</sup>*: Gives 2n+1 happy lives, where 𝑛 is the number of coin flips.
+>
+> *St. Petersburg*: Gives 2<sup>n</sup> happy lives, where 𝑛 is the number of coin flips.
+>
+> *St. Petersburg</sup>+</sup>*: Gives 2<sup>n</sup> + 1 happy lives, where 𝑛 is the number of coin flips.
 
 Table 11
 
