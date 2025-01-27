@@ -7,7 +7,7 @@ authors: "Kosonen, P."
 draft: false
 layout: "book"
 menu: "guest"
-weight: 333
+weight: 105
 image: "/img/essays/expected-value-fanaticism.jpg"
 imageCaption: "Expected Value Fanaticism"
 summary: "Expected value maximization can seem 'fanatical' when it prioritizes tiny chances of extraordinarily large gains over more certain smaller benefits. But it turns out that there are powerful arguments both for and against expected value fanaticism, and no alternative approach that is clearly superior. This essay introduces some of the complexities."
@@ -66,7 +66,7 @@ Table 1
 
 |  | State 1 | State 2 | State 3 |
 | :---- | :---: | :---: | :---: |
-| **Probability** | *p* | *q* (much smaller than *p*) | 1-*p*\-*q* |
+| **Probability** | *p* | *q* (much smaller than *p*) | 1 - *p* - *q* |
 | More | *N* | 0 | 0 |
 | Less | *0* | *n* | 0 |
 
@@ -78,7 +78,7 @@ Table 2
 
 |  | State 1 | State 2 | State 3 |
 | :---- | :---: | :---: | :---: |
-| **Probability** | *p* | *q* (much smaller than *p*) | 1-*p*\-*q* |
+| **Probability** | *p* | *q* (much smaller than *p*) | 1 - *p* - *q* |
 | Kepler | *n* | 0 | 0 |
 
 Given that keplerians face prospect Kepler, your choice is effectively between a combination of More and Kepler versus a combination of Less and Kepler (let’s denote these by More & Kepler and Less & Kepler, respectively):
@@ -87,8 +87,8 @@ Table 3
 
 |  | State 1 | State 2 | State 3 |
 | :---- | :---: | :---: | :---: |
-| **Probability** | *p* | *q* (much smaller than *p*) | 1-*p*\-*q* |
-| More & Kepler | *N*\+*n* | 0 | 0 |
+| **Probability** | *p* | *q* (much smaller than *p*) | 1 - *p* - *q* |
+| More & Kepler | *N* + *n* | 0 | 0 |
 | Less & Kepler | *n* | *n* | 0 |
 
 Now, recall that the principle More is Better says that it is better to have a much higher chance of many more happy lives than a smaller chance of fewer happy lives. It follows from More is Better that More is indeed better than Less: More gives a great number of lives in a higher-probability state 1 and Less gives a small number of lives in a lower-probability state 2 (see Table 1).
@@ -111,7 +111,7 @@ To understand how Simple Separability and Stochastic Dominance lead to fanaticis
 >
 > *Safe*. Guarantees one happy life.
 >
-> *Risky*. Gives a non-zero probability *p* of *n*\+1 happy lives (a great outcome).
+> *Risky*. Gives a non-zero probability *p* of *n* + 1 happy lives (a great outcome).
 
 Let *p* be very tiny. Then, this case is fanatical, so what you ought to choose between Safe and Risky is linked to whether or not fanaticism is true: if Risky is better than Safe, then fanaticism is true.
 
@@ -124,7 +124,7 @@ Table 4
 | Probability | *p* (larger) | *q* | *q* | *q* | *…* | *q* |
 | ----- | :---: | :---: | :---: | :---: | :---: | :---: |
 | *Safe* | 1 | 1 | 1 | 1 | … | 1 |
-| *Risky* | *n*\+1 | 0 | 0 | 0 | … | 0 |
+| *Risky* | *n* + 1 | 0 | 0 | 0 | … | 0 |
 | *Kepler\** | 0 | 1 | 2 | 3 | … | *n* |
 
 Given that keplerians face prospect Kepler\*, your choice (in terms of the overall value of the Universe) is effectively between Safe & Kepler\* versus Risky & Kepler\*:
@@ -133,8 +133,8 @@ Table 5
 
 | Probability | *p* (larger than *q*) | *q* | *q* | *…* | *q* |
 | ----- | :---: | :---: | :---: | :---: | :---: |
-| *Safe* & *Kepler\** | 1 | 2 | 3 | *…* | *n*\+1 |
-| *Risky* & *Kepler\** | *n*\+1 | 1 | 2 | *…* | *n* |
+| *Safe* & *Kepler\** | 1 | 2 | 3 | *…* | *n* + 1 |
+| *Risky* & *Kepler\** | *n* + 1 | 1 | 2 | *…* | *n* |
 
 Note that probability 𝑝 is greater than probability 𝑞. We can therefore split the second column of Table 5 into two columns, one giving probability *p*\-*q* and the other probability *q*:
 
@@ -142,19 +142,19 @@ Table 6
 
 | Probability | *p*\-*q* | *q* | *q* | *q* | *…* | *q* |
 | ----- | :---: | :---: | :---: | :---: | :---: | :---: |
-| *Safe* & *Kepler\** | 1 | 1 | 2 | 3 | *…* | *n*\+1 |
-| *Risky* & *Kepler\** | *n*\+1 | *n*\+1 | 1 | 2 | *…* | *n* |
+| *Safe* & *Kepler\** | 1 | 1 | 2 | 3 | *…* | *n* + 1 |
+| *Risky* & *Kepler\** | *n* + 1 | *n* + 1 | 1 | 2 | *…* | *n* |
 
-Lastly, we can reorder the outcomes of Risky & Kepler\* that are associated with probability *q* by shifting each of them to the column on its left side (see Table 7). The leftmost outcome under probability *q*—namely, *n*\+1—is then moved to the rightmost column (where *n* appears in Table 6).
+Lastly, we can reorder the outcomes of Risky & Kepler\* that are associated with probability *q* by shifting each of them to the column on its left side (see Table 7). The leftmost outcome under probability *q*—namely, *n* + 1—is then moved to the rightmost column (where *n* appears in Table 6).
 
 Table 7
 
 | Probability | *p*\-*q* | *q* | *q* | *q* | *…* | *q* |
 | ----- | :---: | :---: | :---: | :---: | :---: | :---: |
-| *Safe* & *Kepler\** | 1 | 1 | 2 | 3 | *…* | *n*\+1 |
-| *Risky* & *Kepler\** | *n*\+1 | 1 | 2 | 3 | *…* | *n*\+1 |
+| *Safe* & *Kepler\** | 1 | 1 | 2 | 3 | *…* | *n* + 1 |
+| *Risky* & *Kepler\** | *n* + 1 | 1 | 2 | 3 | *…* | *n* + 1 |
 
-After re-arranging the columns, we can now see clearly from Table 7 that the only difference between Safe & Kepler\* and Risky & Kepler\* is that the former gives probability *p*\-*q* of getting one happy life, whereas the latter gives the same probability of getting *n*\+1 happy lives. Because obtaining *n*\+1 happy lives is better than obtaining just one, Risky & Kepler\* stochastically dominates Safe & Kepler\*: for all possible outcomes, Risky & Kepler\* is at least as likely as Safe & Kepler\* to yield an outcome that is at least this good, and there is one outcome (namely, *n*\+1 happy lives) for which Risky & Kepler\* is more likely to yield an outcome at least this good. Therefore, by Stochastic Dominance, Risky & Kepler\* is better than Safe & Kepler\*.
+After re-arranging the columns, we can now see clearly from Table 7 that the only difference between Safe & Kepler\* and Risky & Kepler\* is that the former gives probability *p*\-*q* of getting one happy life, whereas the latter gives the same probability of getting *n* + 1 happy lives. Because obtaining *n* + 1 happy lives is better than obtaining just one, Risky & Kepler\* stochastically dominates Safe & Kepler\*: for all possible outcomes, Risky & Kepler\* is at least as likely as Safe & Kepler\* to yield an outcome that is at least this good, and there is one outcome (namely, *n* + 1 happy lives) for which Risky & Kepler\* is more likely to yield an outcome at least this good. Therefore, by Stochastic Dominance, Risky & Kepler\* is better than Safe & Kepler\*.
 
 Finally, given that Risky & Kepler\* is better than Safe & Kepler\*, Simple Separability implies that Risky is better than Safe—so fanaticism is true. This is because Simple Separability says that Risky is better than Safe if and only if Risky & Kepler\* is better than Safe & Kepler\*. So, by Simple Separability, Risky & Kepler\* cannot be better than Safe & Kepler\* unless Risky is also better than Safe.
 
@@ -219,7 +219,7 @@ Both versions of this game have infinite expected value (or utility):
 
 > St. Petersburg: 1/2 × 2 + 1/4 × 4 + 1/8 × 8 . . . = 1 + 1 + 1 . . . = ∞
 >
-> St. Petersburg<sup>-</sup>: 1/2 × 1 + 1/4 × 3 +1/8 × 7 . . . = 1/2 + 3/4 + 7/8 . . . = ∞
+> St. Petersburg<sup>-</sup>: 1/2 × 1 + 1/4 × 3 + 1/8 × 7 . . . = 1/2 + 3/4 + 7/8 . . . = ∞
 
 St. Petersburg<sup>-</sup> has the same probability distribution as the standard St. Petersburg game, yet the outcomes are worse. It is clear that St. Petersburg is preferable to St. Petersburg<sup>-</sup>; indeed, this follows from Stochastic Dominance.
 
