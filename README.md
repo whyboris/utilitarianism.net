@@ -18,7 +18,7 @@ If you're new to coding, see the [detailed instructions](instructions/README.md#
 
 First time:
 
-- Install [Hugo](https://gohugo.io/getting-started/installing/) (current version is `0.134.0` _extended edition_)
+- Install [Hugo](https://gohugo.io/getting-started/installing/) (current version is `0.143.0` _extended edition_)
 
 Any time after:
 

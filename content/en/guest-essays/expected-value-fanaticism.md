@@ -269,7 +269,7 @@ However, instead of using Simple Separability to argue for fanaticism, one may u
 
 > **Separability for Independent Prospects**. Uncertainty over what happens in distant places is not relevant to what we ought to do when we cannot affect what happens in those distant places and our available prospects are probabilistically independent of the prospects those distant places face.
 
-This principle, together with Stochastic Dominance, also leads to fanaticism.\footnote{See Wilkinson (2022) and Wilkinson (2024) for the argument.} Furthermore, this principle is not inconsistent with Stochastic Dominance, as the St. Petersburg prospects discussed in this section are not probabilistically independent of each other: what happens with one of them correlates with what happens with the others. Consequently, this version of Separability does not apply. So, if we can find a justification for this version of Separability that does not also apply to generalized Separability, we have an argument for fanaticism. One such justification could be that we get to keep Stochastic Dominance and at least some form of Separability without inconsistencies - these are plausible principles after all.[^15b]
+This principle, together with Stochastic Dominance, also leads to fanaticism.[^15b] Furthermore, this principle is not inconsistent with Stochastic Dominance, as the St. Petersburg prospects discussed in this section are not probabilistically independent of each other: what happens with one of them correlates with what happens with the others. Consequently, this version of Separability does not apply. So, if we can find a justification for this version of Separability that does not also apply to generalized Separability, we have an argument for fanaticism. One such justification could be that we get to keep Stochastic Dominance and at least some form of Separability without inconsistencies - these are plausible principles after all.[^15c]
 
 ### Stochastic Dominance and Negative Reflection imply fanaticism is false
 
@@ -412,7 +412,9 @@ We have seen how fanaticism follows from various plausible principles. However, 
 
 [^15]:  Russell (2024, p. 10).
 
-[^15b]: Wilkinson (2024). See Wilkinson (2024) for other possible justifications of Separability for Independent Prospects.
+[^15b]: See Wilkinson (2022) and Wilkinson (2024) for the argument.
+
+[^15c]: Wilkinson (2024). See Wilkinson (2024) for other possible justifications of Separability for Independent Prospects.
 
 [^16]:  This argument is from Russell (2024, §3) and Russell and Isaacs (2021). Also see Beckstead and Thomas (2020, §4).
 
