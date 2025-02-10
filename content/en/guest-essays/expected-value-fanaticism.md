@@ -58,9 +58,11 @@ More is Better seems obvious: it is better to get a higher probability of more g
 
 However, these very plausible principles lead to fanaticism. To see how, consider the following prospects (see Table 1):
 
-**More vs. Less**. There are three states the world could be in. Let the probability of state 1 be *p*, the probability of state 2 be *q* and the probability of state 3 be 1-*p*\-*q*. Also, let *p* be a much greater probability than *q*.
-*More*. Gives a great number of happy lives *N* in state 1 (and nothing in states 2 and 3).
-*Less*. Gives a small number of happy lives *n* in state 2 (and nothing in states 1 and 3).
+> **More vs. Less**. There are three states the world could be in. Let the probability of state 1 be *p*, the probability of state 2 be *q* and the probability of state 3 be 1-*p*\-*q*. Also, let *p* be a much greater probability than *q*.
+>
+> *More*. Gives a great number of happy lives *N* in state 1 (and nothing in states 2 and 3).
+>
+> *Less*. Gives a small number of happy lives *n* in state 2 (and nothing in states 1 and 3).
 
 Table 1
 
@@ -68,7 +70,7 @@ Table 1
 | :---- | :---: | :---: | :---: |
 | **Probability** | *p* | *q* (much smaller than *p*) | 1 - *p* - *q* |
 | More | *N* | 0 | 0 |
-| Less | *0* | *n* | 0 |
+| Less | 0 | *n* | 0 |
 
 Next, suppose that you here on Earth have a choice between More and Less, and you think that the inhabitants of Kepler-186f—call them keplerians—face the following prospect (see Table 2):
 
@@ -121,7 +123,7 @@ While you face the choice between Safe and Risky, this time the keplerians face 
 
 Table 4
 
-| Probability | *p* (larger) | *q* | *q* | *q* | *…* | *q* |
+| Probability | *p* (larger than *q*) | *q* | *q* | *q* | *…* | *q* |
 | ----- | :---: | :---: | :---: | :---: | :---: | :---: |
 | *Safe* | 1 | 1 | 1 | 1 | … | 1 |
 | *Risky* | *n* + 1 | 0 | 0 | 0 | … | 0 |
@@ -136,7 +138,7 @@ Table 5
 | *Safe* & *Kepler\** | 1 | 2 | 3 | *…* | *n* + 1 |
 | *Risky* & *Kepler\** | *n* + 1 | 1 | 2 | *…* | *n* |
 
-Note that probability 𝑝 is greater than probability 𝑞. We can therefore split the second column of Table 5 into two columns, one giving probability *p*\-*q* and the other probability *q*:
+Note that probability *p* is greater than probability *q*. We can therefore split the second column of Table 5 into two columns, one giving probability *p*\-*q* and the other probability *q*:
 
 Table 6
 
@@ -168,7 +170,7 @@ Next, we will see that Stochastic Dominance, together with two other plausible p
 >
 > **Background Independence**. Some prospect *A* is better than another prospect *B* if and only if the combined prospect *A* plus some far away outcome *O* is also better than the combined prospect *B* plus the same far away outcome *O*.
 
-Suppose that you are somewhere tropical and warm. The weather forecast says that either there will be heavy rain or burning sunshine. You have an umbrella that can protect against both. If it rains, you prefer having the umbrella. And if there is burning sunshine, you are neutral about having the umbrella and not having it. So, it would be odd if you nonetheless prefer not bringing the umbrella: no matter what happens, you will be happy or neutral about having brought it\! Negative Reflection tells us that you should indeed bring the umbrella.
+Suppose that you are somewhere tropical and warm. The weather forecast says that either there will be heavy rain or burning sunshine. You have an umbrella that can protect against both. If it rains, you prefer having the umbrella. And if there is burning sunshine, you are neutral about having the umbrella and not having it. It would be odd if you nonetheless prefer not bringing the umbrella: no matter what happens, you will be happy or neutral about having brought it\! Negative Reflection tells us that you should indeed bring the umbrella.
 
 Background Independence, in turn, is similar to (Simple) Separability: the difference between these two principles is that Separability tells us that far-away *uncertain prospects* do not matter to what we ought to do, while Background Independence says that far-away *final outcomes* do not matter to what we ought to do. According to Separability, you can ignore your uncertainty over what might happen on Kepler-186f when you make decisions here on Earth; according to Background Independence, you can ignore your knowledge of the final outcomes on this distant planet.
 
@@ -203,9 +205,9 @@ To understand why Stochastic Dominance and Separability are jointly inconsistent
 
 > **St. Petersburg Games**. A fair coin is flipped until a heads appears.
 >
-> *St. Petersburg*: Gives 2<sup>n</sup> happy lives, where 𝑛 is the number of coin flips.
+> *St. Petersburg*. Gives 2<sup>n</sup> happy lives, where 𝑛 is the number of coin flips.
 >
-> *St. Petersburg<sup>-</sup>*: Gives 2<sup>n-1</sup> happy lives, where 𝑛 is the number of coin flips.
+> *St. Petersburg<sup>-</sup>*. Gives 2<sup>n</sup> - 1 happy lives, where 𝑛 is the number of coin flips.
 
 Table 8
 
@@ -213,7 +215,7 @@ Table 8
 | :---- | :---: | :---: | :---: | :---: |
 | **Probability** | 1/2 | 1/4 | 1/8 | … |
 | *St. Petersburg* | 2 | 4 | 8 | … |
-| *St. Petersburg<sub>-</sub>* | 1 | 3 | 7 | … |
+| *St. Petersburg<sup>-</sup>* | 1 | 3 | 7 | … |
 
 Both versions of this game have infinite expected value (or utility):
 
@@ -227,11 +229,13 @@ Next, by Separability, combining two instances of St. Petersburg (one here on Ea
 
 However, it is possible to set up the games in such a way that St. Petersburg & St. Petersburg is stochastically equivalent to St. Petersburg<sup>-</sup> & St. Petersburg<sup>-</sup>: they give the same probabilities of the same outcomes. Concretely, in this setup, the outcomes of the two St. Petersburg games depend on flipping a dime, whereas the outcomes of the two St. Petersburg<sup>-</sup> games depend on flipping the same dime and a penny (see Table 9).
 
-**Correlated St. Petersburg Games**: A dime is flipped repeatedly until it lands heads. A penny is flipped once. Both coins are fair.
-*Earth and Kepler St. Petersburg.* Each game gives 2<sup>n</sup> happy lives, where 𝑛 is the number of flips with the dime.
-*Earth St. Petersburg<sup>-</sup>.* If the penny comes up heads, the game gives one happy life.
-Otherwise, it gives twice as many happy lives as St. Petersburg, minus one.
-*Kepler St. Petersburg<sup>-</sup>.* If the penny comes up tails, the game gives one happy life. Otherwise, it gives twice as many happy lives as St. Petersburg, minus one.
+> **Correlated St. Petersburg Games**: A dime is flipped repeatedly until it lands heads. A penny is flipped once. Both coins are fair.
+>
+> *Earth and Kepler St. Petersburg*. Each game gives 2<sup>n</sup> happy lives, where 𝑛 is the number of flips with the dime.
+>
+> *Earth St. Petersburg<sup>-</sup>*. If the penny comes up heads, the game gives one happy life. Otherwise, it gives twice as many happy lives as St. Petersburg, minus one.
+>
+> *Kepler St. Petersburg<sup>-</sup>*. If the penny comes up tails, the game gives one happy life. Otherwise, it gives twice as many happy lives as St. Petersburg, minus one.
 
 Table 9
 
@@ -261,6 +265,12 @@ Let’s go through the argument again. By Stochastic Dominance, St. Petersburg i
 
 Recall that Stochastic Dominance and Simple Separability together entail fanaticism. However, we have just seen that Stochastic Dominance and a generalization of Simple Separability are inconsistent together. Yet whatever reasoning supports Simple Separability should also justify its generalization.[^15] Unless there is a special reason to endorse Simple Separability that does not also apply to its generalized form, one has no grounds for accepting Simple Separability if one rejects Separability. Moreover, Stochastic Dominance shows that Separability is wrong. Therefore, without such a unique justification for Simple Separability, we can reject the argument for fanaticism based on Stochastic Dominance and Simple Separability.
 
+However, instead of using Simple Separability to argue for fanaticism, one may use the following Separability principle instead:
+
+> **Separability for Independent Prospects**. Uncertainty over what happens in distant places is not relevant to what we ought to do when we cannot affect what happens in those distant places and our available prospects are probabilistically independent of the prospects those distant places face.
+
+This principle, together with Stochastic Dominance, also leads to fanaticism.\footnote{See Wilkinson (2022) and Wilkinson (2024) for the argument.} Furthermore, this principle is not inconsistent with Stochastic Dominance, as the St. Petersburg prospects discussed in this section are not probabilistically independent of each other: what happens with one of them correlates with what happens with the others. Consequently, this version of Separability does not apply. So, if we can find a justification for this version of Separability that does not also apply to generalized Separability, we have an argument for fanaticism. One such justification could be that we get to keep Stochastic Dominance and at least some form of Separability without inconsistencies - these are plausible principles after all.[^15b]
+
 ### Stochastic Dominance and Negative Reflection imply fanaticism is false
 
 Next, recall how Stochastic Dominance, Negative Reflection and Background Independence imply fanaticism. However, if fanaticism holds, then Stochastic Dominance and Negative Reflection turn out to be jointly inconsistent.[^16] Consequently, the argument for fanaticism using these principles as premises cannot be sound.
@@ -269,9 +279,9 @@ To understand why Stochastic Dominance and Negative Reflection are inconsistent 
 
 > **St. Petersburg Games**. A fair coin is flipped until a heads appears.
 >
-> *St. Petersburg*: Gives 2<sup>n</sup> happy lives, where 𝑛 is the number of coin flips.
+> *St. Petersburg*. Gives 2<sup>n</sup> happy lives, where 𝑛 is the number of coin flips.
 >
-> *St. Petersburg</sup>+</sup>*: Gives 2<sup>n</sup> + 1 happy lives, where 𝑛 is the number of coin flips.
+> *St. Petersburg</sup>+</sup>*. Gives 2<sup>n</sup> + 1 happy lives, where 𝑛 is the number of coin flips.
 
 Table 11
 
@@ -363,6 +373,7 @@ We have seen how fanaticism follows from various plausible principles. However, 
 * Tarsney, C. (2024). Against anti-fanaticism. *Philosophy and Phenomenological Research*, 1–20.
 * Tarsney, C. (2020). Exceeding expectations: Stochastic dominance as a general decision theory. Global Priorities Institute Working Paper No. 3–2020. [*https://globalprioritiesinstitute.org/christian-tarsney-exceeding-expectations-stochastic-dominance-as-a-general-decision-theory/*](https://globalprioritiesinstitute.org/christian-tarsney-exceeding-expectations-stochastic-dominance-as-a-general-decision-theory/)
 * Wilkinson, H. (2022). In defence of fanaticism. *Ethics 132*(2), 445–477.
+* Wilkinson, H. (2024). Egyptology and fanaticism. Philosophical Studies 181(8), 1903-1923.
 
 {{< guest-essays true >}}
 
@@ -390,11 +401,18 @@ We have seen how fanaticism follows from various plausible principles. However, 
 
 [^12]:  See Russell (2024) for the original argument.
 
-[^13]:  Here’s the explanation: St. Petersburg is better than St. Petersburg-, so, by Separability, the combined prospect St. Petersburg & St. Petersburg is better than St. Petersburg- & St. Petersburg. The fact that Kepler-186f faces St. Petersburg should not alter the ranking between St. Petersburg and St. Petersburg- here on Earth.
+[^13]:
+    Here’s the explanation: St. Petersburg is better than St. Petersburg<sup>-</sup>, so, by Separability, the combined prospect St. Petersburg & St. Petersburg is better than St. Petersburg<sup>-</sup> & St. Petersburg. The fact that Kepler-186f faces St. Petersburg should not alter the ranking between St. Petersburg and St. Petersburg<sup>-</sup> here on Earth.
+
+    Next, as St. Petersburg is better than St. Petersburg<sup>-</sup>, St. Petersburg<sup>-</sup> & St. Petersburg is better than St. Petersburg<sup>-</sup> & St. Petersburg<sup>-</sup>. The fact that we on Earth face St. Petersburg<sup>-</sup> should not alter the ranking between St. Petersburg and St. Petersburg<sup>-</sup> on Kepler-186f.
+
+    Now we have that St. Petersburg & St. Petersburg is better than St. Petersburg<sup>-</sup> & St. Petersburg, and that St. Petersburg<sup>-</sup> & St. Petersburg is better than St. Petersburg<sup>-</sup> & St. Petersburg<sup>-</sup>. It follows by transitivity that St. Petersburg & St. Petersburg is better than St. Petersburg<sup>-</sup> & St. Petersburg<sup>-</sup>.
 
 [^14]:  As before, this way of presenting the argument assumes that the number, but not the location, of happy lives is what matters. See Russell (2024) for the complete argument.
 
 [^15]:  Russell (2024, p. 10).
+
+[^15b]: Wilkinson (2024). See Wilkinson (2024) for other possible justifications of Separability for Independent Prospects.
 
 [^16]:  This argument is from Russell (2024, §3) and Russell and Isaacs (2021). Also see Beckstead and Thomas (2020, §4).
 
