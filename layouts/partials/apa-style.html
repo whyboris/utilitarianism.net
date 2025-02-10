@@ -164,7 +164,7 @@ MARK: -------------------------- Book ---------------------------------
   {{- end -}}.
 
   {{ if isset . "publisher-place" -}}
-    {{- echoParam . "publisher-place" -}}:
+    {{- index . "publisher-place" -}}:
   {{- end -}}
 
   {{- with .publisher -}}&#32;{{- . -}}.{{- end }}
@@ -192,7 +192,7 @@ MARK: -------------------------- Chapter ---------------------------------
     {{- end -}}
 
     <i>{{/* italicize title */}}
-      {{- $tempTitle := echoParam . "container-title" -}}
+      {{- $tempTitle := index . "container-title" -}}
       {{ title $tempTitle -}}
     </i>.
   {{- end -}}
@@ -239,7 +239,7 @@ MARK: -------------------------- Article ---------------------------------
     {{- end -}}
 
     <i> {{/* italicize journal title */}}
-      {{- echoParam . "container-title" -}}
+      {{- index . "container-title" -}}
 
       {{- if isset . "volume" -}}
         ,&#32;{{- .volume -}}
@@ -269,7 +269,7 @@ MARK: -------------------------- Webpage ---------------------------------
 
   {{- if isset . "container-title" -}}
     <i><a href="{{ .URL }}">
-      {{ echoParam . "container-title" -}}
+      {{ index . "container-title" -}}
     </a></i>
   {{- end -}}.
 
@@ -293,7 +293,7 @@ MARK: -------------------------- Ph.D. Thesis ---------------------------------
   {{- end -}}
 
   {{ if isset . "publisher-place" -}}
-    ,&#32;{{- echoParam . "publisher-place" -}}.
+    ,&#32;{{- index . "publisher-place" -}}.
   {{- else -}}
     .
   {{- end -}}
@@ -316,13 +316,13 @@ MARK: -------------------------- Report ---------------------------------
   {{- end -}}
 
   {{- if isset . "number" -}}
-    &nbsp;({{- echoParam . "number" -}})
+    &nbsp;({{- index . "number" -}})
   {{- end -}}.&nbsp;
 
   {{- with .publisher -}}
     {{- . -}}{{- end -}}
     {{ if isset . "publisher-place" -}}:&#32;
-    {{- echoParam . "publisher-place" -}}.
+    {{- index . "publisher-place" -}}.
   {{- end }}
 
 
@@ -332,4 +332,3 @@ MARK: -------------------------- etc ---------------------------------
 {{- else -}}
   <span style="background-color: #f00; color: #fff;">TEMPLATE NOT FOUND</span>
 {{- end -}}
-
