@@ -101,7 +101,7 @@ Este sitio web fue lanzado desde [Queen's Lane Coffee House](http://www.qlcoffee
 
 > El Dr. Priestley publicó su Ensayo sobre el Gobierno en 1768. Allí introdujo como el único objeto razonable y apropiado del gobierno, '**la mayor felicidad del mayor número.**' ... De algún modo, poco después de su publicación, un ejemplar de este panfleto llegó a la pequeña biblioteca circulante perteneciente a una **pequeña cafetería adjunta al Queen's College, Oxford.** Era una casa en una esquina, una de cuyas fachadas daba a High Street y la otra a una estrecha calle que por ese lado bordea el Queen's College y se pierde en una calle que sale de una de las puertas del New College. \[...\]
 >
-> Fue a partir de ese panfleto y de esta frase que se determinaron \[mis\] principios sobre el tema de la moral tanto pública como privada. Fue de ese panfleto y de esa página de donde \[extraje\] la frase cuyas palabras e importancia han sido tan ampliamente difundidas por el mundo civilizado. Al verla \[grité\] en una suerte de éxtasis interior, como Arquímedes al descubrir el principio fundamental de la hidrostática, *¡Eureka!*.
+> Fue a partir de ese panfleto y de esta frase que se determinaron \[mis\] principios sobre el tema de la moral tanto pública como privada. Fue de ese panfleto y de esa página de donde \[extraje\] la frase cuyas palabras e importancia han sido tan ampliamente difundidas por el mundo civilizado. Al verla \[grité\] en una suerte de éxtasis interior, como Arquímedes al descubrir el principio fundamental de la hidrostática, *¡Eureka!*
 
 \- {{< cite Bentham2002DeontologyTogetherTable >}}
 

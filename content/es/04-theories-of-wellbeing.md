@@ -13,14 +13,14 @@ gradientBottom: "#1B7CCC"
 
 > _¿A qué se atribuirá el carácter de la utilidad, sino a lo que es fuente de placer?_
 >
-> –[Jeremy Bentham](/utilitarismo/jeremy-bentham)[^1]
+> –[Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham)[^1]
 { .align-author-right }
 
 {{< TOC >}}
 
 ## Introducción
 
-Un elemento central del utilitarismo es el [bienestarismo](/tipos-de-utilitarismo#bienestarismo)—la perspectiva de que sólo el _bienestar_ de las personas determina cuán bueno es un determinado estado del mundo. Mientras que los consecuencialistas afirman que lo correcto es promover la cantidad de bien en el mundo, los bienestaristas equiparan el bien que hay que promover con el bienestar específicamente.
+Un elemento central del utilitarismo es el [bienestarismo](/elementos-y-tipos-de-utilitarismo#bienestarismo)—la perspectiva de que sólo el _bienestar_ de las personas determina cuán bueno es un determinado estado del mundo. Mientras que los consecuencialistas afirman que lo correcto es promover la cantidad de bien en el mundo, los bienestaristas equiparan el bien que hay que promover con el bienestar específicamente.
 
 El término [bienestar](https://altruismoeficaz.net/temas/bienestar) se utiliza en filosofía para describir todo lo que es bueno en sí mismo para alguien —los llamados bienes de bienestar _intrínsecos_ o _básicos_— en contraposición a lo que sólo es bueno _instrumentalmente_. Por ejemplo, la felicidad es intrínsecamente buena para una persona; aumenta directamente su bienestar. Por el contrario, el dinero puede comprar muchas cosas útiles y, por lo tanto, es instrumentalmente bueno para una persona, pero no contribuye directamente, _en sí mismo_, a su bienestar. (Del mismo modo, podemos llamar lo que es intrínsecamente malo para una persona, como la miseria, "males del bienestar”.)
 
@@ -28,7 +28,7 @@ Sin embargo, existe un amplio desacuerdo acerca de qué constituye el bienestar.
 
 ## Hedonismo
 
-La teoría del bienestar que es parte del [utilitarismo clásico](/tipos-de-utilitarismo#los-dos-elementos-del-utilitarismo-clasico) es el _hedonismo_.[^4]
+La teoría del bienestar que es parte del [utilitarismo clásico](/elementos-y-tipos-de-utilitarismo/#los-dos-elementos-del-utilitarismo-clásico) es el _hedonismo_.[^4]
 
 > **El hedonismo es la perspectiva de que el bienestar consiste en, y sólo en, el saldo de las experiencias conscientes positivas sobre las negativas.**[^5]
 
@@ -36,7 +36,7 @@ Según esta perspectiva, los únicos bienes básicos del bienestar son las exper
 
 La concepción hedonista de la felicidad es amplia: abarca no sólo los casos paradigmáticos de placer sensorial —como las experiencias de comer comida deliciosa o tener relaciones sexuales—, sino también otras experiencias con valencia positiva, como las experiencias de resolver un problema, leer una novela o ayudar a un amigo. Los hedonistas afirman que todas estas experiencias placenteras son intrínsecamente valiosas. Los hedonistas también valoran otros bienes, como la riqueza, la salud, la justicia, la equidad y la igualdad, pero de forma instrumental. Es decir, sólo se valoran en la medida en que aumentan la felicidad y reducen el sufrimiento.
 
-Cuando el hedonismo se combina con la [imparcialidad](/tipos-de-utilitarismo#imparcialidad), como en el utilitarismo clásico, el alcance del hedonismo se vuelve universal. Esto significa que la felicidad y el sufrimiento se tratan con la misma importancia independientemente de cuándo, dónde o quién los experimente. De aquí se deriva el [sentiocentrismo](/utilitarismo-y-etica-practica#el-circulo-moral-en-expansion), la perspectiva de que deberíamos extender nuestra preocupación moral a todos los _seres sintientes_, incluidos los humanos y la mayoría de los animales no humanos, ya que sólo ellos pueden experimentar felicidad o sufrimiento. Por otra parte, los puntos de vista no utilitaristas pueden aceptar el hedonismo pero rechazar la imparcialidad, restringiendo así el alcance del hedonismo para sostener que sólo la felicidad de un grupo específico —o incluso de un solo individuo—[^6] debería "contar" moralmente.
+Cuando el hedonismo se combina con la [imparcialidad](/elementos-y-tipos-de-utilitarismo#imparcialidad-e-igual-consideración-de-intereses), como en el utilitarismo clásico, el alcance del hedonismo se vuelve universal. Esto significa que la felicidad y el sufrimiento se tratan con la misma importancia independientemente de cuándo, dónde o quién los experimente. De aquí se deriva el [sentiocentrismo](/utilitarismo-y-etica-practica#el-circulo-moral-en-expansion), la perspectiva de que deberíamos extender nuestra preocupación moral a todos los _seres sintientes_, incluidos los humanos y la mayoría de los animales no humanos, ya que sólo ellos pueden experimentar felicidad o sufrimiento. Por otra parte, los puntos de vista no utilitaristas pueden aceptar el hedonismo pero rechazar la imparcialidad, restringiendo así el alcance del hedonismo para sostener que sólo la felicidad de un grupo específico —o incluso de un solo individuo—[^6] debería "contar" moralmente.
 
 La idea central del hedonismo de que la felicidad es buena y el sufrimiento malo goza de amplia aceptación. El simple hecho de investigar nuestras propias experiencias conscientes mediante la introspección parece respaldar este punto de vista: el valor de la felicidad y el disvalor del sufrimiento son evidentes para quienes los experimentan.[^7] Y lo que es más importante, la felicidad parece buena (y el sufrimiento malo) no sólo porque sea una ayuda (o un obstáculo) para la consecución de _otros_ bienes, sino porque tener estas experiencias es algo bueno (o malo) en sí mismo.
 
@@ -49,7 +49,7 @@ Los críticos del hedonismo cuestionan la primera afirmación señalando casos d
 
 ### La objeción de los "placeres malvados"
 
-Los críticos suelen rechazar la afirmación hedonista de que toda felicidad es buena y todo sufrimiento, malo. Pensemos en un sádico que siente placer al dañar a otros sin su consentimiento. Los hedonistas pueden admitir que el sadismo no consentido suele ser _en general_ perjudicial, ya que es improbable que el placer del sádico supere el sufrimiento de su víctima. Esto justifica claramente la desaprobación del sadismo no consentido en la práctica, especialmente si se adopta una [perspectiva utilitarista multinivel](/tipos-de-utilitarismo#utilitarismo-multinivel-y-utilitarismo-de-un-solo-nivel). Según este punto de vista, podríamos suponer que encontrar las raras excepciones a esta regla tendría poco valor práctico, mientras que el riesgo de [permitir erróneamente acciones dañinas](/objeciones/abusabilidad/) significa que sería mejor establecer una prohibición general de dañar a otros sin su consentimiento.
+Los críticos suelen rechazar la afirmación hedonista de que toda felicidad es buena y todo sufrimiento, malo. Pensemos en un sádico que siente placer al dañar a otros sin su consentimiento. Los hedonistas pueden admitir que el sadismo no consentido suele ser _en general_ perjudicial, ya que es improbable que el placer del sádico supere el sufrimiento de su víctima. Esto justifica claramente la desaprobación del sadismo no consentido en la práctica, especialmente si se adopta una [perspectiva utilitarista multinivel](/elementos-y-tipos-de-utilitarismo#utilitarismo-multinivel-y-utilitarismo-de-un-solo-nivel). Según este punto de vista, podríamos suponer que encontrar las raras excepciones a esta regla tendría poco valor práctico, mientras que el riesgo de [permitir erróneamente acciones dañinas](/objeciones/abusabilidad/) significa que sería mejor establecer una prohibición general de dañar a otros sin su consentimiento.
 
 Con todo, podríamos preguntarnos en un plano puramente teórico: ¿qué pasaría si hubiera _muchos_ sádicos que se regocijaran colectivamente en el sufrimiento de una sola alma torturada? Si el placer conjunto de estos sádicos supera el sufrimiento de la persona, entonces el utilitarismo hedonista implica que se trata de un buen resultado y que los sádicos actúan correctamente al torturar a su víctima. Pero eso parece erróneo.
 
@@ -57,7 +57,7 @@ Llegados a este punto, merece la pena distinguir un par de afirmaciones sutilmen
 
 Rechazar (i) significa rechazar el hedonismo sobre el bienestar. Pero si el placer sádico no beneficia al sádico, entonces esto implica que alguien que quisiera perjudicar al sádico (por la razón que fuera) no podría conseguirlo impidiéndole que experimente placer sádico. Y eso parece erróneo.
 
-Alternativamente, se podría mantener el hedonismo sobre el bienestar y respetar al mismo tiempo nuestra oposición intuitiva a los "placeres malvados" rechazando (ii), y negando que _beneficiar a los sádicos a expensas de sus víctimas_ sea razonable o bueno. Esto implicaría rechazar el utilitarismo, estrictamente hablando, aunque sigue estando disponible una [visión consecuencialista estrechamente relacionada](/alternativas-casi-utilitaristas#perspectivas-ajustadas-por-mérito) que se limita a dar la misma importancia a todos los intereses _inocentes_ (descontando los intereses ilícitos), y que coincide con el utilitarismo en la gran mayoría de los casos.
+Alternativamente, se podría mantener el hedonismo sobre el bienestar y respetar al mismo tiempo nuestra oposición intuitiva a los "placeres malvados" rechazando (ii), y negando que _beneficiar a los sádicos a expensas de sus víctimas_ sea razonable o bueno. Esto implicaría rechazar el utilitarismo, estrictamente hablando, aunque sigue estando disponible una [visión consecuencialista estrechamente relacionada](/alternativas-cercanas-al-utilitarismo/#perspectivas-ajustadas-por-merecimiento) que se limita a dar la misma importancia a todos los intereses _inocentes_ (descontando los intereses ilícitos), y que coincide con el utilitarismo en la gran mayoría de los casos.
 
 Los utilitaristas hedonistas podrían tratar de preservar tanto (i) como (ii) ofreciendo una explicación alternativa de nuestras intuiciones. Por ejemplo, podemos juzgar que el _carácter_ de los sádicos es malo en la medida en que disfrutan haciendo daño a los demás, y por eso parece probable que actúen mal en muchas otras circunstancias.[^8]
 
@@ -79,7 +79,7 @@ Sin embargo, incluso después de tener en cuenta estos factores de confusión, m
 
 Roger Crisp aconseja a los hedonistas que consideren que estas intuiciones son _útiles_ más que _fidedignas_:
 
-> Se trata de adoptar una estrategia similar a la desarrollada por los "[utilitaristas de dos niveles](/tipos-de-utilitarismo#utilitarismo-multinivel-y-utilitarismo-de-un-solo-nivel)" en respuesta a supuestos contraejemplos basados en la moral del sentido común. El hedonista señalará la llamada "paradoja del hedonismo", según la cual el placer se persigue más eficazmente de forma indirecta. Si intento conscientemente maximizar mi propio placer, seré incapaz de entregarme a las actividades que producen placer, como leer o jugar. Y si creemos que esas actividades son valiosas independientemente del placer que obtengamos al realizarlas, probablemente obtendremos más placer total.[^17]
+> Se trata de adoptar una estrategia similar a la desarrollada por los "[utilitaristas de dos niveles](/elementos-y-tipos-de-utilitarismo#utilitarismo-multinivel-y-utilitarismo-de-un-solo-nivel)" en respuesta a supuestos contraejemplos basados en la moral del sentido común. El hedonista señalará la llamada "paradoja del hedonismo", según la cual el placer se persigue más eficazmente de forma indirecta. Si intento conscientemente maximizar mi propio placer, seré incapaz de entregarme a las actividades que producen placer, como leer o jugar. Y si creemos que esas actividades son valiosas independientemente del placer que obtengamos al realizarlas, probablemente obtendremos más placer total.[^17]
 
 Por tanto, a una persona comprometida con el hedonismo por otros motivos estas objeciones intuitivas pueden no molestarle. Aun así, plantean un desafío para esta perspectiva: si una teoría rival produce veredictos intuitivamente más plausibles, ¿por qué no preferirla? Por tanto, para evaluar adecuadamente la plausibilidad del hedonismo, primero debemos explorar los desafíos que enfrentan estas perspectivas rivales.
 

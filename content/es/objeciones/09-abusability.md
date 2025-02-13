@@ -90,7 +90,7 @@ Aun así, al fin y al cabo no hay garantía de que las creencias verdaderas sean
 
 [^2]: En particular, no parece plausible suponer que estuvieran motivados principalmente por la beneficencia imparcial.
 
-[^3]: Es decir, [puntos de vista menos exigentes](/exigencia#atacar-las-alternativas) pueden justificar acciones (u omisiones) egoístas, como desatender las necesidades de los pobres del mundo, de los animales no humanos y de las generaciones futuras. Así que vale la pena considerar cómo se enfrentan los puntos de vista rivales a sus propias versiones de la objeción de la abusabilidad.
+[^3]: Es decir, [puntos de vista menos exigentes](/objeciones/exigencia#atacar-las-alternativas) pueden justificar acciones (u omisiones) egoístas, como desatender las necesidades de los pobres del mundo, de los animales no humanos y de las generaciones futuras. Así que vale la pena considerar cómo se enfrentan los puntos de vista rivales a sus propias versiones de la objeción de la abusabilidad.
 
 [^4]: Aunque, de nuevo, es interesante considerar cómo se enfrentan a esta objeción las distintas teorías. Muchas son tan vagas que dejan mucho espacio para interpretaciones al servicio del interés propio, por lo que también parecerían fácilmente explotables por actores malintencionados.
 

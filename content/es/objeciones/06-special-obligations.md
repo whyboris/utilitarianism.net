@@ -86,7 +86,7 @@ Frente a quienes insisten en la parcialidad en un nivel teórico fundamental, lo
     Véase {{< cite Everett2018CostsOfBeing >}}
 
 [^5]:
-    Esto está estrechamente relacionado con la objeción de la "esquizofrenia moral" al utilitarismo sofisticado, discutida en el artículo sobre [la objeción de la alienación](/alienacion#utilitarismo-sofisticado). Sin embargo, la objeción que nos ocupa aquí parece más débil. La objeción de la alienación se refería a cosas que el utilitarismo supuestamente no valoraba _en absoluto_. Mientras que, en este caso, el utilitarismo ciertamente valora el bienestar de un hijo; la cuestión es sólo si hay alguna justificación para una preocupación _incluso mayor_. Parece intrínsecamente más difícil tener una confianza firme en tales cuestiones de grado.
+    Esto está estrechamente relacionado con la objeción de la "esquizofrenia moral" al utilitarismo sofisticado, discutida en el artículo sobre [la objeción de la alienación](/objeciones/alienacion#utilitarismo-sofisticado). Sin embargo, la objeción que nos ocupa aquí parece más débil. La objeción de la alienación se refería a cosas que el utilitarismo supuestamente no valoraba _en absoluto_. Mientras que, en este caso, el utilitarismo ciertamente valora el bienestar de un hijo; la cuestión es sólo si hay alguna justificación para una preocupación _incluso mayor_. Parece intrínsecamente más difícil tener una confianza firme en tales cuestiones de grado.
 [^6]: {{< cite "Lazari-Radek2012ObjectivityEthicsUnity" >}}
 [^7]: {{< cite Parfit1984ReasonsPersons "p. 97" >}}
 [^8]:

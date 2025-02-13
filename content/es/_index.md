@@ -24,7 +24,7 @@ El _utilitarismo_ no es un único punto de vista, sino una familia de teorías �
 La versión original y más influyente del utilitarismo es el _utilitarismo clásico_, expresado por primera vez en los escritos de [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham) y [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill). El utilitarismo clásico sostiene que lo que hace que la vida de las personas sea buena se basa en sus experiencias subjetivas conscientes. Una vida buena está llena de experiencias conscientes positivas como el placer, la felicidad y la satisfacción, mientras que una vida mala comprende muchas experiencias conscientes negativas como el sufrimiento y el dolor. El utilitarismo clásico sostiene que debemos contribuir con nuestros actos a aumentar en el mundo el total que resulta de la suma de las experiencias positivas menos las negativas.
 
 <center>
-{{< small-button url="introduccion-al utilitarismo" text="Continuar leyendo: Introducción al utilitarismo" >}}
+{{< small-button url="introduccion-al-utilitarismo" text="Continuar leyendo: Introducción al utilitarismo" >}}
 </center>
 
 </div>
