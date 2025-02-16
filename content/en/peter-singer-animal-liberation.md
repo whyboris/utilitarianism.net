@@ -1,8 +1,8 @@
 ---
 title: "Study Guide: Peter Singer's Animal Liberation"
 slug: "peter-singer-animal-liberation"
-book: "Study Guide: Peter Singer's 'Animal Liberation' All Animals are Equal"
-authors: "Chappell, R.Y."
+book: "Study Guide: Peter Singer's Animal Liberation: 'All Animals are Equal'"
+authors: "Chappell, R.Y. and Meissner, D."
 menuTitle: "Peter Singer's Animal Liberation: All Animals are Equal"
 date: 2025-01-01
 draft: false
@@ -23,9 +23,9 @@ description: "Study guide for Peter Singer's Animal Liberation (1975) All Animal
 
 ## Singer’s Argument Against Speciesism
 
-"Speciesism" refers to the practice of treating the interests of individuals of one species (typically humans) as inherently more important than those of others, without justification based on relevant differences in individual capacities or characteristics. The most common form of speciesism is the arbitrary privileging of humans over non-human animals, purely on the basis of species.
+"Speciesism" refers to the practice of treating the interests of individuals of one species (typically humans) as inherently more important than those of others, without justification based on relevant differences in individual capacities or characteristics. The most common form of speciesism is the arbitrary privileging of humans over non-human animals.
 
-Singer analyzes what makes unjust discrimination *in general* wrong. He suggests that the common flaw in sexism, racism, and other objectionable discrimination is that it violates a principle of *moral equality*, specifically, the *[equal consideration of interests](https://www.utilitarianism.net/types-of-utilitarianism/#impartiality-and-the-equal-consideration-of-interests)*. An individual's interests should not be discounted or disregarded based on unchosen group characteristics like their gender, race, or sexual orientation. Such factors don't inherently affect an individual’s capacity for well-being, including how bad it is for them to suffer. Singer thus writes: "our concern for others and our readiness to consider their interests ought not to depend on what they are like or on what abilities they may possess."[^1]
+Singer analyzes what makes unjust discrimination *in general* wrong. He suggests that the common flaw in sexism, racism, and other objectionable discrimination is that it violates a principle of *moral equality*, specifically, the *[equal consideration of interests](https://www.utilitarianism.net/types-of-utilitarianism/#impartiality-and-the-equal-consideration-of-interests)*. An individual's interests should not be discounted or disregarded based on unchosen group characteristics like their gender, race, or sexual orientation. Such factors don't inherently affect an individual’s capacity for well-being, or how bad it is for them to suffer. Singer thus writes: "our concern for others and our readiness to consider their interests ought not to depend on what they are like or on what abilities they may possess."[^1]
 
 People are quick to rationalize their speciesism by appeal to some property—often intelligence or rationality—by which they take humans to be superior to non-human animals. The central problem with this move, as Singer points out, is that humans vary dramatically, including in their intelligence and rationality. Do smarter people inherently matter more, morally speaking? Would it be OK to do medical experiments on cognitively disabled children, or put them in factory farms to satisfy the culinary preferences of those with a taste for human meat? Surely not. But then the explanation of *why not* cannot depend upon their cognitive abilities (which they may possess to a lesser extent than many cognitively sophisticated non-human animals). This is known as the “[argument from marginal cases](https://en.wikipedia.org/wiki/Argument_from_marginal_cases)” in philosophy, which has a long history—already in 1789, [Jeremy Bentham](https://utilitarianism.net/utilitarian-thinker/jeremy-bentham) famously asked:[^2]
 
@@ -103,7 +103,7 @@ There are particular features of Singer's view that could reasonably be question
 
 * Would it be wrong to raise animals for food in genuinely humane conditions, where we could be confident that their lives are "worth living", or positive on the whole, if the alternative is that these individual animals would not exist?
 * Would it be wrong to raise extra human beings (who would otherwise not exist), in similar conditions, for the benefit of other people (whether cannibals or people in need of organs)? If not, why not? Does the same answer apply to non-human animals?
-* Is there any principled reason to give more moral weight to cats, dogs, and horses than to pigs, chickens, and cows?
+* Is there any principled reason to give more moral weight to cats, dogs, and horses than to chickens, pigs, and cows?
 * If a human and non-human animal are suffering equal pain, should you flip a coin to decide who gets the last dose of pain relief?
 * Are *all* human lives more worth saving than all non-human lives? Why or why not?
 * Singer's focus on individual consumption can sound surprisingly deontological for an avowed utilitarian. Do you think there is a tension between his focus on keeping our own hands clean (or "free of cruelty") and his underlying utilitarianism? What is the most promising way to reconcile the two?

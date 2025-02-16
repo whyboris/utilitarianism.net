@@ -315,6 +315,15 @@ The main alternative to expectational utilitarianism is _objective utilitarianis
 </details>
 
 <details>
+<summary>Experience Machine<span class="icon"></span></summary>
+
+_→ Main article:_ [_The Experience Machine Objection_](/theories-of-well-being/#the-experience-machine-objection)
+
+The experience machine is an objection to [hedonism about well-being](/theories-of-well-being/#hedonism) (not utilitarianism as such), and is discussed in our [Theories of Well-being](/theories-of-well-being) chapter. If you find that objection convincing, you can always combine utilitarianism with a non-hedonistic account of well-being instead.
+
+</details>
+
+<details>
 <summary>Farm animal welfare<span class="icon"></span></summary>
 
 _→ Main article:_ [_Farm animal welfare_](/acting-on-utilitarianism#farm-animal-welfare)
@@ -421,12 +430,33 @@ According to indirect consequentialism we should evaluate the moral status of an
 
 The main alternative to indirect consequentialism is direct consequentialism, according to which the rightness of an action (or rule, policy, etc.) depends only on its consequences.
 
+(Confusingly, some philosophers instead use the term "indirect consequentialism" to refer to [multi-level consequentialism](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism). But this is less common.)
+
 </details>
 
 <details>
 <summary>Infinite ethics<span class="icon"></span></summary>
 
 [In a 2011 paper](https://www.nickbostrom.com/ethics/infinite.html), Nick Bostrom suggests that infinities in ethics may present a problem for aggregative consequentialist theories, including utilitarianism. Bostrom describes this problem as follows: “Modern cosmology teaches that the world might well contain an infinite number of happy and sad people and other candidate value-bearing locations. Aggregative ethics implies that such a world contains an infinite amount of positive value and an infinite amount of negative value. You can affect only a finite amount of good or bad. In standard cardinal arithmetic, an infinite quantity is unchanged by the addition or subtraction of any finite quantity. So it appears you cannot change the value of the world”.[^27]
+
+</details>
+
+<details>
+<summary>Interpersonal Utility Comparisons<span class="icon"></span></summary>
+
+_→ Main article:_ [_Welfare Economics and Interpersonal Utility Comparisons_](/guest-essays/welfare-economics/)
+
+Economic analysis often tries to proceed from assumptions that are as minimal as possible. From very minimal assumptions (e.g. about revealed preference), we can determine which option benefits someone most. But those minimal assumptions won't necessarily settle whether a cost to one person is smaller or greater than a benefit to _someone_ _else_. This is the problem of _interpersonal utility comparisons_, which is sometimes taken to be an objection to utilitarianism.
+
+To be clear, this is primarily a problem for a particular ([ordinalist](https://en.wikipedia.org/wiki/Ordinal_utility)) project of economic analysis based on very minimal assumptions. It's not an objection to utilitarianism _as such_, unless you—mistakenly!—assume that utilitarians cannot appeal to any (e.g., [cardinal](https://en.wikipedia.org/wiki/Cardinal_utility)) facts other than those that appear in ordinalist economic analysis.
+
+Sometimes people seem to assume that there could not _be_ any further facts about people's well-being beyond those that are entailed by the minimal assumptions of ordinalist economic analysis. But that seems mistaken: Whether or not ordinalists can accommodate interpersonal utility comparisons, it’s undeniable that costs and benefits to different people _can_ reasonably be compared. We do it all the time.
+
+For example, suppose that a loaf of bread is desired both by a starving person (who wants to eat it) and by a well-fed wealthy person (who wants to keep the loaf simply so that they may continue to enjoy its fresh-baked smell). It's very obvious that the starving person will benefit more from the loaf than the wealthy person in this case.
+
+We can also compare costs in obvious ways. For example, it’s worse for you to suffer days of literal torture than it is for me to suffer a mosquito bite. It's thus _clearly possible_ to make some interpersonal utility comparisons. Believing that such comparisons are impossible _in principle_, in a way that undermines utilitarian moral theory, is not defensible.
+
+(Of course, sometimes it can be difficult _in practice_ to measure costs and benefits precisely and accurately. So we may not always be in a position to know for sure what option would do most good overall. For discussion of such _epistemic_ objections to utilitarianism, see our article on [the Cluelessness Objection](/objections-to-utilitarianism/cluelessness/). It's also worth noting that there are important practical questions about how best to measure and compare well-being, especially across different species. But such practical difficulties are irrelevant to the truth of utilitarianism. It may sometimes just be difficult to work out what the best thing to do is. Utilitarianism implies—plausibly enough—that we should want to know more about how to reliably measure and compare well-being, since this would help us to make better decisions.)
 
 </details>
 
@@ -615,6 +645,17 @@ Chappell, R.Y. (2016). [Against ‘Saving Lives’: Equal Concern and Differenti
 </details>
 
 <details>
+<summary>Repugnant Conclusion<span class="icon"></span></summary>
+
+_→ Main article:_ [_The Repugnant Conclusion_](/population-ethics/#objecting-to-the-total-view-the-repugnant-conclusion)
+
+The repugnant conclusion is an objection to [the total view in population ethics](/population-ethics/#the-total-view) (not utilitarianism as such). As our discussion in that chapter brings out, it's actually very difficult to avoid, whether or not you accept utilitarianism. A common—but confused—proposal is to appeal to some form of [asymmetric person-affecting view](/population-ethics/#person-affecting-views-and-the-procreative-asymmetry) in hopes of avoiding the repugnant conclusion. But this doesn't really help, because the same quantity-quality trade offs will arise _within_ a life (aggregating over time rather than individuals), and nobody wants to endorse an asymmetric "time-affecting view" on which there's _no benefit_ to extending a life further in time—that is, to _saving lives_.
+
+Consider the _intra-personal repugnant conclusion_: that any finite life, however wonderful, is less good for you than some sufficiently longer-lived alternative where each moment is barely worth living. That claim seems intuitively implausible, and may push one towards a non-totalist view of aggregation, such as [variable value](/population-ethics/#variable-value-theories) or [critical range theories](/population-ethics/#critical-level-and-critical-range-theories). (Or one may bite the bullet and accept totalism despite this intuitive cost.) Whichever way one goes on this question, one should probably expect the same account of aggregation to hold true inter-personally, which could then be combined with [impartial welfarist consequentialism](/types-of-utilitarianism/#the-four-elements-of-utilitarianism) to yield a form of utilitarianism.
+
+</details>
+
+<details>
 <summary>Richard M. Hare<span class="icon"></span></summary>
 
 _→ Main article: [Richard M. Hare](/utilitarian-thinker/richard-hare)_
@@ -652,9 +693,7 @@ _External links:_ [Rule consequentialism](https://plato.stanford.edu/entries/con
 
 _→ Main article:_ [_Scalar versus maximizing or satisficing utilitarianism_](/types-of-utilitarianism#reconstructing-rightness-maximizing-satisficing-and-scalar-utilitarianism)
 
-Satisficing utilitarianism is the view that within any set of options, an action is right if it produces _enough_ well-being.
-
-However, this proposal has some problems and has not found wide support. To see this, suppose that Sophie could save no one, or save 999 people at great personal sacrifice, or save 1,000 people at even greater personal sacrifice. From the utilitarian’s perspective, we still want to say there is reason to save the 1,000 people over the 999 people; labeling both actions as _right_ would risk ignoring the important moral difference between these two options.
+Satisficing utilitarianism is the view that within any set of options, an action is right if it produces _enough_ well-being. (It's important, though, to appreciate that from a utilitarian perspective there is always _more_ moral reason to do more good, even if it is not necessarily _wrong_ to just do a moderate amount.)
 
 The main alternatives to satisficing utilitarianism are _scalar utilitarianism_, according to which rightness and wrongness are matters of degree[^33], and _maximizing utilitarianism_, the view that within any set of options, the action that produces the most well-being is right, and all other actions are wrong.
 
@@ -679,6 +718,15 @@ _External links:_
 
 - Sinhababu, N. (2018). [Scalar Consequentialism the Right Way](https://link.springer.com/article/10.1007%2Fs11098-017-0998-y). _Philosophical Studies_. 175: 3131–3144.
 - Norcross, A. (2006). [The Scalar Approach to Utilitarianism](https://onlinelibrary.wiley.com/doi/10.1002/9780470776483.ch15). In West, H. (ed.), _The Blackwell Guide to Mill's Utilitarianism_. Hoboken, New Jersey: Wiley-Blackwell. pp. 217–232.
+
+</details>
+
+<details>
+<summary>Self-sacrifice<span class="icon"></span></summary>
+
+In its maximizing form, utilitarianism implies that it would be wrong to altruistically accept some cost in order to bestow a _lesser_ benefit upon someone else. But such inefficient self-sacrifice doesn't seem wrong. So utilitarianism seems mistaken.
+
+What this objection really shows is that utilitarianism is not best understood as a theory of what's "wrong" _in the ordinary sense_. [Maximizers](/types-of-utilitarianism/#reconstructing-rightness-maximizing-satisficing-and-scalar-utilitarianism), in particular, are simply addressing what the agent has _most reason_ to do. Utilitarianism is thus simply claiming that we do _not_ have most reason to accept a big cost so that someone else can have a smaller benefit.[^34a] This claim is eminently plausible.
 
 </details>
 
@@ -781,11 +829,11 @@ In contemporary contexts, utility is predominantly used as an economic concept (
 <details>
 <summary>Utility monster<span class="icon"></span></summary>
 
-The utility monster is a thought experiment devised by Robert Nozick to criticize utilitarianism.[^38] Nozick imagines a hypothetical being, the utility monster, which has the capacity for generating much higher levels of well-being than anyone else. From a utilitarian perspective, Nozick writes, the existence of such a being would require providing it with immense resources to increase its well-being, even at significant sacrifice to others.
+Many consider Nozick’s “utility monster”—a being more efficient than ordinary people at converting resources into well-being, with no upper limit—to constitute a damning counterexample to utilitarianism. As Nozick writes, "unacceptably, the theory seems to require that we all be sacrificed in the monster’s maw, in order to increase total utility.”[^38]
 
-For a utilitarian critique, see:
+Despite its intuitive force, there has been very little academic discussion of the utility monster objection. Derek Parfit, in _Reasons and Persons_, questioned whether the scenario is really coherently conceivable: we may doubt that we can actually imagine someone having _more individual well-being_ than hundreds, let alone billions, of ordinary happy lives combined.[^39] (Maybe there is a cap, or maximum upper limit, on individual well-being, at least intuitively.)
 
-Chappell, R.Y. (2021). [Negative Utility Monsters](https://dx.doi.org/10.1017/s0953820821000169). _Utilitas_ 33 (4): 417-421.
+More recently, Richard Yetter Chappell has offered a sustained discussion of the objection in his paper, [Negative Utility Monsters](https://philpapers.org/rec/CHANUM).[^40] He argues that "our intuitions may be reversed by considering a variation in which the utility monster starts from a baseline status of massive suffering," and concludes that the force of the original objection really just comes from pumping [prioritarian](/near-utilitarian-alternatives/#prioritarianism) intuitions rather than the distinctive "utility monster" structure of sacrificing many for one.
 
 </details>
 
@@ -865,6 +913,7 @@ _External links:_ [Well-being](https://plato.stanford.edu/entries/well-being/), 
 [^32]: Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.), p. 7.
 [^33]: More precisely: the more that an act would promote the sum total of well-being, the more moral reason one has to perform that act.
 [^34]: Norcross, A. (2020). _Morality by Degrees: Reasons Without Demands_. Oxford University Press.
+[^34a]: As [J.S. Mill wrote](/books/utilitarianism-john-stuart-mill/2): "The utilitarian morality does recognise in human beings the power of sacrificing their own greatest good for the good of others. It only refuses to admit that the sacrifice is itself a good. A sacrifice which does not increase, or tend to increase, the sum total of happiness, it considers as wasted. The only self-renunciation which it applauds, is devotion to the happiness, or to some of the means of happiness, of others; either of mankind collectively, or of individuals within the limits imposed by the collective interests of mankind."
 [^35]:
     Jeremy Bentham rejected single-level utilitarianism, writing that “it is not to be expected that this process [of calculating expected consequences] should be strictly pursued previously to every moral judgment.” Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.), p. 23.
 
@@ -872,4 +921,9 @@ _External links:_ [Well-being](https://plato.stanford.edu/entries/well-being/), 
 
 [^36]: Whether or not we should have the child, however, depends also on whether this improves the total well-being more than improving the lives of existing people would, and on issues regarding resource constraints and overpopulation.
 [^37]: This definition applies to a fixed-population setting, where one’s actions do not affect the number or identity of people. There are utilitarian theories that differ in how they deal with variable-population settings. This is a technical issue, relevant to the discussion of [population ethics](/population-ethics).
-[^38]: Nozick, R. (1974). _[Anarchy, State, and Utopia](https://en.wikipedia.org/wiki/Anarchy,_State,_and_Utopia)_. Basic Books.
+[^38]: Nozick, R. (1974). _[Anarchy, State, and Utopia](https://en.wikipedia.org/wiki/Anarchy,_State,_and_Utopia)_. Basic Books, p. 41.
+[^39]:
+     Parfit, D. (1984). _Reasons and Persons_. Oxford: Clarendon Press, 1987 revised edition, p. 389.
+
+[^40]:
+     Chappell, R.Y. (2021). [Negative Utility Monsters](https://philpapers.org/rec/CHANUM). _Utilitas _33 (4): 417 - 421. Note that Chappell is also the author of this glossary entry.
