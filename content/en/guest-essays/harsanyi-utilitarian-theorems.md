@@ -2,8 +2,8 @@
 title: "Harsanyi’s Utilitarian Theorems without Tears"
 book: "Harsanyi’s Utilitarian Theorems without Tears"
 date: 2025-01-01
-author: "Johan E. Gustafsson and Kacper Kowalczyk"
-authors: "Gustafsson, J., Kowalczyk, K."
+author: "Johan E. Gustafsson & Kacper Kowalczyk"
+authors: "Gustafsson, J.E., & Kowalczyk, K."
 draft: false
 layout: "book"
 menu: "guest"
