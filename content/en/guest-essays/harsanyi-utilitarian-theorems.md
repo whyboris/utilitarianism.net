@@ -17,11 +17,13 @@ hidepdf: true
 
 {{< guest-disclaimer >}}
 
-**Please click below to open the PDF of the article**
+According to classical utilitarianism, well-being consists in pleasure or happiness, the good consists in the sum of well-being, and moral rightness consists in maximizing the good. Leibniz was perhaps the first to formulate this doctrine. Bentham made it widely known. For a long time, however, the second, summing part lacked any clear foundation. John Stuart Mill, Henry Sidgwick, and Richard Hare all gave arguments for utilitarianism, but they took this summing part for granted. It was John Harsanyi who finally presented compelling arguments for this controversial part of the utilitarian doctrine.
 
-[![Harsanyi’s Utilitarian Theorems without Tears PDF](/img/harsanyi-pdf.png "Harsanyi’s Utilitarian Theorems without Tears PDF")](https://www.utilitarianism.net/img/Harsanyi-Utilitarian-Theorems-without-Tears.pdf)
+<center>
 
-**Please click above to open the PDF of the article**
+[**Please click here to open the PDF of the full article**](https://www.utilitarianism.net/img/Harsanyi-Utilitarian-Theorems-without-Tears.pdf)
+
+</center>
 
 ---
 
