@@ -27,11 +27,21 @@ According to classical utilitarianism, well-being consists in pleasure or happin
 
 ---
 
+<h2>About the Authors</h2>
+
 {{< essay-author
      image="/img/authors/Johan-Gustafsson.jpg"
-     text="Johan-Gustafsson" >}}
+     text="Johan Gustafsson"
+     noabout=true >}}
 
-[Johan-Gustafsson](https://johanegustafsson.net/) is a research scientist at the University of Texas at Austin, a senior research fellow in philosophy at University of York, and a docent in practical philosophy at Institute for Futures Studies. He work primarily on the parts of philosophy that relate to the question of what we ought to do, either morally or rationally. Much of his work covers theoretical problems in ethics, value theory, and political philosophy. And much of the rest is on decision theory and, more specifically, on money pumps and moral uncertainty.
+[Johan Gustafsson](https://johanegustafsson.net/) is a research scientist at the University of Texas at Austin, a senior research fellow in philosophy at University of York, and a docent in practical philosophy at Institute for Futures Studies. He work primarily on the parts of philosophy that relate to the question of what we ought to do, either morally or rationally. Much of his work covers theoretical problems in ethics, value theory, and political philosophy. And much of the rest is on decision theory and, more specifically, on money pumps and moral uncertainty.
+
+{{< essay-author
+     image="/img/authors/Kacper-Kowalczyk.jpg"
+     text="Kacper Kowalczyk"
+     noabout=true >}}
+
+[Kacper Kowalczyk](https://kacperkowalczyk.com/) is a postdoctoral researcher at the Institute for Health at Rutgers University and a visiting scholar in the Rutgers Philosophy Department. From 2020 to 2024, Ihe was a lecturer and research fellow in the Philosophy Department at University College London. He received a DPhil in Philosophy from Oxford in 2021, a BPhil in Philosophy from Oxford in 2016, and a BA in Philosophy from Cambridge in 2014. He is interested in population ethics, personal identity, equality, aggregation, risk, and decision theory.
 
 {{< how-to-cite >}}
 
