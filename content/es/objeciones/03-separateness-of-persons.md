@@ -143,7 +143,7 @@ Hemos visto que la objeción de la "separación de las personas" al utilitarismo
 [^12]: El "pluralismo de valores" se utiliza a menudo para referirse a la idea de múltiples _tipos_ o clases de valores distintos. Pero la forma relevante de pluralismo para garantizar la no fungibilidad es, en cambio, el pluralismo de _casos_. Los intereses de Bob y Sally pueden ser valores de la misma _clase_ (es decir, valor de bienestar), pero son valores individuales (o “casos” de valor) distintos en el sentido de que es apropiado tener un deseo intrínseco _separado_ para cada uno. Esto contrasta con el dinero, donde distintos billetes de 20 dólares no son _distintamente_ valiosos: sería extraño desear cada billete por separado, en lugar de tener un único deseo general de "más dinero" que cualquier billete de 20 dólares podría satisfacer igualmente bien.
 [^13]: {{< cite Nagel1978JustificationOfEquality >}} Reimpreso en {{< cite Nagel1979MortalQuestions "p. 123" >}}
 [^14]: {{< cite Scanlon1998WhatWeOwe >}}
-[^15]: Esta es una cita del resumen conciso del experimento mental de Derek Parfit, en {{< cite Parfit2003JustifiabilityEachPerson " p. 375" >}}
+[^15]: Esta es una cita del resumen conciso del experimento mental de Derek Parfit, en {{< cite Parfit2003JustifiabilityEachPerson "p. 375" >}}
 [^16]: Las siguientes subsecciones se extraen directamente de la sección 3.2 de {{< cite Chappell2021ParfitEthics >}}
 [^17]:
     {{< cite Parfit2003JustifiabilityEachPerson >}}
