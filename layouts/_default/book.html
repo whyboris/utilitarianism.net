@@ -3,7 +3,7 @@
   <div
     class="book-header"
     style="background: {{ default "#3380b4" .Params.gradientTop }};
-         background: linear-gradient(180deg, {{ .Params.gradientTop }} 0%,  
+         background: linear-gradient(180deg, {{ .Params.gradientTop }} 0%,
                                              {{ .Params.gradientBottom }} 100%);"
   >
     <h1 class="title" data-pagefind-meta="title">{{ .Params.book }}</h1>
@@ -14,7 +14,10 @@
   <div class="article-body">
     {{ partial "fake-image.html" . }}
 
-    {{ partial "PDF.html" . }}
+    {{ if isset .Params "hidepdf" }}
+    {{ else }}
+      {{ partial "PDF.html" . }}
+    {{ end }}
 
     {{ .Content }}
   </div>

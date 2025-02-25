@@ -7,7 +7,7 @@ authors: "Berkey, B."
 draft: false
 layout: "book"
 menu: "guest"
-weight: 105
+weight: 109
 image: "/img/essays/business-ethics.jpg"
 imageCaption: "Utilitarianism and Business Ethics"
 summary: "Business ethicists sometimes associate utilitarianism with neoclassical arguments that maximizing profits is the best route to promoting social welfare. But this is a mistake, as the present essay argues: there are systematic ways in which what maximizes profits can predictably diverge from what does the most good. When the two come apart, utilitarian principles imply that promoting well-being is more important than maximizing profits."
