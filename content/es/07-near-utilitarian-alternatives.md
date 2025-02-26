@@ -158,7 +158,7 @@ El siguiente capítulo analiza varias de las objeciones más importantes al util
 ### Más allá del consecuencialismo
 
 - {{< cite Taurek1977ShouldNumbersCount >}}
-- {{< cite Ross1930RightGood >}}
+- {{< cite Ross1930RightAndGood >}}
 - {{< cite Ashford2003DemandingnessScanlonContractualism >}}
 
 [^1]: Se trata de una variación de "El último hombre", el famoso experimento mental de Richard Routley. Véase {{< cite Routley1973IsThereNeed >}}
