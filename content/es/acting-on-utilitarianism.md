@@ -232,7 +232,7 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
 
     {{< cite MacAskill2019DefinitionEffectiveAltruism >}}
 
-[^11]: {{< cite Parfit2011WhatMattersVolumec "pp. 436-437" >}}
+[^11]: {{< cite Parfit2017WhatMattersVolume "pp. 436-437" >}}
 [^12]: Por ejemplo, el libro de Peter Singer {{< cite -Singer2009LifeYouCan1 >}} (la edición actualizada del décimo aniversario se puede descargar gratuitamente) defiende la importancia ética de mejorar la salud global y el desarrollo internacional.
 [^13]: {{< cite Roser2013ChildAndInfant >}}
 [^14]: {{< cite Roser2013ChildAndInfant >}}
