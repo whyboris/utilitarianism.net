@@ -45,7 +45,7 @@ Además, un utilitarista podría argumentar que nuestras intuiciones en la elecc
 
 Esta confusión que describe Greene puede introducir errores en nuestras intuiciones al tener que elegir entre _igualdad_ y _desigualdad_ porque estamos acostumbrados intuitivamente a pensar en los bienes como si tuvieran utilidad marginal decreciente. Si los números en la hipotética elección entre _igualdad_ y _desigualdad_ representaran niveles de bienes y no de bienestar, el utilitarista elegiría el resultado igualitarista. Sin embargo, sería un error aplicar este razonamiento al comparar distribuciones de bienestar, ya que el bienestar no presenta una utilidad marginal decreciente. Por definición, una unidad de bienestar es igual de valiosa para la persona que la recibe, independientemente de su nivel de bienestar. Así que debemos tener esto en cuenta en nuestras intuiciones.
 
-Si especificamos el ejemplo original en términos de dinero y utilizamos la medida económica estándar de la tasa de rendimientos decrecientes del dinero,[^2] deberíamos representar la elección entre _igualdad_ y _desigualdad_ de la siguiente manera: en _igualdad_, 1000 personas obtienen $13 500, mientras que en _desigualdad_, 500 personas obtienen $10 000 y 500 personas obtienen $50 000.
+Si especificamos el ejemplo original en términos de dinero y utilizamos la medida económica estándar de la tasa de rendimientos decrecientes del dinero,[^2] deberíamos representar la elección entre _igualdad_ y _desigualdad_ de la siguiente manera: en _igualdad_, 1000 personas obtienen $13 500, mientras que en _desigualdad_, 500 personas obtienen $10 000 y 500 personas obtienen $50 000.
 
 ![Utilitarismo e igualdad — objeciones al utilitarismo](/img/equality2.es.svg)
 
@@ -61,7 +61,7 @@ Para ver esto, supongamos que se puede elegir entre una de dos opciones de distr
 
 ![Utilitarismo e igualdad — objeciones al utilitarismo](/img/equality3.es.svg)
 
-Podemos estipular que tanto Able como Beth preferirían racionalmente _apuesta arriesgada_ frente a _apuesta segura_. Esto se debe a que su expectativa de bienestar en la apuesta arriesgada es de 50 <span class="no-wrap">(=(80+20) x 50%)</span>, que es mayor que la expectativa de bienestar en la apuesta segura de 45.[^5] Por lo tanto, si seguimos el modelo de Pareto _ex ante_, deberíamos preferir la apuesta arriesgada a la apuesta segura. Sin embargo, la apuesta arriesgada produce un resultado desigual. Los que prefirieron _igualdad_ frente a _desigualdad_ también deben preferir _apuesta segura_ frente _apuesta arriesgada_. Y deben hacerlo aunque ello vaya en contra de los intereses de todas las partes implicadas.
+Podemos estipular que tanto Able como Beth preferirían racionalmente _apuesta arriesgada_ frente a _apuesta segura_. Esto se debe a que su expectativa de bienestar en la apuesta arriesgada es de 50 <span class="no-wrap">(=(80+20) x 50 %)</span>, que es mayor que la expectativa de bienestar en la apuesta segura de 45.[^5] Por lo tanto, si seguimos el modelo de Pareto _ex ante_, deberíamos preferir la apuesta arriesgada a la apuesta segura. Sin embargo, la apuesta arriesgada produce un resultado desigual. Los que prefirieron _igualdad_ frente a _desigualdad_ también deben preferir _apuesta segura_ frente _apuesta arriesgada_. Y deben hacerlo aunque ello vaya en contra de los intereses de todas las partes implicadas.
 
 Esta objeción ha sido desarrollada formalmente por el economista John Harsanyi, que la demostró en su teorema de agregación utilitarista.[^6]
 
@@ -77,7 +77,7 @@ Por último, los defensores del utilitarismo pueden, una vez más, aceptar que e
 
 ## Recursos y Más información
 
-- {{< cite Crisp2003EqualityPriorityCompassion >}}
+- {{< cite Crisp2003EqualityPriorityAnd >}}
 - {{< cite Ord2015NewCounterexamplePrioritarianism >}}
 - {{< cite Parfit1997EqualityPriority >}}
 - {{< cite Temkin1993Inequality >}}

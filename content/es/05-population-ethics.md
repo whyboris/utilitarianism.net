@@ -129,7 +129,7 @@ Las teorías del valor variable más simples pueden representarse mediante la si
 
 Este valor marginal decreciente permite a las teorías del valor variable evitar algunos de los puntos débiles de las perspectivas total y promedio. Por ejemplo, Hilary Greaves escribe que:[^29]
 
-> Podría decirse que [la perspectiva promedio] es intuitivamente menos plausible para poblaciones pequeñas: si por lo demás sólo hay diez personas que vivirán alguna vez, por ejemplo, parece (quizás) mejor añadir una persona más con un nivel de bienestar positivo determinado que si ya hay 100 000 millones de personas.
+> Podría decirse que [la perspectiva promedio] es intuitivamente menos plausible para poblaciones pequeñas: si por lo demás sólo hay diez personas que vivirán alguna vez, por ejemplo, parece (quizás) mejor añadir una persona más con un nivel de bienestar positivo determinado que si ya hay 100 000 millones de personas.
 
 A primera vista, una característica atractiva de las teorías del valor variable es que se aproximan a la perspectiva total con poblaciones pequeñas y a la perspectiva promedio con poblaciones grandes, ya que así pueden evitar la conclusión repugnante.[^30]
 
@@ -287,7 +287,7 @@ En el siguiente capítulo se analizan las implicaciones más importantes del uti
 
 ### Teorías del valor variable
 
-- {{< cite Sider1991MightTheoryBe >}}
+- {{< cite Sider1991MightTheoryX >}}
 - {{< cite Hurka1983ValuePopulationSize >}}
 
 ### Teorías del nivel crítico y del rango crítico

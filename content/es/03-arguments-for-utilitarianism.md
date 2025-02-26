@@ -209,7 +209,7 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
 [^26]: {{< cite Beauchamp2020JustifyingPhysicianAssisted >}}
 [^27]: {{< cite Bennett1995ActItself >}}
 [^28]:
-    En una línea similar, Derek Parfit escribió que "Algunos nos preguntamos qué parte de nuestra riqueza debemos dar los ricos a los más pobres. Pero esa pregunta supone erróneamente que nuestra riqueza es nuestra. Esta riqueza es legalmente nuestra. Pero los más pobres tienen derechos morales mucho más fuertes sobre parte de esa riqueza. Deberíamos transferir a estas personas... al menos el diez por ciento de lo que ganamos." ({{< cite Parfit2011WhatMattersVolumec "pp. 436–437" >}})
+    En una línea similar, Derek Parfit escribió que "Algunos nos preguntamos qué parte de nuestra riqueza debemos dar los ricos a los más pobres. Pero esa pregunta supone erróneamente que nuestra riqueza es nuestra. Esta riqueza es legalmente nuestra. Pero los más pobres tienen derechos morales mucho más fuertes sobre parte de esa riqueza. Deberíamos transferir a estas personas... al menos el diez por ciento de lo que ganamos." ({{< cite Parfit2017WhatMattersVolume "pp. 436–437" >}})
 
 [^29]:
     Sobre el tema del sacrificio, John Stuart Mill escribió que "La moral utilitarista sí reconoce en el ser humano el poder de sacrificar su mayor bien por el bien de los demás. Sólo se niega a admitir que el sacrificio sea en sí mismo un bien. Un sacrificio que no aumenta, o tiende a aumentar, la suma total de la felicidad, lo considera un desperdicio". ({{< cite Mill2014Utilitarismo "cap. 2" >}})

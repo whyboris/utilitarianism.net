@@ -30,7 +30,7 @@ La riqueza y la renta están distribuidas de forma muy desigual en todo el mundo
 
 ![Distribución mundial de la renta](/img/World-Income-Distribution.es.svg "Distribución mundial de la renta")
 
-> _Ganar más de $29.000 al año te sitúa en el 5 % más rico de la población mundial._ Cf. {{< cite GivingWhatWeCan2019HowRichAm >}}
+> _Ganar más de $29 000 al año te sitúa en el 5 % más rico de la población mundial._ Cf. {{< cite GivingWhatWeCan2019HowRichAm >}}
 
 La riqueza y la renta exhiben lo que los economistas llaman _utilidad marginal decreciente_.[^3] La idea es simple: el grado en que aumenta el bienestar de una persona que recibe mayores ingresos depende de sus ingresos actuales. Aunque las personas más ricas dicen estar más satisfechas con su vida en general, cuanto más rico se es, menos bienestar se obtiene con una misma cantidad adicional de dinero. Un agricultor pobre de Kenia se beneficiará mucho más de recibir un dólar extra que un miembro de la clase media de un país rico.
 
@@ -232,7 +232,7 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
 
     {{< cite MacAskill2019DefinitionEffectiveAltruism >}}
 
-[^11]: {{< cite Parfit2011WhatMattersVolumec "pp. 436-437" >}}
+[^11]: {{< cite Parfit2017WhatMattersVolume "pp. 436-437" >}}
 [^12]: Por ejemplo, el libro de Peter Singer {{< cite -Singer2009LifeYouCan1 >}} (la edición actualizada del décimo aniversario se puede descargar gratuitamente) defiende la importancia ética de mejorar la salud global y el desarrollo internacional.
 [^13]: {{< cite Roser2013ChildAndInfant >}}
 [^14]: {{< cite Roser2013ChildAndInfant >}}
