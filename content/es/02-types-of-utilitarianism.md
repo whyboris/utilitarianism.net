@@ -285,7 +285,7 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 - {{< cite Chappell2020DeonticPluralismAnd >}}
 - {{< cite Chappell2019WillpowerSatisficing >}}
 - {{< cite Norcross2020MoralityByDegrees >}}
-- {{< cite NorcrossScalarApproachUtilitarianism >}}
+- {{< cite Norcross2006ScalarApproachUtilitarianism >}}
 - {{< cite Sinhababu2018ScalarConsequentialismRight >}}
 
 ### Utilitarismo de expectativas frente a utilitarismo objetivo
