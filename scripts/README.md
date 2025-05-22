@@ -2,6 +2,10 @@
 
 Folder contains scripts:
 
+- `fixbib.js`
+  - meant only for _Spanish_ version of the website to create the bibliography
+  - will read `assets/bib.json` (you need to manualy copy and rename `stable.bib` from [here](https://github.com/tlon-team/babel-refs/tree/main/bib))
+  - and create `assets/bib2.json` which is needed for the bibliography
 - `fixit.js`
   - will fix problems with italics
   - meant to be run after importing from Google Doc
