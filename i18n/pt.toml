@@ -19,7 +19,7 @@
 [text.textbook-overview]
   other = "Chapters"
 [menu.acting]
-  other = "Acting on Utilitarianism"
+  other = "Agindo de Acordo com o Utilitarismo"
 [link.acting]
   other = "acting-on-utilitarianism"
 [menu.textbook]
@@ -51,23 +51,23 @@
 [link.specific-objections]
   other = "objections-to-utilitarianism#specific-objections-to-utilitarianism"
 [cite.accessed]
-  other = "accessed"
+  other = "acessado em"
 [cite.book-title]
   other = "An Introduction to Utilitarianism"
 [cite.and]
-  other = ", and" # note the Oxford comma
+  other = " e" # space in front on purpose
 [cite.in]
   other = "In" # used "In R.Y. Chappell, ..."
 [cite.how-to-cite]
-  other = "How to Cite This Page"
+  other = "Como Citar esta Página"
 [cite.editors-abbreviation]
   other = "eds."
 [cite.translated]
   other = "," # note it's just a comma on purpose
 [button.make-world-better-question]
-  other = "Want to make the world a better place?"
+  other = "Quer fazer do mundo um lugar melhor?"
 [button.put-into-practice]
-  other = "Learn how to put utilitarianism into practice:"
+  other = "Aprenda a pôr o utilitarismo em prática:"
 [button.donate-to-effective]
   other = "Donate to effective charities"
 [link.donate-to-effective]
