@@ -1,0 +1,102 @@
+[site.lang]
+  other = "pt"
+[site.locale]
+  other = "pt-PT"
+[site.url-full]
+  other = "https://www.utilitarisme.net"
+[site.url-readable]
+  other = "Utilitarisme.net"
+[site.footer]
+  other = "This website was co-created by William MacAskill, Associate Professor of Philosophy at the University of Oxford"
+[site.logo-path]
+  other = "/img/Utilitarianism-Website-Logo.svg"
+[site.logo-alt]
+  other = "Utilitarianism.net website logo"
+[text.left-quote]
+  other = "“"
+[text.right-quote]
+  other = "”"
+[text.textbook-overview]
+  other = "Chapters"
+[menu.acting]
+  other = "Acting on Utilitarianism"
+[link.acting]
+  other = "acting-on-utilitarianism"
+[menu.textbook]
+  other = "Learn about Utilitarianism"
+[link.textbook]
+  other = "textbook"
+[menu.core-articles]
+  other = "Core Articles"
+[menu.about]
+  other = "About Us"
+[link.about]
+  other = "about"
+[menu.other-content]
+  other = "Other Content"
+[menu.famine-affluence-morality-short]
+  other = "Famine, Affluence, and Morality"
+[menu.famine-affluence-morality-long]
+  other = "Study Guide: Peter Singer's 'Famine, Affluence, and Morality'"
+[link.famine-affluence-morality]
+  other = "peter-singer-famine-affluence-and-morality"
+[button.next]
+  other = "Next:"
+[button.next-chapter]
+  other = "Next Chapter:"
+[button.other-objections]
+  other = "Other Objections to Utilitarianism"
+[link.objections]
+  other = "objections-to-utilitarianism"
+[link.specific-objections]
+  other = "objections-to-utilitarianism#specific-objections-to-utilitarianism"
+[cite.accessed]
+  other = "accessed"
+[cite.book-title]
+  other = "An Introduction to Utilitarianism"
+[cite.and]
+  other = ", and" # note the Oxford comma
+[cite.in]
+  other = "In" # used "In R.Y. Chappell, ..."
+[cite.how-to-cite]
+  other = "How to Cite This Page"
+[cite.editors-abbreviation]
+  other = "eds."
+[cite.translated]
+  other = "," # note it's just a comma on purpose
+[button.make-world-better-question]
+  other = "Want to make the world a better place?"
+[button.put-into-practice]
+  other = "Learn how to put utilitarianism into practice:"
+[button.donate-to-effective]
+  other = "Donate to effective charities"
+[link.donate-to-effective]
+  other = "https://www.givingwhatwecan.org/"
+[button.choose-career]
+  other = "Choose an impactful career"
+[button.learn-more]
+  other = "Want to learn more about utilitarianism?"
+[button.read-theory]
+  other = "Read about the theory behind utilitarianism:"
+[button.learn-improve]
+  other = "Learn how to use utilitarianism to improve the world:"
+[link.introduction]
+  other = "introduction-to-utilitarianism"
+[404.no-content]
+  other = "There is no content at this page address"
+[404.please-navigate]
+  other = "Please use the navigation or search to find what you were looking for"
+[mp3.apple]
+  other = "https://podcasts.apple.com/us/podcast/introduction-to-utilitarianism/id1696998316"
+[mp3.spotify]
+  other = "https://open.spotify.com/show/7efBJVNSuPMcj6LaMSfuDf"
+[mp3.podcast-addict]
+  other = "https://podcastaddict.com/podcast/introduction-to-utilitarianism/4535260"
+[mp3.rss]
+  other = "https://feeds.type3.audio/utilitarianism-net.rss"
+[mp3.play]
+  other = "Play audio recording of content"
+[pdf.download]
+  other = "Download as PDF"
+[toc]
+  other = "Table of Contents"

@@ -44,6 +44,17 @@ enableRobotsTXT = true
     [languages.de.services]
       [languages.de.services.googleAnalytics]
         ID = 'G-590G02FLYR'
+  [languages.pt]
+    contentDir = 'content/pt'
+    languageCode = "pt-PT"
+    title = "Utilitarisme.net"
+    baseURL = "https://utilitarisme.net/"
+    weight = 4
+    [languages.pt.params]
+      pdfString = "_Utilitarisme_net"
+    [languages.pt.services]
+      [languages.pt.services.googleAnalytics]
+        ID = 'XXX'
 [Params]
   images = ["img/social.png"]
   # WARNING - below 3 (pdf, search, production) should all be "false"
