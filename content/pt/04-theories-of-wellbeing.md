@@ -1,6 +1,6 @@
 ---
-title: "Theories of Well-Being"
-slug: "theories-of-well-being"
+title: "Teorias do Bem-Estar"
+slug: "teorias-do-bem-estar"
 authors: "Chappell, R.Y. and Meissner, D."
 date: 2023-01-29
 draft: false
@@ -11,167 +11,165 @@ gradientTop: "#084BC7"
 gradientBottom: "#1B7CCC"
 ---
 
-> _“To what shall the character of utility be ascribed, if not to that which is a source of pleasure?”_
+> _“A que o caráter da utilidade será atribuído, senão àquilo que for uma fonte de prazer?”_
 >
 > – [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^1]
 { .align-author-right }
 
 {{< TOC >}}
 
-## Introduction
+## Introdução
 
-A core element of utilitarianism is [welfarism](/types-of-utilitarianism/#welfarism)—the view that only the _welfare_ (also called _well-being_) of individuals determines how good a particular state of the world is. While consequentialists claim that what is right is to promote the amount of good in the world, welfarists specifically equate the good to be promoted with well-being.
+Um elemento central do utilitarismo é o [bem-estarismo](https://www.utilitarismo.net/types-of-utilitarianism#welfarism): a visão de que somente o *bem-estar* dos indivíduos determina quão bom um estado particular do mundo é. Ao passo que os consequencialistas afirmam que o que é certo é promover a quantidade de bem no mundo, os bem-estaristas especificamente equalizam o bem a ser promovido ao bem-estar.
 
-Philosophers use the term “[well-being](https://plato.stanford.edu/entries/well-being/)” to refer to what’s good _for a person_, as opposed to what’s good _per se_, or “from the point of view of the Universe” to use Sidgwick’s poetic phrase. Utilitarianism holds that well-being is always good from the point of view of the universe, and not _just_ good for the individual. But [other views](/near-utilitarian-alternatives/#desert-adjusted-views) may coherently deny this. For example, one might think that the punishment of an evil person is good, and moreover it’s good precisely because that punishment is bad _for him_.
+O termo [bem-estar](https://plato.stanford.edu/entries/well-being/) é utilizado na filosofia para descrever tudo que é em si mesmo bom para alguém — os chamados bens de bem-estar *intrínsecos* ou *básicos* — em vez de coisas que são boas apenas *instrumentalmente*. Por exemplo, a felicidade é intrinsecamente boa para você; ela aumenta diretamente o seu bem-estar. Em contraste, o dinheiro pode comprar muitas coisas úteis, e é assim instrumentalmente bom para uma pessoa, mas, *em si mesmo*, não contribui diretamente para o seu bem-estar. (Podemos similarmente falar de coisas que são intrinsecamente ruins para você como "males de bem-estar".)
 
-In this chapter, we explore different accounts of the _intrinsic_ or _basic_ welfare goods—as opposed to things that are only _instrumentally_ good for you. For example, happiness is (plausibly) intrinsically good for you; it directly increases your well-being. In contrast, money can buy many useful things and is thus instrumentally good for you, but does not _in itself_ constitute well-being. (We can similarly speak of things that are intrinsically bad for you, like misery, as “welfare bads”.)
+No entanto, há um desacordo generalizado sobre o que constitui o bem-estar.[^2] Quais coisas são em si mesmas boas para uma pessoa? As respostas divergentes a essa questão dão vida a uma variedade de teorias do bem-estar, cada qual considerando diferentes coisas como os componentes do bem-estar. As três teorias principais são o *hedonismo*, as *teorias do desejo* e as *teorias da lista objetiva*.[^3] As diferenças entre essas teorias são primeiramente de interesse teórico; elas coincidem suficientemente na prática de modo que [as implicações práticas do utilitarismo](https://www.utilitarismo.net/acting-on-utilitarianism) provavelmente não dependem de qual dessas, ou qual de quaisquer, teorias acaba por ser a visão correta.
 
-However, there is widespread disagreement about what constitutes well-being.[^2] What things are in themselves good for a person? The diverging answers to this question give rise to a variety of theories of well-being, each of which regards different things as the components of well-being. The three main theories of well-being are _hedonism_, _desire theories,_ and _objective list theories_.[^3] The differences between these theories are—in today's world, at least—of primarily theoretical interest; they overlap sufficiently in practice that [the immediate practical implications of utilitarianism](/acting-on-utilitarianism) are unlikely to depend upon which of these, if any, turns out to be the correct view. But as we'll see, future technology could severely disrupt this practical overlap. It may then matter greatly which account of well-being we accept.
+## Hedonismo
 
-## Hedonism
+A teoria do bem-estar que se encontra incorporada ao [utilitarismo clássico](https://www.utilitarismo.net/types-of-utilitarianism#the-two-elements-of-classical-utilitarianism) é o *hedonismo*.[^4]
 
-The theory of well-being that is built into [classical utilitarianism](/types-of-utilitarianism/#the-two-elements-of-classical-utilitarianism) is _hedonism_.[^4]
+> **O hedonismo é a visão de que o bem-estar consiste no, e somente no, saldo das experiências conscientes positivas subtraídas pelas negativas.**[^5]
 
-> **Hedonism is the view that well-being consists in, and only in, the balance of positive minus negative conscious experiences.**[^5]
+Nessa visão, os únicos bens de bem-estar básicos são experiências prazerosas como o prazer e o contentamento. Inversamente, os únicos males de bem-estar básicos são experiências desprazerosas como a dor e a tristeza. Em prol da legibilidade, nos referimos a experiências prazerosas como *felicidade* e a experiências desprazerosas como *sofrimento*.
 
-On this view, the only basic welfare goods are pleasant experiences such as enjoyment and contentment. Conversely, the only basic welfare bads are unpleasant experiences such as pain and misery. For the sake of readability, we refer to pleasant experiences as _happiness_ and to unpleasant experiences as _suffering_.
+A concepção hedonista de felicidade é ampla: ela cobre não só instâncias paradigmáticas de prazer sensorial — como as experiências de comer comida deliciosa ou fazer sexo —, mas também outras experiências de valência positiva, como as experiências de resolver um problema, ler um romance ou ajudar um amigo. Os hedonistas afirmam que todas essas experiências aprazíveis são intrinsecamente valiosas. Outros bens, como a riqueza, a saúde, a justiça, a imparcialidade e a igualdade, são também valorizados pelos hedonistas, mas são valorizados instrumentalmente. Ou seja, são somente valorizados na medida em que aumentam a felicidade e reduzem o sofrimento.
 
-The hedonistic conception of happiness is broad: It covers not only paradigmatic instances of sensory pleasure—such as the experiences of eating delicious food or having sex—but also other positively valenced experiences, such as the experiences of solving a problem, reading a novel, or helping a friend. Hedonists claim that all of these enjoyable experiences are intrinsically valuable. Other goods, such as wealth, health, justice, fairness, and equality, are also valued by hedonists, but they are valued instrumentally. That is, they are only valued to the extent that they increase happiness and reduce suffering.
+Quando o hedonismo é combinado com a [imparcialidade](https://www.utilitarismo.net/types-of-utilitarianism#impartiality), como no utilitarismo clássico, o escopo do hedonismo se torna universal. Isso quer dizer que a felicidade e o sofrimento são tratados como igualmente importantes independentemente de quando, onde ou por quem eles são vivenciados. Disso decorre o [senciocentrismo](https://www.utilitarismo.net/utilitarianism-and-practical-ethics#the-expanding-moral-circle), a visão de que devemos estender a nossa preocupação moral a todos os *seres sencientes*, incluindo os humanos e a maioria dos animais não humanos, visto que eles podem vivenciar a felicidade e o sofrimento. Alternativamente, visões não utilitaristas podem aceitar o hedonismo, porém rejeitar a imparcialidade, assim restringindo o escopo do hedonismo para afirmar que somente a felicidade de um grupo específico — ou até de um único indivíduo[^6] — deveria "contar" moralmente.
 
-When hedonism is combined with [impartiality](/types-of-utilitarianism/#impartiality), as in classical utilitarianism, hedonism’s scope becomes universal. This means that happiness and suffering are treated as equally important regardless of when, where, or by whom they are experienced. From this follows [sentiocentrism](/utilitarianism-and-practical-ethics/#the-expanding-moral-circle), the view that we should extend our moral concern to all _sentient beings_, including humans and most non-human animals, since only they can experience happiness or suffering. Alternatively, non-utilitarian views may accept hedonism but reject impartiality, thus restricting hedonism’s scope to claim that only the happiness of a specified group—or even a single individual[^6]—should “count” morally.
+A noção no âmago do hedonismo, de que a felicidade é boa e o sofrimento é ruim, é amplamente aceita. O simples ato de investigar as nossas próprias experiências conscientes pela introspecção parece apoiar essa visão: a bondade da felicidade e a maldade do sofrimento são autoevidentes àqueles que os vivenciam.[^7] É importante observar que a felicidade parece boa (e o sofrimento ruim) não simplesmente porque ela nos ajuda (ou ele nos atrapalha) na nossa busca por *outros* bens, mas porque vivenciá-la (o) é bom (ou ruim) em si mesmo.
 
-The notion at the heart of hedonism, that happiness is good and suffering is bad, is widely accepted. The simple act of investigating our own conscious experiences through introspection appears to support this view: The goodness of happiness and the badness of suffering are self-evident to those who experience them.[^7] Importantly, happiness seems good (and suffering bad) not simply because they help (or hinder) us in our pursuit of _other_ goods, but because experiencing them is good (or bad) in itself.
+No entanto, o que torna o hedonismo controverso é que ele implica que:
 
-However, what makes hedonism controversial is that it implies that:
+1. *Toda* felicidade é intrinsecamente boa para você, e todo sofrimento, intrinsecamente ruim.
+2. A felicidade é o *único* bem de bem-estar básico, e o sofrimento, o único mal de bem-estar básico.
 
-1. _All_ happiness is intrinsically good for you, and all suffering intrinsically bad.
-2. Happiness is the _only_ basic welfare good, and suffering the only basic welfare bad.
+Os críticos do hedonismo contestam a primeira afirmação ao apontarem para instâncias de supostos *maus prazeres*, que eles afirmam que *não* são bons para você. E eles frequentemente rejeitam a segunda afirmação ao invocarem o experimento da "máquina de experiência" de Robert Nozick para argumentarem que deve haver bens de bem-estar básicos que não a felicidade. Explicamos cada objeção, e como os hedonistas podem responder, por sua vez.
 
-Critics of hedonism dispute the first claim by pointing to instances of putative _evil pleasures_, which they claim are _not_ good for you. And they often reject the second claim by invoking Robert Nozick’s “experience machine” thought experiment to argue that there must be basic welfare goods other than happiness. We explain each objection, and how hedonists can respond, in turn.
+### A Objeção dos "Maus Prazeres"
 
-### The “Evil Pleasures” Objection
+Os críticos frequentemente rejeitam a afirmação hedonista de que toda felicidade é boa e todo sofrimento, ruim. Considere um sádico, que tem prazer com o sofrimento dos outros. Os hedonistas podem aceitar que o sadismo tipicamente seja nocivo *como um todo*, visto que o prazer do sádico é improvável que tenha mais peso que o sofrimento da sua vítima. Isso justifica a desaprovação do sadismo na prática, especialmente com a [visão utilitarista multinível](https://www.utilitarismo.net/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism). Nessa visão, poderíamos presumir que encontrarmos as exceções raras a essa regra pouco valor prático tivesse, ao passo que o risco de [permitirmos por engano ações nocivas](https://utilitarismo.net/objections-to-utilitarianism/abusability/) significa que estaríamos em melhor situação ao estabelecermos uma proibição geral a causar danos aos outros sem consentimento.
 
-Critics often reject the hedonist claim that all happiness is good and all suffering bad. Consider a sadist who takes pleasure in harming others without their consent. Hedonists can allow that nonconsensual sadism is typically _overall_ harmful, as the sadist’s pleasure is unlikely to outweigh the suffering of their victim. This clearly justifies disapproving of nonconsensual sadism in practice, especially with a [multi-level utilitarian view](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism). Under that view, we might assume that finding the rare exceptions to this rule would have little practical value. However, the risk of [mistakenly permitting harmful actions](/objections-to-utilitarianism/abusability/) means that we would be better off establishing a general prohibition on harming others without their consent.
+Não obstante isso, num nível puramente teórico, podemos perguntar: e se houvesse *muitos* sádicos, regozijando-se coletivamente com o sofrimento de uma única alma torturada? Se o seu prazer agregado prevalece sobre o sofrimento da única pessoa, o utilitarismo hedonista implica que esse é um bom resultado, e os sádicos agem corretamente ao torturar a vítima. Mas isso parece errado.
 
-Still, on a purely theoretical level, we may ask: What if there were _many_ sadists, collectively rejoicing in the suffering of a single tortured soul? If their aggregate pleasure outweighs the suffering of the one, then hedonistic utilitarianism implies that this is a good outcome, and the sadists act rightly in torturing their victim. But that seems wrong.
+Neste ponto, vale a pena distinguir algumas afirmações sutilmente diferentes às quais alguém poderia objetar: (i) os sádicos se beneficiam do seu prazer sádico e (ii) os benefícios ao sádico contam como *bens morais*, ou algo que deveríamos querer promover (tudo o mais estando igual).
 
-At this point, it's worth distinguishing a couple of subtly different claims that one might object to: (i) the sadists benefit from their sadistic pleasure, and (ii) the benefits to the sadists count as _moral goods_, or something that we should want to promote (all else equal).
+Rejeitar (i) significa rejeitar o hedonismo quanto ao bem-estar. Mas se o prazer sádico não beneficia o sádico, isso implica que alguém que quer deixar o sádico em pior situação (por qualquer razão que seja) não poderia fazer isso ao bloquear o seu prazer sádico. E isso parece equivocado.
 
-To reject (i) means rejecting hedonism about well-being. But if sadistic pleasure does not benefit the sadist, then this implies that someone who wants to make the sadist worse off (for whatever reason) could not achieve that by means of blocking their sadistic pleasure. And that seems mistaken.
+Alternativamente, poderíamos reter o hedonismo quanto ao bem-estar enquanto respeitamos as nossas intuições antissádicas antes rejeitando (ii) e negando que *beneficiar o sádico às custas da sua vítima* seja razoável ou bom. Isso envolveria rejeitar o utilitarismo, estritamente falando, embora uma [visão consequencialista intimamente relacionada](https://utilitarismo.net/near-utilitarian-alternatives#desert-adjusted-views) que meramente atribui peso igual a todos os interesses *inocentes* (enquanto desconsidera interesses ilícitos) continue disponível e coincida com o utilitarismo na vasta maioria dos casos.
 
-Alternatively, one might retain hedonism about well-being while respecting our intuitive opposition to "evil pleasures" by instead rejecting (ii), and denying that _benefiting sadists at the expense of their victims_ is reasonable or good. This would involve rejecting utilitarianism, strictly speaking, though a [closely related consequentialist view](/near-utilitarian-alternatives#desert-adjusted-views) that merely gives equal weight to all _innocent_ interests (while discounting illicit interests) remains available, and overlaps with utilitarianism in the vast majority of cases.
+Os utilitaristas hedonistas poderiam buscar preservar tanto (i) quanto (ii) ao fornecerem uma explicação alternativa das nossas intuições. Por exemplo, podemos julgar maus os *caracteres* dos sádicos visto que eles desfrutam de machucar os outros e assim parecem dados a cometer atos incorretos em muitas outras circunstâncias.[^8]
 
-Hedonistic utilitarians might seek to preserve both (i) and (ii) by offering an alternative explanation of our intuitions. For example, we may judge the sadists’ _characters_ to be bad insofar as they enjoy hurting others, and so they seem likely to act wrongly in many other circumstances.[^8]
+Quando "maus" prazeres estão desvinculados das suas consequências habituais, torna-se muito menos claro que eles ainda sejam ruins. Imagine um universo que contém um único sádico, cujo prazer na vida advém da sua crença falsa de que há outras pessoas passando por um tormento considerável. Será que as coisas realmente melhorariam se a única fonte de deleite do sádico lhe fosse tirada? Se não, então é como se o prazer do sádico não fosse intrinsecamente ruim, afinal de contas. (Embora possamos, claro, ainda desaprovar a sua maldade *instrumental* em circunstâncias da vida real.) Ainda assim, se pensarmos que as coisas melhorariam inerentemente se antes substituíssemos o prazer sádico do único habitante por um uma quantidade igual de prazer não sádico, isso poderia sugerir a necessidade de alguns pequenos ajustes ou ao hedonismo, ou ao utilitarismo.[^9]
 
-When "evil" pleasures are detached from their usual consequences, it becomes much less clear that they are still bad. Imagine a universe containing only a single sadist, whose sole enjoyment in life comes from their false belief that there are other people undergoing significant torment. Would it really improve things if the sadist’s one source of delight was taken away from them? If not, then it seems like sadistic pleasure is not intrinsically bad after all. (Though we can, of course, still disapprove of its _instrumental_ badness in real-life circumstances.) Even so, if we think it would inherently improve things to replace the sole inhabitant's sadistic pleasure with an equal amount of non-sadistic pleasure instead, this might suggest the need for some minor tweaks to either hedonism or utilitarianism.[^9]
+### A Objeção da Máquina de Experiência
 
-### The Experience Machine Objection
+Robert Nozick contestou a visão de que a felicidade é o único bem básico e o sofrimento, o único mal básico, ao oferecer um experimento mental feito para mostrar que valorizamos coisas que não experiências conscientes. Especificamente, Nozick argumentou que os hedonistas estão comprometidos, equivocadamente, a se conectar a uma "máquina de experiência".
 
-Robert Nozick disputed the view that happiness is the only basic good and suffering the only basic bad by providing a thought experiment intended to show that we value things other than conscious experiences. Specifically, Nozick argued that hedonists are committed, mistakenly, to plugging into an “experience machine”:
+> *Suponha que haja uma máquina de experiência que lhe daria qualquer experiência que você desejasse. Ela poderia estimular o seu cérebro de modo que você pensasse e sentisse que está escrevendo um grande romance, ou fazendo um amigo, ou lendo um livro interessante. Todo o tempo você estaria boiando dentro de um tanque, com eletrodos ligados ao seu cérebro. Você deveria se conectar a essa máquina para a vida toda, pré-programando as suas experiências de vida?*[^10]
 
-> _Suppose there were an experience machine that would give you any experience you desired. It could stimulate your brain so that you would think and feel you were writing a great novel, or making a friend, or reading an interesting book. All the time you would be floating in a tank, with electrodes attached to your brain. Should you plug into this machine for life, pre-programming your life experiences?_[^10]
+Nozick acredita que você não deveria se conectar à máquina de experiência, apesar de a máquina prometer uma vida repleta de muito mais felicidade que a "vida real".[^11] A maioria de nós não quer meramente vivenciar sensações "pré-programadas" passivamente, por mais prazerosas que elas possam ser: também queremos (i) fazer escolhas reais, vivendo ativamente as nossas vidas,[^12] e (ii) interagir genuinamente com os outros, compartilhando as nossas vidas com amigos e entes queridos reais.[^13]
 
-Nozick suggests that you should not plug into the experience machine, despite the machine promising a life filled with much more happiness than “real life”.[^11] Most of us do not merely want to passively experience “pre-programmed” sensations, however pleasant they might be; we also want to (i) make real choices, actively living our lives,[^12] and (ii) genuinely interact with others, sharing our lives with real friends and loved ones.[^13]
+Se a felicidade fosse o único bem de bem-estar básico, não importaria se as nossas experiências fossem reais ou geradas pela máquina de experiência sem nenhum input vindo nós (ou de outrem). Consequentemente, se iríamos preferir não nos conectar à máquina, isso sugere que valorizamos coisas que não a felicidade apenas, como a autonomia e relacionamentos.
 
-If happiness were the only basic welfare good, it would not matter whether our experiences were real or were generated by the experience machine without any input from us (or others). Consequently, if we would prefer not to plug into the machine, that suggests we value things other than just happiness, such as autonomy and relationships.
+Um modo como os hedonistas tentaram resistir a esse argumento foi questionando a confiabilidade das intuições evocadas pelo experimento mental. Em alguns casos, a relutância em se conectar à máquina poderia ter origem em preocupações pragmáticas de que a tecnologia pode falhar.[^14] Outros poderiam ser movidos por razões morais para permanecerem desconectados (por exemplo, ajudar os outros no mundo real), mesmo que isso signifique sacrificar a sua própria felicidade. Finalmente, muitos sugeriram que a nossa resposta ao experimento mental reflete o [viés do status quo](https://en.wikipedia.org/wiki/Status_quo_bias): se você diz às pessoas que elas *já* estão na máquina de experiência, é muito mais provável que elas queiram *permanecer* conectadas.[^15]
 
-One way that hedonists have tried to resist this argument is to question the reliability of the intuitions evoked by the thought experiment. In some cases, reluctance to plug into the machine might stem from pragmatic concerns that the technology may fail.[^14] Others might be moved by moral reasons to remain unplugged (for example, to help others in the real world), even if that means sacrificing their own happiness. Finally, many have argued that our responses to the thought experiment reflect [status quo bias](https://en.wikipedia.org/wiki/Status_quo_bias): if you tell people that they are _already_ in the experience machine, they are much more likely to want to _remain_ plugged in.[^15]
+Ainda assim, mesmo depois de cuidadosamente colocar entre parênteses esses fatores confundidores, muitos teriam repugnância, intuitivamente falando, à sugestão de que uma máquina de experiência poderia oferecer tudo o que eles verdadeiramente querem da vida. Imagine que pessoa A viva uma vida feliz e plena no mundo real, cuja experiência subjetiva seja "gravada" de alguma forma e daí "reproduzida" para B (que está conectado à maquina de experiência desde que nasceu), com apenas um choque extra de prazer leve no final.[^16] O hedonismo implica que B tem a melhor vida entre os dois, mas muitos acham isso implausível. Observe que essa intuição não pode ser rejeitada por explicação tão facilmente como algo que tenha origem em confundidores pragmáticos ou morais, ou em mero viés do status quo.
 
-Still, even after carefully bracketing these confounding factors, many will intuitively recoil from the suggestion that an experience machine could provide all that they truly want from life. Imagine that person A lives a happy and accomplished life in the real world, the subjective experience of which is somehow “recorded” and then “played back” to B (who is attached to an experience machine from birth), with just an extra jolt of mild pleasure at the end.[^16] Hedonism implies that B has the better life of the two, but many will find this implausible. Note that this intuition cannot so easily be explained away as stemming from pragmatic or moral confounds, or mere status-quo bias.
+Roger Crisp aconselha os hedonistas a considerarem essas intuições como *úteis* em vez de algo que *reflete a realidade*:
 
-Roger Crisp advises hedonists to regard these intuitions as being _useful_ rather than _accurate_:
+> Isso é adotar uma estratégia semelhante àquela desenvolvida pelos “[utilitaristas de dois níveis](https://www.utilitarismo.net/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism)” em resposta a supostos contraexemplos baseados na moralidade do senso comum. Os hedonistas apontariam para o tal "paradoxo do hedonismo", de que o prazer é buscado do modo mais eficaz indiretamente. Se eu tentar conscientemente maximizar o meu prazer, serei incapaz de imergir nessas atividades, como ler ou jogar videogames, que de fato dão prazer. E se crermos que essas atividades são valiosas independentemente do prazer que ganhamos de praticá-las, provavelmente ganharemos mais prazer em geral.[^17]
 
-> This is to adopt a strategy similar to that developed by ‘[two-level utilitarians](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism)’ in response to alleged counter-examples based on common-sense morality. The hedonist will point out the so-called ‘paradox of hedonism’, that pleasure is most effectively pursued indirectly. If I consciously try to maximize my own pleasure, I will be unable to immerse myself in those activities, such as reading or playing games, which do give pleasure. And if we believe that those activities are valuable independently of the pleasure we gain from engaging in them, then we shall probably gain more pleasure overall.[^17]
+Alguém comprometido com o hedonismo com base em outros fundamentos pode assim continuar imperturbável diante dessas objeções intuitivas. Ainda assim, elas criam um desafio para a visão: se uma teoria concorrente resultar em veredictos mais plausíveis, por que não antes preferir essa visão? Para avaliar adequadamente os prospectos para o hedonismo, assim, devemos primeiro explorar os desafios para essas explicações rivais.
 
-Someone committed to hedonism on other grounds may thus remain untroubled by our intuitions about the experience machine. Even so, they raise a challenge for the view: if a competing theory yields intuitively more plausible verdicts, why not prefer that view instead? To adequately assess the prospects for hedonism, we must first explore the challenges for these rival accounts.
+## Teorias do Desejo
 
-## Desire Theories
+Vimos que os hedonistas têm dificuldade em capturar tudo com que as pessoas se importam ao refletirem sobre as suas vidas. As *teorias do desejo* evitam esse problema ao fundamentarem o bem-estar nos próprios desejos de cada indivíduo.
 
-We saw that hedonism struggles to capture all that people care about when reflecting on their lives. _Desire theories_ avoid this problem by grounding well-being in each individual’s own desires.
+> **As teorias do desejo mantêm que o bem-estar consiste na satisfação (menos a frustração) de desejos ou preferências.**
 
-> **Desire theories hold that well-being consists in the satisfaction (minus frustration) of desires or preferences.**
+Segundo as teorias do desejo, o que faz a sua vida ir bem é simplesmente conseguir seja lá o que for que você deseja ou prefere. Combinar o utilitarismo com uma teoria do desejo do bem-estar resulta no *utilitarismo de preferências*, segundo o qual a ação correta melhor promove as preferências (de todos) em geral.
 
-According to desire theories, what makes your life go well for you is simply to get whatever it is that you want, desire, or prefer. Combining utilitarianism with a desire theory of well-being yields _preference utilitarianism_, according to which the right action best promotes (everyone’s) preferences overall.
+É importante observar que as nossas preferências podem ser satisfeitas sem nos darmos conta disso, contanto que as coisas sejam na realidade conforme preferimos que elas sejam. Por exemplo, muitos pais iriam preferir:
 
-Importantly, our preferences can be satisfied without our realizing it, so long as things in reality are as we prefer them to be. For example, many parents would prefer to:
+> (i) crer falsamente que o seu filho morreu, ainda que a criança esteja realmente viva e feliz,
 
-&emsp;(i) Falsely believe their child has died, when the child is actually alive and happy,
+a:
 
-rather than to:
+> (ii) crer falsamente que o seu filho está vivo e feliz, ainda que a criança esteja realmente morta.
 
-&emsp;(ii) Falsely believe their child is alive and happy, when the child is actually dead.
+Um pai que deseja intensamente uma vida feliz para o seu filho pode ser mais feliz no cenário (ii), em que ele crê (falsamente) que esse desejo é satisfeito. Mas o seu desejo é realmente satisfeito em (i), e isso é o que o beneficia realmente, segundo as teorias do desejo paradigmáticas.[^18]
 
-A parent who strongly desires a happy life for their child may be happier in scenario (ii), where they (falsely) believe this desire to be satisfied. But their desire is actually satisfied in (i), and that is what really benefits them, according to standard desire theories.[^18]
+Como resultado, as teorias do desejo podem facilmente explicar a nossa relutância em nos conectarmos à máquina de experiência.[^19] Ela oferece felicidade baseada em crenças falsas. Mas se nos importamos com algo fora das nossas cabeças (como a maioria de nós parece se importar), então a máquina de experiência deixará esses desejos não realizados. Uma vida "real" pode conter menos felicidade, porém mais realização de desejos, e assim mais bem-estar de acordo com as teorias do desejo.
 
-As a result, desire theories can easily account for our reluctance to plug into the experience machine.[^19] It offers happiness based on false beliefs. But if we care about anything outside of our own heads (as most of us seem to), then the experience machine will leave those desires unfulfilled. A “real” life may contain less happiness, but more desire-fulfillment, and hence more well-being according to desire theories.
+Teorias do desejo podem ser *restritas* ou *irrestritas* em escopo. As teorias irrestritas contam *todos* os seus desejos, sem exceção. Em tal visão, se você deseja que a nossa galáxia contenha um número par de estrelas, então você passa melhor se isso for verdadeiro, e pior se isso for falso. As teorias do desejo restritas antes afirmam que somente desejos em alguma classe restrita — talvez aqueles que são em algum sentido *a respeito da sua vida*[^20] — afetam o seu bem-estar. Numa teoria restrita, algo pode parecer bom *a* você sem ser bom *para* você, e esse tipo de desejo não seria visto como algo que afeta significativamente o seu bem-estar.
 
-Desire theories may be either _restricted_ or _unrestricted_ in scope. Unrestricted theories count _all_ of your desires, without exception. On such a view, if you desire that our galaxy contains an even number of stars, then you are better off if this is true, and worse off if it is false. Restricted desire theories instead claim that only desires in some restricted class—perhaps those that are in some sense _about your own life_[^20]—affect your well-being. Under a restricted theory, something can seem good _to_ you without being good _for_ you, and this kind of desire would not be seen as meaningfully affecting your well-being.
+Teorias do desejo podem ser motivadas pelo pensamento de que o que faz a sua vida ir bem *para você* deve em última análise *caber a você*. Outras teorias poderiam apoiar políticas antipaternalistas na prática, supondo que indivíduos sejam tipicamente os melhores juízes do que é bom para eles,[^21] mas somente os teóricos do desejo consideram que as preferências dos indivíduos sobre as suas vidas *determinam* o que é bom para eles. Em contraste, os outros teóricos estão mais abertos a revogar como equivocadas as preferências de um indivíduo concernentes a si mesmo, caso não correspondam ao que é objetivamente valioso.
 
-Desire theories may be motivated by the thought that what makes your life go well _for you_ must ultimately be _up to you_. Other theorists might support anti-paternalistic policies in practice, supposing that individuals are typically the best judges of what is good for them,[^21] but only desire theorists take an individual’s preferences about their own life to _determine_ what is good for them. By contrast, other theorists are more open to overruling an individual’s self-regarding preferences as misguided, if they fail to track what is objectively worthwhile.
+### Desejos Bizarros
 
-### Bizarre Desires
+Para testar as suas intuições sobre as teorias do desejo, pode ser de ajuda imaginar alguém cujos desejos destoam de qualquer coisa que plausivelmente seja de valor objetivo (incluindo a sua felicidade subjetiva). Suponha que o mais forte desejo de alguém seja contar folhas de grama, embora esse seja um desejo compulsivo que prazer nenhum traz.[^22] Muitos de nós consideraria essa preferência como *patológica* e digna de ser ignorada ou até extinguida em prol do próprio sujeito — pelo menos se ele ficasse mais feliz como resultado. Mas teóricos do desejo comprometidos iriam insistir que, por mais estranhas que as preferências dos outros possam nos parecer, são as *próprias* preferências de cada pessoa que importam para a determinação do que lhe é vantajoso.[^23] Quão satisfatória você acha essa resposta provavelmente dependerá de quão fortemente atraído às visões do desejo você já estava, em primeiro lugar.
 
-To test your intuitions about desire theories, it may help to imagine someone whose desires come apart from anything that is plausibly of objective value (including their own subjective happiness). Suppose that someone’s strongest desire is to count blades of grass, even though this is a compulsive desire that brings them no pleasure.[^22] Many of us would regard this preference as _pathological_, and worth overriding or even extinguishing for the subject’s own sake—at least if they would be happier as a result. But committed desire theorists will insist that, however strange another’s preferences may seem to us, it's each person’s _own_ preferences that matter for determining what is in their interests.[^23] How satisfying you find this response will likely depend on how strongly drawn to desire views you were in the first place.
+### Preferências Cambiantes
 
-### Changing Preferences
+Uma questão complicada para os teóricos do desejo é como lidar com preferências cambiantes. Suponha que, quando criança, eu deseje incondicionalmente ser bombeiro quando crescer — isto é, ainda que o meu eu crescido queira uma carreira diferente. Suponha que eu, em vez disso, venha a me desenvolver naturalmente para querer ser professor, o que prova ser uma carreira mais satisfatória para o meu eu adulto. Mas suponha adicionalmente que, se eu, em vez disso, largasse a escola e me tornasse um viciado em drogas, eu fosse adquirir desejos mais fortes — e capazes de ser satisfeitos mais facilmente —, embora eu atualmente veja esse prospecto com desgosto.[^24] Dadas essas estipulações, fico melhor tornando-me bombeiro, professor ou viciado em drogas? Diferentes teorias do desejo irão oferecer diferentes respostas a essa questão.
 
-One tricky question for desire theorists is how to deal with changing preferences. Suppose that, as a child, I unconditionally desire to be a firefighter when I grow up—that is, even in the event that my grown-up self wants a different career. Suppose that I will naturally develop to instead want to be a teacher, which would prove a more satisfying career for my adult self. But further suppose that, if I instead dropped out of school and became a drug addict, I would acquire stronger—and more easily satisfied—desires, although I currently view this prospect with distaste.[^24] Given these stipulations, am I best-off becoming a firefighter, a teacher, or a drug addict? Different desire theories will offer different answers to this question.
+A forma mais simples de teoria do desejo considera que o valor de bem-estar de uma vida é determinado pela soma total dos seus desejos satisfeitos menos os seus desejos frustrados a cada momento.[^25] Tal visão poderia acabar facilmente avaliando o prospecto da adicção a drogas como o que oferece o melhor futuro,[^26] independentemente das minhas preferências atuais.[^27] Essa seria uma implicação especialmente constrangedora para qualquer um que tenha sido atraído pelas visões do desejo com base no antipaternalismo de que cada pessoa deve decidir por si mesma onde se encontram os seus verdadeiros interesses.
 
-The simplest form of desire theory takes the well-being value of a life to be determined by the sum total of its satisfied desires minus its frustrated desires at each moment.[^25] Such a view could easily end up rating the prospect of drug addiction as providing the best future,[^26] no matter my current preferences.[^27] This would be an especially awkward implication for any who were drawn to desire views on the anti-paternalist grounds that each person gets to decide for themselves where their true interests lie.
+Para evitar essa implicação, poderíamos decidir atribuir mais peso aos desejos presentes do que a desejos futuros potenciais. Uma abordagem *necessitarista*, por exemplo, conta somente desejos que existem (ou existiram anteriormente) em *todos* os resultados potenciais em consideração.[^28] Isso agradavelmente exclui desejos induzidos, como no cenário da adicção induzida, mas também justifica impedir mudanças de desejo naturais (como entre carreiras de bombeiro e de professor), o que pode parecer contraintuitivo.[^29] Logo, para os teóricos do desejo, está longe de ser simples dar respostas intuitivas perpassando uma gama de casos de mudança de preferências.
 
-To avoid this implication, one might decide to weigh present desires more heavily than potential future desires. A _necessitarian_ approach, for example, only counts desires that exist (or previously existed) in _all_ of the potential outcomes under consideration.[^28] This nicely rules out induced desires, as in the induced addiction scenario, but may also justify impeding natural desire change (such as between firefighting and teaching careers), which can seem counterintuitive.[^29] So it's far from straightforward for desire theorists to give intuitive answers across a range of preference-change cases.
+## Teorias da Lista Objetiva
 
-## Objective List Theories
+Tanto o hedonismo como as teorias do desejo são *monistas*. Elas sugerem que o bem-estar consiste numa coisa só: ou bem a felicidade, ou então a satisfação de desejos. Em contraste, ao passo que os *teóricos da lista objetiva* em geral concordam que a felicidade é um componente importante do bem-estar, eles negam que esse seja o *único* componente tal; consequentemente, as teorias da lista objetiva são *pluralistas*.[^30]
 
-Both hedonism and desire theories are _monist_. They suggest that well-being consists of a single thing—either happiness or desire satisfaction. In contrast, while _objective list theorists_ usually agree that happiness is an important component of well-being, they deny that it's the _only_ such component; consequently, objective list theories are _pluralist_.[^30]
+> **As teorias da lista objetiva mantêm que há uma variedade de coisas objetivamente valiosas que contribuem para o bem-estar de alguém.**
 
-> **Objective list theories hold that there are a variety of objectively valuable things that contribute to one’s well-being.**
+Além da felicidade, é comum essas listas incluírem relacionamentos amorosos, realizações, apreciação estética, criatividade, conhecimento[^31] e mais. Algo crucial é que esses itens da lista são entendidos como bens básicos ou intrínsecos; eles são valiosos em si mesmos, não por causa de algum benefício instrumental que eles provejam. A lista é chamada *objetiva*, porque os seus itens supostamente são bons para você independentemente de como você se sente sobre eles. A mesma lista se aplica a todos, embora vidas diferentes possam acabar realizando bens diferentes da lista, de modo que pode ainda haver muitos modos diferentes de viver uma vida excelente. Nessa visão, algumas coisas (como o amor e a felicidade) são inerentemente mais dignas da sua preocupação do que outras (como contar folhas de grama), e faz a sua vida ir melhor se você alcançar mais das coisas que são verdadeiramente boas ou dignas de serem buscadas.
 
-In addition to happiness, these lists commonly include loving relationships, achievement, aesthetic appreciation, creativity, knowledge,[^31] and more. Crucially, these list items are understood as basic or intrinsic goods; they are valuable in themselves, not because of some instrumental benefit they provide. The list is called _objective_, because its items are purported to be good for you regardless of how you feel about them. The same list applies to everyone, though different lives may end up realizing different goods from the list, so there may still be many different ways of living an excellent life. On this view, some things (such as love and happiness) are inherently more worth caring about than others (such as counting blades of grass), and it makes your life go better if you attain more of the things that are truly good or worth pursuing.
+As teorias da lista objetiva não implicam necessariamente que as pessoas se beneficiariam de serem forçadas a buscar bens objetivos contra a sua vontade. A autonomia poderia ser um valor na lista, e a felicidade certamente é; qualquer uma dessas é suscetível de ser severamente frustrada por tal coerção. Ainda assim, uma implicação digna de nota é que, se você puder *mudar* as preferências de um indivíduo de objetivos inválidos para válidos, isso provavelmente irá melhorar o seu bem-estar (ainda que ele não esteja em nada mais satisfeito, subjetivamente falando, do que antes).
 
-Objective list theories do not necessarily imply that people would benefit from being forced to pursue objective goods against their will. Autonomy could be a value on the list, and happiness certainly is; either of these is apt to be severely thwarted by such coercion. Still, one notable implication is that if you are able to _change_ someone’s preferences from worthless to worthwhile goals, this is likely to improve their well-being (even if they are no more satisfied, subjectively speaking, than before).
+As teorias da lista objetiva se encontram, assim, em boa posição para explicar quais mudanças de preferência são boas ou ruins para você (uma vantagem potencial sobre as teorias do desejo). E a inclusão de valores além da felicidade gera veredictos mais plausíveis do que o hedonismo em casos de "máquina de experiência".[^32]
 
-Objective list theories are thus in a good position to explain which preference-changes are good or bad for you (a potential advantage over desire theories). And the inclusion of values beyond just happiness yields more plausible verdicts than hedonism in “experience machine” cases.[^32]
+### Será o Valor Objetivo "Fantasmagórico"?
 
-### Is Objective Value “Spooky”?
+A resistência às teorias da lista objetiva pode ter origem na sensação de que há algo de metafisicamente extravagante, desconceituado ou "fantasmagórico" a respeito dos valores objetivos que elas postulam — que eles adéquam-se mal a uma visão de mundo científica moderna. Mas se pode muito bem manter que as teorias do bem-estar concorrentes estão numa posição em nada melhor com respeito a tais preocupações metaéticas.[^33] Bem-estar é um conceito inerentemente avaliativo: é aquilo que *vale a pena buscar em prol de um indivíduo*. (Se você não está descrevendo algo que *importa* dessa maneira, seja lá o que você está explicando, isso não pode verdadeiramente ser *bem-estar*. Um completo niilista deve negar que haja coisa alguma semelhante.)[^34]
 
-Resistance to objective list theories may stem from the sense that there is something metaphysically extravagant, disreputable, or “spooky” about the objective values they posit—that they are a poor fit with a modern scientific worldview. But competing theories of well-being are arguably in no better position regarding such metaethical[^33] concerns. Well-being is an inherently evaluative concept: it is that which is _worth pursuing for an individual’s sake_.[^33a] (If you are not describing something that _matters_ in this way, then whatever it is that you are giving an account of, it cannot truly be _well-being_. A thoroughgoing nihilist must deny that there is any such thing.)[^34]
+Os utilitaristas, em especial, consideram o bem-estar como objetivamente valioso: se uma pessoa afirma que os interesses dos outros não importam, pensamos que ela está cometendo um erro moral sério. Assim, já estamos comprometidos com fatos morais que se aplicam independentemente das opiniões dos outros. Então, que custo adicional há em afirmar que algo pode contribuir ao bem-estar de outra pessoa independentemente dos seus sentimentos e opiniões? (Na seção "Alienação" abaixo, consideramos a objeção de que isso resulta em veredictos implausíveis. Mas, por ora, só estamos considerando a objeção de que haveria algo de "fantasmagórico" ou anticientífico a respeito disso.) Uma vez que você está sequer de acordo com o valor do bem-estar, não é óbvio que haja qualquer custo metafísico adicional em aceitar uma teoria da lista objetiva em particular.[^35]
 
-Utilitarians, especially, regard well-being as objectively valuable: if someone claims that others’ interests do not matter, we think they are making a serious moral mistake. So we're already committed to moral facts that hold regardless of others' opinions. So what further cost is there to claiming that something may contribute to another's well-being regardless of their feelings or opinions? (In the 'Alienation' section below, we consider the objection that this yields implausible verdicts. But for now, we're just considering the objection that there would be something "spooky" or unscientific about it.) Once you are on board with welfare value at all, it's not clear that there is any additional metaphysical cost to accepting an objective list theory in particular.[^35]
+Por outro lado, pode ser difícil livrar-se da sensação de que há *algo* de menos misterioso, aparentemente, a respeito de fundamentar o valor no que queremos ou no que nos faz feliz. O desafio para o crítico aqui é desenvolver um argumento que deixe claro qual diferença *metafísica* decorre de fundamentar o valor em nossos desejos ou sentimentos, contanto que o valor resultante seja igualmente real e importante independentemente de em que ele está fundamentado. Caso contrário, a força intuitiva da objeção da "fantasmagoria" pode simplesmente ter origem na confusão equivocada do valor baseado em sentimentos com o completo niilismo.[^36]
 
-On the other hand, it can be hard to shake the sense that there is _something_ less mysterious-seeming about grounding value in what we want or what makes us happy. The challenge for the critic here is to develop an argument that makes clear what _metaphysical_ difference follows from grounding value in our desires or feelings, so long as the resulting value is equally real and important no matter what it's grounded in. Otherwise, the intuitive force of the "spookiness" objection may just stem from mistakenly conflating feeling-based value with outright nihilism.[^36]
+Um argumento relacionado (porém diferente num sentido importante) poderia começar a partir da ideia de que deveria haver alguma *explicação comum* disponível para por que as coisas na lista objetiva são boas. Alguns críticos podem achar as teorias da lista objetiva arbitrárias ou ad hoc, em contraste com o hedonismo e as teorias do desejo, que oferecem, cada uma delas, uma maneira de unificar todos os bens de bem-estar num tipo único (seja a felicidade, seja a satisfação de desejos). Os teóricos da lista objetiva podem responder contestando a ideia de que alguma explicação tal é necessária: por que é que não haveria vários tipos diferentes de coisas que podem, cada qual, enriquecer a vida de alguém de modos fundamentalmente diferentes? (E por que considerar uma lista com apenas um item — seja a felicidade, seja a satisfação de desejos — como em qualquer sentido menos arbitrária?) Se você está ou não inclinado a presumir que uma "explicação comum" seja necessária (ou sequer esperada) aqui pode, assim, ter um impacto significativo sobre quão plausíveis você acha as teorias da lista objetiva.
 
-A related (but importantly different) argument might start from the idea that there should be some _common explanation_ available for why the things on the objective list are good. Some critics may find objective list theories arbitrary or _ad hoc_, in contrast to hedonism and desire theories which each offer a way to unify all welfare goods into a single kind (either happiness or desire satisfaction). Objective list theorists may respond by disputing the idea that any such common explanation is necessary: Why could there not be several different kinds of things that can each enrich one's life in fundamentally different ways? (And why regard a list with just one item on it—whether happiness or desire satisfaction—as any less arbitrary?)[^36a] Whether or not you are inclined to assume that a "common explanation" is necessary (or even to be expected) here may thus have a significant impact on how plausible you find objective list theories.
+### Alienação
 
-### Alienation
+A objeção talvez mais poderosa às teorias da lista objetiva antes as desafia no seu suposto ponto forte: a sua capacidade de acomodar juízos intuitivos sobre o que faz a sua vida ir bem. Pois se imaginarmos uma vida subjetivamente infeliz, é difícil acreditar que ela poderia ser, na realidade, uma vida boa para a pessoa que está vivendo-a, não importa quão alto ela possa marcar em todos os *outros* supostos valores objetivos (além da felicidade). Alguém que se sente profundamente alienado dos supostos "bens" na sua vida parece que não se beneficiaria dos bens em questão.[^37] Um eremita comprometido, por exemplo, poderia negar que ter amigos para interromper a sua solidão lhe faria absolutamente algum bem. Assim, isso lança dúvidas sobre a teorias da lista objetiva simples, que consideram que os itens na lista constituem bens de bem-estar independentemente de se os desejamos ou de se eles nos fazem felizes.
 
-Perhaps the most powerful objection to objective list theories instead challenges it on its putative point of strength: its ability to accommodate our intuitive judgments about what makes one’s life go well. If we imagine a subjectively miserable life, it's hard to believe that it could be a really good life for the person living it, no matter how highly they might score on all the _other_ putative objective values (besides happiness). Someone who feels deeply alienated from the putative “goods” in their life would not seem to benefit from the goods in question.[^37] A committed hermit, for example, might deny that having friends to interrupt his solitude would do him any good at all. So this casts doubt on the simple objective list theory that takes the items on the list to constitute welfare goods regardless of whether we want them or they make us happy.
+Essa preocupação poderia nos mover em direção a uma visão *híbrida*, segundo a qual o bem-estar consiste na *apreciação subjetiva dos bens de bem-estar objetivos candidatos.*[^38] Assim, amizades não desejadas não contam mais como um "benefício" para o eremita, mas se ele viesse a apreciar verdadeiramente as outras pessoas, isso seria melhor para ele do que extrair um prazer igual de meramente contar folhas de grama. Dessa maneira, pode-se tratar da objeção da alienação enquanto (i) se rejeita a máquina de experiência e (ii) se mantém a ideia objetivista central de que alguns modos de viver são melhores para nós do que outros, ainda que eles resultem em igual satisfação de desejos ou felicidade.
 
-This concern might move us towards a _hybrid_ view, according to which well-being consists in _subjective appreciation of the objective candidate welfare goods_.[^38] So unwanted friendships no longer count as a "benefit" to the hermit. But if he came to truly appreciate other people, this would be better for him than getting equal enjoyment from merely counting blades of grass. In this way, the alienation objection can be addressed while (i) rejecting the experience machine and (ii) maintaining the core objectivist idea that some ways of life are better for us than others, even if they would result in equal desire satisfaction and happiness.
+## Implicações Práticas das Teorias do Bem-Estar
 
-## Practical Implications of Theories of Well-Being
+O hedonismo, as teorias do desejo e as teorias da lista objetiva do bem-estar, todas elas coincidem amplamente na prática. Isso é porque tendemos a desejar coisas que são (tipicamente consideradas como) objetivamente valiosas e tendemos a ser mais felizes quando realizamos o que desejamos. Podemos também reconfigurar os nossos desejos com base nas nossas experiências do que sentimos ser bom. Como resultado, os defensores de qualquer dada teoria do bem-estar podem buscar desmistificar os seus concorrentes ao sugerir que os valores concorrentes (sejam eles o prazer, sejam a realização de desejos, sejam bens objetivos) são de valor meramente *instrumental*, tendendo a produzir, ou a acompanhar em outro sentido, o que importa *realmente*.
 
-Hedonism, desire theories, and objective list theories of well-being all largely overlap in practice. This is because we tend to desire things that are (typically regarded as) objectively worthwhile, and we tend to be happier when we achieve what we desire. We may also tend to reshape our desires based on our experiences of what feels good. As a result, defenders of any given theory of well-being might seek to debunk their competitors by suggesting that competing values (be they pleasure, desire-fulfillment, or objective goods) are of merely _instrumental_ value, tending to produce, or otherwise go along with, what _really_ matters.
+[Image]
 
-![Theories of well-being illustration - Hedonism, Desire Theories, Objective List Theories](/img/theories-of-well-being.png)
+Ainda assim, ao apelarmos a experimentos mentais estilizados (envolvendo máquinas de experiência, preferências cambiantes e afins), podemos cisar cuidadosamente as implicações das várias teorias do bem-estar, e assim formar um juízo considerado sobre qual teoria nos parece a mais plausível.
 
-Still, by appealing to stylized thought experiments (involving experience machines, changing preferences, and the like), we can carefully pry apart the implications of the various theories of well-being, and so form a considered judgment about which theory strikes us as most plausible.
+E ainda que as teorias coincidam *atualmente* na prática, as suas diferenças poderiam se tornar mais significantes na prática conforme a tecnologia avançar, e com ela a nossa capacidade de manipular as nossas mentes. Se um dia encararmos o prospecto de projetar os nossos descendentes de modo que eles vivenciem beatitudes numa passividade total, será importante determinar se estaríamos assim favorecendo-os, ou tirando-lhes muito do que compõe uma vida verdadeiramente próspera.
 
-Even if the theories _currently_ coincide in practice, their differences could become more practically significant as technology advances, and with it, our ability to manipulate our own minds. If we one day face the prospect of engineering our descendants so that they experience bliss in total passivity, it will be important to determine whether we would thereby be doing them a favor, or robbing them of much of what makes for a truly flourishing life.
+## Conclusão
 
-## Conclusion
+Ao passo que os utilitaristas concordam sobre quererem promover o bem-estar, eles podem discordar sobre o que *constitui* o bem-estar: que coisas são bens e males básicos para nós. Segundo as teorias do bem-estar mais proeminentes, ele pode consistir ou na felicidade, ou na satisfação de desejos, ou numa pluralidade de bens objetivos.
 
-While utilitarians agree about wanting to promote well-being, they may disagree about what _constitutes_ well-being: what things are basic goods and bads for us. According to the most prominent theories of well-being, it may consist of either happiness, desire satisfaction, or a plurality of objective goods.
+O hedonismo, ao manter que a felicidade é o único bem de bem-estar básico, alcança a simplicidade às custas de implicações contraintuitivas no experimento mental da máquina de experiência.
 
-Hedonism, in holding happiness to be the only basic welfare good, achieves simplicity at the cost of counterintuitive implications in the experience machine thought experiment.
+As teorias do desejo evitam essas implicações, porém arriscam *outras* implicações contraintuitivas em casos que envolvem desejos bizarros ou cambiantes.
 
-Desire theories avoid these implications, but risk _other_ counterintuitive implications in cases involving bizarre or changing desires.
+Finalmente, as teorias da lista objetiva arriscam alienar os indivíduos dos seus próprios bens de bem-estar, a não ser que algumas concessões sejam feitas relativamente ao que o indivíduo deseja ou ao que o faz feliz. Como resultado, uma explicação híbrida mais complexa pode fazer o melhor trabalho de capturar as nossas miríades de intuições sobre o bem-estar.
 
-Finally, objective list theories risk alienating individuals from their own welfare goods, unless some concessions are made towards what the individual desires or what makes them happy. As a result, a more complex hybrid account may do the best job of capturing our myriad intuitions about well-being.
+As teorias do bem-estar concorrentes predominantemente coincidem na prática, mas isso pode mudar conforme a tecnologia avançar. As suas implicações podem diferir categoricamente em cenários que envolvem tecnologias futuristas como mentes digitais e realidade virtual. Se o futuro que construirmos para os nossos descendentes será utópico ou distópico pode depender, em última instância, de qual teoria do bem-estar está correta — e se podemos identificá-la a tempo.
 
-The competing theories of well-being mostly coincide in practice, but this may change as technology advances. Their implications may differ starkly in scenarios involving futuristic technology such as digital minds and virtual reality. Whether the future we build for our descendants is utopian or dystopian may ultimately depend on which theory of well-being is correct—and whether we can identify it in time.
-
-The next chapter discusses _population ethics_, and how to evaluate outcomes in which different numbers of people may exist.
+O próximo capítulo discute sobre a *ética populacional*, e como avaliar resultados em que diferentes números de pessoas podem existir.
 
 {{< next-page-textbook >}}
 
@@ -183,125 +181,160 @@ The next chapter discusses _population ethics_, and how to evaluate outcomes in 
 
 ---
 
-## Resources and Further Reading
+## Recursos e Leituras Adicionais
 
-### Introduction
+### Introdução
 
-- Roger Crisp (2017). [Well-Being](https://plato.stanford.edu/entries/well-being/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
-- Shelly Kagan (1992). [The Limits of Well-being](https://doi.org/10.1017/S0265052500001461). Social Philosophy & Policy. 9(2): 169–189.
-- Eden Lin (2022). [Well‐being, part 1: The concept of well‐being](https://doi.org/10.1111/phc3.12812). _Philosophy Compass_. 17(2).
-- Eden Lin (2022). [Well‐being, part 2: Theories of well‐being](https://doi.org/10.1111/phc3.12813). _Philosophy Compass_. 17(2).
-- Derek Parfit (1984). Appendix I: What Makes Someone’s Life Go Best, _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Clarendon Press.
+* Roger Crisp (2017). [Well-Being](https://plato.stanford.edu/entries/well-being/). *The Stanford Encyclopedia of Philosophy*. Edward N. Zalta (ed.).
+* Shelly Kagan (1992). [The Limits of Well-being](https://doi.org/10.1017/S0265052500001461). Social Philosophy & Policy. 9(2): 169–189.
+* Eden Lin (2022). [Well‐being, part 1: The concept of well‐being](https://doi.org/10.1111/phc3.12812). *Philosophy Compass*. 17(2).
+* Eden Lin (2022). [Well‐being, part 2: Theories of well‐being](https://doi.org/10.1111/phc3.12813). *Philosophy Compass*. 17(2).
+* Derek Parfit (1984). Appendix I: What Makes Someone's Life Go Best, *[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)*. Oxford: Clarendon Press.
 
-### Welfarism
+### Bem-Estarismo
 
-- Nils Holtug (2003). [Welfarism – The Very Idea](https://www.cambridge.org/core/journals/utilitas/article/welfarism-the-very-idea/A30F2C8C26CF4AA19D9984BBC8FC9DA3). _Utilitas_. 15(2): 151–174.
-- Andrew Moore & Roger Crisp (1996). [Welfarism in moral theory](https://doi.org/10.1080/00048409612347551). _Australasian Journal of Philosophy_. 74(4): 598–613.
+* Nils Holtug (2003). [Welfarism – The Very Idea](https://www.cambridge.org/core/journals/utilitas/article/welfarism-the-very-idea/A30F2C8C26CF4AA19D9984BBC8FC9DA3). *Utilitas*. 15(2): 151–174.
+* Andrew Moore & Roger Crisp (1996). [Welfarism in moral theory](https://doi.org/10.1080/00048409612347551). *Australasian Journal of Philosophy*. 74(4): 598–613.
 
-### Hedonism
+### Hedonismo
 
-- Andrew Moore (2019). [Hedonism](https://plato.stanford.edu/entries/hedonism/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
-- Ole Martin Moen (2016). [An Argument for Hedonism](https://doi.org/10.1007/s10790-015-9506-9). _The Journal of Value Inquiry_. 50: 267–281 (2016).
-- Ivar Labukt (2012). [Hedonic Tone and the Heterogeneity of Pleasure](https://doi.org/10.1017/S0953820812000052). _Utilitas_. 24(2): 172–199.
-- Roger Crisp (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). _Philosophy and Phenomenological Research_. 73(3): 619–645.
-- Fred Feldman (2004). _[Pleasure and the Good Life: Concerning the Nature Varieties and Plausibility of Hedonism](https://doi.org/10.1093/019926516X.001.0001)_. Oxford: Oxford University Press.
+* Andrew Moore (2019). [Hedonism](https://plato.stanford.edu/entries/hedonism/). *The Stanford Encyclopedia of Philosophy*. Edward N. Zalta (ed.).
+* Ole Martin Moen (2016). [An Argument for Hedonism](https://doi.org/10.1007/s10790-015-9506-9). *The Journal of Value Inquiry*. 50:267–281 (2016).
+* Ivar Labukt (2012). [Hedonic Tone and the Heterogeneity of Pleasure](https://doi.org/10.1017/S0953820812000052). *Utilitas*. 24(2): 172–199.
+* Roger Crisp (2006). [Hedonism Reconsidered](https://doi.org/10.2307/40041013). *Philosophy and Phenomenological Research*. *73*(3): 619–645.
+* Fred Feldman (2004). *[Pleasure and the Good Life: Concerning the Nature Varieties and Plausibility of Hedonism](https://doi.org/10.1093/019926516X.001.0001)*. Oxford: Oxford University Press.
 
-### Desire Theories
+### Teorias do Desejo
 
-- Chris Heathwood (2015). _[Desire-fulfillment theory](https://web.archive.org/web/20210228121423/https://spot.colorado.edu/~heathwoo/DFT112714.pdf)_, in Guy Fletcher (ed.) _[The Routledge Handbook of Philosophy of Well-Being](https://doi.org/10.4324/9781315682266)_. London: Routledge.
-- Peter Singer (2011). Chapter 1: About Ethics, in _[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics)_ (3rd edition). Cambridge: Cambridge University Press.
-- Chris Heathwood (2006). [Desire Satisfactionism and Hedonism](https://doi.org/10.1007/s11098-004-7817-y). _Philosophical Studies_. 128: 539–563.
-- Mark Murphy (2002). [The Simple Desire‐Fulfillment Theory](https://doi.org/10.1111/0029-4624.00153). _Noûs_. 33(2): 247–272.
-- Wlodek Rabinowicz & Jan Österberg (1996). [Value Based on Preferences: On Two Interpretations of Preference Utilitarianism](https://doi.org/10.1017/S0266267100003692). _Economics and Philosophy_. 12(1): 1–27.
+* Chris Heathwood (2015). *[Desire-fulfillment theory](https://web.archive.org/web/20210228121423/https://spot.colorado.edu/~heathwoo/DFT112714.pdf)*, em Guy Fletcher (ed.) *[The Routledge Handbook of Philosophy of Well-Being](https://doi.org/10.4324/9781315682266)*. London: Routledge.
+* Peter Singer (2011). Chapter 1: About Ethics, em *[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics)* (3rd edition). Cambridge: Cambridge University Press.
+* Chris Heathwood (2006). [Desire Satisfactionism and Hedonism](https://doi.org/10.1007/s11098-004-7817-y). *Philosophical Studies*. 128:539–563.
+* Mark Murphy (2002). [The Simple Desire‐Fulfillment Theory](https://doi.org/10.1111/0029-4624.00153). *Noûs*. 33(2): 247–272.
+* Wlodek Rabinowicz & Jan Österberg (1996). [Value Based on Preferences: On Two Interpretations of Preference Utilitarianism](https://doi.org/10.1017/S0266267100003692). *Economics and Philosophy*. 12(1): 1–27.
 
-### Objective List Theories
+### Teorias da Lista Objetiva
 
-- Guy Fletcher (2013). [A Fresh Start for an Objective List Theory of Well-Being](https://doi.org/10.1017/S0953820812000453). _Utilitas_. 25(2): 206–220.
-- James Griffin (1986). _[Well-Being: Its Meaning, Measurement and Moral Importance](https://doi.org/10.1093/0198248431.001.0001)_. Oxford: Clarendon Press.
-- Eden Lin (2014). [Pluralism about Well-Being](https://doi.org/10.1111/phpe.12038). _Philosophical Perspectives_. 28(1): 127–154.
+* Guy Fletcher (2013). [A Fresh Start for an Objective List Theory of Well-Being](https://doi.org/10.1017/S0953820812000453). *Utilitas*. 25(2): 206–220.
+* James Griffin (1986). *[Well-Being: Its Meaning, Measurement and Moral Importance](https://doi.org/10.1093/0198248431.001.0001)*. Oxford: Clarendon Press.
+* Eden Lin (2014). [Pluralism about Well-Being](https://doi.org/10.1111/phpe.12038). *Philosophical Perspectives*. 28(1): 127–154.
 
-[^1]: _Théorie des peines et des récompenses_ (1811); translation by Richard Smith, _The Rationale of Reward_, J. & H. L. Hunt, London, 1825, book 3, chapter 1.
-[^2]: For a more detailed overview of theories of well-being, see Crisp, R. (2017). [Well-Being](https://plato.stanford.edu/entries/well-being/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.). [Section 4: Theories of Well-being](https://plato.stanford.edu/entries/well-being/#TheWelBei).
+
+[^1]:
+     Théorie des peines et des récompenses (1811); tradução de Richard Smith, *The Rationale of Reward*, J. & H. L. Hunt, London, 1825, book 3, chapter 1.
+
+[^2]:
+     Para uma revisão mais detalhada das teorias do bem-estar, veja Crisp, R. (2017). [Well-Being](https://plato.stanford.edu/entries/well-being/). *The Stanford Encyclopedia of Philosophy*. Edward N. Zalta (ed.). [Section 4: Theories of Well-being](https://plato.stanford.edu/entries/well-being/#TheWelBei).
+
 [^3]:
-    This tripartite classification is widespread in the literature—following Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_, Appendix I: ‘What Makes Someone’s Life Go Best’. It has, however, been criticized:
-    cf. Woodard, C. (2013). [Classifying theories of welfare](https://doi.org/10.1007/s11098-012-9978-4). _Philosophical Studies,_ 165: 787–803.
+     Essa classificação tripartite é generalizada na literatura — seguindo Parfit, D. (1984). *[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)*, Appendix I: 'What Makes Someone's Life Go Best'. Ela, no entanto, já foi criticada:
+    cf. Woodard, C. (2013). [Classifying theories of welfare](https://doi.org/10.1007/s11098-012-9978-4). *Philosophical Studies,* 165:787–803.
 
-[^4]: For a more detailed account of and discussion of hedonism, see Moore, A. (2019). [Hedonism](https://plato.stanford.edu/entries/hedonism/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
-[^5]: Hedonism about well-being should not be confused with _psychological hedonism_, the dubious empirical claim that humans always pursue what will give themselves the greatest happiness.
-[^6]: This view is known as _[ethical egoism](https://plato.stanford.edu/entries/egoism/)_.
-[^7]: Cf. Sinhababu, N. (ms). [The Epistemic Argument for Hedonism](https://philpapers.org/rec/SINTEA-3), and his guest essay, [Naturalistic Arguments for Ethical Hedonism](/guest-essays/naturalistic-arguments-for-ethical-hedonism/).
+[^4]:
+     Para uma descrição e uma discussão mais detalhadas do hedonismo, veja Moore, A. (2019). [Hedonism](https://plato.stanford.edu/entries/hedonism/). *The Stanford Encyclopedia of Philosophy*. Edward N. Zalta (ed.).
+
+[^5]:
+     O hedonismo quanto ao bem-estar não deve ser confundido com o *hedonismo psicológico*, a alegação empírica dúbia de que os humanos sempre buscam o que dará a eles mesmos a maior felicidade.
+
+[^6]:
+     Essa visão é conhecida como *[egoísmo ético](https://plato.stanford.edu/entries/egoism/)*.
+
+[^7]:
+     Cf. Sinhababu, N. (ms). [The Epistemic Argument for Hedonism](https://philpapers.org/rec/SINTEA-3).
+
 [^8]:
-    To control for this, imagine a society of utilitarian sadists who are strictly morally constrained in their sadism: they would never allow harm to another unless it caused greater net benefits to others (including themselves). We might even imagine that they are willing to suffer the torture themselves if enough others would benefit from this. (Perhaps they draw lots to decide on a victim, in a sadistic analogue of John Harris’ _Survival Lottery_.) When the sadists are stipulated to be morally conscientious in this way, it may be easier to accept that their sadistic pleasure counts as a good in itself.
+     Para levar isso em conta, imagine uma sociedade de sádicos utilitaristas que estejam estritamente limitados pela moral no seu sadismo: eles jamais permitiriam danos aos outros a não ser que causassem maiores benefícios líquidos aos outros (incluindo a si mesmos). Poderíamos até imaginar que eles proprios estejam dispostos a sofrer a tortura caso um número suficiente de outras pessoas se beneficiem disso. (Talvez eles façam sorteios para decidir quem será a vítima, em algo análogo, só que sádico, à *Loteria da Sobrevivência* de John Harris.) Quando se estipula que os sádicos são moralmente conscienciosos assim, pode ser mais fácil de aceitar que o seu prazer sádico conte como um bem em si mesmo.
+    J. Harris (1975). The Survival Lottery. *Philosophy* 50: 81–87.
 
-    Harris, J. (1975). [The Survival Lottery](https://doi.org/10.1017/S0031819100059118). _Philosophy_ 50: 81–87.
+[^9]:
+     A não ser que valorizemos a simplicidade do utilitarismo hedonista mais do que a acomodação de tais intuições.
 
-[^9]: Unless we value the simplicity of hedonistic utilitarianism more highly than the accommodation of such intuitions.
-[^10]: This description was adapted from Nozick, R. (1974). _[Anarchy, State, and Utopia](https://archive.org/details/anarchystateutop00nozi/page/42)_. New York: Basic Books, p. 42.
-[^11]: Of course, one might agree with Nozick’s general point while regarding life in the experience machine as superior to at least _some_ (e.g. miserable) “real” lives, such that “plugging in” could be advisable in some circumstances.
-[^12]: Nozick, R. (1974). _[Anarchy, State, and Utopia](https://archive.org/details/anarchystateutop00nozi/page/42)_. New York: Basic Books, p. 43.
+[^10]:
+     Essa descrição foi adaptada de Nozick, R. (1974). *[Anarchy, State, and Utopia](https://archive.org/details/anarchystateutop00nozi/page/42)*. New York: Basic Books., p. 42.
+
+[^11]:
+     Claro que poderíamos concordar com a ideia geral de Nozick enquanto consideramos a vida na máquina de experiência como superior a pelo menos *algumas* vidas "reais" (p. ex., infelizes), de modo que "conectar-se" poderia ser aconselhável em algumas circunstâncias.
+
+[^12]:
+     Nozick, R. (1974). *[Anarchy, State, and Utopia](https://archive.org/details/anarchystateutop00nozi/page/42)*. New York: Basic Books., p. 43.
+
 [^13]:
-    Nozick further claimed that we want to live “in contact with reality”, but it's not clear that there would be any loss of well-being in living and interacting with others in a shared virtual world like that depicted in _[The Matrix](https://en.wikipedia.org/wiki/The_Matrix)_. A shared virtual world could, in contrast to the experience machine, fulfill many of our non-hedonic values and desires, such as having friends and loving relationships.
+     Nozick afirmou além disso que queremos viver "em contato com a realidade", mas não é claro que haja alguma perda de bem-estar em viver e interagir com os outros num mundo virtual compartilhado como aquele retratado em *[Matrix](https://en.wikipedia.org/wiki/The_Matrix)*. Um mundo virtual compartilhado poderia, em contraste com a máquina de experiência, realizar muitos dos nossos valores não hedônicos, como termos amigos e relações amorosas. Nozick, R. (1974). *[Anarchy, State, and Utopia](https://archive.org/details/anarchystateutop00nozi/page/42)*. New York: Basic Books., p. 45.
 
-    Nozick, R. (1974). _[Anarchy, State, and Utopia](https://archive.org/details/anarchystateutop00nozi/page/42)_. New York: Basic Books, p. 45.
+[^14]:
+     Weijers, D. (2014). [Nozick's experience machine is dead, long live the experience machine!](https://doi.org/10.1080/09515089.2012.757889) Philosophical Psychology. 27(4): 513–535. É surpreendente que muitos respondentes tenham reportado que seriam a favor de conectar à máquina de experiência ao escolherem para uma outra pessoa, mesmo quando não escolheriam para si próprios.
 
-[^14]: Weijers, D. (2014). [Nozick’s experience machine is dead, long live the experience machine!](https://doi.org/10.1080/09515089.2012.757889) Philosophical Psychology. 27(4): 513–535. Puzzlingly, many respondents reported that they would favor plugging in to the experience machine when choosing for another person, even when they would not choose this for themselves.
 [^15]:
-    Among others, this suggestion has been made by:
-
-    Kolber, A. (1994). [Mental Statism and the Experience Machine](https://ssrn.com/abstract=1322059). _Bard Journal of Social Sciences_. 3: 10–17.
-
-    Greene, J. D. (2001). A Psychological Perspective on Nozick’s Experience Machine and Parfit’s Repugnant Conclusion. _Presentation at the Society for Philosophy and Psychology Annual Meeting_. Cincinnati, OH.
-
-    de Brigard, F. (2010). [If you like it, does it matter if it's real?](https://doi.org/10.1080/09515080903532290). _Philosophical Psychology_. 23(1): 43–57.
+     Entre outros, essa sugestão foi feita por (1) Kolber, A. (1994). [Mental Statism and the Experience Machine](https://ssrn.com/abstract=1322059). *Bard Journal of Social Sciences*. 3: 10–17; (2) Greene, J. D. (2001). A Psychological Perspective on Nozick's Experience Machine and Parfit's Repugnant Conclusion. *Presentation at the Society for Philosophy and Psychology Annual Meeting*. Cincinnati, OH; e (3) de Brigard, F. (2010). [If you like it, does it matter if it's real?](https://doi.org/10.1080/09515080903532290). *Philosophical Psychology*. 23(1): 43–57.
 
 [^16]:
-    Adapted from Crisp, R. (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). _Philosophy and Phenomenological Research._ 73(3): 635–6.
+     Adaptado de Crisp, R. (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). *Philosophy and Phenomenological Research.* 73(3): 635–6.
 
-    The advantages of third-personal judgments about the relative values of lives inside and outside of the experience machine, to better avoid objections, is also stressed by Lin, Eden (2016). [How to Use the Experience Machine](https://doi.org/10.1017/S0953820815000424). _Utilitas_ 28 (3):314-332.
+[^17]:
+     Crisp, R. (2017). Well-Being. *The Stanford Encyclopedia of Philosophy*. Edward N. Zalta (ed.). [Section 4.1 Hedonism](https://plato.stanford.edu/entries/well-being/#TheWelBei). Veja também Crisp, R. (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). *Philosophy and Phenomenological Research.* 73(3): 637.
 
-[^17]: Crisp, R. (2017). Well-Being. _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.). [Section 4.1 Hedonism](https://plato.stanford.edu/entries/well-being/#TheWelBei). See also Crisp, R. (2006). [Hedonism Reconsidered](https://doi.org/10.1111/j.1933-1592.2006.tb00551.x). _Philosophy and Phenomenological Research._ 73(3): 637.
-[^18]: They probably also desire their own happiness, of course, which is better served in scenario (ii). But the fact that they nonetheless prefer the prospect of (i) over (ii) suggests that (i) is the outcome that better fulfills their desires _overall_.
-[^19]: By contrast, the “evil pleasures” objection to hedonism would seem to apply with equal force against desire theories, as these theories also imply that sadistic pleasure can benefit you (if you desire it).
-[^20]: This is Parfit’s suggestion in Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press. For an alternative restriction based on _genuine attraction_, see Heathwood, C. (2019). [Which Desires are Relevant to Well-Being?](https://doi.org/10.1111/nous.12232). _Noûs_. 53(3): 664–688.
-[^21]: As argued by [John Stuart Mill](/utilitarian-thinker/john-stuart-mill) in his 1859 book _[On Liberty](/books/on-liberty-john-stuart-mill/1)_.
+[^18]:
+     Ele provavelmente também deseja a sua própria felicidade, claro, que é melhor servida no cenário (ii). Mas o fato de que ele, não obstante, prefere o prospecto de (i) a (ii) sugere que (i) seja o resultado que melhor realiza os seus desejos *como um todo*.
+
+[^19]:
+     Em contraste, a objeção dos "Maus Prazeres" ao hedonismo parece que se aplicaria com a mesma força contra as teorias do desejo, já que essas teorias também implicam que o prazer sádico pode beneficiar você (se você o desejar).
+
+[^20]:
+     Essa é a sugestão de Parfit em Parfit, D. (1984). *[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)*. Oxford: Oxford University Press. Para uma restrição alternativa baseada em *atração genuína*, veja Heathwood, C. (2019). [Which Desires are Relevant to Well-Being?](https://doi.org/10.1111/nous.12232). *Noûs*.53(3): 664–688.
+
+[^21]:
+     Conforme argumentado por [John Stuart Mill](https://www.utilitarismo.net/utilitarian-thinker/john-stuart-mill) em seu livro de 1859 *[On Liberty](https://www.utilitarianism.net/books/on-liberty-john-stuart-mill/1)*.
+
 [^22]:
-    Rawls, J. (1971). _A Theory of Justice_. Harvard University Press, p. 432.
-
-    Some desire theorists might restrict their view to 'hot' desires, that present their objects as being in some way appealing to the subject, in contrast to mere compulsive motivations. But the counterexample can be adapted to cover the 'hot' desire view as follows: Further suppose that the agent suffers from severe memory loss, so they don’t even appreciate when this desire is satisfied. Still, it is what they want to happen, so much so that they would prefer to count grass (without realizing it) than to pause to take medicine that would restore their cognitive functioning and ability to enjoy themselves (without generating stronger new desires). Again, this preference seems pathological, and worth overriding for the subject's sake.
+     Rawls, J. (1971). *A Theory of Justice*. Harvard University Press, p. 432.
+    Alguns teóricos do desejo poderiam restringir a sua visão a desejos "quentes'', que apresentam seus objetos como sendo atraentes ao sujeito, em contraste com motivações meramente compulsivas. Mas o contraexemplo pode ser adaptado para cobrir a visão dos desejos "quentes" da seguinte forma: suponha adicionalmente que o agente sofra de perda de memória severa, de modo que ele nem sequer compreenda quando esse desejo é satisfeito. Ainda assim, é o que ele quer que aconteça, tanto que ele iria preferir contar grama (sem se dar conta disso) a fazer uma pausa e tomar um remédio que restauraria o seu funcionamento cognitivo e a sua capacidade de se divertir (sem gerar desejos novos mais fortes). Novamente, essa preferência parece patológica e digna de ser ignorada em prol do sujeito.
 
 [^23]:
-    Chris Heathwood additionally stresses the importance of looking at the agent’s overall (whole-life) desire satisfaction. Sometimes it will be worth thwarting one desire in order to better promote others. But we can build into the case that the person’s actual desires are maximally satisfied by leaving them to forgetfully count the grass.
+     Chris Heathwood enfatiza adicionalmente a importância de olharmos para a satisfação de desejos total (da vida inteira) do agente. Às vezes, valerá a pena frustrar um desejo a fim de melhor promover outros. Mas podemos incorporar ao caso a condição de que os desejos reais da pessoa são satisfeitos maximamente deixando-a contar grama desmemoriadamente.
+    Heathwood, C. (2005). [The problem of defective desires](https://dx.doi.org/10.1080/00048400500338690). *Australasian Journal of Philosophy.* 83 (4): 487–504.
 
-    Heathwood, C. (2005). [The problem of defective desires](https://dx.doi.org/10.1080/00048400500338690). _Australasian Journal of Philosophy._ 83 (4): 487–504.
+[^24]:
+     Adaptado de Parfit, D. (1984). *[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)*. Oxford: Oxford University Press, p. 497. Parfit estipula que o agente tem a garantia de um suprimento vitalício da droga e que a droga em questão não coloca nenhum risco à saúde ou efeito colateral desfavorável além da adicção extrema.
 
-[^24]: Adapted from Parfit, D. (1984). _[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons)_. Oxford: Oxford University Press, p. 497. Parfit stipulates that the agent is guaranteed a lifetime supply of the drug, and that the drug in question poses no health risk or untoward side-effects besides the extreme addiction.
-[^25]: Weighted by how strong each desire is. For example, you may be well off overall if you have one very strong desire satisfied, and two very weak ones frustrated.
-[^26]: That is, the best future in terms of _this one individual’s well-being_. They might still have moral reasons to choose a different future, as being a teacher or firefighter would surely help others more. But even the limited claim that drug addiction is what is best _for this individual_ will seem counterintuitive to many.
-[^27]: One’s past desires to avoid this outcome would weigh against it to some degree, unless one builds in a “concurrence requirement” that only desires existing _at the same time_ as their satisfaction count. Concurrence views thus have even more difficulty avoiding the implication that such induced desire satisfactions can easily override your present preferences.
-[^28]: This theory is temporally relative because once the relevant choice is made, the once-contingent future choice may no longer be contingent on any remaining decisions, in which case it will no longer be discounted. If you actually become a satisfied drug addict, for example, the necessitarian may _now_ say that this outcome was for the best, even though _before_ the choice was made, they would have advised against it (on the basis of your prior desires). This generates an awkward temporal inconsistency, as our theorist seems committed to claims like, “It would now be bad for you to become a drug addict, but if you go ahead and do it, it will instead be good for you.”
-[^29]: It merely “may” because much depends on the details. It's entirely possible that becoming a well-satisfied teacher would also better serve _other_ desires that one has (in both outcomes). In which case, even the necessitarian could conclude that this change would be in one’s overall best interests, despite giving no intrinsic weight to the contingent desire to be a teacher (and giving full weight to the past, and hence non-contingent, desire to be a firefighter). But there will be at least some cases in which impeding the change counterintuitively wins out because of the discounting.
+[^25]:
+     Com um peso proporcional a quão forte cada desejo é. Por exemplo, você pode estar bem em geral se tem um desejo muito forte satisfeito e dois desejos muito fracos frustrados.
+
+[^26]:
+     Isto é, o melhor futuro em termos do *bem-estar desse único indivíduo*. Ele pode ainda ter razões morais para escolher um futuro diferente, visto que ser professor ou bombeiro certamente ajudaria mais os outros. Mas até a afirmação limitada de que a adicção a drogas é o melhor *para esse indivíduo* parecerá contraintuitiva a muitos.
+
+[^27]:
+     Os desejos passados do indivíduo de evitar esse resultado pesariam contra em alguma medida, a não ser que se incorporasse um "requerimento de concomitância" de que somente contam desejos existentes *ao mesmo tempo* que a sua satisfação. Assim, as visões da concomitância têm ainda mais dificuldade em evitar a implicação de que tais satisfações de desejos induzidos podem anular as suas preferências presentes.
+
+[^28]:
+     Essa teoria é relativa ao tempo porque, uma vez que a escolha relevante foi tomada, a escolha futura antes contingente pode não ser mais contingente relativamente a nenhuma decisão remanescente; e nesse caso ela não será mais desconsiderada. Se você realmente se tornar um viciado em drogas satisfeito, por exemplo, o necessitarista pode dizer *agora* que esse resultado acabou sendo bom, apesar de que, *antes* de a escolha ter sido feita, ele teria aconselhado contra ela (com base nos seus desejos anteriores). Isso gera uma inconsistência temporal constrangedora, visto que o nosso teórico parece comprometido com afirmações como "Seria agora ruim para você tornar-se um viciado em drogas, mas se você for em frente e se tornar um viciado, será, ao invés disso, bom para você".
+
+[^29]:
+     Meramente "pode" porque muito depende dos detalhes. É inteiramente possível que tornar-se um professor bem satisfeito também serviria melhor *outros* desejos que você tem (em ambos os resultados); e nesse caso até o necessitarista poderia chegar à conclusão de que essa mudança lhe seria vantajosa em geral, apesar de não atribuir nenhum peso ao desejo contingente de ser professor (e atribuir todo o peso ao desejo passado, e assim não contingente, de ser bombeiro). Mas haverá pelo menos alguns casos em que impedir a mudança, contraintuitivamente, acaba vencendo por causa da desconsideração.
+
 [^30]:
-    Objective list theorists include:
-    Finnis, J. (1980). _Natural Law and Natural Rights_. Oxford: Clarendon Press.
-    Griffin, J. (1986). _Well-Being: Its Meaning, Measurement and Moral Importance_. Oxford: Clarendon Press.
-    Fletcher, G. (2013). [A Fresh Start for an Objective List Theory of Well-Being](https://doi.org/10.1017/S0953820812000453). _Utilitas_. 25(2): 206–220.
-    Lin, E. (2014). [Pluralism about Well-Being](https://doi.org/10.1111/phpe.12038). _Philosophical Perspectives_. 28(1): 127–154.
+     Teorias da lista objetiva exemplares incluem (1) Finnis, J. (1980). *Natural Law and Natural Rights*. Oxford: Clarendon Press; (2) Griffin, J. (1986). *Well-Being: Its Meaning, Measurement and Moral Importance*. Oxford: Clarendon Press; (3) Fletcher, G. (2013). [A Fresh Start for an Objective List Theory of Well-Being](https://doi.org/10.1017/S0953820812000453). *Utilitas*. 25(2): 206–220; e (4) Lin, E. (2014). [Pluralism about Well-Being](https://doi.org/10.1111/phpe.12038). *Philosophical Perspectives*. 28(1): 127–154.
+    Para uma revisão e discussão sobre o pluralismo valorativo, incluindo as teorias da lista objetiva, veja Mason, E. (2018). [Value Pluralism](https://plato.stanford.edu/entries/value-pluralism/). *The Stanford Encyclopedia of Philosophy*. Edward N. Zalta (ed.).
 
-    For an overview and discussion of value pluralism, including objective list theories, see:
-    Mason, E. (2018). [Value Pluralism](https://plato.stanford.edu/entries/value-pluralism/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
-    Lin, E. (2016). [Monism and Pluralism](https://philpapers.org/rec/LINMAP-4). In Guy Fletcher (ed.), _The Routledge Handbook of Philosophy of Well-Being_. Routledge, pp. 331–41.
+[^31]:
+     Apesar de que não parece que haveria valor algum em memorizar a lista telefônica ou outros dados triviais, de modo que é melhor restringir isso ao conhecimento *significativo*, ou ao conhecimento de verdades *importantes*.
 
-[^31]: Though there would not seem any value in memorizing the phonebook or other trivial data, so this is best restricted to _significant_ knowledge, or knowledge of _important_ truths.
-[^32]: Recall our contrast of person A (with the excellent life) and person B who experiences a passive “replay” of A’s life, with an extra jolt of pleasure at the end. Although B’s life contains more pleasure, A’s life will contain more overall value if we also count loving relationships, achievement, etc., as basic welfare goods. While B’s life contains all the same experiences _as of_ loving relationships, achievement, etc., as A’s did, it is a passive “replay”, involving no actual choices or interactions. Therefore, B’s life includes none of A’s actual achievements or relationships.
-[^33]: For a state of the art exploration of the relations between theories of well-being and metaethical views, see Fletcher, G. (2021). _[Dear Prudence: The Nature and Normativity of Prudential Discourse](https://doi.org/10.1093/oso/9780198858263.001.0001)_. Oxford University Press. Chapter 7: Prudential Normativity.
-[^33a]: Note that to be _worth pursuing for an individual’s sake_ does not entail being worth pursuing _all things considered_. It's more of a conditional reason: _insofar_ as you have reason to care about S's well-being, you have reason to care about what is desirable, or worth pursuing, for S's sake. Utilitarians think we always have reason to care about everyone's well-being. But others may disagree. So it remains an open conceptual possibility that you should not care about someone's well-being. If you think that S deserves to be punished, for example, you may see what is _undesirable for S's sake_ as being _all things considered_ desirable, precisely _because_ it is bad for S.
-[^34]: [Expressivists](https://www.rep.routledge.com/articles/thematic/expressivism/v-1) may give an anti-realist gloss on what “really mattering” amounts to. But then they can just as comfortably extend this gloss to the kind of first-order “objectivity” posited by objective list theories.
-[^35]: Cf. Bedke, M. (2010). [Might All Normativity be Queer?](https://dx.doi.org/10.1080/00048400802636445). _Australasian Journal of Philosophy_. 88(1): 41–58.
-[^36]: It would indeed be less “mysterious” to deny the reality of value, and claim that subjective valuing is _all there is_ in the vicinity. But this would be a form of nihilism: that _S_ values _p_ is a purely descriptive fact about _S_’s psychology. There is nothing inherently value-laden about this, unless we further claim that subjective valuation is something that actually _matters_ in some way. And then we are back to attributing real value, in all its mysterious glory.
-[^36a]: One advantage of only having one good on the list is that you avoid potential arbitrariness in _exchange rates_ (between the different types of goods). But that's different from claiming that there's arbitrariness in which things get to count as good _at all_.
+[^32]:
+     Recorde-se do nosso contraste entre pessoa A (com a vida excelente) e pessoa B, que vivencia um "replay" passivo da vida de A, com um choque extra de prazer no final. Embora a vida de B contenha mais prazer, a vida de A conterá mais valor no total se também contarmos relacionamentos amorosos, realizações, etc., como bens de bem-estar básicos. Ao passo que a vida de B contém todas as mesmas experiências *como de* relacionamentos amorosos, realizações, etc., que conteve a de A, ela é um "replay" passivo, que não envolve nenhuma escolha ou interação real. Portanto, a vida de B não inclui nenhuma das realizações ou relações reais de A.
+
+[^33]:
+     Para uma exploração de estado da arte das relações entre teorias do bem-estar e visões metaéticas, veja Fletcher, G. (2021). *[Dear Prudence: The Nature and Normativity of Prudential Discourse](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198858263.001.0001/oso-9780198858263).* Oxford University Press. Chapter 7: Prudential Normativity.
+
+[^34]:
+     Os [expressivistas](https://www.rep.routledge.com/articles/thematic/expressivism/v-1) podem dar uma explicação antirrealista sobre o que seria "realmente importar". Mas então eles podem de um modo igualmente confortável estender essa explicação ao tipo de "objetividade" de primeira ordem postulado pelas teorias da lista objetiva.
+
+[^35]:
+     Cf. Bedke, M. (2010). [Might All Normativity be Queer?](https://dx.doi.org/10.1080/00048400802636445). *Australasian Journal of Philosophy*. 88(1): 41–58.
+
+[^36]:
+     Seria de fato menos "misterioso" negar a realidade do valor e afirmar que a valoração subjetiva é *tudo o que há*. Mas isso seria uma forma de niilismo: que *S* valoriza *p* é um fato puramente descritivo sobre a psicologia de *S*. Não há nada de inerentemente carregado de valor a respeito disso, a não ser que afirmemos adicionalmente que a valoração subjetiva é algo que realmente *importa* de alguma maneira. E daí estamos de volta à atribuição de valores reais, com toda a sua misteriosa glória.
+
 [^37]:
-    As Peter Railton writes: “what is intrinsically valuable for a person must have a connection with what he would find in some degree compelling or attractive, at least if he were rational and aware. It would be an intolerably alienated conception of someone’s good to imagine that it might fail in any such way to engage him.”
+     Como escreve Peter Railton: "o que é intrinsecamente valioso para uma pessoa deve ter uma conexão com o que ela acharia envolvente ou atraente em alguma medida, pelo menos se ela fosse racional e estivesse informada. Seria uma concepção intoleravelmente alienada do bem de uma pessoa imaginar que ele pudesse não a envolver de qualquer maneira semelhante." (p.47)
+    Railton, P. (2003). "Facts and Values", em *[Facts, Values and Norms](https://www.cambridge.org/core/books/facts-values-and-norms/5B8C2C2969882F8ECCAF5AEE765D3868)*. Cambridge University Press.
 
-    Railton, P. (2003). “Facts and Values”, in _[Facts, Values and Norms](https://www.cambridge.org/core/books/facts-values-and-norms/5B8C2C2969882F8ECCAF5AEE765D3868)_. Cambridge University Press, p. 47.
-
-[^38]: Perhaps the best-known such hybrid view is found in Kagan, Shelly (2009). [Well-Being as Enjoying the Good](https://doi.org/10.1111/j.1520-8583.2009.00170.x). _Philosophical Perspectives_ 23 (1):253-272.
+[^38]:
+     Talvez tal visão híbrida mais bem conhecida se encontre em Kagan, Shelly (2009). [Well-Being as Enjoying the Good](https://doi.org/10.1111/j.1520-8583.2009.00170.x). *Philosophical Perspectives* 23 (1):253-272.
