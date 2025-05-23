@@ -6,6 +6,7 @@ build: build-en
 build-en: reset search1 move-en search2 pdf-en production move-en2 zip serve
 build-de: reset search1 move-de search2 pdf-de production move-de2 zip serve
 build-es: reset search1 move-es search2 pdf-es production move-es2 zip serve
+build-pt: reset search1 move-pt search2 pdf-pt production move-pt2 zip serve
 # note the differences:      ^^             ^^                 ^^
 
 nopdf:    reset search1 move-en search2        production move-en2 zip serve
@@ -40,6 +41,9 @@ minimal:  reset search1 move-en search2        production move-en2     serve
 @move-es2:
   just move-es
 
+@move-pt2:
+  just move-pt
+
 @move-en:
   cp -R public/en/* public
   just delete
@@ -52,10 +56,15 @@ minimal:  reset search1 move-en search2        production move-en2     serve
   cp -R public/es/* public
   just delete
 
+@move-pt:
+  cp -R public/pt/* public
+  just delete
+
 @delete:
   rm -rf public/en
   rm -rf public/es
   rm -rf public/de
+  rm -rf public/pt
   echo ""
   echo "   🚀  removed extra folders from /public"
   echo ""
@@ -71,6 +80,10 @@ minimal:  reset search1 move-en search2        production move-en2     serve
 @pdf-es:
   cp pdf/w2pdf_template/footer.es.html pdf/w2pdf_template/footer.html
   just pdf pdf-es
+
+@pdf-pt:
+  cp pdf/w2pdf_template/footer.es.html pdf/w2pdf_template/footer.html
+  just pdf pdf-pt
 
 @pdf script:
   node build.js pdf
