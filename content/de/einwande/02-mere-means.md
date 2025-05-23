@@ -92,7 +92,7 @@ Aber es gibt vielleicht noch andere, eng verwandte Einwände, die Menschen manch
      Vgl. Parfit, D. (2011). _On What Matters: Vol 1_. Oxford University Press. Kapitel 9: Merely as a Means.
 
 [^5]:
-     Kamm, F. (1998). [Are There Irrelevant Utlities?](https://doi.org/10.1093/0195119118.003.0009) in _Morality, Mortality Volume I: Death and Whom to Save From It._ Oxford University Press, p. 147.
+     Kamm, F. (1998). [Are There Irrelevant Utilities?](https://doi.org/10.1093/0195119118.003.0009) in _Morality, Mortality Volume I: Death and Whom to Save From It._ Oxford University Press, p. 147.
 
 [^6]:
      Streng genommen werden ihre Interessen gleich gewichtet, aber wenn sie eine geringere Restlebenserwartung hat als die Kinder (und somit weniger künftiges Wohlergehen auf dem Spiel steht), dann kann der innere Wert ihres künftigen Lebens _geringer_ sein als der derjenigen, die noch länger leben.
