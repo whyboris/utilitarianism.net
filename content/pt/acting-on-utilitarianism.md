@@ -1,5 +1,6 @@
 ---
-title: "Acting on Utilitarianism"
+title: "Agindo de Acordo com o Utilitarismo"
+slug: "agindo-de-acordo-com-o-utilitarismo"
 authors: "MacAskill, W. and Meissner, D."
 date: 2023-01-29
 draft: false
@@ -8,276 +9,330 @@ description: "Acting on Utilitarianism. What does utilitarianism actually mean i
 weight: 5
 ---
 
-> _“Create all the happiness you are able to create; remove all the misery you are able to remove. Every day will allow you, will invite you to add something to the pleasure of others, or to diminish something of their pains.”_
+> _“Crie toda a felicidade que for capaz de criar; remova toda a infelicidade que for capaz de remover. Todo dia lhe permitirá, lhe convidará a acrescentar algo ao prazer dos outros, ou a diminuir algo das suas dores.”_
 >
 > – [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^1]
 { .align-author-right }
 
 {{< TOC >}}
 
-## Introduction
+## Introdução
 
-So far we've looked at utilitarianism from a theoretical viewpoint. But what does utilitarianism actually mean in practice? What concrete actions does it say we should take? This article explains what it means to live an ethical life from the perspective of utilitarianism.
+Até agora olhamos para o utilitarismo de um ponto de vista teórico. Mas o que o utilitarismo realmente significa na prática? Que atitudes concretas ele diz que devemos tomar? Este artigo explica o que significa viver uma vida ética da perspectiva do utilitarismo.
 
-There are many problems in the world today, some of which are extremely large in scale. According to utilitarianism, each person ought to work on these problems and to try to improve the world by as much as possible, giving equal weight to the well-being of everyone. Unfortunately, our resources are scarce, so as individuals and even as a global society we cannot solve all the world’s problems at once. This means we must make decisions about how to prioritize the resources we have. Since not all ways of helping others are equally effective, utilitarianism implies that we should carefully choose which problems to work on and by what means.
+Há muitos problemas no mundo hoje, alguns dos quais são extremamente grandes em termos de escala. Segundo o utilitarismo, cada pessoa tem uma obrigação de trabalhar nesses problemas e tentar melhorar o mundo tanto quanto possível, atribuindo peso igual ao bem-estar de todos. Infelizmente, os nossos recursos são escassos, de modo que, enquanto indivíduos e até enquanto uma sociedade global, não podemos resolver todos os problemas do mundo de uma só vez. Isso quer dizer que temos que tomar decisões sobre como priorizar os recursos que temos. Visto que os modos de ajudar os outros não são todos igualmente eficazes, o utilitarismo implica que deveríamos escolher com cautela em quais problemas trabalhar e por quais meios.
 
-To do the most good they can, in practice, many utilitarians donate a significant portion of their income to address the world’s most pressing problems, devote their careers to doing good, and aspire to high degrees of cooperativeness, personal integrity, and honesty.
+Para fazerem o maior bem que podem, na prática muitos utilitaristas doam uma porção significativa da sua renda para tratar dos problemas mais prementes do mundo, dedicam as suas carreiras a fazer o bem e aspiram a altos graus de cooperatividade, integridade pessoal e honestidade.
 
-Throughout this article, we use expressions like “doing good” and “having an impact” as shorthand for increasing the well-being of others, in particular by promoting their happiness and preventing their suffering.
+Ao longo deste artigo, usamos expressões como "fazer o bem" e "ter um impacto" como abreviações de aumentar o bem-estar dos outros, em particular por meio da promoção da sua felicidade e da prevenção do seu sofrimento.
 
-## Opportunities to Help Others
+## Oportunidades para Ajudar os Outros
 
-Wealth and income are distributed extremely unequally across the globe. Middle-class members of rich countries like the US and UK earn fifty times as much as the poorest 750 million people in the world; this puts them in the richest 5% of the world’s population.[^2] This disparity in wealth means that well-off citizens of affluent nations are presented with outstanding opportunities to benefit others.
+A riqueza e a renda se distribuem de modo extremamente desigual pelo globo. Membros da classe média de países ricos como os EUA e o Reino Unido ganham 50 vezes o que ganham os 750 milhões de pessoas mais pobres do mundo; isso os coloca nos 5% mais ricos da população mundial.[^2] Essa disparidade de riqueza significa que um cidadão bem de vida de nações abastadas se depara com oportunidades excepcionais para beneficiar os outros.
 
-![World income distribution](/img/World-Income-Distribution.svg "World income distribution")
+[Image]
 
-> _Earning above $30,000 per year puts you in the richest 5% of the world population._ Cf. _Giving What We Can_ (2024). [How Rich Am I?](https://www.givingwhatwecan.org/how-rich-am-i?income=30330&countryCode=USA&numAdults=1&numChildren=0).
+> _Ganhar acima de US$ 30.000 por ano coloca você nos 5% mais ricos da população mundial._ Cf. _Giving What We Can_ (2024). [How Rich Am I?](https://www.givingwhatwecan.org/how-rich-am-i?income=30330&countryCode=USA&numAdults=1&numChildren=0)
 
-Wealth and income exhibit what economists call _diminishing marginal utility_.[^3] The idea is simple: How much an individual’s well-being is increased by receiving a higher income depends on their current income. While richer people report being more satisfied with their lives overall, the richer you become, the less well-being you get from additional money. An additional dollar benefits a poor farmer in Kenya much more than it benefits a middle-class member of a rich country.
+A riqueza e a renda exibem o que os economistas chamam de _utilidade marginal decrescente_.[^3] A ideia é simples: quanto que o bem-estar de um indivíduo é aumentado por receber uma renda mais alta depende da sua renda atual. Ao passo que pessoas mais ricas reportam estar mais satisfeitas com as suas vidas como um todo, quanto mais rico você fica, menos bem-estar você consegue do dinheiro adicional. Um agricultor pobre do Quênia se beneficiará muito mais de receber um dólar adicional do que um membro da classe média de um país rico
 
-The diminishing marginal utility of money implies that we can generally increase overall well-being by redistributing from the rich to the poor. The well-being affluent citizens forego by donating $100 is small compared to the benefit to someone living in extreme poverty. Instead of buying new sneakers, your donation could give someone the equivalent of a year or more of healthy life.[^4]
+A utilidade marginal decrescente do dinheiro implica que podemos frequentemente aumentar o bem-estar geral ao redistribuirmos dos ricos para os pobres. O bem-estar ao qual renunciamos, enquanto cidadãos de países abastados, ao doarmos US$ 100 é pequeno em comparação com o benefício que esse dinheiro daria a alguém que vive na pobreza extrema. Em vez de comprar tênis novos, doar poderia dar a alguém o equivalente a um ano ou mais de vida saudável.[^4]
 
-Given the diminishing marginal utility of money, the scourge of extreme global inequality implies that we can do an astonishing amount of good by donating to the global poor or other disadvantaged groups. For just a few dollars—the price of a coffee—we could pay for an insecticide-treated bednet that would protect two children in a developing country from malaria for two years.[^5] And this money may go even further when spent on effective programs within other cause areas.
+Dada a utilidade marginal decrescente do dinheiro, o flagelo da desigualdade global extrema implica que podemos fazer uma quantidade espantosa de bem ao doarmos para os pobres globais ou para outros grupos desfavorecidos. Por apenas uns poucos dólares — o preço de um café — poderíamos pagar por uma rede tratada com inseticida que protegeria da malária duas crianças num país em desenvolvimento por dois anos.[^5] E esse dinheiro pode ir ainda mais além quando gasto em programas eficazes dentro de outras áreas de causa.
 
-Utilitarianism implies that we should make helping others a central part of our lives. Further, utilitarianism urges us to use our resources not just to do some good but to do the most good we can. If we fail to produce the best outcome we can, more people will die than needed to die, or more people will suffer harms larger than they needed to suffer. If we think that the grave harms that others in this world suffer are urgent enough that we have a duty to use some of our resources to fight those harms, that same duty requires us to use those resources in ways that help as much as possible.
+O utilitarismo implica que deveríamos tornar ajudar os outros uma parte central das nossas vidas. Além disso, o utilitarismo nos insta a usar os nossos recursos não só para fazer algum bem, mas para fazer o maior bem que pudermos. Se não produzirmos o melhor resultado que pudermos, mais pessoas morrerão do que precisariam morrer, ou mais pessoas sofrerão danos maiores do que precisariam sofrer. Se pensamos que os danos graves que os outros neste mundo sofrem são urgentes o bastante para termos um dever de usar alguns dos nossos recursos para combater esses danos, esse mesmo dever requer que usemos esses recursos de maneiras que ajudem tanto quanto possível.
 
-How much should we sacrifice for the benefit of others? For well-off citizens of affluent countries, utilitarianism will say they should give a substantial portion of their resources to help others. However, utilitarians recognize that in deciding how much to give, it's important that we not let the best be the enemy of the good. It would be a mistake for us to give so much in the short run that we make ourselves miserable and burn out later on. In practice, most utilitarians try to figure out a level of sacrifice that is sustainable for them in the long run; for [utilitarians focused on donations](https://80000hours.org/articles/earning-to-give/), this is typically between 10% and 50% of their income.
+Quanto deveríamos nos sacrificar para o benefício dos outros? Para cidadãos bem de vida de países abastados, o utilitarismo dirá que eles deveriam doar uma porção substancial dos seus recursos para ajudar os outros. No entanto, os utilitaristas reconhecem que, ao decidirmos quanto doar, é importante lembrar que o feito é melhor que o perfeito. Seria um erro doarmos tanto no curto prazo a ponto de ficarmos infelizes e esgotados mais tarde. Na prática, a maioria dos utilitaristas tentam descobrir um nível de sacrifício sustentável para eles no longo prazo; para [os utilitaristas focados em doações](https://80000hours.org/articles/earning-to-give/), isso tipicamente se encontra entre 10% e 50% da sua renda pré-impostos.
 
-## Effective Altruism
+## Altruísmo Eficaz
 
-Many utilitarians undertake very significant personal sacrifices because of their belief in utilitarianism. But recently some have argued that _what_ one tries to do is even more important than _how much_ sacrifice one undertakes. This is a key insight of the philosophy and social movement of _[effective altruism](https://www.effectivealtruism.org/)_, which is endorsed by many utilitarians, such as [Peter Singer](/utilitarian-thinker/peter-singer).[^6]
+Muitos utilitaristas fazem sacrifícios pessoais bastante significativos por conta da sua crença no utilitarismo. Mas recentemente alguns têm argumentado que _o que_ tentamos fazer é ainda mais importante do que _o quanto_ de sacrifício que fazemos. Esse é um insight crucial da filosofia e movimento social do [altruísmo eficaz](https://altruismoeficaz.com.br/), que é endossado por muitos utilitaristas, como [Peter Singer](https://www.utilitarismo.net/utilitarian-thinker/peter-singer).[^6]
 
-Those in the effective altruism movement try to figure out, of all the different uses of our resources, which ones will do the most good, impartially considered, and act on that basis. So defined, effective altruism is both a research project—to figure out how to do the most good—and a practical project to implement the best guesses we have about how to do the most good.[^7]
+Aqueles no movimento do altruísmo eficaz tentam descobrir, entre todos os diferentes usos dos nossos recursos, quais farão o maior bem, considerado imparcialmente, e agem de acordo com isso. Assim definido, o altruísmo eficaz é tanto um projeto de pesquisa — para descobrir como fazer o maior bem — como um projeto prático — para implementar as melhores hipóteses que temos sobre como fazer o maior bem.[^7]
 
-While utilitarianism and effective altruism share certain similarities,[^8] they are distinct and differ in important ways.[^9] Unlike utilitarianism, effective altruism does not require that we [sacrifice our own interests](/objections-to-utilitarianism/demandingness) whenever doing so brings about a greater benefit to others. Unlike utilitarianism, effective altruism does not claim that we should always seek to maximize well-being, [whatever the means](/objections-to-utilitarianism/rights). Finally, unlike utilitarianism effective altruism does not equate the good with the total sum of well-being.[^10] For these and other reasons, many members of the effective altruism community are not utilitarians; instead, they often give some weight to a range of different ethical theories.
+Embora o utilitarismo e o altruísmo eficaz compartilhem algumas semelhanças,[^8] eles são coisas distintas e diferem de maneiras importantes.[^9] Diferentemente do utilitarismo, o altruísmo eficaz não requer que [sacrifiquemos os nossos próprios interesses](https://www.utilitarismo.net/objections-to-utilitarianism/demandingness) sempre que fazê-lo ocasionar um maior benefício para os outros. Diferentemente do utilitarismo, o altruísmo eficaz não afirma que devemos sempre buscar maximizar o bem-estar, [sejam lá quais forem os meios](https://www.utilitarismo.net/objections-to-utilitarianism/rights). Finalmente, diferentemente do utilitarismo, o altruísmo eficaz não iguala o bem à soma total do bem-estar.[^10] Por essas e outras razões, muitos membros da comunidade do altruísmo eficaz não são utilitaristas, e antes atribuem algum peso a uma gama de teorias éticas diferentes.
 
-Despite these differences, utilitarians are usually enthusiastic about effective altruism. The main reason is that, out of all communities, the effective altruism movement comes closest to applying core utilitarian ideas and values to the real world.
+Apesar dessas diferenças, geralmente os utilitaristas se encontram entusiasmados com o altruísmo eficaz. A principal razão para isso é que, entre todas as comunidades, o movimento do altruísmo eficaz chega o mais próximo de aplicar ideias e valores utilitaristas centrais ao mundo real.
 
-In addition, joining a community of people with shared aims like effective altruism can be one of the best ways for its members to increase their impact. Such a community allows a group of people to mutually support each other, and to coordinate more effectively, thus achieving more than they could as individuals.
+Além disso, juntar-se a uma comunidade de pessoas com objetivos em comum como o altruísmo eficaz pode ser uma das melhores maneiras de seus membros aumentarem o seu impacto. Tal comunidade permite a um grupo de pessoas dar apoio mútuo umas às outras e se coordenar mais efetivamente, e assim alcançar mais que aquilo que eles poderiam alcançar como indivíduos.
 
-Members of the effective altruism movement often decompose the problem of how to do the most good into two parts: First, which problem (“cause”) should I focus on? Second, what means should I take to address those problems? We will discuss these two questions in the remainder of this article.
+Os membros do movimento do altruísmo eficaz frequentemente decompõem o problema de como fazer o maior bem em duas partes: primeiro, em qual problema ("causa") eu deveria focar?  Segundo, quais meios eu deveria seguir para tratar desses problemas? Discutiremos essas duas questões no restante deste artigo.
 
-## Cause Prioritization
+## Priorização de Causas
 
-To figure out the most effective actions, we first need to know which causes to focus on. Utilitarians are _[cause impartial](/utilitarianism-and-practical-ethics#cause-impartiality)_, meaning they aim to contribute to the causes where they expect to do the most good. Which causes would most effectively promote well-being if they were further addressed? Finding the answer to that question is called _cause prioritization_.
+Para descobrirmos quais são as ações mais eficazes, primeiro temos que saber em quais causas focar. Os utilitaristas são [imparciais quanto a causas](https://www.utilitarismo.net/utilitarianism-and-practical-ethics#cause-impartiality), o que quer dizer que eles visam contribuir às causas em que esperam fazer o maior bem. Quais causas promoveriam o bem-estar da forma mais eficaz se elas recebessem maior atenção? Encontrar a resposta para essa questão chama-se _priorização de causas_.
 
-Since some moral problems may be far more important than others, choosing what cause to focus on may be the greatest factor in how much good an individual will do. However, the world is complex, and we face high uncertainty about how best to improve the world. This uncertainty leads to reasonable disagreement about what causes to prioritize. But the effective altruism community has [made some progress](https://concepts.effectivealtruism.org/concepts/importance-neglectedness-tractability/) outlining three social causes that appear particularly pressing: (i) global health and development, (ii) farm animal welfare, and (iii) existential risk reduction.
+Visto que alguns problemas morais podem ser muito mais importantes que outros, escolher em qual causa focar pode ser o fator mais importante no tocante à quantidade de bem que um indivíduo fará. No entanto, o mundo é complexo, e encaramos uma alta incerteza sobre quais são os melhores modos de melhorar o mundo. Essa incerteza causa um desacordo razoável sobre quais são as melhores causas nas quais trabalhar. Mas o altruísmo eficaz tem [feito algum progresso](https://concepts.effectivealtruism.org/concepts/importance-neglectedness-tractability/) ao delinear três causas sociais que parecem particularmente prementes: (i) a saúde e o desenvolvimento globais, (ii) o bem-estar animal na pecuária e (iii) a redução de riscos existenciais.
 
-### Global Health and Development
+### Saúde e Desenvolvimento Globais
 
-> _"One thing that greatly matters is the failure of we rich people to prevent, as we so easily could, much of the suffering and many of the early deaths of the poorest people in the world."_
+> _“Uma coisa que importa enormemente é a falha de nós, ricos, em não impedir, como poderíamos tão facilmente, muito do sofrimento e muitas das mortes prematuras das pessoas no mundo.”_
 >
 > – Derek Parfit[^11]
 { .align-author-right }
 
-As explained in Chapter 6: [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#cosmopolitanism), utilitarians endorse cosmopolitanism, according to which the geographical distance between an actor and someone they can help is not morally relevant in itself. Cosmopolitanism implies that we should look for effective interventions to help others, regardless of their nationality, where they live, or where they come from.
+Conforme explicado no capítulo [O Utilitarismo e a Ética Prática](https://www.utilitarismo.net/utilitarianism-and-practical-ethics#cosmopolitanism), os utilitaristas endossam o cosmopolitismo, segundo o qual a distância geográfica entre um ator e alguém que ele pode ajudar não é moralmente relevante em si mesma. O cosmopolitismo implica que deveríamos procurar intervenções eficazes para ajudarmos os outros, independentemente da sua nacionalidade, onde eles vivem e de onde eles vêm.
 
-On this basis, global health and development may be considered a particularly high priority cause for utilitarians.[^12] Efforts in this area have a great track record of improving lives, making this cause appear especially tractable. For most of human history, it was the norm that around two out of every five children died before their fifth birthday, largely due to preventable causes. With improved sanitation and access to medical care, we've since made tremendous progress against child mortality, with global rates dropping as low as 4% by 2020.[^13]
+Com base nisso, a saúde e o desenvolvimento globais podem ser considerados uma causa de alta prioridade para os utilitaristas.[^12] Esforços nessa área têm um ótimo histórico de melhorar vidas, fazendo essa causa parecer especialmente tratável. Durante a maior parte da história humana, era a norma que cerca de duas entre cada cinco crianças morressem antes do seu quinto aniversário, em grande parte devido a causas evitáveis. Com os melhoramentos no saneamento e no acesso ao cuidado médico, temos feito desde então um progresso tremendo contra a mortalidade infantil, tendo as taxas globais caído para apenas 4,5% em 2015.[^13]
 
-![Global child mortality](/img/Global-Child-Mortality.png "Global child mortality")
+[Image]
 
-However, this progress is no reason to rest on our laurels, since we still have much further to go: around 16,000 children under 15 still die worldwide every day.[^14] Fortunately, we can help decrease this number even further. The best interventions in global health and development are incredibly cost-effective: [GiveWell](https://www.givewell.org/), a leading organization that conducts in-depth charity evaluations, estimates that top-rated charities can prevent the death of a child from malaria for under $5,000 by providing preventive drugs.[^15]
+No entanto, esse progresso não é razão para nos darmos por satisfeitos, visto que temos um longo caminho a seguir: uma taxa de mortalidade infantil de 4,5% ainda significa que cerca de 15.000 crianças morrem pelo mundo todo dia.[^14] Felizmente, podemos diminuir esse número ainda mais. As melhores intervenções na saúde e no desenvolvimento globais são incrivelmente boas em termos de custo-efetividade: a [GiveWell](https://www.givewell.org/), uma organização que é uma liderança na avaliação aprofundada de instituições de caridade, estima que as instituições de caridade mais bem classificadas previnem a morte de uma criança pela malária por apenas US$ 5.000 ao proverem medicamentos preventivos.[^15]
 
-Other evidence-backed and cost-effective ways to help the very poor include distributing anti-malarial nets, offering vitamin A fortification, and simply transferring money.[^16] All of these interventions present amazing opportunities to improve the well-being of others at very low cost to ourselves.
+Outras maneiras de ajudar os muitos pobres que são baseadas em evidências e positivas em termos de custo-efetividade incluem a doação de tratamentos de desparasitação, a distribuição de redes mosquiteiras antimalária, o fornecimento de fortificantes de vitamina A e a simples transferência de dinheiro.[^16] Todas essas intervenções apresentam oportunidades espetaculares para melhorarmos o bem-estar dos outros a um custo bem baixo para nós.
 
-### Farm Animal Welfare
+### Bem-Estar Animal na Pecuária
 
-> _"The question is not, Can they reason? nor, Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being? ... The time will come when humanity will extend its mantle over everything which breathes."_
+> _“A questão não é: 'Podem eles raciocinar?', tampouco: 'Podem eles falar?', mas sim: 'Podem eles sofrer?'. Por que a lei deveria recusar a sua proteção a um ser sensível que seja? (...) Chegará o tempo em que a humanidade estenderá o seu manto sobre tudo que respira."_
 >
 > – [Jeremy Bentham](/utilitarian-thinker/jeremy-bentham)[^17]
 { .align-author-right }
 
-Improving the welfare of farmed animals should be a high moral priority for utilitarians. The argument for this conclusion is simple: First, animals matter morally; second, humans cause a huge amount of unnecessary suffering to animals in factory farms; third, there are easy ways to reduce the number of farmed animals and the severity of their suffering. We will go over these premises one by one.
+Melhorar o bem-estar dos animais da pecuária deveria ser uma prioridade para os utilitaristas. O argumento para essa conclusão é simples: primeiro, os animais importam moralmente; segundo, os humanos causam uma enorme quantidade de sofrimento desnecessário aos animais na pecuária industrial; terceiro, há modos fáceis de reduzirmos o número de animais na pecuária e a severidade do seu sofrimento. Passaremos por essas premissas uma por uma.
 
-First, as explained in Chapter 6: [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#speciesism), utilitarians reject speciesism: discrimination against those who do not belong to a certain species. By the lights of utilitarianism, we should give equal moral consideration to the well-being of all individuals, regardless of what species they belong to.[^18]
+Primeiro, conforme explicado no capítulo [O Utilitarismo e a Ética Prática](https://www.utilitarismo.net/utilitarianism-and-practical-ethics#speciesism), os utilitaristas rejeitam o especismo: discriminar aqueles que não pertencem a certa espécie. À luz do utilitarismo, deveríamos dar consideração moral igual ao bem-estar de todos os indivíduos, não importa a qual espécie eles pertençam.[^18]
 
-Second, we find ourselves in a historically unprecedented situation, where every year humans kill around 70 billion land animals for food.[^19] The vast majority of these spend their lives in factory farms in horrendous conditions,[^20] crammed together with little space, without natural light or stimuli, and at constant risk of developing ailments such as weakened or broken bones, infections and organ failure. Most have their lives ended prematurely when they are slaughtered for food. These suffering animals are probably among the worst-off creatures on this planet.
+Segundo, encontramo-nos numa situação sem precedentes históricos, em que a cada ano os humanos matam cerca de 70 bilhões de animais para a alimentação.[^19] A vasta maioria deles passam a vida em fazendas industriais em condições horrendas,[^20] amontoados juntos com pouco espaço, sem luz ou estímulos naturais e com um risco constante de desenvolver enfermidades como ossos fragilizados ou quebrados, infecções ou falência dos órgãos. As vidas da maioria deles são findadas prematuramente quando são abatidos para serem comidos. Esses animais sofredores provavelmente estão entre as criaturas em pior situação neste planeta.
 
-Third, we can significantly improve the lives of farmed animals for just pennies per animal. In recent years activists have campaigned for numerous large retailers and fast food chains to cut caged eggs from their supply chains. Research suggests these corporate animal welfare campaigns have significantly improved the lives of somewhere between 9 and 120 hens per dollar spent by sparing them a year of cage confinement.[^21]
+Terceiro, podemos melhorar significativamente as vidas dos animais na pecuária por apenas moedas por animal. Nos anos recentes, ativistas têm feito campanhas direcionadas a inúmeros distribuidores de grande porte e redes de fast-food para eliminarem das suas cadeias de suprimento os ovos de galinhas criadas em gaiolas. As pesquisas sugerem que essas campanhas pelo bem-estar animal direcionadas a corporações melhoraram as vidas de algo entre 9 e 120 galinhas por dólar gasto por livrá-las do confinamento nas gaiolas.[^21] Por causa dos números consideráveis de seres sencientes envolvidos, fazermos progresso na melhoria do bem-estar dos animais na pecuária poderia evitar uma quantidade enorme de sofrimento.
 
-Because of the sheer numbers of sentient beings involved, making progress on improving farm animal welfare could avert a huge amount of suffering. Yet despite the size of the problem, farm animal welfare is highly neglected.
+Não obstante isso, apesar do tamanho do problema, o bem-estar dos animais na pecuária é altamente negligenciado.
 
-![Animal statistics](/img/Animal-Statistics.png "Animal statistics")
+[Image]
 
-> (Image credit: [Animal Charity Evaluators](https://animalcharityevaluators.org/donation-advice/why-farmed-animals/).)
+Fonte: [Animal Charity Evaluators](https://animalcharityevaluators.org/donation-advice/why-farmed-animals/)
 
-In the US, only a few tens of millions of philanthropic dollars are donated yearly to organizations that focus on improving the lives of farmed animals. The amount spent is tiny compared to other animal causes. According to research nonprofit Animal Charity Evaluators: “Of domesticated and captive animals killed by humans in the U.S., about 99.987% are farmed animals, 0.007% are euthanized in companion animal shelters, and 0.006% are animals used in laboratories. However, about 95% of donations to animal charities in the U.S. go to companion animal organizations, 2% go to laboratory animal organizations, and 3% go specifically to farmed animal organizations.”[^22]
+Nos EUA, apenas umas poucas dezenas de dólares da filantropia são doadas todo ano para organizações que focam na melhoria das vidas dos animais na pecuária. A quantidade gasta é ínfima em comparação com outras causas animais: há 3.000 vezes mais animais em fazendas industriais do que há animais de estimação abandonados, mas os esforços para tratar da pecuária industrial recebem um quinto do financiamento gasto para ajudar os animais abandonados.[^22]
 
-### Existential Risk Reduction
+### Redução de Riscos Existenciais
 
-> _"Classical Utilitarians... would claim, as Sidgwick did, that the destruction of mankind would be by far the greatest of all conceivable crimes. The badness of this crime would lie in the vast reduction of the possible sum of happiness."_
+> _“Os utilitaristas clássicos (...) afirmariam, como Sidgwick afirmou, que a destruição da humanidade seria de longe o maior de todos os crimes concebíveis. A maldade desse crime se encontraria na vasta redução da possível soma da felicidade.”_
 >
 > — Derek Parfit[^23]
 { .align-author-right }
 
-Chapter 6: [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics/#longtermism-expanding-the-moral-circle-across-time) introduced _strong longtermism_, according to which the most important determinant of the value of our actions today is how those actions affect the very long-run future. Strong longtermism follows from utilitarianism⁠—and a wide range of other moral viewpoints⁠—if we assume that some of our actions can meaningfully affect the long-run future and that we can estimate which effects are positive and which negative.[^24]
+O capítulo [O Utilitarismo e a Ética Prática](https://www.utilitarismo.net/utilitarianism-and-practical-ethics#longtermism) apresentou o _longotermismo forte_, segundo o qual o determinante mais importante do valor das nossas ações no presente é o modo como essas ações afetam o futuro muito distante. O longotermismo forte decorre do utilitarismo ⁠— e uma ampla gama de outros pontos de vista morais⁠ — se presumimos que algumas das nossas ações podem afetar significativamente o futuro de longo prazo e que podemos estimar quais efeitos são positivos e quais, negativos.[^24]
 
-By the lights of longtermism, the most important moral problems are the ones where we have the greatest leverage to positively affect future generations. In particular, we should be highly concerned with _existential risks_—such as all-out nuclear war, or extreme climate change, or an engineered global pandemic—which are defined as follows:
+À luz do longotermismo, os problemas morais mais importantes são aqueles em que temos a maior influência de afetar positivamente as gerações futuras. Em particular, deveríamos estar altamente preocupados com os _riscos existenciais_ — como a guerra nuclear completa, ou mudanças climáticas extremas, ou uma pandemia global projetada —, que são definidos da seguinte maneira:
 
-> **An existential risk is a risk that threatens the destruction of humanity’s long-term potential.**[^25]
+> **Um risco existencial é um risco que ameaça a destruição do potencial de longo prazo da humanidade.**[^25]
 
-Besides the deaths of all 8 billion people on this planet, an existential catastrophe would also entail the loss of all of humanity’s future potential. In short, if an existential catastrophe occurred, the loss of value would be astronomical.[^26]
+Além das mortes de todos os 8 bilhões de pessoas neste planeta, uma catástrofe existencial também implicaria a perda de todo o futuro potencial da humanidade. Resumindo, se ocorresse uma catástrofe existencial, a perda de valor seria astronômica.[^26]
 
-If we avoid existential catastrophe, human civilization could survive for around a billion years before the Earth is no longer habitable. And if someday we settled other planets, civilization could continue for billions or trillions more.[^27] We may also expect the quality of life to continue to improve. We've seen dramatic improvements in human welfare over the past few centuries, driven by technological development and moral progress. These trends have allowed more of us to lead longer, more fulfilling lives.[^28] Fortunately, we should expect that further scientific and medical breakthroughs will continue to improve lives in the future.
+Se evitarmos a catástrofe existencial, a civilização humana poderia sobreviver por cerca de um bilhão de anos antes que a Terra não fosse mais habitável. E se um dia colonizássemos outros planetas, a civilização poderia continuar por mais bilhões e trilhões.[^27] Podemos também esperar que a qualidade de vida continue a melhorar. Temos visto melhoramentos dramáticos no bem-estar da humanidade nos séculos mais recentes, provocados pelo desenvolvimento tecnológico e o progresso moral. Essas tendências permitiram que mais de nós levássemos vidas mais longas e realizadas.[^28] Felizmente, devemos esperar que mais avanços na ciência e na medicina continuem a melhorar vidas no futuro.
 
-Therefore, the extinction of humankind would irreversibly deprive humanity of a potentially grand future and preclude trillions of lives to come. The realization of an existential risk would be uniquely bad; much worse than non-existential catastrophes. Since the stakes involved with existential risks are so large, their mitigation may be one of the most important moral issues we face.[^29]
+Portanto, a extinção da humanidade privaria irreversivelmente a humanidade de um futuro potencialmente grandioso e inviabilizaria trilhões de vidas vindouras. A concretização de um risco existencial seria unicamente ruim e muito pior que catástrofes não existenciais. Visto que o que está em jogo com os riscos existenciais é tão grande, a sua mitigação pode, portanto, ser uma das questões morais mais importantes que encaramos.[^29]
 
-Work to ensure that humanity’s long-run future goes well is not only very important but also very neglected. Future individuals do not get to influence the decisions we make today in our economic and political systems; they do not participate in markets today, and they do not have a vote. In essence, future individuals are voiceless. Against this background, it's unsurprising that our generation systematically neglects the interests and well-being of the many individuals that will exist in the future.
+O trabalho para garantir que o futuro de longo prazo da humanidade vá bem não só é muito importante como também muito negligenciado. Indivíduos futuros não têm a oportunidade de influenciar as decisões que tomamos no presente em nossos sistemas econômicos e políticos; eles não participam dos mercados no presente e eles não podem votar. Em essência, indivíduos futuros não têm voz. Contra esse pano de fundo, não é de surpreender que a nossa geração negligencie sistematicamente os interesses e o bem-estar de muitos indivíduos que existirão no futuro.
 
-For a detailed discussion of existential risks and the moral importance of the long-run future of humanity, we recommend _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_.
+Para uma discussão detalhada sobre riscos existenciais e a importância moral do futuro de longo prazo da humanidade, recomendamos [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/).
 
-## Paths to Impact
+## Caminhos para o Impacto
 
-How can we best address the most important causes? In general, there are three courses of actions that are most impactful. First, we can donate money to charity. Second, we can work in a career that helps others. Last but not least, we can encourage other people to also engage in these actions.
+Como podemos tratar das causas mais importantes? Em geral, há três estratégias que são mais impactantes. Primeiro, podemos doar dinheiro para a caridade. Segundo, podemos trabalhar numa carreira que ajude os outros. Por último, porém não menos importante, podemos encorajar outras pessoas a também praticar essas ações.
 
-As pointed out in Chapter 6: [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#respecting-commonsense-moral-norms), while utilitarians accept an obligation to try to do the most good they can, in practice they should almost always avoid violating commonsense moral prohibitions such as those against lying or killing. A good utilitarian would therefore generally do better by acting in accordance with commonsense moral virtues like integrity, trustworthiness, law-abidingness, and fairness and [not trying to assess each action on utilitarian terms](/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism) case by case.
+Conforme ressaltado no capítulo [O Utilitarismo e a Ética Prática](https://www.utilitarismo.net/utilitarianism-and-practical-ethics#respecting-commonsense-moral-norms), ao passo que os utilitaristas aceitam uma obrigação de tentar fazer o maior bem que puderem, na prática eles deveriam quase sempre evitar violar proibições morais do senso comum como aquelas contra mentir ou matar. Um bom utilitarista, portanto, geralmente faria melhor ao agir de acordo com virtudes morais do senso comum como a integridade, a credibilidade, o cumprimento às leis e a justiça, e [não tentando avaliar cada ação em termos utilitaristas](https://www.utilitarismo.net/types-of-utilitarianism#multi-level-utilitarianism-versus-single-level-utilitarianism) caso a caso.
 
-### Charitable Giving
+### Doação para a Caridade
 
-In slogan form, the utilitarian recommendation for using your money to help others is to “give more and give better”. Giving more is self-explanatory. Giving better means finding and donating to the organizations that make the best use of your donation.
+Em forma de slogan, a recomendação utilitarista de usar seu dinheiro para ajudar os outros é “doe mais e doe melhor”. Doar mais explica a si mesmo. Doar melhor significa encontrar e doar para organizações que fazem o melhor uso da sua doação.
 
-We've already seen that citizens of affluent countries are in the richest few percent of the world’s population. By making small sacrifices, those in the affluent world have the power to dramatically improve the lives of others. Due to the extreme inequalities in wealth and income, one can do a lot more good by giving money to those most in need than by spending it on oneself.[^30] Fortunately, an increasing number of affluent people recognize the unique position they are in, and they have decided to give more of their resources to benefit others. For instance, [Giving What We Can](https://www.givingwhatwecan.org/) is a growing community of people who have [pledged to give at least 10% of their income](https://www.givingwhatwecan.org/pledge/) for the rest of their lives to wherever they believe the money will do the most good.[^31] Over 9,000 people have taken the pledge, collectively committing to donate billions of dollars over their lifetimes.
+Já vimos que nós, cidadãos de países abastados, estamos nos poucos por cento mais ricos da população mundial. Ao fazermos pequenos sacrifícios, nós no mundo abastado temos o poder de melhorar dramaticamente as vidas dos outros. Devido às desigualdades extremas de riqueza e renda, podemos fazer muito mais bem ao doar dinheiro àqueles mais em necessidade do que ao gastá-lo com nós mesmos.[^30] Felizmente, um número cada vez maior de pessoas abastadas reconhecem a posição única em que elas estão e têm decidido doar mais dos seus recursos para beneficiar os outros. Por exemplo, a [Giving What We Can](https://www.givingwhatwecan.org/) é uma comunidade crescente de pessoas que fizeram o juramento de doar pelo menos 10% da sua renda pelo resto das suas vidas para onde for que elas creem que o dinheiro fará o maior bem.[^31] Mais de 9.000 pessoas já fizeram o juramento, jurando doar coletivamente bilhões de dólares ao longo dos seus tempos de vida.
 
-Just giving more achieves little good, however, if the money is not spent wisely. Some ways of making a difference do vastly more good than others. Most people think that the best charities differ from the average in their effectiveness by only about a factor of 1.5 or so.[^32] However, counterintuitively, the most cost-effective charities are tens or even hundreds of times more effective than typical charities.[^33] Because of these vast differences between charities, the decision of where to donate is of great consequence; doing the most good requires us to make this decision very carefully.
+Simplesmente doar mais realiza pouco bem, no entanto, se o dinheiro não é gasto com sabedoria. Algumas maneiras de fazer a diferença fazem vastamente mais bem do que outras. A maioria das pessoas acha que as melhores instituições de caridade diferem da média em sua eficácia somente por um fator de cerca de 1,5.[^32] No entanto, contraintuitivamente, as melhores instituições de caridade em termos de custo-efetividade são dezenas ou até centenas de vezes mais eficazes que as instituições de caridade típicas.[^33] Por causa dessas vastas diferenças entre instituições de caridade, a decisão sobre para onde doar é de grande consequência; fazer o maior bem requer que tomemos essa decisão de maneira bem cuidadosa.
 
-To give better, one can follow the recommendations from organizations such as [GiveWell](https://www.givewell.org/), which conducts exceptionally in-depth charity evaluations. GiveWell’s best-guess estimate is that the most cost-effective charities working in global health can save a child’s life for under $5,000.[^34] By donating 10% of their income each year, an affluent person will save a child’s life every year—dozens of lives over their lifetime. And if that person focused on more important causes, it's plausible that they could do far more good again.
+Para doarmos melhor, podemos seguir as recomendações de organizações como a [GiveWell](https://www.givewell.org/), que realiza avaliações de instituições de caridade excepcionalmente aprofundadas. A estimativa baseada nas melhores hipóteses da GiveWell é de que as melhores instituições de caridade em termos de custo-efetividade que trabalham na saúde global podem salvar a vida de uma criança por menos de US$ 5.000.[^34] Ao doar 10% da sua renda a cada ano, uma pessoa abastada salvará a vida de uma criança todo ano — dezenas de vidas ao longo do seu tempo de vida. E se essa pessoa fosse focar nas causas mais importantes, é plausível que ela poderia fazer ainda muito mais bem.
 
-Perhaps surprisingly, a significant personal commitment to helping others involves sacrificing far less than one might initially have thought. Studies suggest that although there is a positive correlation between income and happiness, it's not as strong as one might think. In the US, for example, a 10% reduction in income is associated with only a 1% drop on a scale measuring life satisfaction.[^35] Moreover, it's not at all clear that we should think of donating 10% as equivalent to a 10% loss of income. There is some (conflicting) evidence to suggest that spending money on others can often improve our well-being by as much as or more than spending it on ourselves.[^36] So, it's not even clear that donating 10% of one’s income would be a personal sacrifice at all.[^37]
+O que talvez seja surpreendente é que um compromisso pessoal significativo de ajudar os outros envolve sacrificar muito menos do que a princípio poderíamos pensar. Os estudos sugerem que, embora haja uma correlação positiva entre a renda e a felicidade, ela não é tão forte quanto poderíamos pensar. Nos EUA, por exemplo, uma redução da renda em 10% se associa com uma queda de somente 1% numa escala que mede a satisfação com a vida.[^35] Além disso, não é claro, absolutamente, que deveríamos pensar numa doação de 10% como equivalente a uma perda de renda de 10%. Há algumas evidências (conflitantes) que sugerem que gastar dinheiro com os outros frequentemente melhora o nosso bem-estar tanto quanto ou mais que gastar com nós mesmos.[^36] Logo, não é claro nem que doar 10% da sua renda seria um sacrifício pessoal, ponto final.[^37]
 
-### Career Choice
+### Escolha de Carreira
 
-A second way to help solve the world’s most important problems is choosing the right career path: most of us will spend around 80,000 hours during our lives on our professional careers and some careers achieve much more good than others. Your choice of career is, therefore, one of the most important moral choices of your life. By using this time to address the most pressing problems, we can do an enormous amount of good. Yet, it's far from obvious which careers will allow you to do the most good from a utilitarian perspective.
+Uma segunda maneira de ajudar a resolver os problemas mais importantes do mundo é escolher o caminho certo para a carreira: a maioria de nós passará 80.000 horas durante as nossas vidas nas nossas carreiras profissionais, e algumas carreiras realizam mais bem do que outras. A sua escolha de carreira é, portanto, uma das escolhas morais mais importantes da sua vida. Ao utilizar esse tempo para tratar dos problemas mais prementes do mundo, você pode fazer uma quantidade enorme de bem. Ainda assim, está longe de óbvio quais carreiras permitiriam a você fazer o maior bem de uma perspectiva utilitarista.
 
-Fortunately, there is research available to help us make more informed choices. The organization [80,000 Hours](https://80000hours.org/)[^38] aims to help people use their careers to solve the world’s most pressing problems. To do this, they research how individuals can maximize the social impact of their careers, create online advice, and support readers who might be able to enter priority areas.
+Felizmente, há pesquisas disponíveis para nos ajudar a fazer escolhas mais informadas. A organização [80,000 Hours](https://80000hours.org/)[^38] visa resolver os problemas mais prementes do mundo ao conseguir que mais pessoas talentosas trabalhem neles. Para fazer isso, ela efetua pesquisas sobre como indivíduos talentosos podem maximizar o impacto social das suas carreiras, oferece conselhos on-line e dá apoio a leitores que poderiam ser capazes de entrar em áreas de prioridade.
 
-As with donations, choosing an impactful career need not involve much of a personal sacrifice: We can enjoy a much broader variety of jobs than we might think before we've tried them.[^39] Also, you are unlikely to thrive in a job you do not enjoy. It would be unsustainable to pursue a career doing something that you hate. Relatedly, maintaining your physical health and emotional well-being are crucial to ensure you do not burn out and keep doing good over the long run. Therefore, choosing a career that maximizes your social impact does not involve giving up on a career that is satisfying, challenging, and enjoyable.[^39a]
+Como com as doações, escolher uma carreira impactante não precisa envolver muito sacrifício pessoal: podemos desfrutar de uma variedade muito mais ampla de trabalhos do que podemos pensar antes de experimentá-los.[^39] Além disso, é improvável que você prospere num emprego que não o agrada. Seria insustentável seguir uma carreira fazendo algo que você odeia. Algo relacionado a isso é que manter a sua saúde física e o seu bem-estar emocional é crucial para garantir que você não se esgote e que continue fazendo o bem pelo longo prazo. Portanto, escolher uma carreira que maximize o seu impacto social não envolve abrir mão de uma carreira que seja satisfatória, desafiadora e desfrutável.
 
-### Outreach
+### Divulgação
 
-Third, by utilitarian lights, an effective way of doing good is by inspiring others to try to do more good. Thus, the best option for many people may be to develop and promote the ideas and values associated with utilitarianism or effective altruism, and be a positive role-model in their behavior. By raising awareness of these ideas, it's plausible that you could inspire several people to follow the recommendations of these philosophies. In this way you will achieve a _multiplier effect_ on your social impact—the people you inspire will do several times as much good as you would have achieved by working directly to solve the most important moral problems. Because utilitarianism and effective altruism are still little-known and little-understood, there may be a lot of value in promoting these ideas.
+Terceiro, à luz do utilitarismo, um modo eficaz de fazer o bem é inspirar os outros a tentarem fazer mais bem. Assim, a melhor estratégia para muitas pessoas pode ser desenvolver e promover as ideias e valores associados ao utilitarismo ou ao altruísmo eficaz e ser um modelo positivo em seu comportamento. Ao conscientizar as pessoas sobre essas ideias, é plausível que você possa inspirar várias pessoas a seguir as recomendações dessas filosofias. Dessa forma você alcançará um _efeito multiplicador_ no seu impacto social: as pessoas que você inspirar farão várias vezes mais bem do que você teria realizado ao trabalhar diretamente para resolver os problemas morais mais importantes. Porque o utilitarismo e o altruísmo eficaz ainda são pouco conhecidos e pouco compreendidos, pode haver muito valor na promoção dessas ideias.
 
-Some may also recommend political activism and volunteer work as ways to do good with one's time and efforts. Surprisingly little attention has been given to carefully assessing the marginal impact of different political activities. This paucity of information makes it especially hard to know which efforts in this sphere seem like good bets. But the high stakes suggest that the best-targeted efforts here could do immense good (though, as always, a dedicated career in the area may have even greater potential).[^39b]
+## Conclusão
 
-## Conclusion
+Os utilitaristas estão comprometidos em tornar _ajudar os outros_ uma parte bastante significativa das suas vidas. Além disso, eles creem que, ao ajudarem os outros, devem tentar usar os seus recursos para fazer o maior bem que puderem, considerado imparcialmente.
 
-Utilitarians are committed to making _helping others_ a very significant part of their lives. Also, they believe that when helping others, they should use their resources to do the most good, impartially considered, that they can.
+As áreas atualmente entre as maiores prioridades para os utilitaristas beneficiam predominantemente grupos que não podem defender os seus próprios interesses. Isso inclui pessoas na pobreza extrema, animais não humanos e indivíduos futuros. Olhamos em três causas em particular: melhorar as condições daqueles na pobreza extrema, reduzir o sofrimento dos animais da pecuária industrial e melhorar o bem-estar de gerações futuras por meio da redução de riscos existenciais.
 
-The areas currently among the top priorities for utilitarians predominantly benefit groups that cannot defend their own interests. This includes people in extreme poverty, non-human animals, and future individuals. We've looked at three corresponding causes: improving the conditions of those in extreme poverty, reducing the suffering of factory farmed animals, and protecting future generations by reducing existential risks.
-
-To do the most good they can, utilitarians often donate money to effective charities, work on helping others with their career, and do outreach to encourage others to join in. We face many severe moral problems, which present opportunities to do an enormous amount of good. To benefit others as much as possible, utilitarians carefully prioritize among their options, focusing their efforts wherever they believe they can make the biggest positive contribution to overall well-being.
+Para fazerem o maior bem que podem, os utilitaristas frequentemente doam dinheiro para instituições de caridade eficazes, trabalham na ajuda aos outros com a sua carreira e fazem trabalho de divulgação que visa encorajar outras pessoas a fazerem essas coisas. Encaramos vários problemas morais graves, que apresentam oportunidades para fazermos uma enorme quantidade de bem. Para beneficiarem os outros tanto quanto possível, os utilitaristas priorizam cautelosamente entre as suas opções, concentrando os seus esforços onde for que creem que podem fazer a maior contribuição positiva ao bem estar geral.
 
 {{< acting-buttons >}}
 
 {{< how-to-cite >}}
 
-## Resources and Further Reading
+## Recursos e Leituras Adicionais
 
-### General
+### Geral
 
-- Peter Singer (2011). _[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics)_, 3rd edition. Cambridge: Cambridge University Press.
-- Katarzyna de Lazari-Radek & Peter Singer (2017). Chapter 6: Utilitarianism in Action, _[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795)_. Oxford: Oxford University Press.
+- [Peter Singer](https://www.utilitarianism.net/utilitarian-thinker/peter-singer) (2011). [Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics), 3rd edition. Cambridge University Press.
+- Katarzyna de Lazari-Radek & [Peter Singer](https://www.utilitarianism.net/utilitarian-thinker/peter-singer) (2017). Chapter 6: Utilitarianism in Action, [Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&). Oxford: Oxford University Press.
 
-### Effective Altruism
+### Altruísmo Eficaz
 
-- William MacAskill (forthcoming). [Effective Altruism](https://www.williammacaskill.com/s/MacAskill_Effective_Altruism-1.pdf). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.).[^40]
-- William MacAskill (2015). _[Doing Good Better: Effective Altruism and How You Can Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Penguin Random House.
+- William MacAskill (2019). [Effective Altruism](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7205d104c7bf5cc8f1dca/1539776611190/Effective+Altruism+-+Introduction.pdf). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.).[^40]
+- William MacAskill (2015). [Doing Good Better: Effective Altruism and How You Can Make a Difference](https://www.effectivealtruism.org/doing-good-better/). New York: Penguin Random House.
 - William MacAskill (2018). [What Are the Most Important Moral Problems of Our Time?](https://www.ted.com/talks/will_macaskill_what_are_the_most_important_moral_problems_of_our_time) _TED_.
-- Peter Singer (2013). [The Why and How of Effective Altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en). _TED_.
-- Richard Y. Chappell (2024). [Why Not Effective Altruism?](https://philpapers.org/rec/CHAWNE). _Public Affairs Quarterly_ 38 (1): 3-21.
-- Websites and organizations relevant to effective altruism:
-  - [Effectivealtruism.org](https://www.effectivealtruism.org/): Website providing online resources about effective altruism.
-  - [Effective Altruism Forum](https://forum.effectivealtruism.org/): An online forum for discussing issues related to effective altruism.
-  - [GiveWell](https://www.givewell.org/): Charity evaluator aiming to find outstanding giving opportunities.
-  - [80,000 Hours](https://80000hours.org/): Research non-profit aiming to help talented individuals maximize the social impact of their careers.
-  - [Giving What We Can](https://www.givingwhatwecan.org/): Community of people having pledged to give 10% of their lifetime earnings to effective charities.
-  - [Charity Entrepreneurship](https://www.charityentrepreneurship.com/): Charity incubator helping start multiple high-impact charities annually.
-- Podcasts on effective altruism & utilitarianism:
+- [Peter Singer](https://www.utilitarianism.net/utilitarian-thinker/peter-singer) (2013). [The Why and How of Effective Altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en). _TED_.
+- Sites e organizações relevantes para o altruísmo eficaz:
+  - [Effectivealtruism.org](https://www.effectivealtruism.org/): introdução ao altruísmo eficaz e recursos adicionais. (Veja o [site em português](https://altruismoeficaz.com.br/).)
+  - [GiveWell](https://www.givewell.org/): avaliadora de instituições de caridade para se encontrarem oportunidades de doação excepcionais. (Veja o [site em português](https://doebem.org.br/).)
+  - [80,000 Hours](https://80000hours.org/): organização de pesquisa sem fins lucrativos que visa ajudar indivíduos talentosos a maximizar o impacto social das suas carreiras. (Veja o [site em português](https://80000horas.com.br/).)
+  - [Giving What We Can](https://www.givingwhatwecan.org/): comunidade de pessoas que fizeram um juramento de doar 10% dos seus rendimentos pela vida toda a instituições de caridade eficazes.
+  - [Charity Entrepreneurship](https://www.charityentrepreneurship.com/): incubadora de instituições de caridade que ajuda a iniciar múltiplas instituições de caridade de alto impacto anualmente.
+- Podcasts sobre o altruísmo eficaz e o utilitarismo:
   - [Effective Altruism: An Introduction](https://80000hours.org/podcast/effective-altruism-an-introduction/). _80,000 Hours Podcast_.
-  - William MacAskill (2020). [Doing Good](https://samharris.org/podcasts/228-doing-good/). _Making Sense Podcast with Sam Harris_.
-  - Peter Singer (2016). [What is Moral Progress?](https://samharris.org/podcasts/what-is-moral-progress/). _Making Sense Podcast with Sam Harris_.
-  - Peter Singer & Kasia de Lazari Radek (2024) [Lives Well Lived](https://podcasts.apple.com/us/podcast/lives-well-lived/id1743702376)
+  - William MacAskill (2020). [Doing Good](https://samharris.org/podcasts/228-doing-good/). _Making Sense with Sam Harris_.
+  - [Peter Singer](https://www.utilitarianism.net/utilitarian-thinker/peter-singer) (2016). [What is Moral Progress?](https://samharris.org/podcasts/what-is-moral-progress/). _Making Sense with Sam Harris_.
+  - Gus Docker. [Utilitarian Podcast](https://podcasts.apple.com/us/podcast/utilitarian/id1529734932).
 
-### Global Health and Development
+### Saúde e Desenvolvimento Globais
 
-- Peter Singer (2019). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_, 2nd ed. The Life You Can Save, Bainbridge Island, WA and Sydney, available free at <www.thelifeyoucansave.org>.
-- Toby Ord (2019). [The Moral Imperative toward Cost-Effectiveness in Global Health](https://www.givingwhatwecan.org/research/the-moral-imperative-towards-cost-effectiveness/), in Greaves, H. (ed.) _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
-- Peter Unger (1996). _[Living High and Letting Die: Our Illusion of Innocence](https://doi.org/10.1093/0195108590.001.0001)_. Oxford: Oxford University Press.
+- [Peter Singer](https://www.utilitarianism.net/utilitarian-thinker/peter-singer) (2019). [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/), updated 10th anniversary edition. New York: Penguin Random House. (O livro está disponível para ser baixado gratuitamente)
+- Toby Ord (2019). [The Moral Imperative toward Cost-Effectiveness in Global Health](https://www.givingwhatwecan.org/research/the-moral-imperative-towards-cost-effectiveness/), em Greaves, H. (ed.) _Effective Altruism: Philosophical Issues_. Oxford University Press.
+- Peter Unger (1996). [Living High and Letting Die: Our Illusion of Innocence](https://doi.org/10.1093/0195108590.001.0001). Oxford: Oxford University Press.
 
-### Farm Animal Welfare
+### Bem-Estar Animal na Pecuária
 
-- Tyler John and Jeff Sebo (2020). [Consequentialism and Nonhuman Animals](https://web.archive.org/web/20210212130214/https://jeffsebodotnet.files.wordpress.com/2019/06/consequentialism-and-nonhuman-animals-penultimate.pdf). In _The Oxford Handbook of Consequentialism_, Douglas W. Portmore (ed.). Oxford: Oxford University Press.
-- Lewis Bollard (2021). [Lewis Bollard on big wins against factory farming and how they happened](https://80000hours.org/podcast/episodes/lewis-bollard-big-wins-against-factory-farming/). _80,000 Hours Podcast with Rob Wiblin_.
+- Tyler John and Jeff Sebo. [Consequentialism and Nonhuman Animals](https://web.archive.org/web/20210212130214/https://jeffsebodotnet.files.wordpress.com/2019/06/consequentialism-and-nonhuman-animals-penultimate.pdf). Em _The Oxford Handbook of Consequentialism_, Portmore, D. (ed.). Oxford: Oxford University Press.
+- Lewis Bollard (2021). [Lewis Bollard on big wins against factory farming and how they happened](https://80000hours.org/podcast/episodes/lewis-bollard-big-wins-against-factory-farming/). _80,000 Hours Podcast_.
 - Jess Whittlestone (2017). [Animal Welfare](https://www.effectivealtruism.org/articles/cause-profile-animal-welfare/). _Effective Altruism_.
 
-### Existential Risks
+### Riscos Existenciais
 
-- Toby Ord (2020). _[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/)_. London: Bloomsbury Publishing.
+- Toby Ord (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing.
 - Nick Bostrom (2013). [Existential Risk Prevention as Global Priority](https://www.existential-risk.org/concept.html). _Global Policy_. 4(1): 15–31.
 
-[^1]: Bentham’s advice to a young girl in 1830. Bentham, J., ed. by Goldworth, A. (1983). _Deontology together with A Table of the Springs of Action and Article on Utilitarianism_. Oxford: Clarendon, p.xix.
+[^1]:
+     O conselho de Bentham a uma jovem menina em 1830.
+
 [^2]:
-    [The World Bank](https://web.archive.org/web/20190125210957/http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx) estimated that 735 million people lived in extreme poverty in 2015, meaning that they earned less than $1.90 per day (in 2011 prices). Thus, an annual income of $35,000 corresponds to 50 times the annual income of a person living just below the extreme poverty line.
+     [O Banco Mundial](https://data.worldbank.org/) estimou que que 734 milhões de pessoas viviam na pobreza extrema em 2015, o que significa que elas ganhavam menos que US$ 1,90 por dia (em preços de 2011). Assim, uma renda anual de US$ 35.000 corresponde a 50 vezes a renda anual de uma pessoa que vive logo abaixo da linha da pobreza extrema.
 
-[^3]: Cf. Drupp et al. (2018). [Discounting Disentangled](http://www.lse.ac.uk/GranthamInstitute/wp-content/uploads/2015/06/Working-Paper-172-Drupp-et-al.pdf). _American Economic Journal: Economic Policy_, 10 (4): 109–34.
-[^4]: GiveWell estimates that their top charities have saved children’s lives at an average cost of between $3000 and $5500, suggesting at least a year gained per $100. See GiveWell (2024). [How Much Does It Cost To Save a Life](https://www.givewell.org/how-much-does-it-cost-to-save-a-life).
-[^5]: GiveWell (2024). [Mass Distribution of Insecticide-Treated Nets (ITNs)](https://www.givewell.org/international/technical/programs/insecticide-treated-nets).
+[^3]:
+     Cf. Drupp et al. (2018). [Discounting Disentangled](http://www.lse.ac.uk/GranthamInstitute/wp-content/uploads/2015/06/Working-Paper-172-Drupp-et-al.pdf). _American Economic Journal: Economic Policy_, 10 (4): 109-34.
+
+[^4]:
+     GiveWell (2019). [Your Donation Can Change Someone's Life](https://www.givewell.org/giving101/Changing-Someones-Life).
+
+[^5]:
+     GiveWell (2018). [Mass Distribution of Long-Lasting Insecticide-Treated Nets (LLINs)](https://www.givewell.org/international/technical/programs/insecticide-treated-nets).
+
 [^6]:
-    In 2013, Peter Singer gave a [TED talk on effective altruism](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en).
+     Em 2013, Peter Singer deu uma [palestra TED sobre o altruísmo eficaz](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en). Para uma introdução mais detalhada e recente ao altruísmo eficaz, veja MacAskill, W. (2019). [Effective Altruism](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7205d104c7bf5cc8f1dca/1539776611190/Effective+Altruism+-+Introduction.pdf). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.). Observe que o Professor William MacAskill, coautor deste site, é também coautor desse artigo.
 
-    For a more detailed and recent introduction to effective altruism, see MacAskill, W. (forthcoming). [Effective Altruism](https://www.williammacaskill.com/s/MacAskill_Effective_Altruism-1.pdf). _The Norton Introduction to Ethics_, Elizabeth Harman & Alex Guerrero (eds.). For a response to criticisms, see Chappell (2024) [Why Not Effective Altruism?](https://philpapers.org/rec/CHAWNE). _Public Affairs Quarterly_ 38 (1): 3-21.
-[^7]: For a detailed philosophical discussion of effective altruism, see the 16 articles included in Greaves, H. & Pummer, T. (2019). _[Effective Altruism: Philosophical Issues](https://doi.org/10.1093/oso/9780198841364.001.0001)_. Oxford: Oxford University Press.
+[^7]:
+     Para uma discussão filosófica detalhada sobre o altruísmo eficaz, veja os 16 artigos incluídos em Greaves, H. & Pummer, T. (2019). [Effective Altruism: Philosophical Issues](https://academic.oup.com/book/32430?login=false). Oxford: Oxford University Press.
+
 [^8]:
-    “It is true that effective altruism has some similarities with utilitarianism: it is maximising, it is primarily focused on improving wellbeing, many members of the community make significant sacrifices in order to do more good, and many members of the community self-describe as utilitarians.”
+     “É verdade que o altruísmo eficaz tem algumas semelhanças com o utilitarismo: é maximizador, está focado primeiramente na melhoraria do bem-estar, muitos membros da comunidade fazem sacrifícios significativos a fim de fazer mais bem e muitos membros da comunidade descrevem a si mesmos como utilitaristas."
 
-    MacAskill, W. (2019). The Definition of Effective Altruism. In Greaves, H. & Pummer, T (ed.). _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
+     MacAskill, W. (2019). The Definition of Effective Altruism. Em Greaves, H. & Pummer, T (ed.). _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
 
-[^9]: See MacAskill, W. (2019). The Definition of Effective Altruism. In Greaves, H. & Pummer, T (ed.). _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
+[^9]:
+     Veja MacAskill, W. (2019). The Definition of Effective Altruism. Em Greaves, H. & Pummer, T (ed.). _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
+
 [^10]:
-    Effective altruism “is compatible with egalitarianism, prioritarianism, and, because it does not claim that wellbeing is the only thing of value, with views on which non-welfarist goods are of value.”
+     O altruísmo eficaz “é compatível com o igualitarismo, com o prioritarismo e, porque não afirma que o bem-estar é a única coisa de valor, com visões nas quais bens não bem-estaristas são de valor”.
 
-    MacAskill, W. (2019). The Definition of Effective Altruism. In Greaves, H. & Pummer, T (ed.). _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
+     MacAskill, W. (2019). The Definition of Effective Altruism. Em Greaves, H. & Pummer, T (ed.). _Effective Altruism: Philosophical Issues_. Oxford: Oxford University Press.
 
-[^11]: Parfit, D. (2017). _[On What Matters, Volume Three](https://en.wikipedia.org/wiki/On_What_Matters)_. Oxford: Oxford University Press, pp. 436–437.
-[^12]: For instance, Peter Singer’s book [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/) makes the case for the ethical importance of improving global health and international development. Singer, P. (2019). _[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/)_, 2nd ed. The Life You Can Save, Bainbridge Island, WA and Sydney, available free at <www.thelifeyoucansave.org>.
-[^13]: Dattani, S.; Spooner, F.; Ritchie, H. & Roser, M. (2023). [Child & Infant Mortality](https://ourworldindata.org/child-mortality). _Our World In Data_.
-[^14]: Dattani, S.; Spooner, F.; Ritchie, H. & Roser, M. (2023). [Child & Infant Mortality](https://ourworldindata.org/child-mortality). _Our World In Data_.
-[^15]: GiveWell (2019). [Your Dollar Goes Further Overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
-[^16]: GiveWell (2024). [Our Top Charities](https://www.givewell.org/charities/top-charities). See also [GiveDirectly](https://www.givedirectly.org/).
-[^17]: Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.), pp. 143–144.
-[^18]: As explained in Chapter 6: [Utilitarianism and Practical Ethics](/utilitarianism-and-practical-ethics#speciesism), giving equal moral consideration to all animals does not necessarily imply that we should treat them all the same.
-[^19]: Sanders, B. (2018). [Global Animal Slaughter Statistics And Charts](https://faunalytics.org/global-animal-slaughter-statistics-and-charts/). _Faunalytics_.
-[^20]: Anthis, K. and Anthis, J. (2019). [Global Farmed & Factory Farmed Animals Estimates](https://www.sentienceinstitute.org/global-animal-farming-estimates). _Sentience Institute_.
-[^21]: Šimčikas, S. (2019). [Corporate campaigns affect 9 to 120 years of chicken life per dollar spent](https://forum.effectivealtruism.org/posts/L5EZjjXKdNgcm253H/corporate-campaigns-affect-9-to-120-years-of-chicken-life). _Effective Altruism Forum_.
-[^22]: Cf. Animal Charity Evaluators (2024). [Why Farmed Animals?](https://animalcharityevaluators.org/donation-advice/why-farmed-animals/)
+[^11]:
+     Parfit, D. (2017). [On What Matters, Volume Three](https://en.wikipedia.org/wiki/On_What_Matters). Oxford: Oxford University Press., pp. 436-437.
+
+[^12]:
+     Por exemplo, o livro de Peter Singer [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/) (a edição do aniversário de 10 anos está disponível para ser baixada gratuitamente) faz uma defesa da importância ética de melhorar a saúde global e o desenvolvimento internacional.
+
+[^13]:
+     Roser, M.; Ritchie, H. & Dadonaite, B. (2019). [Child & Infant Mortality](https://ourworldindata.org/child-mortality). _Our World In Data_.
+
+[^14]:
+     Roser, M.; Ritchie, H. & Dadonaite, B. (2019). [Child & Infant Mortality](https://ourworldindata.org/child-mortality). _Our World In Data_.
+
+[^15]:
+     GiveWell (2019). [Your Dollar Goes Further Overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
+
+[^16]:
+     GiveWell (2019). [Top Charities](https://www.givewell.org/charities/top-charities).
+
+[^17]:
+     Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.)., pp. 143-144.
+
+[^18]:
+     Conforme explicado no capítulo [O Utilitarismo e a Ética Prática](https://www.utilitarianism.net/utilitarianism-and-practical-ethics#speciesism), dar consideração igual a todos os animais não implica necessariamente que deveríamos tratá-los todos igualmente.
+
+[^19]:
+     Sanders, B. (2018). [Global Animal Slaughter Statistics And Charts](https://faunalytics.org/global-animal-slaughter-statistics-and-charts/). _Faunalytics_.
+
+[^20]:
+     Witwicki, K. (2019). [Global Farmed & Factory Farmed Animals Estimates](https://www.sentienceinstitute.org/global-animal-farming-estimates). _Sentience Institute_.
+
+[^21]:
+     Šimčikas, S. (2019). [Corporate campaigns affect 9 to 120 years of chicken life per dollar spent](https://forum.effectivealtruism.org/posts/L5EZjjXKdNgcm253H/corporate-campaigns-affect-9-to-120-years-of-chicken-life). _Effective Altruism Forum_.
+
+[^22]:
+     Cf. Animal Charity Evaluators (2016). [Why Farmed Animals?](https://animalcharityevaluators.org/donation-advice/why-farmed-animals/)
+
 [^23]:
-    Parfit, D. (1984). _Reasons and Persons_. Oxford: Oxford University Press, p. 454.
+     Parfit, D. (1984). _Reasons and Persons_. Oxford: Oxford University Press., p. 454.
 
-    Note that this isn't technically accurate. Some conceivable dystopias (containing vast suffering) would be even worse than human extinction.
+[^24]:
+     Para uma discussão sobre o longotermismo e os seus pressupostos subjacentes, veja Greaves, H. & MacAskill, W. (2019). [The case for strong longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_. Observe que o Professor William MacAskill, coautor deste site, é também coautor desse artigo.
 
-[^24]: For a discussion of longtermism and its underlying assumptions, see Greaves, H. & MacAskill, W. (2021). [The case for strong longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_ Working Paper No. 5-2021.
 [^25]:
-    Ord, T. (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing, p. 37.
+     Ord, T. (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing., p. 37.
 
-    We'll focus on extinction risk as the simplest example of this, but one can also imagine outcomes in which humanity survives, but with its long-term potential permanently hobbled.
+     Focaremos no risco de extinção como o exemplo mais simples disso, mas também podemos imaginar resultados nos quais a humanidade sobrevive, porém com seu potencial de longo prazo permanentemente prejudicado.
 
-[^26]: Cf. Bostrom, N (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://www.cambridge.org/core/journals/utilitas/article/astronomical-waste-the-opportunity-cost-of-delayed-technological-development/2969D64410332BD099F36BAFC5B2ADE5). _Utilitas_. 15(3): 308–314.
-[^27]: Cf. Nick Beckstead (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/file/d/0B8P94pg6WYCIc0lXSUVYS1BnMkE/view?resourcekey=0-nk6wM1QIPl0qWVh2z9FG4Q)_. PhD Dissertation, Rutgers University. Section 3: The Case for Shaping the Far Future.
-[^28]: Roser, M. (2019). [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts). _Our World In Data_.
-[^29]: Cf. Bostrom, N. (2013). [Existential Risks as a Global Priority](https://www.existential-risk.org/concept.html). _Global Policy_. 4(1): 15–31.
-[^30]: Cf. MacAskill, W. (2014). _[Doing Good Better: Effective Altruism and How You Can Make a Difference](https://www.effectivealtruism.org/doing-good-better/)_. New York: Random House. Chapter 1.
-[^31]: Note that William MacAskill, coauthor of this website, is a cofounder of _Giving What We Can_.
-[^32]: Caviola, L., Schubert, S., Teperman, E., Moss, D., Greenberg, S., & Faber, N. (2020). [Donors vastly underestimate differences in charities’ effectiveness.](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/122268/Caviola%20et%20al._2020_JDM.pdf) _Judgment and Decision Making_. 15(4): 509–516.
+[^26]:
+     Cf. Bostrom, N (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://www.cambridge.org/core/journals/utilitas/article/astronomical-waste-the-opportunity-cost-of-delayed-technological-development/2969D64410332BD099F36BAFC5B2ADE5). _Utilitas_. 15(3): 308–314.
+
+[^27]:
+     Cf. Nick Beckstead (2013). [On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/file/d/0B8P94pg6WYCIc0lXSUVYS1BnMkE/view?resourcekey=0-nk6wM1QIPl0qWVh2z9FG4Q). PhD Dissertation, Rutgers University., Section 3: The Case for Shaping the Far Future.
+
+[^28]:
+     Roser, M. (2019). [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts). _Our World In Data_.
+
+[^29]:
+     Cf. Bostrom, N. (2013). [Existential Risks as a Global Priority](https://www.existential-risk.org/concept.html). _Global Policy_. 4(1): 15–31.
+
+[^30]:
+     Cf. MacAskill, W. (2014). [Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/). New York: Random House. Chapter 1. Observe que o Professor William MacAskill, coautor deste site, é o autor de _Doing Good Better_.
+
+[^31]:
+     Observe que o Professor William MacAskill, coautor deste site, é cofundador da Giving What We Can.
+
+[^32]:
+     Caviola, L., Schubert, S., Teperman, E., Moss, D., Greenberg, S., & Faber, N. (2020). [Donors vastly underestimate differences in charities’ effectiveness.](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/122268/Caviola%20et%20al._2020_JDM.pdf) _Judgment and Decision Making_. 15(4): 509-516.
+
 [^33]:
-    GiveWell (2019). [Your Dollar Goes Further When You Fund the Right Program](https://www.givewell.org/giving101/Funding-the-Right-Program).
+     GiveWell (2019). [Your Dollar Goes Further When You Fund the Right Program](https://www.givewell.org/giving101/Funding-the-Right-Program). e Cf. Ord, T. (2011). [The Moral Imperative toward Cost-Effectiveness in Global Health](https://pdfs.semanticscholar.org/1016/bb6788716e7b489c08853ce64f0063870a4b.pdf). _Center for Global Development_.
 
-    Ord, T. (2011). [The Moral Imperative toward Cost-Effectiveness in Global Health](https://pdfs.semanticscholar.org/1016/bb6788716e7b489c08853ce64f0063870a4b.pdf). _Center for Global Development_.
+[^34]:
+     GiveWell (2019). [Your Dollar Goes Further Overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
 
-[^34]: GiveWell (2019). [Your Dollar Goes Further Overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
-[^35]: Stevenson & Wolfers (2013). [Subjective Well-Being and Income: Is There Any Evidence of Satiation?](https://www.nber.org/papers/w18992). _American Economic Review, American Economic Association_. 103(3): 598–604.
-[^36]: Dunn, E.; Gilbert, D. & Wilson, T. (2011). [If money doesn't make you happy, then you probably aren't spending it right](https://psycnet.apa.org/record/2011-17293-002). _Journal of Consumer Psychology_. 21(2): 115–125.
-[^37]: For more detail, see MacAskill, W.; Mogensen, A. & Ord, T. (2018). [Giving Isn’t Demanding](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7196aec212dd54a839425/1539774891904/Giving+Isn%27t+Demanding.pdf). In Woodruff, P. (ed.) _The Ethics of Giving: Philosophers' Perspectives on Philanthropy_. Oxford: Oxford University Press, pp. 178–203.
-[^38]: Note that William MacAskill, coauthor of this website, is a cofounder of 80,000 Hours.
-[^39]: Cf. Todd, B. (2017). [We reviewed over 60 studies about what makes for a dream job. Here’s what we found](https://80000hours.org/career-guide/job-satisfaction/). _80,000 Hours_.
-[^39a]: Though for an alternative perspective that puts much more weight on pursuing "excited curiosity", see Graham, P. (2023). [How to Do Great Work](https://paulgraham.com/greatwork.html).
-[^39b]: But note also the high risk of political efforts proving counterproductive. Consider, for example, environmental regulations that make it more difficult to build new solar, wind, and nuclear power plants to replace harmful coal power.
-[^40]: Note that William MacAskill, coauthor of this website, is the author of several of the listed resources on effective altruism. Moreover, he is a cofounder of both 80,000 Hours and _Giving What We Can_.
+[^35]:
+     Stevenson & Wolfers (2013). [Subjective Well-Being and Income: Is There Any Evidence of Satiation?](https://www.nber.org/papers/w18992). _American Economic Review, American Economic Association_. 103(3): 598-604.
+
+[^36]:
+     Dunn, E.; Gilbert, D. & Wilson, T. (2011). [If money doesn't make you happy, then you probably aren't spending it right](https://psycnet.apa.org/record/2011-17293-002). _Journal of Consumer Psychology_. 21(2): 115-125.
+
+[^37]:
+     Para mais detalhes, veja MacAskill, W.; Mogensen, A. & Ord, T. (2018). [Giving Isn’t Demanding](https://static1.squarespace.com/static/5506078de4b02d88372eee4e/t/5bc7196aec212dd54a839425/1539774891904/Giving+Isn%27t+Demanding.pdf).   Em Woodruff, P. (ed.) _The Ethics of Giving: Philosophers' Perspectives on Philanthropy_. Oxford: Oxford University Press., pp. 178-203. Observe que o Professor William MacAskill, coautor deste site, é um coautor desse artigo.
+
+[^38]:
+     Observe que o Professor William MacAskill, coautor deste site, é cofundador da 80,000 Hours.
+
+[^39]:
+     Cf. Todd, B. (2017). [We reviewed over 60 studies about what makes for a dream job. Here’s what we found](https://80000hours.org/career-guide/job-satisfaction/). _80,000 Hours_.
+
+[^40]:
+     Observe que o Professor William MacAskill, coautor deste site, é o autor de várias das fontes listadas sobre o altruísmo eficaz. Além disso, ele é cofundador tanto da 80,000 Hours quanto da Giving What We Can.

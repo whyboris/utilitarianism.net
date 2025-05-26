@@ -34,7 +34,7 @@ Uma das tentativas mais proeminentes e influentes de criar tal teoria é o _util
 
 Embora a história não possa nos dizer diretamente qual teoria moral está correta, o raciocínio moral utilitarista tem um forte histórico de contribuição ao progresso moral coletivo da humanidade — sugerindo que pode haver ao menos algo moralmente salutar nessas ideias. Os utilitaristas clássicos dos séculos XVIII e XIX tinham atitudes sociais e políticas que estavam muito à frente do seu tempo: como reformador social progressista, [Jeremy Bentham](https://www.utilitarismo.net/utilitarian-thinker/jeremy-bentham) defendeu temáticas como a separação da igreja e do estado; a abolição da escravidão e da pena de morte; regulamentações legais para proteger criminosos e animais não humanos de tratamentos cruéis;[^3] e a descriminalização da homossexualidade.[^4] De fato, os seus manuscritos sobre a homossexualidade eram tão liberais que o seu editor os escondeu do público após a morte de Bentham. Só foram eles publicados dois séculos depois.
 
-[John Stuart Mill](https://www.utilitarismo.net/utilitarian-thinker/john-stuart-mill) defendeu a provisão de assistência social para os pobres e a liberdade de expressão. Ele foi o segundo Membro do Parlamento do Reino Unido a pedir o sufrágio feminino[^5] e defendeu a igualdade de gênero no sentido mais geral. Em seu ensaio[ A Sujeição das Mulheres](https://www.utilitarianism.net/books/the-subjection-of-women-john-stuart-mill/1)[^6] Mill defendeu que
+[John Stuart Mill](https://www.utilitarismo.net/utilitarian-thinker/john-stuart-mill) defendeu a provisão de assistência social para os pobres e a liberdade de expressão. Ele foi o segundo Membro do Parlamento do Reino Unido a pedir o sufrágio feminino[^5] e defendeu a igualdade de gênero no sentido mais geral. Em seu ensaio [A Sujeição das Mulheres](https://www.utilitarianism.net/books/the-subjection-of-women-john-stuart-mill/1)[^6] Mill defendeu que
 
 > _“o princípio que regula as relações sociais existentes entre os dois sexos — a subordinação legal de um sexo ao outro — é errado em si mesmo e é agora um dos principais empecilhos para o melhoramento humano; e que ele deve ser substituído por um princípio de perfeita igualdade, admitindo nenhum poder ou privilégio num lado ou incapacidade no outro.”_[^7]
 
@@ -118,7 +118,6 @@ O próximo capítulo discute sobre os quatro elementos das teorias utilitaristas
 * Derek Parfit (2011/17). [On What Matters](https://en.wikipedia.org/wiki/On_What_Matters). Oxford: Oxford University Press.
 * Yew-Kwang Ng (1990). [Welfarism and Utilitarianism: A Rehabilitation](https://www.cambridge.org/core/journals/utilitas/article/abs/welfarism-and-utilitarianism-a-rehabilitation/B3EB95B2102BD32D6E71614AA706E88C). _Utilitas_. 2(2): 171–193.
 
-
 [^1]:
      _Mòzǐ_ 32: 1, Tradução de C. Fraser.
 
@@ -133,7 +132,7 @@ O próximo capítulo discute sobre os quatro elementos das teorias utilitaristas
      Cf. Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.).; e Campos Boralevi, L. (2012). [Bentham and the Oppressed](https://books.google.com/books?id=BccgAAAAQBAJ&pg=PA37). Berlin: De Gruyter.
 
 [^5]:
-     The UK Parliament,[ The 1866 Women's Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
+     The UK Parliament, [The 1866 Women's Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
 
 [^6]:
      Mill atribui muitas das ideias em _A Sujeição das Mulheres_ à sua esposa, Harriet Taylor Mill. Veja Mill, J. S. (1873). [Autobiography](http://www.earlymoderntexts.com/assets/pdfs/mill1873e.pdf). Bennet, J. (ed.)., p. 166.
