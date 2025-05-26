@@ -170,7 +170,7 @@ Vimos que a objeção da “separação das pessoas” ao utilitarismo pode toma
      Essa é uma citação do resumo conciso de Derek Parfit do experimento mental, em p. 375 de Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio_, 16(4): 368–390.
 
 [^16]:
-     As subseções seguintes foram tiradas diretamente da seção 3.2 de Chappell, R.Y. (2021).* Parfit's Ethics*. Cambridge University Press. Observe que Chappell é coautor deste site.
+     As subseções seguintes foram tiradas diretamente da seção 3.2 de Chappell, R.Y. (2021). _Parfit's Ethics_. Cambridge University Press. Observe que Chappell é coautor deste site.
 
 [^17]:
      Parfit, D. (2003). [Justifiability to Each Person](https://dx.doi.org/10.1046/j.1467-9329.2003.00229.x). _Ratio_, 16(4): 368–390. E se os telespectadores estiverem numa situação ainda pior? Daí a explicação de Parfit falha, mas ele poderia sugerir confortavelmente que nesse caso melhorar ligeiramente a situação daqueles em pior situação realmente deveria ser priorizado em detrimento de oferecer maior alívio a um só indivíduo que já está num estado melhor do que esses outros.
