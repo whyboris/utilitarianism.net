@@ -15,7 +15,7 @@ gradientBottom: "#371E87"
 
 {{< TOC >}}
 
-# Introdução {#introdução}
+## Introdução {#introdução}
 
 Segundo a moralidade do senso comum e muitas teorias não utilitaristas, há certas *restrições morais* que jamais deveríamos violar. Essas restrições são expressas em regras morais como "Não minta!" e "Não mate!". Essas regras são intuitivamente plausíveis. Isso apresenta um problema para o utilitarismo. A razão para isso é que o utilitarismo não só especifica quais resultados são os melhores — aqueles que têm o maior nível de bem-estar no geral — como também diz que seria errado não realizar tais resultados.
 
@@ -27,7 +27,7 @@ Segundo a moralidade do senso comum e muitas teorias não utilitaristas, há cer
 
 Os proponentes do utilitarismo poderiam [responder a essa objeção de quatro maneiras](https://www.utilitarismo.net/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). Passaremos por uma de cada vez.
 
-# Acomodar a Intuição {#acomodar-a-intuição}
+## Acomodar a Intuição {#acomodar-a-intuição}
 
 Uma primeira resposta utilitarista ao experimento mental poderia ser *acomodar a intuição *contra matar Carlos mostrando-se que o utilitarismo *efetivamente* não implica que o médico deveria matá-lo para usar seus órgãos. Os críticos do utilitarismo presumem que, em O Transplante, o médico matando Carlos causará melhores consequências. Mas essa pressuposição pode ser questionada. Se as autoridades do hospital e o público geral soubessem desse incidente, um escândalo de grande porte resultaria. As pessoas ficariam apavoradas de ir ao médico. Como consequência, muito mais pessoas morreriam, ou sofreriam de problemas de saúde graves, devido a não serem diagnosticadas ou tratadas pelos seus médicos. Visto que matar Carlos não tem claramente o melhor resultado, e pode até ter um resultado terrível, o utilitarismo não necessariamente implica que o médico deveria matá-lo.
 
@@ -35,13 +35,13 @@ Ainda que estipulemos que o cenário é uma situação incomum em que matar Carl
 
 Esta é uma defesa generalizável do utilitarismo contra uma ampla gama de supostos contraexemplos. Tais "contraexemplos" nos convidam a imaginar que uma classe de ações tipicamente desastrosas (como matar uma pessoa inocente) simplesmente calha, neste caso especial, de produzir o melhor resultado. Mas o agente no caso imaginado geralmente não tem um bom fundamento para desconsiderar o típico risco de desastre. Assim, seria inaceitavelmente arriscado ele realizar o ato tipicamente desastroso.[^3] Maximizamos o valor esperado ao evitarmos tais riscos.[^4] Para todos os propósitos práticos, o utilitarismo recomenda que [deveríamos nos abster de comportamentos que violam direitos](https://utilitarismo.net/utilitarianism-and-practical-ethics/#respecting-commonsense-moral-norms).
 
-# Desmistificar a Intuição {#desmistificar-a-intuição}
+## Desmistificar a Intuição {#desmistificar-a-intuição}
 
 Uma segunda estratégia para lidar com o caso do transplante é desmistificar a intuição contra matar Carlos mostrando-se que a intuição é inconfiável. Um utilitarista poderia argumentar que é quase sempre errado cometer homicidio e que deveríamos cultivar uma forte disposição de caráter e normas sociais contra o assassinato. Portanto, a nossa intuição contra matar Carlos resulta de termos adotado uma norma moral geral contra o assassinato. Embora essa norma esteja correta na vasta maioria dos casos, ela pode falhar naquelas circunstâncias muito excepcionais em que matar alguém, na realidade, geraria as melhores consequências.
 
 Podemos também nos preocupar com a possibilidade de a intuição refletir [uma forma questionável de viés do status quo](https://www.utilitarismo.net/arguments-for-utilitarianism#status-quo-bias). Por mais terrível que seja que Carlos morra prematuramente, não é — diante da reflexão ⁠— igualmente terrível que qualquer *um* dos cinco beneficiários potenciais morra prematuramente? Por que é que achamos tão mais fácil ignorar os seus interesses nesta situação, e o que poderia justificar tal negligência? Há razões práticas pelas quais pode fazer mais bem instituir direitos *contra sermos mortos* do que direitos *de que salvem nossas vidas*, e o “código público” de moralidade recomendado pelo utilitarista pode refletir isso. Mas, quando consideramos um caso específico, não há nenhuma razão óbvia para um direito ser mais importante (muito menos cinco vezes mais importante) do que o outro, como questão de princípios. Assim, prestar atenção às reivindicações morais dos cinco que poderiam morrer pode servir para enfraquecer a nossa intuição inicial de que o que importa mais é simplesmente que Carlos não seja morto.
 
-# Atacar as Alternativas {#atacar-as-alternativas}
+## Atacar as Alternativas {#atacar-as-alternativas}
 
 Uma terceira resposta ao caso do transplante é *atacar as alternativas disponíveis* ao utilitarismo para mostrar que elas têm implicações ainda mais contraintuitivas.
 
@@ -59,7 +59,7 @@ Uma objeção ao moderado é que a sua posição é *incoerente*. O fundamento q
 
 O problema com o absolutismo é que essa posição é ainda mais contraintuitiva que o utilitarismo. Se continuarmos aumentando o número de vidas que poderíamos salvar matando Carlos — digamos, de um milhão para um bilhão, e assim por diante —, logo se tornará absurdo afirmar que fazê-lo não é permissível. Essa posição parece ainda mais absurda quando consideramos casos envolvendo incerteza. Por exemplo, parece que o absolutista se compromete a dizer que não é permissível realizarmos o procedimento médico em Carlos, ainda que tenha apenas uma pequena chance de matá-lo e tenha a garantia de salvar milhões de pessoas.
 
-# Tolerar a Intuição {#tolerar-a-intuição}
+## Tolerar a Intuição {#tolerar-a-intuição}
 
 A resposta final é o defensor do utilitarismo “segurar as pontas”, agarrando-se à afirmação de que deveríamos — nesta situação hipotética — matar Carlos apesar da intuição de que matar Carlos é errado. É lamentável que o único modo de salvar a vida de cinco outras pessoas envolva a morte de Carlos. Ainda assim, a ação correta pode ser matá-lo, visto que permite que as outras cinco pessoas continuem a viver, cada qual tendo experiências significativas e desfrutando de suas vidas tanto quanto Carlos teria desfrutado da dele. A morte de Carlos, embora algo infeliz, é *estipulada *pelo experimento mental como algo necessário para criarmos um mundo onde haja tanto bem-estar quanto possível.
 
@@ -71,7 +71,7 @@ Claro, é importante enfatizarmos que a vida real não vem com nenhuma estipula�
 
 {{< button >}}
 
-# Recursos e Leituras Adicionais {#recursos-e-leituras-adicionais}
+## Recursos e Leituras Adicionais {#recursos-e-leituras-adicionais}
 
 * Katarzyna de Lazari-Radek & Peter Singer (2017). [Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&). Oxford: Oxford University Press. Chapter 4: Objections, Section “Does utilitarianism tell us to act immorally?”.
 * Krister Bykvist (2010). [Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/). London: Continuum. Chapter 8: Is Utilitarianism too Permissive?
