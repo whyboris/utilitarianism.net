@@ -15,7 +15,7 @@ gradientBottom: "#430A4A"
 
 {{< TOC >}}
 
-# Introdução {#introdução}
+## Introdução {#introdução}
 
 Há um amplo acordo sobre que o autointeresse (ou a prudência) exige que uma pessoa agregue danos e benefícios entre diferentes momentos _dentro_ da sua vida, a fim de maximizar o seu bem-estar geral. Por exemplo, irmos ao dentista é prudente, embora seja imediatamente desagradável, porque ajuda a evitar males maiores aos nossos eus futuros. As teorias consequencialistas agregativas como o utilitarismo dão um passo além: elas agregam danos e benefícios _entre_ as vidas de diferentes pessoas, a fim de maximizar o bem-estar social geral. Pode valer a pena impor danos a alguns indivíduos, afirmam os utilitaristas, se isso prevenir danos maiores aos outros. Isso leva alguns críticos a afirmarem que o utilitarismo negligencia a significância moral das fronteiras entre os indivíduos.
 
@@ -23,17 +23,17 @@ Esta objeção da _separação das pessoas_ foi enunciada mais celebremente por 
 
 > [O utilitarismo] é a consequência de estender-se à sociedade o princípio de escolha para um homem, e daí fazer-se essa extensão funcionar misturando-se todas as pessoas em uma só (...) O utilitarismo não leva a sério a distinção entre as pessoas.[^1]
 
-Apesar da sua influência, o raciocínio por trás dessa objeção pode ser difícil de determinar precisamente. A ideia de que os utilitaristas têm de “mistur[ar] todas as pessoas em uma só” parece presumir que eles (i) *começam *com “o princípio de escolha para um homem” e daí (ii) argumentam a favor da sua visão com base na ideia de que toda a sociedade deve ser tratada (talvez metaforicamente) como apenas mais outro indivíduo. Mas, de fato, muitos argumentos utilitaristas, conforme exposto no capítulo sobre os [argumentos para o utilitarismo](https://www.utilitarismo.net/arguments-for-utilitarianism), _não_ tomam essa forma. Logo, essa interpretação da objeção parece tacanha demais. Ela poderia derrubar um argumento particular para o utilitarismo, mas o utilitarismo, em si, pode ainda ser bem apoiado com base em outra coisa.
+Apesar da sua influência, o raciocínio por trás dessa objeção pode ser difícil de determinar precisamente. A ideia de que os utilitaristas têm de “mistur[ar] todas as pessoas em uma só” parece presumir que eles (i) _começam_ com “o princípio de escolha para um homem” e daí (ii) argumentam a favor da sua visão com base na ideia de que toda a sociedade deve ser tratada (talvez metaforicamente) como apenas mais outro indivíduo. Mas, de fato, muitos argumentos utilitaristas, conforme exposto no capítulo sobre os [argumentos para o utilitarismo](https://www.utilitarismo.net/arguments-for-utilitarianism), _não_ tomam essa forma. Logo, essa interpretação da objeção parece tacanha demais. Ela poderia derrubar um argumento particular para o utilitarismo, mas o utilitarismo, em si, pode ainda ser bem apoiado com base em outra coisa.
 
 Numa interpretação mais ampla, podemos tomar a objeção como afirmando que respeitar a distinção entre as pessoas requer tratar conflitos interpessoais (aqueles _entre_ vidas) de modo diferente de conflitos intrapessoais (aqueles _dentro_ de uma vida). Nessa interpretação, são as implicações do utilitarismo, não o argumento que levou a ele, que são vistas como questionáveis. Mas qual é a defesa afirmativa para tratarmos de modos diferentes escolhas de bens conflitantes intrapessoais e interpessoais?[^2] O restante deste artigo explora três argumentos candidatos, com base (1) na compensação, (2) na fungibilidade e (3) em intuições antiagregativas.
 
-# Compensação {#compensação}
+## Compensação {#compensação}
 
 A interpretação paradigmática da separação das pessoas a entende como uma questão de _compensação_.[^3] O agente que é prejudicado é _compensado_ se ele posteriormente recebe um benefício maior como resultado, ao passo que ele não recebe nenhuma compensação se o benefício vai para outra pessoa. Como Nozick o colocou: “Usar uma pessoa [para o benefício de outra] (...) não respeita nem leva em consideração suficientemente o fato de que ela é uma pessoa separada, que a vida dela é a única que ela tem. _Ela_ não recebe algum bem que contrabalance o seu sacrifício.”[^4]
 
 Os utilitaristas podem responder que não deveríamos ajudar os outros somente por interesse próprio.[^5] Os ricos podem não se beneficiar pessoalmente de [doarem mais para organizações que salvam vidas](https://www.utilitarismo.net/acting-on-utilitarianism#global-health-and-development), mas eles devem fazê-lo mesmo assim, pois os seus interesses pessoais _não são os únicos que importam_. Toda pessoa necessitada é um indivíduo, igualmente merecedor de respeito e preocupação moral, vivendo a única vida que _ele_ tem. Quando o utilitarismo nos orienta a ajudar os outros, ele não nega que os outros são distintos de nós. Ele meramente nega o pressuposto [egoísta](https://www.utilitarismo.net/near-utilitarian-alternatives#egoism-and-partialism) de que a distinção deles significa que eles não deveriam importar para nós. E, de fato, dificilmente isso é uma exclusividade do utilitarismo. Como escrevem Katarzyna de Lazari-Radek e [Peter Singer](https://www.utilitarismo.net/utilitarian-thinker/peter-singer), “Qualquer um que apoie taxar pessoas de renda mais alta e usar a sua arrecadação para prover benefícios aos outros deve concordar que às vezes é justificável impor um custo a uma pessoa para beneficiar outra”.[^6] Se rejeitamos o egoísmo, devemos também rejeitar a pressuposição de que a compensação é essencial para a justificação moral.[^7]
 
-# Fungibilidade {#fungibilidade}
+## Fungibilidade {#fungibilidade}
 
 Uma preocupação mais profunda é que o utilitarismo pode parecer tratar indivíduos como inteiramente fungíveis ou substituíveis sem remorsos. Como Peter Singer caracteriza a visão: “É como se seres sencientes fossem receptáculos de algo de valor, e não importa se um receptáculo é quebrado contanto que haja outro receptáculo aos quais os seus conteúdos possam ser transferidos sem que nada seja derramado.”[^8]
 
@@ -51,7 +51,7 @@ Essa resposta utilitarista rejeita a pressuposição de que a _comensurabilidade
 
 Isso é, talvez, mais claro quando consideramos outras formas de (suposto) valor: uma amante da arte poderia valorizar intrinsecamente cada item na sua coleção de arte, e ainda assim estar disposta a abafar um incêndio com uma pintura, caso isso fosse salvar outras cinco. Valorizando cada pintura separadamente, ela lamentará a perda da pintura única que assim é destruída. Mas ela pode considerar que vale a pena o sacrifício, não obstante. Nada na sua atitude aqui revela uma atitude instrumental, num sentido questionável, para com as suas obras de arte. Assim como essa consequencialista quanto à arte respeita a separação das pinturas, o utilitarista (ou o consequencialista quanto ao bem-estar) respeita a separação das pessoas.
 
-# Intuições Antiagregativas {#intuições-antiagregativas}
+## Intuições Antiagregativas {#intuições-antiagregativas}
 
 Finalmente, os críticos poderiam aceitar que o utilitarismo realmente valoriza separadamente pessoas individuais, mas só que _não da maneira certa_. Nessa visão, há algo de intuitivamente problemático na [agregação](https://www.utilitarismo.net/types-of-utilitarianism#aggregationism) utilitarista. Em vez de somar os interesses de diferentes pessoas, visões estritamente antiagregativas podem defender uma abordagem _maximin_, que simplesmente busca melhorar a posição daqueles na pior situação. Com escreve Nagel:
 
@@ -65,7 +65,7 @@ Ainda assim, há casos particulares em que a agregação utilitarista (intuitiva
 
 Intuitivamente, não importa quantas pessoas estejam assistindo à partida de futebol, é simplesmente _mais importante_ salvar Jonas de sofrer as dores severas durante esse tempo.[^16]
 
-## Acomodar a Intuição {#acomodar-a-intuição}
+### Acomodar a Intuição {#acomodar-a-intuição}
 
 Por que é mais importante salvar Jonas? Uma resposta é que não podemos agregar interesses distintos, de modo que tudo que nos resta fazer é satisfazer seja qual for a mais forte reivindicação moral, a saber, a de Jonas. Mas Parfit sugere uma explicação alternativa — uma explicação [prioritarista](https://www.utilitarismo.net/near-utilitarian-alternatives#prioritarianism): devemos ajudar Jonas talvez porque ele está numa situação muito pior, e assim tem maior prioridade moral.[^17]
 
@@ -75,13 +75,13 @@ Parfit argumenta que a sua explicação prioritarista é preferível à abordage
 
 Logo, em vez de nos recusarmos a agregar benefícios menores, Parfit sugere que simplesmente pesemos danos e benefícios de um modo que dê prioridade àqueles em pior situação. Duas implicações atraentes dessa visão são que: (1) em geral, não devemos permitir que enormes males recaiam sobre uma só pessoa, se isso a deixar numa situação muito pior do que outras com interesses concorrentes; (2) mas devemos permitir que benefícios (suficientemente) pequenos àqueles em pior situação (quando somados) superem um único grande benefício a alguém em melhor situação. Visto que precisamos da agregação a fim de garantirmos a afirmação (2) e podemos garantir a afirmação (1) sem termos de rejeitar a agregação, parece que as nossas intuições são, no geral, mais bem servidas aceitando uma teoria moral agregativa.
 
-## Desmistificar a Intuição {#desmistificar-a-intuição}
+### Desmistificar a Intuição {#desmistificar-a-intuição}
 
 Intuições comuns sofrem de insensibilidade ao escopo, refletindo a nossa incapacidade de compreender grandes números.[^18] As nossas intuições não respondem de modo muito diferente se o número de interesses concorrentes é um milhão, um bilhão ou um _[googolplex](https://pt.m.wikipedia.org/wiki/Googolplex)_. Mas é imensa a diferença real em termos de valor entre esses números. Logo, não devemos confiar nas nossas intuições quando elas tratam esses números vastamente diferentes como moralmente iguais. Os utilitaristas assim podem se sentir confortáveis ao rejeitarem intuições antiagregativas como especialmente inconfiáveis.
 
 Até os prioritaristas, apesar dos argumentos de Parfit descritos acima, podem acabar precisando seguir o utilitarista na aceitação de uma resposta desmistificadora. Considere que os críticos podem insistir que a explicação prioritarista de Parfit não pode representar totalmente bem a nossa intuição inicial sobre o caso da sala de transmissão. Seja concedido que uma pesagem prioritarista suficiente pode explicar como o sofrimento de Jonas pode superar o prazer agregado de um milhão, ou até um bilhão, de torcedores de futebol em melhor situação. Mas contanto que a pesagem prioritarista seja finita, haverá _algum_ número (talvez astronomicamente grande) de prazeres menores que poderia, na teoria, superar o sofrimento de Jonas. Neste ponto, os defensores da agregação podem simplesmente aceitar essa implicação e sugerir que qualquer desconforto intuitivo residual com essa conclusão seja mais bem explicado como um erro resultante da negligência com o escopo.
 
-## Atacar as Alternativas {#atacar-as-alternativas}
+### Atacar as Alternativas {#atacar-as-alternativas}
 
 Contra o utilitarismo, poderíamos ser tentados a pensar que alguns benefícios são tão _triviais_ que devíamos arredondá-los para zero, em vez de permitir que a soma de vastos números seja algo moralmente significante. Mas Parfit prova que esse modo de pensar é um erro. Para enxergar o porquê, considere a seguinte afirmação aparentemente plausível:
 
@@ -99,7 +99,7 @@ A segunda razão pela qual a afirmação de independência é importante aqui é
 
 Pondo tudo isso em conjunto, portanto, os defensores do agregacionismo podem oferecer uma resposta bifurcada aos seus críticos. Primeiro, as nossas intuições antiagregativas iniciais podem ser rejeitadas por explicação. E segundo, ao refletirmos mais vemos que princípios antiagregativos teriam implicações que são provavelmente mais questionáveis que aquelas do agregacionismo.
 
-# Conclusão {#conclusão}
+## Conclusão {#conclusão}
 
 Vimos que a objeção da “separação das pessoas” ao utilitarismo pode tomar três formas, das quais nenhuma é decisiva. A objeção da _compensação_ depende de pressupostos egoístas implausíveis. A objeção da _fungibilidade_ envolve uma concepção equivocada: o utilitarismo não precisa tratar indivíduos distintos como fungíveis. Finalmente, por mais que intuições antiagregativas tenham alguma força, também vimos que há modos para os utilitaristas resistirem a elas e que essas visões antiagregativas encaram dificuldades ainda piores.
 
@@ -109,7 +109,7 @@ Vimos que a objeção da “separação das pessoas” ao utilitarismo pode toma
 
 {{< button >}}
 
-# Recursos e Leituras Adicionais {#recursos-e-leituras-adicionais}
+## Recursos e Leituras Adicionais {#recursos-e-leituras-adicionais}
 
 * David Brink. (2020). [Consequentialism, the Separateness of Persons, and Aggregation](https://www.doi.org/10.1093/oxfordhb/9780190905323.013.14). Em Douglas W. Portmore (ed.) _The Oxford Handbook of Consequentialism_. Oxford University Press.
 * Richard Y. Chappell. (2021). [Parfit’s Ethics](https://philpapers.org/rec/CHAPE-5), section 3.2. Cambridge University Press. (Observe que Chappell é coautor deste site.)
