@@ -159,34 +159,34 @@ O próximo capítulo discute sobre teorias rivais importantes que podem coincidi
 
 ### Há alguma Diferença entre Causar e Permitir Danos? {#há-alguma-diferença-entre-causar-e-permitir-danos}
 
-* Fiona Woollard & Frances Howard-Snyder (2016).[Doing vs. Allowing Harm](https://plato.stanford.edu/entries/doing-allowing/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+* Fiona Woollard & Frances Howard-Snyder (2016). [Doing vs. Allowing Harm](https://plato.stanford.edu/entries/doing-allowing/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 * Jonathan Bennett (1995). _The Act Itself_. Oxford University Press.
 
 ### O Círculo Moral em Expansão
 
-* Peter Singer (1997).[The Drowning Child and the Expanding Circle](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxlaHNhcGxhbmd1YWdlMjAxNXxneDoyNTNjNmMyNDBlN2JmMjMy)_. New Internationalist_.
-* Peter Singer (1981).[The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle). Princeton: Princeton University Press.
+* Peter Singer (1997). [The Drowning Child and the Expanding Circle](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxlaHNhcGxhbmd1YWdlMjAxNXxneDoyNTNjNmMyNDBlN2JmMjMy)_. New Internationalist_.
+* Peter Singer (1981). [The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle). Princeton: Princeton University Press.
 
 ### O Cosmopolitismo: Expandindo o Círculo Moral Perpassando a Geografia {#o-cosmopolitismo-expandindo-o-círculo-moral-perpassando-a-geografia}
 
 * [Poverty & Our Response to It: Crash Course Philosophy #44](https://youtu.be/D5sknLy7Smo)
-* Peter Singer (2009).[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/). New York: Penguin Random House. (O livro está disponível para baixar gratuitamente)
-* Peter Singer (1972).[Famine, Affluence, and Morality](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Singer_1972Famine.pdf). _Philosophy & Public Affairs_. 1(2): 229–243.
-* Samuel Scheffler (1999).[Conceptions of Cosmopolitanism](https://www.cambridge.org/core/journals/utilitas/article/conceptions-of-cosmopolitanism/28D86759086069E2A97FF730F13C274D). _Utilitas_. 11(3): 255–276.
+* Peter Singer (2009). [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/). New York: Penguin Random House. (O livro está disponível para baixar gratuitamente)
+* Peter Singer (1972). [Famine, Affluence, and Morality](http://personal.lse.ac.uk/robert49/teaching/mm/articles/Singer_1972Famine.pdf). _Philosophy & Public Affairs_. 1(2): 229–243.
+* Samuel Scheffler (1999). [Conceptions of Cosmopolitanism](https://www.cambridge.org/core/journals/utilitas/article/conceptions-of-cosmopolitanism/28D86759086069E2A97FF730F13C274D). _Utilitas_. 11(3): 255–276.
 
 ### O Antiespecismo: Expandindo o Círculo Moral Perpassando as Espécies {#o-antiespecismo-expandindo-o-círculo-moral-perpassando-as-espécies}
 
 * [Non-Human Animals: Crash Course Philosophy #42](https://youtu.be/y3-BX-jN_Ac)
 * Peter Singer (1975). _[Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book))._ New York: HarperCollins.
-* Jeff McMahan (2002).[Animals](https://drive.google.com/open?id=0B4kMPIEI5Mb8YzJPSXVRMy04YkU). Em R. G. Frey and Christopher Wellman (eds.), _The Blackwell Companion to Applied Ethics_. Oxford: Blackwell., pp. 525–536.
-* Jeff Sebo (2019).[A Utilitarian Case for Animal Rights](https://www.youtube.com/watch?v=vELWCTgA9oA). _Effective Altruism Global_.
+* Jeff McMahan (2002). [Animals](https://drive.google.com/open?id=0B4kMPIEI5Mb8YzJPSXVRMy04YkU). Em R. G. Frey and Christopher Wellman (eds.), _The Blackwell Companion to Applied Ethics_. Oxford: Blackwell., pp. 525–536.
+* Jeff Sebo (2019). [A Utilitarian Case for Animal Rights](https://www.youtube.com/watch?v=vELWCTgA9oA). _Effective Altruism Global_.
 
 ### O Longotermismo: Expandindo o Círculo Moral Perpassando o Tempo {#o-longotermismo-expandindo-o-círculo-moral-perpassando-o-tempo}
 
-* Toby Ord (2020).[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing.
-* Hilary Greaves & William MacAskill (2019).[The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_.
-* Nick Beckstead (2013).[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM)_._ PhD Dissertation, Rutgers University.
-* Nick Bostrom (2003).[Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://drive.google.com/open?id=0B4kMPIEI5Mb8WTJGckNSNG5seWs). _Utilitas_. 15(3): 308–314.
+* Toby Ord (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing.
+* Hilary Greaves & William MacAskill (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_.
+* Nick Beckstead (2013). [On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/open?id=0B4kMPIEI5Mb8Q0tOUTA1M0hBcGM)_._ PhD Dissertation, Rutgers University.
+* Nick Bostrom (2003). [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://drive.google.com/open?id=0B4kMPIEI5Mb8WTJGckNSNG5seWs). _Utilitas_. 15(3): 308–314.
 * William MacAskill (2022). _[What We Owe the Future](https://whatweowethefuture.com/)._ Basic Books.
 
 ### O Respeito às Normas Morais do Senso Comum {#o-respeito-às-normas-morais-do-senso-comum}
@@ -200,47 +200,47 @@ O próximo capítulo discute sobre teorias rivais importantes que podem coincidi
      Sidgwick, H. (1981). _The Methods of Ethics_. Hackett Publishing. Book IV, p. 414.
 
 [^2]:
-     Para uma discussão sobre a exigência no contexto do alívio da pobreza global, veja Singer, P. (2009).[The Life You Can Save](https://www.thelifeyoucansave.org/the-book/). New York: Penguin Random House LLC.
+     Para uma discussão sobre a exigência no contexto do alívio da pobreza global, veja Singer, P. (2009). [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/). New York: Penguin Random House LLC.
 
 [^3]:
-     GiveWell (2019).[Your dollar goes further overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
+     GiveWell (2019). [Your dollar goes further overseas](https://www.givewell.org/giving101/Your-dollar-goes-further-overseas).
 
 [^4]:
-     Berman, J. Z., Barasch, A., Levine, E. E., & Small, D. A. (2018).[Impediments to Effective Altruism: The Role of Subjective Preferences in Charitable Giving](https://journals.sagepub.com/doi/10.1177/0956797617747648). _Psychological Science_. 29(5): 834–844.
+     Berman, J. Z., Barasch, A., Levine, E. E., & Small, D. A. (2018). [Impediments to Effective Altruism: The Role of Subjective Preferences in Charitable Giving](https://journals.sagepub.com/doi/10.1177/0956797617747648). _Psychological Science_. 29(5): 834–844.
 
 [^5]:
-     A defesa da neutralidade quanto a causas é feita em Effective Altruism Foundation (2017).[The Benefits of Cause-Neutrality](https://ea-foundation.org/blog/the-benefits-of-cause-neutrality-2/).
+     A defesa da neutralidade quanto a causas é feita em Effective Altruism Foundation (2017). [The Benefits of Cause-Neutrality](https://ea-foundation.org/blog/the-benefits-of-cause-neutrality-2/).
 
 [^6]:
-     Ord, T. (2013).[The Moral Imperative Towards Cost-Effectiveness in Global Health](https://pdfs.semanticscholar.org/1016/bb6788716e7b489c08853ce64f0063870a4b.pdf). _Center for Global Development_.
+     Ord, T. (2013). [The Moral Imperative Towards Cost-Effectiveness in Global Health](https://pdfs.semanticscholar.org/1016/bb6788716e7b489c08853ce64f0063870a4b.pdf). _Center for Global Development_.
 
 [^7]:
-     Cf. Singer, P. (1981).[The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle). Princeton: Princeton University Press.
+     Cf. Singer, P. (1981). [The Expanding Circle: Ethics, Evolution, and Moral Progress](https://press.princeton.edu/books/paperback/9780691150697/the-expanding-circle). Princeton: Princeton University Press.
 
 [^8]:
-     Singer, P. (2011).[Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics). Cambridge: Cambridge University Press., p. 50.
+     Singer, P. (2011). [Practical Ethics](https://en.wikipedia.org/wiki/Practical_Ethics). Cambridge: Cambridge University Press., p. 50.
 
 [^9]:
-     Cf. MacAskill, W. (2015).[Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/). New York: Penguin Random House. Chapter 1. Observe que o Professor William MacAskill, coautor deste site, é o autor de _Doing Good Better_.
+     Cf. MacAskill, W. (2015). [Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.effectivealtruism.org/doing-good-better/). New York: Penguin Random House. Chapter 1. Observe que o Professor William MacAskill, coautor deste site, é o autor de _Doing Good Better_.
 
 [^10]:
-     Singer, P. (2002).[Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book)). New York: HarperCollins Publishers., p. 9.
-    De fato, há evidências da psicologia que sugerem que o especismo caminha lado a lado com outras atitudes discriminatórias como o racismo, o sexismo e a homofobia: Cf. Caviola, L; Everett, J. A. C. & Faber, N. S. (2017).[The Moral Standing of Animals: Towards a Psychology of Speciesism](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fpspp0000182). _Journal of Personality and Social Psychology_. 116(6): 1011–1029.
+     Singer, P. (2002). [Animal Liberation](https://en.wikipedia.org/wiki/Animal_Liberation_(book)). New York: HarperCollins Publishers., p. 9.
+    De fato, há evidências da psicologia que sugerem que o especismo caminha lado a lado com outras atitudes discriminatórias como o racismo, o sexismo e a homofobia: Cf. Caviola, L; Everett, J. A. C. & Faber, N. S. (2017). [The Moral Standing of Animals: Towards a Psychology of Speciesism](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fpspp0000182). _Journal of Personality and Social Psychology_. 116(6): 1011–1029.
 
 [^11]:
      Por exemplo, veja a[Cambridge Declaration on Consciousness](https://en.wikipedia.org/wiki/Animal_consciousness#Cambridge_Declaration_on_Consciousness) de Low, P. et al. (2012).
 
 [^12]:
-     Ray, G. (2017).[How Many Wild Animals Are There?](https://reducing-suffering.org/how-many-wild-animals-are-there/). _Wild Animal Suffering Research_.
+     Ray, G. (2017). [How Many Wild Animals Are There?](https://reducing-suffering.org/how-many-wild-animals-are-there/). _Wild Animal Suffering Research_.
 
 [^13]:
      Há um debate acadêmico em andamento sobre a importância moral do bem-estar dos animais selvagens. Por exemplo, veja o seguinte:
-    Ng, Y. (1995).[Towards Welfare Biology: Evolutionary Economics of Animal Consciousness and Suffering](https://link.springer.com/article/10.1007/BF00852469). _Biology and Philosophy_. 10 (3): 255–285.[doi:10.1007/BF00852469](https://doi.org/10.1007%2FBF00852469)
-    McMahan, J. (2013).[The Moral Problem of Predation](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203154410-18/moral-problem-predation-jeff-mcmahan). Em Chignell, A; Cuneo, T. & Halteman, M. (eds.). _Philosophy Comes to Dinner: Arguments on the Ethics of Eating_. London: Routledge.
-    Moen, O. M. (2016).[The Ethics of Wild Animal Suffering](http://www.olemartinmoen.com/wp-content/uploads/TheEthicsofWildAnimalSuffering.pdf). _Etikk I Praksis - Nordic Journal of Applied Ethics_. **10**: 1–14.
+    Ng, Y. (1995). [Towards Welfare Biology: Evolutionary Economics of Animal Consciousness and Suffering](https://link.springer.com/article/10.1007/BF00852469). _Biology and Philosophy_. 10 (3): 255–285. [doi:10.1007/BF00852469](https://doi.org/10.1007%2FBF00852469)
+    McMahan, J. (2013). [The Moral Problem of Predation](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203154410-18/moral-problem-predation-jeff-mcmahan). Em Chignell, A; Cuneo, T. & Halteman, M. (eds.). _Philosophy Comes to Dinner: Arguments on the Ethics of Eating_. London: Routledge.
+    Moen, O. M. (2016). [The Ethics of Wild Animal Suffering](http://www.olemartinmoen.com/wp-content/uploads/TheEthicsofWildAnimalSuffering.pdf). _Etikk I Praksis - Nordic Journal of Applied Ethics_. **10**: 1–14.
 
 [^14]:
-     Para mais discussão sobre esse tópico, recomendamos esta entrevista com o pesquisador Persis Eskander:  Eskander, P. (2019).[Animals in the wild often suffer a great deal. What, if anything, should we do about that?](https://80000hours.org/podcast/episodes/persis-eskander-wild-animal-welfare/). _80,000 Hours Podcast with Rob Wiblin_.
+     Para mais discussão sobre esse tópico, recomendamos esta entrevista com o pesquisador Persis Eskander:  Eskander, P. (2019). [Animals in the wild often suffer a great deal. What, if anything, should we do about that?](https://80000hours.org/podcast/episodes/persis-eskander-wild-animal-welfare/). _80,000 Hours Podcast with Rob Wiblin_.
 
 [^15]:
      Adams, F. C. (2008). Long-Term Astrophysical Processes. Em Bostrom, N. and Cirkovic, M. (eds.)[Global Catastrophic Risks](https://global.oup.com/academic/product/global-catastrophic-risks-9780199606504?cc=de&lang=en&). Oxford: Oxford University Press.
@@ -249,13 +249,13 @@ O próximo capítulo discute sobre teorias rivais importantes que podem coincidi
      Para uma discussão sobre essa ideia e os seus pressupostos subjacentes, veja Beckstead, N. (2013). _[On the Overwhelming Importance of Shaping the Far-Future](https://drive.google.com/file/d/0B8P94pg6WYCIc0lXSUVYS1BnMkE/view?resourcekey=0-nk6wM1QIPl0qWVh2z9FG4Q)_. PhD Dissertation, Rutgers University.
 
 [^17]:
-     Cf. Greaves, H. & MacAskill, W. (2019).[The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_. Section 4.1. Observe que o Professor William MacAskill, coautor deste site, é também um coautor desse artigo.
+     Cf. Greaves, H. & MacAskill, W. (2019). [The Case for Strong Longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/). _Global Priorities Institute_. Section 4.1. Observe que o Professor William MacAskill, coautor deste site, é também um coautor desse artigo.
 
 [^18]:
-     Para uma discussão detalhada sobre riscos existenciais e a importância moral do futuro da humanidade no longo prazo, veja Ord, T. (2020).[The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing.
+     Para uma discussão detalhada sobre riscos existenciais e a importância moral do futuro da humanidade no longo prazo, veja Ord, T. (2020). [The Precipice: Existential Risk and the Future of Humanity](https://theprecipice.com/). London: Bloomsbury Publishing.
 
 [^19]:
-     Para um artigo clássico sobre a importância de reduzirmos riscos existenciais, veja Bostrom, N. (2013).[Existential Risk Prevention as Global Priority](http://www.existential-risk.org/concept.pdf). _Global Policy_. **4** (1): 15–3.
+     Para um artigo clássico sobre a importância de reduzirmos riscos existenciais, veja Bostrom, N. (2013). [Existential Risk Prevention as Global Priority](http://www.existential-risk.org/concept.pdf). _Global Policy_. **4** (1): 15–3.
 
 [^20]:
      Observe que o Professor William MacAskill, coautor deste site, é também um coautor desse artigo.

@@ -133,31 +133,31 @@ O próximo capítulo discute sobre várias das mais importantes objeções ao ut
 
 ### Além do Bem-Estarismo {#além-do-bem-estarismo}
 
-* Richard Routley (1973).[Is there a need for a new, an environmental, ethic?](https://doi.org/10.5840/wcp151973136). _Proceedings of the XVth World Congress of Philosophy_, 1: 205–210.
-* Elizabeth Anderson (1999).[What is the Point of Equality?](https://doi.org/10.1086/233897) _Ethics_ 109 (2): 287–337.
-* Derek Parfit (1997).[Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_, 10 (3): 202–221.
+* Richard Routley (1973). [Is there a need for a new, an environmental, ethic?](https://doi.org/10.5840/wcp151973136). _Proceedings of the XVth World Congress of Philosophy_, 1: 205–210.
+* Elizabeth Anderson (1999). [What is the Point of Equality?](https://doi.org/10.1086/233897) _Ethics_ 109 (2): 287–337.
+* Derek Parfit (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_, 10 (3): 202–221.
 
 ### Prioritarismo {#prioritarismo}
 
-* Derek Parfit (1997).[Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_, 10(3): 202–221.
-* Johan E. Gustafsson (2021).[Ex-Ante Prioritarianism Violates Sequential Ex Ante Pareto](https://doi.org/10.1017/S0953820821000303). _Utilitas,_ 1–11.
-* Joshua Greene & Jonathan Baron (2001).[Intuitions about Declining Marginal Utility](https://dx.doi.org/10.2139/ssrn.231183). _Journal of Behavioral Decision Making_, 14: 243–55.
+* Derek Parfit (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_, 10(3): 202–221.
+* Johan E. Gustafsson (2021). [Ex-Ante Prioritarianism Violates Sequential Ex Ante Pareto](https://doi.org/10.1017/S0953820821000303). _Utilitas,_ 1–11.
+* Joshua Greene & Jonathan Baron (2001). [Intuitions about Declining Marginal Utility](https://dx.doi.org/10.2139/ssrn.231183). _Journal of Behavioral Decision Making_, 14: 243–55.
 
 ### Visões Ajustadas ao Mérito {#visões-ajustadas-ao-mérito}
 
-* Fred Feldman (1995).[Adjusting utility for justice: A consequentialist reply to the objection from justice](https://dx.doi.org/10.2307/2108439). _Philosophy and Phenomenological Research_, 55(3): 567–585.
+* Fred Feldman (1995). [Adjusting utility for justice: A consequentialist reply to the objection from justice](https://dx.doi.org/10.2307/2108439). _Philosophy and Phenomenological Research_, 55(3): 567–585.
 
 ### Egoísmo e Parcialismo {#egoísmo-e-parcialismo}
 
 * Simon Keller (2013). _Partiality_. Princeton University Press.
 * Derek Parfit (1984). Part Two: Rationality and Time,[Reasons and Persons](https://en.wikipedia.org/wiki/Reasons_and_Persons). Clarendon Press.
-* Andreas Mogensen (2019).[The only ethical argument for positive 𝛿?](https://globalprioritiesinstitute.org/andreas-mogensen-the-only-ethical-argument-for-positive-delta-2/). por vir em _Philosophical Studies_.
-* Troy Jollimore (2018).[Impartiality](https://plato.stanford.edu/entries/impartiality/)_. The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
-* Robert Goodin (1988).[What is so special about our fellow countrymen?](https://dx.doi.org/10.1086/292998) _Ethics_ 98(4): 663–686.
+* Andreas Mogensen (2019). [The only ethical argument for positive 𝛿?](https://globalprioritiesinstitute.org/andreas-mogensen-the-only-ethical-argument-for-positive-delta-2/). por vir em _Philosophical Studies_.
+* Troy Jollimore (2018). [Impartiality](https://plato.stanford.edu/entries/impartiality/)_. The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+* Robert Goodin (1988). [What is so special about our fellow countrymen?](https://dx.doi.org/10.1086/292998) _Ethics_ 98(4): 663–686.
 
 ### Além do Consequencialismo {#além-do-consequencialismo}
 
-* John Taurek (1977).[Should the numbers count?](https://www.jstor.org/stable/2264945). _Philosophy and Public Affairs_, 6(4): 293–316.
+* John Taurek (1977). [Should the numbers count?](https://www.jstor.org/stable/2264945). _Philosophy and Public Affairs_, 6(4): 293–316.
 * David Ross (1930). _The Right and the Good_. Clarendon Press.
 * Elizabeth Ashford (2003)[The Demandingness of Scanlon's Contractualism](https://doi.org/10.1086/342853). _Ethics_ 113(2): 273–302.
 

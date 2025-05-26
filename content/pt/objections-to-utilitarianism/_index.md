@@ -77,14 +77,14 @@ Em artigos separados, discutimos sobre as seguintes críticas ao utilitarismo:
 
 # Recursos e Leituras Adicionais {#recursos-e-leituras-adicionais}
 
-- Katarzyna de Lazari-Radek & Peter Singer (2017).[Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&). Oxford: Oxford University Press. Chapter 4: Objections.
+- Katarzyna de Lazari-Radek & Peter Singer (2017). [Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en&). Oxford: Oxford University Press. Chapter 4: Objections.
 - J. J. C. Smart & Bernard Williams (1973). _Utilitarianism: For and Against_. Cambridge: Cambridge University Press.
 
 [^1]:
      de Lazari-Radek, K. & Singer, P. (2017). _Utilitarianism: A Very Short Introduction._ Oxford: Oxford University Press. Preface.
 
 [^2]:
-     Para uma discussão sobre argumentos desmistificadores evolucionistas, veja Hanson, R. (2002).[Why Health Is Not Special: Errors In Evolved Bioethics Intuitions](http://mason.gmu.edu/~rhanson/bioerr.pdf). _Social Philosophy & Policy_. 19(2): 153–79. Veja também a discussão em nosso capítulo sobre os [Argumentos para o Utilitarianismo.](https://www.utilitarismo.net/arguments-for-utilitarianism#evolutionary-debunking-arguments)
+     Para uma discussão sobre argumentos desmistificadores evolucionistas, veja Hanson, R. (2002). [Why Health Is Not Special: Errors In Evolved Bioethics Intuitions](http://mason.gmu.edu/~rhanson/bioerr.pdf). _Social Philosophy & Policy_. 19(2): 153–79. Veja também a discussão em nosso capítulo sobre os [Argumentos para o Utilitarianismo.](https://www.utilitarismo.net/arguments-for-utilitarianism#evolutionary-debunking-arguments)
 
 [^3]:
      Especialistas em saúde pública recomendam manter um distanciamento social de 2 m ou mais de casos hipotéticos bobos a todo momento, para não [infectarem](https://www.utilitarismo.net/objections-to-utilitarianism/abusability/) o seu entendimento do [que o utilitarismo efetivamente exige na prática](https://www.utilitarismo.net/acting-on-utilitarianism/). Se um contato mais próximo for necessário, proteja a si mesmo e os outros primeiramente ao se informar sobre [a defesa utilitarista para respeitarmos normas do senso comum](https://www.utilitarismo.net/utilitarianism-and-practical-ethics/#respecting-commonsense-moral-norms), explicada no Capítulo 6.

@@ -100,22 +100,22 @@ O próximo capítulo discute sobre os quatro elementos das teorias utilitaristas
 ### Introdução
 
 * [Utilitarianism: Crash Course Philosophy #36](https://youtu.be/-a739VjqdSI)
-* Katarzyna de Lazari-Radek & Peter Singer (2017).[ Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en). Oxford: Oxford University Press.
-* Krister Bykvist (2010).[ Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/). London: Continuum.
+* Katarzyna de Lazari-Radek & Peter Singer (2017). [Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en). Oxford: Oxford University Press.
+* Krister Bykvist (2010). [Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/). London: Continuum.
 * Kwame Anthony Appiah. [What is Utiiltarianism?](https://www.youtube.com/watch?v=wd_peZ-zNwo), Royal Institute of Philosophy _15-Minute Masterclass_.
 
 ### Os Clássicos
 
-* Jeremy Bentham (1789).[ An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf).
-* John Stuart Mill (1863).[ Utilitarianism](https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/1).
-* Henry Sidgwick (1874).[ The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf).
+* Jeremy Bentham (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf).
+* John Stuart Mill (1863). [Utilitarianism](https://www.utilitarianism.net/books/utilitarianism-john-stuart-mill/1).
+* Henry Sidgwick (1874). [The Methods of Ethics](https://www.earlymoderntexts.com/assets/pdfs/sidgwick1874.pdf).
 
 ### Leituras Adicionais
 
-* Julia Driver (2014).[ The History of Utilitarianism](https://plato.stanford.edu/entries/utilitarianism-history/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
-* Bart Schultz (2017).[ The Happiness Philosophers: The Lives and Works of the Great Utilitarians](https://www.jstor.org/stable/j.ctt1vwmggk). Princeton: Princeton University Press.
-* James Crimmins (2017).[ The Bloomsbury Encyclopedia of Utilitarianism](https://www.bloomsbury.com/uk/the-bloomsbury-encyclopedia-of-utilitarianism-9781350021693/). Bloomsbury.
-* Derek Parfit (2011/17).[ On What Matters](https://en.wikipedia.org/wiki/On_What_Matters). Oxford: Oxford University Press.
+* Julia Driver (2014). [The History of Utilitarianism](https://plato.stanford.edu/entries/utilitarianism-history/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
+* Bart Schultz (2017). [The Happiness Philosophers: The Lives and Works of the Great Utilitarians](https://www.jstor.org/stable/j.ctt1vwmggk). Princeton: Princeton University Press.
+* James Crimmins (2017). [The Bloomsbury Encyclopedia of Utilitarianism](https://www.bloomsbury.com/uk/the-bloomsbury-encyclopedia-of-utilitarianism-9781350021693/). Bloomsbury.
+* Derek Parfit (2011/17). [On What Matters](https://en.wikipedia.org/wiki/On_What_Matters). Oxford: Oxford University Press.
 * Yew-Kwang Ng (1990). [Welfarism and Utilitarianism: A Rehabilitation](https://www.cambridge.org/core/journals/utilitas/article/abs/welfarism-and-utilitarianism-a-rehabilitation/B3EB95B2102BD32D6E71614AA706E88C). _Utilitas_. 2(2): 171–193.
 
 
@@ -123,27 +123,27 @@ O próximo capítulo discute sobre os quatro elementos das teorias utilitaristas
      _Mòzǐ_ 32: 1, Tradução de C. Fraser.
 
 [^2]:
-     Para mais detalhes, veja Williams, E. G. (2015).[ The Possibility of an Ongoing Moral Catastrophe](https://link.springer.com/article/10.1007/s10677-015-9567-7). _Ethical Theory and Moral Practice_, _18_(5), 971–982. doi: 10.1007/s10677-015-9567-7.
+     Para mais detalhes, veja Williams, E. G. (2015). [The Possibility of an Ongoing Moral Catastrophe](https://link.springer.com/article/10.1007/s10677-015-9567-7). _Ethical Theory and Moral Practice_, _18_(5), 971–982. doi: 10.1007/s10677-015-9567-7.
 
 [^3]:
      Por exemplo, Bentham comentou sobre a questão da proteção aos animais: “_A questão não é: 'Podem eles raciocinar?', tampouco: 'Podem eles falar?', mas sim: 'Podem eles sofrer?'. Por que a lei deveria recusar a sua proteção a um ser sensível que seja? Chegará o tempo em que a humanidade estenderá o seu manto sobre tudo que respira. Começamos tratando da condição dos escravos; terminaremos abrandando a de todos os animais que assistem os nossos trabalhos e suprem as nossas necessidades."_
     Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.)., pp. 143-144.
 
 [^4]:
-     Cf. Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.).; e Campos Boralevi, L. (2012).[ Bentham and the Oppressed](https://books.google.com/books?id=BccgAAAAQBAJ&pg=PA37). Berlin: De Gruyter.
+     Cf. Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.).; e Campos Boralevi, L. (2012). [Bentham and the Oppressed](https://books.google.com/books?id=BccgAAAAQBAJ&pg=PA37). Berlin: De Gruyter.
 
 [^5]:
      The UK Parliament,[ The 1866 Women's Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
 
 [^6]:
-     Mill atribui muitas das ideias em _A Sujeição das Mulheres_ à sua esposa, Harriet Taylor Mill. Veja Mill, J. S. (1873).[Autobiography](http://www.earlymoderntexts.com/assets/pdfs/mill1873e.pdf). Bennet, J. (ed.)., p. 166.
+     Mill atribui muitas das ideias em _A Sujeição das Mulheres_ à sua esposa, Harriet Taylor Mill. Veja Mill, J. S. (1873). [Autobiography](http://www.earlymoderntexts.com/assets/pdfs/mill1873e.pdf). Bennet, J. (ed.)., p. 166.
 
 [^7]:
-     Mill, J. S. (1869).[The Subjection of Women](https://www.earlymoderntexts.com/assets/pdfs/mill1869.pdf). Bennet, J. (ed.)., p. 1.
+     Mill, J. S. (1869). [The Subjection of Women](https://www.earlymoderntexts.com/assets/pdfs/mill1869.pdf). Bennet, J. (ed.)., p. 1.
 
 [^8]:
-     Sobre a pobreza extrema veja: Singer, P. (2009).[The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/). Bainbridge Island, WA: Penguin Random House LLC.
-    Sobre a pecuária industrial veja: Singer, P. (1975).[Animal Liberation: A New Ethics for Our Treatment of Animals](https://en.wikipedia.org/wiki/Animal_Liberation_(book)). New York: HarperCollins.
+     Sobre a pobreza extrema veja: Singer, P. (2009). [The Life You Can Save: Acting Now to End World Poverty](https://www.thelifeyoucansave.org/the-book/). Bainbridge Island, WA: Penguin Random House LLC.
+    Sobre a pecuária industrial veja: Singer, P. (1975). [Animal Liberation: A New Ethics for Our Treatment of Animals](https://en.wikipedia.org/wiki/Animal_Liberation_(book)). New York: HarperCollins.
 
 [^9]:
      Isso é mais inequívoco numa configuração populacional fixa, na qual as nossas ações não afetam o número ou a identidade das pessoas. Para casos mais complexos, veja a discussão sobre [ética populacional](https://www.utilitarismo.net/population-ethics/) no Capítulo 5.
