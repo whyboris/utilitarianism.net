@@ -1,6 +1,6 @@
 ---
-title: "A Objeção da Igualdade"
-slug: "igualdade"
+title: "The Equality Objection"
+slug: "equality"
 authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 type: "page"
@@ -15,59 +15,59 @@ gradientBottom: "#260380"
 
 {{< TOC >}}
 
-## A objeção da Igualdade
+## The Equality Objection
 
-Alguns argumentam que o utilitarismo entra em conflito com o ideal da igualdade. Suponha, por exemplo, que você possa escolher entre duas possíveis distribuições de bem-estar, _Igualdade_ e _Desigualdade_: Igualdade tem 1.000 pessoas com nível de bem-estar 45, enquanto Desigualdade tem 500 pessoas com nível de bem-estar 80 e outras 500 com nível de bem-estar 20.
+Some argue that utilitarianism conflicts with the ideal of equality. Suppose, for example, that you could choose between two possible distributions of well-being, Equality and Inequality: Equality has 1,000 people at well-being level 45, while Inequality has 500 people at 80 well-being and another 500 people at 20 well-being.
 
-[Image]
+![Utilitarianism and equality - objections to utilitarianism](/img/equality1.svg "Utilitarianism and equality - objections to utilitarianism")
 
-À luz do utilitarismo, somente a soma total do bem-estar é que determina a bondade de um resultado: não importa como o bem-estar seja distribuído entre as pessoas. Dado que a soma total de bem-estar é maior em Desigualdade do que em Igualdade, o resultado desigual é preferível de acordo com o utilitarismo.
+By the lights of utilitarianism, only the sum total of well-being determines the goodness of an outcome: it does not matter how that well-being is distributed across people. Since the sum total of well-being is greater in Inequality than in Equality, the unequal outcome is preferable according to utilitarianism.
 
-Alguns filósofos objetam à visão utilitarista com respeito a essa escolha, afirmando que a distribuição igual de bem-estar em Igualdade fornece uma razão para escolhermos esse resultado. Nessa visão, o bem-estar total não é tudo o que importa; a igualdade de distribuição também importa. A igualdade, afirmam, é uma consideração moral importante que o utilitarista ignora.
+Some philosophers object to the utilitarian view regarding this choice, claiming that the equal distribution of well-being in Equality provides a reason to choose this outcome. On this view, total well-being is not all that matters; equality of distribution also matters. Equality, it is claimed, is an important moral consideration that the utilitarian overlooks.
 
-Os proponentes do utilitarismo poderiam [responder a esta objeção de quatro maneiras](https://www.utilitarismo.net/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). Passaremos por cada uma delas.
+Proponents of utilitarianism might [respond to this objection in four ways](/objections-to-utilitarianism#general-ways-of-responding-to-objections-against-utiliarianism). We will go through these in turn.
 
-## Acomodar a Intuição
+## Accommodating the Intuition
 
-A primeira resposta a esta objeção é ressaltar que os utilitaristas aceitam que a igualdade é um conceito orientador extremamente importante em nossa tomada de decisão cotidiana. A diferença é meramente que os utilitaristas valorizam a igualdade por causa dos seus benefícios instrumentais, ao invés da sua importância intrínseca.
+The first response to this objection is to point out that utilitarians accept that equality is an extremely important guiding concept in our everyday decision making. The difference is merely that utilitarians value equality because of its instrumental benefits, rather than because it is intrinsically important.
 
-Os utilitaristas se importam profundamente com a igualdade em grande parte porque a maioria dos bens exibe _utilidade marginal decrescente_. Isso significa que, quanto mais um indivíduo já tem de um bem particular, como dinheiro ou roupas bacanas, menos ele se beneficia de ter mais desse bem. Isso fornece uma forte razão instrumental para os utilitaristas se importarem com a igualdade na distribuição de bens. A utilidade marginal decrescente de bens implica que podemos com frequência aumentar o bem-estar geral redistribuindo dos que possuem para os que não possuem. Ademais, uma excessiva desigualdade entre as pessoas pode causar conflito social e ser ruim para a sociedade no longo prazo. Isso fornece uma razão a mais para preferirmos distribuições iguais de riqueza entre as pessoas.
+Utilitarians care deeply about equality largely because most goods exhibit _diminishing marginal utility_. This means that the more an individual already has of a particular good, such as money or nice clothes, the less they benefit from having even more of it. This provides a strong instrumental reason for utilitarians to care about equality in distributing goods. The diminishing marginal utility of goods implies that we can often increase overall well-being by redistributing from the haves to the have-nots. Also, excessive inequality between people may cause social conflict and harm society in the long run. This provides an additional reason to prefer equal distributions of wealth among people.
 
-Em termos práticos, os utilitaristas utilizam o seu tempo e dinheiro para melhorar as vidas dos grupos mais desprivilegiados no mundo, tentando criar um mundo mais equitativo para todos.
+As a practical matter, many utilitarians use their time and money to improve the lives of the most disadvantaged, trying to create a more equitable world for all.
 
-## Desmistificar a Intuição
+## Debunking the Intuition
 
-Uma segunda resposta à objeção é argumentar que, visto que a igualdade é instrumentalmente boa, talvez isso nos confunda fazendo-nos pensar que ela é boa em si mesma. Um utilitarista poderia argumentar que esses conceitos morais são tão valiosos para a sociedade que deveríamos cultivar fortes disposições de caráter e normas sociais para endossar, proteger e promovê-los. Portanto, a nossa intuição contra resultados desiguais particulares podem simplesmente resultar de termos abraçado uma norma moral geral a favor da igualdade. Embora as nossas intuições a favor de resultados equitativos geralmente aumentem o bem-estar, elas falham quando o melhor resultado disponível é desigual.
+A second response to the objection is to argue that since equality is instrumentally good, perhaps we get confused into thinking it is good in and of itself. A utilitarian might argue that these moral concepts are so valuable for society that we should cultivate strong character dispositions and social norms to endorse, protect and promote them. Therefore, our intuition against particular inequitable outcomes may just result from us having embraced a general moral norm in favor of equality. While our intuitions in favor of equitable outcomes generally increase well-being, they fail when the best achievable outcome is inequitable.
 
-Ademais, um utilitarista poderia argumentar que as nossas intuições na escolha entre Igualdade e Desigualdade podem ser inconfiáveis visto que não estamos acostumados a comparar efeitos diretamente sobre o bem-estar dos indivíduos envolvidos. O psicólogo moral Joshua Green argumenta que as pessoas acham difícil raciocinar quantitativamente sobre o bem-estar, visto que confundem bem-estar com bens físicos. Greene escreve:
+Furthermore, a utilitarian might argue that our intuitions in the choice between Equality and Inequality may be unreliable since we are not used to comparing outcomes directly in the well-being of the individuals involved in them. Moral psychologist Joshua Greene argues that people find it difficult to reason quantitatively about well-being, since they confuse well-being with physical goods. Greene writes:
 
-> Estamos acostumados a quantificar matéria, coisas no mundo lá fora, ou características de coisas no mundo: quantas maçãs? Quanta água? (…) Quanto dinheiro? Mas não é comum quantificarmos a qualidade das nossas experiências. E assim, quando imaginamos possíveis distribuições de [bem-estar] (…) é muito difícil não pensarmos em distribuições de matéria, em vez de distribuições de qualidade de experiência.[^1]
+> We’re used to quantifying stuff, things out in the world, or features of things in the world: How many apples? How much water?... How much money? But we don’t ordinarily quantify the quality of our experiences. And thus, when we imagine possible distributions of [well-being]... it’s very hard not to think of distributions of stuff, rather than distributions of experiential quality.[^1]
 
-Essa confusão que Greene descreve pode desencaminhar as nossas intuições na escolha entre Igualdade e Desigualdade pois estamos intuitivamente acostumados a pensar sobre bens como tendo utilidade marginal decrescente. Se os números na escolha hipotética entre Igualdade e Desigualdade representassem níveis de bens e não de bem-estar, o utilitarista escolheria o resultado igual. No entanto, seria um erro aplicarmos esse pensamento ao compararmos distribuições de bem-estar, visto que o bem-estar não exibe utilidade marginal decrescente. Por definição, uma dada unidade de bem-estar é igualmente valiosa para a pessoa a quem ela agrega, não importa quão bem ela já esteja. Assim, devemos considerar isso em nossas intuições.
+This confusion that Greene describes may mislead our intuitions in the choice between Equality and Inequality because we are intuitively used to thinking about goods as having diminishing marginal utility. If the numbers in the hypothetical choice between Equality and Inequality represented levels of goods and not well-being, the utilitarian would choose the equal outcome. However, it would be a mistake to apply this thinking when comparing distributions of well-being, since well-being does not exhibit diminishing marginal utility. By definition, a given unit of well-being is equally valuable to the person to whom it accrues no matter how well-off they are already. So we must consider this in our intuitions.
 
-Se especificarmos em dinheiro o exemplo original e usarmos a medida econômica paradigmática da taxa de rendimentos decrescentes para o dinheiro,[^2] então deveríamos representar a escolha entre Igualdade e Desigualdade como o seguinte: em Igualdade 1.000 pessoas ganham $ 13.500, ao passo que em Desigualdade 500 pessoas ganham $ 10.000 e 500 pessoas ganham $ 50.000.
+If we specify the original example in money, and use the standard economic measure of the rate of diminishing returns to money,[^2] then we should represent the choice between Equality and Inequality as follows: In Equality 1,000 people get $13,500, while in Inequality 500 people get $10,000 and 500 people get $50,000.
 
-[Image]
+![Utilitarianism and equality - objections to utilitarianism](/img/equality2.svg "Utilitarianism and equality - objections to utilitarianism")
 
-Pensamos que, colocado nesses termos, não é mais intuitivamente óbvio que a escolha utilitarista, favorecendo a Desigualdade em detrimento da Igualdade, seja a escolha errada. Todos concordariam que algum nível de desigualdade pode ser justificado por um maior total de bem-estar; como exatamente fazer essa escolha entre bens conflitantes é complicado, e não é óbvio que o utilitarismo tenha a resposta errada.
+Put in these terms, we think it's no longer intuitively obvious that the utilitarian choice, favoring Inequality over Equality, is the wrong one. Everyone would agree that some level of inequality can be justified by greater total well-being; how exactly to make this trade-off is tricky, and it's not obvious that utilitarianism gets the wrong answer.
 
-## Atacar as Alternativas
+## Rivals Fare No Better
 
-A terceira resposta é _atacar as alternativas disponíveis_ ao utilitarismo para mostrar que elas têm implicações ainda mais contraintuitivas. Por exemplo, o [igualitarismo](https://www.utilitarismo.net/near-utilitarian-alternatives#egalitarianism-and-distributive-justice) está sujeito à _Objeção do Nivelamento por Baixo_ de que ele aprova prejudicar aqueles em boa situação (sem beneficiar ninguém) visto que isso tem o efeito de aumentar a igualdade.[^3] Se você não acha que há algo de bom nesse nivelamento por baixo, então o seu juízo apoia a visão utilitarista de que a igualdade é somente valiosa instrumentalmente: valiosa quando e porque serve para promover o bem estar geral.[^4]
+The third line of response is to show that rival views have even more counterintuitive implications here. For example, [egalitarianism](/near-utilitarian-alternatives#egalitarianism-and-distributive-justice) is subject to the _Leveling Down Objection_ that it countenances harming the well-off (without benefiting anyone) since that has the effect of increasing equality.[^3] If you don't think that there's anything good about such _leveling down_ then your judgment supports the utilitarian view that equality is only valuable instrumentally: valuable when and because it serves to promote overall well-being.[^4]
 
-Podemos também mostrar que as alternativas à distribuição utilitarista de bem-estar violam um princípio chamado _Pareto_ ex ante: que, numa escolha entre duas apostas, se todos iriam racionalmente preferir aposta A a aposta B, então aposta A é melhor que aposta B.
+We can also show that the alternatives to the utilitarian distribution of well-being violate a principle called _[ex ante Pareto](/arguments-for-utilitarianism/#ex-ante-pareto)_: that, in a choice between two gambles, if everyone would rationally prefer gamble A to gamble B, then gamble A is better than gamble B.
 
-Para enxergar isso, suponha que você possa escolher uma entre duas opções de distribuição de bem-estar, Aposta Segura e Aposta Arriscada: em Aposta Segura tanto Abel quanto Bete têm 45 bem-estar garantidos. Em Aposta Arriscada, uma moeda honesta (uma que resulta em cara 50% e coroa 50% das vezes) é lançada. Se cair cara, Abel recebe 80 bem-estar e Bete recebe 20 bem-estar. Se cair coroa, Bete recebe 80 bem-estar e Abel recebe 20 bem-estar.
+To see this, suppose that you can choose between one of two options for distributions of well-being, Safe Bet and Risky Gamble: In Safe Bet both Abel and Beth are guaranteed 45 well-being. In Risky Gamble a fair coin is tossed. If it lands heads, Abel receives 80 well-being and Beth receives 20 well-being. If it lands tails, Beth receives 80 well-being and Abel receives 20 well-being.
 
-[Image]
+![Utilitarianism and equality - objections to utilitarianism](/img/equality3.svg "Utilitarianism and equality - objections to utilitarianism")
 
-Podemos estipular que tanto Abel quanto Bete iriam racionalmente preferir Aposta Arriscada a Aposta Segura. Eles iriam assim preferir porque o seu bem-estar esperado em Aposta Arriscada é de 50 (=(80+20)*50%), que é mais alto que o bem-estar esperado de 45 em Aposta Segura.[^5] Logo, se seguimos o Pareto _ex ante_, deveríamos preferir Aposta Arriscada a Aposta Segura. No entanto, Aposta Arriscada resulta num resultado desigual. Os que Preferem _Igualdade_ a _Desigualdade_ têm também de preferir _Aposta Segura_ a _Aposta Arriscada_. Eles têm de assim preferir embora isso vá de encontro ao que é mais vantajoso para todas as partes interessadas.
+We can stipulate that both Abel and Beth would rationally prefer Risky Gamble over Safe Bet. They do so because their expected well-being in Risky Gamble is 50 <span class="no-wrap">(=(80+20) x 50%)</span>, which is higher than the expected well-being in Safe Bet of 45.[^5] So, if we follow ex ante Pareto then we should prefer Risky Gamble to Safe Bet. However, Risky Gamble results in an unequal outcome. Those who preferred Equality to Inequality must therefore also prefer Safe Bet to Risky Gamble. They must do so even though doing so is against the best interests of all parties concerned.
 
-Essa objeção foi desenvolvida formalmente pelo economista John Harsanyi, que a provou em seu teorema da agregação utilitarista.[^6]
+This argument has been developed formally by the economist John Harsanyi, who proved it in his utilitarian aggregation theorem.[^6]
 
-## Tolerar a Intuição
+## Biting the Bullet
 
-Finalmente, os proponentes do utilitarismo podem novamente “segurar as pontas” e simplesmente aceitar que o utilitarismo às vezes entra em conflito com as nossas intuições de igualdade. Esses conflitos ocorrem porque os resultados favorecidos pelo utilitarismo são aqueles com os níveis mais altos de bem-estar, que nem sempre coincidem com os resultados mais igualitários. Os utilitaristas irão insistir que é melhor as pessoas, em sua totalidade, estarem numa situação melhor (ainda que esses benefícios não estejam distribuídos igualmente) do que elas todas compartilharem igualmente um nível mais baixo de bem-estar.
+Finally, proponents of utilitarianism may once again “bite the bullet” and simply accept that utilitarianism sometimes conflicts with our intuitions about equality. These conflicts occur because the outcomes favored by utilitarianism are those with the highest possible levels of overall well-being, which do not always coincide with the most egalitarian outcomes. Utilitarians will insist that it's better for people overall to be better-off (even if these benefits are not distributed equally) than for them all to share equally in a lower level of well-being.
 
 {{< next-page-objection >}}
 
@@ -75,7 +75,7 @@ Finalmente, os proponentes do utilitarismo podem novamente “segurar as pontas�
 
 {{< button >}}
 
-## Recursos e Leituras Adicionais
+## Resources and Further Reading
 
 - Roger Crisp (2003). [Equality, Priority, and Compassion](https://www.jstor.org/stable/10.1086/373954?seq=1). _Ethics_, 113(4): 745–763.
 - Toby Ord (2015). [A New Counterexample to Prioritarianism](http://amirrorclear.net/files/a-new-counterexample-to-prioritarianism.pdf). _Utilitas_, 27(3): 298–302.
@@ -83,20 +83,9 @@ Finalmente, os proponentes do utilitarismo podem novamente “segurar as pontas�
 - Larry Temkin (1993). [Inequality](https://global.oup.com/academic/product/inequality-9780195111491). New York: Oxford University Press.
 - Larry Temkin (2003). [Equality, Priority or What?](https://www.cambridge.org/core/journals/economics-and-philosophy/article/equality-priority-or-what/9FEEDE10582AE359AAB4EF545EDCD201). _Economics and Philosophy_, 19(1): 61–87.
 
-[^1]:
-     Greene, J. (2013). _Moral Tribes: Emotion, Reason, and the Gap Between Us and Them_. New York: The Penguin Press. Chapter 10.
-
-[^2]:
-     Cf. Drupp et al. (2018). [Discounting Disentangled](http://www.lse.ac.uk/GranthamInstitute/wp-content/uploads/2015/06/Working-Paper-172-Drupp-et-al.pdf). _American Economic Journal: Economic Policy_. 10(4): 109–134.
-
-[^3]:
-     Parfit, D. (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_ 10(3): 202–221.
-
-[^4]:
-     Embora isso deixe em aberto a escolha entre a [consideração igual de interesses](https://www.utilitarismo.net/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests) do utilitarista e a abordagem [prioritarista](https://www.utilitarismo.net/near-utilitarian-alternatives#prioritarianism) de atribuir peso extra aos interesses daqueles na pior situação.
-
-[^5]:
-     De fato, o modo paradigmático de definir uma grandeza de bem-estar é em termos de decisões racionais diante da incerteza. Nessa visão, o que significa um resultado fornecer 100 bem-estar é que alguém, por exemplo, deve ser indiferente entre esse resultado e uma chance de 50/50 de 200 bem-estar ou 0 bem-estar.
-
-[^6]:
-     Cf. Harsanyi, J. C. (1955). [Cardinal welfare, individualistic ethics, and interpersonal comparisons of utility](https://www.jstor.org/stable/1827128). _The Journal of Political Economy_., pp. 309–321.
+[^1]: Greene, J. (2013). _Moral Tribes: Emotion, Reason, and the Gap Between Us and Them_. New York: The Penguin Press. Chapter 10.
+[^2]: Cf. Drupp et al. (2018). [Discounting Disentangled](http://www.lse.ac.uk/GranthamInstitute/wp-content/uploads/2015/06/Working-Paper-172-Drupp-et-al.pdf). _American Economic Journal: Economic Policy_. 10(4): 109–134.
+[^3]: Parfit, D. (1997). [Equality and Priority](https://dx.doi.org/10.1111/1467-9329.00041). _Ratio_,10(3): 202–221.
+[^4]: Though this leaves open the choice between the utilitarian's [equal consideration of interests](/types-of-utilitarianism#impartiality-and-the-equal-consideration-of-interests) and the [prioritarian](/near-utilitarian-alternatives#prioritarianism) approach of giving extra weight to the interests of the worst off.
+[^5]: Indeed, the standard way of defining a magnitude of well-being is in terms of rational decisions in the face of uncertainty. On this account, what it means for an outcome to provide 100 well-being is that one, for example, ought to be indifferent between that outcome and a 50/50 chance of 200 well-being or 0 well-being.
+[^6]: Cf. Harsanyi, J. C. (1955). [Cardinal welfare, individualistic ethics, and interpersonal comparisons of utility](https://www.jstor.org/stable/1827128). _The Journal of Political Economy_, pp. 309–321.
