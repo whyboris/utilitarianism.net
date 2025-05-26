@@ -7,6 +7,8 @@ Official code for [_utilitarianism.net_](https://www.utilitarianism.net/) and it
 | English  | [utilitarianism.net](https://utilitarianism.net) |
 | German   | [utilitarismus.net](https://utilitarismus.net) |
 | Spanish  | [utilitarismo.net](https://utilitarismo.net) |
+| Portuguese  | coming soon |
+| French   | coming soon |
 
 To add a translation, please reach out to us and then follow the [recommended instructions](instructions/translating.md).
 
