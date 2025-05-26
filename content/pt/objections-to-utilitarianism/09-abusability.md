@@ -8,7 +8,7 @@ draft: false
 menu: ["objections"]
 weight: 209
 page: 9
-description: "Some argue that utilitarianism is self-effacing, or recommends against its own acceptance, due to the risk that mistaken appeals to the 'greater good' may actually result in horrifically harmful actions being done. This article explores how best to guard against such risks, and questions whether it is an objection to a theory if it turns out to be self-effacing in this way."
+description: "Alguns argumentam que o utilitarismo é auto-obliterante, ou que ele recomenda contra a sua própria aceitação, devido ao risco de que apelos equivocados ao “bem maior” possam realmente resultar na comissão de ações horrivelmente nocivas. Este artigo explora como melhor nos proteger de tais riscos e questiona sobre se é uma objeção a uma teoria se ela acaba sendo auto-obliterante dessa forma."
 gradientTop: "#6F4BC9"
 gradientBottom: "#57579d"
 ---

@@ -6,7 +6,7 @@ date: 2023-01-29
 draft: false
 menu: "main"
 weight: 106
-description: "Utilitarianism has important implications for how we should think about leading an ethical life. Despite giving no intrinsic weight to deontic constraints, it supports many commonsense prohibitions and virtues in practice. Its main practical difference instead lies in its emphasis on positively doing good, in more expansive and efficient ways than people typically prioritize."
+description: "O utilitarismo tem importantes implicações para como devemos pensar sobre levar uma vida ética. Apesar de não atribuir peso intrínseco a restrições deônticas, ele apoia muitas proibições e virtudes do senso comum na prática. Sua principal diferença prática antes se encontra na sua ênfase em afirmativamente fazer o bem, de maneiras mais expansivas e eficientes do que as pessoas tipicamente priorizam."
 gradientTop: "#089FD1"
 gradientBottom: "#305D9C"
 ---

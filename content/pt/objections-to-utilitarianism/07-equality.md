@@ -8,7 +8,7 @@ draft: false
 menu: ["objections"]
 weight: 207
 page: 7
-description: "Utilitarianism is concerned with the overall well-being of individuals in the population, but many object that justice requires an additional concern for how this well-being is distributed across individuals. This article examines this objection, and how utilitarians might best respond."
+description: "O utilitarismo se preocupa com o bem-estar geral dos indivíduos da população, mas muitos objetam que a justiça requer uma preocupação adicional com o modo como esse bem-estar é distribuído entre indivíduos. Este artigo examina esta objeção e como os utilitaristas poderiam responder da melhor forma."
 gradientTop: "#531694"
 gradientBottom: "#260380"
 ---

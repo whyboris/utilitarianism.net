@@ -6,7 +6,7 @@ date: 2023-01-29
 draft: false
 menu: "main"
 weight: 102
-description: "After defining utilitarianism, this chapter offers a detailed analysis of its four key elements (consequentialism, welfarism, impartiality, and aggregationism). It explains the difference between maximizing, satisficing, and scalar utilitarianism, and other important distinctions between utilitarian theories."
+description: "Após definir o utilitarismo, este capítulo oferece uma análise detalhada dos seus quatro elementos-chave (consequencialismo, bem-estarismo, imparcialidade e agregacionismo). Explica a diferença entre o utilitarismo maximizador, satisfaciente e escalar, além de outras importantes distinções entre teorias utilitaristas."
 gradientTop: "#236d9f"
 gradientBottom: "#012147"
 ---

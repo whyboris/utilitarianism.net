@@ -8,7 +8,7 @@ draft: false
 menu: ["objections"]
 weight: 206
 page: 6
-description: "Relationships like parenthood or guardianship seemingly give rise to special obligations to protect those who fall under our care (where these obligations are more stringent than our general duties of beneficence towards strangers). This article explores the extent to which impartial utilitarianism can accommodate intuitions and normative practices of partiality."
+description: "Relacionamentos como a maternidade, a paternidade e a tutela aparentemente dão à luz obrigações especiais de protegermos aqueles que estão em nosso cuidado (sendo essas obrigações mais restritivas do que nossos deveres gerais de beneficência para com estranhos). Este artigo explora quanto o utilitarismo imparcial pode acomodar intuições e práticas normativas de parcialidade."
 gradientTop: "#822FA8"
 gradientBottom: "#531694"
 ---

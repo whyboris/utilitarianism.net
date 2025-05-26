@@ -8,7 +8,7 @@ draft: false
 menu: ["objections"]
 weight: 205
 page: 5
-description: "Abstract moral theories threaten to alienate us from much that we hold dear. This article explores two possible defenses of utilitarianism against this charge. One recommends adopting motivations other than explicitly utilitarian ones. The second argues that suitably concrete concerns can be subsumed within broader utilitarian motivations."
+description: "Teorias morais abstratas ameaçam nos alienar de grande parte do que prezamos. Este artigo explora duas possíveis defesas do utilitarismo contra essa acusação. Uma recomenda adotarmos motivações que não as explicitamente utilitárias. A segunda argumenta que preocupações adequadamente concretas podem ser subsumidas dentro de motivações utilitaristas mais amplas."
 gradientTop: "#5F3091"
 gradientBottom: "#822FA8"
 ---

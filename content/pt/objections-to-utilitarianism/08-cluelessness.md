@@ -8,7 +8,7 @@ draft: false
 menu: ["objections"]
 weight: 208
 page: 8
-description: "Is utilitarianism undermined by our inability to predict the long-term consequences of our actions? This article explores whether utilitarians can still be guided by near-term expected value even when this is small in comparison to the potential value or disvalue of the unknown long-term consequences."
+description: "O utilitarismo é comprometido por nossa incapacidade de prever as consequências das nossas ações no longo prazo? Este artigo investiga se os utilitaristas ainda podem ser guiados pelo valor esperado de médio prazo quando ele for pequeno em comparação com o valor ou o desvalor potencial das consequências desconhecidas no longo prazo."
 gradientTop: "#260380"
 gradientBottom: "#6F4BC9"
 ---

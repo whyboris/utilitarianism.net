@@ -8,7 +8,7 @@ draft: false
 menu: ["objections"]
 weight: 202
 page: 2
-description: "Critics often allege that utilitarianism objectionably instrumentalizes people—treating us as mere means to the greater good, rather than properly valuing individuals as ends in themselves. In this article, we assess whether this is a fair objection."
+description: "Os críticos alegam com frequência que o utilitarismo questionavelmente instrumentaliza as pessoas — tratando-nos como meros meios para o bem maior, em vez de valorizar indivíduos como fins em si mesmos. Neste artigo, avaliamos se esta é uma objeção justa."
 gradientTop: "#371E87"
 gradientBottom: "#571B9E"
 ---

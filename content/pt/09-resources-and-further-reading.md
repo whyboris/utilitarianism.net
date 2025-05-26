@@ -4,7 +4,7 @@ slug: "resources-and-further-reading"
 date: 2023-01-29
 draft: false
 menu: "main"
-description: "Resources and further reading about utilitarianism."
+description: "Recursos e leituras adicionais sobre o utilitarismo."
 gradientTop: "#57579d"
 gradientBottom: "#012147"
 weight: 600

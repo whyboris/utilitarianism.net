@@ -6,7 +6,7 @@ date: 2023-01-29
 draft: false
 menu: "main"
 weight: 105
-description: "Population ethics tackles questions like how we should weigh new lives against existing lives, and how we should balance quantity and quality of life (when comparing different-sized populations). This chapter critically surveys five major approaches to population ethics: the total view, the average view, variable value theories, critical level (and critical range) theories, and person-affecting views."
+description: "A ética populacional lida com como devemos pesar novas vidas em comparação com vidas existentes e como devemos conciliar a quantidade com a qualidade de vida (ao compararmos populações de diferentes tamanhos). Este capítulo examina criticamente cinco abordagens principais à ética populacional: a visão total, a visão média, teorias do valor variável, teorias do nível crítico (e da gama crítica) e visões baseadas em pessoas afetadas."
 gradientTop: "#1B7CCC"
 gradientBottom: "#089FD1"
 ---

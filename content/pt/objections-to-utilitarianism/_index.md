@@ -5,7 +5,7 @@ draft: false
 menu: ["objections", "main"]
 weight: 300
 page: 0
-description: "This chapter presents a toolkit of general strategies for responding to objections to utilitarianism, before introducing the most influential specific objections to the theory."
+description: "Este artigo explica quatro estratégias gerais para respondermos a objeções ao utilitarismo, antes de introduzir as mais influentes objeções específicas à teoria."
 gradientTop: "#1F2A70"
 gradientBottom: "#1F1E70"
 ---

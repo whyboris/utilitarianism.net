@@ -6,7 +6,7 @@ date: 2023-01-29
 draft: false
 menu: "main"
 weight: 101
-description: "This chapter introduces utilitarianism, and its major costs and benefits as a moral theory."
+description: "Este capítulo introduz o utilitarismo e os seus principais custos e benefícios enquanto teoria moral."
 gradientTop: "#0c3b5b"
 gradientBottom: "#236d9f"
 ---

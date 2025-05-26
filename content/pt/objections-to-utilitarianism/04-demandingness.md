@@ -8,7 +8,7 @@ draft: false
 menu: ["objections"]
 weight: 204
 page: 4
-description: "In directing us to choose the impartially best outcome, even at significant cost to ourselves, utilitarianism can seem an incredibly demanding theory. This page explores whether this feature of utilitarianism is objectionable, and if so, how defenders of the view might best respond."
+description: "Ao nos direcionar a escolher o imparcialmente melhor resultado, até com um considerável custo para nós mesmos, o utilitarismo pode parecer uma teoria incrivelmente exigente. Esta página explora se esta característica do utilitarismo é questionável, e se for, como os defensores da visão poderiam responder da melhor forma."
 gradientTop: "#430A4A"
 gradientBottom: "#5F3091"
 ---

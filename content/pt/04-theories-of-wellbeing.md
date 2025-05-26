@@ -6,7 +6,7 @@ date: 2023-01-29
 draft: false
 menu: "main"
 weight: 104
-description: "Explores the three major theories of well-being, or what makes a life good for the individual living it: hedonism, desire theory, and objective list theory."
+description: "Explora as três principais teorias do bem-estar, ou do que torna uma vida boa para o indivíduo que a vive: o hedonismo, a teoria do desejo e a teoria da lista objetiva."
 gradientTop: "#084BC7"
 gradientBottom: "#1B7CCC"
 ---

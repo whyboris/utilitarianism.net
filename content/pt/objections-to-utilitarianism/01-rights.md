@@ -8,7 +8,7 @@ draft: false
 menu: ["objections"]
 weight: 201
 page: 1
-description: "Many find it objectionable that utilitarianism seemingly licenses outrageous rights violations in certain hypothetical scenarios, killing innocent people for the greater good. This article explores how utilitarians might best respond."
+description: "Muitos acham questionável que o utilitarismo aparentemente autorize violações ultrajantes de direitos em certos cenários hipotéticos, matando inocentes pelo bem maior. Este artigo explora como os utilitaristas poderiam responder da melhor forma."
 gradientTop: "#1F1E70"
 gradientBottom: "#371E87"
 ---
