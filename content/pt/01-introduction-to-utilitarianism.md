@@ -28,7 +28,7 @@ Historicamente, as pessoas mantiveram crenças que agora consideramos moralmente
 
 Além disso, as pessoas têm intuições morais conflitantes, e precisamos resolver esses desacordos. O projeto da filosofia moral é refletir sobre as nossas intuições morais concorrentes e desenvolver uma teoria que nos dirá quais ações são certas ou erradas e por quê. Isso então nos permitirá identificar quais juízos morais de hoje são equivocados, possibilitando-nos fazer progresso moral e agir mais eticamente.
 
-Uma das tentativas mais proeminentes e influentes de criar tal teoria é o *utilitarismo*. O utilitarismo foi desenvolvido pelos filósofos [Jeremy Bentham](https://www.utilitarismo.net/utilitarian-thinker/jeremy-bentham) e [John Stuart Mill](https://www.utilitarismo.net/utilitarian-thinker/john-stuart-mill), que se valeram de ideias que têm origem nos gregos antigos. As suas opiniões utilitaristas têm sido amplamente discutidas desde que eles as esposaram pela primeira vez e têm tido uma influência considerável na economia e nas políticas públicas.
+Uma das tentativas mais proeminentes e influentes de criar tal teoria é o _utilitarismo_. O utilitarismo foi desenvolvido pelos filósofos [Jeremy Bentham](https://www.utilitarismo.net/utilitarian-thinker/jeremy-bentham) e [John Stuart Mill](https://www.utilitarismo.net/utilitarian-thinker/john-stuart-mill), que se valeram de ideias que têm origem nos gregos antigos. As suas opiniões utilitaristas têm sido amplamente discutidas desde que eles as esposaram pela primeira vez e têm tido uma influência considerável na economia e nas políticas públicas.
 
 ## O Histórico {#o-histórico}
 
@@ -56,8 +56,8 @@ Todas as teorias éticas na família utilitarista partilham de quatro elementos 
 
 1. **Consequencialismo:** devem-se sempre promover bons resultados.
 2. **Bem-Estarismo:** o valor de um resultado é totalmente determinado pelo bem-estar dos indivíduos nele.
-3. **Imparcialidade:** uma dada quantidade de bem-estar é igualmente valiosa, não importa *de quem* seja o bem-estar.
-4. **Agregacionismo**: o valor de um resultado é dado pela *soma* do valor das vidas que ele contém.[^12]
+3. **Imparcialidade:** uma dada quantidade de bem-estar é igualmente valiosa, não importa _de quem_ seja o bem-estar.
+4. **Agregacionismo**: o valor de um resultado é dado pela _soma_ do valor das vidas que ele contém.[^12]
 
 Os [rivais do utilitarismo](https://www.utilitarismo.net/near-utilitarian-alternatives) são teorias que negam um ou mais dos quatro elementos acima. Por exemplo, elas podem manter que ações podem ser inerentemente certas ou erradas independentemente das suas consequências, ou que coisas além do bem-estar podem contribuir para o valor de um resultado, ou que a moralidade nos permite ser parciais para com os nossos amigos e famílias, ou que devemos fazer seja lá o que mais beneficiará o membro em pior situação na sociedade.
 
@@ -65,9 +65,9 @@ Os [rivais do utilitarismo](https://www.utilitarismo.net/near-utilitarian-altern
 
 Cobrimos os quatro elementos do utilitarismo em maior profundidade, juntamente com distinções teóricas a mais, no [Capítulo 2: Elementos e Tipos de Utilitarismo](https://www.utilitarismo.net/types-of-utilitarianism).
 
-O [Capítulo 3](https://www.utilitarismo.net/arguments-for-utilitarianism/) explica o equilíbrio reflexivo enquanto metodologia e apresenta vários argumentos para o utilitarismo (e visões consequencialistas semelhantes) em detrimento de abordagens concorrentes à ética. Ele inclui uma discussão sobre o véu da ignorância, o círculo moral expansivo e o argumento de que o utilitarismo oferece uma explicação especialmente persuasiva sobre *o que importa fundamentalmente*. Este capítulo também explica o paradoxo da deontologia, argumentos de desmistificação evolutiva e outras objeções à ética não consequencialista.
+O [Capítulo 3](https://www.utilitarismo.net/arguments-for-utilitarianism/) explica o equilíbrio reflexivo enquanto metodologia e apresenta vários argumentos para o utilitarismo (e visões consequencialistas semelhantes) em detrimento de abordagens concorrentes à ética. Ele inclui uma discussão sobre o véu da ignorância, o círculo moral expansivo e o argumento de que o utilitarismo oferece uma explicação especialmente persuasiva sobre _o que importa fundamentalmente_. Este capítulo também explica o paradoxo da deontologia, argumentos de desmistificação evolutiva e outras objeções à ética não consequencialista.
 
-[Teorias do bem-estar](https://www.utilitarismo.net/theories-of-wellbeing/) e da [ética populacional](https://www.utilitarismo.net/population-ethics/) específicas são exploradas nos Capítulos 4 e 5, respectivamente. Embora o utilitarismo seja associado com frequência ao *hedonismo* quanto ao bem-estar e à *visão total* da ética populacional (uma combinação conhecida como *utilitarismo clássico*), há outras opções que também vale a pena considerar. Vale a pena ter-se em mente em especial que objeções ao hedonismo ou à visão total podem ainda deixar outras formas de utilitarismo intactas.
+[Teorias do bem-estar](https://www.utilitarismo.net/theories-of-wellbeing/) e da [ética populacional](https://www.utilitarismo.net/population-ethics/) específicas são exploradas nos Capítulos 4 e 5, respectivamente. Embora o utilitarismo seja associado com frequência ao _hedonismo_ quanto ao bem-estar e à _visão total_ da ética populacional (uma combinação conhecida como _utilitarismo clássico_), há outras opções que também vale a pena considerar. Vale a pena ter-se em mente em especial que objeções ao hedonismo ou à visão total podem ainda deixar outras formas de utilitarismo intactas.
 
 O [Capítulo 6](https://www.utilitarismo.net/utilitarianism-and-practical-ethics/) e o nosso artigo suplementar [Agindo de Acordo com o Utilitarismo](https://www.utilitarismo.net/acting-on-utilitarianism/) exploram as aplicações práticas do utilitarismo e as suas implicações para o modo como devemos viver nossas vidas. Argumentamos que, na prática, um utilitarista deve tentar fazer tanto bem quanto possível, enquanto ainda segue as virtudes morais do senso comum como a integridade, a credibilidade e o cumprimento das leis, a fim de promover a cooperação social e mitigar o risco de perdas advindos de erros de cálculo.
 
@@ -102,7 +102,7 @@ O próximo capítulo discute sobre os quatro elementos das teorias utilitaristas
 * [Utilitarianism: Crash Course Philosophy #36](https://youtu.be/-a739VjqdSI)
 * Katarzyna de Lazari-Radek & Peter Singer (2017).[ Utilitarianism: A Very Short Introduction](https://global.oup.com/academic/product/utilitarianism-a-very-short-introduction-9780198728795?cc=de&lang=en). Oxford: Oxford University Press.
 * Krister Bykvist (2010).[ Utilitarianism: A Guide for the Perplexed](https://www.bloomsbury.com/us/utilitarianism-a-guide-for-the-perplexed-9780826498090/). London: Continuum.
-* Kwame Anthony Appiah. [What is Utiiltarianism?](https://www.youtube.com/watch?v=wd_peZ-zNwo), Royal Institute of Philosophy *15-Minute Masterclass*.
+* Kwame Anthony Appiah. [What is Utiiltarianism?](https://www.youtube.com/watch?v=wd_peZ-zNwo), Royal Institute of Philosophy _15-Minute Masterclass_.
 
 ### Os Clássicos
 
@@ -112,21 +112,21 @@ O próximo capítulo discute sobre os quatro elementos das teorias utilitaristas
 
 ### Leituras Adicionais
 
-* Julia Driver (2014).[ The History of Utilitarianism](https://plato.stanford.edu/entries/utilitarianism-history/). *The Stanford Encyclopedia of Philosophy*. Edward N. Zalta (ed.).
+* Julia Driver (2014).[ The History of Utilitarianism](https://plato.stanford.edu/entries/utilitarianism-history/). _The Stanford Encyclopedia of Philosophy_. Edward N. Zalta (ed.).
 * Bart Schultz (2017).[ The Happiness Philosophers: The Lives and Works of the Great Utilitarians](https://www.jstor.org/stable/j.ctt1vwmggk). Princeton: Princeton University Press.
 * James Crimmins (2017).[ The Bloomsbury Encyclopedia of Utilitarianism](https://www.bloomsbury.com/uk/the-bloomsbury-encyclopedia-of-utilitarianism-9781350021693/). Bloomsbury.
 * Derek Parfit (2011/17).[ On What Matters](https://en.wikipedia.org/wiki/On_What_Matters). Oxford: Oxford University Press.
-* Yew-Kwang Ng (1990). [Welfarism and Utilitarianism: A Rehabilitation](https://www.cambridge.org/core/journals/utilitas/article/abs/welfarism-and-utilitarianism-a-rehabilitation/B3EB95B2102BD32D6E71614AA706E88C). *Utilitas*. 2(2): 171–193.
+* Yew-Kwang Ng (1990). [Welfarism and Utilitarianism: A Rehabilitation](https://www.cambridge.org/core/journals/utilitas/article/abs/welfarism-and-utilitarianism-a-rehabilitation/B3EB95B2102BD32D6E71614AA706E88C). _Utilitas_. 2(2): 171–193.
 
 
 [^1]:
-     *Mòzǐ* 32: 1, Tradução de C. Fraser.
+     _Mòzǐ_ 32: 1, Tradução de C. Fraser.
 
 [^2]:
-     Para mais detalhes, veja Williams, E. G. (2015).[ The Possibility of an Ongoing Moral Catastrophe](https://link.springer.com/article/10.1007/s10677-015-9567-7). *Ethical Theory and Moral Practice*, *18*(5), 971–982. doi: 10.1007/s10677-015-9567-7.
+     Para mais detalhes, veja Williams, E. G. (2015).[ The Possibility of an Ongoing Moral Catastrophe](https://link.springer.com/article/10.1007/s10677-015-9567-7). _Ethical Theory and Moral Practice_, _18_(5), 971–982. doi: 10.1007/s10677-015-9567-7.
 
 [^3]:
-     Por exemplo, Bentham comentou sobre a questão da proteção aos animais: “*A questão não é: 'Podem eles raciocinar?', tampouco: 'Podem eles falar?', mas sim: 'Podem eles sofrer?'. Por que a lei deveria recusar a sua proteção a um ser sensível que seja? Chegará o tempo em que a humanidade estenderá o seu manto sobre tudo que respira. Começamos tratando da condição dos escravos; terminaremos abrandando a de todos os animais que assistem os nossos trabalhos e suprem as nossas necessidades."*
+     Por exemplo, Bentham comentou sobre a questão da proteção aos animais: “_A questão não é: 'Podem eles raciocinar?', tampouco: 'Podem eles falar?', mas sim: 'Podem eles sofrer?'. Por que a lei deveria recusar a sua proteção a um ser sensível que seja? Chegará o tempo em que a humanidade estenderá o seu manto sobre tudo que respira. Começamos tratando da condição dos escravos; terminaremos abrandando a de todos os animais que assistem os nossos trabalhos e suprem as nossas necessidades."_
     Bentham, J. (1789). [An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf). Bennett, J. (ed.)., pp. 143-144.
 
 [^4]:
@@ -136,7 +136,7 @@ O próximo capítulo discute sobre os quatro elementos das teorias utilitaristas
      The UK Parliament,[ The 1866 Women's Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
 
 [^6]:
-     Mill atribui muitas das ideias em *A Sujeição das Mulheres* à sua esposa, Harriet Taylor Mill. Veja Mill, J. S. (1873).[Autobiography](http://www.earlymoderntexts.com/assets/pdfs/mill1873e.pdf). Bennet, J. (ed.)., p. 166.
+     Mill atribui muitas das ideias em _A Sujeição das Mulheres_ à sua esposa, Harriet Taylor Mill. Veja Mill, J. S. (1873).[Autobiography](http://www.earlymoderntexts.com/assets/pdfs/mill1873e.pdf). Bennet, J. (ed.)., p. 166.
 
 [^7]:
      Mill, J. S. (1869).[The Subjection of Women](https://www.earlymoderntexts.com/assets/pdfs/mill1869.pdf). Bennet, J. (ed.)., p. 1.
