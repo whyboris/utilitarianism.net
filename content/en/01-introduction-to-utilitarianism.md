@@ -123,12 +123,16 @@ The next chapter discusses the four elements of utilitarian theories in greater 
      For more details, see Williams, E. G. (2015). [The Possibility of an Ongoing Moral Catastrophe](https://link.springer.com/article/10.1007/s10677-015-9567-7). _Ethical Theory and Moral Practice_, _18_(5), 971–982.
 
 [^3]:
-     For instance, Bentham commented on the issue of animal protection: “the question is not, Can they reason? nor, Can they talk? but, Can they suffer? Why should the law refuse its protection to any sensitive being? The time will come when humanity will extend its mantle over everything which breathes. We have begun by attending to the condition of slaves; we shall finish by softening that of all the animals which assist our labors or supply our wants.”
+     For instance, Bentham commented on the issue of animal protection: “the question is not, Can they reason? nor, Can they talk? but, Can they suffer?”
 
-     Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.), pp. 143–144.
+     Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.), p. 144.
+
+     Also: "Why should the law refuse its protection to any sensitive being? The time will come when humanity will extend its mantle over everything which breathes. We have begun by attending to the condition of slaves; we shall finish by softening that of all the animals which assist our labors or supply our wants."
+
+     Bentham, J. _[Principles of Penal Law](https://oll.libertyfund.org/titles/bowring-the-works-of-jeremy-bentham-vol-1#lf0872-01_label_2993)_, chapter XVI.
 
 [^4]:
-     Cf. Bentham, J. (1789). _[An Introduction to the Principles of Morals and Legislation](https://www.earlymoderntexts.com/assets/pdfs/bentham1780.pdf)_. Bennett, J. (ed.); and Campos Boralevi, L. (2012). [_Bentham and the Oppressed_](https://books.google.com/books?id=BccgAAAAQBAJ&pg=PA37). Berlin: De Gruyter.
+     Cf. Campos Boralevi, L. (2012). [_Bentham and the Oppressed_](https://books.google.com/books?id=BccgAAAAQBAJ&pg=PA37). Berlin: De Gruyter.
 
 [^5]:
      The UK Parliament, [The 1866 Women’s Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
