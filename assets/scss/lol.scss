@@ -77,3 +77,22 @@ ul {
 .no-wrap {
   white-space: nowrap;
 }
+
+// Chinese translation
+
+.chinese-box {
+  background: $glossary-white-blue;
+  border: 1px solid $glossary-blue;
+  padding: 20px 40px;
+  margin: 30px;
+  border-radius: 10px;
+
+  .chinese-chars {
+    font-size: 50px;
+    display: block;
+    margin: 20px 0 40px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    }
+}
