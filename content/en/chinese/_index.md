@@ -14,6 +14,8 @@ hidepdf: true
 
 ## And We Need Your Contribution!
 
+{{< chinese-translation-callout >}}
+
 _An open initiative arising from a panel at ISUS 18, University of Macau, July 2026_
 
 In Chinese, utilitarianism is standardly translated as {{< chinese >}}, a term which also means vices or attitudes such as “short-sightedness”, “egoism”/”self-interested”, material seeking/metric seeking/money seeking, in ordinary and daily conversational Chinese. The authors of this article thought this was rather unfortunate and had negative consequences, and have discussed the issue of this translation for more than two years.
