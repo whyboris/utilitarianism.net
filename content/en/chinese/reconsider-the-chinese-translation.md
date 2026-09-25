@@ -54,11 +54,7 @@ To wrap up, while we agree with the importance of case-by-case or context-by-con
 
 The second reason for us to reconsider the current Chinese translation is that 功利主义 is never the only option we have. For example, in other Chinese regions (such as Hong Kong and Taiwan), utilitarianism is already translated in more neutral terms—效益主义 or 效用主义—to avoid the sense of pejorative. Indeed, various scholars in Mainland China had attempted to change 功利主义 to something else. Here is a list of such attempts (主义is not included in the list because they all have it, we are only listing the prefix):
 
----
-
-!!!!!!!!!!!!! TABLE MISSING !!!!!!!!!!!!!!!
-
----
+{{< chinese-table >}}
 
 (For an analysis on the pros and cons for each alternative, please see this article [URL] by Yang Tianjiang. Yang also argues that "utilitarianism" should be translated as 效益论 (literally "effectiveness" + “benefit” + “theory”), instead of using –ism.)
 

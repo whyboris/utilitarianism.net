@@ -96,3 +96,17 @@ ul {
     margin-right: auto;
     }
 }
+
+// TODO: clean up the below styling, only used for `chinese-table.html`
+
+table.alts{border-collapse:collapse;width:100%;font-size:.97rem}
+table.alts th,table.alts td{border:1px solid #dde5eb;padding:.7rem .85rem;text-align:left;vertical-align:top;line-height:1.6}
+table.alts th{background:#f4f8fb;color:#0b3b5b;font-weight:400;font-size:.95rem}
+table.alts .t{font-family:var(--han);font-size:1.2rem;color:#0b3b5b;font-weight:400;display:block;white-space:nowrap}
+table.alts .rom{font-style:italic;color:var(--ink-soft);font-size:.8rem}
+table.alts td:first-child{white-space:nowrap;width:1%}
+table.alts td:nth-child(2){width:24%}
+.cellnotes{margin:0;padding-left:1.1rem}
+.cellnotes li{margin-bottom:.35rem}
+.cellnotes li:last-child{margin-bottom:0}
+.cellnotes ul{padding-left:1.1rem;margin:.3rem 0 0}
