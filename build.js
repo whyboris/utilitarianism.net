@@ -16,7 +16,7 @@ if (!flag) {
   console.log("This is a script to assist with the building of the website");
   console.log("Please use `just` to build");
 } else if (flag == "zip") {
-  zipFullWebsite();
+  await zipFullWebsite();
 } else if (flag === "pdfreset") {
   disablePDFSCSS();
   closeAllGlossary();
