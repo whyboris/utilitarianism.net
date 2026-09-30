@@ -1,4 +1,6 @@
-var fs = require("fs");
+import fs from 'node:fs';
+
+import { bestZip } from 'bestzip';
 
 const flag = process.argv[2];
 
@@ -14,7 +16,7 @@ if (!flag) {
   console.log("This is a script to assist with the building of the website");
   console.log("Please use `just` to build");
 } else if (flag == "zip") {
-  zipFullWebsite();
+  await zipFullWebsite();
 } else if (flag === "pdfreset") {
   disablePDFSCSS();
   closeAllGlossary();
@@ -104,12 +106,10 @@ function writeTomlString(tomlString) {
   fs.writeFileSync("./config.toml", tomlString, "utf-8");
 }
 
-function zipFullWebsite() {
-  const zip = require("bestzip");
-
+async function zipFullWebsite() {
   const dateToday = new Date().toISOString().slice(0, 10);
 
-  zip({
+  await bestZip({
     cwd: "public",
     source: "*",
     destination: "../dist/" + dateToday + ".zip",
