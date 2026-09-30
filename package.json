@@ -35,7 +35,7 @@
     "prettier": "3.5.3",
     "prettier-plugin-go-template": "0.0.15",
     "serve": "14.2.4",
-    "website2pdf": "0.0.17"
+    "website2pdf": "0.0.18"
   },
   "allowScripts": {
     "puppeteer@25.12.0": true
