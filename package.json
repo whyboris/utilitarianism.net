@@ -8,6 +8,7 @@
     "hugo"
   ],
   "author": "Boris Yakubchik",
+  "type": "module",
   "scripts": {
     "start": "hugo serve",
     "build": "just build",
