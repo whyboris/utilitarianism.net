@@ -4,11 +4,11 @@ book: "Why We⁠—Including English Speakers⁠—Should Reconsider the Chinese
 slug: "reconsider-the-chinese-translation"
 date: 2026-09-24
 draft: false
-author: "Tse Yip Fai, Zhai Xiaobo"
-authors: "Tse Yip Fai, Zhai Xiaobo"
+author: "Loi Man Ho, Tse Yip Fai"
+authors: "Loi Man Ho, Tse Yip Fai"
 layout: book
-weight: 300
-description: "--- FILL THIS OUT ---"
+weight: 310
+description: "Why the translation is worth arguing about: what 功利 means in ordinary Chinese, how the two senses run together in academic writing, why English speakers should care, and replies to the objections we hear most."
 hidepdf: true
 ---
 
@@ -88,7 +88,8 @@ First, there are enormous number of materials, academic ones and non-academic, u
 
 ---
 
-!!!!!!!! AI BOX MISSING !!!!!!
+## ai-box-1 (coming soon)
+<!-- Content in ai-boxes-content.md, box 1. -->
 
 ---
 
@@ -96,7 +97,8 @@ Worse still, there is another type of Chinese articles that would create even mo
 
 ---
 
-!!!!!!!! AI BOX 2 MISSING !!!!!!
+## ai-box-2 (coming soon)
+<!-- Content in ai-boxes-content.md, box 2. -->
 
 ---
 
