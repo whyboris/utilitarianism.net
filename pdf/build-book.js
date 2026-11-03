@@ -4,8 +4,9 @@ var path = require("path");
 
 console.log("About to Generate Book PDFs inside the /pdf folder");
 
-const public_pdf =
-  __dirname + path.sep + ".." + path.sep + "public" + path.sep + "pdf" + path.sep;
+const currentDir = import.meta.dirname;
+
+const public_pdf = currentDir + path.sep + ".." + path.sep + "public" + path.sep + "pdf" + path.sep;
 
 var merger = new PDFMerger();
 

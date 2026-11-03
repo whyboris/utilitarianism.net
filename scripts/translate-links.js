@@ -118,9 +118,9 @@ let finalMap = new Map(finalPairs)
 
 // console.log(finalMap)
 
-var fs = require("fs");
+import fs from 'node:fs';
 
-const { fdir } = require("fdir");
+import { fdir } from "fdir";
 
 const markdownLinkExtractor = require('markdown-link-extractor');
 

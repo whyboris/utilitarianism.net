@@ -1,6 +1,8 @@
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
+[security]
+  allowContent = ['.*']
 [markup]
   [markup.tableOfContents]
     ordered = true
@@ -12,7 +14,7 @@ enableRobotsTXT = true
 [languages]
   [languages.en]
     contentDir = 'content/en'
-    languageCode = "en-US"
+    locale = "en-US"
     title = "Utilitarianism.net"
     baseURL = "https://utilitarianism.net/"
     weight = 1
@@ -23,7 +25,7 @@ enableRobotsTXT = true
         ID = 'G-91NYS1B7E1'
   [languages.es]
     contentDir = 'content/es'
-    languageCode = "es-ES"
+    locale = "es-ES"
     title = "Utilitarismo.net"
     baseURL = "https://utilitarismo.net/"
     weight = 2
@@ -35,7 +37,7 @@ enableRobotsTXT = true
         ID = 'G-7TNPPTSZQV'
   [languages.de]
     contentDir = 'content/de'
-    languageCode = "de-DE"
+    locale = "de-DE"
     title = "Utilitarismus.net"
     baseURL = "https://utilitarismus.net/"
     weight = 3
@@ -46,7 +48,7 @@ enableRobotsTXT = true
         ID = 'G-590G02FLYR'
   [languages.pt]
     contentDir = 'content/pt'
-    languageCode = "pt-PT"
+    locale = "pt-PT"
     title = "Utilitarisme.net"
     baseURL = "https://utilitarisme.net/"
     weight = 4

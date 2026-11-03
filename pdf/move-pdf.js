@@ -1,7 +1,7 @@
-var fs = require("fs");
-var path = require("path");
+import fs from 'node:fs';
+import path from 'node:path';
 
-const { fdir } = require("fdir");
+import { fdir } from "fdir";
 
 console.log("About to move all PDFs into /pdf folder");
 
@@ -11,8 +11,9 @@ const api = new fdir().withFullPaths().crawl("temp");
 // get all files in a directory synchronously
 const files = api.sync();
 
-const public_pdf =
-  __dirname + path.sep + ".." + path.sep + "public" + path.sep + "pdf";
+const currentDir = import.meta.dirname;
+
+const public_pdf = currentDir + path.sep + ".." + path.sep + "public" + path.sep + "pdf";
 
 if (!fs.existsSync(public_pdf)) {
   fs.mkdirSync(public_pdf);
